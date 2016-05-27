@@ -1,0 +1,71 @@
+{
+  "id": 874079069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.72707,44.469816,-72.72707,44.469816",
+    "geom:latitude":44.469816,
+    "geom:longitude":-72.72707,
+    "iso:country":"US",
+    "sg:address":"189 Barrows Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 6150",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58xTrBvIf8IhrxGCHwTO6n_44.469816_-72.727070@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311543,
+    "wof:geomhash":"3de2b7b95331934cb638e4204e0792fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874079069
+        }
+    ],
+    "wof:id":874079069,
+    "wof:lastmodified":1464311543,
+    "wof:name":"Bill's Auto Repair",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.72707,
+    44.469816,
+    -72.72707,
+    44.469816
+],
+  "geometry": {"coordinates":[-72.72707,44.469816],"type":"Point"}
+}

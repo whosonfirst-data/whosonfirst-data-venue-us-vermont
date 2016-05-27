@@ -1,0 +1,75 @@
+{
+  "id": 874018801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.145643,44.464198,-73.145643,44.464198",
+    "geom:latitude":44.464198,
+    "geom:longitude":-73.145643,
+    "iso:country":"US",
+    "sg:address":"15 Eagle Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 2208",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "testing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NU6NPM8OlsxB9hMCuW4X4_44.464198_-73.145643@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310935,
+    "wof:geomhash":"94168028d19f2957a9d39321728b743b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874018801
+        }
+    ],
+    "wof:id":874018801,
+    "wof:lastmodified":1464310935,
+    "wof:name":"Pratt & Whitney",
+    "wof:parent_id":85828531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "testing"
+    ]
+},
+  "bbox": [
+    -73.145643,
+    44.464198,
+    -73.145643,
+    44.464198
+],
+  "geometry": {"coordinates":[-73.14564300000001,44.464198],"type":"Point"}
+}

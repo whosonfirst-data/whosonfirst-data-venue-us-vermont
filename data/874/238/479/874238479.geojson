@@ -1,0 +1,73 @@
+{
+  "id": 874238479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.631812,44.003379,-72.631812,44.003379",
+    "geom:latitude":44.003379,
+    "geom:longitude":-72.631812,
+    "iso:country":"US",
+    "sg:address":"3302 West St",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 728 3111",
+    "sg:postcode":"05036",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85841465,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LHVa22ZPiycBzu7yxpRl5_44.003379_-72.631812@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313311,
+    "wof:geomhash":"fe7a1f466e3552b3809b0eba1e91424b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85841465,
+            "region_id":85688763,
+            "venue_id":874238479
+        }
+    ],
+    "wof:id":874238479,
+    "wof:lastmodified":1464313311,
+    "wof:name":"Royal Larocque",
+    "wof:parent_id":85841465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -72.631812,
+    44.003379,
+    -72.631812,
+    44.003379
+],
+  "geometry": {"coordinates":[-72.631812,44.003379],"type":"Point"}
+}

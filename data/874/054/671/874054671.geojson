@@ -1,0 +1,66 @@
+{
+  "id": 874054671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.5088,44.203298,-72.5088,44.203298",
+    "geom:latitude":44.203298,
+    "geom:longitude":-72.5088,
+    "iso:country":"US",
+    "sg:address":"406 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3764",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TLcE6Xm16VlvIugghV7gq_44.203298_-72.508800@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311289,
+    "wof:geomhash":"5547f01d5c26ad26ebd32872f2133846",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874054671
+        }
+    ],
+    "wof:id":874054671,
+    "wof:lastmodified":1464311289,
+    "wof:name":"Dente's Market",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.5088,
+    44.203298,
+    -72.5088,
+    44.203298
+],
+  "geometry": {"coordinates":[-72.50879999999999,44.203298],"type":"Point"}
+}

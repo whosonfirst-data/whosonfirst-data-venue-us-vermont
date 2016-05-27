@@ -1,0 +1,71 @@
+{
+  "id": 874127969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.914802,44.544748,-72.914802,44.544748",
+    "geom:latitude":44.544748,
+    "geom:longitude":-72.914802,
+    "iso:country":"US",
+    "sg:address":"61 McClellan Farm Rd",
+    "sg:city":"Underhill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 1142",
+    "sg:postcode":"05489",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85851047,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M5y6DwIXBjHFSRxaK0MJu_44.544748_-72.914802@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312111,
+    "wof:geomhash":"a1ad4732f68d55f48e7989fec88ca48b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85851047,
+            "region_id":85688763,
+            "venue_id":874127969
+        }
+    ],
+    "wof:id":874127969,
+    "wof:lastmodified":1464312111,
+    "wof:name":"Kirby Electric",
+    "wof:parent_id":85851047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.914802,
+    44.544748,
+    -72.914802,
+    44.544748
+],
+  "geometry": {"coordinates":[-72.91480199999999,44.544748],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873991409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.165149,44.013132,-73.165149,44.013132",
+    "geom:latitude":44.013132,
+    "geom:longitude":-73.165149,
+    "iso:country":"US",
+    "sg:address":"13 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4925",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0elTuEktVBlZgSjIl81xea_44.013132_-73.165149@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310700,
+    "wof:geomhash":"c93bbaaaf7d9bf3ad8429613f9c62f3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":873991409
+        }
+    ],
+    "wof:id":873991409,
+    "wof:lastmodified":1464310700,
+    "wof:name":"Brown's Auto Parts",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -73.165149,
+    44.013132,
+    -73.165149,
+    44.013132
+],
+  "geometry": {"coordinates":[-73.165149,44.013132],"type":"Point"}
+}

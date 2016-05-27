@@ -1,0 +1,73 @@
+{
+  "id": 874087957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.545115,44.242606,-72.545115,44.242606",
+    "geom:latitude":44.242606,
+    "geom:longitude":-72.545115,
+    "iso:country":"US",
+    "sg:address":"408 E Montpelier Rd",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 7045",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64wSs1BsSELPcUS7VVSonH_44.242606_-72.545115@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311641,
+    "wof:geomhash":"c62baecd9c7d268983ae1f02f4bff978",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874087957
+        }
+    ],
+    "wof:id":874087957,
+    "wof:lastmodified":1464311641,
+    "wof:name":"Casella Waste Management Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -72.545115,
+    44.242606,
+    -72.545115,
+    44.242606
+],
+  "geometry": {"coordinates":[-72.545115,44.242606],"type":"Point"}
+}

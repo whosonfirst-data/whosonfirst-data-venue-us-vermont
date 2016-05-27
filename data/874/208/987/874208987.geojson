@@ -1,0 +1,71 @@
+{
+  "id": 874208987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.031253,44.502835,-73.031253,44.502835",
+    "geom:latitude":44.502835,
+    "geom:longitude":-73.031253,
+    "iso:country":"US",
+    "sg:address":"118 Jericho Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 1688",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bctkbsIpUr9kpDTrPh1mY_44.502835_-73.031253@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312939,
+    "wof:geomhash":"5d0f49e1c57d7bc48f1a8edee46b259e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874208987
+        }
+    ],
+    "wof:id":874208987,
+    "wof:lastmodified":1464312939,
+    "wof:name":"Wilfred King Paving",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.031253,
+    44.502835,
+    -73.031253,
+    44.502835
+],
+  "geometry": {"coordinates":[-73.03125300000001,44.502835],"type":"Point"}
+}

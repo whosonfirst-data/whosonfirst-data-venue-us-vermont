@@ -1,0 +1,71 @@
+{
+  "id": 874046191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971666,43.604936,-72.971666,43.604936",
+    "geom:latitude":43.604936,
+    "geom:longitude":-72.971666,
+    "iso:country":"US",
+    "sg:address":"263 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 5551",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7em2cdjlBdZxdUN18Sn9Dd_43.604936_-72.971666@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311208,
+    "wof:geomhash":"c2a66af0b8d91336e8c5ac7f9ce90e1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874046191
+        }
+    ],
+    "wof:id":874046191,
+    "wof:lastmodified":1464311208,
+    "wof:name":"Smith Buick Pontiac GMC",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.971666,
+    43.604936,
+    -72.971666,
+    43.604936
+],
+  "geometry": {"coordinates":[-72.971666,43.604936],"type":"Point"}
+}

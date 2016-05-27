@@ -1,0 +1,69 @@
+{
+  "id": 874220393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971653,43.604832,-72.971653,43.604832",
+    "geom:latitude":43.604832,
+    "geom:longitude":-72.971653,
+    "iso:country":"US",
+    "sg:address":"270 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 6913",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lnMWFrPZEDz4xYTzxoeLC_43.604832_-72.971653@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313068,
+    "wof:geomhash":"5788a477686b260b0bba071a6409c7e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874220393
+        }
+    ],
+    "wof:id":874220393,
+    "wof:lastmodified":1464313068,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -72.971653,
+    43.604832,
+    -72.971653,
+    43.604832
+],
+  "geometry": {"coordinates":[-72.971653,43.604832],"type":"Point"}
+}

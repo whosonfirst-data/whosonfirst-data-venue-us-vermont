@@ -1,0 +1,79 @@
+{
+  "id": 874232341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.487444,43.296656,-72.487444,43.296656",
+    "geom:latitude":43.296656,
+    "geom:longitude":-72.487444,
+    "iso:country":"US",
+    "sg:address":"26 Union St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 7297",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822381,
+        102191575,
+        404527377,
+        85633793,
+        101728481,
+        102080777,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tYFkcwMWn0JW8rY1xkywA_43.296656_-72.487444@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313191,
+    "wof:geomhash":"702f625471af603e185de54333f8efe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080777,
+            "localadmin_id":404527377,
+            "locality_id":101728481,
+            "neighbourhood_id":85822381,
+            "region_id":85688763,
+            "venue_id":874232341
+        }
+    ],
+    "wof:id":874232341,
+    "wof:lastmodified":1464313191,
+    "wof:name":"Pampered Pooch",
+    "wof:parent_id":85822381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -72.487444,
+    43.296656,
+    -72.487444,
+    43.296656
+],
+  "geometry": {"coordinates":[-72.487444,43.296656],"type":"Point"}
+}

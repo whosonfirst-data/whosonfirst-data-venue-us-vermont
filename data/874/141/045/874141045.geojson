@@ -1,0 +1,71 @@
+{
+  "id": 874141045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212562,44.478111,-73.212562,44.478111",
+    "geom:latitude":44.478111,
+    "geom:longitude":-73.212562,
+    "iso:country":"US",
+    "sg:address":"113 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 4905",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "magician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dsFl7LMgwdUr1kgk4AOZZ_44.478111_-73.212562@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312244,
+    "wof:geomhash":"43dfcf73232b8e9666b9706626867beb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874141045
+        }
+    ],
+    "wof:id":874141045,
+    "wof:lastmodified":1464312244,
+    "wof:name":"Entertainment Solutions",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "magician"
+    ]
+},
+  "bbox": [
+    -73.212562,
+    44.478111,
+    -73.212562,
+    44.478111
+],
+  "geometry": {"coordinates":[-73.21256200000001,44.478111],"type":"Point"}
+}

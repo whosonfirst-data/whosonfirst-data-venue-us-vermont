@@ -1,0 +1,71 @@
+{
+  "id": 873992301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.985318,43.607127,-72.985318,43.607127",
+    "geom:latitude":43.607127,
+    "geom:longitude":-72.985318,
+    "iso:country":"US",
+    "sg:address":"228 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2081",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54qd1LolKN4pCFZRd1jCYF_43.607127_-72.985318@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310707,
+    "wof:geomhash":"24142b64da98ca10d8cc88ee7f9874d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":873992301
+        }
+    ],
+    "wof:id":873992301,
+    "wof:lastmodified":1464310707,
+    "wof:name":"Moon Lighting",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.985318,
+    43.607127,
+    -72.985318,
+    43.607127
+],
+  "geometry": {"coordinates":[-72.98531800000001,43.607127],"type":"Point"}
+}

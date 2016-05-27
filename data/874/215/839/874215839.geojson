@@ -1,0 +1,71 @@
+{
+  "id": 874215839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210657,44.435582,-73.210657,44.435582",
+    "geom:latitude":44.435582,
+    "geom:longitude":-73.210657,
+    "iso:country":"US",
+    "sg:address":"1350 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 8287",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "publisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z98aaC8s8XvKinJ9fuF8C_44.435582_-73.210657@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313012,
+    "wof:geomhash":"b3e1840d682b6fd0483be063fb20aa79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874215839
+        }
+    ],
+    "wof:id":874215839,
+    "wof:lastmodified":1464313012,
+    "wof:name":"Ski Magazine",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher"
+    ]
+},
+  "bbox": [
+    -73.210657,
+    44.435582,
+    -73.210657,
+    44.435582
+],
+  "geometry": {"coordinates":[-73.210657,44.435582],"type":"Point"}
+}

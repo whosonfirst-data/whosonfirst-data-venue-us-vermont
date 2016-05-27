@@ -1,0 +1,71 @@
+{
+  "id": 874003583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212909,44.465967,-73.212909,44.465967",
+    "geom:latitude":44.465967,
+    "geom:longitude":-73.212909,
+    "iso:country":"US",
+    "sg:address":"124 Hayward St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 9868",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FIdMJdqLsEXP5aQbHCF6r_44.465967_-73.212909@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310799,
+    "wof:geomhash":"2cfbf9a612a17ac5eb1196947d57f2e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874003583
+        }
+    ],
+    "wof:id":874003583,
+    "wof:lastmodified":1464310799,
+    "wof:name":"Dog Pound Press",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publishing"
+    ]
+},
+  "bbox": [
+    -73.212909,
+    44.465967,
+    -73.212909,
+    44.465967
+],
+  "geometry": {"coordinates":[-73.212909,44.465967],"type":"Point"}
+}

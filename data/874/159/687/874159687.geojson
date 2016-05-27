@@ -1,0 +1,71 @@
+{
+  "id": 874159687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.988811,43.6133,-72.988811,43.6133",
+    "geom:latitude":43.6133,
+    "geom:longitude":-72.988811,
+    "iso:country":"US",
+    "sg:address":"96 Cleveland Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 6659",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fleet",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pn1O9s8FWKF0YyejmN5ZZ_43.613300_-72.988811@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312428,
+    "wof:geomhash":"76aab2d95085a8c47579db794c6c16da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874159687
+        }
+    ],
+    "wof:id":874159687,
+    "wof:lastmodified":1464312428,
+    "wof:name":"Central Vermont Truck Repair",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fleet",
+        "truck"
+    ]
+},
+  "bbox": [
+    -72.988811,
+    43.6133,
+    -72.988811,
+    43.6133
+],
+  "geometry": {"coordinates":[-72.988811,43.6133],"type":"Point"}
+}

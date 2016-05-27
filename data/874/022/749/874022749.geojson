@@ -1,0 +1,73 @@
+{
+  "id": 874022749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.584588,44.557562,-72.584588,44.557562",
+    "geom:latitude":44.557562,
+    "geom:longitude":-72.584588,
+    "iso:country":"US",
+    "sg:address":"813 Elmore Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5092",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gT3yatiplCuQvp0dbQU2O_44.557562_-72.584588@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310971,
+    "wof:geomhash":"fd0ba03417dc21bf68cb8678592f6692",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874022749
+        }
+    ],
+    "wof:id":874022749,
+    "wof:lastmodified":1464310971,
+    "wof:name":"Richard's Limousine Svc LTD",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.584588,
+    44.557562,
+    -72.584588,
+    44.557562
+],
+  "geometry": {"coordinates":[-72.584588,44.557562],"type":"Point"}
+}

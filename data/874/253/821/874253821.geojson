@@ -1,0 +1,78 @@
+{
+  "id": 874253821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.191167,44.276171,-73.191167,44.276171",
+    "geom:latitude":44.276171,
+    "geom:longitude":-73.191167,
+    "iso:country":"US",
+    "sg:address":"6373 Spear St",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 2956",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85811695,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mBhHDkfiI3IPTiWu1QKdx_44.276171_-73.191167@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313642,
+    "wof:geomhash":"a6e0c1e356ec723f17dd36c02f89bc95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85811695,
+            "region_id":85688763,
+            "venue_id":874253821
+        }
+    ],
+    "wof:id":874253821,
+    "wof:lastmodified":1464313642,
+    "wof:name":"Early Preservations",
+    "wof:parent_id":85811695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.191167,
+    44.276171,
+    -73.191167,
+    44.276171
+],
+  "geometry": {"coordinates":[-73.19116699999999,44.276171],"type":"Point"}
+}

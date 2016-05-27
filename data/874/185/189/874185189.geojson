@@ -1,0 +1,71 @@
+{
+  "id": 874185189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.69179,44.452982,-72.69179,44.452982",
+    "geom:latitude":44.452982,
+    "geom:longitude":-72.69179,
+    "iso:country":"US",
+    "sg:address":"723 Sylvan Park Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7001",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "stone",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V3vdcOVLuBVjqdUbk709i_44.452982_-72.691790@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312693,
+    "wof:geomhash":"3b87181a6d9da0950dd2e5e44f1a5767",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874185189
+        }
+    ],
+    "wof:id":874185189,
+    "wof:lastmodified":1464312693,
+    "wof:name":"Down East Tile",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone",
+        "product"
+    ]
+},
+  "bbox": [
+    -72.69179,
+    44.452982,
+    -72.69179,
+    44.452982
+],
+  "geometry": {"coordinates":[-72.69179,44.452982],"type":"Point"}
+}

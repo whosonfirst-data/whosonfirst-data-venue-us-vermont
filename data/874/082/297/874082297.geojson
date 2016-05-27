@@ -1,0 +1,73 @@
+{
+  "id": 874082297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971728,43.605319,-72.971728,43.605319",
+    "geom:latitude":43.605319,
+    "geom:longitude":-72.971728,
+    "iso:country":"US",
+    "sg:address":"228 US Hwy 7",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 9720",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yLQMopO6fNia3lR90Zmeo_43.605319_-72.971728@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311580,
+    "wof:geomhash":"ebb7a0cdb6ecaf68a2f00f57f5ee2f11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874082297
+        }
+    ],
+    "wof:id":874082297,
+    "wof:lastmodified":1464311580,
+    "wof:name":"Portland Glass Co",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -72.971728,
+    43.605319,
+    -72.971728,
+    43.605319
+],
+  "geometry": {"coordinates":[-72.971728,43.605319],"type":"Point"}
+}

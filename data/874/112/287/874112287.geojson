@@ -1,0 +1,71 @@
+{
+  "id": 874112287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.706344,44.932527,-72.706344,44.932527",
+    "geom:latitude":44.932527,
+    "geom:longitude":-72.706344,
+    "iso:country":"US",
+    "sg:address":"426 Montgomery Rd",
+    "sg:city":"East Berkshire",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 7544",
+    "sg:postcode":"05447",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uxp4sEWhxRvqmiWifFRTA_44.932527_-72.706344@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311960,
+    "wof:geomhash":"7f053021f88f28d303e8abc7e078f19b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874112287
+        }
+    ],
+    "wof:id":874112287,
+    "wof:lastmodified":1464311960,
+    "wof:name":"A1 Metal",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.706344,
+    44.932527,
+    -72.706344,
+    44.932527
+],
+  "geometry": {"coordinates":[-72.706344,44.932527],"type":"Point"}
+}

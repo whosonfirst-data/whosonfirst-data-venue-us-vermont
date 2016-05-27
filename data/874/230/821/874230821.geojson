@@ -1,0 +1,73 @@
+{
+  "id": 874230821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.522335,42.97128,-72.522335,42.97128",
+    "geom:latitude":42.97128,
+    "geom:longitude":-72.522335,
+    "iso:country":"US",
+    "sg:address":"63 Main St",
+    "sg:city":"Putney",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 387 4322",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IsF3jzYZkQ1WpSS61UE07_42.971280_-72.522335@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313173,
+    "wof:geomhash":"d03ea96e87eba145e289b6a069b9819b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874230821
+        }
+    ],
+    "wof:id":874230821,
+    "wof:lastmodified":1464313173,
+    "wof:name":"Mary E King",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -72.522335,
+    42.97128,
+    -72.522335,
+    42.97128
+],
+  "geometry": {"coordinates":[-72.522335,42.97128],"type":"Point"}
+}

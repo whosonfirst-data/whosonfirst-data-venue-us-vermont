@@ -1,0 +1,75 @@
+{
+  "id": 874147505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.562392,44.249067,-72.562392,44.249067",
+    "geom:latitude":44.249067,
+    "geom:longitude":-72.562392,
+    "iso:country":"US",
+    "sg:address":"170 River St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 9005",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pzLgO2spgDH8q4u3dtqr7_44.249067_-72.562392@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312306,
+    "wof:geomhash":"9a514e6384eaf0b57a2e10b0ec8b4210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874147505
+        }
+    ],
+    "wof:id":874147505,
+    "wof:lastmodified":1464312306,
+    "wof:name":"Utton's Mufflers",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -72.562392,
+    44.249067,
+    -72.562392,
+    44.249067
+],
+  "geometry": {"coordinates":[-72.562392,44.249067],"type":"Point"}
+}

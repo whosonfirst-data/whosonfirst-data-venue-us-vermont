@@ -1,0 +1,69 @@
+{
+  "id": 874148285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196964,42.883853,-73.196964,42.883853",
+    "geom:latitude":42.883853,
+    "geom:longitude":-73.196964,
+    "iso:country":"US",
+    "sg:address":"250 North St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 3222",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75jieLcQAZj9DMdCsNLU21_42.883853_-73.196964@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312313,
+    "wof:geomhash":"81776e99ef5fe28f5c8f95aadbc4677f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874148285
+        }
+    ],
+    "wof:id":874148285,
+    "wof:lastmodified":1464312313,
+    "wof:name":"Professional Nurses Svc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -73.196964,
+    42.883853,
+    -73.196964,
+    42.883853
+],
+  "geometry": {"coordinates":[-73.19696399999999,42.883853],"type":"Point"}
+}

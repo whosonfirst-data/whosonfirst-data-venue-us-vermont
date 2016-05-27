@@ -1,0 +1,73 @@
+{
+  "id": 874045385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.00046,43.34572,-73.00046,43.34572",
+    "geom:latitude":43.34572,
+    "geom:longitude":-73.00046,
+    "iso:country":"US",
+    "sg:address":"222 Brook Rd",
+    "sg:city":"Danby",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 293 2393",
+    "sg:postcode":"05739",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beveled",
+        "glass",
+        "ornamental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KSEOnQNTWOzIte7jsDH2c_43.345720_-73.000460@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311200,
+    "wof:geomhash":"23831b2beb9ec35bba0045fefbf1f679",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874045385
+        }
+    ],
+    "wof:id":874045385,
+    "wof:lastmodified":1464311200,
+    "wof:name":"Vickers Glass",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beveled",
+        "glass",
+        "ornamental"
+    ]
+},
+  "bbox": [
+    -73.00046,
+    43.34572,
+    -73.00046,
+    43.34572
+],
+  "geometry": {"coordinates":[-73.00046,43.34572],"type":"Point"}
+}

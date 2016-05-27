@@ -1,0 +1,73 @@
+{
+  "id": 874165107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.401685,43.648732,-72.401685,43.648732",
+    "geom:latitude":43.648732,
+    "geom:longitude":-72.401685,
+    "iso:country":"US",
+    "sg:address":"35 Hard Rd",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 649 1599",
+    "sg:postcode":"05059",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aUBW7hCM9qapUyTEDJ7DR_43.648732_-72.401685@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312481,
+    "wof:geomhash":"6a152a1dd9b6b3bb621c9c67e1a77624",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874165107
+        }
+    ],
+    "wof:id":874165107,
+    "wof:lastmodified":1464312481,
+    "wof:name":"Custom Finishes",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.401685,
+    43.648732,
+    -72.401685,
+    43.648732
+],
+  "geometry": {"coordinates":[-72.401685,43.648732],"type":"Point"}
+}

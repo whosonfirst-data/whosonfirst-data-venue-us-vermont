@@ -1,0 +1,71 @@
+{
+  "id": 874208469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214288,44.455635,-73.214288,44.455635",
+    "geom:latitude":44.455635,
+    "geom:longitude":-73.214288,
+    "iso:country":"US",
+    "sg:address":"855 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 6292",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h5LN44KzZGiU0roku610L_44.455635_-73.214288@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312933,
+    "wof:geomhash":"79888b90054897722eac9237748bce2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874208469
+        }
+    ],
+    "wof:id":874208469,
+    "wof:lastmodified":1464312933,
+    "wof:name":"Champage DRG Alcohol Serivices",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -73.214288,
+    44.455635,
+    -73.214288,
+    44.455635
+],
+  "geometry": {"coordinates":[-73.214288,44.455635],"type":"Point"}
+}

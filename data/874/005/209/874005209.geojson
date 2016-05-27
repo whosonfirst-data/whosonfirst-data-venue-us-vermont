@@ -1,0 +1,75 @@
+{
+  "id": 874005209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.54006,44.218326,-72.54006,44.218326",
+    "geom:latitude":44.218326,
+    "geom:longitude":-72.54006,
+    "iso:country":"US",
+    "sg:address":"363 Barre-Montpelier Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0108",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ki84gnmZRtlsxQybENLd4_44.218326_-72.540060@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310816,
+    "wof:geomhash":"d34d63560b288adc887d9ec1802d67ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874005209
+        }
+    ],
+    "wof:id":874005209,
+    "wof:lastmodified":1464310816,
+    "wof:name":"US Naval Recruiting",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -72.54006,
+    44.218326,
+    -72.54006,
+    44.218326
+],
+  "geometry": {"coordinates":[-72.54006,44.218326],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874211567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211047,44.47716,-73.211047,44.47716",
+    "geom:latitude":44.47716,
+    "geom:longitude":-73.211047,
+    "iso:country":"US",
+    "sg:address":"211 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 7616",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d0QTZo54MPiHdbw2HrF9z_44.477160_-73.211047@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312970,
+    "wof:geomhash":"2ece055e34183df08b4def2b8454a2db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874211567
+        }
+    ],
+    "wof:id":874211567,
+    "wof:lastmodified":1464312970,
+    "wof:name":"Stone Soup",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.211047,
+    44.47716,
+    -73.211047,
+    44.47716
+],
+  "geometry": {"coordinates":[-73.21104699999999,44.47716],"type":"Point"}
+}

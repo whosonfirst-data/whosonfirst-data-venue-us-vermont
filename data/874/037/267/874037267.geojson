@@ -1,0 +1,70 @@
+{
+  "id": 874037267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.980535,44.643062,-71.980535,44.643062",
+    "geom:latitude":44.643062,
+    "geom:longitude":-71.980535,
+    "iso:country":"US",
+    "sg:address":"30 Post Office Rd",
+    "sg:city":"West Burke",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 467 3344",
+    "sg:postcode":"05871",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420545825,
+        102191575,
+        404527549,
+        85633793,
+        101728271,
+        102080755,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p5TM7brNWhR2i9pyi9zzc_44.643062_-71.980535@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311119,
+    "wof:geomhash":"ad34e89ec9b2313940a94a33e9e251f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080755,
+            "localadmin_id":404527549,
+            "locality_id":101728271,
+            "neighbourhood_id":420545825,
+            "region_id":85688763,
+            "venue_id":874037267
+        }
+    ],
+    "wof:id":874037267,
+    "wof:lastmodified":1464311119,
+    "wof:name":"US Post Office",
+    "wof:parent_id":420545825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.980535,
+    44.643062,
+    -71.980535,
+    44.643062
+],
+  "geometry": {"coordinates":[-71.980535,44.643062],"type":"Point"}
+}

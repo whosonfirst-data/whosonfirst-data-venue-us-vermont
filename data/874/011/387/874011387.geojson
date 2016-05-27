@@ -1,0 +1,71 @@
+{
+  "id": 874011387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.454837,44.240586,-72.454837,44.240586",
+    "geom:latitude":44.240586,
+    "geom:longitude":-72.454837,
+    "iso:country":"US",
+    "sg:address":"1526 Lower Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1868",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BCCzmGHuEdEoqvgD9YZxA_44.240586_-72.454837@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310865,
+    "wof:geomhash":"9f5a7a29e21db14744618e7135db527d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874011387
+        }
+    ],
+    "wof:id":874011387,
+    "wof:lastmodified":1464310865,
+    "wof:name":"Montpelier Construction",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.454837,
+    44.240586,
+    -72.454837,
+    44.240586
+],
+  "geometry": {"coordinates":[-72.454837,44.240586],"type":"Point"}
+}

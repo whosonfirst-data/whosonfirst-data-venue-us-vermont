@@ -1,0 +1,73 @@
+{
+  "id": 874062485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209321,44.479549,-73.209321,44.479549",
+    "geom:latitude":44.479549,
+    "geom:longitude":-73.209321,
+    "iso:country":"US",
+    "sg:address":"17 S Union St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 0839",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YSynxDmJDBihaYhYWp9xe_44.479549_-73.209321@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311357,
+    "wof:geomhash":"c4e84a9c1324b9cc42eb3edd7cec430e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874062485
+        }
+    ],
+    "wof:id":874062485,
+    "wof:lastmodified":1464311357,
+    "wof:name":"Parris Enterprises",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -73.209321,
+    44.479549,
+    -73.209321,
+    44.479549
+],
+  "geometry": {"coordinates":[-73.209321,44.479549],"type":"Point"}
+}

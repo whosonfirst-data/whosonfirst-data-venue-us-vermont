@@ -1,0 +1,70 @@
+{
+  "id": 874090913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.246173,43.884969,-72.246173,43.884969",
+    "geom:latitude":43.884969,
+    "geom:longitude":-72.246173,
+    "iso:country":"US",
+    "sg:address":"1061 Robinson Hill Rd",
+    "sg:city":"Post Mills",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 4211",
+    "sg:postcode":"05058",
+    "sg:province":"VT",
+    "sg:tags":[
+        "camp"
+    ],
+    "sg:website":"www.lochearncamp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85812235,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25ijn0OEcLf8SLD7K3Sb79_43.884969_-72.246173@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311672,
+    "wof:geomhash":"b3ff5fbe08396e835985eb83bc138f56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85812235,
+            "region_id":85688763,
+            "venue_id":874090913
+        }
+    ],
+    "wof:id":874090913,
+    "wof:lastmodified":1464311672,
+    "wof:name":"Lochearn Camp",
+    "wof:parent_id":85812235,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -72.246173,
+    43.884969,
+    -72.246173,
+    43.884969
+],
+  "geometry": {"coordinates":[-72.246173,43.884969],"type":"Point"}
+}

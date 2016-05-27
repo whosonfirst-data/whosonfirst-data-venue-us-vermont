@@ -1,0 +1,77 @@
+{
+  "id": 874139399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.552897,43.039369,-72.552897,43.039369",
+    "geom:latitude":43.039369,
+    "geom:longitude":-72.552897,
+    "iso:country":"US",
+    "sg:address":"163 Burnett Rd",
+    "sg:city":"Putney",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 387 6606",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mail",
+        "syrup",
+        "order",
+        "maple",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NXNW6zacFJW8HOzrBoSYf_43.039369_-72.552897@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312230,
+    "wof:geomhash":"d4ecd31bd46d49fe8d0bb7f876eacef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874139399
+        }
+    ],
+    "wof:id":874139399,
+    "wof:lastmodified":1464312230,
+    "wof:name":"Southern Vermont Maple",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "syrup",
+        "order",
+        "maple",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.552897,
+    43.039369,
+    -72.552897,
+    43.039369
+],
+  "geometry": {"coordinates":[-72.552897,43.039369],"type":"Point"}
+}

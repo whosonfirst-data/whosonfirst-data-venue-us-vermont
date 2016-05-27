@@ -1,0 +1,71 @@
+{
+  "id": 874145793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.450152,43.649872,-72.450152,43.649872",
+    "geom:latitude":43.649872,
+    "geom:longitude":-72.450152,
+    "iso:country":"US",
+    "sg:address":"36 Allen Family Rd",
+    "sg:city":"Quechee",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 9980",
+    "sg:postcode":"05059",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gwi7lauwTUcBweta27B2H_43.649872_-72.450152@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312292,
+    "wof:geomhash":"7dcf31faa6b2e56d6f40cf412e64b53d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874145793
+        }
+    ],
+    "wof:id":874145793,
+    "wof:lastmodified":1464312292,
+    "wof:name":"RMK Consulting Group Inc",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -72.450152,
+    43.649872,
+    -72.450152,
+    43.649872
+],
+  "geometry": {"coordinates":[-72.450152,43.649872],"type":"Point"}
+}

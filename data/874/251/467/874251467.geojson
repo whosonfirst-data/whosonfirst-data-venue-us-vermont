@@ -1,0 +1,81 @@
+{
+  "id": 874251467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180115,42.879537,-73.180115,42.879537",
+    "geom:latitude":42.879537,
+    "geom:longitude":-73.180115,
+    "iso:country":"US",
+    "sg:address":"909 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 827 5968",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9247222%3a13%3a4859924%3a14%3a0%3a7",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MyjsTEPOIeHbBCsfCGs23_42.879537_-73.180115@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313594,
+    "wof:geomhash":"6a42d745eb0ac0889aaa0038c9753e86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251467
+        }
+    ],
+    "wof:id":874251467,
+    "wof:lastmodified":1464313594,
+    "wof:name":"Windshield World",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -73.180115,
+    42.879537,
+    -73.180115,
+    42.879537
+],
+  "geometry": {"coordinates":[-73.180115,42.879537],"type":"Point"}
+}

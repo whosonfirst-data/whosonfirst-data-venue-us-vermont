@@ -1,0 +1,71 @@
+{
+  "id": 874062057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.943381,43.565298,-72.943381,43.565298",
+    "geom:latitude":43.565298,
+    "geom:longitude":-72.943381,
+    "iso:country":"US",
+    "sg:address":"23 Collins Ln",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 7422",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22Htp5582GhdCKB8NB5sld_43.565298_-72.943381@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311354,
+    "wof:geomhash":"93f058e611011fc9fa6acf8687ea2b37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874062057
+        }
+    ],
+    "wof:id":874062057,
+    "wof:lastmodified":1464311354,
+    "wof:name":"W J Welding Equipment Repair",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "welding"
+    ]
+},
+  "bbox": [
+    -72.943381,
+    43.565298,
+    -72.943381,
+    43.565298
+],
+  "geometry": {"coordinates":[-72.943381,43.565298],"type":"Point"}
+}

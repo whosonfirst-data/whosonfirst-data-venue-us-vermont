@@ -1,0 +1,71 @@
+{
+  "id": 874198837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.511719,44.205891,-72.511719,44.205891",
+    "geom:latitude":44.205891,
+    "geom:longitude":-72.511719,
+    "iso:country":"US",
+    "sg:address":"490 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3128",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fBalt1If7XniH5QPFbMeg_44.205891_-72.511719@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312833,
+    "wof:geomhash":"b7341d4204b38b763b0af52a4a40fa57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874198837
+        }
+    ],
+    "wof:id":874198837,
+    "wof:lastmodified":1464312833,
+    "wof:name":"Clark's Moving Svc Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -72.511719,
+    44.205891,
+    -72.511719,
+    44.205891
+],
+  "geometry": {"coordinates":[-72.511719,44.205891],"type":"Point"}
+}

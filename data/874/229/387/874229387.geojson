@@ -1,0 +1,66 @@
+{
+  "id": 874229387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.048351,43.799024,-73.048351,43.799024",
+    "geom:latitude":43.799024,
+    "geom:longitude":-73.048351,
+    "iso:country":"US",
+    "sg:address":"749 N Birch Hill Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3454",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mPrT5jRjbrzds6sPUsqRW_43.799024_-73.048351@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313154,
+    "wof:geomhash":"1af87279de930842e760ca81c47c86cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874229387
+        }
+    ],
+    "wof:id":874229387,
+    "wof:lastmodified":1464313154,
+    "wof:name":"Trash Transport",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.048351,
+    43.799024,
+    -73.048351,
+    43.799024
+],
+  "geometry": {"coordinates":[-73.048351,43.799024],"type":"Point"}
+}

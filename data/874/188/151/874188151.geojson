@@ -1,0 +1,74 @@
+{
+  "id": 874188151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.965214,43.579297,-72.965214,43.579297",
+    "geom:latitude":43.579297,
+    "geom:longitude":-72.965214,
+    "iso:country":"US",
+    "sg:address":"46 Diamond Run Mall Pl",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 1145",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mall",
+        "shopping",
+        "center"
+    ],
+    "sg:website":"www.diamondrunmall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bZzgNiDlAjKXhZ5mdgK15_43.579297_-72.965214@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312721,
+    "wof:geomhash":"ead6efc883f140d455b79d2deb85ff94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874188151
+        }
+    ],
+    "wof:id":874188151,
+    "wof:lastmodified":1464312721,
+    "wof:name":"DIAMOND Run Mall",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mall",
+        "shopping",
+        "center"
+    ]
+},
+  "bbox": [
+    -72.965214,
+    43.579297,
+    -72.965214,
+    43.579297
+],
+  "geometry": {"coordinates":[-72.965214,43.579297],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 874254017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.250127,44.54491,-73.250127,44.54491",
+    "geom:latitude":44.54491,
+    "geom:longitude":-73.250127,
+    "iso:country":"US",
+    "sg:address":"416 Church Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3002",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850949,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OyKFsFbPpZQLS4sh2Btvm_44.544910_-73.250127@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313646,
+    "wof:geomhash":"ccefa49ff2e15be5d79cc55d5fc6e1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85850949,
+            "region_id":85688763,
+            "venue_id":874254017
+        }
+    ],
+    "wof:id":874254017,
+    "wof:lastmodified":1464313646,
+    "wof:name":"Holy Cross Church",
+    "wof:parent_id":85850949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic"
+    ]
+},
+  "bbox": [
+    -73.250127,
+    44.54491,
+    -73.250127,
+    44.54491
+],
+  "geometry": {"coordinates":[-73.25012700000001,44.54491],"type":"Point"}
+}

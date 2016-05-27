@@ -1,0 +1,71 @@
+{
+  "id": 874245139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.039915,43.180083,-73.039915,43.180083",
+    "geom:latitude":43.180083,
+    "geom:longitude":-73.039915,
+    "iso:country":"US",
+    "sg:address":"519 Barnumville Rd",
+    "sg:city":"Manchester Center",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 4704",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NLPli1LaC8AqPmaT34t8V_43.180083_-73.039915@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313437,
+    "wof:geomhash":"8f2f5b5cbda0f82c6907880b803b86e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874245139
+        }
+    ],
+    "wof:id":874245139,
+    "wof:lastmodified":1464313437,
+    "wof:name":"Jeff Loewer",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -73.039915,
+    43.180083,
+    -73.039915,
+    43.180083
+],
+  "geometry": {"coordinates":[-73.03991499999999,43.180083],"type":"Point"}
+}

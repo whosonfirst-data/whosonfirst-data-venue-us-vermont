@@ -1,0 +1,73 @@
+{
+  "id": 874230601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.250012,44.169399,-73.250012,44.169399",
+    "geom:latitude":44.169399,
+    "geom:longitude":-73.250012,
+    "iso:country":"US",
+    "sg:address":"43 Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2419",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "prepackaged",
+        "operation",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38hfJRPoGxhuA9tVFCRSSA_44.169399_-73.250012@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313171,
+    "wof:geomhash":"1ed7d647dafdd3a6087235dcbd306b07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874230601
+        }
+    ],
+    "wof:id":874230601,
+    "wof:lastmodified":1464313171,
+    "wof:name":"Vermont Computer Software Inc",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prepackaged",
+        "operation",
+        "software"
+    ]
+},
+  "bbox": [
+    -73.250012,
+    44.169399,
+    -73.250012,
+    44.169399
+],
+  "geometry": {"coordinates":[-73.250012,44.169399],"type":"Point"}
+}

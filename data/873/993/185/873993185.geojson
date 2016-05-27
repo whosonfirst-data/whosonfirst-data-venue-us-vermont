@@ -1,0 +1,73 @@
+{
+  "id": 873993185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200929,44.477681,-73.200929,44.477681",
+    "geom:latitude":44.477681,
+    "geom:longitude":-73.200929,
+    "iso:country":"US",
+    "sg:address":"439 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 9651",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bmgT5rR7Epzznt421xoYc_44.477681_-73.200929@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310713,
+    "wof:geomhash":"76f1e24a1c4ee20f481b59ba1e826985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873993185
+        }
+    ],
+    "wof:id":873993185,
+    "wof:lastmodified":1464310713,
+    "wof:name":"Phi Delta Theta",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -73.200929,
+    44.477681,
+    -73.200929,
+    44.477681
+],
+  "geometry": {"coordinates":[-73.200929,44.477681],"type":"Point"}
+}

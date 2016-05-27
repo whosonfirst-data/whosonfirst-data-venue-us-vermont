@@ -1,0 +1,69 @@
+{
+  "id": 874053881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.190362,44.496145,-73.190362,44.496145",
+    "geom:latitude":44.496145,
+    "geom:longitude":-73.190362,
+    "iso:country":"US",
+    "sg:address":"160 Saint Peter St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 343 8017",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YeKr1Ul9rV2FOHj0obyHc_44.496145_-73.190362@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311277,
+    "wof:geomhash":"32f0b850d18240a8f46b1ab706319d3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874053881
+        }
+    ],
+    "wof:id":874053881,
+    "wof:lastmodified":1464311277,
+    "wof:name":"Lisa's Cleaning",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -73.190362,
+    44.496145,
+    -73.190362,
+    44.496145
+],
+  "geometry": {"coordinates":[-73.19036199999999,44.496145],"type":"Point"}
+}

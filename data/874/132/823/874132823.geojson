@@ -1,0 +1,71 @@
+{
+  "id": 874132823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.919167,43.558481,-72.919167,43.558481",
+    "geom:latitude":43.558481,
+    "geom:longitude":-72.919167,
+    "iso:country":"US",
+    "sg:address":"240 Wallace Rd",
+    "sg:city":"Cuttingsville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 6054",
+    "sg:postcode":"05738",
+    "sg:province":"VT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QuQcNSicPDuprOImT67Yx_43.558481_-72.919167@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312171,
+    "wof:geomhash":"6f812e5cde4f88c0f2bf0d5f6797ccc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874132823
+        }
+    ],
+    "wof:id":874132823,
+    "wof:lastmodified":1464312171,
+    "wof:name":"Charles Johnson Refuse",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -72.919167,
+    43.558481,
+    -72.919167,
+    43.558481
+],
+  "geometry": {"coordinates":[-72.919167,43.558481],"type":"Point"}
+}

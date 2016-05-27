@@ -1,0 +1,77 @@
+{
+  "id": 874093649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.499107,44.198485,-72.499107,44.198485",
+    "geom:latitude":44.198485,
+    "geom:longitude":-72.499107,
+    "iso:country":"US",
+    "sg:address":"24 Averill St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9647",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "skilled",
+        "convalescent",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6joYKLFOUtMwOPpAujyPQt_44.198485_-72.499107@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311700,
+    "wof:geomhash":"f531a25385c9652e1480996d10ba1e41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874093649
+        }
+    ],
+    "wof:id":874093649,
+    "wof:lastmodified":1464311700,
+    "wof:name":"Gingraf Community Care Home",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "skilled",
+        "convalescent",
+        "home"
+    ]
+},
+  "bbox": [
+    -72.499107,
+    44.198485,
+    -72.499107,
+    44.198485
+],
+  "geometry": {"coordinates":[-72.499107,44.198485],"type":"Point"}
+}

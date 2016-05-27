@@ -1,0 +1,69 @@
+{
+  "id": 874020309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.032599,44.589124,-73.032599,44.589124",
+    "geom:latitude":44.589124,
+    "geom:longitude":-73.032599,
+    "iso:country":"US",
+    "sg:address":"146 Brookside Rd",
+    "sg:city":"Westford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 5932",
+    "sg:postcode":"05494",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818481,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6etYgoaQxEXo2pmRYOsrJ9_44.589124_-73.032599@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310951,
+    "wof:geomhash":"a3a490f4a8c139f0a39b4607a59e8672",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85818481,
+            "region_id":85688763,
+            "venue_id":874020309
+        }
+    ],
+    "wof:id":874020309,
+    "wof:lastmodified":1464310951,
+    "wof:name":"Westford Elementary School",
+    "wof:parent_id":85818481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -73.032599,
+    44.589124,
+    -73.032599,
+    44.589124
+],
+  "geometry": {"coordinates":[-73.032599,44.589124],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874057589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.522529,44.21312,-72.522529,44.21312",
+    "geom:latitude":44.21312,
+    "geom:longitude":-72.522529,
+    "iso:country":"US",
+    "sg:address":"775 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9006",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n5tBoMlbLudmeAsJ2lX0D_44.213120_-72.522529@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311314,
+    "wof:geomhash":"c74f8608acb3d159b190bff390cb124d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874057589
+        }
+    ],
+    "wof:id":874057589,
+    "wof:lastmodified":1464311314,
+    "wof:name":"Sparkle Wash & Dry",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.522529,
+    44.21312,
+    -72.522529,
+    44.21312
+],
+  "geometry": {"coordinates":[-72.52252900000001,44.21312],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874079339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.033179,43.200745,-73.033179,43.200745",
+    "geom:latitude":43.200745,
+    "geom:longitude":-73.033179,
+    "iso:country":"US",
+    "sg:address":"401 Deer Ridge Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 5442",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gmh4KSdbHG0PQBsjaqhKI_43.200745_-73.033179@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311546,
+    "wof:geomhash":"beb366c8187f89f748d96c834d95ac34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874079339
+        }
+    ],
+    "wof:id":874079339,
+    "wof:lastmodified":1464311546,
+    "wof:name":"EDC-Vt",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -73.033179,
+    43.200745,
+    -73.033179,
+    43.200745
+],
+  "geometry": {"coordinates":[-73.033179,43.200745],"type":"Point"}
+}

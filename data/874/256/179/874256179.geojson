@@ -1,0 +1,80 @@
+{
+  "id": 874256179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08023,43.794588,-73.08023,43.794588",
+    "geom:latitude":43.794588,
+    "geom:longitude":-73.08023,
+    "iso:country":"US",
+    "sg:address":"59 Franklin St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3718",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02OonDPd52hlCYOekzGmlr_43.794588_-73.080230@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313701,
+    "wof:geomhash":"748374c26f07df9b4da95ce9d29885c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874256179
+        }
+    ],
+    "wof:id":874256179,
+    "wof:lastmodified":1464313701,
+    "wof:name":"Green Mountain Garage",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -73.08023,
+    43.794588,
+    -73.08023,
+    43.794588
+],
+  "geometry": {"coordinates":[-73.08023,43.794588],"type":"Point"}
+}

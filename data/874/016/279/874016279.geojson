@@ -1,0 +1,73 @@
+{
+  "id": 874016279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.175614,44.622363,-73.175614,44.622363",
+    "geom:latitude":44.622363,
+    "geom:longitude":-73.175614,
+    "iso:country":"US",
+    "sg:address":"467 W Milton Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 7952",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "house",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85854373,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HXQByDAUUB9espbY8cmCM_44.622363_-73.175614@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310901,
+    "wof:geomhash":"1d12be0c14dc192e4e7d3b0bbf4b61ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85854373,
+            "region_id":85688763,
+            "venue_id":874016279
+        }
+    ],
+    "wof:id":874016279,
+    "wof:lastmodified":1464310901,
+    "wof:name":"J M Rowley Corp",
+    "wof:parent_id":85854373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "house",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.175614,
+    44.622363,
+    -73.175614,
+    44.622363
+],
+  "geometry": {"coordinates":[-73.175614,44.622363],"type":"Point"}
+}

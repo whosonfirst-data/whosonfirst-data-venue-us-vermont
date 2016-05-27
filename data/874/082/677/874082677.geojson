@@ -1,0 +1,71 @@
+{
+  "id": 874082677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.076247,43.22869,-73.076247,43.22869",
+    "geom:latitude":43.22869,
+    "geom:longitude":-73.076247,
+    "iso:country":"US",
+    "sg:address":"23 Stonewall Ln",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 3363",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VaSAv7S2K3VhRRH2kbJp4_43.228690_-73.076247@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311586,
+    "wof:geomhash":"212f0390a18fb690ac420780b7f0ce83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874082677
+        }
+    ],
+    "wof:id":874082677,
+    "wof:lastmodified":1464311586,
+    "wof:name":"Old Cow's Tail Antiques",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -73.076247,
+    43.22869,
+    -73.076247,
+    43.22869
+],
+  "geometry": {"coordinates":[-73.076247,43.22869],"type":"Point"}
+}

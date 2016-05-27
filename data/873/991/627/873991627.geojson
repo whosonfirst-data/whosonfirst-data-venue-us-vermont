@@ -1,0 +1,71 @@
+{
+  "id": 873991627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.467457,43.466131,-72.467457,43.466131",
+    "geom:latitude":43.466131,
+    "geom:longitude":-72.467457,
+    "iso:country":"US",
+    "sg:address":"311 Hotel Rd",
+    "sg:city":"Brownsville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 484 5415",
+    "sg:postcode":"05037",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "skiing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ban8OyWgnlBOTApPqQAdL_43.466131_-72.467457@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310701,
+    "wof:geomhash":"bcff244e9658182fab0e14673fda51b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":873991627
+        }
+    ],
+    "wof:id":873991627,
+    "wof:lastmodified":1464310701,
+    "wof:name":"Cunningham's Ski Barn",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -72.467457,
+    43.466131,
+    -72.467457,
+    43.466131
+],
+  "geometry": {"coordinates":[-72.467457,43.466131],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 874238099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.170819,44.027836,-73.170819,44.027836",
+    "geom:latitude":44.027836,
+    "geom:longitude":-73.170819,
+    "iso:country":"US",
+    "sg:address":"86 Exchange St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2320",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gspzQ8dB5a1hGVlWeIcZO_44.027836_-73.170819@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313303,
+    "wof:geomhash":"5ba1a8cd914e8f4557cc49224c8685bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874238099
+        }
+    ],
+    "wof:id":874238099,
+    "wof:lastmodified":1464313303,
+    "wof:name":"Porter Rehab Auto Orthopedic S",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -73.170819,
+    44.027836,
+    -73.170819,
+    44.027836
+],
+  "geometry": {"coordinates":[-73.17081899999999,44.027836],"type":"Point"}
+}

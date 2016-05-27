@@ -1,0 +1,71 @@
+{
+  "id": 874228313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.166841,44.08259,-73.166841,44.08259",
+    "geom:latitude":44.08259,
+    "geom:longitude":-73.166841,
+    "iso:country":"US",
+    "sg:address":"576 Hunt Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2591",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_044nfVlA65ckQSTmEZaR8E_44.082590_-73.166841@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313144,
+    "wof:geomhash":"8d9af682ce5728784bcb7406e4fe8326",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874228313
+        }
+    ],
+    "wof:id":874228313,
+    "wof:lastmodified":1464313144,
+    "wof:name":"Lathrops Construction",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.166841,
+    44.08259,
+    -73.166841,
+    44.08259
+],
+  "geometry": {"coordinates":[-73.16684100000001,44.08259],"type":"Point"}
+}

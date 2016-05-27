@@ -1,0 +1,73 @@
+{
+  "id": 874133183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.826885,44.625117,-72.826885,44.625117",
+    "geom:latitude":44.625117,
+    "geom:longitude":-72.826885,
+    "iso:country":"US",
+    "sg:address":"150 Chez Ln",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5982",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y3oQCMWSE9NRss5LirtFC_44.625117_-72.826885@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312174,
+    "wof:geomhash":"1579b5eef568721f7759da4f2e6c1195",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874133183
+        }
+    ],
+    "wof:id":874133183,
+    "wof:lastmodified":1464312174,
+    "wof:name":"Wyckoff Electric",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.826885,
+    44.625117,
+    -72.826885,
+    44.625117
+],
+  "geometry": {"coordinates":[-72.826885,44.625117],"type":"Point"}
+}

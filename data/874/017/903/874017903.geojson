@@ -1,0 +1,70 @@
+{
+  "id": 874017903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.980926,43.609527,-72.980926,43.609527",
+    "geom:latitude":43.609527,
+    "geom:longitude":-72.980926,
+    "iso:country":"US",
+    "sg:address":"77 Grove St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 2711",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.cvps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wZqZSTaBhto3DIj0htJyb_43.609527_-72.980926@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310925,
+    "wof:geomhash":"e7b00a94be95adb1e01360534ba9250f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874017903
+        }
+    ],
+    "wof:id":874017903,
+    "wof:lastmodified":1464310925,
+    "wof:name":"Central Vermont Public Svc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -72.980926,
+    43.609527,
+    -72.980926,
+    43.609527
+],
+  "geometry": {"coordinates":[-72.980926,43.609527],"type":"Point"}
+}

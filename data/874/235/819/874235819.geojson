@@ -1,0 +1,69 @@
+{
+  "id": 874235819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.100906,44.690569,-73.100906,44.690569",
+    "geom:latitude":44.690569,
+    "geom:longitude":-73.100906,
+    "iso:country":"US",
+    "sg:address":"4178 Highbridge Rd",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 9595",
+    "sg:postcode":"05454",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kgzoGo7TO3zX0OxFzBJ2A_44.690569_-73.100906@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313258,
+    "wof:geomhash":"9e4688e68cfdd65d7092c393d03a461a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874235819
+        }
+    ],
+    "wof:id":874235819,
+    "wof:lastmodified":1464313258,
+    "wof:name":"Georgia Health Center",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.100906,
+    44.690569,
+    -73.100906,
+    44.690569
+],
+  "geometry": {"coordinates":[-73.10090599999999,44.690569],"type":"Point"}
+}

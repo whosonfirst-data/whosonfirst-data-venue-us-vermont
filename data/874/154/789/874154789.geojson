@@ -1,0 +1,66 @@
+{
+  "id": 874154789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209181,44.477356,-73.209181,44.477356",
+    "geom:latitude":44.477356,
+    "geom:longitude":-73.209181,
+    "iso:country":"US",
+    "sg:address":"222 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 3456",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78UAkiRrU0V4GQoPOaUWDC_44.477356_-73.209181@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312375,
+    "wof:geomhash":"de0d7ad5b32d8736986572a7ee5239ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874154789
+        }
+    ],
+    "wof:id":874154789,
+    "wof:lastmodified":1464312375,
+    "wof:name":"Roxy Merrill's Cinema Movie",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.209181,
+    44.477356,
+    -73.209181,
+    44.477356
+],
+  "geometry": {"coordinates":[-73.209181,44.477356],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874038315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.170144,44.016018,-73.170144,44.016018",
+    "geom:latitude":44.016018,
+    "geom:longitude":-73.170144,
+    "iso:country":"US",
+    "sg:address":"63 Maple St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2285",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gkAZ2sRvNuHgVPdrF02xN_44.016018_-73.170144@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311128,
+    "wof:geomhash":"4927917d0532c54898f3e020dcb8baf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874038315
+        }
+    ],
+    "wof:id":874038315,
+    "wof:lastmodified":1464311128,
+    "wof:name":"Addison Community ACTION/CVO",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.170144,
+    44.016018,
+    -73.170144,
+    44.016018
+],
+  "geometry": {"coordinates":[-73.17014399999999,44.016018],"type":"Point"}
+}

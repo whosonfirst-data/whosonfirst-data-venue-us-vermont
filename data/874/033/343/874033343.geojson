@@ -1,0 +1,73 @@
+{
+  "id": 874033343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.612025,44.879682,-72.612025,44.879682",
+    "geom:latitude":44.879682,
+    "geom:longitude":-72.612025,
+    "iso:country":"US",
+    "sg:address":"91 Main St",
+    "sg:city":"Montgomery Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 326 3058",
+    "sg:postcode":"05471",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "fountain",
+        "soda"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EmfhfGyW7z6K1g7Baclg8_44.879682_-72.612025@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311079,
+    "wof:geomhash":"53534fcef7a79364252e0b0f8aeb689d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874033343
+        }
+    ],
+    "wof:id":874033343,
+    "wof:lastmodified":1464311079,
+    "wof:name":"Kilgore's General Store",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "fountain",
+        "soda"
+    ]
+},
+  "bbox": [
+    -72.612025,
+    44.879682,
+    -72.612025,
+    44.879682
+],
+  "geometry": {"coordinates":[-72.612025,44.879682],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874250255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.254715,43.78765,-72.254715,43.78765",
+    "geom:latitude":43.78765,
+    "geom:longitude":-72.254715,
+    "iso:country":"US",
+    "sg:address":"153 Main St",
+    "sg:city":"East Thetford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/thetford/135388-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 222 3437",
+    "sg:postcode":"05043",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dS9fuTj1VE1BWuRTuk56a_43.787650_-72.254715@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313572,
+    "wof:geomhash":"b02f9988e7bed40b50a68af9c2520424",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874250255
+        }
+    ],
+    "wof:id":874250255,
+    "wof:lastmodified":1464313572,
+    "wof:name":"Subway",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.254715,
+    43.78765,
+    -72.254715,
+    43.78765
+],
+  "geometry": {"coordinates":[-72.254715,43.78765],"type":"Point"}
+}

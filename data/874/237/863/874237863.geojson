@@ -1,0 +1,75 @@
+{
+  "id": 874237863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.103652,44.447018,-73.103652,44.447018",
+    "geom:latitude":44.447018,
+    "geom:longitude":-73.103652,
+    "iso:country":"US",
+    "sg:address":"104 Cornerstone Dr",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 8374",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u7M1glmtxt8Z3rg5sx6v1_44.447018_-73.103652@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313299,
+    "wof:geomhash":"6a77cbb50cc07dac73394a924e4edffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874237863
+        }
+    ],
+    "wof:id":874237863,
+    "wof:lastmodified":1464313299,
+    "wof:name":"Passport Video",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -73.103652,
+    44.447018,
+    -73.103652,
+    44.447018
+],
+  "geometry": {"coordinates":[-73.103652,44.447018],"type":"Point"}
+}

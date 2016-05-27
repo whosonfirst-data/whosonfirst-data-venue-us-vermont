@@ -1,0 +1,72 @@
+{
+  "id": 874250897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.97071,43.598083,-72.97071,43.598083",
+    "geom:latitude":43.598083,
+    "geom:longitude":-72.97071,
+    "iso:country":"US",
+    "sg:address":"153 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/rutland/181367-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2300",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50FWwsmuFUOW5QPhAjnRx8_43.598083_-72.970710@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313584,
+    "wof:geomhash":"693bf2676134d3dffe3da4635955f687",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874250897
+        }
+    ],
+    "wof:id":874250897,
+    "wof:lastmodified":1464313584,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -72.97071,
+    43.598083,
+    -72.97071,
+    43.598083
+],
+  "geometry": {"coordinates":[-72.97071,43.598083],"type":"Point"}
+}

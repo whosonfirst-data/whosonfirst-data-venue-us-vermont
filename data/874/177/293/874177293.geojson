@@ -1,0 +1,75 @@
+{
+  "id": 874177293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.379424,44.322345,-72.379424,44.322345",
+    "geom:latitude":44.322345,
+    "geom:longitude":-72.379424,
+    "iso:country":"US",
+    "sg:address":"182 Lafiria Pl",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 859 9663",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S6sm9e6sErCdNyNSr51KE_44.322345_-72.379424@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312599,
+    "wof:geomhash":"fff0bc116a5ea331deacc5b1dafaa680",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874177293
+        }
+    ],
+    "wof:id":874177293,
+    "wof:lastmodified":1464312599,
+    "wof:name":"Green Mountain Wildwoods",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.379424,
+    44.322345,
+    -72.379424,
+    44.322345
+],
+  "geometry": {"coordinates":[-72.379424,44.322345],"type":"Point"}
+}

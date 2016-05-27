@@ -1,0 +1,73 @@
+{
+  "id": 874162529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.353783,44.351274,-72.353783,44.351274",
+    "geom:latitude":44.351274,
+    "geom:longitude":-72.353783,
+    "iso:country":"US",
+    "sg:address":"1696 US Hwy 2",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pottery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3153",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iTCLL2v280gGBLq07ZYSS_44.351274_-72.353783@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312455,
+    "wof:geomhash":"f5ebf386d323d47adb5b025b8cbdefd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874162529
+        }
+    ],
+    "wof:id":874162529,
+    "wof:lastmodified":1464312455,
+    "wof:name":"Tait Pottery",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.353783,
+    44.351274,
+    -72.353783,
+    44.351274
+],
+  "geometry": {"coordinates":[-72.35378300000001,44.351274],"type":"Point"}
+}

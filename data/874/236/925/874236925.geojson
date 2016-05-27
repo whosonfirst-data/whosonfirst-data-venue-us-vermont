@@ -1,0 +1,70 @@
+{
+  "id": 874236925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.134471,44.507348,-73.134471,44.507348",
+    "geom:latitude":44.507348,
+    "geom:longitude":-73.134471,
+    "iso:country":"US",
+    "sg:address":"30 Susie Wilson Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 0003",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "personal"
+    ],
+    "sg:website":"www.chantillyrose.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q5BEGI3dQW9GWtIqukOlJ_44.507348_-73.134471@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313281,
+    "wof:geomhash":"cf8dc66549bff521a54a02ad51f24996",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874236925
+        }
+    ],
+    "wof:id":874236925,
+    "wof:lastmodified":1464313281,
+    "wof:name":"Chantilly Rose Florist",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal"
+    ]
+},
+  "bbox": [
+    -73.134471,
+    44.507348,
+    -73.134471,
+    44.507348
+],
+  "geometry": {"coordinates":[-73.134471,44.507348],"type":"Point"}
+}

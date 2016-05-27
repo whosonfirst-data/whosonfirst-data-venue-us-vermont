@@ -1,0 +1,71 @@
+{
+  "id": 874121141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088699,43.804919,-73.088699,43.804919",
+    "geom:latitude":43.804919,
+    "geom:longitude":-73.088699,
+    "iso:country":"US",
+    "sg:address":"8 Walnut St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 5778",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WrJbtLn2IqIViRG4VoEd4_43.804919_-73.088699@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312051,
+    "wof:geomhash":"1b88a7730fdca8f12f5957eddc0c598b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874121141
+        }
+    ],
+    "wof:id":874121141,
+    "wof:lastmodified":1464312051,
+    "wof:name":"Shields Construction",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -73.088699,
+    43.804919,
+    -73.088699,
+    43.804919
+],
+  "geometry": {"coordinates":[-73.08869900000001,43.804919],"type":"Point"}
+}

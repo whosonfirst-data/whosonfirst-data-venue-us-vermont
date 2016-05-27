@@ -1,0 +1,71 @@
+{
+  "id": 873998615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.449214,43.583124,-72.449214,43.583124",
+    "geom:latitude":43.583124,
+    "geom:longitude":-72.449214,
+    "iso:country":"US",
+    "sg:address":"194 Hartland Hill Rd",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 457 9289",
+    "sg:postcode":"05091",
+    "sg:province":"VT",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dCj4Y6UyS8wNpcpwNdMoV_43.583124_-72.449214@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310751,
+    "wof:geomhash":"d371ba6f085e3d5cbfb96b8316222021",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":873998615
+        }
+    ],
+    "wof:id":873998615,
+    "wof:lastmodified":1464310751,
+    "wof:name":"Air Land Svc Inc",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -72.449214,
+    43.583124,
+    -72.449214,
+    43.583124
+],
+  "geometry": {"coordinates":[-72.449214,43.583124],"type":"Point"}
+}

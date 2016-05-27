@@ -1,0 +1,69 @@
+{
+  "id": 873990791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.171044,44.338267,-73.171044,44.338267",
+    "geom:latitude":44.338267,
+    "geom:longitude":-73.171044,
+    "iso:country":"US",
+    "sg:address":"1627 Dorset St",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 7116",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85843159,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RjUPR4j9kDBR0VWjFPwqn_44.338267_-73.171044@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310695,
+    "wof:geomhash":"a2208a65ddb10e2e20561c71748b9505",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85843159,
+            "region_id":85688763,
+            "venue_id":873990791
+        }
+    ],
+    "wof:id":873990791,
+    "wof:lastmodified":1464310695,
+    "wof:name":"Black Horse Builders Inc",
+    "wof:parent_id":85843159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.171044,
+    44.338267,
+    -73.171044,
+    44.338267
+],
+  "geometry": {"coordinates":[-73.17104399999999,44.338267],"type":"Point"}
+}

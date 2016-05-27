@@ -1,0 +1,73 @@
+{
+  "id": 874238161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.331003,44.392752,-72.331003,44.392752",
+    "geom:latitude":44.392752,
+    "geom:longitude":-72.331003,
+    "iso:country":"US",
+    "sg:address":"1782 State Rte 215",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 563 2865",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KJ2wVBwyH8ZR1rt4Pa4I9_44.392752_-72.331003@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313304,
+    "wof:geomhash":"2b18894737b3e0cee1bb5b22de0ad0ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874238161
+        }
+    ],
+    "wof:id":874238161,
+    "wof:lastmodified":1464313304,
+    "wof:name":"Derek's Country Store",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.331003,
+    44.392752,
+    -72.331003,
+    44.392752
+],
+  "geometry": {"coordinates":[-72.331003,44.392752],"type":"Point"}
+}

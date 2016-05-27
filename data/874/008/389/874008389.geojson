@@ -1,0 +1,71 @@
+{
+  "id": 874008389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.735457,44.091496,-72.735457,44.091496",
+    "geom:latitude":44.091496,
+    "geom:longitude":-72.735457,
+    "iso:country":"US",
+    "sg:address":"112 Town Garage Rd",
+    "sg:city":"Roxbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 3287",
+    "sg:postcode":"05669",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FHYw0sto6lZbrZsV1WD8O_44.091496_-72.735457@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310844,
+    "wof:geomhash":"110cbf830c100ebf587a384384272733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874008389
+        }
+    ],
+    "wof:id":874008389,
+    "wof:lastmodified":1464310844,
+    "wof:name":"Town Garage",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.735457,
+    44.091496,
+    -72.735457,
+    44.091496
+],
+  "geometry": {"coordinates":[-72.735457,44.091496],"type":"Point"}
+}

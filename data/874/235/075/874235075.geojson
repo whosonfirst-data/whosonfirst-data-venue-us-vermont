@@ -1,0 +1,69 @@
+{
+  "id": 874235075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.976052,43.608206,-72.976052,43.608206",
+    "geom:latitude":43.608206,
+    "geom:longitude":-72.976052,
+    "iso:country":"US",
+    "sg:address":"56 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2252",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MEV2OYTcuTotjBd6rE5vl_43.608206_-72.976052@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313241,
+    "wof:geomhash":"c3e10e53d6cde408b1ed55d5c73697d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874235075
+        }
+    ],
+    "wof:id":874235075,
+    "wof:lastmodified":1464313241,
+    "wof:name":"Phototec Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.976052,
+    43.608206,
+    -72.976052,
+    43.608206
+],
+  "geometry": {"coordinates":[-72.976052,43.608206],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 874234987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.053112,43.174963,-73.053112,43.174963",
+    "geom:latitude":43.174963,
+    "geom:longitude":-73.053112,
+    "iso:country":"US",
+    "sg:address":"369 Depot St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 6198",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house",
+        "factory",
+        "outlet",
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832067,
+        102191575,
+        404527469,
+        85633793,
+        101728291,
+        102087439,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OX6Ksc9Q5v512bytZYmz2_43.174963_-73.053112@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313239,
+    "wof:geomhash":"f78219fdddeb90c900cfb5c28b8e9962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087439,
+            "localadmin_id":404527469,
+            "locality_id":101728291,
+            "neighbourhood_id":85832067,
+            "region_id":85688763,
+            "venue_id":874234987
+        }
+    ],
+    "wof:id":874234987,
+    "wof:lastmodified":1464313239,
+    "wof:name":"Garnet Hill Catalog Outlet",
+    "wof:parent_id":85832067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "factory",
+        "outlet",
+        "mail"
+    ]
+},
+  "bbox": [
+    -73.053112,
+    43.174963,
+    -73.053112,
+    43.174963
+],
+  "geometry": {"coordinates":[-73.053112,43.174963],"type":"Point"}
+}

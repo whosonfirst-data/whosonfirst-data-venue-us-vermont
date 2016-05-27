@@ -1,0 +1,71 @@
+{
+  "id": 874093881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.009048,44.377867,-72.009048,44.377867",
+    "geom:latitude":44.377867,
+    "geom:longitude":-72.009048,
+    "iso:country":"US",
+    "sg:address":"1958 Simpson Brook Rd",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 2162",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FQQS2b970TOzcFFx3IKcf_44.377867_-72.009048@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311702,
+    "wof:geomhash":"63d27116f6c0fd1a4591ea061e9ed32a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874093881
+        }
+    ],
+    "wof:id":874093881,
+    "wof:lastmodified":1464311702,
+    "wof:name":"Waterford Storage",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -72.009048,
+    44.377867,
+    -72.009048,
+    44.377867
+],
+  "geometry": {"coordinates":[-72.00904800000001,44.377867],"type":"Point"}
+}

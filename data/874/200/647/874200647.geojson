@@ -1,0 +1,70 @@
+{
+  "id": 874200647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.221925,42.907959,-73.221925,42.907959",
+    "geom:latitude":42.907959,
+    "geom:longitude":-73.221925,
+    "iso:country":"US",
+    "sg:address":"141 Hannaford Sq",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 1521",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.hannaford.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rk4D61Gdc0M7sxd112r7w_42.907959_-73.221925@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312850,
+    "wof:geomhash":"e5c4402d6793ad8e3a913ebbf81dacb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874200647
+        }
+    ],
+    "wof:id":874200647,
+    "wof:lastmodified":1464312850,
+    "wof:name":"Hannaford",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.221925,
+    42.907959,
+    -73.221925,
+    42.907959
+],
+  "geometry": {"coordinates":[-73.221925,42.907959],"type":"Point"}
+}

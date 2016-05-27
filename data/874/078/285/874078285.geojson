@@ -1,0 +1,71 @@
+{
+  "id": 874078285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.043885,43.593327,-73.043885,43.593327",
+    "geom:latitude":43.593327,
+    "geom:longitude":-73.043885,
+    "iso:country":"US",
+    "sg:address":"301 Main St",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 2025",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j5GPg8tGGE85JyGL7mKiE_43.593327_-73.043885@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311531,
+    "wof:geomhash":"94da6880b21e74661fb2030430ccfb6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874078285
+        }
+    ],
+    "wof:id":874078285,
+    "wof:lastmodified":1464311531,
+    "wof:name":"Harrington Custom Building",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.043885,
+    43.593327,
+    -73.043885,
+    43.593327
+],
+  "geometry": {"coordinates":[-73.043885,43.593327],"type":"Point"}
+}

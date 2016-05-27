@@ -1,0 +1,69 @@
+{
+  "id": 874070111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196671,44.550378,-73.196671,44.550378",
+    "geom:latitude":44.550378,
+    "geom:longitude":-73.196671,
+    "iso:country":"US",
+    "sg:address":"1022 E Lakeshore Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 2342",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DqXXxIW7DldO7MixHy91t_44.550378_-73.196671@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311433,
+    "wof:geomhash":"a55ae5956106a01ed894626fe2695f1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874070111
+        }
+    ],
+    "wof:id":874070111,
+    "wof:lastmodified":1464311433,
+    "wof:name":"Rozzies Lake Shore Tavern",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -73.196671,
+    44.550378,
+    -73.196671,
+    44.550378
+],
+  "geometry": {"coordinates":[-73.19667099999999,44.550378],"type":"Point"}
+}

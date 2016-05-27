@@ -1,0 +1,69 @@
+{
+  "id": 874078171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.481002,43.486583,-72.481002,43.486583",
+    "geom:latitude":43.486583,
+    "geom:longitude":-72.481002,
+    "iso:country":"US",
+    "sg:address":"325 Cemetery Rd",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 674 9303",
+    "sg:postcode":"05089",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pxYGnDyniem2MUIIdA7Pb_43.486583_-72.481002@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311530,
+    "wof:geomhash":"3c19c88310fad6b23ec4f67de9fa57d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874078171
+        }
+    ],
+    "wof:id":874078171,
+    "wof:lastmodified":1464311530,
+    "wof:name":"Helmuts German Auto Service",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.481002,
+    43.486583,
+    -72.481002,
+    43.486583
+],
+  "geometry": {"coordinates":[-72.481002,43.486583],"type":"Point"}
+}

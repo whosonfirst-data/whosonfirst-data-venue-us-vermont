@@ -1,0 +1,71 @@
+{
+  "id": 874063427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.704795,44.633219,-72.704795,44.633219",
+    "geom:latitude":44.633219,
+    "geom:longitude":-72.704795,
+    "iso:country":"US",
+    "sg:address":"415 Lendway Ln",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 2002",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849535,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Imsv0WPn6W6HaKy4Wa9M7_44.633219_-72.704795@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311366,
+    "wof:geomhash":"b20505180c8b704a6f0cee05827c5a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85849535,
+            "region_id":85688763,
+            "venue_id":874063427
+        }
+    ],
+    "wof:id":874063427,
+    "wof:lastmodified":1464311366,
+    "wof:name":"Mountain View Tours",
+    "wof:parent_id":85849535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -72.704795,
+    44.633219,
+    -72.704795,
+    44.633219
+],
+  "geometry": {"coordinates":[-72.704795,44.633219],"type":"Point"}
+}

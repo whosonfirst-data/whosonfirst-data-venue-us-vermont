@@ -1,0 +1,69 @@
+{
+  "id": 873997005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.216328,44.370569,-73.216328,44.370569",
+    "geom:latitude":44.370569,
+    "geom:longitude":-73.216328,
+    "iso:country":"US",
+    "sg:address":"1056 Falls Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 2109",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jASBec6xgIMRs2ro55xEA_44.370569_-73.216328@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310739,
+    "wof:geomhash":"27d809d786e2f5f50b75ac7c5c00ce27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":873997005
+        }
+    ],
+    "wof:id":873997005,
+    "wof:lastmodified":1464310739,
+    "wof:name":"Jeremy Smardon Carpentry",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    -73.216328,
+    44.370569,
+    -73.216328,
+    44.370569
+],
+  "geometry": {"coordinates":[-73.216328,44.370569],"type":"Point"}
+}

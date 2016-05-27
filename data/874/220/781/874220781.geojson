@@ -1,0 +1,71 @@
+{
+  "id": 874220781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.877076,42.787124,-72.877076,42.787124",
+    "geom:latitude":42.787124,
+    "geom:longitude":-72.877076,
+    "iso:country":"US",
+    "sg:address":"121 Sadawga Lake Rd",
+    "sg:city":"Whitingham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 368 2857",
+    "sg:postcode":"05361",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a4jxAjBL3pXkxOEcWX3yr_42.787124_-72.877076@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313072,
+    "wof:geomhash":"f77852f974f61ce5cbfc24ba91ec73de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874220781
+        }
+    ],
+    "wof:id":874220781,
+    "wof:lastmodified":1464313072,
+    "wof:name":"Hadley Electric Inc",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.877076,
+    42.787124,
+    -72.877076,
+    42.787124
+],
+  "geometry": {"coordinates":[-72.877076,42.787124],"type":"Point"}
+}

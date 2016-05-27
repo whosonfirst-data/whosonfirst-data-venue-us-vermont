@@ -1,0 +1,69 @@
+{
+  "id": 874156519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.156225,44.640122,-72.156225,44.640122",
+    "geom:latitude":44.640122,
+    "geom:longitude":-72.156225,
+    "iso:country":"US",
+    "sg:address":"317 Oregon Brook Rd",
+    "sg:city":"Sheffield",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 3695",
+    "sg:postcode":"05866",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fmPsq7uhtiES643ohuDR6_44.640122_-72.156225@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312394,
+    "wof:geomhash":"c0ff1614fd14cb5269e0ddaf820b9d71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874156519
+        }
+    ],
+    "wof:id":874156519,
+    "wof:lastmodified":1464312394,
+    "wof:name":"Oregon Brook Road Camping",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -72.156225,
+    44.640122,
+    -72.156225,
+    44.640122
+],
+  "geometry": {"coordinates":[-72.15622500000001,44.640122],"type":"Point"}
+}

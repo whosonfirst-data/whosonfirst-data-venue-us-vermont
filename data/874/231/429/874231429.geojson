@@ -1,0 +1,71 @@
+{
+  "id": 874231429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.995848,44.405399,-72.995848,44.405399",
+    "geom:latitude":44.405399,
+    "geom:longitude":-72.995848,
+    "iso:country":"US",
+    "sg:address":"134 Railroad St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 7471",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "food",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49pebqgkv4VWTEmCATqpJr_44.405399_-72.995848@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313180,
+    "wof:geomhash":"46d47bc287f988e23c428a2b709c8adc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874231429
+        }
+    ],
+    "wof:id":874231429,
+    "wof:lastmodified":1464313180,
+    "wof:name":"Little Cheese Inc",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -72.995848,
+    44.405399,
+    -72.995848,
+    44.405399
+],
+  "geometry": {"coordinates":[-72.995848,44.405399],"type":"Point"}
+}

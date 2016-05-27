@@ -1,0 +1,71 @@
+{
+  "id": 874044383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.981868,44.503985,-72.981868,44.503985",
+    "geom:latitude":44.503985,
+    "geom:longitude":-72.981868,
+    "iso:country":"US",
+    "sg:address":"85 Ross Ln",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5097",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41W1MaDYEPrIpgINuPACXW_44.503985_-72.981868@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311188,
+    "wof:geomhash":"cc4317b913e549f87084885e236cb00e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874044383
+        }
+    ],
+    "wof:id":874044383,
+    "wof:lastmodified":1464311188,
+    "wof:name":"Edwards Contracting Inc",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.981868,
+    44.503985,
+    -72.981868,
+    44.503985
+],
+  "geometry": {"coordinates":[-72.98186800000001,44.503985],"type":"Point"}
+}

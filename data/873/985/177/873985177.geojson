@@ -1,0 +1,71 @@
+{
+  "id": 873985177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.593657,44.554658,-72.593657,44.554658",
+    "geom:latitude":44.554658,
+    "geom:longitude":-72.593657,
+    "iso:country":"US",
+    "sg:address":"427 Washington Hwy",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 6852",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27LnxhdAXTM7ZalY3Zd57V_44.554658_-72.593657@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310651,
+    "wof:geomhash":"aa53e34352ca2b261caec15c245ac805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":873985177
+        }
+    ],
+    "wof:id":873985177,
+    "wof:lastmodified":1464310651,
+    "wof:name":"Green Mtn Speech & Hearing Ser",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "health"
+    ]
+},
+  "bbox": [
+    -72.593657,
+    44.554658,
+    -72.593657,
+    44.554658
+],
+  "geometry": {"coordinates":[-72.59365699999999,44.554658],"type":"Point"}
+}

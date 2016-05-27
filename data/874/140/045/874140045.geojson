@@ -1,0 +1,71 @@
+{
+  "id": 874140045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.974469,43.612353,-72.974469,43.612353",
+    "geom:latitude":43.612353,
+    "geom:longitude":-72.974469,
+    "iso:country":"US",
+    "sg:address":"46 Nichols St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2941",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eYyooWbCMxQNFaeh4tz1p_43.612353_-72.974469@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312235,
+    "wof:geomhash":"cb42a659d4d9477b28faa8a3ec707c0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874140045
+        }
+    ],
+    "wof:id":874140045,
+    "wof:lastmodified":1464312235,
+    "wof:name":"Haven Health Ctr Of Rutland",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -72.974469,
+    43.612353,
+    -72.974469,
+    43.612353
+],
+  "geometry": {"coordinates":[-72.974469,43.612353],"type":"Point"}
+}

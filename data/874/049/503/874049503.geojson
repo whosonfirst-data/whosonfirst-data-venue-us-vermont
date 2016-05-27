@@ -1,0 +1,71 @@
+{
+  "id": 874049503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.80822,43.187433,-72.80822,43.187433",
+    "geom:latitude":43.187433,
+    "geom:longitude":-72.80822,
+    "iso:country":"US",
+    "sg:address":"466 Main St",
+    "sg:city":"S Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 824 5525",
+    "sg:postcode":"05155",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85852185,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v5eweO7cZsprzp0vH1nW2_43.187433_-72.808220@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311236,
+    "wof:geomhash":"737c260087d199ca6abdba90858b474d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85852185,
+            "region_id":85688763,
+            "venue_id":874049503
+        }
+    ],
+    "wof:id":874049503,
+    "wof:lastmodified":1464311236,
+    "wof:name":"Wiley's Garage",
+    "wof:parent_id":85852185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.80822,
+    43.187433,
+    -72.80822,
+    43.187433
+],
+  "geometry": {"coordinates":[-72.80822000000001,43.187433],"type":"Point"}
+}

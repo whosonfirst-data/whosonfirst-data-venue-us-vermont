@@ -1,0 +1,71 @@
+{
+  "id": 874173673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167975,44.0143,-73.167975,44.0143",
+    "geom:latitude":44.0143,
+    "geom:longitude":-73.167975,
+    "iso:country":"US",
+    "sg:address":"40 Main St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3434",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74PXK8SfJjGI9HVwGyKPpt_44.014300_-73.167975@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312564,
+    "wof:geomhash":"9e4c10fca67186ca05926efa3931258a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874173673
+        }
+    ],
+    "wof:id":874173673,
+    "wof:lastmodified":1464312564,
+    "wof:name":"Middlebury Jewelry & Design",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.167975,
+    44.0143,
+    -73.167975,
+    44.0143
+],
+  "geometry": {"coordinates":[-73.167975,44.0143],"type":"Point"}
+}

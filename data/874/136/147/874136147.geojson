@@ -1,0 +1,73 @@
+{
+  "id": 874136147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.091262,43.799819,-73.091262,43.799819",
+    "geom:latitude":43.799819,
+    "geom:longitude":-73.091262,
+    "iso:country":"US",
+    "sg:address":"30 Conant Sq",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3111",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aum11kZs3J34sQ03fjEMY_43.799819_-73.091262@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312201,
+    "wof:geomhash":"7d4db77e5f5cb0312c119b6eb384cca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874136147
+        }
+    ],
+    "wof:id":874136147,
+    "wof:lastmodified":1464312201,
+    "wof:name":"Rutland Area Visiting Nurse",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -73.091262,
+    43.799819,
+    -73.091262,
+    43.799819
+],
+  "geometry": {"coordinates":[-73.091262,43.799819],"type":"Point"}
+}

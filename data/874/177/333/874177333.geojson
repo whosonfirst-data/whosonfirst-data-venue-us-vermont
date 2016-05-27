@@ -1,0 +1,73 @@
+{
+  "id": 874177333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.962144,43.592729,-72.962144,43.592729",
+    "geom:latitude":43.592729,
+    "geom:longitude":-72.962144,
+    "iso:country":"US",
+    "sg:address":"67 Curtis Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 0351",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TrxK35CuvNyNw0oiBryqc_43.592729_-72.962144@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312599,
+    "wof:geomhash":"1fa556762ace4df01a428798f43763c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874177333
+        }
+    ],
+    "wof:id":874177333,
+    "wof:lastmodified":1464312599,
+    "wof:name":"Action Flooring",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.962144,
+    43.592729,
+    -72.962144,
+    43.592729
+],
+  "geometry": {"coordinates":[-72.962144,43.592729],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874193881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.539718,44.12207,-72.539718,44.12207",
+    "geom:latitude":44.12207,
+    "geom:longitude":-72.539718,
+    "iso:country":"US",
+    "sg:address":"35 Beckett St",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 1101",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zm55X0kUJcwUKuMrh492U_44.122070_-72.539718@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312778,
+    "wof:geomhash":"669ff72dde2a2cd59d634b7c0c35af88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874193881
+        }
+    ],
+    "wof:id":874193881,
+    "wof:lastmodified":1464312778,
+    "wof:name":"Dying Needle Tattoo Parlor",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -72.539718,
+    44.12207,
+    -72.539718,
+    44.12207
+],
+  "geometry": {"coordinates":[-72.53971799999999,44.12207],"type":"Point"}
+}

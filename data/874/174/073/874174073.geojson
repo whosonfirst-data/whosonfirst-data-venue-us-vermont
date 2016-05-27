@@ -1,0 +1,69 @@
+{
+  "id": 874174073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.808027,44.902521,-72.808027,44.902521",
+    "geom:latitude":44.902521,
+    "geom:longitude":-72.808027,
+    "iso:country":"US",
+    "sg:address":"42 Village Dr",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 2559",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55qexVyy1jvSfAIlBBc2PJ_44.902521_-72.808027@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312569,
+    "wof:geomhash":"4a0a2c3c12e8061c391c6ec59cd63714",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874174073
+        }
+    ],
+    "wof:id":874174073,
+    "wof:lastmodified":1464312569,
+    "wof:name":"Enosburg Falls Village Clerk",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.808027,
+    44.902521,
+    -72.808027,
+    44.902521
+],
+  "geometry": {"coordinates":[-72.808027,44.902521],"type":"Point"}
+}

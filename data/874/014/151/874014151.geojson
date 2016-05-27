@@ -1,0 +1,71 @@
+{
+  "id": 874014151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.182117,44.504375,-73.182117,44.504375",
+    "geom:latitude":44.504375,
+    "geom:longitude":-73.182117,
+    "iso:country":"US",
+    "sg:address":"115 Whitcomb St",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 3432",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e1XKvbXH2HZ8QvLgu9LjK_44.504375_-73.182117@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310884,
+    "wof:geomhash":"7898095eada36a9f48c4cdc25991f45d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874014151
+        }
+    ],
+    "wof:id":874014151,
+    "wof:lastmodified":1464310884,
+    "wof:name":"Peckham Materials Corp",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.182117,
+    44.504375,
+    -73.182117,
+    44.504375
+],
+  "geometry": {"coordinates":[-73.18211700000001,44.504375],"type":"Point"}
+}

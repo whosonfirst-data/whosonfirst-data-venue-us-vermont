@@ -1,0 +1,71 @@
+{
+  "id": 873986147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.558201,44.575712,-72.558201,44.575712",
+    "geom:latitude":44.575712,
+    "geom:longitude":-72.558201,
+    "iso:country":"US",
+    "sg:address":"41 Stearns Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5308",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZOzoWyA0loFM36yDKT0PB_44.575712_-72.558201@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310663,
+    "wof:geomhash":"185b9e3ce851f0138ebbbc571ada111e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":873986147
+        }
+    ],
+    "wof:id":873986147,
+    "wof:lastmodified":1464310663,
+    "wof:name":"Je Lowe Construction",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.558201,
+    44.575712,
+    -72.558201,
+    44.575712
+],
+  "geometry": {"coordinates":[-72.558201,44.575712],"type":"Point"}
+}

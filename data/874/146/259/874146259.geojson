@@ -1,0 +1,71 @@
+{
+  "id": 874146259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.664866,44.14669,-72.664866,44.14669",
+    "geom:latitude":44.14669,
+    "geom:longitude":-72.664866,
+    "iso:country":"US",
+    "sg:address":"14 Richardson St",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 7060",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CXsXURhy85BdV3nlb6EDo_44.146690_-72.664866@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312295,
+    "wof:geomhash":"c94d097d8b03dc02c93767072e89e58c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874146259
+        }
+    ],
+    "wof:id":874146259,
+    "wof:lastmodified":1464312295,
+    "wof:name":"Allard Remodeling Co",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.664866,
+    44.14669,
+    -72.664866,
+    44.14669
+],
+  "geometry": {"coordinates":[-72.664866,44.14669],"type":"Point"}
+}

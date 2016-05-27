@@ -1,0 +1,71 @@
+{
+  "id": 874227503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.122787,44.448109,-73.122787,44.448109",
+    "geom:latitude":44.448109,
+    "geom:longitude":-73.122787,
+    "iso:country":"US",
+    "sg:address":"21 Commerce St",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 6823",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "synthetic",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TS0O4CYkPadBuIRVsakVM_44.448109_-73.122787@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313136,
+    "wof:geomhash":"10ed76fa1e12998dbdd9ca8dace01d25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874227503
+        }
+    ],
+    "wof:id":874227503,
+    "wof:lastmodified":1464313136,
+    "wof:name":"Emco",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synthetic",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.122787,
+    44.448109,
+    -73.122787,
+    44.448109
+],
+  "geometry": {"coordinates":[-73.122787,44.448109],"type":"Point"}
+}

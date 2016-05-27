@@ -1,0 +1,69 @@
+{
+  "id": 874036631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196391,42.877239,-73.196391,42.877239",
+    "geom:latitude":42.877239,
+    "geom:longitude":-73.196391,
+    "iso:country":"US",
+    "sg:address":"127 Union St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 8900",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QK6oUf6xrssFAtq7Boczi_42.877239_-73.196391@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311113,
+    "wof:geomhash":"0e9d389df7268b1d106a97d464ac6860",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874036631
+        }
+    ],
+    "wof:id":874036631,
+    "wof:lastmodified":1464311113,
+    "wof:name":"Manes House",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -73.196391,
+    42.877239,
+    -73.196391,
+    42.877239
+],
+  "geometry": {"coordinates":[-73.19639100000001,42.877239],"type":"Point"}
+}

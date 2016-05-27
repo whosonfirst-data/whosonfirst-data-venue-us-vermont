@@ -1,0 +1,80 @@
+{
+  "id": 874250381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.556602,42.886135,-72.556602,42.886135",
+    "geom:latitude":42.886135,
+    "geom:longitude":-72.556602,
+    "iso:country":"US",
+    "sg:address":"1184 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/brattleboro/222757-99-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 251 0899",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JRvB3H5Nr52E923M4mVzo_42.886135_-72.556602@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313574,
+    "wof:geomhash":"4de7326a065f540b4b2e710907a747ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874250381
+        }
+    ],
+    "wof:id":874250381,
+    "wof:lastmodified":1464313574,
+    "wof:name":"99 Restaurant",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -72.556602,
+    42.886135,
+    -72.556602,
+    42.886135
+],
+  "geometry": {"coordinates":[-72.556602,42.886135],"type":"Point"}
+}

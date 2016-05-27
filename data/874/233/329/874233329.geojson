@@ -1,0 +1,71 @@
+{
+  "id": 874233329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.625955,44.652622,-72.625955,44.652622",
+    "geom:latitude":44.652622,
+    "geom:longitude":-72.625955,
+    "iso:country":"US",
+    "sg:address":"451 Wilson Rd",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 7349",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pavement",
+        "marking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Aik13niDye9wnS84DcWjp_44.652622_-72.625955@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313206,
+    "wof:geomhash":"0c3d9b117f2871c3f2c5c8543644db7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874233329
+        }
+    ],
+    "wof:id":874233329,
+    "wof:lastmodified":1464313206,
+    "wof:name":"Total Seal Sealing & Paving",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pavement",
+        "marking"
+    ]
+},
+  "bbox": [
+    -72.625955,
+    44.652622,
+    -72.625955,
+    44.652622
+],
+  "geometry": {"coordinates":[-72.625955,44.652622],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874227855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21515,44.470898,-73.21515,44.470898",
+    "geom:latitude":44.470898,
+    "geom:longitude":-73.21515,
+    "iso:country":"US",
+    "sg:address":"310 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 9656",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AkakYx0rSElWdmmhYLkAI_44.470898_-73.215150@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313139,
+    "wof:geomhash":"5184f19c8703514ff6669a4620e207ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874227855
+        }
+    ],
+    "wof:id":874227855,
+    "wof:lastmodified":1464313139,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -73.21515,
+    44.470898,
+    -73.21515,
+    44.470898
+],
+  "geometry": {"coordinates":[-73.21514999999999,44.470898],"type":"Point"}
+}

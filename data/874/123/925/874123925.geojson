@@ -1,0 +1,73 @@
+{
+  "id": 874123925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.6587,44.059842,-72.6587,44.059842",
+    "geom:latitude":44.059842,
+    "geom:longitude":-72.6587,
+    "iso:country":"US",
+    "sg:address":"1822 Steele Hill Rd",
+    "sg:city":"Randolph",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 3184",
+    "sg:postcode":"05060",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72MJNMkEhHps9i2FvQXS3u_44.059842_-72.658700@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312076,
+    "wof:geomhash":"685f84cb4ac1f8fec5c7f6bcc6ecb80c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874123925
+        }
+    ],
+    "wof:id":874123925,
+    "wof:lastmodified":1464312076,
+    "wof:name":"First Settler Farm",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.6587,
+    44.059842,
+    -72.6587,
+    44.059842
+],
+  "geometry": {"coordinates":[-72.6587,44.059842],"type":"Point"}
+}

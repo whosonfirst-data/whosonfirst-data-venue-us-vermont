@@ -1,0 +1,71 @@
+{
+  "id": 874104509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.292385,44.182304,-73.292385,44.182304",
+    "geom:latitude":44.182304,
+    "geom:longitude":-73.292385,
+    "iso:country":"US",
+    "sg:address":"290 Cross Rd",
+    "sg:city":"Ferrisburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 6798",
+    "sg:postcode":"05456",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05jEWx5C6VeQNLSND0wh9v_44.182304_-73.292385@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311850,
+    "wof:geomhash":"4a2e514c0d03f8a24aeea625e2d9aacc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874104509
+        }
+    ],
+    "wof:id":874104509,
+    "wof:lastmodified":1464311850,
+    "wof:name":"Clark Garry",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.292385,
+    44.182304,
+    -73.292385,
+    44.182304
+],
+  "geometry": {"coordinates":[-73.292385,44.182304],"type":"Point"}
+}

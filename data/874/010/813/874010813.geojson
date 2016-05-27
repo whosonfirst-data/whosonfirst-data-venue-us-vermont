@@ -1,0 +1,69 @@
+{
+  "id": 874010813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.117139,44.495674,-73.117139,44.495674",
+    "geom:latitude":44.495674,
+    "geom:longitude":-73.117139,
+    "iso:country":"US",
+    "sg:address":"28 Prospect St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 4056",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_617cI7RtXkUiqe66d0HQrh_44.495674_-73.117139@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310861,
+    "wof:geomhash":"9f4579b63a62eb9fb10bef169b78bfe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874010813
+        }
+    ],
+    "wof:id":874010813,
+    "wof:lastmodified":1464310861,
+    "wof:name":"Ronald Bouffard Assoc",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -73.117139,
+    44.495674,
+    -73.117139,
+    44.495674
+],
+  "geometry": {"coordinates":[-73.11713899999999,44.495674],"type":"Point"}
+}

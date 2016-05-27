@@ -1,0 +1,69 @@
+{
+  "id": 874168415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.594917,43.723842,-72.594917,43.723842",
+    "geom:latitude":43.723842,
+    "geom:longitude":-72.594917,
+    "iso:country":"US",
+    "sg:address":"120 Royalton Hill Rd",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 8033",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72V8kfStQlRCy0oFYCLw59_43.723842_-72.594917@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312511,
+    "wof:geomhash":"9da0ffeb243a4926c5f2cc7247f12c50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874168415
+        }
+    ],
+    "wof:id":874168415,
+    "wof:lastmodified":1464312511,
+    "wof:name":"Sewage Treatment Plant",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.594917,
+    43.723842,
+    -72.594917,
+    43.723842
+],
+  "geometry": {"coordinates":[-72.594917,43.723842],"type":"Point"}
+}

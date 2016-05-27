@@ -1,0 +1,71 @@
+{
+  "id": 873994881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215,44.476921,-73.215,44.476921",
+    "geom:latitude":44.476921,
+    "geom:longitude":-73.215,
+    "iso:country":"US",
+    "sg:address":"127 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 2221",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fhc3YpaU6gLclXzJzmUSv_44.476921_-73.215000@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310725,
+    "wof:geomhash":"63bc58a025e962275ab79dc107ef5aff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873994881
+        }
+    ],
+    "wof:id":873994881,
+    "wof:lastmodified":1464310725,
+    "wof:name":"Bennington Potters North Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.215,
+    44.476921,
+    -73.215,
+    44.476921
+],
+  "geometry": {"coordinates":[-73.215,44.476921],"type":"Point"}
+}

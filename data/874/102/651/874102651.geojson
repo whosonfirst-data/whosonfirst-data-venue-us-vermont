@@ -1,0 +1,74 @@
+{
+  "id": 874102651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169653,44.466775,-73.169653,44.466775",
+    "geom:latitude":44.466775,
+    "geom:longitude":-73.169653,
+    "iso:country":"US",
+    "sg:address":"1117 Williston Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 0250",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "inn",
+        "bar"
+    ],
+    "sg:website":"www.clarionvermont.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OuwlYoFdSIDfLoLwYtQpe_44.466775_-73.169653@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311827,
+    "wof:geomhash":"989c30b05bf833d63ce3a8cb61e83f3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874102651
+        }
+    ],
+    "wof:id":874102651,
+    "wof:lastmodified":1464311827,
+    "wof:name":"Clarion Hotel",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "bar"
+    ]
+},
+  "bbox": [
+    -73.169653,
+    44.466775,
+    -73.169653,
+    44.466775
+],
+  "geometry": {"coordinates":[-73.169653,44.466775],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874169499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.804045,44.906828,-72.804045,44.906828",
+    "geom:latitude":44.906828,
+    "geom:longitude":-72.804045,
+    "iso:country":"US",
+    "sg:address":"57 Missisquoi St",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 4455",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.champlainchevrolet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ixaIH3L9qexR8kwDeNy5x_44.906828_-72.804045@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312521,
+    "wof:geomhash":"217a797cd4b740937dfe2559b05232aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874169499
+        }
+    ],
+    "wof:id":874169499,
+    "wof:lastmodified":1464312521,
+    "wof:name":"Champlain Chevrolet Inc",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.804045,
+    44.906828,
+    -72.804045,
+    44.906828
+],
+  "geometry": {"coordinates":[-72.804045,44.906828],"type":"Point"}
+}

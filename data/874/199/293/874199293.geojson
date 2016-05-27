@@ -1,0 +1,77 @@
+{
+  "id": 874199293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.156092,44.463638,-73.156092,44.463638",
+    "geom:latitude":44.463638,
+    "geom:longitude":-73.156092,
+    "iso:country":"US",
+    "sg:address":"1800 Williston Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 5844",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102532853,
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ylkKHnv6viWwda7eaCw5S_44.463638_-73.156092@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312837,
+    "wof:geomhash":"3fc52f12ccccd7686461a574a05c34fd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532853,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874199293
+        }
+    ],
+    "wof:id":874199293,
+    "wof:lastmodified":1464312837,
+    "wof:name":"Airport Exxon",
+    "wof:parent_id":102532853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -73.156092,
+    44.463638,
+    -73.156092,
+    44.463638
+],
+  "geometry": {"coordinates":[-73.156092,44.463638],"type":"Point"}
+}

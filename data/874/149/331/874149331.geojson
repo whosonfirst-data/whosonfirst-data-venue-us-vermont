@@ -1,0 +1,69 @@
+{
+  "id": 874149331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.558661,42.880819,-72.558661,42.880819",
+    "geom:latitude":42.880819,
+    "geom:longitude":-72.558661,
+    "iso:country":"US",
+    "sg:address":"865 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 1177",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55yfJZF70tI4gPhFcjm4vT_42.880819_-72.558661@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312323,
+    "wof:geomhash":"8e62fe1aff06de1c39dba5bb094f3493",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874149331
+        }
+    ],
+    "wof:id":874149331,
+    "wof:lastmodified":1464312323,
+    "wof:name":"Brattleboro Bowl",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -72.558661,
+    42.880819,
+    -72.558661,
+    42.880819
+],
+  "geometry": {"coordinates":[-72.558661,42.880819],"type":"Point"}
+}

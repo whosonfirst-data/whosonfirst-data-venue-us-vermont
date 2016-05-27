@@ -1,0 +1,69 @@
+{
+  "id": 874232411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.034495,44.486324,-72.034495,44.486324",
+    "geom:latitude":44.486324,
+    "geom:longitude":-72.034495,
+    "iso:country":"US",
+    "sg:address":"226 Sadie Roberts Rd",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3407",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v8aBLE4Cda4bTvFU2j8TE_44.486324_-72.034495@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313192,
+    "wof:geomhash":"ebdb9309537621e52fc67612ac498402",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874232411
+        }
+    ],
+    "wof:id":874232411,
+    "wof:lastmodified":1464313192,
+    "wof:name":"Caledonia Veterinary Svc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.034495,
+    44.486324,
+    -72.034495,
+    44.486324
+],
+  "geometry": {"coordinates":[-72.03449500000001,44.486324],"type":"Point"}
+}

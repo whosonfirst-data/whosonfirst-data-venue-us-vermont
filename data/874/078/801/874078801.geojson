@@ -1,0 +1,84 @@
+{
+  "id": 874078801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.134564,44.502012,-73.134564,44.502012",
+    "geom:latitude":44.502012,
+    "geom:longitude":-73.134564,
+    "iso:country":"US",
+    "sg:address":"209 Pearl St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 6851",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plant",
+        "design",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_509iKuxFftu1d6szDdYlEA_44.502012_-73.134564@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311540,
+    "wof:geomhash":"b36a3d091c87c8aee39c30ebebc31704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874078801
+        }
+    ],
+    "wof:id":874078801,
+    "wof:lastmodified":1464311540,
+    "wof:name":"Plant Lady Interior Scape",
+    "wof:parent_id":85828531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "design",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.134564,
+    44.502012,
+    -73.134564,
+    44.502012
+],
+  "geometry": {"coordinates":[-73.134564,44.502012],"type":"Point"}
+}

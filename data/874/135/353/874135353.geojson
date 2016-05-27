@@ -1,0 +1,75 @@
+{
+  "id": 874135353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.506512,44.203261,-72.506512,44.203261",
+    "geom:latitude":44.203261,
+    "geom:longitude":-72.506512,
+    "iso:country":"US",
+    "sg:address":"34 Maple Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6977",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k7o7LyQYiZqYMX4DILigw_44.203261_-72.506512@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312194,
+    "wof:geomhash":"15461f9e8f79c69d299a354ce19f5b92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874135353
+        }
+    ],
+    "wof:id":874135353,
+    "wof:lastmodified":1464312194,
+    "wof:name":"Ayer Auto Body",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.506512,
+    44.203261,
+    -72.506512,
+    44.203261
+],
+  "geometry": {"coordinates":[-72.506512,44.203261],"type":"Point"}
+}

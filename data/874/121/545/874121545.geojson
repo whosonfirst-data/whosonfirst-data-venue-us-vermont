@@ -1,0 +1,66 @@
+{
+  "id": 874121545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.173625,44.466321,-73.173625,44.466321",
+    "geom:latitude":44.466321,
+    "geom:longitude":-73.173625,
+    "iso:country":"US",
+    "sg:address":"80 Midas Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 3393",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Yx0Rf9LLyXC4CIVbD3cZE_44.466321_-73.173625@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312055,
+    "wof:geomhash":"a592418ae3225c06c30d3ac4496fa376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874121545
+        }
+    ],
+    "wof:id":874121545,
+    "wof:lastmodified":1464312055,
+    "wof:name":"Palmer Insurance",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.173625,
+    44.466321,
+    -73.173625,
+    44.466321
+],
+  "geometry": {"coordinates":[-73.173625,44.466321],"type":"Point"}
+}

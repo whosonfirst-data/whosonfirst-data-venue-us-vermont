@@ -1,0 +1,71 @@
+{
+  "id": 874240469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.978402,43.606496,-72.978402,43.606496",
+    "geom:latitude":43.606496,
+    "geom:longitude":-72.978402,
+    "iso:country":"US",
+    "sg:address":"24 Center St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4358",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "personal",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DWHYANoyRWabc3nCkdvFv_43.606496_-72.978402@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313349,
+    "wof:geomhash":"2369760bc9eb5fcdf104382c630aba25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874240469
+        }
+    ],
+    "wof:id":874240469,
+    "wof:lastmodified":1464313349,
+    "wof:name":"Citifinancial",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "institution"
+    ]
+},
+  "bbox": [
+    -72.978402,
+    43.606496,
+    -72.978402,
+    43.606496
+],
+  "geometry": {"coordinates":[-72.978402,43.606496],"type":"Point"}
+}

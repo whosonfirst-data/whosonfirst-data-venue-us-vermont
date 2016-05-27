@@ -1,0 +1,71 @@
+{
+  "id": 874215083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.20903,44.466454,-73.20903,44.466454",
+    "geom:latitude":44.466454,
+    "geom:longitude":-73.20903,
+    "iso:country":"US",
+    "sg:address":"463 Saint Paul St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 951 9714",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "aromatherapy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zlo31EjaNLzgt4Etw4GIA_44.466454_-73.209030@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313005,
+    "wof:geomhash":"ee79bd17b4f639ebd27a0e73ea116677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874215083
+        }
+    ],
+    "wof:id":874215083,
+    "wof:lastmodified":1464313005,
+    "wof:name":"Lunaroma Aromatic Apothecary",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aromatherapy"
+    ]
+},
+  "bbox": [
+    -73.20903,
+    44.466454,
+    -73.20903,
+    44.466454
+],
+  "geometry": {"coordinates":[-73.20903,44.466454],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 874255713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.96924,43.594117,-72.96924,43.594117",
+    "geom:latitude":43.594117,
+    "geom:longitude":-72.96924,
+    "iso:country":"US",
+    "sg:address":"18A Chaplin Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 3777",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "removal",
+        "truck",
+        "dent",
+        "painting"
+    ],
+    "sg:website":"http://www.parkersauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JrhH4t3505nBPojX8iEpX_43.594117_-72.969240@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313690,
+    "wof:geomhash":"b2151fb3400c2cd8c2924e2e967f5f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255713
+        }
+    ],
+    "wof:id":874255713,
+    "wof:lastmodified":1464313690,
+    "wof:name":"Parker's Classic Auto Works",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "removal",
+        "truck",
+        "dent",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.96924,
+    43.594117,
+    -72.96924,
+    43.594117
+],
+  "geometry": {"coordinates":[-72.96924,43.594117],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874254381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.836304,44.644001,-72.836304,44.644001",
+    "geom:latitude":44.644001,
+    "geom:longitude":-72.836304,
+    "iso:country":"US",
+    "sg:address":"4879 Vt Route 15",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8111",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68ButUstGcSzxfCAPn29zK_44.644001_-72.836304@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313655,
+    "wof:geomhash":"e4445c2b1f346eaa515466beba40c4da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874254381
+        }
+    ],
+    "wof:id":874254381,
+    "wof:lastmodified":1464313655,
+    "wof:name":"Video Matinee",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -72.836304,
+    44.644001,
+    -72.836304,
+    44.644001
+],
+  "geometry": {"coordinates":[-72.836304,44.644001],"type":"Point"}
+}

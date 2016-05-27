@@ -1,0 +1,73 @@
+{
+  "id": 874180873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088133,43.800429,-73.088133,43.800429",
+    "geom:latitude":43.800429,
+    "geom:longitude":-73.088133,
+    "iso:country":"US",
+    "sg:address":"3 W Seminary St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3444",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Am7ilnOetGaoiDLOCxYeS_43.800429_-73.088133@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312638,
+    "wof:geomhash":"f7c3aabd5b31c65a082d5aa8c70507b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874180873
+        }
+    ],
+    "wof:id":874180873,
+    "wof:lastmodified":1464312638,
+    "wof:name":"Maynard Auto Supply Inc",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -73.088133,
+    43.800429,
+    -73.088133,
+    43.800429
+],
+  "geometry": {"coordinates":[-73.088133,43.800429],"type":"Point"}
+}

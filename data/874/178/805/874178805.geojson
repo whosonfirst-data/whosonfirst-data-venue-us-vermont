@@ -1,0 +1,70 @@
+{
+  "id": 874178805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206843,42.873267,-73.206843,42.873267",
+    "geom:latitude":42.873267,
+    "geom:longitude":-73.206843,
+    "iso:country":"US",
+    "sg:address":"160 Hospital Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 1547",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "sg:website":"www.svhealthcare.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33UAwD8YQ7cPjVccERGAii_42.873267_-73.206843@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312617,
+    "wof:geomhash":"0326759b6f58b0dbc9ff9d3032d6c968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874178805
+        }
+    ],
+    "wof:id":874178805,
+    "wof:lastmodified":1464312617,
+    "wof:name":"Centers For Living & Rehab",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -73.206843,
+    42.873267,
+    -73.206843,
+    42.873267
+],
+  "geometry": {"coordinates":[-73.20684300000001,42.873267],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874179273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.954555,44.511197,-72.954555,44.511197",
+    "geom:latitude":44.511197,
+    "geom:longitude":-72.954555,
+    "iso:country":"US",
+    "sg:address":"6 Orr Rd",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 3753",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d6bpqiUiOVKFTsCTDiih6_44.511197_-72.954555@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312623,
+    "wof:geomhash":"951467530ed914ac523c71582f19ff4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874179273
+        }
+    ],
+    "wof:id":874179273,
+    "wof:lastmodified":1464312623,
+    "wof:name":"Clark's Truck Ctr",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -72.954555,
+    44.511197,
+    -72.954555,
+    44.511197
+],
+  "geometry": {"coordinates":[-72.954555,44.511197],"type":"Point"}
+}

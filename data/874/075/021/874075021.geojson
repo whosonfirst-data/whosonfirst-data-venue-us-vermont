@@ -1,0 +1,71 @@
+{
+  "id": 874075021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.195045,44.49054,-73.195045,44.49054",
+    "geom:latitude":44.49054,
+    "geom:longitude":-73.195045,
+    "iso:country":"US",
+    "sg:address":"94 W Canal St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 1921",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sFcSpWl6oQdmS058Xls3X_44.490540_-73.195045@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311502,
+    "wof:geomhash":"00cea9bad05feba9f78b2a0b97b2722d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874075021
+        }
+    ],
+    "wof:id":874075021,
+    "wof:lastmodified":1464311502,
+    "wof:name":"Body Le Bronze Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -73.195045,
+    44.49054,
+    -73.195045,
+    44.49054
+],
+  "geometry": {"coordinates":[-73.19504499999999,44.49054],"type":"Point"}
+}

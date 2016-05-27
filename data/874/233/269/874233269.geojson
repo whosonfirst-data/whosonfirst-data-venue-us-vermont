@@ -1,0 +1,69 @@
+{
+  "id": 874233269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206584,42.945807,-73.206584,42.945807",
+    "geom:latitude":42.945807,
+    "geom:longitude":-73.206584,
+    "iso:country":"US",
+    "sg:address":"61 Buck Hill Rd",
+    "sg:city":"Shaftsbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 4038",
+    "sg:postcode":"05262",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CqocrKKILcZ9oZ4emoLJG_42.945807_-73.206584@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313204,
+    "wof:geomhash":"2c9570d606166d25d51f5dd54ddf538e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874233269
+        }
+    ],
+    "wof:id":874233269,
+    "wof:lastmodified":1464313204,
+    "wof:name":"Town Clerk",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -73.206584,
+    42.945807,
+    -73.206584,
+    42.945807
+],
+  "geometry": {"coordinates":[-73.20658400000001,42.945807],"type":"Point"}
+}

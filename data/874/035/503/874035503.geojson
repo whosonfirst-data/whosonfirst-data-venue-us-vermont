@@ -1,0 +1,66 @@
+{
+  "id": 874035503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.482076,44.182395,-72.482076,44.182395",
+    "geom:latitude":44.182395,
+    "geom:longitude":-72.482076,
+    "iso:country":"US",
+    "sg:address":"492 E Barre Rd",
+    "sg:city":"East Barre",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7801",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G7GU1LBdtlTYr6YuJ70oe_44.182395_-72.482076@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311099,
+    "wof:geomhash":"582e2ae2a713ea5173d6b260253aed9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874035503
+        }
+    ],
+    "wof:id":874035503,
+    "wof:lastmodified":1464311099,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.482076,
+    44.182395,
+    -72.482076,
+    44.182395
+],
+  "geometry": {"coordinates":[-72.48207600000001,44.182395],"type":"Point"}
+}

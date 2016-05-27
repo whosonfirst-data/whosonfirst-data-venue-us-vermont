@@ -1,0 +1,71 @@
+{
+  "id": 874005607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.408472,44.255666,-72.408472,44.255666",
+    "geom:latitude":44.255666,
+    "geom:longitude":-72.408472,
+    "iso:country":"US",
+    "sg:address":"185 Fowler Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 454 7763",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xQ3uH3W1oLJsF1qaVEu7j_44.255666_-72.408472@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310821,
+    "wof:geomhash":"f537cac9a52de34db7be1100f1014843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874005607
+        }
+    ],
+    "wof:id":874005607,
+    "wof:lastmodified":1464310821,
+    "wof:name":"Technical Service Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -72.408472,
+    44.255666,
+    -72.408472,
+    44.255666
+],
+  "geometry": {"coordinates":[-72.408472,44.255666],"type":"Point"}
+}

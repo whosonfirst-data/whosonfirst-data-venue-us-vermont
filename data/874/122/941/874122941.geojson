@@ -1,0 +1,69 @@
+{
+  "id": 874122941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.617324,44.539425,-72.617324,44.539425",
+    "geom:latitude":44.539425,
+    "geom:longitude":-72.617324,
+    "iso:country":"US",
+    "sg:address":"2093 Laporte Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 4201",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0adBpS9XT44XGk3Uh2b4R4_44.539425_-72.617324@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312068,
+    "wof:geomhash":"b7c9fac6b54fc035c453576117832b4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874122941
+        }
+    ],
+    "wof:id":874122941,
+    "wof:lastmodified":1464312068,
+    "wof:name":"Aesculapian Veterinary Svc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.617324,
+    44.539425,
+    -72.617324,
+    44.539425
+],
+  "geometry": {"coordinates":[-72.617324,44.539425],"type":"Point"}
+}

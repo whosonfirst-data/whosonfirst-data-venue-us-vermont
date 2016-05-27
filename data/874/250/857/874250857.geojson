@@ -1,0 +1,72 @@
+{
+  "id": 874250857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.714653,44.473964,-72.714653,44.473964",
+    "geom:latitude":44.473964,
+    "geom:longitude":-72.714653,
+    "iso:country":"US",
+    "sg:address":"1899 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/stowe/246138-pie-casso-pizzerie--lounge/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 4411",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E3u4W49sS9qgdqDfxehzh_44.473964_-72.714653@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313583,
+    "wof:geomhash":"345edc0c8d4f8e97c858d978bd51d108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874250857
+        }
+    ],
+    "wof:id":874250857,
+    "wof:lastmodified":1464313583,
+    "wof:name":"Pie Casso Pizzerie & Lounge",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.714653,
+    44.473964,
+    -72.714653,
+    44.473964
+],
+  "geometry": {"coordinates":[-72.714653,44.473964],"type":"Point"}
+}

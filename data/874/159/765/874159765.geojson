@@ -1,0 +1,71 @@
+{
+  "id": 874159765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.15775,44.565066,-73.15775,44.565066",
+    "geom:latitude":44.565066,
+    "geom:longitude":-73.15775,
+    "iso:country":"US",
+    "sg:address":"3436 Roosevelt Hwy",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 1986",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "refuse",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13MWcviQCya83lsivrbQtE_44.565066_-73.157750@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312429,
+    "wof:geomhash":"0b4172c9add9898b9a165d6c65603608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":874159765
+        }
+    ],
+    "wof:id":874159765,
+    "wof:lastmodified":1464312429,
+    "wof:name":"Colchester Variety Inc",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refuse",
+        "system"
+    ]
+},
+  "bbox": [
+    -73.15775,
+    44.565066,
+    -73.15775,
+    44.565066
+],
+  "geometry": {"coordinates":[-73.15774999999999,44.565066],"type":"Point"}
+}

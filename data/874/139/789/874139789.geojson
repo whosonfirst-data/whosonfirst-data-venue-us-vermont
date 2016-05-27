@@ -1,0 +1,78 @@
+{
+  "id": 874139789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.926669,44.401593,-71.926669,44.401593",
+    "geom:latitude":44.401593,
+    "geom:longitude":-71.926669,
+    "iso:country":"US",
+    "sg:address":"175 Duck Pond Rd",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3879",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OhPGDOVLibWAnH1JLIQre_44.401593_-71.926669@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312233,
+    "wof:geomhash":"648a4169b2200f27e0f0952e3ead644c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874139789
+        }
+    ],
+    "wof:id":874139789,
+    "wof:lastmodified":1464312233,
+    "wof:name":"Eddie's Bakery",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ]
+},
+  "bbox": [
+    -71.926669,
+    44.401593,
+    -71.926669,
+    44.401593
+],
+  "geometry": {"coordinates":[-71.926669,44.401593],"type":"Point"}
+}

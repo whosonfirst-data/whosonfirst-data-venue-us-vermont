@@ -1,0 +1,79 @@
+{
+  "id": 874252709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.217702,44.475757,-73.217702,44.475757",
+    "geom:latitude":44.475757,
+    "geom:longitude":-73.217702,
+    "iso:country":"US",
+    "sg:address":"40 Main St Ste 500",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 4600",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "agent",
+        "resume"
+    ],
+    "sg:website":"http://www.sbtinsurance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11FLZH32mdXnj8hxKkNcWZ_44.475757_-73.217702@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313619,
+    "wof:geomhash":"91e1504f5c480a2f53ffbca31ba80821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874252709
+        }
+    ],
+    "wof:id":874252709,
+    "wof:lastmodified":1464313619,
+    "wof:name":"Willis Hrh",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "resume"
+    ]
+},
+  "bbox": [
+    -73.217702,
+    44.475757,
+    -73.217702,
+    44.475757
+],
+  "geometry": {"coordinates":[-73.217702,44.475757],"type":"Point"}
+}

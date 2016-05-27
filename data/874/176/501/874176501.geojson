@@ -1,0 +1,80 @@
+{
+  "id": 874176501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.540639,44.242859,-72.540639,44.242859",
+    "geom:latitude":44.242859,
+    "geom:longitude":-72.540639,
+    "iso:country":"US",
+    "sg:address":"122 Gallison Hill Rd",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 5747",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gk9m2gtK2QlFWT78kW8wX_44.242859_-72.540639@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312592,
+    "wof:geomhash":"148db0401f0c6835d316697973514efb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874176501
+        }
+    ],
+    "wof:id":874176501,
+    "wof:lastmodified":1464312592,
+    "wof:name":"Statewide Distributing Of Vt",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -72.540639,
+    44.242859,
+    -72.540639,
+    44.242859
+],
+  "geometry": {"coordinates":[-72.540639,44.242859],"type":"Point"}
+}

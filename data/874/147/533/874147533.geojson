@@ -1,0 +1,71 @@
+{
+  "id": 874147533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.705214,43.483952,-72.705214,43.483952",
+    "geom:latitude":43.483952,
+    "geom:longitude":-72.705214,
+    "iso:country":"US",
+    "sg:address":"1658 State Rte 100",
+    "sg:city":"Ludlow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 228 8506",
+    "sg:postcode":"05149",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13I6kRVtkk65ubmkMSCk5B_43.483952_-72.705214@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312307,
+    "wof:geomhash":"347f4b8359b090a2fdbfa3d4b2600c6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874147533
+        }
+    ],
+    "wof:id":874147533,
+    "wof:lastmodified":1464312307,
+    "wof:name":"Norton Excavating Inc",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.705214,
+    43.483952,
+    -72.705214,
+    43.483952
+],
+  "geometry": {"coordinates":[-72.705214,43.483952],"type":"Point"}
+}

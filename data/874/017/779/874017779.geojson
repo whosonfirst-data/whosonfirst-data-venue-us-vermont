@@ -1,0 +1,70 @@
+{
+  "id": 874017779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977822,43.607687,-72.977822,43.607687",
+    "geom:latitude":43.607687,
+    "geom:longitude":-72.977822,
+    "iso:country":"US",
+    "sg:address":"27 Wales St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 6121",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.rutlandherald.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25vq1GKGmZrJfXr65AIW2N_43.607687_-72.977822@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310923,
+    "wof:geomhash":"d810c7c5bcb0bec5428bf872f576f7cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874017779
+        }
+    ],
+    "wof:id":874017779,
+    "wof:lastmodified":1464310923,
+    "wof:name":"Rutland Herald",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -72.977822,
+    43.607687,
+    -72.977822,
+    43.607687
+],
+  "geometry": {"coordinates":[-72.977822,43.607687],"type":"Point"}
+}

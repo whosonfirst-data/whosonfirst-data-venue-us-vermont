@@ -1,0 +1,73 @@
+{
+  "id": 874176753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.49457,44.193359,-72.49457,44.193359",
+    "geom:latitude":44.193359,
+    "geom:longitude":-72.49457,
+    "iso:country":"US",
+    "sg:address":"135 Washington St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0645",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Hod2Bl233HzzRMdo42zWa_44.193359_-72.494570@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312594,
+    "wof:geomhash":"aa62b5d8788139977082ca5a3c5c3283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874176753
+        }
+    ],
+    "wof:id":874176753,
+    "wof:lastmodified":1464312594,
+    "wof:name":"Community Financial Svc Group",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -72.49457,
+    44.193359,
+    -72.49457,
+    44.193359
+],
+  "geometry": {"coordinates":[-72.49457,44.193359],"type":"Point"}
+}

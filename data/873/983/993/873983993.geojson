@@ -1,0 +1,71 @@
+{
+  "id": 873983993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.024005,44.424119,-72.024005,44.424119",
+    "geom:latitude":44.424119,
+    "geom:longitude":-72.024005,
+    "iso:country":"US",
+    "sg:address":"164 Webster St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 2487",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "door",
+        "install"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jq1bRPcEWvxwM8D6TYGJW_44.424119_-72.024005@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310642,
+    "wof:geomhash":"af50323a7ebd72f21283f1fbedd6810d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":873983993
+        }
+    ],
+    "wof:id":873983993,
+    "wof:lastmodified":1464310642,
+    "wof:name":"Saint Johnsbury Overhead Doors",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door",
+        "install"
+    ]
+},
+  "bbox": [
+    -72.024005,
+    44.424119,
+    -72.024005,
+    44.424119
+],
+  "geometry": {"coordinates":[-72.024005,44.424119],"type":"Point"}
+}

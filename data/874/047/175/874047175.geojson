@@ -1,0 +1,71 @@
+{
+  "id": 874047175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.634278,42.867501,-72.634278,42.867501",
+    "geom:latitude":42.867501,
+    "geom:longitude":-72.634278,
+    "iso:country":"US",
+    "sg:address":"852 Marlboro Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 8140",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "clinic",
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10pVIOFxzoVqrpj0TRuoh4_42.867501_-72.634278@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311216,
+    "wof:geomhash":"26deacf49b91cfe17e0320b709850a0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874047175
+        }
+    ],
+    "wof:id":874047175,
+    "wof:lastmodified":1464311216,
+    "wof:name":"Brattleboro Veterinary Clinic",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.634278,
+    42.867501,
+    -72.634278,
+    42.867501
+],
+  "geometry": {"coordinates":[-72.63427799999999,42.867501],"type":"Point"}
+}

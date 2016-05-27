@@ -1,0 +1,71 @@
+{
+  "id": 874092647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.583505,43.262857,-72.583505,43.262857",
+    "geom:latitude":43.262857,
+    "geom:longitude":-72.583505,
+    "iso:country":"US",
+    "sg:address":"457 Elm St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 2020",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6upviOIdhOpJSD0e4QTEBr_43.262857_-72.583505@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311691,
+    "wof:geomhash":"7aa69c380c1f83162e344468690432ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874092647
+        }
+    ],
+    "wof:id":874092647,
+    "wof:lastmodified":1464311691,
+    "wof:name":"Benny's Power",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -72.583505,
+    43.262857,
+    -72.583505,
+    43.262857
+],
+  "geometry": {"coordinates":[-72.583505,43.262857],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874229729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.992538,44.446676,-72.992538,44.446676",
+    "geom:latitude":44.446676,
+    "geom:longitude":-72.992538,
+    "iso:country":"US",
+    "sg:address":"120 Tarbox Rd",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 0439",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FYDzp8sXfDLV83HOmTD1r_44.446676_-72.992538@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313157,
+    "wof:geomhash":"94b9032ea2a3271137091da9cc78e18d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874229729
+        }
+    ],
+    "wof:id":874229729,
+    "wof:lastmodified":1464313157,
+    "wof:name":"Smolinski Properties",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.992538,
+    44.446676,
+    -72.992538,
+    44.446676
+],
+  "geometry": {"coordinates":[-72.992538,44.446676],"type":"Point"}
+}

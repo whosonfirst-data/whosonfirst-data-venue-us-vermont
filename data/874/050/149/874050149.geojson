@@ -1,0 +1,71 @@
+{
+  "id": 874050149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.054892,43.177388,-73.054892,43.177388",
+    "geom:latitude":43.177388,
+    "geom:longitude":-73.054892,
+    "iso:country":"US",
+    "sg:address":"5018 Main St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 1652",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "packaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MAC7ZllZAxPDDVf5AMJEn_43.177388_-73.054892@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311242,
+    "wof:geomhash":"e666a03b2c52f0c8ff27aa00582013d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874050149
+        }
+    ],
+    "wof:id":874050149,
+    "wof:lastmodified":1464311242,
+    "wof:name":"Iship Express",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging"
+    ]
+},
+  "bbox": [
+    -73.054892,
+    43.177388,
+    -73.054892,
+    43.177388
+],
+  "geometry": {"coordinates":[-73.054892,43.177388],"type":"Point"}
+}

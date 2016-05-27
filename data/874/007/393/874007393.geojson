@@ -1,0 +1,71 @@
+{
+  "id": 874007393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212225,43.916179,-73.212225,43.916179",
+    "geom:latitude":43.916179,
+    "geom:longitude":-73.212225,
+    "iso:country":"US",
+    "sg:address":"314 Douglas Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 3118",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71DvHI4J4g6qg6SMnuKmfj_43.916179_-73.212225@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310835,
+    "wof:geomhash":"4acd5397a814eb3887640e4813073eb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":874007393
+        }
+    ],
+    "wof:id":874007393,
+    "wof:lastmodified":1464310835,
+    "wof:name":"Eric Mortensen",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -73.212225,
+    43.916179,
+    -73.212225,
+    43.916179
+],
+  "geometry": {"coordinates":[-73.212225,43.916179],"type":"Point"}
+}

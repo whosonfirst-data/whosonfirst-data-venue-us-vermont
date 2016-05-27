@@ -1,0 +1,79 @@
+{
+  "id": 874033963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.120885,44.465147,-73.120885,44.465147",
+    "geom:latitude":44.465147,
+    "geom:longitude":-73.120885,
+    "iso:country":"US",
+    "sg:address":"552 Ave D",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 951 8677",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "installation",
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bUgn43dYVq2sbDOJYgR7a_44.465147_-73.120885@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311084,
+    "wof:geomhash":"bbf7071fb96043d81e5cf6bd674bb4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874033963
+        }
+    ],
+    "wof:id":874033963,
+    "wof:lastmodified":1464311084,
+    "wof:name":"LOF Svc Ctr",
+    "wof:parent_id":85828531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "installation",
+        "glass"
+    ]
+},
+  "bbox": [
+    -73.120885,
+    44.465147,
+    -73.120885,
+    44.465147
+],
+  "geometry": {"coordinates":[-73.120885,44.465147],"type":"Point"}
+}

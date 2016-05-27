@@ -1,0 +1,75 @@
+{
+  "id": 873984307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.431121,43.581189,-72.431121,43.581189",
+    "geom:latitude":43.581189,
+    "geom:longitude":-72.431121,
+    "iso:country":"US",
+    "sg:address":"12 Short Rd",
+    "sg:city":"Hartland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 436 1206",
+    "sg:postcode":"05048",
+    "sg:province":"VT",
+    "sg:tags":[
+        "household",
+        "wood",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cfrpJFbZ6lQ4RGxYW65aR_43.581189_-72.431121@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310645,
+    "wof:geomhash":"b640cfde04b20b59a0474e9bce5ffa33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":873984307
+        }
+    ],
+    "wof:id":873984307,
+    "wof:lastmodified":1464310645,
+    "wof:name":"Shaker Shack",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "wood",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.431121,
+    43.581189,
+    -72.431121,
+    43.581189
+],
+  "geometry": {"coordinates":[-72.431121,43.581189],"type":"Point"}
+}

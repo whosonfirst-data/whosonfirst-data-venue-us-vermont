@@ -1,0 +1,71 @@
+{
+  "id": 874101441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.657493,43.244462,-72.657493,43.244462",
+    "geom:latitude":43.244462,
+    "geom:longitude":-72.657493,
+    "iso:country":"US",
+    "sg:address":"299 Ethan Allen Rd",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 3616",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D2EJK8juUMavsphvoXjhD_43.244462_-72.657493@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311811,
+    "wof:geomhash":"e14c9140d177f399ab986c83dae4cc77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874101441
+        }
+    ],
+    "wof:id":874101441,
+    "wof:lastmodified":1464311811,
+    "wof:name":"Ethan Allen Assoc",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -72.657493,
+    43.244462,
+    -72.657493,
+    43.244462
+],
+  "geometry": {"coordinates":[-72.657493,43.244462],"type":"Point"}
+}

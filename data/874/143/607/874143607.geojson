@@ -1,0 +1,71 @@
+{
+  "id": 874143607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.714903,42.872447,-72.714903,42.872447",
+    "geom:latitude":42.872447,
+    "geom:longitude":-72.714903,
+    "iso:country":"US",
+    "sg:address":"2416 State Rte 9",
+    "sg:city":"Marlboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 9192",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qGeFqFFWF4zOC29iKIMFY_42.872447_-72.714903@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312268,
+    "wof:geomhash":"fe11a1b49679c067a50b323d4644f96c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874143607
+        }
+    ],
+    "wof:id":874143607,
+    "wof:lastmodified":1464312268,
+    "wof:name":"Anderson Excavating",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.714903,
+    42.872447,
+    -72.714903,
+    42.872447
+],
+  "geometry": {"coordinates":[-72.71490300000001,42.872447],"type":"Point"}
+}

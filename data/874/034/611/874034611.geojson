@@ -1,0 +1,69 @@
+{
+  "id": 874034611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.637543,43.381879,-72.637543,43.381879",
+    "geom:latitude":43.381879,
+    "geom:longitude":-72.637543,
+    "iso:country":"US",
+    "sg:address":"89 Depot St",
+    "sg:city":"Proctorsville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 226 7967",
+    "sg:postcode":"05153",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zMGIdLZUEl0l04P0CT54X_43.381879_-72.637543@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311090,
+    "wof:geomhash":"2edce52d4482b5493e9c855a9e63590a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874034611
+        }
+    ],
+    "wof:id":874034611,
+    "wof:lastmodified":1464311090,
+    "wof:name":"Church Gethsemane Episcopal",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.637543,
+    43.381879,
+    -72.637543,
+    43.381879
+],
+  "geometry": {"coordinates":[-72.63754299999999,43.381879],"type":"Point"}
+}

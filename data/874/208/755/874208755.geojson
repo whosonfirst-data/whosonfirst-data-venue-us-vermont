@@ -1,0 +1,71 @@
+{
+  "id": 874208755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111567,44.682612,-73.111567,44.682612",
+    "geom:latitude":44.682612,
+    "geom:longitude":-73.111567,
+    "iso:country":"US",
+    "sg:address":"175 US Hwy 7",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 5000",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70irGxbZ3Weffz9c9fhSNZ_44.682612_-73.111567@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312936,
+    "wof:geomhash":"f867090f0d22c65c9a879d3c24abf4ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874208755
+        }
+    ],
+    "wof:id":874208755,
+    "wof:lastmodified":1464312936,
+    "wof:name":"Banknorth Vermont",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -73.111567,
+    44.682612,
+    -73.111567,
+    44.682612
+],
+  "geometry": {"coordinates":[-73.11156699999999,44.682612],"type":"Point"}
+}

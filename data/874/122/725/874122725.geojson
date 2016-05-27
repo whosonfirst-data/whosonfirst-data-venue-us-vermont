@@ -1,0 +1,72 @@
+{
+  "id": 874122725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21589,42.95558,-73.21589,42.95558",
+    "geom:latitude":42.95558,
+    "geom:longitude":-73.21589,
+    "iso:country":"US",
+    "sg:address":"234 Glastonview Dr",
+    "sg:city":"Shaftsbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 2907",
+    "sg:postcode":"05262",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photographer",
+        "dental"
+    ],
+    "sg:website":"www.johnmichaelcoppinger.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K8Ram9lpEvDqYyW8VnFXu_42.955580_-73.215890@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312065,
+    "wof:geomhash":"e41c0e978d3bd6bad1b4ac6f52c283bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874122725
+        }
+    ],
+    "wof:id":874122725,
+    "wof:lastmodified":1464312065,
+    "wof:name":"JMC Eye Photo",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "dental"
+    ]
+},
+  "bbox": [
+    -73.21589,
+    42.95558,
+    -73.21589,
+    42.95558
+],
+  "geometry": {"coordinates":[-73.21589,42.95558],"type":"Point"}
+}

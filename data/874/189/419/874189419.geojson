@@ -1,0 +1,67 @@
+{
+  "id": 874189419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.086899,43.798255,-73.086899,43.798255",
+    "geom:latitude":43.798255,
+    "geom:longitude":-73.086899,
+    "iso:country":"US",
+    "sg:address":"16 Park St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 0050",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:website":"www.briggscarriage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WxZj178wph9ijxKGWFXXY_43.798255_-73.086899@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312734,
+    "wof:geomhash":"2394ba04d485af4646d11a6db1602f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874189419
+        }
+    ],
+    "wof:id":874189419,
+    "wof:lastmodified":1464312734,
+    "wof:name":"Briggs Carriage Bookstore Inc",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.086899,
+    43.798255,
+    -73.086899,
+    43.798255
+],
+  "geometry": {"coordinates":[-73.086899,43.798255],"type":"Point"}
+}

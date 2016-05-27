@@ -1,0 +1,76 @@
+{
+  "id": 874254071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.159462,44.577667,-73.159462,44.577667",
+    "geom:latitude":44.577667,
+    "geom:longitude":-73.159462,
+    "iso:country":"US",
+    "sg:address":"5744 Roosevelt Hwy",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 3713",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://www.petitbrook.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v0HN3uNpcceoUK44EAaMO_44.577667_-73.159462@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313647,
+    "wof:geomhash":"e799bc408ec66c4d0f5d907365b980f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":874254071
+        }
+    ],
+    "wof:id":874254071,
+    "wof:lastmodified":1464313647,
+    "wof:name":"Millie Armstrong",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -73.159462,
+    44.577667,
+    -73.159462,
+    44.577667
+],
+  "geometry": {"coordinates":[-73.159462,44.577667],"type":"Point"}
+}

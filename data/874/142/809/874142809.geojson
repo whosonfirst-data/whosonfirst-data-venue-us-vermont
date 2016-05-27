@@ -1,0 +1,73 @@
+{
+  "id": 874142809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.139622,44.509843,-73.139622,44.509843",
+    "geom:latitude":44.509843,
+    "geom:longitude":-73.139622,
+    "iso:country":"US",
+    "sg:address":"7 Morse Dr",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 8900",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "manufacture",
+        "advertising",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FZKjHWKekNt6TyKnthcWt_44.509843_-73.139622@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312260,
+    "wof:geomhash":"951162114975a9ca398aaf80c877cf8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874142809
+        }
+    ],
+    "wof:id":874142809,
+    "wof:lastmodified":1464312260,
+    "wof:name":"Hugg-A-Planet",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "advertising",
+        "supply"
+    ]
+},
+  "bbox": [
+    -73.139622,
+    44.509843,
+    -73.139622,
+    44.509843
+],
+  "geometry": {"coordinates":[-73.139622,44.509843],"type":"Point"}
+}

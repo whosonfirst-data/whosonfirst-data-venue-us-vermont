@@ -1,0 +1,72 @@
+{
+  "id": 874160447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.091036,44.093454,-73.091036,44.093454",
+    "geom:latitude":44.093454,
+    "geom:longitude":-73.091036,
+    "iso:country":"US",
+    "sg:address":"2662 State Rte 116",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3778",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pottery"
+    ],
+    "sg:website":"www.robertcomptonpottery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6runRQ6WeXzj9tfA9DPaOq_44.093454_-73.091036@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312436,
+    "wof:geomhash":"74d248cb93f17d9245211a97b5ae492f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874160447
+        }
+    ],
+    "wof:id":874160447,
+    "wof:lastmodified":1464312436,
+    "wof:name":"Robert Compton Pottery",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pottery"
+    ]
+},
+  "bbox": [
+    -73.091036,
+    44.093454,
+    -73.091036,
+    44.093454
+],
+  "geometry": {"coordinates":[-73.091036,44.093454],"type":"Point"}
+}

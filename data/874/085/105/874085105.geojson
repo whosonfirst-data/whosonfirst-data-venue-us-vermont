@@ -1,0 +1,71 @@
+{
+  "id": 874085105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.16142,43.898294,-72.16142,43.898294",
+    "geom:latitude":43.898294,
+    "geom:longitude":-72.16142,
+    "iso:country":"US",
+    "sg:address":"698 US Hwy 5",
+    "sg:city":"Fairlee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 9625",
+    "sg:postcode":"05045",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EjHKwBcXVWf7Ht9UGA2jH_43.898294_-72.161420@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311610,
+    "wof:geomhash":"88bdd72c381806aecf82ab0e9d6e6127",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874085105
+        }
+    ],
+    "wof:id":874085105,
+    "wof:lastmodified":1464311610,
+    "wof:name":"Halls Garage",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "welding"
+    ]
+},
+  "bbox": [
+    -72.16142,
+    43.898294,
+    -72.16142,
+    43.898294
+],
+  "geometry": {"coordinates":[-72.16142000000001,43.898294],"type":"Point"}
+}

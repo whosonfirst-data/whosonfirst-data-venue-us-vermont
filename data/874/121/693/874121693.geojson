@@ -1,0 +1,69 @@
+{
+  "id": 874121693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501861,43.314953,-72.501861,43.314953",
+    "geom:latitude":43.314953,
+    "geom:longitude":-72.501861,
+    "iso:country":"US",
+    "sg:address":"335 River St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 3555",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beverage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jsQn5u2lsgFQrvtDz3gsc_43.314953_-72.501861@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312056,
+    "wof:geomhash":"178b1a5a0a0979a4034539122635bbb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874121693
+        }
+    ],
+    "wof:id":874121693,
+    "wof:lastmodified":1464312056,
+    "wof:name":"Joe's Discount Beverage",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage"
+    ]
+},
+  "bbox": [
+    -72.501861,
+    43.314953,
+    -72.501861,
+    43.314953
+],
+  "geometry": {"coordinates":[-72.50186100000001,43.314953],"type":"Point"}
+}

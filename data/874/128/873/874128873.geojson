@@ -1,0 +1,71 @@
+{
+  "id": 874128873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.128058,44.510883,-73.128058,44.510883",
+    "geom:latitude":44.510883,
+    "geom:longitude":-73.128058,
+    "iso:country":"US",
+    "sg:address":"18 Colbert St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 2220",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ENwMgfQAbvaCV3PmWmzBv_44.510883_-73.128058@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312119,
+    "wof:geomhash":"9a3cb16ac66161d6262f887fcadf4f28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874128873
+        }
+    ],
+    "wof:id":874128873,
+    "wof:lastmodified":1464312119,
+    "wof:name":"Stech Heating and Plumbing",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.128058,
+    44.510883,
+    -73.128058,
+    44.510883
+],
+  "geometry": {"coordinates":[-73.128058,44.510883],"type":"Point"}
+}

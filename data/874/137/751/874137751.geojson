@@ -1,0 +1,69 @@
+{
+  "id": 874137751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.710662,44.43699,-72.710662,44.43699",
+    "geom:latitude":44.43699,
+    "geom:longitude":-72.710662,
+    "iso:country":"US",
+    "sg:address":"1424 Waterbury Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Dairy",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7615",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qg7sZjIxUFetVUCRl6FBD_44.436990_-72.710662@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312215,
+    "wof:geomhash":"368f9c892fc5e82f739124d8900cdf12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874137751
+        }
+    ],
+    "wof:id":874137751,
+    "wof:lastmodified":1464312215,
+    "wof:name":"Mansfield Dairy Inc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -72.710662,
+    44.43699,
+    -72.710662,
+    44.43699
+],
+  "geometry": {"coordinates":[-72.710662,44.43699],"type":"Point"}
+}

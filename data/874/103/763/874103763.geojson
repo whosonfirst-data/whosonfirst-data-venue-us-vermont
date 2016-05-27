@@ -1,0 +1,71 @@
+{
+  "id": 874103763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.172224,44.00973,-73.172224,44.00973",
+    "geom:latitude":44.00973,
+    "geom:longitude":-73.172224,
+    "iso:country":"US",
+    "sg:address":"110 S Main St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7439",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dBr0Dn7qIqzMBzVPYGQ24_44.009730_-73.172224@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311841,
+    "wof:geomhash":"a0848cfe24e6edb223df27e7daaa1f13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874103763
+        }
+    ],
+    "wof:id":874103763,
+    "wof:lastmodified":1464311841,
+    "wof:name":"Door Doctor of Vermont LLC",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock"
+    ]
+},
+  "bbox": [
+    -73.172224,
+    44.00973,
+    -73.172224,
+    44.00973
+],
+  "geometry": {"coordinates":[-73.172224,44.00973],"type":"Point"}
+}

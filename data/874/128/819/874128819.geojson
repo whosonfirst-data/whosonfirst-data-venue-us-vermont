@@ -1,0 +1,71 @@
+{
+  "id": 874128819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.425168,43.572776,-72.425168,43.572776",
+    "geom:latitude":43.572776,
+    "geom:longitude":-72.425168,
+    "iso:country":"US",
+    "sg:address":"50 Center of Town Rd",
+    "sg:city":"Hartland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 436 2215",
+    "sg:postcode":"05048",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dNwZLyYkRqQ2UeDLzh4wu_43.572776_-72.425168@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312119,
+    "wof:geomhash":"c426e36ab8fc1b3a4d70569d80930913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874128819
+        }
+    ],
+    "wof:id":874128819,
+    "wof:lastmodified":1464312119,
+    "wof:name":"Brooks Builders",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.425168,
+    43.572776,
+    -72.425168,
+    43.572776
+],
+  "geometry": {"coordinates":[-72.425168,43.572776],"type":"Point"}
+}

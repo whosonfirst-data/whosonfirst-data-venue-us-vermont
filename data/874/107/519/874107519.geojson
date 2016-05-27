@@ -1,0 +1,69 @@
+{
+  "id": 874107519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.171664,44.32736,-72.171664,44.32736",
+    "geom:latitude":44.32736,
+    "geom:longitude":-72.171664,
+    "iso:country":"US",
+    "sg:address":"79 Church St",
+    "sg:city":"Peacham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 592 3218",
+    "sg:postcode":"05862",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wMxiUUqbT98DTF8qkNpfT_44.327360_-72.171664@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311888,
+    "wof:geomhash":"e74f32fa88de0742340dd9c6957db36e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874107519
+        }
+    ],
+    "wof:id":874107519,
+    "wof:lastmodified":1464311888,
+    "wof:name":"Peacham Town Clerk",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -72.171664,
+    44.32736,
+    -72.171664,
+    44.32736
+],
+  "geometry": {"coordinates":[-72.17166400000001,44.32736],"type":"Point"}
+}

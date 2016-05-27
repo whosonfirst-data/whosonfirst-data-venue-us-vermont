@@ -1,0 +1,71 @@
+{
+  "id": 874065077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.874426,44.655397,-72.874426,44.655397",
+    "geom:latitude":44.655397,
+    "geom:longitude":-72.874426,
+    "iso:country":"US",
+    "sg:address":"148 Pine Tree Ln",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5648",
+    "sg:postcode":"05460",
+    "sg:province":"VT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v98yykubk7jCJEqYCONdg_44.655397_-72.874426@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311380,
+    "wof:geomhash":"a2a66d349d4115a4d9763aa42b6627c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874065077
+        }
+    ],
+    "wof:id":874065077,
+    "wof:lastmodified":1464311380,
+    "wof:name":"Blue Sky Window Cleaning",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.874426,
+    44.655397,
+    -72.874426,
+    44.655397
+],
+  "geometry": {"coordinates":[-72.874426,44.655397],"type":"Point"}
+}

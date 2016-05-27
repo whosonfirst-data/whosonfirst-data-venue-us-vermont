@@ -1,0 +1,66 @@
+{
+  "id": 874126833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.883188,44.645309,-72.883188,44.645309",
+    "geom:latitude":44.645309,
+    "geom:longitude":-72.883188,
+    "iso:country":"US",
+    "sg:address":"181 Old State Rte 15",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 6750",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yNzPLgpWdRdBYy30k0KHm_44.645309_-72.883188@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312101,
+    "wof:geomhash":"05b862b51769b0e1de3cb01cf11bcc3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874126833
+        }
+    ],
+    "wof:id":874126833,
+    "wof:lastmodified":1464312101,
+    "wof:name":"Roundabout Bus Service",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.883188,
+    44.645309,
+    -72.883188,
+    44.645309
+],
+  "geometry": {"coordinates":[-72.883188,44.645309],"type":"Point"}
+}

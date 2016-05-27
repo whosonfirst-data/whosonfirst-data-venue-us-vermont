@@ -1,0 +1,71 @@
+{
+  "id": 874063661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.163946,44.551533,-73.163946,44.551533",
+    "geom:latitude":44.551533,
+    "geom:longitude":-73.163946,
+    "iso:country":"US",
+    "sg:address":"65 Creek Farm Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 6544",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_110LO5AGavoEj1yGHetzix_44.551533_-73.163946@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311368,
+    "wof:geomhash":"f6adc1cccbc95e493fb0f4ed7c3bfb8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874063661
+        }
+    ],
+    "wof:id":874063661,
+    "wof:lastmodified":1464311368,
+    "wof:name":"Charles E Anderson MD",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.163946,
+    44.551533,
+    -73.163946,
+    44.551533
+],
+  "geometry": {"coordinates":[-73.163946,44.551533],"type":"Point"}
+}

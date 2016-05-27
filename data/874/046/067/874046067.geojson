@@ -1,0 +1,77 @@
+{
+  "id": 874046067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.179198,44.45496,-73.179198,44.45496",
+    "geom:latitude":44.45496,
+    "geom:longitude":-73.179198,
+    "iso:country":"US",
+    "sg:address":"435 Dorset St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 1740",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delivery",
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FS2FzhnsOvSWGIUwi2teA_44.454960_-73.179198@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311207,
+    "wof:geomhash":"a845f38fd8ebd504ee4bcf708e8a3a70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874046067
+        }
+    ],
+    "wof:id":874046067,
+    "wof:lastmodified":1464311207,
+    "wof:name":"Explorer Courier",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.179198,
+    44.45496,
+    -73.179198,
+    44.45496
+],
+  "geometry": {"coordinates":[-73.179198,44.45496],"type":"Point"}
+}

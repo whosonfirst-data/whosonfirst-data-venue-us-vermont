@@ -1,0 +1,69 @@
+{
+  "id": 874208031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015937,44.447987,-72.015937,44.447987",
+    "geom:latitude":44.447987,
+    "geom:longitude":-72.015937,
+    "iso:country":"US",
+    "sg:address":"1188 Memorial Dr",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 1389",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HINgsercRlzaZVE7Jdvih_44.447987_-72.015937@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312930,
+    "wof:geomhash":"b91b623c983fbd848b44b6b4052813fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874208031
+        }
+    ],
+    "wof:id":874208031,
+    "wof:lastmodified":1464312930,
+    "wof:name":"George Weston Foods Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -72.015937,
+    44.447987,
+    -72.015937,
+    44.447987
+],
+  "geometry": {"coordinates":[-72.01593699999999,44.447987],"type":"Point"}
+}

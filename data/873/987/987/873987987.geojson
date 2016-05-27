@@ -1,0 +1,69 @@
+{
+  "id": 873987987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.536566,44.583786,-72.536566,44.583786",
+    "geom:latitude":44.583786,
+    "geom:longitude":-72.536566,
+    "iso:country":"US",
+    "sg:address":"567 Macfarlane Rd",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 9407",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cu7ajj6VohdSmzt8IDPFJ_44.583786_-72.536566@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310675,
+    "wof:geomhash":"6f21cb8b91ba0ec23364d0313cdd8c3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":873987987
+        }
+    ],
+    "wof:id":873987987,
+    "wof:lastmodified":1464310675,
+    "wof:name":"JDC Just Delicious Catering",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.536566,
+    44.583786,
+    -72.536566,
+    44.583786
+],
+  "geometry": {"coordinates":[-72.53656599999999,44.583786],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874117631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.174385,44.508503,-73.174385,44.508503",
+    "geom:latitude":44.508503,
+    "geom:longitude":-73.174385,
+    "iso:country":"US",
+    "sg:address":"382 Hercules Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 6662",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg",
+        "confectionery",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E9rLw2Cx1gVwbeFywJdHj_44.508503_-73.174385@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312012,
+    "wof:geomhash":"f05e6967b0d5431d41333fc97e25cc26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874117631
+        }
+    ],
+    "wof:id":874117631,
+    "wof:lastmodified":1464312012,
+    "wof:name":"Madhouse Munchies",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "confectionery",
+        "potato"
+    ]
+},
+  "bbox": [
+    -73.174385,
+    44.508503,
+    -73.174385,
+    44.508503
+],
+  "geometry": {"coordinates":[-73.174385,44.508503],"type":"Point"}
+}

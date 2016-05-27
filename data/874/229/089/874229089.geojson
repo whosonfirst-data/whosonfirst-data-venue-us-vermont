@@ -1,0 +1,71 @@
+{
+  "id": 874229089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.962457,43.593067,-72.962457,43.593067",
+    "geom:latitude":43.593067,
+    "geom:longitude":-72.962457,
+    "iso:country":"US",
+    "sg:address":"239 Mussey St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0297",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_721kaydD1R1PVnF2csPLz7_43.593067_-72.962457@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313151,
+    "wof:geomhash":"6e054601f26dbe1e856d56d55f2b627f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874229089
+        }
+    ],
+    "wof:id":874229089,
+    "wof:lastmodified":1464313151,
+    "wof:name":"Bobs Electric Service",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.962457,
+    43.593067,
+    -72.962457,
+    43.593067
+],
+  "geometry": {"coordinates":[-72.962457,43.593067],"type":"Point"}
+}

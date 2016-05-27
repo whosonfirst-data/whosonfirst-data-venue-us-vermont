@@ -1,0 +1,77 @@
+{
+  "id": 874234327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.355223,43.59242,-72.355223,43.59242",
+    "geom:latitude":43.59242,
+    "geom:longitude":-72.355223,
+    "iso:country":"US",
+    "sg:address":"56 Wood Cir",
+    "sg:city":"White River Junction",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 3051",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation",
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sIEJcWVPMVeI8d6xtJPN8_43.592420_-72.355223@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313227,
+    "wof:geomhash":"04d852f395c881381c538feb2c54439b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874234327
+        }
+    ],
+    "wof:id":874234327,
+    "wof:lastmodified":1464313227,
+    "wof:name":"Comfort Inn",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -72.355223,
+    43.59242,
+    -72.355223,
+    43.59242
+],
+  "geometry": {"coordinates":[-72.355223,43.59242],"type":"Point"}
+}

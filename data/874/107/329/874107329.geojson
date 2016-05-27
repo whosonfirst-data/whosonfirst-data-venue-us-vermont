@@ -1,0 +1,75 @@
+{
+  "id": 874107329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.485342,44.18674,-72.485342,44.18674",
+    "geom:latitude":44.18674,
+    "geom:longitude":-72.485342,
+    "iso:country":"US",
+    "sg:address":"400 Washington St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 8114",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1shj6vUiedINyUsrPWZTIJ_44.186740_-72.485342@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311886,
+    "wof:geomhash":"a50202b0d2707dd2bba3736e508ebcbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874107329
+        }
+    ],
+    "wof:id":874107329,
+    "wof:lastmodified":1464311886,
+    "wof:name":"Jerry Dudley's Auto Connection",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.485342,
+    44.18674,
+    -72.485342,
+    44.18674
+],
+  "geometry": {"coordinates":[-72.485342,44.18674],"type":"Point"}
+}

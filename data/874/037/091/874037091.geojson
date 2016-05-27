@@ -1,0 +1,71 @@
+{
+  "id": 874037091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.504485,44.197135,-72.504485,44.197135",
+    "geom:latitude":44.197135,
+    "geom:longitude":-72.504485,
+    "iso:country":"US",
+    "sg:address":"8 Burnham St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 5702",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sandblasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DatedLLDfOZl1Ohr7mI7W_44.197135_-72.504485@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311117,
+    "wof:geomhash":"657a2e07b8bad1a3494ed6a977b8b5a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874037091
+        }
+    ],
+    "wof:id":874037091,
+    "wof:lastmodified":1464311117,
+    "wof:name":"Smitty's Custom Sandblast Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandblasting"
+    ]
+},
+  "bbox": [
+    -72.504485,
+    44.197135,
+    -72.504485,
+    44.197135
+],
+  "geometry": {"coordinates":[-72.504485,44.197135],"type":"Point"}
+}

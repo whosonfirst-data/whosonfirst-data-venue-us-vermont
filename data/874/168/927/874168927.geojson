@@ -1,0 +1,73 @@
+{
+  "id": 874168927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.179376,44.504084,-73.179376,44.504084",
+    "geom:latitude":44.504084,
+    "geom:longitude":-73.179376,
+    "iso:country":"US",
+    "sg:address":"30 S Park Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 654 7107",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17jde19FukGc9V9PlVWfHA_44.504084_-73.179376@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312517,
+    "wof:geomhash":"3466346d122b904126829bfb49e2ffe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874168927
+        }
+    ],
+    "wof:id":874168927,
+    "wof:lastmodified":1464312517,
+    "wof:name":"US Army Recruiting",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -73.179376,
+    44.504084,
+    -73.179376,
+    44.504084
+],
+  "geometry": {"coordinates":[-73.179376,44.504084],"type":"Point"}
+}

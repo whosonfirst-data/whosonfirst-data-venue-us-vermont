@@ -1,0 +1,69 @@
+{
+  "id": 874164451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.003123,43.604278,-73.003123,43.604278",
+    "geom:latitude":43.604278,
+    "geom:longitude":-73.003123,
+    "iso:country":"US",
+    "sg:address":"461 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 8934",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RGVbUMJswdL1ygoIWSOZY_43.604278_-73.003123@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312473,
+    "wof:geomhash":"11a0b39df7f4ef3816f385d9c33067f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874164451
+        }
+    ],
+    "wof:id":874164451,
+    "wof:lastmodified":1464312473,
+    "wof:name":"Hiers",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.003123,
+    43.604278,
+    -73.003123,
+    43.604278
+],
+  "geometry": {"coordinates":[-73.003123,43.604278],"type":"Point"}
+}

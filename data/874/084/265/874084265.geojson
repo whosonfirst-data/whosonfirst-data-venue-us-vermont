@@ -1,0 +1,72 @@
+{
+  "id": 874084265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.139563,44.509984,-73.139563,44.509984",
+    "geom:latitude":44.509984,
+    "geom:longitude":-73.139563,
+    "iso:country":"US",
+    "sg:address":"6 Morse Dr",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 4213",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "sg:website":"www.movementcentervt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0535W1sHpNTjvqqnVulz7h_44.509984_-73.139563@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311601,
+    "wof:geomhash":"6c34cc82a8328fee61a9dd42d9508e23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874084265
+        }
+    ],
+    "wof:id":874084265,
+    "wof:lastmodified":1464311601,
+    "wof:name":"Movement Center",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -73.139563,
+    44.509984,
+    -73.139563,
+    44.509984
+],
+  "geometry": {"coordinates":[-73.139563,44.509984],"type":"Point"}
+}

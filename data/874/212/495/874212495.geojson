@@ -1,0 +1,77 @@
+{
+  "id": 874212495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.488506,44.19636,-72.488506,44.19636",
+    "geom:latitude":44.19636,
+    "geom:longitude":-72.488506,
+    "iso:country":"US",
+    "sg:address":"345 Tremont St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4078",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3707UgHtF4gsATEqGcIQpK_44.196360_-72.488506@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312979,
+    "wof:geomhash":"2fd29dc5a6f3cfd4e6283ea45607cc78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874212495
+        }
+    ],
+    "wof:id":874212495,
+    "wof:lastmodified":1464312979,
+    "wof:name":"All Temp HVACR",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.488506,
+    44.19636,
+    -72.488506,
+    44.19636
+],
+  "geometry": {"coordinates":[-72.488506,44.19636],"type":"Point"}
+}

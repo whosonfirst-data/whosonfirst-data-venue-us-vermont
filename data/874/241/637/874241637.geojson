@@ -1,0 +1,73 @@
+{
+  "id": 874241637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.057585,43.816716,-73.057585,43.816716",
+    "geom:latitude":43.816716,
+    "geom:longitude":-73.057585,
+    "iso:country":"US",
+    "sg:address":"367 McConnell Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 4632",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "clocks",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36I6oC5Kr1Qnia0Km9FBiT_43.816716_-73.057585@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313370,
+    "wof:geomhash":"923bd57cb9737f57a00743ee7c6cc628",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874241637
+        }
+    ],
+    "wof:id":874241637,
+    "wof:lastmodified":1464313370,
+    "wof:name":"John Appelt",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clocks",
+        "parts"
+    ]
+},
+  "bbox": [
+    -73.057585,
+    43.816716,
+    -73.057585,
+    43.816716
+],
+  "geometry": {"coordinates":[-73.057585,43.816716],"type":"Point"}
+}

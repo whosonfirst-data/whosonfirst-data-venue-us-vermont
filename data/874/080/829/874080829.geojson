@@ -1,0 +1,73 @@
+{
+  "id": 874080829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.536676,44.727667,-72.536676,44.727667",
+    "geom:latitude":44.727667,
+    "geom:longitude":-72.536676,
+    "iso:country":"US",
+    "sg:address":"1279 Shover Rd",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 7390",
+    "sg:postcode":"05652",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YQD6TizP4F42BLVseuuwT_44.727667_-72.536676@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311561,
+    "wof:geomhash":"5308af7aec4c7eb09f7274213814eac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874080829
+        }
+    ],
+    "wof:id":874080829,
+    "wof:lastmodified":1464311561,
+    "wof:name":"Firkey Trucking",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.536676,
+    44.727667,
+    -72.536676,
+    44.727667
+],
+  "geometry": {"coordinates":[-72.536676,44.727667],"type":"Point"}
+}

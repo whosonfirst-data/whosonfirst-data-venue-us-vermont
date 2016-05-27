@@ -1,0 +1,71 @@
+{
+  "id": 874050379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.190273,44.431503,-73.190273,44.431503",
+    "geom:latitude":44.431503,
+    "geom:longitude":-73.190273,
+    "iso:country":"US",
+    "sg:address":"48 Pinnacle Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 951 9238",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nkRXxtdf5sUcbmlIWuELT_44.431503_-73.190273@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311244,
+    "wof:geomhash":"8185a4c24c8d52b852c7a183386f1b73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874050379
+        }
+    ],
+    "wof:id":874050379,
+    "wof:lastmodified":1464311244,
+    "wof:name":"Rovner Architectural Designs",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -73.190273,
+    44.431503,
+    -73.190273,
+    44.431503
+],
+  "geometry": {"coordinates":[-73.190273,44.431503],"type":"Point"}
+}

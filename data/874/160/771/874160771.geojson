@@ -1,0 +1,73 @@
+{
+  "id": 874160771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.667371,44.999241,-72.667371,44.999241",
+    "geom:latitude":44.999241,
+    "geom:longitude":-72.667371,
+    "iso:country":"US",
+    "sg:address":"121 Province St",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 848 8029",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ys87vwQiqpa99pZqO9fmM_44.999241_-72.667371@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312440,
+    "wof:geomhash":"b8310a4de0690df3e8738cc9347e6f2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874160771
+        }
+    ],
+    "wof:id":874160771,
+    "wof:lastmodified":1464312440,
+    "wof:name":"Red Eye Trucking",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.667371,
+    44.999241,
+    -72.667371,
+    44.999241
+],
+  "geometry": {"coordinates":[-72.667371,44.999241],"type":"Point"}
+}

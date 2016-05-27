@@ -1,0 +1,73 @@
+{
+  "id": 874212985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.532733,44.13248,-72.532733,44.13248",
+    "geom:latitude":44.13248,
+    "geom:longitude":-72.532733,
+    "iso:country":"US",
+    "sg:address":"642 Brockway Hill Rd",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 5836",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cwY8wCofabSeG1eMuijGF_44.132480_-72.532733@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312984,
+    "wof:geomhash":"9f39b185fefe04a58e98bae210d90f54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874212985
+        }
+    ],
+    "wof:id":874212985,
+    "wof:lastmodified":1464312984,
+    "wof:name":"Zampieri's Collison Repair",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.532733,
+    44.13248,
+    -72.532733,
+    44.13248
+],
+  "geometry": {"coordinates":[-72.53273299999999,44.13248],"type":"Point"}
+}

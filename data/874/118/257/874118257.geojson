@@ -1,0 +1,73 @@
+{
+  "id": 874118257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.160518,44.450353,-73.160518,44.450353",
+    "geom:latitude":44.450353,
+    "geom:longitude":-73.160518,
+    "iso:country":"US",
+    "sg:address":"16 Derby Cir",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 2102",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iZmo9EJZEUwRVLsGdUlv7_44.450353_-73.160518@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312018,
+    "wof:geomhash":"78caec2466862c43714296a200b9548a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874118257
+        }
+    ],
+    "wof:id":874118257,
+    "wof:lastmodified":1464312018,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -73.160518,
+    44.450353,
+    -73.160518,
+    44.450353
+],
+  "geometry": {"coordinates":[-73.160518,44.450353],"type":"Point"}
+}

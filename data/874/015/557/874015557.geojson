@@ -1,0 +1,77 @@
+{
+  "id": 874015557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078148,44.133174,-73.078148,44.133174",
+    "geom:latitude":44.133174,
+    "geom:longitude":-73.078148,
+    "iso:country":"US",
+    "sg:address":"20 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5244",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e5WXxWBlUBmyYDOyALNn0_44.133174_-73.078148@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310895,
+    "wof:geomhash":"fa13e99d50546244be8af027d68fbe2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874015557
+        }
+    ],
+    "wof:id":874015557,
+    "wof:lastmodified":1464310895,
+    "wof:name":"Movies Etc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -73.078148,
+    44.133174,
+    -73.078148,
+    44.133174
+],
+  "geometry": {"coordinates":[-73.078148,44.133174],"type":"Point"}
+}

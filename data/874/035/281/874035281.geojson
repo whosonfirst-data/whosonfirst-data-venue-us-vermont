@@ -1,0 +1,71 @@
+{
+  "id": 874035281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.615671,44.592726,-72.615671,44.592726",
+    "geom:latitude":44.592726,
+    "geom:longitude":-72.615671,
+    "iso:country":"US",
+    "sg:address":"252 Main St",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 2504",
+    "sg:postcode":"05655",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DEa047JfNSA6eZ2bqzzEU_44.592726_-72.615671@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311097,
+    "wof:geomhash":"2c5211c5d32daa13e466e10a31b13394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874035281
+        }
+    ],
+    "wof:id":874035281,
+    "wof:lastmodified":1464311097,
+    "wof:name":"Central Vermont Council-Aging",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -72.615671,
+    44.592726,
+    -72.615671,
+    44.592726
+],
+  "geometry": {"coordinates":[-72.61567100000001,44.592726],"type":"Point"}
+}

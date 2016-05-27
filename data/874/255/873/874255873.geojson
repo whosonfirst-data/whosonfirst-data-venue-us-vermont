@@ -1,0 +1,78 @@
+{
+  "id": 874255873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.978649,43.615842,-72.978649,43.615842",
+    "geom:latitude":43.615842,
+    "geom:longitude":-72.978649,
+    "iso:country":"US",
+    "sg:address":"57 Crescent St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3350",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "brew",
+        "beer",
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ufC3oSZHl2bWABbjTUYsE_43.615842_-72.978649@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313693,
+    "wof:geomhash":"c7e99f289eff6879086bd2e5da5feb0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255873
+        }
+    ],
+    "wof:id":874255873,
+    "wof:lastmodified":1464313693,
+    "wof:name":"Beer King",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -72.978649,
+    43.615842,
+    -72.978649,
+    43.615842
+],
+  "geometry": {"coordinates":[-72.978649,43.615842],"type":"Point"}
+}

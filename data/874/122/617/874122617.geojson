@@ -1,0 +1,71 @@
+{
+  "id": 874122617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.000531,44.53396,-72.000531,44.53396",
+    "geom:latitude":44.53396,
+    "geom:longitude":-72.000531,
+    "iso:country":"US",
+    "sg:address":"14 Depot St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 9696",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HVjW5QwRBwBApH3ZcPLRG_44.533960_-72.000531@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312064,
+    "wof:geomhash":"a31d5c67a840126e53cb7dad84e6912c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874122617
+        }
+    ],
+    "wof:id":874122617,
+    "wof:lastmodified":1464312064,
+    "wof:name":"Lyndon Chamber Of Commerce",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -72.000531,
+    44.53396,
+    -72.000531,
+    44.53396
+],
+  "geometry": {"coordinates":[-72.000531,44.53396],"type":"Point"}
+}

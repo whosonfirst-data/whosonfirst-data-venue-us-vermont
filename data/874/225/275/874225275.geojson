@@ -1,0 +1,82 @@
+{
+  "id": 874225275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169008,44.01301,-73.169008,44.01301",
+    "geom:latitude":44.01301,
+    "geom:longitude":-73.169008,
+    "iso:country":"US",
+    "sg:address":"64 Main St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 6441",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photo",
+        "finishing",
+        "commercial",
+        "photography"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57nEnoF1V4SiwxjRZsCXUX_44.013010_-73.169008@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313114,
+    "wof:geomhash":"071d7c275fa69dde69d48e368f7a38a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874225275
+        }
+    ],
+    "wof:id":874225275,
+    "wof:lastmodified":1464313114,
+    "wof:name":"Middlebury Darkroom Studios",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing",
+        "commercial",
+        "photography"
+    ]
+},
+  "bbox": [
+    -73.169008,
+    44.01301,
+    -73.169008,
+    44.01301
+],
+  "geometry": {"coordinates":[-73.16900800000001,44.01301],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 874137835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.932867,43.525779,-72.932867,43.525779",
+    "geom:latitude":43.525779,
+    "geom:longitude":-72.932867,
+    "iso:country":"US",
+    "sg:address":"20 E Clarendon Rd",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 8777",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg",
+        "cabinet",
+        "p",
+        "wood",
+        "maker",
+        "kitchen"
+    ],
+    "sg:website":"www.knightkitchens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KitixIwTZ340eAAyg7CKU_43.525779_-72.932867@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312216,
+    "wof:geomhash":"5d979a003b27ec839e1bf21d6a5364bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874137835
+        }
+    ],
+    "wof:id":874137835,
+    "wof:lastmodified":1464312216,
+    "wof:name":"Knights Kitchens",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "cabinet",
+        "p",
+        "wood",
+        "maker",
+        "kitchen"
+    ]
+},
+  "bbox": [
+    -72.932867,
+    43.525779,
+    -72.932867,
+    43.525779
+],
+  "geometry": {"coordinates":[-72.932867,43.525779],"type":"Point"}
+}

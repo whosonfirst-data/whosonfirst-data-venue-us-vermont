@@ -1,0 +1,71 @@
+{
+  "id": 874222543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.557919,44.234835,-72.557919,44.234835",
+    "geom:latitude":44.234835,
+    "geom:longitude":-72.557919,
+    "iso:country":"US",
+    "sg:address":"244 Hersey Rd",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 0482",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CZ3YRqCuADRbTMNZoCp1c_44.234835_-72.557919@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313090,
+    "wof:geomhash":"b95496a9b21833f41c6043c9370f2a6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874222543
+        }
+    ],
+    "wof:id":874222543,
+    "wof:lastmodified":1464313090,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.557919,
+    44.234835,
+    -72.557919,
+    44.234835
+],
+  "geometry": {"coordinates":[-72.557919,44.234835],"type":"Point"}
+}

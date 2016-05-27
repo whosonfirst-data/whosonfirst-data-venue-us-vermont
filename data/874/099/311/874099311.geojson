@@ -1,0 +1,74 @@
+{
+  "id": 874099311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.69351,44.458883,-72.69351,44.458883",
+    "geom:latitude":44.458883,
+    "geom:longitude":-72.69351,
+    "iso:country":"US",
+    "sg:address":"618 S Main St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7116",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "sg:website":"www.clarkegalleries.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IbBbXfL9n6srDFCbnqLnm_44.458883_-72.693510@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311776,
+    "wof:geomhash":"74861d069e9d45fff8eb6a978522cb17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874099311
+        }
+    ],
+    "wof:id":874099311,
+    "wof:lastmodified":1464311776,
+    "wof:name":"Clarke Galleries",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.69351,
+    44.458883,
+    -72.69351,
+    44.458883
+],
+  "geometry": {"coordinates":[-72.69351,44.458883],"type":"Point"}
+}

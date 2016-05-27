@@ -1,0 +1,75 @@
+{
+  "id": 874225383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.506952,44.125085,-72.506952,44.125085",
+    "geom:latitude":44.125085,
+    "geom:longitude":-72.506952,
+    "iso:country":"US",
+    "sg:address":"295 Saldi Hts",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 1098",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consulting",
+        "network",
+        "engineering",
+        "database"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LEoG7NJ64LB5syInVHSPe_44.125085_-72.506952@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313115,
+    "wof:geomhash":"adf02ec3ace9e0bbd7e5bbefafcabb10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874225383
+        }
+    ],
+    "wof:id":874225383,
+    "wof:lastmodified":1464313115,
+    "wof:name":"Beloin Company",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "network",
+        "engineering",
+        "database"
+    ]
+},
+  "bbox": [
+    -72.506952,
+    44.125085,
+    -72.506952,
+    44.125085
+],
+  "geometry": {"coordinates":[-72.506952,44.125085],"type":"Point"}
+}

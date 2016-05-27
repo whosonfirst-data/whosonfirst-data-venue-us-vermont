@@ -1,0 +1,71 @@
+{
+  "id": 874140121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.878125,44.643865,-72.878125,44.643865",
+    "geom:latitude":44.643865,
+    "geom:longitude":-72.878125,
+    "iso:country":"US",
+    "sg:address":"132 Railroad St",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8885",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZO4ayIloD2EyRCK00Qqsg_44.643865_-72.878125@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312236,
+    "wof:geomhash":"298e49899585d8b4bfde69f43bad77a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874140121
+        }
+    ],
+    "wof:id":874140121,
+    "wof:lastmodified":1464312236,
+    "wof:name":"Foard Panels Inc",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -72.878125,
+    44.643865,
+    -72.878125,
+    44.643865
+],
+  "geometry": {"coordinates":[-72.878125,44.643865],"type":"Point"}
+}

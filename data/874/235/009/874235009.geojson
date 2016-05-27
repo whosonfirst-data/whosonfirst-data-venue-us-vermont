@@ -1,0 +1,71 @@
+{
+  "id": 874235009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.766353,44.512505,-72.766353,44.512505",
+    "geom:latitude":44.512505,
+    "geom:longitude":-72.766353,
+    "iso:country":"US",
+    "sg:address":"6443 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 4014",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TXYeBJhJyx6yb1KvhDYh4_44.512505_-72.766353@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313239,
+    "wof:geomhash":"f05d5b337437a32955e54e244d71c68b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874235009
+        }
+    ],
+    "wof:id":874235009,
+    "wof:lastmodified":1464313239,
+    "wof:name":"Smugglers Notch State Park",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "park"
+    ]
+},
+  "bbox": [
+    -72.766353,
+    44.512505,
+    -72.766353,
+    44.512505
+],
+  "geometry": {"coordinates":[-72.766353,44.512505],"type":"Point"}
+}

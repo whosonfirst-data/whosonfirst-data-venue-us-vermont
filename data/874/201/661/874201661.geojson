@@ -1,0 +1,71 @@
+{
+  "id": 874201661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.283135,43.994363,-72.283135,43.994363",
+    "geom:latitude":43.994363,
+    "geom:longitude":-72.283135,
+    "iso:country":"US",
+    "sg:address":"259 Eastman Ln",
+    "sg:city":"Corinth",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 439 5599",
+    "sg:postcode":"05039",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855463,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DeYW9xOUhVTEDdRcSm7kW_43.994363_-72.283135@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312860,
+    "wof:geomhash":"0c614e4697b0cb2bdf90454d431485e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85855463,
+            "region_id":85688763,
+            "venue_id":874201661
+        }
+    ],
+    "wof:id":874201661,
+    "wof:lastmodified":1464312860,
+    "wof:name":"Genesis Farming",
+    "wof:parent_id":85855463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.283135,
+    43.994363,
+    -72.283135,
+    43.994363
+],
+  "geometry": {"coordinates":[-72.283135,43.994363],"type":"Point"}
+}

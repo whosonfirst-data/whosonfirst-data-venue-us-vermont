@@ -1,0 +1,71 @@
+{
+  "id": 874098755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.109022,43.231932,-73.109022,43.231932",
+    "geom:latitude":43.231932,
+    "geom:longitude":-73.109022,
+    "iso:country":"US",
+    "sg:address":"682 Nichols Hill Rd",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 867 2502",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k2yyZDnyg8wi6LYjSbpjB_43.231932_-73.109022@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311767,
+    "wof:geomhash":"3c1ae291ef0f805295ef70b22798459b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874098755
+        }
+    ],
+    "wof:id":874098755,
+    "wof:lastmodified":1464311767,
+    "wof:name":"Nancy E Brass MD",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.109022,
+    43.231932,
+    -73.109022,
+    43.231932
+],
+  "geometry": {"coordinates":[-73.109022,43.231932],"type":"Point"}
+}

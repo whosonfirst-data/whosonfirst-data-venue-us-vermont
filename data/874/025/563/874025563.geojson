@@ -1,0 +1,73 @@
+{
+  "id": 874025563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.218662,44.48463,-73.218662,44.48463",
+    "geom:latitude":44.48463,
+    "geom:longitude":-73.218662,
+    "iso:country":"US",
+    "sg:address":"98 North St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 2661",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hhr2Ui72H9lAza9NhJN2B_44.484630_-73.218662@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311003,
+    "wof:geomhash":"591f7fdc68f20b6cdea9eb53fca9d0d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874025563
+        }
+    ],
+    "wof:id":874025563,
+    "wof:lastmodified":1464311003,
+    "wof:name":"Jays Electric",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.218662,
+    44.48463,
+    -73.218662,
+    44.48463
+],
+  "geometry": {"coordinates":[-73.21866199999999,44.48463],"type":"Point"}
+}

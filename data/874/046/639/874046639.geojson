@@ -1,0 +1,71 @@
+{
+  "id": 874046639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.5155,44.202776,-72.5155,44.202776",
+    "geom:latitude":44.202776,
+    "geom:longitude":-72.5155,
+    "iso:country":"US",
+    "sg:address":"77 Berlin St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0014",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T0s0AEEYUPnrNIWcJuJBT_44.202776_-72.515500@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311212,
+    "wof:geomhash":"3403a4425e192bbb47c87709b7a33a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874046639
+        }
+    ],
+    "wof:id":874046639,
+    "wof:lastmodified":1464311212,
+    "wof:name":"Family Psychiatry Associates",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.5155,
+    44.202776,
+    -72.5155,
+    44.202776
+],
+  "geometry": {"coordinates":[-72.5155,44.202776],"type":"Point"}
+}

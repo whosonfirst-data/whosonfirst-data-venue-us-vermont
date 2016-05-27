@@ -1,0 +1,69 @@
+{
+  "id": 874170205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.952875,43.613071,-72.952875,43.613071",
+    "geom:latitude":43.613071,
+    "geom:longitude":-72.952875,
+    "iso:country":"US",
+    "sg:address":"3 Sharon Dr",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 6130",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uyf95Vsu9JFXNJorw2Snd_43.613071_-72.952875@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312529,
+    "wof:geomhash":"6cfc74c11a18b4291ee1c92d405bbb5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874170205
+        }
+    ],
+    "wof:id":874170205,
+    "wof:lastmodified":1464312529,
+    "wof:name":"First Baptist Church Parsonage",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -72.952875,
+    43.613071,
+    -72.952875,
+    43.613071
+],
+  "geometry": {"coordinates":[-72.95287500000001,43.613071],"type":"Point"}
+}

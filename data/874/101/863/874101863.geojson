@@ -1,0 +1,72 @@
+{
+  "id": 874101863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.171134,44.035131,-73.171134,44.035131",
+    "geom:latitude":44.035131,
+    "geom:longitude":-73.171134,
+    "iso:country":"US",
+    "sg:address":"23 Pond Ln",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 1280",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "magazine"
+    ],
+    "sg:website":"www.rvmags.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d5rIZX84lafAQwzUIPFLt_44.035131_-73.171134@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311817,
+    "wof:geomhash":"fdf22b39cfea6187b1b9407292370129",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874101863
+        }
+    ],
+    "wof:id":874101863,
+    "wof:lastmodified":1464311817,
+    "wof:name":"Retail Vision Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "magazine"
+    ]
+},
+  "bbox": [
+    -73.171134,
+    44.035131,
+    -73.171134,
+    44.035131
+],
+  "geometry": {"coordinates":[-73.171134,44.035131],"type":"Point"}
+}

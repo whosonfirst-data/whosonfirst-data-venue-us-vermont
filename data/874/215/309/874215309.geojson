@@ -1,0 +1,71 @@
+{
+  "id": 874215309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.841562,44.683289,-72.841562,44.683289",
+    "geom:latitude":44.683289,
+    "geom:longitude":-72.841562,
+    "iso:country":"US",
+    "sg:address":"992 Pollander Rd",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5347",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "horse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UnIUkKwdQY6htxBe1cujl_44.683289_-72.841562@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313007,
+    "wof:geomhash":"cbbe2542036c5299a1893f5b131cfc82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874215309
+        }
+    ],
+    "wof:id":874215309,
+    "wof:lastmodified":1464313007,
+    "wof:name":"Vermont Horse Park",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse"
+    ]
+},
+  "bbox": [
+    -72.841562,
+    44.683289,
+    -72.841562,
+    44.683289
+],
+  "geometry": {"coordinates":[-72.841562,44.683289],"type":"Point"}
+}

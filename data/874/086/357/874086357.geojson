@@ -1,0 +1,71 @@
+{
+  "id": 874086357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214288,44.455688,-73.214288,44.455688",
+    "geom:latitude":44.455688,
+    "geom:longitude":-73.214288,
+    "iso:country":"US",
+    "sg:address":"857 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 0981",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "magician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PWr6AZPm8PqfrIus8cZxd_44.455688_-73.214288@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311624,
+    "wof:geomhash":"52f40866edf6701665f7d9f96e2bad3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874086357
+        }
+    ],
+    "wof:id":874086357,
+    "wof:lastmodified":1464311624,
+    "wof:name":"Merlin The Magician",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "magician"
+    ]
+},
+  "bbox": [
+    -73.214288,
+    44.455688,
+    -73.214288,
+    44.455688
+],
+  "geometry": {"coordinates":[-73.214288,44.455688],"type":"Point"}
+}

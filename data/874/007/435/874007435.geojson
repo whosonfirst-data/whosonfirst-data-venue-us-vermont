@@ -1,0 +1,75 @@
+{
+  "id": 874007435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169258,44.017054,-73.169258,44.017054",
+    "geom:latitude":44.017054,
+    "geom:longitude":-73.169258,
+    "iso:country":"US",
+    "sg:address":"26 Seymour St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7166",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "serving",
+        "beverage",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ua9Xt2XyaxqBU7eZLpMIt_44.017054_-73.169258@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310835,
+    "wof:geomhash":"88534b6b717f49ff8cff790db0713002",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874007435
+        }
+    ],
+    "wof:id":874007435,
+    "wof:lastmodified":1464310835,
+    "wof:name":"Fire & Ice Restaurant",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "serving",
+        "beverage",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -73.169258,
+    44.017054,
+    -73.169258,
+    44.017054
+],
+  "geometry": {"coordinates":[-73.169258,44.017054],"type":"Point"}
+}

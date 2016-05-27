@@ -1,0 +1,71 @@
+{
+  "id": 874194611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.103646,44.428517,-72.103646,44.428517",
+    "geom:latitude":44.428517,
+    "geom:longitude":-72.103646,
+    "iso:country":"US",
+    "sg:address":"111 State Rte 2b",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 3865",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BBWBuFMNkRC5ObL5p2MKw_44.428517_-72.103646@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312786,
+    "wof:geomhash":"d157e8207472528c13be7c628691588c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874194611
+        }
+    ],
+    "wof:id":874194611,
+    "wof:lastmodified":1464312786,
+    "wof:name":"Danville Self Storage",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -72.103646,
+    44.428517,
+    -72.103646,
+    44.428517
+],
+  "geometry": {"coordinates":[-72.103646,44.428517],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874063821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.664792,44.122956,-72.664792,44.122956",
+    "geom:latitude":44.122956,
+    "geom:longitude":-72.664792,
+    "iso:country":"US",
+    "sg:address":"20 Lovers Ln",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 5211",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wnUOkTsXSFOTAydw3rVxl_44.122956_-72.664792@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311369,
+    "wof:geomhash":"58c414f70f7bf8805c2a76f0266f9577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874063821
+        }
+    ],
+    "wof:id":874063821,
+    "wof:lastmodified":1464311369,
+    "wof:name":"Cutting Loose Beauty Stop",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.664792,
+    44.122956,
+    -72.664792,
+    44.122956
+],
+  "geometry": {"coordinates":[-72.66479200000001,44.122956],"type":"Point"}
+}

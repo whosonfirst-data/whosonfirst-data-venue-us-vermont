@@ -1,0 +1,71 @@
+{
+  "id": 874122423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.162275,44.016857,-73.162275,44.016857",
+    "geom:latitude":44.016857,
+    "geom:longitude":-73.162275,
+    "iso:country":"US",
+    "sg:address":"29 Seminary St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 0832",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qNdBewthGjg7Dmy6DDAPi_44.016857_-73.162275@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312062,
+    "wof:geomhash":"b1acd14b47814b00f4a38c059188f418",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874122423
+        }
+    ],
+    "wof:id":874122423,
+    "wof:lastmodified":1464312062,
+    "wof:name":"Linens & Lace Bed & Breakfast",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -73.162275,
+    44.016857,
+    -73.162275,
+    44.016857
+],
+  "geometry": {"coordinates":[-73.16227499999999,44.016857],"type":"Point"}
+}

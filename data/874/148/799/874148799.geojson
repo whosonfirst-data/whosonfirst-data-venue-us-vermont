@@ -1,0 +1,75 @@
+{
+  "id": 874148799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501896,44.257332,-72.501896,44.257332",
+    "geom:latitude":44.257332,
+    "geom:longitude":-72.501896,
+    "iso:country":"US",
+    "sg:address":"1920 E Montpelier Rd",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 2392",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Phq9ZxmagoIgBXCMn8n4x_44.257332_-72.501896@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312318,
+    "wof:geomhash":"980d6f2c59987de0285153da3b499b79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874148799
+        }
+    ],
+    "wof:id":874148799,
+    "wof:lastmodified":1464312318,
+    "wof:name":"Salvation Army Warehouse",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -72.501896,
+    44.257332,
+    -72.501896,
+    44.257332
+],
+  "geometry": {"coordinates":[-72.501896,44.257332],"type":"Point"}
+}

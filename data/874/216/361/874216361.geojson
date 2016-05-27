@@ -1,0 +1,71 @@
+{
+  "id": 874216361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.5297,43.790301,-72.5297,43.790301",
+    "geom:latitude":43.790301,
+    "geom:longitude":-72.5297,
+    "iso:country":"US",
+    "sg:address":"804 Frary Rd",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 8351",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Kvyiqu4jYBQSJtlMCwx3f_43.790301_-72.529700@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313017,
+    "wof:geomhash":"fd472f119aaf31949c052ec9e27c48ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874216361
+        }
+    ],
+    "wof:id":874216361,
+    "wof:lastmodified":1464313017,
+    "wof:name":"Frary Richard Trucking",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.5297,
+    43.790301,
+    -72.5297,
+    43.790301
+],
+  "geometry": {"coordinates":[-72.52970000000001,43.790301],"type":"Point"}
+}

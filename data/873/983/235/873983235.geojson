@@ -1,0 +1,69 @@
+{
+  "id": 873983235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.038163,44.498643,-73.038163,44.498643",
+    "geom:latitude":44.498643,
+    "geom:longitude":-73.038163,
+    "iso:country":"US",
+    "sg:address":"6 Thompson Dr",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 3369",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "importer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mXf2ni41A24ourUNlIOaQ_44.498643_-73.038163@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310635,
+    "wof:geomhash":"6ac8b6186894f56cbc98f03cd07a9895",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":873983235
+        }
+    ],
+    "wof:id":873983235,
+    "wof:lastmodified":1464310635,
+    "wof:name":"Kombi Limited",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "importer"
+    ]
+},
+  "bbox": [
+    -73.038163,
+    44.498643,
+    -73.038163,
+    44.498643
+],
+  "geometry": {"coordinates":[-73.038163,44.498643],"type":"Point"}
+}

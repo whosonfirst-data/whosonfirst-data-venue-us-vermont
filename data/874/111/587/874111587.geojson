@@ -1,0 +1,69 @@
+{
+  "id": 874111587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.226161,44.384334,-73.226161,44.384334",
+    "geom:latitude":44.384334,
+    "geom:longitude":-73.226161,
+    "iso:country":"US",
+    "sg:address":"5068 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 5500",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oUeSdGEfN50JHuzdIMgBD_44.384334_-73.226161@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311950,
+    "wof:geomhash":"9f2ca5480ee4cdab1a8010163cccecdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874111587
+        }
+    ],
+    "wof:id":874111587,
+    "wof:lastmodified":1464311950,
+    "wof:name":"George Faris Law Offices",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -73.226161,
+    44.384334,
+    -73.226161,
+    44.384334
+],
+  "geometry": {"coordinates":[-73.226161,44.384334],"type":"Point"}
+}

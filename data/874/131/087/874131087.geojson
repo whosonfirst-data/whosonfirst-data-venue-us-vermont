@@ -1,0 +1,71 @@
+{
+  "id": 874131087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.669071,43.033746,-72.669071,43.033746",
+    "geom:latitude":43.033746,
+    "geom:longitude":-72.669071,
+    "iso:country":"US",
+    "sg:address":"761 State Forest Rd",
+    "sg:city":"Townshend",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 4586",
+    "sg:postcode":"05353",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LWeocXm86ehJy53mxesg3_43.033746_-72.669071@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312150,
+    "wof:geomhash":"27bc88c79c90f5300f78828ee2efc7e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874131087
+        }
+    ],
+    "wof:id":874131087,
+    "wof:lastmodified":1464312150,
+    "wof:name":"Scott Brooks Towing & Recovery",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.669071,
+    43.033746,
+    -72.669071,
+    43.033746
+],
+  "geometry": {"coordinates":[-72.669071,43.033746],"type":"Point"}
+}

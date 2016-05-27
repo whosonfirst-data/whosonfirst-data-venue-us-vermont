@@ -1,0 +1,80 @@
+{
+  "id": 874121431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210006,44.440306,-73.210006,44.440306",
+    "geom:latitude":44.440306,
+    "geom:longitude":-73.210006,
+    "iso:country":"US",
+    "sg:address":"977 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 9654",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_468RmBicRfIOxcJDzZE3f0_44.440306_-73.210006@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312054,
+    "wof:geomhash":"93dc256a55839ad85d880e740d027bbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874121431
+        }
+    ],
+    "wof:id":874121431,
+    "wof:lastmodified":1464312054,
+    "wof:name":"Short Stop N",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ]
+},
+  "bbox": [
+    -73.210006,
+    44.440306,
+    -73.210006,
+    44.440306
+],
+  "geometry": {"coordinates":[-73.21000600000001,44.440306],"type":"Point"}
+}

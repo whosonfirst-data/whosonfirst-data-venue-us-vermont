@@ -1,0 +1,71 @@
+{
+  "id": 874240211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.774753,44.970458,-72.774753,44.970458",
+    "geom:latitude":44.970458,
+    "geom:longitude":-72.774753,
+    "iso:country":"US",
+    "sg:address":"4401 Water Tower Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 2220",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RBzYNRxdmCipdeM1kBuME_44.970458_-72.774753@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313344,
+    "wof:geomhash":"2ef15c51fceb06c1b6715f539fc1993d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874240211
+        }
+    ],
+    "wof:id":874240211,
+    "wof:lastmodified":1464313344,
+    "wof:name":"Stowe & Sons Inc",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.774753,
+    44.970458,
+    -72.774753,
+    44.970458
+],
+  "geometry": {"coordinates":[-72.774753,44.970458],"type":"Point"}
+}

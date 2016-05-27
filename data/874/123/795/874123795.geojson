@@ -1,0 +1,71 @@
+{
+  "id": 874123795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.96075,43.600466,-72.96075,43.600466",
+    "geom:latitude":43.600466,
+    "geom:longitude":-72.96075,
+    "iso:country":"US",
+    "sg:address":"10 Brightview Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 7270",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t4idi2523OQH74y5QiHPO_43.600466_-72.960750@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312075,
+    "wof:geomhash":"b43c8e6e84f13e4df5f066cf7f659fc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874123795
+        }
+    ],
+    "wof:id":874123795,
+    "wof:lastmodified":1464312075,
+    "wof:name":"Mid State Dental Lab",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -72.96075,
+    43.600466,
+    -72.96075,
+    43.600466
+],
+  "geometry": {"coordinates":[-72.96075,43.600466],"type":"Point"}
+}

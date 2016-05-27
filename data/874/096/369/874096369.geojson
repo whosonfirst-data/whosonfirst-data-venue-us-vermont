@@ -1,0 +1,73 @@
+{
+  "id": 874096369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08569,43.803523,-73.08569,43.803523",
+    "geom:latitude":43.803523,
+    "geom:longitude":-73.08569,
+    "iso:country":"US",
+    "sg:address":"8 Case St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 2883",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YdSwaK6i7aPELY96IqIGA_43.803523_-73.085690@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311733,
+    "wof:geomhash":"5e78ac1aeae7a0c3ba6439e9a7bf09f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874096369
+        }
+    ],
+    "wof:id":874096369,
+    "wof:lastmodified":1464311733,
+    "wof:name":"Vt Center For The Deaf & Hard",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.08569,
+    43.803523,
+    -73.08569,
+    43.803523
+],
+  "geometry": {"coordinates":[-73.08569,43.803523],"type":"Point"}
+}

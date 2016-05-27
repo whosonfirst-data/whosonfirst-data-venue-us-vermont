@@ -1,0 +1,73 @@
+{
+  "id": 874058533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.545115,44.242606,-72.545115,44.242606",
+    "geom:latitude":44.242606,
+    "geom:longitude":-72.545115,
+    "iso:country":"US",
+    "sg:address":"408 E Montpelier Rd",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 224 9020",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eXcbP0XjXm3xCxmi219da_44.242606_-72.545115@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311322,
+    "wof:geomhash":"c62baecd9c7d268983ae1f02f4bff978",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874058533
+        }
+    ],
+    "wof:id":874058533,
+    "wof:lastmodified":1464311322,
+    "wof:name":"John W Kennedy Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "station"
+    ]
+},
+  "bbox": [
+    -72.545115,
+    44.242606,
+    -72.545115,
+    44.242606
+],
+  "geometry": {"coordinates":[-72.545115,44.242606],"type":"Point"}
+}

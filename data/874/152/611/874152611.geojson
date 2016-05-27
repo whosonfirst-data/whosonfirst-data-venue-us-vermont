@@ -1,0 +1,71 @@
+{
+  "id": 874152611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205498,44.541458,-73.205498,44.541458",
+    "geom:latitude":44.541458,
+    "geom:longitude":-73.205498,
+    "iso:country":"US",
+    "sg:address":"324 Julie Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 233 2090",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p2yRnUQA3qEJ1FtTvMyHT_44.541458_-73.205498@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312352,
+    "wof:geomhash":"43b279cb33b9878adf78fd9111d72608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874152611
+        }
+    ],
+    "wof:id":874152611,
+    "wof:lastmodified":1464312352,
+    "wof:name":"Mountain Contracting",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.205498,
+    44.541458,
+    -73.205498,
+    44.541458
+],
+  "geometry": {"coordinates":[-73.20549800000001,44.541458],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874104581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.224249,44.365139,-73.224249,44.365139",
+    "geom:latitude":44.365139,
+    "geom:longitude":-73.224249,
+    "iso:country":"US",
+    "sg:address":"5000 The Terraces",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 2472",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tJm0O3LoVPaOnDX1lXEa4_44.365139_-73.224249@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311851,
+    "wof:geomhash":"c51ade207fe37bd4d295085d6ab11a2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874104581
+        }
+    ],
+    "wof:id":874104581,
+    "wof:lastmodified":1464311851,
+    "wof:name":"Terraces",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -73.224249,
+    44.365139,
+    -73.224249,
+    44.365139
+],
+  "geometry": {"coordinates":[-73.224249,44.365139],"type":"Point"}
+}

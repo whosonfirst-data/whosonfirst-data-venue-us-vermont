@@ -1,0 +1,71 @@
+{
+  "id": 874232589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.37764,44.277754,-72.37764,44.277754",
+    "geom:latitude":44.277754,
+    "geom:longitude":-72.37764,
+    "iso:country":"US",
+    "sg:address":"96 Holt Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 454 8421",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LQqlXUkB5Sn39HODNj8EJ_44.277754_-72.377640@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313194,
+    "wof:geomhash":"8992d9bd81351c7492f84f7797c6e71c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874232589
+        }
+    ],
+    "wof:id":874232589,
+    "wof:lastmodified":1464313194,
+    "wof:name":"Plainfield Hardware & Supply",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    -72.37764,
+    44.277754,
+    -72.37764,
+    44.277754
+],
+  "geometry": {"coordinates":[-72.37764,44.277754],"type":"Point"}
+}

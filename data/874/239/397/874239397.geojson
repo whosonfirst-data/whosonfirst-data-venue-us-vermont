@@ -1,0 +1,71 @@
+{
+  "id": 874239397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209012,44.477816,-73.209012,44.477816",
+    "geom:latitude":44.477816,
+    "geom:longitude":-73.209012,
+    "iso:country":"US",
+    "sg:address":"96 S Union St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 651 7673",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MLRO9kGsrWfXuqc0CrwZB_44.477816_-73.209012@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313329,
+    "wof:geomhash":"0468dff1053c5bbce78fc79f57b5639d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874239397
+        }
+    ],
+    "wof:id":874239397,
+    "wof:lastmodified":1464313329,
+    "wof:name":"Karen Sanborn Lcsw",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "worker"
+    ]
+},
+  "bbox": [
+    -73.209012,
+    44.477816,
+    -73.209012,
+    44.477816
+],
+  "geometry": {"coordinates":[-73.209012,44.477816],"type":"Point"}
+}

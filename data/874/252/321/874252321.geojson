@@ -1,0 +1,69 @@
+{
+  "id": 874252321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.55732,42.870358,-72.55732,42.870358",
+    "geom:latitude":42.870358,
+    "geom:longitude":-72.55732,
+    "iso:country":"US",
+    "sg:address":"564 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 5702",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nv8uUTIjrLvOFEsuPRjRk_42.870358_-72.557320@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313611,
+    "wof:geomhash":"f34fdb430fa3b889df866d5c82455642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874252321
+        }
+    ],
+    "wof:id":874252321,
+    "wof:lastmodified":1464313611,
+    "wof:name":"Mama & Papa Z's Family Restaurant",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.55732,
+    42.870358,
+    -72.55732,
+    42.870358
+],
+  "geometry": {"coordinates":[-72.55732,42.870358],"type":"Point"}
+}

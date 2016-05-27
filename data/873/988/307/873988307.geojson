@@ -1,0 +1,71 @@
+{
+  "id": 873988307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.218202,44.401362,-73.218202,44.401362",
+    "geom:latitude":44.401362,
+    "geom:longitude":-73.218202,
+    "iso:country":"US",
+    "sg:address":"3762 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 8948",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PGYKf7vwTeXVXkRfg3DgC_44.401362_-73.218202@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310678,
+    "wof:geomhash":"c158de6698cc89fb5bc13c5b5b50ce16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":873988307
+        }
+    ],
+    "wof:id":873988307,
+    "wof:lastmodified":1464310678,
+    "wof:name":"Gymstar Gymnastics",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -73.218202,
+    44.401362,
+    -73.218202,
+    44.401362
+],
+  "geometry": {"coordinates":[-73.21820200000001,44.401362],"type":"Point"}
+}

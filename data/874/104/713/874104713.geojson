@@ -1,0 +1,71 @@
+{
+  "id": 874104713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.558343,42.872073,-72.558343,42.872073",
+    "geom:latitude":42.872073,
+    "geom:longitude":-72.558343,
+    "iso:country":"US",
+    "sg:address":"768 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 258 4700",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48uP4v30qEW2o7zHzN23nZ_42.872073_-72.558343@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311854,
+    "wof:geomhash":"f563c8f076cc8a7108800d05597d2c44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874104713
+        }
+    ],
+    "wof:id":874104713,
+    "wof:lastmodified":1464311854,
+    "wof:name":"Royal Square",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.558343,
+    42.872073,
+    -72.558343,
+    42.872073
+],
+  "geometry": {"coordinates":[-72.55834299999999,42.872073],"type":"Point"}
+}

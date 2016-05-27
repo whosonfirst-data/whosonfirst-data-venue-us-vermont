@@ -1,0 +1,75 @@
+{
+  "id": 874055159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971237,43.587986,-72.971237,43.587986",
+    "geom:latitude":43.587986,
+    "geom:longitude":-72.971237,
+    "iso:country":"US",
+    "sg:address":"132 Randbury Rd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 5768",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "without",
+        "driver",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yJqEXoNM9aNI2vcPMW9Vn_43.587986_-72.971237@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311294,
+    "wof:geomhash":"9f2584d2307717249da6a0744a0cacb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874055159
+        }
+    ],
+    "wof:id":874055159,
+    "wof:lastmodified":1464311294,
+    "wof:name":"R S D Leasing Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "without",
+        "driver",
+        "truck"
+    ]
+},
+  "bbox": [
+    -72.971237,
+    43.587986,
+    -72.971237,
+    43.587986
+],
+  "geometry": {"coordinates":[-72.971237,43.587986],"type":"Point"}
+}

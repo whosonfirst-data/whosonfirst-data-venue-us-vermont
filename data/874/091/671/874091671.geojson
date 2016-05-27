@@ -1,0 +1,75 @@
+{
+  "id": 874091671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.684489,44.754114,-72.684489,44.754114",
+    "geom:latitude":44.754114,
+    "geom:longitude":-72.684489,
+    "iso:country":"US",
+    "sg:address":"3422 State Rte 109",
+    "sg:city":"Belvidere Center",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2702",
+    "sg:postcode":"05442",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21oQ79zgpBNmwJsB8XMFzs_44.754114_-72.684489@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311683,
+    "wof:geomhash":"ff002ca18a67649396d1aa7594a32a28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874091671
+        }
+    ],
+    "wof:id":874091671,
+    "wof:lastmodified":1464311683,
+    "wof:name":"Cox Trucking Inc",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.684489,
+    44.754114,
+    -72.684489,
+    44.754114
+],
+  "geometry": {"coordinates":[-72.684489,44.754114],"type":"Point"}
+}

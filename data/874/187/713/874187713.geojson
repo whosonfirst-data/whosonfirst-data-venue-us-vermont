@@ -1,0 +1,71 @@
+{
+  "id": 874187713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.354868,44.354418,-72.354868,44.354418",
+    "geom:latitude":44.354418,
+    "geom:longitude":-72.354868,
+    "iso:country":"US",
+    "sg:address":"198 Creamery St",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3670",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OSvH5sKq4wvoQUsZH5ulB_44.354418_-72.354868@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312716,
+    "wof:geomhash":"b09adb953d55fd50bcea8250b3eee345",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874187713
+        }
+    ],
+    "wof:id":874187713,
+    "wof:lastmodified":1464312716,
+    "wof:name":"Onion River Well & Spring Svc",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.354868,
+    44.354418,
+    -72.354868,
+    44.354418
+],
+  "geometry": {"coordinates":[-72.354868,44.354418],"type":"Point"}
+}

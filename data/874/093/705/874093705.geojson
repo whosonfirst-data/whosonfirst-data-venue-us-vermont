@@ -1,0 +1,71 @@
+{
+  "id": 874093705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.083581,44.578289,-73.083581,44.578289",
+    "geom:latitude":44.578289,
+    "geom:longitude":-73.083581,
+    "iso:country":"US",
+    "sg:address":"239 Rollin Irish Rd",
+    "sg:city":"Westford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 0052",
+    "sg:postcode":"05494",
+    "sg:province":"VT",
+    "sg:tags":[
+        "aircraft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eiYAligltkbXSlRQ49Ifm_44.578289_-73.083581@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311700,
+    "wof:geomhash":"54622a25c28619d0c39db3ff0db905aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874093705
+        }
+    ],
+    "wof:id":874093705,
+    "wof:lastmodified":1464311700,
+    "wof:name":"Lamphere Electronics",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.083581,
+    44.578289,
+    -73.083581,
+    44.578289
+],
+  "geometry": {"coordinates":[-73.083581,44.578289],"type":"Point"}
+}

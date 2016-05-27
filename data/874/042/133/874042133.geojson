@@ -1,0 +1,64 @@
+{
+  "id": 874042133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.995312,44.402889,-72.995312,44.402889",
+    "geom:latitude":44.402889,
+    "geom:longitude":-72.995312,
+    "iso:country":"US",
+    "sg:address":"205 Bridge St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 2050",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MktpjBivD9nZOrhSlZl0f_44.402889_-72.995312@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311167,
+    "wof:geomhash":"2cc982b4f4b34e2721df8342a8dec6d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874042133
+        }
+    ],
+    "wof:id":874042133,
+    "wof:lastmodified":1464311167,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.995312,
+    44.402889,
+    -72.995312,
+    44.402889
+],
+  "geometry": {"coordinates":[-72.995312,44.402889],"type":"Point"}
+}

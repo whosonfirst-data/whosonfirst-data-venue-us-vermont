@@ -1,0 +1,73 @@
+{
+  "id": 874212711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210345,44.43857,-73.210345,44.43857",
+    "geom:latitude":44.43857,
+    "geom:longitude":-73.210345,
+    "iso:country":"US",
+    "sg:address":"1233 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 5779",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "firm",
+        "brokerage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DauRXE7vxKv9Ay8jbluVV_44.438570_-73.210345@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312981,
+    "wof:geomhash":"26b2302d6ff4caecb2d98e61e4ad5d5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874212711
+        }
+    ],
+    "wof:id":874212711,
+    "wof:lastmodified":1464312981,
+    "wof:name":"Charles Schwab",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firm",
+        "brokerage"
+    ]
+},
+  "bbox": [
+    -73.210345,
+    44.43857,
+    -73.210345,
+    44.43857
+],
+  "geometry": {"coordinates":[-73.210345,44.43857],"type":"Point"}
+}

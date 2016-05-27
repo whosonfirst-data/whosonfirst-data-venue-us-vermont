@@ -1,0 +1,80 @@
+{
+  "id": 874205699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.117491,44.037011,-73.117491,44.037011",
+    "geom:latitude":44.037011,
+    "geom:longitude":-73.117491,
+    "iso:country":"US",
+    "sg:address":"1394 Munger St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2453",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "bicycle",
+        "consulting",
+        "planner",
+        "tours",
+        "provides"
+    ],
+    "sg:website":"www.bicycleholidays.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l97vvi6rZBzCfrnSn6iJm_44.037011_-73.117491@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312901,
+    "wof:geomhash":"1257944a136fe0aaa7b1fd425f27e129",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874205699
+        }
+    ],
+    "wof:id":874205699,
+    "wof:lastmodified":1464312901,
+    "wof:name":"Bicycle Holidays",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bicycle",
+        "consulting",
+        "planner",
+        "tours",
+        "provides"
+    ]
+},
+  "bbox": [
+    -73.117491,
+    44.037011,
+    -73.117491,
+    44.037011
+],
+  "geometry": {"coordinates":[-73.117491,44.037011],"type":"Point"}
+}

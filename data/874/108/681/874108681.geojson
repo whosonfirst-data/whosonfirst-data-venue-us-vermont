@@ -1,0 +1,69 @@
+{
+  "id": 874108681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.009268,43.181091,-73.009268,43.181091",
+    "geom:latitude":43.181091,
+    "geom:longitude":-73.009268,
+    "iso:country":"US",
+    "sg:address":"2538 Depot St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 2307",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844461,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31oIx0p36aDYVSIOq5Tfn0_43.181091_-73.009268@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311901,
+    "wof:geomhash":"79ccd87b83050ed5b7d68879fe707f60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85844461,
+            "region_id":85688763,
+            "venue_id":874108681
+        }
+    ],
+    "wof:id":874108681,
+    "wof:lastmodified":1464311901,
+    "wof:name":"US Forestry Dept",
+    "wof:parent_id":85844461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -73.009268,
+    43.181091,
+    -73.009268,
+    43.181091
+],
+  "geometry": {"coordinates":[-73.00926800000001,43.181091],"type":"Point"}
+}

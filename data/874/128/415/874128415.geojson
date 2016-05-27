@@ -1,0 +1,69 @@
+{
+  "id": 874128415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.170223,44.601978,-73.170223,44.601978",
+    "geom:latitude":44.601978,
+    "geom:longitude":-73.170223,
+    "iso:country":"US",
+    "sg:address":"59 Gonyeau Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 7631",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ylgtYfY4ZqdoWrgJqUTpV_44.601978_-73.170223@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312115,
+    "wof:geomhash":"f7c5a3108bf2be362749a75433be2964",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":874128415
+        }
+    ],
+    "wof:id":874128415,
+    "wof:lastmodified":1464312115,
+    "wof:name":"Dick Trayner Trucking Svc",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.170223,
+    44.601978,
+    -73.170223,
+    44.601978
+],
+  "geometry": {"coordinates":[-73.17022299999999,44.601978],"type":"Point"}
+}

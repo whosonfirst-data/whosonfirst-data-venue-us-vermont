@@ -1,0 +1,74 @@
+{
+  "id": 873986059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213099,44.417299,-73.213099,44.417299",
+    "geom:latitude":44.417299,
+    "geom:longitude":-73.213099,
+    "iso:country":"US",
+    "sg:address":"2630 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 2576",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lounge",
+        "center"
+    ],
+    "sg:website":"www.champlainlanes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05I5y44jWDN0FoPUAHwtmO_44.417299_-73.213099@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310662,
+    "wof:geomhash":"1c9beed06384829e4aab3342da22e6a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873986059
+        }
+    ],
+    "wof:id":873986059,
+    "wof:lastmodified":1464310662,
+    "wof:name":"Champlain Lanes",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "center"
+    ]
+},
+  "bbox": [
+    -73.213099,
+    44.417299,
+    -73.213099,
+    44.417299
+],
+  "geometry": {"coordinates":[-73.213099,44.417299],"type":"Point"}
+}

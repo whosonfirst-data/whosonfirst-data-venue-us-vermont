@@ -1,0 +1,70 @@
+{
+  "id": 874075845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.984221,43.607508,-72.984221,43.607508",
+    "geom:latitude":43.607508,
+    "geom:longitude":-72.984221,
+    "iso:country":"US",
+    "sg:address":"277 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 7237",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "spring"
+    ],
+    "sg:website":"www.youngspring.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T1K0UQc96wQ04y4Nw8BeI_43.607508_-72.984221@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311510,
+    "wof:geomhash":"b773abe931b8b39993aed9787785cb9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874075845
+        }
+    ],
+    "wof:id":874075845,
+    "wof:lastmodified":1464311510,
+    "wof:name":"Young's Spring Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring"
+    ]
+},
+  "bbox": [
+    -72.984221,
+    43.607508,
+    -72.984221,
+    43.607508
+],
+  "geometry": {"coordinates":[-72.98422100000001,43.607508],"type":"Point"}
+}

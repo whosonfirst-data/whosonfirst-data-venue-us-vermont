@@ -1,0 +1,71 @@
+{
+  "id": 874216123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.500162,43.31638,-72.500162,43.31638",
+    "geom:latitude":43.31638,
+    "geom:longitude":-72.500162,
+    "iso:country":"US",
+    "sg:address":"202 Walnut Hill Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 4505",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grove",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74qEpVfHsSTIzGjjU0dM3D_43.316380_-72.500162@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313015,
+    "wof:geomhash":"7d3bc6fc914f7a9486855e054ab1c56b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874216123
+        }
+    ],
+    "wof:id":874216123,
+    "wof:lastmodified":1464313015,
+    "wof:name":"JRJ Orchards",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grove",
+        "management"
+    ]
+},
+  "bbox": [
+    -72.500162,
+    43.31638,
+    -72.500162,
+    43.31638
+],
+  "geometry": {"coordinates":[-72.500162,43.31638],"type":"Point"}
+}

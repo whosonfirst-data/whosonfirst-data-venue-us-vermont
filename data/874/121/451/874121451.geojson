@@ -1,0 +1,71 @@
+{
+  "id": 874121451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.517865,44.20904,-72.517865,44.20904",
+    "geom:latitude":44.20904,
+    "geom:longitude":-72.517865,
+    "iso:country":"US",
+    "sg:address":"34 Willey St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5632",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "collectible"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EFgwMLl20cQrtJ0QBkWjj_44.209040_-72.517865@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312054,
+    "wof:geomhash":"d6a56413736d6a46a0c12b0a09d44156",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874121451
+        }
+    ],
+    "wof:id":874121451,
+    "wof:lastmodified":1464312054,
+    "wof:name":"Lucey's Collectibles",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "collectible"
+    ]
+},
+  "bbox": [
+    -72.517865,
+    44.20904,
+    -72.517865,
+    44.20904
+],
+  "geometry": {"coordinates":[-72.517865,44.20904],"type":"Point"}
+}

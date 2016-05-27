@@ -1,0 +1,71 @@
+{
+  "id": 874206537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.145775,43.884146,-73.145775,43.884146",
+    "geom:latitude":43.884146,
+    "geom:longitude":-73.145775,
+    "iso:country":"US",
+    "sg:address":"2665 Old Jerusalem Rd",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3281",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZW6B1hgJ8UwZupE0V12OW_43.884146_-73.145775@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312909,
+    "wof:geomhash":"f708be79ce82faff3a635288c28d637e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":874206537
+        }
+    ],
+    "wof:id":874206537,
+    "wof:lastmodified":1464312909,
+    "wof:name":"Rakowitz Construction",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.145775,
+    43.884146,
+    -73.145775,
+    43.884146
+],
+  "geometry": {"coordinates":[-73.145775,43.884146],"type":"Point"}
+}

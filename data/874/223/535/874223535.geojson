@@ -1,0 +1,69 @@
+{
+  "id": 874223535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.6671,43.268862,-72.6671,43.268862",
+    "geom:latitude":43.268862,
+    "geom:longitude":-72.6671,
+    "iso:country":"US",
+    "sg:address":"560 Andover Rd",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 4347",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GYUY2bhZ15ACQWBe5Yg0d_43.268862_-72.667100@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313099,
+    "wof:geomhash":"738d158aeb563c6b5c305339f5d81aff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874223535
+        }
+    ],
+    "wof:id":874223535,
+    "wof:lastmodified":1464313099,
+    "wof:name":"Grampa Gilmans Skin Care",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.6671,
+    43.268862,
+    -72.6671,
+    43.268862
+],
+  "geometry": {"coordinates":[-72.6671,43.268862],"type":"Point"}
+}

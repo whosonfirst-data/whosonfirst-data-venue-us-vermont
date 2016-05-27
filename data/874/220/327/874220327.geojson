@@ -1,0 +1,73 @@
+{
+  "id": 874220327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.567383,44.244936,-72.567383,44.244936",
+    "geom:latitude":44.244936,
+    "geom:longitude":-72.567383,
+    "iso:country":"US",
+    "sg:address":"20 George St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 9981",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sandblasting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hsDdpWyglJe7mspMoYWBR_44.244936_-72.567383@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313066,
+    "wof:geomhash":"0603ce1c29a07626b7e9d302280a7e98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874220327
+        }
+    ],
+    "wof:id":874220327,
+    "wof:lastmodified":1464313066,
+    "wof:name":"Mobile Sand Blast",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandblasting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.567383,
+    44.244936,
+    -72.567383,
+    44.244936
+],
+  "geometry": {"coordinates":[-72.56738300000001,44.244936],"type":"Point"}
+}

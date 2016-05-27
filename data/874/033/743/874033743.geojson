@@ -1,0 +1,77 @@
+{
+  "id": 874033743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.15414,44.462984,-73.15414,44.462984",
+    "geom:latitude":44.462984,
+    "geom:longitude":-73.15414,
+    "iso:country":"US",
+    "sg:address":"1710 Williston Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 5542",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102532853,
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kfZ4QeFUeCX90LEqg1Oc5_44.462984_-73.154140@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311083,
+    "wof:geomhash":"a746a5a5a86721703f5fb41b68bec0dc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532853,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874033743
+        }
+    ],
+    "wof:id":874033743,
+    "wof:lastmodified":1464311083,
+    "wof:name":"Flight Inn",
+    "wof:parent_id":102532853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -73.15414,
+    44.462984,
+    -73.15414,
+    44.462984
+],
+  "geometry": {"coordinates":[-73.15414,44.462984],"type":"Point"}
+}

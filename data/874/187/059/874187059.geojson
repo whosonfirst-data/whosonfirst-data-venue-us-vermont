@@ -1,0 +1,77 @@
+{
+  "id": 874187059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.139669,44.509874,-73.139669,44.509874",
+    "geom:latitude":44.509874,
+    "geom:longitude":-73.139669,
+    "iso:country":"US",
+    "sg:address":"3 Morse Dr",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 4507",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "genus",
+        "rental",
+        "special",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iQPNVkGXudO4Oq0SQcIFn_44.509874_-73.139669@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312710,
+    "wof:geomhash":"7e7abf5658e06cc9db599047e1d2d9cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874187059
+        }
+    ],
+    "wof:id":874187059,
+    "wof:lastmodified":1464312710,
+    "wof:name":"Essex Mini Storage",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "genus",
+        "rental",
+        "special",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -73.139669,
+    44.509874,
+    -73.139669,
+    44.509874
+],
+  "geometry": {"coordinates":[-73.139669,44.509874],"type":"Point"}
+}

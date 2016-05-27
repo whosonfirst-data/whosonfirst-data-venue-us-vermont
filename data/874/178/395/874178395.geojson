@@ -1,0 +1,71 @@
+{
+  "id": 874178395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.558797,42.880593,-72.558797,42.880593",
+    "geom:latitude":42.880593,
+    "geom:longitude":-72.558797,
+    "iso:country":"US",
+    "sg:address":"873 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 5194",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G0PmWwI72I96s6X8VnBAC_42.880593_-72.558797@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312611,
+    "wof:geomhash":"dce6db57ed46ab516509886eb0cd21ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874178395
+        }
+    ],
+    "wof:id":874178395,
+    "wof:lastmodified":1464312611,
+    "wof:name":"Burton Car Wash",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -72.558797,
+    42.880593,
+    -72.558797,
+    42.880593
+],
+  "geometry": {"coordinates":[-72.558797,42.880593],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874219721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.13813,44.533235,-73.13813,44.533235",
+    "geom:latitude":44.533235,
+    "geom:longitude":-73.13813,
+    "iso:country":"US",
+    "sg:address":"174 Canyon Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 7470",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J3Q30IxuPPTzcocIvL0XN_44.533235_-73.138130@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313056,
+    "wof:geomhash":"b207cdea62bf8a3630c3d34f65473c45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874219721
+        }
+    ],
+    "wof:id":874219721,
+    "wof:lastmodified":1464313056,
+    "wof:name":"Godbout Drywall Inc",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.13813,
+    44.533235,
+    -73.13813,
+    44.533235
+],
+  "geometry": {"coordinates":[-73.13813,44.533235],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874171165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501575,44.196943,-72.501575,44.196943",
+    "geom:latitude":44.196943,
+    "geom:longitude":-72.501575,
+    "iso:country":"US",
+    "sg:address":"8 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6616",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "development"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WOAB3w04HKOIZoQGO2zO8_44.196943_-72.501575@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312540,
+    "wof:geomhash":"3ccca2e628ae621b76196778b3045f31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874171165
+        }
+    ],
+    "wof:id":874171165,
+    "wof:lastmodified":1464312540,
+    "wof:name":"District 5 Lepc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development"
+    ]
+},
+  "bbox": [
+    -72.501575,
+    44.196943,
+    -72.501575,
+    44.196943
+],
+  "geometry": {"coordinates":[-72.501575,44.196943],"type":"Point"}
+}

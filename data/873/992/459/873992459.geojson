@@ -1,0 +1,71 @@
+{
+  "id": 873992459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.983604,43.599028,-72.983604,43.599028",
+    "geom:latitude":43.599028,
+    "geom:longitude":-72.983604,
+    "iso:country":"US",
+    "sg:address":"133 Forest St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 2623",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77uaiyb3VDuhKYs7noGmTy_43.599028_-72.983604@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310708,
+    "wof:geomhash":"af7b8c6d8c3d252637a44173775804ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":873992459
+        }
+    ],
+    "wof:id":873992459,
+    "wof:lastmodified":1464310708,
+    "wof:name":"Griswold Masonry",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.983604,
+    43.599028,
+    -72.983604,
+    43.599028
+],
+  "geometry": {"coordinates":[-72.983604,43.599028],"type":"Point"}
+}

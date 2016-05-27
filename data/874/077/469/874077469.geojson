@@ -1,0 +1,70 @@
+{
+  "id": 874077469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.65645,42.986442,-72.65645,42.986442",
+    "geom:latitude":42.986442,
+    "geom:longitude":-72.65645,
+    "iso:country":"US",
+    "sg:address":"47 West St",
+    "sg:city":"Newfane",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 7074",
+    "sg:postcode":"05345",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.oldandnewenglandbooks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07HJFnDrER8vhNSqDmfzdJ_42.986442_-72.656450@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311524,
+    "wof:geomhash":"f531c202304273b499c82b69e4079968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874077469
+        }
+    ],
+    "wof:id":874077469,
+    "wof:lastmodified":1464311524,
+    "wof:name":"Old & New England Books",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.65645,
+    42.986442,
+    -72.65645,
+    42.986442
+],
+  "geometry": {"coordinates":[-72.65645000000001,42.986442],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874104653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.173397,44.467653,-73.173397,44.467653",
+    "geom:latitude":44.467653,
+    "geom:longitude":-73.173397,
+    "iso:country":"US",
+    "sg:address":"35 White St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3644",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "bagel",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OpjbQNaGJGs4S3IH7hf5h_44.467653_-73.173397@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311853,
+    "wof:geomhash":"6a1b11d5a5c63d8b33094e114137ad0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874104653
+        }
+    ],
+    "wof:id":874104653,
+    "wof:lastmodified":1464311853,
+    "wof:name":"G T Bagel Factory",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bagel",
+        "store"
+    ]
+},
+  "bbox": [
+    -73.173397,
+    44.467653,
+    -73.173397,
+    44.467653
+],
+  "geometry": {"coordinates":[-73.17339699999999,44.467653],"type":"Point"}
+}

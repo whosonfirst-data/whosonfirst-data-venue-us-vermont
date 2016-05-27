@@ -1,0 +1,69 @@
+{
+  "id": 874087615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.016913,44.622709,-73.016913,44.622709",
+    "geom:latitude":44.622709,
+    "geom:longitude":-73.016913,
+    "iso:country":"US",
+    "sg:address":"1901 State Rte 128",
+    "sg:city":"Westford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 4446",
+    "sg:postcode":"05494",
+    "sg:province":"VT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818481,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wmsNnvSz9M9TcDRvgfx9t_44.622709_-73.016913@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311637,
+    "wof:geomhash":"20ad258c992c086f0ef21fbc007025da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85818481,
+            "region_id":85688763,
+            "venue_id":874087615
+        }
+    ],
+    "wof:id":874087615,
+    "wof:lastmodified":1464311637,
+    "wof:name":"Richmich Janitorial Services",
+    "wof:parent_id":85818481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.016913,
+    44.622709,
+    -73.016913,
+    44.622709
+],
+  "geometry": {"coordinates":[-73.016913,44.622709],"type":"Point"}
+}

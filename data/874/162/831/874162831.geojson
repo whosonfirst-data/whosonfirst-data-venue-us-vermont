@@ -1,0 +1,71 @@
+{
+  "id": 874162831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.009763,44.445206,-72.009763,44.445206",
+    "geom:latitude":44.445206,
+    "geom:longitude":-72.009763,
+    "iso:country":"US",
+    "sg:address":"1290 Hospital Dr",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8126",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_520yGowAxc08ciUKth6UMG_44.445206_-72.009763@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312458,
+    "wof:geomhash":"b317f18917ae7e00c0aa2e4d817cbe51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874162831
+        }
+    ],
+    "wof:id":874162831,
+    "wof:lastmodified":1464312458,
+    "wof:name":"Eye Associates-Northern New",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.009763,
+    44.445206,
+    -72.009763,
+    44.445206
+],
+  "geometry": {"coordinates":[-72.00976300000001,44.445206],"type":"Point"}
+}

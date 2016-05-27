@@ -1,0 +1,73 @@
+{
+  "id": 874068137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209595,44.477308,-73.209595,44.477308",
+    "geom:latitude":44.477308,
+    "geom:longitude":-73.209595,
+    "iso:country":"US",
+    "sg:address":"236 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 861 2159",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trust",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QTWBHnZ4XVqXi8Y0n0E5x_44.477308_-73.209595@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311414,
+    "wof:geomhash":"5e60da975a9de1204e8519f5f680d897",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874068137
+        }
+    ],
+    "wof:id":874068137,
+    "wof:lastmodified":1464311414,
+    "wof:name":"ARS Grants & Loan Trust Fund",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trust",
+        "management"
+    ]
+},
+  "bbox": [
+    -73.209595,
+    44.477308,
+    -73.209595,
+    44.477308
+],
+  "geometry": {"coordinates":[-73.20959499999999,44.477308],"type":"Point"}
+}

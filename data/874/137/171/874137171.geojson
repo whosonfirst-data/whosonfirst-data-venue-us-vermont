@@ -1,0 +1,73 @@
+{
+  "id": 874137171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205766,42.896854,-73.205766,42.896854",
+    "geom:latitude":42.896854,
+    "geom:longitude":-73.205766,
+    "iso:country":"US",
+    "sg:address":"147 Northside Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 4777",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "filling",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h2WADieptHETTJr6m4FFc_42.896854_-73.205766@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312210,
+    "wof:geomhash":"18aafcc5f6fefd68e1233f2737bfa4f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874137171
+        }
+    ],
+    "wof:id":874137171,
+    "wof:lastmodified":1464312210,
+    "wof:name":"Davey Oil Co Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filling",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -73.205766,
+    42.896854,
+    -73.205766,
+    42.896854
+],
+  "geometry": {"coordinates":[-73.205766,42.896854],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874026691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.661456,45.004204,-72.661456,45.004204",
+    "geom:latitude":45.004204,
+    "geom:longitude":-72.661456,
+    "iso:country":"US",
+    "sg:address":"705 Province St",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 848 7766",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "federal",
+        "affairs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6duEJh4cm1rlLdfJdZdVrv_45.004204_-72.661456@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311014,
+    "wof:geomhash":"49de8d3233f964013248212a7ea2f4b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874026691
+        }
+    ],
+    "wof:id":874026691,
+    "wof:lastmodified":1464311014,
+    "wof:name":"US Immigration Naturalization",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "affairs"
+    ]
+},
+  "bbox": [
+    -72.661456,
+    45.004204,
+    -72.661456,
+    45.004204
+],
+  "geometry": {"coordinates":[-72.661456,45.004204],"type":"Point"}
+}

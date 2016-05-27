@@ -1,0 +1,71 @@
+{
+  "id": 874179601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.054488,43.832874,-73.054488,43.832874",
+    "geom:latitude":43.832874,
+    "geom:longitude":-73.054488,
+    "iso:country":"US",
+    "sg:address":"13 Prescott Ln",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 9665",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pvVpbLGXZbPQgMt9RVIOM_43.832874_-73.054488@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312626,
+    "wof:geomhash":"e030da16f54af2dca5a9264a475e577e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874179601
+        }
+    ],
+    "wof:id":874179601,
+    "wof:lastmodified":1464312626,
+    "wof:name":"Bev & Al's Cleaning Svc",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.054488,
+    43.832874,
+    -73.054488,
+    43.832874
+],
+  "geometry": {"coordinates":[-73.05448800000001,43.832874],"type":"Point"}
+}

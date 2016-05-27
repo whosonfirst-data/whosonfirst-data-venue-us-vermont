@@ -1,0 +1,71 @@
+{
+  "id": 874243945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.080502,44.421355,-73.080502,44.421355",
+    "geom:latitude":44.421355,
+    "geom:longitude":-73.080502,
+    "iso:country":"US",
+    "sg:address":"1273 Oak Hill Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 3742",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F8h6rbUr9pLkGPMWiZom6_44.421355_-73.080502@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313411,
+    "wof:geomhash":"77936c1badfd2e98c1dd52ca37bff8a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874243945
+        }
+    ],
+    "wof:id":874243945,
+    "wof:lastmodified":1464313411,
+    "wof:name":"Yandell Farm",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.080502,
+    44.421355,
+    -73.080502,
+    44.421355
+],
+  "geometry": {"coordinates":[-73.080502,44.421355],"type":"Point"}
+}

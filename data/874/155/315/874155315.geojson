@@ -1,0 +1,71 @@
+{
+  "id": 874155315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.05447,43.177584,-73.05447,43.177584",
+    "geom:latitude":43.177584,
+    "geom:longitude":-73.05447,
+    "iso:country":"US",
+    "sg:address":"4995 Main St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 1140",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zvgMOmGWSFNiPNTYsGeFX_43.177584_-73.054470@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312380,
+    "wof:geomhash":"c91a5a4518f6b75b33021ad5cb9c7df5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874155315
+        }
+    ],
+    "wof:id":874155315,
+    "wof:lastmodified":1464312380,
+    "wof:name":"Inkspot Press",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -73.05447,
+    43.177584,
+    -73.05447,
+    43.177584
+],
+  "geometry": {"coordinates":[-73.05446999999999,43.177584],"type":"Point"}
+}

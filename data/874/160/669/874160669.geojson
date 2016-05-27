@@ -1,0 +1,69 @@
+{
+  "id": 874160669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.00693,44.426803,-72.00693,44.426803",
+    "geom:latitude":44.426803,
+    "geom:longitude":-72.00693,
+    "iso:country":"US",
+    "sg:address":"118 Lawrence Cir",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3380",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C7iso0g7KrHiTr2sSvgu2_44.426803_-72.006930@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312439,
+    "wof:geomhash":"6b5ede7d8a119d8c0a49e32d7e686c6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874160669
+        }
+    ],
+    "wof:id":874160669,
+    "wof:lastmodified":1464312439,
+    "wof:name":"Kim Stephen S H",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.00693,
+    44.426803,
+    -72.00693,
+    44.426803
+],
+  "geometry": {"coordinates":[-72.00693,44.426803],"type":"Point"}
+}

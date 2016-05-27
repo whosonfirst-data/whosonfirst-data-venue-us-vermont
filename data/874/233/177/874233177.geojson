@@ -1,0 +1,71 @@
+{
+  "id": 874233177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21844,44.484641,-73.21844,44.484641",
+    "geom:latitude":44.484641,
+    "geom:longitude":-73.21844,
+    "iso:country":"US",
+    "sg:address":"92 North St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 7404",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bdhBh2PFhpsu31qDg0M9e_44.484641_-73.218440@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313202,
+    "wof:geomhash":"0e231ce97c51cc0c4b9169a640a8544d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874233177
+        }
+    ],
+    "wof:id":874233177,
+    "wof:lastmodified":1464313202,
+    "wof:name":"Dion Security Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -73.21844,
+    44.484641,
+    -73.21844,
+    44.484641
+],
+  "geometry": {"coordinates":[-73.21844,44.484641],"type":"Point"}
+}

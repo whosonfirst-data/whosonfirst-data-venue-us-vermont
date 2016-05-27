@@ -1,0 +1,71 @@
+{
+  "id": 874247113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.507293,44.202163,-72.507293,44.202163",
+    "geom:latitude":44.202163,
+    "geom:longitude":-72.507293,
+    "iso:country":"US",
+    "sg:address":"377 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 0371",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ePH5l5GVIkEkfculTPmb8_44.202163_-72.507293@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313473,
+    "wof:geomhash":"915e23461fd676de4e11e22eeeaabd62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874247113
+        }
+    ],
+    "wof:id":874247113,
+    "wof:lastmodified":1464313473,
+    "wof:name":"Washington Street Exxon",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -72.507293,
+    44.202163,
+    -72.507293,
+    44.202163
+],
+  "geometry": {"coordinates":[-72.507293,44.202163],"type":"Point"}
+}

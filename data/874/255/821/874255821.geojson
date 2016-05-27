@@ -1,0 +1,71 @@
+{
+  "id": 874255821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.955758,43.600515,-72.955758,43.600515",
+    "geom:latitude":43.600515,
+    "geom:longitude":-72.955758,
+    "iso:country":"US",
+    "sg:address":"237 Stratton Rd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2444",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CghCx9RQYPH5aKgdDd3C7_43.600515_-72.955758@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313692,
+    "wof:geomhash":"0f9ee7c8dc56e68f77c3af32564082d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255821
+        }
+    ],
+    "wof:id":874255821,
+    "wof:lastmodified":1464313692,
+    "wof:name":"Hair Force One",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -72.955758,
+    43.600515,
+    -72.955758,
+    43.600515
+],
+  "geometry": {"coordinates":[-72.955758,43.600515],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874237839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.0802,44.34435,-73.0802,44.34435",
+    "geom:latitude":44.34435,
+    "geom:longitude":-73.0802,
+    "iso:country":"US",
+    "sg:address":"195 Hillview Ter",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 6682",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844363,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69fX3KWTqa8Mr8TBnZJX6e_44.344350_-73.080200@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313299,
+    "wof:geomhash":"7077b52e36e6276274c1d2b568f7d4a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85844363,
+            "region_id":85688763,
+            "venue_id":874237839
+        }
+    ],
+    "wof:id":874237839,
+    "wof:lastmodified":1464313299,
+    "wof:name":"Integral Electric Svc",
+    "wof:parent_id":85844363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.0802,
+    44.34435,
+    -73.0802,
+    44.34435
+],
+  "geometry": {"coordinates":[-73.0802,44.34435],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874174775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.156184,44.138336,-73.156184,44.138336",
+    "geom:latitude":44.138336,
+    "geom:longitude":-73.156184,
+    "iso:country":"US",
+    "sg:address":"934 North St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 6684",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I4aPT3Ny3zIuXbePmBU00_44.138336_-73.156184@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312576,
+    "wof:geomhash":"c81c498f1492998834179f3c3fec762d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874174775
+        }
+    ],
+    "wof:id":874174775,
+    "wof:lastmodified":1464312576,
+    "wof:name":"Phoenix Feeds",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -73.156184,
+    44.138336,
+    -73.156184,
+    44.138336
+],
+  "geometry": {"coordinates":[-73.156184,44.138336],"type":"Point"}
+}

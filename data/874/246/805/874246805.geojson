@@ -1,0 +1,73 @@
+{
+  "id": 874246805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.959195,43.518026,-72.959195,43.518026",
+    "geom:latitude":43.518026,
+    "geom:longitude":-72.959195,
+    "iso:country":"US",
+    "sg:address":"375 Gorge Rd",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4417",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ywl58G2jCZyuzrDA9GwdV_43.518026_-72.959195@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313468,
+    "wof:geomhash":"9c6bc6894efc551512b391af0669c45c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874246805
+        }
+    ],
+    "wof:id":874246805,
+    "wof:lastmodified":1464313468,
+    "wof:name":"Joe Hance Trucking Inc",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.959195,
+    43.518026,
+    -72.959195,
+    43.518026
+],
+  "geometry": {"coordinates":[-72.95919499999999,43.518026],"type":"Point"}
+}

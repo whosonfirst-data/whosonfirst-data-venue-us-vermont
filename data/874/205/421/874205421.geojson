@@ -1,0 +1,71 @@
+{
+  "id": 874205421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.099316,43.238826,-73.099316,43.238826",
+    "geom:latitude":43.238826,
+    "geom:longitude":-73.099316,
+    "iso:country":"US",
+    "sg:address":"2087 Dorset West Rd",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 0165",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "egg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HrdcAd6xJuvyuxkcn4iN1_43.238826_-73.099316@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312898,
+    "wof:geomhash":"caabf440c6f5be0351a401573f901d25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874205421
+        }
+    ],
+    "wof:id":874205421,
+    "wof:lastmodified":1464312898,
+    "wof:name":"Someday Farm Dorset",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "egg"
+    ]
+},
+  "bbox": [
+    -73.099316,
+    43.238826,
+    -73.099316,
+    43.238826
+],
+  "geometry": {"coordinates":[-73.099316,43.238826],"type":"Point"}
+}

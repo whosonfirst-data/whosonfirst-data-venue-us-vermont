@@ -1,0 +1,71 @@
+{
+  "id": 874220761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.184123,44.084793,-73.184123,44.084793",
+    "geom:latitude":44.084793,
+    "geom:longitude":-73.184123,
+    "iso:country":"US",
+    "sg:address":"445 Campground Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5870",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57vejFrHi4zDqGIJQ4PCu7_44.084793_-73.184123@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313072,
+    "wof:geomhash":"ee829c070dab3882f403f0b7b676cab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874220761
+        }
+    ],
+    "wof:id":874220761,
+    "wof:lastmodified":1464313072,
+    "wof:name":"Bob's Manufacturing",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -73.184123,
+    44.084793,
+    -73.184123,
+    44.084793
+],
+  "geometry": {"coordinates":[-73.184123,44.084793],"type":"Point"}
+}

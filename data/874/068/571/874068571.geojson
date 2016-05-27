@@ -1,0 +1,77 @@
+{
+  "id": 874068571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.087568,44.138729,-73.087568,44.138729",
+    "geom:latitude":44.138729,
+    "geom:longitude":-73.087568,
+    "iso:country":"US",
+    "sg:address":"32 Pine St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2381",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "gas",
+        "petroleum",
+        "dealer",
+        "liquefied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07ZI9Rpbvfz1RIVprWVvv1_44.138729_-73.087568@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311419,
+    "wof:geomhash":"5338056c514dc1602ed2e9412b32640e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874068571
+        }
+    ],
+    "wof:id":874068571,
+    "wof:lastmodified":1464311419,
+    "wof:name":"Jackman's Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas",
+        "petroleum",
+        "dealer",
+        "liquefied"
+    ]
+},
+  "bbox": [
+    -73.087568,
+    44.138729,
+    -73.087568,
+    44.138729
+],
+  "geometry": {"coordinates":[-73.087568,44.138729],"type":"Point"}
+}

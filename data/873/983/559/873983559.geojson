@@ -1,0 +1,69 @@
+{
+  "id": 873983559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.698047,44.457294,-72.698047,44.457294",
+    "geom:latitude":44.457294,
+    "geom:longitude":-72.698047,
+    "iso:country":"US",
+    "sg:address":"257 Cady Hill Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 3032",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sGWHOMhzoE00sDwrECfED_44.457294_-72.698047@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310638,
+    "wof:geomhash":"3d7d8e664d579f998cc03e2a551f2840",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":873983559
+        }
+    ],
+    "wof:id":873983559,
+    "wof:lastmodified":1464310638,
+    "wof:name":"Forty Five North Sports Camps",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -72.698047,
+    44.457294,
+    -72.698047,
+    44.457294
+],
+  "geometry": {"coordinates":[-72.698047,44.457294],"type":"Point"}
+}

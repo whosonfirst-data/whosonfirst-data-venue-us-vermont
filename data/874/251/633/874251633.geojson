@@ -1,0 +1,88 @@
+{
+  "id": 874251633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200926,42.874171,-73.200926,42.874171",
+    "geom:latitude":42.874171,
+    "geom:longitude":-73.200926,
+    "iso:country":"US",
+    "sg:address":"311 Washington Ave",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 0640",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "system",
+        "specialty",
+        "heating",
+        "contractors-commercial",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oilTBiGx5DPSsIYlgSy1v_42.874171_-73.200926@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313598,
+    "wof:geomhash":"19ff4d2edfa113a7675532d3df742221",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251633
+        }
+    ],
+    "wof:id":874251633,
+    "wof:lastmodified":1464313598,
+    "wof:name":"Papa Bear Plumbing & Heating",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "system",
+        "specialty",
+        "heating",
+        "contractors-commercial",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -73.200926,
+    42.874171,
+    -73.200926,
+    42.874171
+],
+  "geometry": {"coordinates":[-73.200926,42.874171],"type":"Point"}
+}

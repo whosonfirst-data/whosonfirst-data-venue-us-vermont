@@ -1,0 +1,73 @@
+{
+  "id": 874239937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.044552,43.401213,-73.044552,43.401213",
+    "geom:latitude":43.401213,
+    "geom:longitude":-73.044552,
+    "iso:country":"US",
+    "sg:address":"714 Mountain View Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 2124",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2woWSX2QRXk2W5jyTIBUTu_43.401213_-73.044552@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313338,
+    "wof:geomhash":"b7c36b83319e1906a06f4db08e3e39b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874239937
+        }
+    ],
+    "wof:id":874239937,
+    "wof:lastmodified":1464313338,
+    "wof:name":"Norm's Auto Body",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -73.044552,
+    43.401213,
+    -73.044552,
+    43.401213
+],
+  "geometry": {"coordinates":[-73.044552,43.401213],"type":"Point"}
+}

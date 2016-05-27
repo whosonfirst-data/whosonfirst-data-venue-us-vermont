@@ -1,0 +1,71 @@
+{
+  "id": 874159041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971317,43.602691,-72.971317,43.602691",
+    "geom:latitude":43.602691,
+    "geom:longitude":-72.971317,
+    "iso:country":"US",
+    "sg:address":"11 Royce St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 5462",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xsmPAQo47rPruTx9d5Scs_43.602691_-72.971317@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312422,
+    "wof:geomhash":"470c5aa1f03060f4407dcc14b43d3119",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874159041
+        }
+    ],
+    "wof:id":874159041,
+    "wof:lastmodified":1464312422,
+    "wof:name":"George Hooker Painter Contr",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.971317,
+    43.602691,
+    -72.971317,
+    43.602691
+],
+  "geometry": {"coordinates":[-72.971317,43.602691],"type":"Point"}
+}

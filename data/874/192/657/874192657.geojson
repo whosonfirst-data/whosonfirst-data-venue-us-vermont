@@ -1,0 +1,69 @@
+{
+  "id": 874192657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.562722,44.113117,-72.562722,44.113117",
+    "geom:latitude":44.113117,
+    "geom:longitude":-72.562722,
+    "iso:country":"US",
+    "sg:address":"250 Rood Pond Rd",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 1401",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wbqBIxOIye49OOv34Q2HG_44.113117_-72.562722@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312767,
+    "wof:geomhash":"1bad5da7699b98c4a2452dcfd3e5b06c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874192657
+        }
+    ],
+    "wof:id":874192657,
+    "wof:lastmodified":1464312767,
+    "wof:name":"Chris Peloquins Auto Repa",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.562722,
+    44.113117,
+    -72.562722,
+    44.113117
+],
+  "geometry": {"coordinates":[-72.56272199999999,44.113117],"type":"Point"}
+}

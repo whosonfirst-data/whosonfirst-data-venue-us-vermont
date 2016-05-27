@@ -1,0 +1,74 @@
+{
+  "id": 874054253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.046864,43.180806,-73.046864,43.180806",
+    "geom:latitude":43.180806,
+    "geom:longitude":-73.046864,
+    "iso:country":"US",
+    "sg:address":"5650 Main St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 4667",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "sg:website":"www.vermontcountrystore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VEy4F6bZh5Su2WImnOHLR_43.180806_-73.046864@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311280,
+    "wof:geomhash":"9800660f053ae77db110f1820e2d538c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874054253
+        }
+    ],
+    "wof:id":874054253,
+    "wof:lastmodified":1464311280,
+    "wof:name":"Vermont Country Store",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.046864,
+    43.180806,
+    -73.046864,
+    43.180806
+],
+  "geometry": {"coordinates":[-73.046864,43.180806],"type":"Point"}
+}

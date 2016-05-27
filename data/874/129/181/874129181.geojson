@@ -1,0 +1,73 @@
+{
+  "id": 874129181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.007343,44.435,-72.007343,44.435",
+    "geom:latitude":44.435,
+    "geom:longitude":-72.007343,
+    "iso:country":"US",
+    "sg:address":"714 Breezy Hill Rd",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 5126",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uadB4cGSOXwtFCy0J2ylp_44.435000_-72.007343@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312124,
+    "wof:geomhash":"054ef70225c59b4dbb0356f2b9cc2911",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874129181
+        }
+    ],
+    "wof:id":874129181,
+    "wof:lastmodified":1464312124,
+    "wof:name":"Robert J Jauch MD",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.007343,
+    44.435,
+    -72.007343,
+    44.435
+],
+  "geometry": {"coordinates":[-72.00734300000001,44.435],"type":"Point"}
+}

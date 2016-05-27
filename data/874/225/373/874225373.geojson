@@ -1,0 +1,71 @@
+{
+  "id": 874225373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.547254,44.124423,-72.547254,44.124423",
+    "geom:latitude":44.124423,
+    "geom:longitude":-72.547254,
+    "iso:country":"US",
+    "sg:address":"106 Hebert Rd",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 5344",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "uniform",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RjbXnmcdbuXfylnUCs9aR_44.124423_-72.547254@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313114,
+    "wof:geomhash":"1551128e9008047e9e0913168008fba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874225373
+        }
+    ],
+    "wof:id":874225373,
+    "wof:lastmodified":1464313114,
+    "wof:name":"Uni First Corp",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "uniform",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.547254,
+    44.124423,
+    -72.547254,
+    44.124423
+],
+  "geometry": {"coordinates":[-72.547254,44.124423],"type":"Point"}
+}

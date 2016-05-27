@@ -1,0 +1,75 @@
+{
+  "id": 874255523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.367996,44.375,-72.367996,44.375",
+    "geom:latitude":44.375,
+    "geom:longitude":-72.367996,
+    "iso:country":"US",
+    "sg:address":"858 Brook Rd",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3558",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "recording",
+        "rehearsal",
+        "studio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NIvcufqmL4ZhuRxOlfWVq_44.375000_-72.367996@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313687,
+    "wof:geomhash":"b1ad65750106b838db4762071952c169",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874255523
+        }
+    ],
+    "wof:id":874255523,
+    "wof:lastmodified":1464313687,
+    "wof:name":"Re-Bop Records",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recording",
+        "rehearsal",
+        "studio"
+    ]
+},
+  "bbox": [
+    -72.367996,
+    44.375,
+    -72.367996,
+    44.375
+],
+  "geometry": {"coordinates":[-72.36799600000001,44.375],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874031509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.359703,44.261996,-72.359703,44.261996",
+    "geom:latitude":44.261996,
+    "geom:longitude":-72.359703,
+    "iso:country":"US",
+    "sg:address":"235 Pigeon Pond Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 454 7700",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Lwe9zjSqHIAkdNCiMV1hj_44.261996_-72.359703@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311062,
+    "wof:geomhash":"8000b085f7ee2b67fe07ced2ff54fc0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874031509
+        }
+    ],
+    "wof:id":874031509,
+    "wof:lastmodified":1464311062,
+    "wof:name":"Donald Knowles Co",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -72.359703,
+    44.261996,
+    -72.359703,
+    44.261996
+],
+  "geometry": {"coordinates":[-72.359703,44.261996],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874049065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.679442,43.394116,-72.679442,43.394116",
+    "geom:latitude":43.394116,
+    "geom:longitude":-72.679442,
+    "iso:country":"US",
+    "sg:address":"49 Predom Hill Rd",
+    "sg:city":"Ludlow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 228 5792",
+    "sg:postcode":"05149",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JXAkp2rWiiIfy6N8QcdSq_43.394116_-72.679442@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311232,
+    "wof:geomhash":"c861fe07f1f159f157f54537e23f786f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874049065
+        }
+    ],
+    "wof:id":874049065,
+    "wof:lastmodified":1464311232,
+    "wof:name":"Mountain View Builders",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.679442,
+    43.394116,
+    -72.679442,
+    43.394116
+],
+  "geometry": {"coordinates":[-72.67944199999999,43.394116],"type":"Point"}
+}

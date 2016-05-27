@@ -1,0 +1,73 @@
+{
+  "id": 874075261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.2135,42.884441,-73.2135,42.884441",
+    "geom:latitude":42.884441,
+    "geom:longitude":-73.2135,
+    "iso:country":"US",
+    "sg:address":"55 Monument Ave",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 1566",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "civil",
+        "transportation",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gdvl57xfgaYk4LZGaaAAR_42.884441_-73.213500@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311505,
+    "wof:geomhash":"5474e8de7c46b4d018144b991c9e69ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874075261
+        }
+    ],
+    "wof:id":874075261,
+    "wof:lastmodified":1464311505,
+    "wof:name":"Greenman-Pedersen Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civil",
+        "transportation",
+        "structural"
+    ]
+},
+  "bbox": [
+    -73.2135,
+    42.884441,
+    -73.2135,
+    42.884441
+],
+  "geometry": {"coordinates":[-73.2135,42.884441],"type":"Point"}
+}

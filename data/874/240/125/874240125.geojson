@@ -1,0 +1,71 @@
+{
+  "id": 874240125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.448707,44.21564,-72.448707,44.21564",
+    "geom:latitude":44.21564,
+    "geom:longitude":-72.448707,
+    "iso:country":"US",
+    "sg:address":"147 Sunset Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 4818",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7czXdeLLxd3V9EkFdJtdjj_44.215640_-72.448707@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313342,
+    "wof:geomhash":"9c06a70245aff14cb1451821fa4d8751",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874240125
+        }
+    ],
+    "wof:id":874240125,
+    "wof:lastmodified":1464313342,
+    "wof:name":"Streeters Building Service",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.448707,
+    44.21564,
+    -72.448707,
+    44.21564
+],
+  "geometry": {"coordinates":[-72.448707,44.21564],"type":"Point"}
+}

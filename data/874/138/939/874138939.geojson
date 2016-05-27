@@ -1,0 +1,69 @@
+{
+  "id": 874138939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.774123,44.298224,-72.774123,44.298224",
+    "geom:latitude":44.298224,
+    "geom:longitude":-72.774123,
+    "iso:country":"US",
+    "sg:address":"3759 State Rte 100",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 244 5357",
+    "sg:postcode":"05676",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815147,
+        102080779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PlpJFfpxKZXZpj4QdtJb3_44.298224_-72.774123@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312226,
+    "wof:geomhash":"8bd66f569f011a721469472071b2644c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "neighbourhood_id":85815147,
+            "region_id":85688763,
+            "venue_id":874138939
+        }
+    ],
+    "wof:id":874138939,
+    "wof:lastmodified":1464312226,
+    "wof:name":"Moulton Custom Door Vermont",
+    "wof:parent_id":85815147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.774123,
+    44.298224,
+    -72.774123,
+    44.298224
+],
+  "geometry": {"coordinates":[-72.774123,44.298224],"type":"Point"}
+}

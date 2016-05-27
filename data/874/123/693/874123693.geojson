@@ -1,0 +1,71 @@
+{
+  "id": 874123693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.901868,43.519054,-72.901868,43.519054",
+    "geom:latitude":43.519054,
+    "geom:longitude":-72.901868,
+    "iso:country":"US",
+    "sg:address":"215 Adams Rd",
+    "sg:city":"Cuttingsville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 492 2122",
+    "sg:postcode":"05738",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p1ILJeCofQ3VoJBUEplOC_43.519054_-72.901868@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312074,
+    "wof:geomhash":"1994ef0b55868f9090d6188a689fc88f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874123693
+        }
+    ],
+    "wof:id":874123693,
+    "wof:lastmodified":1464312074,
+    "wof:name":"Mail Perfect",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -72.901868,
+    43.519054,
+    -72.901868,
+    43.519054
+],
+  "geometry": {"coordinates":[-72.90186799999999,43.519054],"type":"Point"}
+}

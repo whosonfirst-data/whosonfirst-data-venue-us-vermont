@@ -1,0 +1,71 @@
+{
+  "id": 874049521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.683202,44.983243,-72.683202,44.983243",
+    "geom:latitude":44.983243,
+    "geom:longitude":-72.683202,
+    "iso:country":"US",
+    "sg:address":"1784 St Albans Rd",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 848 3539",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6POJcioJL76Ne4stsWqO42_44.983243_-72.683202@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311236,
+    "wof:geomhash":"8807ae82934d999eec5e04c760eb1bdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874049521
+        }
+    ],
+    "wof:id":874049521,
+    "wof:lastmodified":1464311236,
+    "wof:name":"Angels Scents",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.683202,
+    44.983243,
+    -72.683202,
+    44.983243
+],
+  "geometry": {"coordinates":[-72.68320199999999,44.983243],"type":"Point"}
+}

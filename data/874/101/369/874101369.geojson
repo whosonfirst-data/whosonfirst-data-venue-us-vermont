@@ -1,0 +1,71 @@
+{
+  "id": 874101369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977373,43.614924,-72.977373,43.614924",
+    "geom:latitude":43.614924,
+    "geom:longitude":-72.977373,
+    "iso:country":"US",
+    "sg:address":"46 Kingsley Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 8786",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T4e0XPSUtNR3fB7mhGhem_43.614924_-72.977373@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311810,
+    "wof:geomhash":"5f55712c6992953797f591a99a425d8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874101369
+        }
+    ],
+    "wof:id":874101369,
+    "wof:lastmodified":1464311810,
+    "wof:name":"Joseph Kastner",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.977373,
+    43.614924,
+    -72.977373,
+    43.614924
+],
+  "geometry": {"coordinates":[-72.977373,43.614924],"type":"Point"}
+}

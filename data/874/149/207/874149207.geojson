@@ -1,0 +1,73 @@
+{
+  "id": 874149207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.806165,44.905204,-72.806165,44.905204",
+    "geom:latitude":44.905204,
+    "geom:longitude":-72.806165,
+    "iso:country":"US",
+    "sg:address":"258 Main St",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 7989",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qDG2KI3VFMhpDhQgJ4ios_44.905204_-72.806165@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312321,
+    "wof:geomhash":"8abf670a8d2eb02d3e0086a6ce430168",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874149207
+        }
+    ],
+    "wof:id":874149207,
+    "wof:lastmodified":1464312321,
+    "wof:name":"Meeting Place",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -72.806165,
+    44.905204,
+    -72.806165,
+    44.905204
+],
+  "geometry": {"coordinates":[-72.80616499999999,44.905204],"type":"Point"}
+}

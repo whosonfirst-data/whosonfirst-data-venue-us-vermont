@@ -1,0 +1,71 @@
+{
+  "id": 874045763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.976941,43.608755,-72.976941,43.608755",
+    "geom:latitude":43.608755,
+    "geom:longitude":-72.976941,
+    "iso:country":"US",
+    "sg:address":"12 Elm St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 8272",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LrFFoWKs4rZOUVtsjextO_43.608755_-72.976941@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311204,
+    "wof:geomhash":"670c2c292811c0957a3d7f9a135e74d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874045763
+        }
+    ],
+    "wof:id":874045763,
+    "wof:lastmodified":1464311204,
+    "wof:name":"King's Garage",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -72.976941,
+    43.608755,
+    -72.976941,
+    43.608755
+],
+  "geometry": {"coordinates":[-72.976941,43.608755],"type":"Point"}
+}

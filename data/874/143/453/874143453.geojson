@@ -1,0 +1,71 @@
+{
+  "id": 874143453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.016781,44.39034,-73.016781,44.39034",
+    "geom:latitude":44.39034,
+    "geom:longitude":-73.016781,
+    "iso:country":"US",
+    "sg:address":"142 Mountain View Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 3992",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yt4ukiOGoIPXgHWF2pEXj_44.390340_-73.016781@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312266,
+    "wof:geomhash":"0b611f7686a6cb965dc7c39cd444ba41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874143453
+        }
+    ],
+    "wof:id":874143453,
+    "wof:lastmodified":1464312266,
+    "wof:name":"D G Morin Construction",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.016781,
+    44.39034,
+    -73.016781,
+    44.39034
+],
+  "geometry": {"coordinates":[-73.01678099999999,44.39034],"type":"Point"}
+}

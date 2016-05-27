@@ -1,0 +1,66 @@
+{
+  "id": 874051519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.49869,44.184979,-72.49869,44.184979",
+    "geom:latitude":44.184979,
+    "geom:longitude":-72.49869,
+    "iso:country":"US",
+    "sg:address":"200 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3353",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qRlXRpkp48YhuAVitNeQQ_44.184979_-72.498690@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311255,
+    "wof:geomhash":"8ab814f77f9bfb474af2b54d4b3b39c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874051519
+        }
+    ],
+    "wof:id":874051519,
+    "wof:lastmodified":1464311255,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.49869,
+    44.184979,
+    -72.49869,
+    44.184979
+],
+  "geometry": {"coordinates":[-72.49869,44.184979],"type":"Point"}
+}

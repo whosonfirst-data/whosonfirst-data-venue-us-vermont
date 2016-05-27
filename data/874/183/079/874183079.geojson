@@ -1,0 +1,69 @@
+{
+  "id": 874183079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.34346,44.206922,-73.34346,44.206922",
+    "geom:latitude":44.206922,
+    "geom:longitude":-73.34346,
+    "iso:country":"US",
+    "sg:address":"93 Kimball Dock Rd",
+    "sg:city":"Swanton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 868 3581",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wCgEJgYvmkK2R06qwubGb_44.206922_-73.343460@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312661,
+    "wof:geomhash":"9f04557b5aa578aac45240b7e2928eab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874183079
+        }
+    ],
+    "wof:id":874183079,
+    "wof:lastmodified":1464312661,
+    "wof:name":"Green Mountain Plbg & Htg Svc",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.34346,
+    44.206922,
+    -73.34346,
+    44.206922
+],
+  "geometry": {"coordinates":[-73.34345999999999,44.206922],"type":"Point"}
+}

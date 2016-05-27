@@ -1,0 +1,69 @@
+{
+  "id": 874222453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.221955,44.389333,-73.221955,44.389333",
+    "geom:latitude":44.389333,
+    "geom:longitude":-73.221955,
+    "iso:country":"US",
+    "sg:address":"127 Webster Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 2848",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r54FIe7ZBmr7r9CJS6yRi_44.389333_-73.221955@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313088,
+    "wof:geomhash":"0867ac87678cf1ab14beb2920c96948e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874222453
+        }
+    ],
+    "wof:id":874222453,
+    "wof:lastmodified":1464313088,
+    "wof:name":"First Baptist Church Shelburn",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.221955,
+    44.389333,
+    -73.221955,
+    44.389333
+],
+  "geometry": {"coordinates":[-73.22195499999999,44.389333],"type":"Point"}
+}

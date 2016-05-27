@@ -1,0 +1,70 @@
+{
+  "id": 874082761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.988105,44.462328,-72.988105,44.462328",
+    "geom:latitude":44.462328,
+    "geom:longitude":-72.988105,
+    "iso:country":"US",
+    "sg:address":"147 Barber Farm Rd",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 1415",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.vtndt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MVmp9YTfBPaSkHO6qKuO1_44.462328_-72.988105@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311587,
+    "wof:geomhash":"1cc0a31d7d676f84d202d65f722c12dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874082761
+        }
+    ],
+    "wof:id":874082761,
+    "wof:lastmodified":1464311587,
+    "wof:name":"Vermont Non-Destructive Inc",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.988105,
+    44.462328,
+    -72.988105,
+    44.462328
+],
+  "geometry": {"coordinates":[-72.988105,44.462328],"type":"Point"}
+}

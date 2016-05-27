@@ -1,0 +1,71 @@
+{
+  "id": 874256657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977447,43.470234,-72.977447,43.470234",
+    "geom:latitude":43.470234,
+    "geom:longitude":-72.977447,
+    "iso:country":"US",
+    "sg:address":"74 N Main St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 2223",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iMrAkItRRUFBKrvG4N1Kc_43.470234_-72.977447@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313712,
+    "wof:geomhash":"eb9ec23f85f7e1b305ca317e4943e711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874256657
+        }
+    ],
+    "wof:id":874256657,
+    "wof:lastmodified":1464313712,
+    "wof:name":"Wallingford Day Care Inc",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -72.977447,
+    43.470234,
+    -72.977447,
+    43.470234
+],
+  "geometry": {"coordinates":[-72.977447,43.470234],"type":"Point"}
+}

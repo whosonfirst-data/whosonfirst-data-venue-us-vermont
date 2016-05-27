@@ -1,0 +1,76 @@
+{
+  "id": 874151501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.156691,44.607658,-73.156691,44.607658",
+    "geom:latitude":44.607658,
+    "geom:longitude":-73.156691,
+    "iso:country":"US",
+    "sg:address":"78 Precast Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 2401",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "brick",
+        "prod",
+        "block"
+    ],
+    "sg:website":"www.campprecast.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CpAET6mmUNSxZyuMsXwIk_44.607658_-73.156691@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312342,
+    "wof:geomhash":"517695329458001df2bc95f57e959b40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":874151501
+        }
+    ],
+    "wof:id":874151501,
+    "wof:lastmodified":1464312342,
+    "wof:name":"Camp Pre-Cast Concrete Prods",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "brick",
+        "prod",
+        "block"
+    ]
+},
+  "bbox": [
+    -73.156691,
+    44.607658,
+    -73.156691,
+    44.607658
+],
+  "geometry": {"coordinates":[-73.156691,44.607658],"type":"Point"}
+}

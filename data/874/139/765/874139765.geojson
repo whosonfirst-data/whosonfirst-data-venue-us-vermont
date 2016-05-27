@@ -1,0 +1,72 @@
+{
+  "id": 874139765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.788018,43.657708,-72.788018,43.657708",
+    "geom:latitude":43.657708,
+    "geom:longitude":-72.788018,
+    "iso:country":"US",
+    "sg:address":"78 Weathervane Dr",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 422 4040",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lodge",
+        "ski"
+    ],
+    "sg:website":"www.northstarinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848249,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y1vfWFZzzms05vJcyKJ1T_43.657708_-72.788018@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312233,
+    "wof:geomhash":"170d64d69d242f0eea3372aaf862d8f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":874139765
+        }
+    ],
+    "wof:id":874139765,
+    "wof:lastmodified":1464312233,
+    "wof:name":"North Star Lodge",
+    "wof:parent_id":85848249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodge",
+        "ski"
+    ]
+},
+  "bbox": [
+    -72.788018,
+    43.657708,
+    -72.788018,
+    43.657708
+],
+  "geometry": {"coordinates":[-72.78801799999999,43.657708],"type":"Point"}
+}

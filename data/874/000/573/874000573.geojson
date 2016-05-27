@@ -1,0 +1,73 @@
+{
+  "id": 874000573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.187764,42.882128,-73.187764,42.882128",
+    "geom:latitude":42.882128,
+    "geom:longitude":-73.187764,
+    "iso:country":"US",
+    "sg:address":"310 Safford St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 2981",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W92Li8ou31sKoLimfmW00_42.882128_-73.187764@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310764,
+    "wof:geomhash":"e24ba3c2fd9d6374eab0a09993da953c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874000573
+        }
+    ],
+    "wof:id":874000573,
+    "wof:lastmodified":1464310764,
+    "wof:name":"Hilcheys Courier Service",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.187764,
+    42.882128,
+    -73.187764,
+    42.882128
+],
+  "geometry": {"coordinates":[-73.187764,42.882128],"type":"Point"}
+}

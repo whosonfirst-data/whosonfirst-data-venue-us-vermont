@@ -1,0 +1,71 @@
+{
+  "id": 874242209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.787632,43.646108,-72.787632,43.646108",
+    "geom:latitude":43.646108,
+    "geom:longitude":-72.787632,
+    "iso:country":"US",
+    "sg:address":"107 Dean Hill Rd",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 422 3831",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "system",
+        "sewerage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848249,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eUycBRTF5ehUsxG5liZ2X_43.646108_-72.787632@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313381,
+    "wof:geomhash":"a3a540f9c0f3ef706e5f3e070f27947f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":874242209
+        }
+    ],
+    "wof:id":874242209,
+    "wof:lastmodified":1464313381,
+    "wof:name":"Sherburne Fire Dst Waste Wtr",
+    "wof:parent_id":85848249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "sewerage"
+    ]
+},
+  "bbox": [
+    -72.787632,
+    43.646108,
+    -72.787632,
+    43.646108
+],
+  "geometry": {"coordinates":[-72.787632,43.646108],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874193797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200609,44.476104,-73.200609,44.476104",
+    "geom:latitude":44.476104,
+    "geom:longitude":-73.200609,
+    "iso:country":"US",
+    "sg:address":"216 S Prospect St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 9454",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "sg:website":"www.agrinvt.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QrYHmSiJjtdowv0WXcBV1_44.476104_-73.200609@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312777,
+    "wof:geomhash":"045611515a6d51d4f3d898f133a3ca4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874193797
+        }
+    ],
+    "wof:id":874193797,
+    "wof:lastmodified":1464312777,
+    "wof:name":"Alpha Gamma Rho",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -73.200609,
+    44.476104,
+    -73.200609,
+    44.476104
+],
+  "geometry": {"coordinates":[-73.200609,44.476104],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874118663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.126455,44.40297,-73.126455,44.40297",
+    "geom:latitude":44.40297,
+    "geom:longitude":-73.126455,
+    "iso:country":"US",
+    "sg:address":"8 Lincoln Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 4338",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "piano"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j1vAwnWRcFetjduCGM2GS_44.402970_-73.126455@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312022,
+    "wof:geomhash":"7ceac0072aecd4d4d8f82254057d211e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874118663
+        }
+    ],
+    "wof:id":874118663,
+    "wof:lastmodified":1464312022,
+    "wof:name":"Allan H Day Piano Service",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano"
+    ]
+},
+  "bbox": [
+    -73.126455,
+    44.40297,
+    -73.126455,
+    44.40297
+],
+  "geometry": {"coordinates":[-73.12645500000001,44.40297],"type":"Point"}
+}

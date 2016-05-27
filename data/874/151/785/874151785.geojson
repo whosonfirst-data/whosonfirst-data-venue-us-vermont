@@ -1,0 +1,69 @@
+{
+  "id": 874151785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.655711,42.986468,-72.655711,42.986468",
+    "geom:latitude":42.986468,
+    "geom:longitude":-72.655711,
+    "iso:country":"US",
+    "sg:address":"11 Jail St",
+    "sg:city":"Newfane",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 4941",
+    "sg:postcode":"05345",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wxrRYr0KGK4PJ9BdibCss_42.986468_-72.655711@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312344,
+    "wof:geomhash":"2f76ab947b16319e1441efb2845d0bff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874151785
+        }
+    ],
+    "wof:id":874151785,
+    "wof:lastmodified":1464312344,
+    "wof:name":"Windham County Sheriff",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -72.655711,
+    42.986468,
+    -72.655711,
+    42.986468
+],
+  "geometry": {"coordinates":[-72.655711,42.986468],"type":"Point"}
+}

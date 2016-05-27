@@ -1,0 +1,71 @@
+{
+  "id": 874254457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.171854,44.720188,-73.171854,44.720188",
+    "geom:latitude":44.720188,
+    "geom:longitude":-73.171854,
+    "iso:country":"US",
+    "sg:address":"108 Bradley Hill Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 4655",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lawn",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68fJLy5KnpQyoyyrMQi8d7_44.720188_-73.171854@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313657,
+    "wof:geomhash":"bbdf876ed2cb6d21b302b8c1b79f0476",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874254457
+        }
+    ],
+    "wof:id":874254457,
+    "wof:lastmodified":1464313657,
+    "wof:name":"Rowes Lawn Service",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.171854,
+    44.720188,
+    -73.171854,
+    44.720188
+],
+  "geometry": {"coordinates":[-73.171854,44.720188],"type":"Point"}
+}

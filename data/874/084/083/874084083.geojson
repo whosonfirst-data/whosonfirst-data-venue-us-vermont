@@ -1,0 +1,70 @@
+{
+  "id": 874084083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.556867,42.868081,-72.556867,42.868081",
+    "geom:latitude":42.868081,
+    "geom:longitude":-72.556867,
+    "iso:country":"US",
+    "sg:address":"687 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 1428",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.windhamvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08lfzsnw4mmprvFPEv3HUJ_42.868081_-72.556867@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311600,
+    "wof:geomhash":"30d2a78d845b28cfa365d8e11595436b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874084083
+        }
+    ],
+    "wof:id":874084083,
+    "wof:lastmodified":1464311600,
+    "wof:name":"Windham Veterinary Clinic",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -72.556867,
+    42.868081,
+    -72.556867,
+    42.868081
+],
+  "geometry": {"coordinates":[-72.556867,42.868081],"type":"Point"}
+}

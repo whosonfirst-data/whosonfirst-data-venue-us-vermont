@@ -1,0 +1,89 @@
+{
+  "id": 874253017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.217183,44.475777,-73.217183,44.475777",
+    "geom:latitude":44.475777,
+    "geom:longitude":-73.217183,
+    "iso:country":"US",
+    "sg:address":"60 Main St Ste 101",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 9228",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "development",
+        "coach",
+        "consultant",
+        "state",
+        "government-united",
+        "economic",
+        "plan"
+    ],
+    "sg:website":"http://www.vtsbdc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SKi27Fbqh3uC5nG9gAKKo_44.475777_-73.217183@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313625,
+    "wof:geomhash":"c9a93db7af39fd54ecba1287206b8337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874253017
+        }
+    ],
+    "wof:id":874253017,
+    "wof:lastmodified":1464313625,
+    "wof:name":"Small Business Development Center",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "coach",
+        "consultant",
+        "state",
+        "government-united",
+        "economic",
+        "plan"
+    ]
+},
+  "bbox": [
+    -73.217183,
+    44.475777,
+    -73.217183,
+    44.475777
+],
+  "geometry": {"coordinates":[-73.21718300000001,44.475777],"type":"Point"}
+}

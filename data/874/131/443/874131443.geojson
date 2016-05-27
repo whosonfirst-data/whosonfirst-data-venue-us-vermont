@@ -1,0 +1,72 @@
+{
+  "id": 874131443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.957094,44.395591,-72.957094,44.395591",
+    "geom:latitude":44.395591,
+    "geom:longitude":-72.957094,
+    "iso:country":"US",
+    "sg:address":"2083 E Main St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 5646",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consultant",
+        "dairy"
+    ],
+    "sg:website":"www.vtfb.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7664imfH22XESSmfyLAmxL_44.395591_-72.957094@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312154,
+    "wof:geomhash":"2b729d830d2d2f9ffaf7286764e60224",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874131443
+        }
+    ],
+    "wof:id":874131443,
+    "wof:lastmodified":1464312154,
+    "wof:name":"Vermont Farm Bureau Inc",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "dairy"
+    ]
+},
+  "bbox": [
+    -72.957094,
+    44.395591,
+    -72.957094,
+    44.395591
+],
+  "geometry": {"coordinates":[-72.957094,44.395591],"type":"Point"}
+}

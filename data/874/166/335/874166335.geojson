@@ -1,0 +1,71 @@
+{
+  "id": 874166335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.005191,44.37321,-72.005191,44.37321",
+    "geom:latitude":44.37321,
+    "geom:longitude":-72.005191,
+    "iso:country":"US",
+    "sg:address":"3261 Hale Rd",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 0004",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GmY5Om44YwomDQi0dLsf5_44.373210_-72.005191@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312492,
+    "wof:geomhash":"8b53b18ade6c694868164f52ddc3ab2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874166335
+        }
+    ],
+    "wof:id":874166335,
+    "wof:lastmodified":1464312492,
+    "wof:name":"Payeur Construction",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.005191,
+    44.37321,
+    -72.005191,
+    44.37321
+],
+  "geometry": {"coordinates":[-72.005191,44.37321],"type":"Point"}
+}

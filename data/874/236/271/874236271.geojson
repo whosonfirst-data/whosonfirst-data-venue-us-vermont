@@ -1,0 +1,71 @@
+{
+  "id": 874236271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.597122,44.561718,-72.597122,44.561718",
+    "geom:latitude":44.561718,
+    "geom:longitude":-72.597122,
+    "iso:country":"US",
+    "sg:address":"24 Upper Main St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5091",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mhmYal7gCgfFZUh3kHT8G_44.561718_-72.597122@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313268,
+    "wof:geomhash":"f74e9cf272a2f461707bcba641ed50c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874236271
+        }
+    ],
+    "wof:id":874236271,
+    "wof:lastmodified":1464313268,
+    "wof:name":"Meals On Wheels",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -72.597122,
+    44.561718,
+    -72.597122,
+    44.561718
+],
+  "geometry": {"coordinates":[-72.597122,44.561718],"type":"Point"}
+}

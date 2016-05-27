@@ -1,0 +1,73 @@
+{
+  "id": 874132451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.493974,44.192876,-72.493974,44.192876",
+    "geom:latitude":44.192876,
+    "geom:longitude":-72.493974,
+    "iso:country":"US",
+    "sg:address":"143 Washington St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 7905",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TQAusVixwcxb5HKRsHrAD_44.192876_-72.493974@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312167,
+    "wof:geomhash":"ad8237edf3b5214bfac1ed6015ab7ee7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874132451
+        }
+    ],
+    "wof:id":874132451,
+    "wof:lastmodified":1464312167,
+    "wof:name":"Don & Son's Lawn Care",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.493974,
+    44.192876,
+    -72.493974,
+    44.192876
+],
+  "geometry": {"coordinates":[-72.49397399999999,44.192876],"type":"Point"}
+}

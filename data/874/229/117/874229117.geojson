@@ -1,0 +1,69 @@
+{
+  "id": 874229117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.639985,44.486168,-72.639985,44.486168",
+    "geom:latitude":44.486168,
+    "geom:longitude":-72.639985,
+    "iso:country":"US",
+    "sg:address":"99 Gulch Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 2878",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6smVR37crsmYiRjS24qaNQ_44.486168_-72.639985@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313152,
+    "wof:geomhash":"b8bb6dcf0fe6a650ed294cd8c946bd75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874229117
+        }
+    ],
+    "wof:id":874229117,
+    "wof:lastmodified":1464313152,
+    "wof:name":"Stowe Seafood",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -72.639985,
+    44.486168,
+    -72.639985,
+    44.486168
+],
+  "geometry": {"coordinates":[-72.639985,44.486168],"type":"Point"}
+}

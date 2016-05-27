@@ -1,0 +1,71 @@
+{
+  "id": 874239703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.087593,43.923659,-73.087593,43.923659",
+    "geom:latitude":43.923659,
+    "geom:longitude":-73.087593,
+    "iso:country":"US",
+    "sg:address":"930 Upper Plains Rd",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 352 4580",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09p2LgepUqnvsJFbVfX6w1_43.923659_-73.087593@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313334,
+    "wof:geomhash":"a6a3d55b030d7a0babd366435189213f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874239703
+        }
+    ],
+    "wof:id":874239703,
+    "wof:lastmodified":1464313334,
+    "wof:name":"Ploof Excavating",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.087593,
+    43.923659,
+    -73.087593,
+    43.923659
+],
+  "geometry": {"coordinates":[-73.087593,43.923659],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874044011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205452,44.476952,-73.205452,44.476952",
+    "geom:latitude":44.476952,
+    "geom:longitude":-73.205452,
+    "iso:country":"US",
+    "sg:address":"130 S Willard St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 859 3090",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45wBvgQoHhL0qtb6AlI5Uc_44.476952_-73.205452@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311185,
+    "wof:geomhash":"a8c005fa4190ff5f83c3c2d3bbacc43b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874044011
+        }
+    ],
+    "wof:id":874044011,
+    "wof:lastmodified":1464311185,
+    "wof:name":"Snelling Center",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.205452,
+    44.476952,
+    -73.205452,
+    44.476952
+],
+  "geometry": {"coordinates":[-73.20545199999999,44.476952],"type":"Point"}
+}

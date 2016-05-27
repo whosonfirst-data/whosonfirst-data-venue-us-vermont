@@ -1,0 +1,71 @@
+{
+  "id": 874245909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.797397,44.913227,-72.797397,44.913227",
+    "geom:latitude":44.913227,
+    "geom:longitude":-72.797397,
+    "iso:country":"US",
+    "sg:address":"303 Main St",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 6300",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_570REYsUC8p9edOkaTlK8n_44.913227_-72.797397@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313452,
+    "wof:geomhash":"1842dbc260ffe574fb1b3afe68b91408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874245909
+        }
+    ],
+    "wof:id":874245909,
+    "wof:lastmodified":1464313452,
+    "wof:name":"Fiora & Fauna",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.797397,
+    44.913227,
+    -72.797397,
+    44.913227
+],
+  "geometry": {"coordinates":[-72.797397,44.913227],"type":"Point"}
+}

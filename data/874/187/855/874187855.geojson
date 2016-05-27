@@ -1,0 +1,77 @@
+{
+  "id": 874187855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.47665,43.285188,-72.47665,43.285188",
+    "geom:latitude":43.285188,
+    "geom:longitude":-72.47665,
+    "iso:country":"US",
+    "sg:address":"201 South St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 6408",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822381,
+        102191575,
+        404527377,
+        85633793,
+        101728481,
+        102080777,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zDJnn2r42OYqHG7AXcobf_43.285188_-72.476650@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312718,
+    "wof:geomhash":"9d47787e2575f68faeb0e9b7f4faa972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080777,
+            "localadmin_id":404527377,
+            "locality_id":101728481,
+            "neighbourhood_id":85822381,
+            "region_id":85688763,
+            "venue_id":874187855
+        }
+    ],
+    "wof:id":874187855,
+    "wof:lastmodified":1464312718,
+    "wof:name":"Springfield Housing",
+    "wof:parent_id":85822381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -72.47665,
+    43.285188,
+    -72.47665,
+    43.285188
+],
+  "geometry": {"coordinates":[-72.47665000000001,43.285188],"type":"Point"}
+}

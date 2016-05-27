@@ -1,0 +1,82 @@
+{
+  "id": 874155025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209094,44.422334,-73.209094,44.422334",
+    "geom:latitude":44.422334,
+    "geom:longitude":-73.209094,
+    "iso:country":"US",
+    "sg:address":"90 Allen Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3926",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77OijWnm1J4dRb6HdWXetz_44.422334_-73.209094@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312377,
+    "wof:geomhash":"634705be9764b1187181346ed9368827",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874155025
+        }
+    ],
+    "wof:id":874155025,
+    "wof:lastmodified":1464312377,
+    "wof:name":"Allenwood At Pillsbury Manor",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community",
+        "residential"
+    ]
+},
+  "bbox": [
+    -73.209094,
+    44.422334,
+    -73.209094,
+    44.422334
+],
+  "geometry": {"coordinates":[-73.20909399999999,44.422334],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874207941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.083712,44.516985,-73.083712,44.516985",
+    "geom:latitude":44.516985,
+    "geom:longitude":-73.083712,
+    "iso:country":"US",
+    "sg:address":"120 Indian Brook Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 5248",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aDVTQZx2DD0rRCiQ1SpFs_44.516985_-73.083712@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312928,
+    "wof:geomhash":"c6811a4c141eb68c87c2011e70beab5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874207941
+        }
+    ],
+    "wof:id":874207941,
+    "wof:lastmodified":1464312928,
+    "wof:name":"Packard Painting Co",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.083712,
+    44.516985,
+    -73.083712,
+    44.516985
+],
+  "geometry": {"coordinates":[-73.08371200000001,44.516985],"type":"Point"}
+}

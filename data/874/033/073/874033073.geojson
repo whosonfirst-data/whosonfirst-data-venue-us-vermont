@@ -1,0 +1,71 @@
+{
+  "id": 874033073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971726,43.605303,-72.971726,43.605303",
+    "geom:latitude":43.605303,
+    "geom:longitude":-72.971726,
+    "iso:country":"US",
+    "sg:address":"229 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4329",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ylD0wJy1ps51VjuRF0sWK_43.605303_-72.971726@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311076,
+    "wof:geomhash":"ccd0bc90e13de8ff46e4faa9846253bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874033073
+        }
+    ],
+    "wof:id":874033073,
+    "wof:lastmodified":1464311076,
+    "wof:name":"Sanel Auto Parts",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -72.971726,
+    43.605303,
+    -72.971726,
+    43.605303
+],
+  "geometry": {"coordinates":[-72.971726,43.605303],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874187049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.852864,43.84807,-72.852864,43.84807",
+    "geom:latitude":43.84807,
+    "geom:longitude":-72.852864,
+    "iso:country":"US",
+    "sg:address":"2548 Brandon Mountain Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 767 3006",
+    "sg:postcode":"05767",
+    "sg:province":"VT",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845271,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YadqhJVejud2TosnFAUt5_43.848070_-72.852864@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312710,
+    "wof:geomhash":"f86236c112f003b1f460b9499b3b6518",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85845271,
+            "region_id":85688763,
+            "venue_id":874187049
+        }
+    ],
+    "wof:id":874187049,
+    "wof:lastmodified":1464312710,
+    "wof:name":"Lost Mountain Logging Inc",
+    "wof:parent_id":85845271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -72.852864,
+    43.84807,
+    -72.852864,
+    43.84807
+],
+  "geometry": {"coordinates":[-72.852864,43.84807],"type":"Point"}
+}

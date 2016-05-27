@@ -1,0 +1,69 @@
+{
+  "id": 874002881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015677,44.41821,-72.015677,44.41821",
+    "geom:latitude":44.41821,
+    "geom:longitude":-72.015677,
+    "iso:country":"US",
+    "sg:address":"394 Railroad St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 751 8222",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kkUqZMDy2hVJbJniDwULC_44.418210_-72.015677@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310790,
+    "wof:geomhash":"ec91b5534cd051f9b1fc8e1d9713686e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874002881
+        }
+    ],
+    "wof:id":874002881,
+    "wof:lastmodified":1464310790,
+    "wof:name":"Passumpsic View Apartments",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.015677,
+    44.41821,
+    -72.015677,
+    44.41821
+],
+  "geometry": {"coordinates":[-72.015677,44.41821],"type":"Point"}
+}

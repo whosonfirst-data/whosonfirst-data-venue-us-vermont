@@ -1,0 +1,76 @@
+{
+  "id": 874103361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.989752,44.551246,-71.989752,44.551246",
+    "geom:latitude":44.551246,
+    "geom:longitude":-71.989752,
+    "iso:country":"US",
+    "sg:address":"2283 Darling Hill Rd",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 5358",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3im8IcRJzupYiTGK00K1gH_44.551246_-71.989752@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311836,
+    "wof:geomhash":"5cf35625695ab5882eccf4c531407d0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874103361
+        }
+    ],
+    "wof:id":874103361,
+    "wof:lastmodified":1464311836,
+    "wof:name":"Vermont Children's Theater",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -71.989752,
+    44.551246,
+    -71.989752,
+    44.551246
+],
+  "geometry": {"coordinates":[-71.989752,44.551246],"type":"Point"}
+}

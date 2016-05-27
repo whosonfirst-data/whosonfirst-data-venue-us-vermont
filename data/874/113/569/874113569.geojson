@@ -1,0 +1,71 @@
+{
+  "id": 874113569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.085451,43.23851,-73.085451,43.23851",
+    "geom:latitude":43.23851,
+    "geom:longitude":-73.085451,
+    "iso:country":"US",
+    "sg:address":"1953 State Rte 30",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 867 4471",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LT9Y9tP9jCBqpypBLnmfA_43.238510_-73.085451@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311973,
+    "wof:geomhash":"dd08a7b5f061c7bc67f6c026bd703451",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874113569
+        }
+    ],
+    "wof:id":874113569,
+    "wof:lastmodified":1464311973,
+    "wof:name":"Hair Etc",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.085451,
+    43.23851,
+    -73.085451,
+    43.23851
+],
+  "geometry": {"coordinates":[-73.08545100000001,43.23851],"type":"Point"}
+}

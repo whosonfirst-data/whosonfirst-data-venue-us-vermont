@@ -1,0 +1,71 @@
+{
+  "id": 874222967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.230425,44.173044,-73.230425,44.173044",
+    "geom:latitude":44.173044,
+    "geom:longitude":-73.230425,
+    "iso:country":"US",
+    "sg:address":"462 Monkton Rd",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2645",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "restoration",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZzImgtG9q8yQjzaVQZSp8_44.173044_-73.230425@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313093,
+    "wof:geomhash":"88f31e81cc057e6928f3310612996844",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874222967
+        }
+    ],
+    "wof:id":874222967,
+    "wof:lastmodified":1464313093,
+    "wof:name":"Restoration & Prfmce Motorcars",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration",
+        "sales"
+    ]
+},
+  "bbox": [
+    -73.230425,
+    44.173044,
+    -73.230425,
+    44.173044
+],
+  "geometry": {"coordinates":[-73.230425,44.173044],"type":"Point"}
+}

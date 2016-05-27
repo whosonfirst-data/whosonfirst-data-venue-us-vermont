@@ -1,0 +1,71 @@
+{
+  "id": 874222795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.564035,43.355981,-72.564035,43.355981",
+    "geom:latitude":43.355981,
+    "geom:longitude":-72.564035,
+    "iso:country":"US",
+    "sg:address":"1419 Baltimore Rd",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 9233",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pbetkZRZqu27z9JUEq7vy_43.355981_-72.564035@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313092,
+    "wof:geomhash":"780744dd5b16f5892ea6e4fb797e3464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874222795
+        }
+    ],
+    "wof:id":874222795,
+    "wof:lastmodified":1464313092,
+    "wof:name":"Harrison Kendall",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.564035,
+    43.355981,
+    -72.564035,
+    43.355981
+],
+  "geometry": {"coordinates":[-72.564035,43.355981],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873990221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.995139,44.406521,-72.995139,44.406521",
+    "geom:latitude":44.406521,
+    "geom:longitude":-72.995139,
+    "iso:country":"US",
+    "sg:address":"117 W Main St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 4501",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ytaqu1THbQhwdG2e2Mcqx_44.406521_-72.995139@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310691,
+    "wof:geomhash":"5ccb3dd3d9cec2a8baf82676d13c117d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":873990221
+        }
+    ],
+    "wof:id":873990221,
+    "wof:lastmodified":1464310691,
+    "wof:name":"M A Dooling Financial Svc",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -72.995139,
+    44.406521,
+    -72.995139,
+    44.406521
+],
+  "geometry": {"coordinates":[-72.99513899999999,44.406521],"type":"Point"}
+}

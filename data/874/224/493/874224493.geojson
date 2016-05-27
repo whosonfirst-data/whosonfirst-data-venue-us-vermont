@@ -1,0 +1,78 @@
+{
+  "id": 874224493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214161,44.482704,-73.214161,44.482704",
+    "geom:latitude":44.482704,
+    "geom:longitude":-73.214161,
+    "iso:country":"US",
+    "sg:address":"62 Peru St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 8090",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hLOBoYjAEwulGduc4eLhb_44.482704_-73.214161@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313107,
+    "wof:geomhash":"46c05f74187ecb39e841b179d40df3d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874224493
+        }
+    ],
+    "wof:id":874224493,
+    "wof:lastmodified":1464313107,
+    "wof:name":"Up and Running Computers",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.214161,
+    44.482704,
+    -73.214161,
+    44.482704
+],
+  "geometry": {"coordinates":[-73.214161,44.482704],"type":"Point"}
+}

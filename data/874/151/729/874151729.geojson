@@ -1,0 +1,71 @@
+{
+  "id": 874151729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215949,44.455515,-73.215949,44.455515",
+    "geom:latitude":44.455515,
+    "geom:longitude":-73.215949,
+    "iso:country":"US",
+    "sg:address":"305 Flynn Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 4059",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gTrICyGyqYUEHHfGTAjDr_44.455515_-73.215949@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312344,
+    "wof:geomhash":"bfd9f93210fd29e1036728247e44f10c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874151729
+        }
+    ],
+    "wof:id":874151729,
+    "wof:lastmodified":1464312344,
+    "wof:name":"St Anthony's Thrift Shop",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.215949,
+    44.455515,
+    -73.215949,
+    44.455515
+],
+  "geometry": {"coordinates":[-73.21594899999999,44.455515],"type":"Point"}
+}

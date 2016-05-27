@@ -1,0 +1,71 @@
+{
+  "id": 874167951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.123601,44.090691,-73.123601,44.090691",
+    "geom:latitude":44.090691,
+    "geom:longitude":-73.123601,
+    "iso:country":"US",
+    "sg:address":"797 Sumner Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2134",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H2G2TdxS5TvFgJe1nsYQU_44.090691_-73.123601@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312506,
+    "wof:geomhash":"9431a17407ba02fd2fa55450c35cdfe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874167951
+        }
+    ],
+    "wof:id":874167951,
+    "wof:lastmodified":1464312506,
+    "wof:name":"Hepatica Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -73.123601,
+    44.090691,
+    -73.123601,
+    44.090691
+],
+  "geometry": {"coordinates":[-73.12360099999999,44.090691],"type":"Point"}
+}

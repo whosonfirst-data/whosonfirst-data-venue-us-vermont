@@ -1,0 +1,71 @@
+{
+  "id": 874136927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.170074,43.999508,-73.170074,43.999508",
+    "geom:latitude":43.999508,
+    "geom:longitude":-73.170074,
+    "iso:country":"US",
+    "sg:address":"30 Porter Dr",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4001",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Oyq86FWomSx6R3IFfe6XI_43.999508_-73.170074@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312208,
+    "wof:geomhash":"16720a4ebe0414d42d131adf056c192f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874136927
+        }
+    ],
+    "wof:id":874136927,
+    "wof:lastmodified":1464312208,
+    "wof:name":"Porter Helen Health Care",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -73.170074,
+    43.999508,
+    -73.170074,
+    43.999508
+],
+  "geometry": {"coordinates":[-73.170074,43.999508],"type":"Point"}
+}

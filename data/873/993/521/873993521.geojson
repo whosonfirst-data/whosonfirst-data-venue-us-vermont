@@ -1,0 +1,71 @@
+{
+  "id": 873993521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.120092,44.695798,-73.120092,44.695798",
+    "geom:latitude":44.695798,
+    "geom:longitude":-73.120092,
+    "iso:country":"US",
+    "sg:address":"497 Fontaine Dr",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 7625",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36mt6mKy693daWGeRkOGQn_44.695798_-73.120092@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310715,
+    "wof:geomhash":"98acaebf3dad33811e89ba28d10a2d58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":873993521
+        }
+    ],
+    "wof:id":873993521,
+    "wof:lastmodified":1464310715,
+    "wof:name":"Wirenuts Contracting",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.120092,
+    44.695798,
+    -73.120092,
+    44.695798
+],
+  "geometry": {"coordinates":[-73.120092,44.695798],"type":"Point"}
+}

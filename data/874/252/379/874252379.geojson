@@ -1,0 +1,79 @@
+{
+  "id": 874252379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.544387,42.89368,-72.544387,42.89368",
+    "geom:latitude":42.89368,
+    "geom:longitude":-72.544387,
+    "iso:country":"US",
+    "sg:address":"8 Glen Orne Dr",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 5124",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "sg:website":"http://www.disilvacompanies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mGM0E4O2Aw51ZieciWto4_42.893680_-72.544387@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313612,
+    "wof:geomhash":"51679587cef0c64702f704c8d003d9bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874252379
+        }
+    ],
+    "wof:id":874252379,
+    "wof:lastmodified":1464313612,
+    "wof:name":"Brattleboro Hauling",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.544387,
+    42.89368,
+    -72.544387,
+    42.89368
+],
+  "geometry": {"coordinates":[-72.544387,42.89368],"type":"Point"}
+}

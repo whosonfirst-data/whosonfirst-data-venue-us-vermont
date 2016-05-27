@@ -1,0 +1,74 @@
+{
+  "id": 874256747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.184242,44.511896,-73.184242,44.511896",
+    "geom:latitude":44.511896,
+    "geom:longitude":-73.184242,
+    "iso:country":"US",
+    "sg:address":"354 Mountain View Drive Suite 350",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 662 2284",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocery",
+        "online-shopping",
+        "online-food"
+    ],
+    "sg:website":"http://www.mywebgrocer.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L6BmhZDaKYWFHqxWMXJw0_44.511896_-73.184242@1308186496"
+    },
+    "wof:country":"US",
+    "wof:created":1464313713,
+    "wof:geomhash":"686a3412d646a1e5134159d780902b6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874256747
+        }
+    ],
+    "wof:id":874256747,
+    "wof:lastmodified":1464313713,
+    "wof:name":"MyWebGrocer",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "online-shopping",
+        "online-food"
+    ]
+},
+  "bbox": [
+    -73.184242,
+    44.511896,
+    -73.184242,
+    44.511896
+],
+  "geometry": {"coordinates":[-73.184242,44.511896],"type":"Point"}
+}

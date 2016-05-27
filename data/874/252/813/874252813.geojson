@@ -1,0 +1,88 @@
+{
+  "id": 874252813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21189,44.477135,-73.21189,44.477135",
+    "geom:latitude":44.477135,
+    "geom:longitude":-73.21189,
+    "iso:country":"US",
+    "sg:address":"210 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 7400",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "buyer",
+        "management",
+        "commercial",
+        "broker"
+    ],
+    "sg:website":"http://www.redstonevt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b200QeQ1uKr43OABuCpGg_44.477135_-73.211890@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313621,
+    "wof:geomhash":"a126c76f5b0369530e9cc6faa113bc89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874252813
+        }
+    ],
+    "wof:id":874252813,
+    "wof:lastmodified":1464313621,
+    "wof:name":"Redstone",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "management",
+        "commercial",
+        "broker"
+    ]
+},
+  "bbox": [
+    -73.21189,
+    44.477135,
+    -73.21189,
+    44.477135
+],
+  "geometry": {"coordinates":[-73.21189,44.477135],"type":"Point"}
+}

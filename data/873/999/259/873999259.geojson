@@ -1,0 +1,69 @@
+{
+  "id": 873999259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.9694,43.602554,-72.9694,43.602554",
+    "geom:latitude":43.602554,
+    "geom:longitude":-72.9694,
+    "iso:country":"US",
+    "sg:address":"25 Jackson Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 8467",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JL8618ey8T9d9uSp4pXmT_43.602554_-72.969400@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310755,
+    "wof:geomhash":"f4ddbc6c12ca2663b4feabcace39c3ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":873999259
+        }
+    ],
+    "wof:id":873999259,
+    "wof:lastmodified":1464310755,
+    "wof:name":"Detailing Demons",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -72.9694,
+    43.602554,
+    -72.9694,
+    43.602554
+],
+  "geometry": {"coordinates":[-72.96939999999999,43.602554],"type":"Point"}
+}

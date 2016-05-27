@@ -1,0 +1,73 @@
+{
+  "id": 874083113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.514947,44.209354,-72.514947,44.209354",
+    "geom:latitude":44.209354,
+    "geom:longitude":-72.514947,
+    "iso:country":"US",
+    "sg:address":"572 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9685",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lYjuh9KC2tKOB3Nl3EknT_44.209354_-72.514947@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311591,
+    "wof:geomhash":"e7ec6c79f99dec27f8848abf587ef242",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874083113
+        }
+    ],
+    "wof:id":874083113,
+    "wof:lastmodified":1464311591,
+    "wof:name":"JOHNSON & Dix Fuel Corp",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.514947,
+    44.209354,
+    -72.514947,
+    44.209354
+],
+  "geometry": {"coordinates":[-72.51494700000001,44.209354],"type":"Point"}
+}

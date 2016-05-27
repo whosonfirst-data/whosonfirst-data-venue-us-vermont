@@ -1,0 +1,71 @@
+{
+  "id": 874141393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208769,44.480504,-73.208769,44.480504",
+    "geom:latitude":44.480504,
+    "geom:longitude":-73.208769,
+    "iso:country":"US",
+    "sg:address":"267 Pearl St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 5300",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YD8MDtly0ar9DGXOvcGXY_44.480504_-73.208769@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312246,
+    "wof:geomhash":"522a4a64cc8384eeacdf37563e96223d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874141393
+        }
+    ],
+    "wof:id":874141393,
+    "wof:lastmodified":1464312246,
+    "wof:name":"Michael Bukanc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -73.208769,
+    44.480504,
+    -73.208769,
+    44.480504
+],
+  "geometry": {"coordinates":[-73.208769,44.480504],"type":"Point"}
+}

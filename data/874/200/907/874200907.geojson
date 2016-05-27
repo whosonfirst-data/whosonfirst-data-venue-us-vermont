@@ -1,0 +1,71 @@
+{
+  "id": 874200907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.658164,44.886963,-72.658164,44.886963",
+    "geom:latitude":44.886963,
+    "geom:longitude":-72.658164,
+    "iso:country":"US",
+    "sg:address":"993 W Hill Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 326 2000",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L7YdFQhf9v5XsplEIsEx8_44.886963_-72.658164@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312852,
+    "wof:geomhash":"978364767bd1191f19953fe47303e609",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874200907
+        }
+    ],
+    "wof:id":874200907,
+    "wof:lastmodified":1464312852,
+    "wof:name":"Cota's Auto Repair",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.658164,
+    44.886963,
+    -72.658164,
+    44.886963
+],
+  "geometry": {"coordinates":[-72.658164,44.886963],"type":"Point"}
+}

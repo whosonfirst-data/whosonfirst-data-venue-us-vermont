@@ -1,0 +1,69 @@
+{
+  "id": 874110977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.522808,42.975812,-72.522808,42.975812",
+    "geom:latitude":42.975812,
+    "geom:longitude":-72.522808,
+    "iso:country":"US",
+    "sg:address":"32 Kimball Hill Rd",
+    "sg:city":"Putney",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 387 6020",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "archaeologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AL3uUgG5siSP9iJDRPS9R_42.975812_-72.522808@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311940,
+    "wof:geomhash":"18db9d634d58b92771b70dc78f3729c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874110977
+        }
+    ],
+    "wof:id":874110977,
+    "wof:lastmodified":1464311940,
+    "wof:name":"Hartgen Archeological Assoc",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "archaeologist"
+    ]
+},
+  "bbox": [
+    -72.522808,
+    42.975812,
+    -72.522808,
+    42.975812
+],
+  "geometry": {"coordinates":[-72.522808,42.975812],"type":"Point"}
+}

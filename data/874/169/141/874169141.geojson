@@ -1,0 +1,73 @@
+{
+  "id": 874169141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.770993,44.690033,-72.770993,44.690033",
+    "geom:latitude":44.690033,
+    "geom:longitude":-72.770993,
+    "iso:country":"US",
+    "sg:address":"21 Church St",
+    "sg:city":"Waterville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 6555",
+    "sg:postcode":"05492",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TtwEx7ouHghq6wBNWfaAC_44.690033_-72.770993@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312518,
+    "wof:geomhash":"3ad6843b0ed6f43bef1aed8af7ac0efb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874169141
+        }
+    ],
+    "wof:id":874169141,
+    "wof:lastmodified":1464312518,
+    "wof:name":"Dan & Sheilas Country Store",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.770993,
+    44.690033,
+    -72.770993,
+    44.690033
+],
+  "geometry": {"coordinates":[-72.770993,44.690033],"type":"Point"}
+}

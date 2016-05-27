@@ -1,0 +1,75 @@
+{
+  "id": 874121879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.219791,44.445463,-73.219791,44.445463",
+    "geom:latitude":44.445463,
+    "geom:longitude":-73.219791,
+    "iso:country":"US",
+    "sg:address":"28 Central Ave",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 4088",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cdDIAwO5XBAGy0XtBzXKu_44.445463_-73.219791@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312058,
+    "wof:geomhash":"c88f22f3abfe51149c1f2b794633a708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874121879
+        }
+    ],
+    "wof:id":874121879,
+    "wof:lastmodified":1464312058,
+    "wof:name":"Queen City Flooring",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.219791,
+    44.445463,
+    -73.219791,
+    44.445463
+],
+  "geometry": {"coordinates":[-73.219791,44.445463],"type":"Point"}
+}

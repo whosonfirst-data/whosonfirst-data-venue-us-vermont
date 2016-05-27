@@ -1,0 +1,73 @@
+{
+  "id": 873983305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215277,44.470567,-73.215277,44.470567",
+    "geom:latitude":44.470567,
+    "geom:longitude":-73.215277,
+    "iso:country":"US",
+    "sg:address":"277 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 6119",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "exhibit",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EMlT06L1fQ4t5YpIMjMZD_44.470567_-73.215277@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310636,
+    "wof:geomhash":"86506558d4d553c5692774da9d3265c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873983305
+        }
+    ],
+    "wof:id":873983305,
+    "wof:lastmodified":1464310636,
+    "wof:name":"Shadows & Light Design",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhibit",
+        "design"
+    ]
+},
+  "bbox": [
+    -73.215277,
+    44.470567,
+    -73.215277,
+    44.470567
+],
+  "geometry": {"coordinates":[-73.215277,44.470567],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874077557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.682839,44.455214,-72.682839,44.455214",
+    "geom:latitude":44.455214,
+    "geom:longitude":-72.682839,
+    "iso:country":"US",
+    "sg:address":"560 Stowe Hollow Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7060",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IGrYDGUa7dXFb7A0DoGL0_44.455214_-72.682839@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311524,
+    "wof:geomhash":"38fe97cb93b8960486eda96b057e1e84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874077557
+        }
+    ],
+    "wof:id":874077557,
+    "wof:lastmodified":1464311524,
+    "wof:name":"Christine M Conley",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.682839,
+    44.455214,
+    -72.682839,
+    44.455214
+],
+  "geometry": {"coordinates":[-72.682839,44.455214],"type":"Point"}
+}

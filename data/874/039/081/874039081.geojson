@@ -1,0 +1,80 @@
+{
+  "id": 874039081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.061076,44.511441,-73.061076,44.511441",
+    "geom:latitude":44.511441,
+    "geom:longitude":-73.061076,
+    "iso:country":"US",
+    "sg:address":"97 Center Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 4825",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fire",
+        "engineering",
+        "protection",
+        "sprinkler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59f3kOrC31Nm0DvdWTy4i7_44.511441_-73.061076@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311135,
+    "wof:geomhash":"b6b33376e2030bd1e46dd716ce72206a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874039081
+        }
+    ],
+    "wof:id":874039081,
+    "wof:lastmodified":1464311135,
+    "wof:name":"Cedar Ridge Sprinkler Corp",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "engineering",
+        "protection",
+        "sprinkler"
+    ]
+},
+  "bbox": [
+    -73.061076,
+    44.511441,
+    -73.061076,
+    44.511441
+],
+  "geometry": {"coordinates":[-73.061076,44.511441],"type":"Point"}
+}

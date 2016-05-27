@@ -1,0 +1,73 @@
+{
+  "id": 874183543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.97308,43.608674,-72.97308,43.608674",
+    "geom:latitude":43.608674,
+    "geom:longitude":-72.97308,
+    "iso:country":"US",
+    "sg:address":"15 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 8022",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "federal",
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cDZTQwpEPsaowNjQsBTh7_43.608674_-72.973080@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312671,
+    "wof:geomhash":"7d41e53bd35ad8577b69473918c6fd15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874183543
+        }
+    ],
+    "wof:id":874183543,
+    "wof:lastmodified":1464312671,
+    "wof:name":"US Army National Guard",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -72.97308,
+    43.608674,
+    -72.97308,
+    43.608674
+],
+  "geometry": {"coordinates":[-72.97308,43.608674],"type":"Point"}
+}

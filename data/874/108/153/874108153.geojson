@@ -1,0 +1,73 @@
+{
+  "id": 874108153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208672,44.479187,-73.208672,44.479187",
+    "geom:latitude":44.479187,
+    "geom:longitude":-73.208672,
+    "iso:country":"US",
+    "sg:address":"96 Buell St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 0381",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BXtUimSxRNQl9SQnMi5Mz_44.479187_-73.208672@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311896,
+    "wof:geomhash":"7635700006cebce22a25141ef0e5d145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874108153
+        }
+    ],
+    "wof:id":874108153,
+    "wof:lastmodified":1464311896,
+    "wof:name":"Dismas House Of Vermont",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.208672,
+    44.479187,
+    -73.208672,
+    44.479187
+],
+  "geometry": {"coordinates":[-73.20867200000001,44.479187],"type":"Point"}
+}

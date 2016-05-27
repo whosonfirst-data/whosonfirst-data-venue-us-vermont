@@ -1,0 +1,69 @@
+{
+  "id": 874256645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.967681,43.472889,-72.967681,43.472889",
+    "geom:latitude":43.472889,
+    "geom:longitude":-72.967681,
+    "iso:country":"US",
+    "sg:address":"193 Olde Pine Ln",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 2399",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n9SGqgqXBgjaSZd3QZhNw_43.472889_-72.967681@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313712,
+    "wof:geomhash":"9969ba0e2708f36eba9942145c756653",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874256645
+        }
+    ],
+    "wof:id":874256645,
+    "wof:lastmodified":1464313712,
+    "wof:name":"Shelvey Elec",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -72.967681,
+    43.472889,
+    -72.967681,
+    43.472889
+],
+  "geometry": {"coordinates":[-72.967681,43.472889],"type":"Point"}
+}

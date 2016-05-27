@@ -1,0 +1,69 @@
+{
+  "id": 874076567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.041977,43.166844,-73.041977,43.166844",
+    "geom:latitude":43.166844,
+    "geom:longitude":-73.041977,
+    "iso:country":"US",
+    "sg:address":"374 E Manchester Rd",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 5577",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844461,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c5nc22Ag1L8T0IYjP8CFH_43.166844_-73.041977@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311516,
+    "wof:geomhash":"b7ca87dd150550ae97f2b68484d02fb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85844461,
+            "region_id":85688763,
+            "venue_id":874076567
+        }
+    ],
+    "wof:id":874076567,
+    "wof:lastmodified":1464311516,
+    "wof:name":"United Horticultural Supply",
+    "wof:parent_id":85844461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -73.041977,
+    43.166844,
+    -73.041977,
+    43.166844
+],
+  "geometry": {"coordinates":[-73.041977,43.166844],"type":"Point"}
+}

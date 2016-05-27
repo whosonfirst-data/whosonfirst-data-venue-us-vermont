@@ -1,0 +1,71 @@
+{
+  "id": 874238413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.750417,44.964869,-72.750417,44.964869",
+    "geom:latitude":44.964869,
+    "geom:longitude":-72.750417,
+    "iso:country":"US",
+    "sg:address":"687 King Rd",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 848 7332",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MFNArWQqtLg5FAsnCQriH_44.964869_-72.750417@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313309,
+    "wof:geomhash":"beac83949653abf1f8693089bcc2a605",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874238413
+        }
+    ],
+    "wof:id":874238413,
+    "wof:lastmodified":1464313309,
+    "wof:name":"Desautels Paving Inc",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.750417,
+    44.964869,
+    -72.750417,
+    44.964869
+],
+  "geometry": {"coordinates":[-72.750417,44.964869],"type":"Point"}
+}

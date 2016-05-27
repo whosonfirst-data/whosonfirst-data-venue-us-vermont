@@ -1,0 +1,71 @@
+{
+  "id": 874234955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078026,43.230765,-73.078026,43.230765",
+    "geom:latitude":43.230765,
+    "geom:longitude":-73.078026,
+    "iso:country":"US",
+    "sg:address":"1377 State Rte 30",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 7125",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hKYo91t4AOCRrAmzaV9Pl_43.230765_-73.078026@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313239,
+    "wof:geomhash":"fa9e9cac79d7fc4a55c2b51732702f21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874234955
+        }
+    ],
+    "wof:id":874234955,
+    "wof:lastmodified":1464313239,
+    "wof:name":"Around Town Home Improvement",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.078026,
+    43.230765,
+    -73.078026,
+    43.230765
+],
+  "geometry": {"coordinates":[-73.07802599999999,43.230765],"type":"Point"}
+}

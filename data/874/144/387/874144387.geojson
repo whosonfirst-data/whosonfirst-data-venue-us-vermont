@@ -1,0 +1,73 @@
+{
+  "id": 874144387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.207971,44.48052,-73.207971,44.48052",
+    "geom:latitude":44.48052,
+    "geom:longitude":-73.207971,
+    "iso:country":"US",
+    "sg:address":"247 Pearl St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 3827",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_506F2JT1dkIwsMdVEyPvys_44.480520_-73.207971@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312275,
+    "wof:geomhash":"ee9be1e58d88e5362deae6942f1f8e5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874144387
+        }
+    ],
+    "wof:id":874144387,
+    "wof:lastmodified":1464312275,
+    "wof:name":"Prosthodontist",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -73.207971,
+    44.48052,
+    -73.207971,
+    44.48052
+],
+  "geometry": {"coordinates":[-73.207971,44.48052],"type":"Point"}
+}

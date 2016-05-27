@@ -1,0 +1,69 @@
+{
+  "id": 874238947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.562239,42.991105,-72.562239,42.991105",
+    "geom:latitude":42.991105,
+    "geom:longitude":-72.562239,
+    "iso:country":"US",
+    "sg:address":"310 W Hill Rd",
+    "sg:city":"Putney",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 387 5851",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shipper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QYgi48jMJ0VlNQ9d1dfxT_42.991105_-72.562239@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313320,
+    "wof:geomhash":"9cf053b3f64c64f1d8b1a4863b796103",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874238947
+        }
+    ],
+    "wof:id":874238947,
+    "wof:lastmodified":1464313320,
+    "wof:name":"Green Mountain Orchards Inc",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipper"
+    ]
+},
+  "bbox": [
+    -72.562239,
+    42.991105,
+    -72.562239,
+    42.991105
+],
+  "geometry": {"coordinates":[-72.56223900000001,42.991105],"type":"Point"}
+}

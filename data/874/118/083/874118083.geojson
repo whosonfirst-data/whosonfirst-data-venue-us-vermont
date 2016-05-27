@@ -1,0 +1,71 @@
+{
+  "id": 874118083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.483854,44.195467,-72.483854,44.195467",
+    "geom:latitude":44.195467,
+    "geom:longitude":-72.483854,
+    "iso:country":"US",
+    "sg:address":"14 Skylark Ter",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6025",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qSldd9ozOTRDPywG4sYAQ_44.195467_-72.483854@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312016,
+    "wof:geomhash":"b03c5d652b393a87439bb093c0fa4148",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874118083
+        }
+    ],
+    "wof:id":874118083,
+    "wof:lastmodified":1464312016,
+    "wof:name":"Mc Knight Assoc Architects P C",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -72.483854,
+    44.195467,
+    -72.483854,
+    44.195467
+],
+  "geometry": {"coordinates":[-72.48385399999999,44.195467],"type":"Point"}
+}

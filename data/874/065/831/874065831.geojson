@@ -1,0 +1,75 @@
+{
+  "id": 874065831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.832599,44.641341,-72.832599,44.641341",
+    "geom:latitude":44.641341,
+    "geom:longitude":-72.832599,
+    "iso:country":"US",
+    "sg:address":"244 Upper Pleasant Valley Rd",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5534",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "water",
+        "control",
+        "pollution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1acVEfb90LLJTQSObVuYkW_44.641341_-72.832599@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311387,
+    "wof:geomhash":"0148435af5278932bd037259b5681c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874065831
+        }
+    ],
+    "wof:id":874065831,
+    "wof:lastmodified":1464311387,
+    "wof:name":"Jeffersonville Village Office",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "control",
+        "pollution"
+    ]
+},
+  "bbox": [
+    -72.832599,
+    44.641341,
+    -72.832599,
+    44.641341
+],
+  "geometry": {"coordinates":[-72.832599,44.641341],"type":"Point"}
+}

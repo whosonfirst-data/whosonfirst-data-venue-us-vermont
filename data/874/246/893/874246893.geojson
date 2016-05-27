@@ -1,0 +1,71 @@
+{
+  "id": 874246893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.66008,44.148599,-72.66008,44.148599",
+    "geom:latitude":44.148599,
+    "geom:longitude":-72.66008,
+    "iso:country":"US",
+    "sg:address":"9 Wall St",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 7866",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x5mycqaCI2WHTdHLM4zAu_44.148599_-72.660080@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313469,
+    "wof:geomhash":"9672760993bfc74519de3575c938d168",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874246893
+        }
+    ],
+    "wof:id":874246893,
+    "wof:lastmodified":1464313469,
+    "wof:name":"Grace Evangelical Free Church",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.66008,
+    44.148599,
+    -72.66008,
+    44.148599
+],
+  "geometry": {"coordinates":[-72.66007999999999,44.148599],"type":"Point"}
+}

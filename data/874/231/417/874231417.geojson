@@ -1,0 +1,73 @@
+{
+  "id": 874231417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.198112,44.472861,-73.198112,44.472861",
+    "geom:latitude":44.472861,
+    "geom:longitude":-73.198112,
+    "iso:country":"US",
+    "sg:address":"97 Robinson Pkwy",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 861 2034",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70SBH33EG5wgZgqyEG6bDE_44.472861_-73.198112@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313179,
+    "wof:geomhash":"cc1788089e8b21b45d48173367111057",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874231417
+        }
+    ],
+    "wof:id":874231417,
+    "wof:lastmodified":1464313179,
+    "wof:name":"Campwood Software",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -73.198112,
+    44.472861,
+    -73.198112,
+    44.472861
+],
+  "geometry": {"coordinates":[-73.19811199999999,44.472861],"type":"Point"}
+}

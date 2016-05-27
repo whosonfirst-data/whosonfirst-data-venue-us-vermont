@@ -1,0 +1,71 @@
+{
+  "id": 874005693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.502363,44.198281,-72.502363,44.198281",
+    "geom:latitude":44.198281,
+    "geom:longitude":-72.502363,
+    "iso:country":"US",
+    "sg:address":"32 Keith Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 7398",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NPoRxc2tHHNxw3keRlXKP_44.198281_-72.502363@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310822,
+    "wof:geomhash":"68aa5298370db58d21b4c3fcd969175b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874005693
+        }
+    ],
+    "wof:id":874005693,
+    "wof:lastmodified":1464310822,
+    "wof:name":"Reytech Communication Enterpri",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -72.502363,
+    44.198281,
+    -72.502363,
+    44.198281
+],
+  "geometry": {"coordinates":[-72.502363,44.198281],"type":"Point"}
+}

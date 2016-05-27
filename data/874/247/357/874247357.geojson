@@ -1,0 +1,71 @@
+{
+  "id": 874247357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.969695,43.602425,-72.969695,43.602425",
+    "geom:latitude":43.602425,
+    "geom:longitude":-72.969695,
+    "iso:country":"US",
+    "sg:address":"2 Jackson Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 7877",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y7MZNRHuEj72I8ev9CACL_43.602425_-72.969695@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313479,
+    "wof:geomhash":"61549649e23b5bd7d0f25d3a936f58ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874247357
+        }
+    ],
+    "wof:id":874247357,
+    "wof:lastmodified":1464313479,
+    "wof:name":"Christ The King Convent",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -72.969695,
+    43.602425,
+    -72.969695,
+    43.602425
+],
+  "geometry": {"coordinates":[-72.969695,43.602425],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874002271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.788826,43.636317,-72.788826,43.636317",
+    "geom:latitude":43.636317,
+    "geom:longitude":-72.788826,
+    "iso:country":"US",
+    "sg:address":"2625 Killington Rd",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 422 3434",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848249,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48i6NxnClUur2h6TMX7562_43.636317_-72.788826@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310777,
+    "wof:geomhash":"fa6a042c56dd55cc31c39aedd10ecf2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":874002271
+        }
+    ],
+    "wof:id":874002271,
+    "wof:lastmodified":1464310777,
+    "wof:name":"Habro Inc",
+    "wof:parent_id":85848249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -72.788826,
+    43.636317,
+    -72.788826,
+    43.636317
+],
+  "geometry": {"coordinates":[-72.788826,43.636317],"type":"Point"}
+}

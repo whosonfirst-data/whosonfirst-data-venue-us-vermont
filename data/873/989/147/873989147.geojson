@@ -1,0 +1,69 @@
+{
+  "id": 873989147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.001652,44.397035,-73.001652,44.397035",
+    "geom:latitude":44.397035,
+    "geom:longitude":-73.001652,
+    "iso:country":"US",
+    "sg:address":"276 Thompson Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 2631",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qztgaFFgXbfs4G7fTojud_44.397035_-73.001652@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310684,
+    "wof:geomhash":"0d32f909f22afafc0450b7b13a680133",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":873989147
+        }
+    ],
+    "wof:id":873989147,
+    "wof:lastmodified":1464310684,
+    "wof:name":"Richmond Highway Garage",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -73.001652,
+    44.397035,
+    -73.001652,
+    44.397035
+],
+  "geometry": {"coordinates":[-73.00165200000001,44.397035],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874229107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.202489,43.847578,-72.202489,43.847578",
+    "geom:latitude":43.847578,
+    "geom:longitude":-72.202489,
+    "iso:country":"US",
+    "sg:address":"409 Potato Hill Rd S",
+    "sg:city":"Thetford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 3723",
+    "sg:postcode":"05075",
+    "sg:province":"VT",
+    "sg:tags":[
+        "correction",
+        "radon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DusCQaToJV6oqHh7auL0R_43.847578_-72.202489@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313152,
+    "wof:geomhash":"d6ba55b0358d191d0b8b8ed4edc0d6eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874229107
+        }
+    ],
+    "wof:id":874229107,
+    "wof:lastmodified":1464313152,
+    "wof:name":"New England Radon Control",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correction",
+        "radon"
+    ]
+},
+  "bbox": [
+    -72.202489,
+    43.847578,
+    -72.202489,
+    43.847578
+],
+  "geometry": {"coordinates":[-72.202489,43.847578],"type":"Point"}
+}

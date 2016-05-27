@@ -1,0 +1,71 @@
+{
+  "id": 874211299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.585972,44.222362,-72.585972,44.222362",
+    "geom:latitude":44.222362,
+    "geom:longitude":-72.585972,
+    "iso:country":"US",
+    "sg:address":"575 Hill St Exd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 6755",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "saw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eyzBqFIBuZhfE3eiK4Ovv_44.222362_-72.585972@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312966,
+    "wof:geomhash":"531672b290ceb2b0d35b44c63ea9ff97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874211299
+        }
+    ],
+    "wof:id":874211299,
+    "wof:lastmodified":1464312966,
+    "wof:name":"Steve Rich Chainsaws",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saw"
+    ]
+},
+  "bbox": [
+    -72.585972,
+    44.222362,
+    -72.585972,
+    44.222362
+],
+  "geometry": {"coordinates":[-72.585972,44.222362],"type":"Point"}
+}

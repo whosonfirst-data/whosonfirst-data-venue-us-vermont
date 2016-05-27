@@ -1,0 +1,71 @@
+{
+  "id": 874015751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.178027,44.480239,-73.178027,44.480239",
+    "geom:latitude":44.480239,
+    "geom:longitude":-73.178027,
+    "iso:country":"US",
+    "sg:address":"53 Valley Ridge Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 7164",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l9352POWH6zUqlgnkIJRu_44.480239_-73.178027@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310897,
+    "wof:geomhash":"dc2e245260f0bce029dded4a86aaf5cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874015751
+        }
+    ],
+    "wof:id":874015751,
+    "wof:lastmodified":1464310897,
+    "wof:name":"Public Works Department",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -73.178027,
+    44.480239,
+    -73.178027,
+    44.480239
+],
+  "geometry": {"coordinates":[-73.178027,44.480239],"type":"Point"}
+}

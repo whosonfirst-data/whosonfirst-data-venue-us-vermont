@@ -1,0 +1,71 @@
+{
+  "id": 874235893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199741,44.056376,-73.199741,44.056376",
+    "geom:latitude":44.056376,
+    "geom:longitude":-73.199741,
+    "iso:country":"US",
+    "sg:address":"952 Cave Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2505",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VYbbTUwg55MMBafiviRC7_44.056376_-73.199741@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313259,
+    "wof:geomhash":"9edaf7c9d7f2d1d80faf631acc57f6c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874235893
+        }
+    ],
+    "wof:id":874235893,
+    "wof:lastmodified":1464313259,
+    "wof:name":"Mins Day Care",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -73.199741,
+    44.056376,
+    -73.199741,
+    44.056376
+],
+  "geometry": {"coordinates":[-73.199741,44.056376],"type":"Point"}
+}

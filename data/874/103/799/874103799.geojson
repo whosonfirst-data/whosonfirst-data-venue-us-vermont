@@ -1,0 +1,71 @@
+{
+  "id": 874103799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204428,42.881314,-73.204428,42.881314",
+    "geom:latitude":42.881314,
+    "geom:longitude":-73.204428,
+    "iso:country":"US",
+    "sg:address":"139 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 4082",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "factory",
+        "outlet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oSbcuKwaGNQUs1bm57qHD_42.881314_-73.204428@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311842,
+    "wof:geomhash":"7b8a04806b23c2e9399bc248278954c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874103799
+        }
+    ],
+    "wof:id":874103799,
+    "wof:lastmodified":1464311842,
+    "wof:name":"Jonathan Logan Outlet",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "factory",
+        "outlet"
+    ]
+},
+  "bbox": [
+    -73.204428,
+    42.881314,
+    -73.204428,
+    42.881314
+],
+  "geometry": {"coordinates":[-73.20442799999999,42.881314],"type":"Point"}
+}

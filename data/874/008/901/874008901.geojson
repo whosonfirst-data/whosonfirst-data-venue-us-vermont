@@ -1,0 +1,84 @@
+{
+  "id": 874008901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.951398,43.599687,-72.951398,43.599687",
+    "geom:latitude":43.599687,
+    "geom:longitude":-72.951398,
+    "iso:country":"US",
+    "sg:address":"5 Albert Cree Dr",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 1300",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical",
+        "specialty",
+        "outpatient",
+        "clinic",
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04tpypNdJHY2yHG7keC2IQ_43.599687_-72.951398@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310847,
+    "wof:geomhash":"e680a4169be4a9a07de238ca9340f3ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874008901
+        }
+    ],
+    "wof:id":874008901,
+    "wof:lastmodified":1464310847,
+    "wof:name":"Vermont Sport Medicine Center",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "specialty",
+        "outpatient",
+        "clinic",
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -72.951398,
+    43.599687,
+    -72.951398,
+    43.599687
+],
+  "geometry": {"coordinates":[-72.951398,43.599687],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874056001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.099173,44.13665,-73.099173,44.13665",
+    "geom:latitude":44.13665,
+    "geom:longitude":-73.099173,
+    "iso:country":"US",
+    "sg:address":"441 Burpee Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 4905",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TxSSEM8DTYhlAXCWtW06O_44.136650_-73.099173@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311301,
+    "wof:geomhash":"3d3128d5e908587099be93ab822533c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874056001
+        }
+    ],
+    "wof:id":874056001,
+    "wof:lastmodified":1464311301,
+    "wof:name":"Playful Learning Kids Place",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -73.099173,
+    44.13665,
+    -73.099173,
+    44.13665
+],
+  "geometry": {"coordinates":[-73.09917299999999,44.13665],"type":"Point"}
+}

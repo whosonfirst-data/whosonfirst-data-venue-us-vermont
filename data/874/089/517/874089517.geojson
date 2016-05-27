@@ -1,0 +1,73 @@
+{
+  "id": 874089517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.66463,44.123163,-72.66463,44.123163",
+    "geom:latitude":44.123163,
+    "geom:longitude":-72.66463,
+    "iso:country":"US",
+    "sg:address":"523 State Rte 12 Alt",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 8333",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jYqgeamNPtBOsbhq8TWfx_44.123163_-72.664630@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311655,
+    "wof:geomhash":"0f1a3d0b89a004298b9af15ddd0ea0dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874089517
+        }
+    ],
+    "wof:id":874089517,
+    "wof:lastmodified":1464311655,
+    "wof:name":"Morse Auto Sales",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.66463,
+    44.123163,
+    -72.66463,
+    44.123163
+],
+  "geometry": {"coordinates":[-72.66463,44.123163],"type":"Point"}
+}

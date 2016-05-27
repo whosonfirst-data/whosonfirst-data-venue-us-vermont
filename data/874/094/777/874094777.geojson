@@ -1,0 +1,73 @@
+{
+  "id": 874094777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.523721,43.290675,-72.523721,43.290675",
+    "geom:latitude":43.290675,
+    "geom:longitude":-72.523721,
+    "iso:country":"US",
+    "sg:address":"78 Cutler Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 4101",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25VSxkIMrsJI0ihagiwZry_43.290675_-72.523721@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311710,
+    "wof:geomhash":"6adfff0fc4c21fabf346a9f7f780ed35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874094777
+        }
+    ],
+    "wof:id":874094777,
+    "wof:lastmodified":1464311710,
+    "wof:name":"Ronald Frost",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.523721,
+    43.290675,
+    -72.523721,
+    43.290675
+],
+  "geometry": {"coordinates":[-72.52372099999999,43.290675],"type":"Point"}
+}

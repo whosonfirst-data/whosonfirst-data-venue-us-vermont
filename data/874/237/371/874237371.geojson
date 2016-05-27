@@ -1,0 +1,69 @@
+{
+  "id": 874237371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.862614,43.470341,-72.862614,43.470341",
+    "geom:latitude":43.470341,
+    "geom:longitude":-72.862614,
+    "iso:country":"US",
+    "sg:address":"2275 Old Turnpike Rd",
+    "sg:city":"Mt Holly",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 259 3108",
+    "sg:postcode":"05758",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jMpRiHPgyT82zkI9XTQ3d_43.470341_-72.862614@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313286,
+    "wof:geomhash":"a865a4bab08fe74e04e400aa4cc88e23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874237371
+        }
+    ],
+    "wof:id":874237371,
+    "wof:lastmodified":1464313286,
+    "wof:name":"K & N Trucking",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.862614,
+    43.470341,
+    -72.862614,
+    43.470341
+],
+  "geometry": {"coordinates":[-72.86261399999999,43.470341],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874144101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.517682,43.33181,-72.517682,43.33181",
+    "geom:latitude":43.33181,
+    "geom:longitude":-72.517682,
+    "iso:country":"US",
+    "sg:address":"3 Main St",
+    "sg:city":"North Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 2519",
+    "sg:postcode":"05150",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oY6CHNfgSr8ik0HFC0BhG_43.331810_-72.517682@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312273,
+    "wof:geomhash":"6dcffbc9135b3985824644f2f85fb239",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874144101
+        }
+    ],
+    "wof:id":874144101,
+    "wof:lastmodified":1464312273,
+    "wof:name":"Kjs Place Inc",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -72.517682,
+    43.33181,
+    -72.517682,
+    43.33181
+],
+  "geometry": {"coordinates":[-72.51768199999999,43.33181],"type":"Point"}
+}

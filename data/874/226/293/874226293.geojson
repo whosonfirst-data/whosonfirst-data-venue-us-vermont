@@ -1,0 +1,69 @@
+{
+  "id": 874226293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.561035,44.547759,-72.561035,44.547759",
+    "geom:latitude":44.547759,
+    "geom:longitude":-72.561035,
+    "iso:country":"US",
+    "sg:address":"2215 Elmore Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 7375",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60PYm2VCeSoVE1sA4os78o_44.547759_-72.561035@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313124,
+    "wof:geomhash":"e61ec6eae46f69ffe6679e398c271eb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874226293
+        }
+    ],
+    "wof:id":874226293,
+    "wof:lastmodified":1464313124,
+    "wof:name":"Little Leaf Greenhouse",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -72.561035,
+    44.547759,
+    -72.561035,
+    44.547759
+],
+  "geometry": {"coordinates":[-72.561035,44.547759],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874072447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50036,44.5422,-72.50036,44.5422",
+    "geom:latitude":44.5422,
+    "geom:longitude":-72.50036,
+    "iso:country":"US",
+    "sg:address":"2371 Elmore Pond Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 0073",
+    "sg:postcode":"05680",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sUOA3dQZ5jJukvlAJkn2N_44.542200_-72.500360@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311469,
+    "wof:geomhash":"95b54355c713f54eb5b14311d4941815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874072447
+        }
+    ],
+    "wof:id":874072447,
+    "wof:lastmodified":1464311469,
+    "wof:name":"Marty's Garage",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.50036,
+    44.5422,
+    -72.50036,
+    44.5422
+],
+  "geometry": {"coordinates":[-72.50036,44.5422],"type":"Point"}
+}

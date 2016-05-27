@@ -1,0 +1,84 @@
+{
+  "id": 874036157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.626567,44.092093,-72.626567,44.092093",
+    "geom:latitude":44.092093,
+    "geom:longitude":-72.626567,
+    "iso:country":"US",
+    "sg:address":"229 Frost Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 8525",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocery",
+        "mfg",
+        "sugar",
+        "preparation",
+        "syrup",
+        "maple"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37q3itpzeeHRjDHiZoKz9b_44.092093_-72.626567@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311106,
+    "wof:geomhash":"e033d2e2da77978ba401f59f61d65129",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874036157
+        }
+    ],
+    "wof:id":874036157,
+    "wof:lastmodified":1464311106,
+    "wof:name":"Sweet Retreat Maple Syrup Prod",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "mfg",
+        "sugar",
+        "preparation",
+        "syrup",
+        "maple"
+    ]
+},
+  "bbox": [
+    -72.626567,
+    44.092093,
+    -72.626567,
+    44.092093
+],
+  "geometry": {"coordinates":[-72.62656699999999,44.092093],"type":"Point"}
+}

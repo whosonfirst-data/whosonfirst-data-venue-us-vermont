@@ -1,0 +1,72 @@
+{
+  "id": 874156127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.554923,43.347848,-72.554923,43.347848",
+    "geom:latitude":43.347848,
+    "geom:longitude":-72.554923,
+    "iso:country":"US",
+    "sg:address":"142 Gould Rd",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 6600",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.microcheck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PnfOQn8LvDucdBRqkcgbi_43.347848_-72.554923@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312390,
+    "wof:geomhash":"09a86d65d11c2be59d717b3de4c346d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874156127
+        }
+    ],
+    "wof:id":874156127,
+    "wof:lastmodified":1464312390,
+    "wof:name":"Microcheck Inc",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.554923,
+    43.347848,
+    -72.554923,
+    43.347848
+],
+  "geometry": {"coordinates":[-72.554923,43.347848],"type":"Point"}
+}

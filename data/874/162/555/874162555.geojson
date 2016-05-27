@@ -1,0 +1,69 @@
+{
+  "id": 874162555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.010271,44.417067,-72.010271,44.417067",
+    "geom:latitude":44.417067,
+    "geom:longitude":-72.010271,
+    "iso:country":"US",
+    "sg:address":"53 Caledonia St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 1005",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ELqKWx7z6TmpWPjCAnMsV_44.417067_-72.010271@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312455,
+    "wof:geomhash":"51489a23c4123e24f96f25cfb4c10ace",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874162555
+        }
+    ],
+    "wof:id":874162555,
+    "wof:lastmodified":1464312455,
+    "wof:name":"Phil's Painting",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -72.010271,
+    44.417067,
+    -72.010271,
+    44.417067
+],
+  "geometry": {"coordinates":[-72.010271,44.417067],"type":"Point"}
+}

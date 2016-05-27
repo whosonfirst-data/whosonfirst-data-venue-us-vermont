@@ -1,0 +1,71 @@
+{
+  "id": 874144919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.598695,44.564373,-72.598695,44.564373",
+    "geom:latitude":44.564373,
+    "geom:longitude":-72.598695,
+    "iso:country":"US",
+    "sg:address":"33 Foundry St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 3311",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4limOoJLRbv3r8TVlVYe9h_44.564373_-72.598695@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312279,
+    "wof:geomhash":"6b52c6ed004bf59b5a42d7c7f3ab6adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874144919
+        }
+    ],
+    "wof:id":874144919,
+    "wof:lastmodified":1464312279,
+    "wof:name":"Bornemann & Greene",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.598695,
+    44.564373,
+    -72.598695,
+    44.564373
+],
+  "geometry": {"coordinates":[-72.59869500000001,44.564373],"type":"Point"}
+}

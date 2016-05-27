@@ -1,0 +1,71 @@
+{
+  "id": 874164583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.589359,43.268363,-72.589359,43.268363",
+    "geom:latitude":43.268363,
+    "geom:longitude":-72.589359,
+    "iso:country":"US",
+    "sg:address":"534 Elm St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 2424",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LwdATLr7KIR2cQuKg7xQ2_43.268363_-72.589359@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312474,
+    "wof:geomhash":"1841def625d9b6f37f60317339107944",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874164583
+        }
+    ],
+    "wof:id":874164583,
+    "wof:lastmodified":1464312474,
+    "wof:name":"Painter The",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.589359,
+    43.268363,
+    -72.589359,
+    43.268363
+],
+  "geometry": {"coordinates":[-72.589359,43.268363],"type":"Point"}
+}

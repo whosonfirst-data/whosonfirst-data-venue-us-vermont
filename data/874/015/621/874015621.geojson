@@ -1,0 +1,71 @@
+{
+  "id": 874015621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.193568,44.496194,-73.193568,44.496194",
+    "geom:latitude":44.496194,
+    "geom:longitude":-73.193568,
+    "iso:country":"US",
+    "sg:address":"163 Malletts Bay Ave",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 598 6245",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "charter",
+        "flying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ce94ikhsxzgCspfEwu1sd_44.496194_-73.193568@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310896,
+    "wof:geomhash":"7e56fc0b4e752182b2d761ab7ed1746d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874015621
+        }
+    ],
+    "wof:id":874015621,
+    "wof:lastmodified":1464310896,
+    "wof:name":"Trakair",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charter",
+        "flying"
+    ]
+},
+  "bbox": [
+    -73.193568,
+    44.496194,
+    -73.193568,
+    44.496194
+],
+  "geometry": {"coordinates":[-73.193568,44.496194],"type":"Point"}
+}

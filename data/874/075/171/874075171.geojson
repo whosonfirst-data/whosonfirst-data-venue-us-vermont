@@ -1,0 +1,73 @@
+{
+  "id": 874075171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.506988,44.174192,-72.506988,44.174192",
+    "geom:latitude":44.174192,
+    "geom:longitude":-72.506988,
+    "iso:country":"US",
+    "sg:address":"304 S Barre Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1398",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08ZdmitPQ2z62wmziditvI_44.174192_-72.506988@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311504,
+    "wof:geomhash":"d33357fc37087e5c3198451fce37da85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874075171
+        }
+    ],
+    "wof:id":874075171,
+    "wof:lastmodified":1464311504,
+    "wof:name":"Lowery's Auto Sales",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.506988,
+    44.174192,
+    -72.506988,
+    44.174192
+],
+  "geometry": {"coordinates":[-72.50698800000001,44.174192],"type":"Point"}
+}

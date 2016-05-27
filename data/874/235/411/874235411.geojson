@@ -1,0 +1,73 @@
+{
+  "id": 874235411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.504412,44.199778,-72.504412,44.199778",
+    "geom:latitude":44.199778,
+    "geom:longitude":-72.504412,
+    "iso:country":"US",
+    "sg:address":"219 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0788",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "model",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zxo5fhDJD5KJy0FfIDn1D_44.199778_-72.504412@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313250,
+    "wof:geomhash":"2b0fb90628a6cdece8a680cf8127c501",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874235411
+        }
+    ],
+    "wof:id":874235411,
+    "wof:lastmodified":1464313250,
+    "wof:name":"Coins & Hobbies Shop",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "model",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.504412,
+    44.199778,
+    -72.504412,
+    44.199778
+],
+  "geometry": {"coordinates":[-72.504412,44.199778],"type":"Point"}
+}

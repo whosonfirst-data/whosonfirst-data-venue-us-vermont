@@ -1,0 +1,79 @@
+{
+  "id": 874137387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.051073,44.675357,-72.051073,44.675357",
+    "geom:latitude":44.675357,
+    "geom:longitude":-72.051073,
+    "iso:country":"US",
+    "sg:address":"3014 Underpass Rd",
+    "sg:city":"Sutton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 467 3949",
+    "sg:postcode":"05867",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420545825,
+        102191575,
+        404527549,
+        85633793,
+        101728271,
+        102080755,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eIlZVqhW4izi56ylekCgt_44.675357_-72.051073@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312212,
+    "wof:geomhash":"6ce3046c0e85c1ae7aa86e7985d3dfa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080755,
+            "localadmin_id":404527549,
+            "locality_id":101728271,
+            "neighbourhood_id":420545825,
+            "region_id":85688763,
+            "venue_id":874137387
+        }
+    ],
+    "wof:id":874137387,
+    "wof:lastmodified":1464312212,
+    "wof:name":"St Marie Trucking",
+    "wof:parent_id":420545825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.051073,
+    44.675357,
+    -72.051073,
+    44.675357
+],
+  "geometry": {"coordinates":[-72.051073,44.675357],"type":"Point"}
+}

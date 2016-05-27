@@ -1,0 +1,75 @@
+{
+  "id": 874067561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.522263,44.216321,-72.522263,44.216321",
+    "geom:latitude":44.216321,
+    "geom:longitude":-72.522263,
+    "iso:country":"US",
+    "sg:address":"130 Richardson Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4295",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "stone",
+        "cut",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63A6syUTjIn9vmM5sNZJlS_44.216321_-72.522263@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311403,
+    "wof:geomhash":"d4fdf650d637b687395be0e90668e572",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874067561
+        }
+    ],
+    "wof:id":874067561,
+    "wof:lastmodified":1464311403,
+    "wof:name":"Parker Granite Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone",
+        "cut",
+        "product"
+    ]
+},
+  "bbox": [
+    -72.522263,
+    44.216321,
+    -72.522263,
+    44.216321
+],
+  "geometry": {"coordinates":[-72.522263,44.216321],"type":"Point"}
+}

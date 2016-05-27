@@ -1,0 +1,76 @@
+{
+  "id": 874243993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.099341,43.25445,-73.099341,43.25445",
+    "geom:latitude":43.25445,
+    "geom:longitude":-73.099341,
+    "iso:country":"US",
+    "sg:address":"41 Church St",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 867 4225",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "sg:website":"www.dorsetgallery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YVJFui9V2kIyRCX4zE7iP_43.254450_-73.099341@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313412,
+    "wof:geomhash":"1104f28c711b4e36854f7f2312be7fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874243993
+        }
+    ],
+    "wof:id":874243993,
+    "wof:lastmodified":1464313412,
+    "wof:name":"Dorset Gallery",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.099341,
+    43.25445,
+    -73.099341,
+    43.25445
+],
+  "geometry": {"coordinates":[-73.099341,43.25445],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874039747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.415261,44.203563,-72.415261,44.203563",
+    "geom:latitude":44.203563,
+    "geom:longitude":-72.415261,
+    "iso:country":"US",
+    "sg:address":"824 Cutler Corner Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7914",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fwZ9rRsvWNrs0Z3vNJu6R_44.203563_-72.415261@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311141,
+    "wof:geomhash":"95466da904d39634be4734df757414eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874039747
+        }
+    ],
+    "wof:id":874039747,
+    "wof:lastmodified":1464311141,
+    "wof:name":"Cherokee Connections",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.415261,
+    44.203563,
+    -72.415261,
+    44.203563
+],
+  "geometry": {"coordinates":[-72.415261,44.203563],"type":"Point"}
+}

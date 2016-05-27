@@ -1,0 +1,71 @@
+{
+  "id": 874102017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.518898,44.252021,-72.518898,44.252021",
+    "geom:latitude":44.252021,
+    "geom:longitude":-72.518898,
+    "iso:country":"US",
+    "sg:address":"213 Schoolhouse Rd",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 276 3356",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YyH32xKYo2hoxMjFUOoS0_44.252021_-72.518898@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311818,
+    "wof:geomhash":"e2d6ce44cd2e05d0caf73f81e37945e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874102017
+        }
+    ],
+    "wof:id":874102017,
+    "wof:lastmodified":1464311818,
+    "wof:name":"Stone Road Post & Beam",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.518898,
+    44.252021,
+    -72.518898,
+    44.252021
+],
+  "geometry": {"coordinates":[-72.51889799999999,44.252021],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873984143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.009458,43.238484,-73.009458,43.238484",
+    "geom:latitude":43.238484,
+    "geom:longitude":-73.009458,
+    "iso:country":"US",
+    "sg:address":"341 Village St",
+    "sg:city":"East Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 1144",
+    "sg:postcode":"05253",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820639,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lQlxHGMTF5Jq0FH9sP2BW_43.238484_-73.009458@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310643,
+    "wof:geomhash":"ebc44c13ee74b49c97efda28460e445b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85820639,
+            "region_id":85688763,
+            "venue_id":873984143
+        }
+    ],
+    "wof:id":873984143,
+    "wof:lastmodified":1464310643,
+    "wof:name":"East Dorset Fire Dept",
+    "wof:parent_id":85820639,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.009458,
+    43.238484,
+    -73.009458,
+    43.238484
+],
+  "geometry": {"coordinates":[-73.009458,43.238484],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874114383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.967336,43.511528,-72.967336,43.511528",
+    "geom:latitude":43.511528,
+    "geom:longitude":-72.967336,
+    "iso:country":"US",
+    "sg:address":"277 Bump Rd",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 6852",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wllb1rsU74fRDE6HpIUWF_43.511528_-72.967336@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311981,
+    "wof:geomhash":"cf260ec7f4860123d195d8e7efed892a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874114383
+        }
+    ],
+    "wof:id":874114383,
+    "wof:lastmodified":1464311981,
+    "wof:name":"Jim C Gratton",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.967336,
+    43.511528,
+    -72.967336,
+    43.511528
+],
+  "geometry": {"coordinates":[-72.967336,43.511528],"type":"Point"}
+}

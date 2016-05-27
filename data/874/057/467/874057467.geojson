@@ -1,0 +1,73 @@
+{
+  "id": 874057467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.066036,43.785886,-73.066036,43.785886",
+    "geom:latitude":43.785886,
+    "geom:longitude":-73.066036,
+    "iso:country":"US",
+    "sg:address":"1819 Country Club Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 8806",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28UoQ0rz7cvXPVcoYGPZFP_43.785886_-73.066036@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311313,
+    "wof:geomhash":"b1c112d7ffadec1dc5af1619fc9414bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874057467
+        }
+    ],
+    "wof:id":874057467,
+    "wof:lastmodified":1464311313,
+    "wof:name":"Tjs Auto Repair",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -73.066036,
+    43.785886,
+    -73.066036,
+    43.785886
+],
+  "geometry": {"coordinates":[-73.066036,43.785886],"type":"Point"}
+}

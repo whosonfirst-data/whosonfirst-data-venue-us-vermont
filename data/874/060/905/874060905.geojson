@@ -1,0 +1,73 @@
+{
+  "id": 874060905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.56284,44.248979,-72.56284,44.248979",
+    "geom:latitude":44.248979,
+    "geom:longitude":-72.56284,
+    "iso:country":"US",
+    "sg:address":"169 River St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 5275",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OBnsaDi7BSyzsGxBkpip8_44.248979_-72.562840@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311343,
+    "wof:geomhash":"80141c6a2c3ea1ad9ce7ee866d71b4ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874060905
+        }
+    ],
+    "wof:id":874060905,
+    "wof:lastmodified":1464311343,
+    "wof:name":"WSKI",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -72.56284,
+    44.248979,
+    -72.56284,
+    44.248979
+],
+  "geometry": {"coordinates":[-72.56283999999999,44.248979],"type":"Point"}
+}

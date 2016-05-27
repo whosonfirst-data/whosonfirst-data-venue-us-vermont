@@ -1,0 +1,71 @@
+{
+  "id": 874248547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.513872,44.208116,-72.513872,44.208116",
+    "geom:latitude":44.208116,
+    "geom:longitude":-72.513872,
+    "iso:country":"US",
+    "sg:address":"542 US Hwy 302",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3662",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01AfYgCKjfOqeZ0GPJGy6L_44.208116_-72.513872@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313513,
+    "wof:geomhash":"4c039a9746cfdecb8a5948132b5bf8fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874248547
+        }
+    ],
+    "wof:id":874248547,
+    "wof:lastmodified":1464313513,
+    "wof:name":"Liberty Mutual Group",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -72.513872,
+    44.208116,
+    -72.513872,
+    44.208116
+],
+  "geometry": {"coordinates":[-72.51387200000001,44.208116],"type":"Point"}
+}

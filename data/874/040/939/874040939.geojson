@@ -1,0 +1,71 @@
+{
+  "id": 874040939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.511949,44.162592,-72.511949,44.162592",
+    "geom:latitude":44.162592,
+    "geom:longitude":-72.511949,
+    "iso:country":"US",
+    "sg:address":"590 S Barre Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3563",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22EmZS5pgR3Aei6jnHjL7r_44.162592_-72.511949@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311152,
+    "wof:geomhash":"641c690e5b7ee13542bb246db69ae2da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874040939
+        }
+    ],
+    "wof:id":874040939,
+    "wof:lastmodified":1464311152,
+    "wof:name":"D & D Smokehouse Deli",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -72.511949,
+    44.162592,
+    -72.511949,
+    44.162592
+],
+  "geometry": {"coordinates":[-72.511949,44.162592],"type":"Point"}
+}

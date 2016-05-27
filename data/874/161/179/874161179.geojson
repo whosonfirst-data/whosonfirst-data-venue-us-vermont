@@ -1,0 +1,69 @@
+{
+  "id": 874161179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.592486,44.554331,-72.592486,44.554331",
+    "geom:latitude":44.554331,
+    "geom:longitude":-72.592486,
+    "iso:country":"US",
+    "sg:address":"520 Washington Hwy",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 4635",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kjTbavf8RW1xy9OAq1btr_44.554331_-72.592486@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312444,
+    "wof:geomhash":"525a162b00962b3ae1697becced81861",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874161179
+        }
+    ],
+    "wof:id":874161179,
+    "wof:lastmodified":1464312444,
+    "wof:name":"Lamoille County Mental Health",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -72.592486,
+    44.554331,
+    -72.592486,
+    44.554331
+],
+  "geometry": {"coordinates":[-72.59248599999999,44.554331],"type":"Point"}
+}

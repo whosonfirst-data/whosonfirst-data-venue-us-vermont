@@ -1,0 +1,71 @@
+{
+  "id": 874141669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015907,44.435365,-72.015907,44.435365",
+    "geom:latitude":44.435365,
+    "geom:longitude":-72.015907,
+    "iso:country":"US",
+    "sg:address":"8 Memorial Dr",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8333",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "new",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jboUc7xO7uGaNbboDKrYP_44.435365_-72.015907@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312249,
+    "wof:geomhash":"2b1601d27dfb9c36eb907672e007ba75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874141669
+        }
+    ],
+    "wof:id":874141669,
+    "wof:lastmodified":1464312249,
+    "wof:name":"Gilmour Ford Chrysler",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "used"
+    ]
+},
+  "bbox": [
+    -72.015907,
+    44.435365,
+    -72.015907,
+    44.435365
+],
+  "geometry": {"coordinates":[-72.015907,44.435365],"type":"Point"}
+}

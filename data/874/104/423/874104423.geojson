@@ -1,0 +1,69 @@
+{
+  "id": 874104423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.560502,42.875813,-72.560502,42.875813",
+    "geom:latitude":42.875813,
+    "geom:longitude":-72.560502,
+    "iso:country":"US",
+    "sg:address":"96 Technology Dr",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 1151",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beverage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qe5mHpYpe89zVWtmgoKTN_42.875813_-72.560502@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311849,
+    "wof:geomhash":"0ff1fc53e7425d1e23d72d81058d5266",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874104423
+        }
+    ],
+    "wof:id":874104423,
+    "wof:lastmodified":1464311849,
+    "wof:name":"G Housen & Co Inc",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage"
+    ]
+},
+  "bbox": [
+    -72.560502,
+    42.875813,
+    -72.560502,
+    42.875813
+],
+  "geometry": {"coordinates":[-72.560502,42.875813],"type":"Point"}
+}

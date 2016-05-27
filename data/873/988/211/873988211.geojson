@@ -1,0 +1,74 @@
+{
+  "id": 873988211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.008968,44.607416,-73.008968,44.607416",
+    "geom:latitude":44.607416,
+    "geom:longitude":-73.008968,
+    "iso:country":"US",
+    "sg:address":"1659 State Rte 128",
+    "sg:city":"Westford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 9972",
+    "sg:postcode":"05494",
+    "sg:province":"VT",
+    "sg:tags":[
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818481,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63q3rf19X9VLS42j9WJAlX_44.607416_-73.008968@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310677,
+    "wof:geomhash":"60c43c700247f696d65fb7b518ca5de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85818481,
+            "region_id":85688763,
+            "venue_id":873988211
+        }
+    ],
+    "wof:id":873988211,
+    "wof:lastmodified":1464310677,
+    "wof:name":"Leap Coaching",
+    "wof:parent_id":85818481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement"
+    ]
+},
+  "bbox": [
+    -73.008968,
+    44.607416,
+    -73.008968,
+    44.607416
+],
+  "geometry": {"coordinates":[-73.008968,44.607416],"type":"Point"}
+}

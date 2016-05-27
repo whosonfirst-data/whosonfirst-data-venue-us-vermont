@@ -1,0 +1,71 @@
+{
+  "id": 874152647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180975,44.512017,-73.180975,44.512017",
+    "geom:latitude":44.512017,
+    "geom:longitude":-73.180975,
+    "iso:country":"US",
+    "sg:address":"402 Watertower Cir",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 9400",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04IlTZ21seBAaLaklmRKhR_44.512017_-73.180975@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312353,
+    "wof:geomhash":"602172ee35932c1e3c60895fc0f0532b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874152647
+        }
+    ],
+    "wof:id":874152647,
+    "wof:lastmodified":1464312353,
+    "wof:name":"V I P",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -73.180975,
+    44.512017,
+    -73.180975,
+    44.512017
+],
+  "geometry": {"coordinates":[-73.180975,44.512017],"type":"Point"}
+}

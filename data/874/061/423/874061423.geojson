@@ -1,0 +1,71 @@
+{
+  "id": 874061423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.495226,44.177205,-72.495226,44.177205",
+    "geom:latitude":44.177205,
+    "geom:longitude":-72.495226,
+    "iso:country":"US",
+    "sg:address":"254 Quarry Hill Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 8026",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R31w1mpLksGmrLf12H4dr_44.177205_-72.495226@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311348,
+    "wof:geomhash":"7106b56de91e22ceb15f62aceeea3b79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874061423
+        }
+    ],
+    "wof:id":874061423,
+    "wof:lastmodified":1464311348,
+    "wof:name":"Automotive Alternative",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -72.495226,
+    44.177205,
+    -72.495226,
+    44.177205
+],
+  "geometry": {"coordinates":[-72.495226,44.177205],"type":"Point"}
+}

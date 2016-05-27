@@ -1,0 +1,86 @@
+{
+  "id": 874010059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.498394,44.189526,-72.498394,44.189526",
+    "geom:latitude":44.189526,
+    "geom:longitude":-72.498394,
+    "iso:country":"US",
+    "sg:address":"131 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4146",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "industrial",
+        "apparatus",
+        "mfg",
+        "electrical",
+        "capacitor",
+        "electronic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24BjhXNof5OLK1FfQXdseW_44.189526_-72.498394@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310856,
+    "wof:geomhash":"6820d24667fff82c5ea83d793911c0a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874010059
+        }
+    ],
+    "wof:id":874010059,
+    "wof:lastmodified":1464310856,
+    "wof:name":"S B Electronics Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "apparatus",
+        "mfg",
+        "electrical",
+        "capacitor",
+        "electronic"
+    ]
+},
+  "bbox": [
+    -72.498394,
+    44.189526,
+    -72.498394,
+    44.189526
+],
+  "geometry": {"coordinates":[-72.498394,44.189526],"type":"Point"}
+}

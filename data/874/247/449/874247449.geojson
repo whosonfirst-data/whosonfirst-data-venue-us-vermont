@@ -1,0 +1,71 @@
+{
+  "id": 874247449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.973509,44.342696,-71.973509,44.342696",
+    "geom:latitude":44.342696,
+    "geom:longitude":-71.973509,
+    "iso:country":"US",
+    "sg:address":"80 Birch Tree Ln",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 2991",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "bulk",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1trh9be2JoRiv78V8qEh89_44.342696_-71.973509@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313481,
+    "wof:geomhash":"4433ba600b2f470a850467967ebfc809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874247449
+        }
+    ],
+    "wof:id":874247449,
+    "wof:lastmodified":1464313481,
+    "wof:name":"Up North Connections",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "station"
+    ]
+},
+  "bbox": [
+    -71.973509,
+    44.342696,
+    -71.973509,
+    44.342696
+],
+  "geometry": {"coordinates":[-71.97350900000001,44.342696],"type":"Point"}
+}

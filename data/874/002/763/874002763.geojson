@@ -1,0 +1,69 @@
+{
+  "id": 874002763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196208,42.894097,-73.196208,42.894097",
+    "geom:latitude":42.894097,
+    "geom:longitude":-73.196208,
+    "iso:country":"US",
+    "sg:address":"10 Kocher Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 000 1111",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k9rc7mV8PJQl8K8Ir0gPH_42.894097_-73.196208@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310789,
+    "wof:geomhash":"88965b1a322b9b463c6a0c8a1120e133",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874002763
+        }
+    ],
+    "wof:id":874002763,
+    "wof:lastmodified":1464310789,
+    "wof:name":"Aldi",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.196208,
+    42.894097,
+    -73.196208,
+    42.894097
+],
+  "geometry": {"coordinates":[-73.196208,42.894097],"type":"Point"}
+}

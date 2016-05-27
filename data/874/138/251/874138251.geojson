@@ -1,0 +1,71 @@
+{
+  "id": 874138251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.082236,43.214801,-73.082236,43.214801",
+    "geom:latitude":43.214801,
+    "geom:longitude":-73.082236,
+    "iso:country":"US",
+    "sg:address":"895 McNamara Rd",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 4638",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XQqRu0e9vqrHsSonpbc8n_43.214801_-73.082236@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312220,
+    "wof:geomhash":"7a8c3486f63cf27f1fce9b8f1d9f3231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874138251
+        }
+    ],
+    "wof:id":874138251,
+    "wof:lastmodified":1464312220,
+    "wof:name":"Thompson Knox Building Co",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.082236,
+    43.214801,
+    -73.082236,
+    43.214801
+],
+  "geometry": {"coordinates":[-73.08223599999999,43.214801],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873984453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214195,44.478141,-73.214195,44.478141",
+    "geom:latitude":44.478141,
+    "geom:longitude":-73.214195,
+    "iso:country":"US",
+    "sg:address":"100 Bank St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 4170",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "sg:website":"www.dwight.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41jn9Cr42agQI9CwNLKWrE_44.478141_-73.214195@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310646,
+    "wof:geomhash":"ec74d35dd3c052e4e5de05d80ef70a11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873984453
+        }
+    ],
+    "wof:id":873984453,
+    "wof:lastmodified":1464310646,
+    "wof:name":"Dwight Asset Management Co",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -73.214195,
+    44.478141,
+    -73.214195,
+    44.478141
+],
+  "geometry": {"coordinates":[-73.214195,44.478141],"type":"Point"}
+}

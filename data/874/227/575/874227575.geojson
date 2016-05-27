@@ -1,0 +1,77 @@
+{
+  "id": 874227575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.061091,43.140656,-73.061091,43.140656",
+    "geom:latitude":43.140656,
+    "geom:longitude":-73.061091,
+    "iso:country":"US",
+    "sg:address":"591 Richville Rd",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 3620",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832067,
+        102191575,
+        404527469,
+        85633793,
+        101728291,
+        102087439,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12Bms4lRA4ddW0NsAaPA3F_43.140656_-73.061091@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313136,
+    "wof:geomhash":"a021db70bd1b434ed8c1ab2b51b84a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087439,
+            "localadmin_id":404527469,
+            "locality_id":101728291,
+            "neighbourhood_id":85832067,
+            "region_id":85688763,
+            "venue_id":874227575
+        }
+    ],
+    "wof:id":874227575,
+    "wof:lastmodified":1464313136,
+    "wof:name":"Bob's Car Corral",
+    "wof:parent_id":85832067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.061091,
+    43.140656,
+    -73.061091,
+    43.140656
+],
+  "geometry": {"coordinates":[-73.061091,43.140656],"type":"Point"}
+}

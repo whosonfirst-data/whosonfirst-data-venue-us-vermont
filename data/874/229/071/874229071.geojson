@@ -1,0 +1,71 @@
+{
+  "id": 874229071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.859853,43.849852,-72.859853,43.849852",
+    "geom:latitude":43.849852,
+    "geom:longitude":-72.859853,
+    "iso:country":"US",
+    "sg:address":"3425 Brandon Mountain Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 767 3731",
+    "sg:postcode":"05767",
+    "sg:province":"VT",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845271,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d5esLUhkHQUwMqFIWaVOD_43.849852_-72.859853@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313151,
+    "wof:geomhash":"e7d348aac0f41b56e353a58271ce90f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85845271,
+            "region_id":85688763,
+            "venue_id":874229071
+        }
+    ],
+    "wof:id":874229071,
+    "wof:lastmodified":1464313151,
+    "wof:name":"Mom & Pops Wrlds Best VT Maple",
+    "wof:parent_id":85845271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.859853,
+    43.849852,
+    -72.859853,
+    43.849852
+],
+  "geometry": {"coordinates":[-72.859853,43.849852],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874213405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.20573,44.479262,-73.20573,44.479262",
+    "geom:latitude":44.479262,
+    "geom:longitude":-73.20573,
+    "iso:country":"US",
+    "sg:address":"3 S Willard St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 6964",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I33deDC5UsswTosZzhbkn_44.479262_-73.205730@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312988,
+    "wof:geomhash":"69edaa16500a2b270ca67bd90233645a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874213405
+        }
+    ],
+    "wof:id":874213405,
+    "wof:lastmodified":1464312988,
+    "wof:name":"Denise A Verleur MD PC",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.20573,
+    44.479262,
+    -73.20573,
+    44.479262
+],
+  "geometry": {"coordinates":[-73.20573,44.479262],"type":"Point"}
+}

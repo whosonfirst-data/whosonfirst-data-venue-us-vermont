@@ -1,0 +1,75 @@
+{
+  "id": 874069379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111901,44.624321,-73.111901,44.624321",
+    "geom:latitude":44.624321,
+    "geom:longitude":-73.111901,
+    "iso:country":"US",
+    "sg:address":"17 McMullen Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 6303",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420545841,
+        102191575,
+        404527495,
+        85633793,
+        101728445,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KxD30Xm6U4ijCTlxxzqpn_44.624321_-73.111901@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311426,
+    "wof:geomhash":"158a324bbc8d50a89d59c8b483340538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527495,
+            "locality_id":101728445,
+            "neighbourhood_id":420545841,
+            "region_id":85688763,
+            "venue_id":874069379
+        }
+    ],
+    "wof:id":874069379,
+    "wof:lastmodified":1464311426,
+    "wof:name":"Ben's Trucking",
+    "wof:parent_id":420545841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.111901,
+    44.624321,
+    -73.111901,
+    44.624321
+],
+  "geometry": {"coordinates":[-73.111901,44.624321],"type":"Point"}
+}

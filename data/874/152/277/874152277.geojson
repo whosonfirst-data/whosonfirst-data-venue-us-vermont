@@ -1,0 +1,73 @@
+{
+  "id": 874152277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.179332,44.457983,-73.179332,44.457983",
+    "geom:latitude":44.457983,
+    "geom:longitude":-73.179332,
+    "iso:country":"US",
+    "sg:address":"16 San Remo Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 8653",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10lTpmFRNgC0ZZF2vHczwC_44.457983_-73.179332@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312349,
+    "wof:geomhash":"41052fcd97bb7553bcec6e63714bff1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874152277
+        }
+    ],
+    "wof:id":874152277,
+    "wof:lastmodified":1464312349,
+    "wof:name":"Bouchard & Sons Garage Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.179332,
+    44.457983,
+    -73.179332,
+    44.457983
+],
+  "geometry": {"coordinates":[-73.179332,44.457983],"type":"Point"}
+}

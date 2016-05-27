@@ -1,0 +1,71 @@
+{
+  "id": 874184939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.98325,43.60373,-72.98325,43.60373",
+    "geom:latitude":43.60373,
+    "geom:longitude":-72.98325,
+    "iso:country":"US",
+    "sg:address":"56 Cherry St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4104",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Id9OIj9YRltT4b7nzBH7p_43.603730_-72.983250@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312691,
+    "wof:geomhash":"1d5402825b4236583326e02903620669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874184939
+        }
+    ],
+    "wof:id":874184939,
+    "wof:lastmodified":1464312691,
+    "wof:name":"Mixed Media",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.98325,
+    43.60373,
+    -72.98325,
+    43.60373
+],
+  "geometry": {"coordinates":[-72.98325,43.60373],"type":"Point"}
+}

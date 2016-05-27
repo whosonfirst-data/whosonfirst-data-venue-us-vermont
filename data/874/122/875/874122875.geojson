@@ -1,0 +1,78 @@
+{
+  "id": 874122875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.089554,44.08627,-73.089554,44.08627",
+    "geom:latitude":44.08627,
+    "geom:longitude":-73.089554,
+    "iso:country":"US",
+    "sg:address":"3205 State Rte 116",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2871",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RdA9dq3lHHeYkKs9RqGG2_44.086270_-73.089554@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312067,
+    "wof:geomhash":"e6d284712c5505d5e444c84e8178f073",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874122875
+        }
+    ],
+    "wof:id":874122875,
+    "wof:lastmodified":1464312067,
+    "wof:name":"Redline Repair",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.089554,
+    44.08627,
+    -73.089554,
+    44.08627
+],
+  "geometry": {"coordinates":[-73.08955400000001,44.08627],"type":"Point"}
+}

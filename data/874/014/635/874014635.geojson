@@ -1,0 +1,73 @@
+{
+  "id": 874014635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.441254,44.21674,-72.441254,44.21674",
+    "geom:latitude":44.21674,
+    "geom:longitude":-72.441254,
+    "iso:country":"US",
+    "sg:address":"39 Curtis Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6473",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DOT5Si8H0mcvA7RsKK8da_44.216740_-72.441254@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310888,
+    "wof:geomhash":"623265a6d6c27d75108c820f05c2a7b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874014635
+        }
+    ],
+    "wof:id":874014635,
+    "wof:lastmodified":1464310888,
+    "wof:name":"Rogers Bros Contractors",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.441254,
+    44.21674,
+    -72.441254,
+    44.21674
+],
+  "geometry": {"coordinates":[-72.441254,44.21674],"type":"Point"}
+}

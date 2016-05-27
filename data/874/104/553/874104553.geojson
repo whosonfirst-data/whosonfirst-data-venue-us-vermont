@@ -1,0 +1,69 @@
+{
+  "id": 874104553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.860178,43.469219,-72.860178,43.469219",
+    "geom:latitude":43.469219,
+    "geom:longitude":-72.860178,
+    "iso:country":"US",
+    "sg:address":"2204 Old Turnpike Rd",
+    "sg:city":"Mount Holly",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 259 2867",
+    "sg:postcode":"05758",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AVzX4PwSRRBt21L6fThVQ_43.469219_-72.860178@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311851,
+    "wof:geomhash":"b3b49698edb64f21d184116c87e95ea3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874104553
+        }
+    ],
+    "wof:id":874104553,
+    "wof:lastmodified":1464311851,
+    "wof:name":"Charles A Garrow Construction",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.860178,
+    43.469219,
+    -72.860178,
+    43.469219
+],
+  "geometry": {"coordinates":[-72.860178,43.469219],"type":"Point"}
+}

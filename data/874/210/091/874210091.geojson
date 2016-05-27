@@ -1,0 +1,71 @@
+{
+  "id": 874210091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.12554,44.432755,-73.12554,44.432755",
+    "geom:latitude":44.432755,
+    "geom:longitude":-73.12554,
+    "iso:country":"US",
+    "sg:address":"42 Walker Hill Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 6645",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "builder",
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YNLYuXQUOC6qu0E3Bhllh_44.432755_-73.125540@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312950,
+    "wof:geomhash":"971142c46e8a52bbe50424cf8d84054f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874210091
+        }
+    ],
+    "wof:id":874210091,
+    "wof:lastmodified":1464312950,
+    "wof:name":"Vermont Sun Structures",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -73.12554,
+    44.432755,
+    -73.12554,
+    44.432755
+],
+  "geometry": {"coordinates":[-73.12554,44.432755],"type":"Point"}
+}

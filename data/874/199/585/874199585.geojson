@@ -1,0 +1,69 @@
+{
+  "id": 874199585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.252719,44.167426,-73.252719,44.167426",
+    "geom:latitude":44.167426,
+    "geom:longitude":-73.252719,
+    "iso:country":"US",
+    "sg:address":"5 S Maple St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 0015",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79Ocz2I44GD9RtE3bo099O_44.167426_-73.252719@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312839,
+    "wof:geomhash":"38a3fa0e153b236c309e2fd31da97558",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874199585
+        }
+    ],
+    "wof:id":874199585,
+    "wof:lastmodified":1464312839,
+    "wof:name":"City Barber Shop",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.252719,
+    44.167426,
+    -73.252719,
+    44.167426
+],
+  "geometry": {"coordinates":[-73.252719,44.167426],"type":"Point"}
+}

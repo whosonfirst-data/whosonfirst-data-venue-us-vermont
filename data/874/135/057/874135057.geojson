@@ -1,0 +1,71 @@
+{
+  "id": 874135057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.429159,43.655129,-72.429159,43.655129",
+    "geom:latitude":43.655129,
+    "geom:longitude":-72.429159,
+    "iso:country":"US",
+    "sg:address":"2029 Quechee Main St",
+    "sg:city":"Quechee",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 1111",
+    "sg:postcode":"05059",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5humIHThAMi4yLZoXCW0QV_43.655129_-72.429159@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312191,
+    "wof:geomhash":"573edfd4997b4bfb498909be656b1482",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874135057
+        }
+    ],
+    "wof:id":874135057,
+    "wof:lastmodified":1464312191,
+    "wof:name":"John F Campbell Law Office",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -72.429159,
+    43.655129,
+    -72.429159,
+    43.655129
+],
+  "geometry": {"coordinates":[-72.429159,43.655129],"type":"Point"}
+}

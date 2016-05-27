@@ -1,0 +1,69 @@
+{
+  "id": 874156591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.999993,44.419755,-71.999993,44.419755",
+    "geom:latitude":44.419755,
+    "geom:longitude":-71.999993,
+    "iso:country":"US",
+    "sg:address":"115 Lincoln St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3201",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zQaAPwwUypoycNvn2wOIq_44.419755_-71.999993@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312395,
+    "wof:geomhash":"65f3370d133411209b70169f6521bad1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874156591
+        }
+    ],
+    "wof:id":874156591,
+    "wof:lastmodified":1464312395,
+    "wof:name":"St Johnsbury Chld Fmly Dev Prg",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.999993,
+    44.419755,
+    -71.999993,
+    44.419755
+],
+  "geometry": {"coordinates":[-71.999993,44.419755],"type":"Point"}
+}

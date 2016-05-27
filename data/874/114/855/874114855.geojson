@@ -1,0 +1,71 @@
+{
+  "id": 874114855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21462,44.449581,-73.21462,44.449581",
+    "geom:latitude":44.449581,
+    "geom:longitude":-73.21462,
+    "iso:country":"US",
+    "sg:address":"1027 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 8299",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WHey7q5T5CSpdJ4lS2JvJ_44.449581_-73.214620@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311985,
+    "wof:geomhash":"23c2ae2d64b1003aac87f3bda7807e24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874114855
+        }
+    ],
+    "wof:id":874114855,
+    "wof:lastmodified":1464311985,
+    "wof:name":"Alan Jakubek Photography",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -73.21462,
+    44.449581,
+    -73.21462,
+    44.449581
+],
+  "geometry": {"coordinates":[-73.21462,44.449581],"type":"Point"}
+}

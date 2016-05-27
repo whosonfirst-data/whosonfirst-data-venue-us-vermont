@@ -1,0 +1,71 @@
+{
+  "id": 874152453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.176526,42.944781,-73.176526,42.944781",
+    "geom:latitude":42.944781,
+    "geom:longitude":-73.176526,
+    "iso:country":"US",
+    "sg:address":"1038 East Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 7408",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mGhJYw5dRShHqfSfpa5pk_42.944781_-73.176526@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312351,
+    "wof:geomhash":"810788559f15a1b569b4a8094d3c860d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874152453
+        }
+    ],
+    "wof:id":874152453,
+    "wof:lastmodified":1464312351,
+    "wof:name":"Peterson Electric",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.176526,
+    42.944781,
+    -73.176526,
+    42.944781
+],
+  "geometry": {"coordinates":[-73.176526,42.944781],"type":"Point"}
+}

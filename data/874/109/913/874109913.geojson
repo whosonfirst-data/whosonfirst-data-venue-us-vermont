@@ -1,0 +1,69 @@
+{
+  "id": 874109913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.34658,44.672325,-73.34658,44.672325",
+    "geom:latitude":44.672325,
+    "geom:longitude":-73.34658,
+    "iso:country":"US",
+    "sg:address":"550 W Shore Rd",
+    "sg:city":"South Hero",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 372 6551",
+    "sg:postcode":"05486",
+    "sg:province":"VT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85822321,
+        102080783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jqUsbB8n7IzBgUdB1iMW8_44.672325_-73.346580@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311918,
+    "wof:geomhash":"6f5f3f1ad45464fef778c5ac6cfbef9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080783,
+            "neighbourhood_id":85822321,
+            "region_id":85688763,
+            "venue_id":874109913
+        }
+    ],
+    "wof:id":874109913,
+    "wof:lastmodified":1464311918,
+    "wof:name":"Island Taxi",
+    "wof:parent_id":85822321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -73.34658,
+    44.672325,
+    -73.34658,
+    44.672325
+],
+  "geometry": {"coordinates":[-73.34658,44.672325],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874166951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21845,44.479212,-73.21845,44.479212",
+    "geom:latitude":44.479212,
+    "geom:longitude":-73.21845,
+    "iso:country":"US",
+    "sg:address":"50 Cherry St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 7350",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "correctional",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C1spgyKsThkaOOhYercL7_44.479212_-73.218450@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312497,
+    "wof:geomhash":"7f8358b8264b3540896fc0c47cd33d09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874166951
+        }
+    ],
+    "wof:id":874166951,
+    "wof:lastmodified":1464312497,
+    "wof:name":"Community Correctional Svc Ctr",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "facility"
+    ]
+},
+  "bbox": [
+    -73.21845,
+    44.479212,
+    -73.21845,
+    44.479212
+],
+  "geometry": {"coordinates":[-73.21845,44.479212],"type":"Point"}
+}

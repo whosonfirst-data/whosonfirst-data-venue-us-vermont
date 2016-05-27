@@ -1,0 +1,71 @@
+{
+  "id": 874008811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.449472,43.412473,-72.449472,43.412473",
+    "geom:latitude":43.412473,
+    "geom:longitude":-72.449472,
+    "iso:country":"US",
+    "sg:address":"26 Wheeler Camp Rd",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 9696",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NCkll9tCuzmXUdJY1GsfL_43.412473_-72.449472@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310847,
+    "wof:geomhash":"3f034250c5f400e8af38a57464dba41a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874008811
+        }
+    ],
+    "wof:id":874008811,
+    "wof:lastmodified":1464310847,
+    "wof:name":"Ascutney Electrical Inc",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.449472,
+    43.412473,
+    -72.449472,
+    43.412473
+],
+  "geometry": {"coordinates":[-72.449472,43.412473],"type":"Point"}
+}

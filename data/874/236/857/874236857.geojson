@@ -1,0 +1,69 @@
+{
+  "id": 874236857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.084657,44.751507,-73.084657,44.751507",
+    "geom:latitude":44.751507,
+    "geom:longitude":-73.084657,
+    "iso:country":"US",
+    "sg:address":"2437 Oakland Station Rd",
+    "sg:city":"Saint Albans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 7063",
+    "sg:postcode":"05478",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838983,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uGZ0rBsTL4OmozRm5OAzt_44.751507_-73.084657@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313280,
+    "wof:geomhash":"6673dc46d4144cbac69f2db42eef1995",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85838983,
+            "region_id":85688763,
+            "venue_id":874236857
+        }
+    ],
+    "wof:id":874236857,
+    "wof:lastmodified":1464313280,
+    "wof:name":"JB Stone Company Inc",
+    "wof:parent_id":85838983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.084657,
+    44.751507,
+    -73.084657,
+    44.751507
+],
+  "geometry": {"coordinates":[-73.08465700000001,44.751507],"type":"Point"}
+}

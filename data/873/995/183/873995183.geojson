@@ -1,0 +1,71 @@
+{
+  "id": 873995183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209092,42.898951,-73.209092,42.898951",
+    "geom:latitude":42.898951,
+    "geom:longitude":-73.209092,
+    "iso:country":"US",
+    "sg:address":"210 Northside Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 6949",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M5EKavIEqs6esgeUvPvij_42.898951_-73.209092@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310727,
+    "wof:geomhash":"6822a8850da9f3c10b5fcc46542c642b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873995183
+        }
+    ],
+    "wof:id":873995183,
+    "wof:lastmodified":1464310727,
+    "wof:name":"B V Nails",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -73.209092,
+    42.898951,
+    -73.209092,
+    42.898951
+],
+  "geometry": {"coordinates":[-73.209092,42.898951],"type":"Point"}
+}

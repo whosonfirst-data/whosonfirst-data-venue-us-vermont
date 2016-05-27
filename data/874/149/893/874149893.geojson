@@ -1,0 +1,69 @@
+{
+  "id": 874149893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.573728,42.85149,-72.573728,42.85149",
+    "geom:latitude":42.85149,
+    "geom:longitude":-72.573728,
+    "iso:country":"US",
+    "sg:address":"55 Western Ave",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 3305",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Er5CPKxeUQWRB98ni4KmF_42.851490_-72.573728@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312328,
+    "wof:geomhash":"d7943e562556ee75eab24c3695775edc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874149893
+        }
+    ],
+    "wof:id":874149893,
+    "wof:lastmodified":1464312328,
+    "wof:name":"Neurofeedback Of S Vt",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -72.573728,
+    42.85149,
+    -72.573728,
+    42.85149
+],
+  "geometry": {"coordinates":[-72.573728,42.85149],"type":"Point"}
+}

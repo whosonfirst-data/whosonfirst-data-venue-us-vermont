@@ -1,0 +1,70 @@
+{
+  "id": 874256043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977654,43.601929,-72.977654,43.601929",
+    "geom:latitude":43.601929,
+    "geom:longitude":-72.977654,
+    "iso:country":"US",
+    "sg:address":"118 Post St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4356",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "railroad"
+    ],
+    "sg:website":"http://www.vtrz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78XRwCn5uiJMhw7lX4nvk7_43.601929_-72.977654@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313697,
+    "wof:geomhash":"4774d1851d41723cafac4e6f0bc0441c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874256043
+        }
+    ],
+    "wof:id":874256043,
+    "wof:lastmodified":1464313697,
+    "wof:name":"Clarendon & Pittsford",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad"
+    ]
+},
+  "bbox": [
+    -72.977654,
+    43.601929,
+    -72.977654,
+    43.601929
+],
+  "geometry": {"coordinates":[-72.977654,43.601929],"type":"Point"}
+}

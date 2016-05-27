@@ -1,0 +1,77 @@
+{
+  "id": 874183505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.461723,44.147583,-72.461723,44.147583",
+    "geom:latitude":44.147583,
+    "geom:longitude":-72.461723,
+    "iso:country":"US",
+    "sg:address":"26 Terry Ct",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 828 2464",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "division",
+        "election"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853237,
+        102191575,
+        404527421,
+        85633793,
+        101728527,
+        102080779,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J58C5wxFMN5vTs2q0ceI6_44.147583_-72.461723@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312671,
+    "wof:geomhash":"ab27840016e74be3013b1181faee2a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080779,
+            "localadmin_id":404527421,
+            "locality_id":101728527,
+            "neighbourhood_id":85853237,
+            "region_id":85688763,
+            "venue_id":874183505
+        }
+    ],
+    "wof:id":874183505,
+    "wof:lastmodified":1464312671,
+    "wof:name":"Office of Elections",
+    "wof:parent_id":85853237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "division",
+        "election"
+    ]
+},
+  "bbox": [
+    -72.461723,
+    44.147583,
+    -72.461723,
+    44.147583
+],
+  "geometry": {"coordinates":[-72.46172300000001,44.147583],"type":"Point"}
+}

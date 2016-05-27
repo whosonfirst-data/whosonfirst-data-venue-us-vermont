@@ -1,0 +1,78 @@
+{
+  "id": 874098921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.18231,44.515603,-73.18231,44.515603",
+    "geom:latitude":44.515603,
+    "geom:longitude":-73.18231,
+    "iso:country":"US",
+    "sg:address":"113 Acorn Ln",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 654 7770",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "material",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0COCY22sunEqez0OmHpskX_44.515603_-73.182310@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311770,
+    "wof:geomhash":"60e64f9c3d38695c2a5af94078c7d2ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874098921
+        }
+    ],
+    "wof:id":874098921,
+    "wof:lastmodified":1464311770,
+    "wof:name":"Crowley Floors Inc",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.18231,
+    44.515603,
+    -73.18231,
+    44.515603
+],
+  "geometry": {"coordinates":[-73.18231,44.515603],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874193307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.962459,43.611328,-72.962459,43.611328",
+    "geom:latitude":43.611328,
+    "geom:longitude":-72.962459,
+    "iso:country":"US",
+    "sg:address":"20 Rutland St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 774 2800",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wsGv9yvZyz5xE9DJK54kv_43.611328_-72.962459@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312773,
+    "wof:geomhash":"272cf81571bc02452e5fccd30c464d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874193307
+        }
+    ],
+    "wof:id":874193307,
+    "wof:lastmodified":1464312773,
+    "wof:name":"Wireless For Less",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -72.962459,
+    43.611328,
+    -72.962459,
+    43.611328
+],
+  "geometry": {"coordinates":[-72.962459,43.611328],"type":"Point"}
+}

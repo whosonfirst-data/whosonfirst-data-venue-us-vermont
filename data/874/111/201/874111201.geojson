@@ -1,0 +1,73 @@
+{
+  "id": 874111201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.526361,44.213513,-72.526361,44.213513",
+    "geom:latitude":44.213513,
+    "geom:longitude":-72.526361,
+    "iso:country":"US",
+    "sg:address":"955 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2289",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "camping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tlgfpf04CBMLF1y69Ofpj_44.213513_-72.526361@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311944,
+    "wof:geomhash":"df2b710681f110b1c23703dadaa2919d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874111201
+        }
+    ],
+    "wof:id":874111201,
+    "wof:lastmodified":1464311944,
+    "wof:name":"Barre Army Navy Store",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "camping"
+    ]
+},
+  "bbox": [
+    -72.526361,
+    44.213513,
+    -72.526361,
+    44.213513
+],
+  "geometry": {"coordinates":[-72.52636099999999,44.213513],"type":"Point"}
+}

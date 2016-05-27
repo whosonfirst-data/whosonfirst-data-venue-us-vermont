@@ -1,0 +1,73 @@
+{
+  "id": 874230203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.190007,44.504377,-73.190007,44.504377",
+    "geom:latitude":44.504377,
+    "geom:longitude":-73.190007,
+    "iso:country":"US",
+    "sg:address":"88 Cedar St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 4656",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "retail",
+        "direct",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52C2zIssAL4TJRNaOStN1s_44.504377_-73.190007@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313162,
+    "wof:geomhash":"320fed3c511233c785063986ae4cfd06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874230203
+        }
+    ],
+    "wof:id":874230203,
+    "wof:lastmodified":1464313162,
+    "wof:name":"Bread & Dough LTD",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retail",
+        "direct",
+        "sales"
+    ]
+},
+  "bbox": [
+    -73.190007,
+    44.504377,
+    -73.190007,
+    44.504377
+],
+  "geometry": {"coordinates":[-73.19000699999999,44.504377],"type":"Point"}
+}

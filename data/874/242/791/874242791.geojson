@@ -1,0 +1,71 @@
+{
+  "id": 874242791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.391353,44.257305,-72.391353,44.257305",
+    "geom:latitude":44.257305,
+    "geom:longitude":-72.391353,
+    "iso:country":"US",
+    "sg:address":"2099 E Hill Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 454 9937",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AG0tIeaMtnmEkaZjGSqLp_44.257305_-72.391353@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313391,
+    "wof:geomhash":"221869a041dbf956edc4546497bc421f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874242791
+        }
+    ],
+    "wof:id":874242791,
+    "wof:lastmodified":1464313391,
+    "wof:name":"Roberts Adjustments",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -72.391353,
+    44.257305,
+    -72.391353,
+    44.257305
+],
+  "geometry": {"coordinates":[-72.391353,44.257305],"type":"Point"}
+}

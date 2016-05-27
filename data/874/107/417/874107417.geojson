@@ -1,0 +1,74 @@
+{
+  "id": 874107417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.095101,43.807383,-73.095101,43.807383",
+    "geom:latitude":43.807383,
+    "geom:longitude":-73.095101,
+    "iso:country":"US",
+    "sg:address":"16 Mount Pleasant Dr",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 6401",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "sg:website":"www.brandon.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sbJoZzrsmx1h3pVBRdBcT_43.807383_-73.095101@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311887,
+    "wof:geomhash":"b9db24df8b4bf4119560e7c588122ff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874107417
+        }
+    ],
+    "wof:id":874107417,
+    "wof:lastmodified":1464311887,
+    "wof:name":"Brandon Chamber Of Commerce",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -73.095101,
+    43.807383,
+    -73.095101,
+    43.807383
+],
+  "geometry": {"coordinates":[-73.095101,43.807383],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874126153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.37017,43.660076,-72.37017,43.660076",
+    "geom:latitude":43.660076,
+    "geom:longitude":-72.37017,
+    "iso:country":"US",
+    "sg:address":"398 Valley View Rd",
+    "sg:city":"White River Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 296 2047",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810161,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77IA2pB4PeIjeiuVE7UdI7_43.660076_-72.370170@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312095,
+    "wof:geomhash":"00aa6cf5918980dc8cb119165f2a5aa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85810161,
+            "region_id":85688763,
+            "venue_id":874126153
+        }
+    ],
+    "wof:id":874126153,
+    "wof:lastmodified":1464312095,
+    "wof:name":"Bd Carpentry Inc",
+    "wof:parent_id":85810161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.37017,
+    43.660076,
+    -72.37017,
+    43.660076
+],
+  "geometry": {"coordinates":[-72.37017,43.660076],"type":"Point"}
+}

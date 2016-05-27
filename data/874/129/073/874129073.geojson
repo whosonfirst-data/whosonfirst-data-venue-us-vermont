@@ -1,0 +1,73 @@
+{
+  "id": 874129073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.258947,44.378403,-72.258947,44.378403",
+    "geom:latitude":44.378403,
+    "geom:longitude":-72.258947,
+    "iso:country":"US",
+    "sg:address":"2427 US Hwy 2",
+    "sg:city":"Cabot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3388",
+    "sg:postcode":"05647",
+    "sg:province":"VT",
+    "sg:tags":[
+        "preparation",
+        "syrup",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849525,
+        102080779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tskNIRVIg3ht287IaHhQu_44.378403_-72.258947@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312122,
+    "wof:geomhash":"eef1606c223f319c9b6d90d5e44e35c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "neighbourhood_id":85849525,
+            "region_id":85688763,
+            "venue_id":874129073
+        }
+    ],
+    "wof:id":874129073,
+    "wof:lastmodified":1464312122,
+    "wof:name":"Goodrich's Maple Farm",
+    "wof:parent_id":85849525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "syrup",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.258947,
+    44.378403,
+    -72.258947,
+    44.378403
+],
+  "geometry": {"coordinates":[-72.25894700000001,44.378403],"type":"Point"}
+}

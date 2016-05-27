@@ -1,0 +1,92 @@
+{
+  "id": 874252355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.550903,42.895908,-72.550903,42.895908",
+    "geom:latitude":42.895908,
+    "geom:longitude":-72.550903,
+    "iso:country":"US",
+    "sg:address":"1568 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 6063",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "ale",
+        "bottler",
+        "beverages-distributors",
+        "companies-bottled",
+        "broker",
+        "bulk",
+        "beer"
+    ],
+    "sg:website":"http://www.ghousen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g3JzJrRs2wPYgWcMWUyug_42.895908_-72.550903@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313612,
+    "wof:geomhash":"4e62feb3cca8863f08979ddd24975780",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874252355
+        }
+    ],
+    "wof:id":874252355,
+    "wof:lastmodified":1464313612,
+    "wof:name":"Duwitt Beverage",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale",
+        "bottler",
+        "beverages-distributors",
+        "companies-bottled",
+        "broker",
+        "bulk",
+        "beer"
+    ]
+},
+  "bbox": [
+    -72.550903,
+    42.895908,
+    -72.550903,
+    42.895908
+],
+  "geometry": {"coordinates":[-72.55090300000001,42.895908],"type":"Point"}
+}

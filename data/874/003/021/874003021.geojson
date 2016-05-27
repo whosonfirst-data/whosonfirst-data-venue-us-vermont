@@ -1,0 +1,71 @@
+{
+  "id": 874003021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.829836,44.068336,-72.829836,44.068336",
+    "geom:latitude":44.068336,
+    "geom:longitude":-72.829836,
+    "iso:country":"US",
+    "sg:address":"321 Maple St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 496 2941",
+    "sg:postcode":"05674",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G4Z9LnopnbSixCBhiigUt_44.068336_-72.829836@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310792,
+    "wof:geomhash":"bf3e63dc2afc01f41c6ac58e0109178a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874003021
+        }
+    ],
+    "wof:id":874003021,
+    "wof:lastmodified":1464310792,
+    "wof:name":"Gary Bombard Building",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.829836,
+    44.068336,
+    -72.829836,
+    44.068336
+],
+  "geometry": {"coordinates":[-72.829836,44.068336],"type":"Point"}
+}

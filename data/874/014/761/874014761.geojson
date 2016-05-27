@@ -1,0 +1,71 @@
+{
+  "id": 874014761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.488697,44.195642,-72.488697,44.195642",
+    "geom:latitude":44.195642,
+    "geom:longitude":-72.488697,
+    "iso:country":"US",
+    "sg:address":"25 Delmont Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5276",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ePtGj83SrFDNSzwUReogY_44.195642_-72.488697@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310889,
+    "wof:geomhash":"ac03cdefa9a0ed4c9c21e12edc13a9f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874014761
+        }
+    ],
+    "wof:id":874014761,
+    "wof:lastmodified":1464310889,
+    "wof:name":"Gaylord Studios",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gallery"
+    ]
+},
+  "bbox": [
+    -72.488697,
+    44.195642,
+    -72.488697,
+    44.195642
+],
+  "geometry": {"coordinates":[-72.488697,44.195642],"type":"Point"}
+}

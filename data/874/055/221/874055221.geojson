@@ -1,0 +1,69 @@
+{
+  "id": 874055221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.965596,43.61303,-72.965596,43.61303",
+    "geom:latitude":43.61303,
+    "geom:longitude":-72.965596,
+    "iso:country":"US",
+    "sg:address":"76 Woodstock Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 9212",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fZ775a95tLoQo9w0m8Fhh_43.613030_-72.965596@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311294,
+    "wof:geomhash":"b3ebbf97566976c9cd32a12a266d6b02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874055221
+        }
+    ],
+    "wof:id":874055221,
+    "wof:lastmodified":1464311294,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -72.965596,
+    43.61303,
+    -72.965596,
+    43.61303
+],
+  "geometry": {"coordinates":[-72.96559600000001,43.61303],"type":"Point"}
+}

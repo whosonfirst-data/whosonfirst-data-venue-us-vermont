@@ -1,0 +1,70 @@
+{
+  "id": 874054315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.993267,44.40477,-72.993267,44.40477",
+    "geom:latitude":44.40477,
+    "geom:longitude":-72.993267,
+    "iso:country":"US",
+    "sg:address":"39 Bridge St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 4122",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "farm"
+    ],
+    "sg:website":"www.nofavt.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57E5LimLTIBmJnXPdRyKb8_44.404770_-72.993267@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311281,
+    "wof:geomhash":"ec859705fe0b56f52d1c8a62d2f0c6c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874054315
+        }
+    ],
+    "wof:id":874054315,
+    "wof:lastmodified":1464311281,
+    "wof:name":"Northeast Organic Farming Assn",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm"
+    ]
+},
+  "bbox": [
+    -72.993267,
+    44.40477,
+    -72.993267,
+    44.40477
+],
+  "geometry": {"coordinates":[-72.993267,44.40477],"type":"Point"}
+}

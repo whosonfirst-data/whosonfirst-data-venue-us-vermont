@@ -1,0 +1,69 @@
+{
+  "id": 873993241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.202704,42.849685,-73.202704,42.849685",
+    "geom:latitude":42.849685,
+    "geom:longitude":-73.202704,
+    "iso:country":"US",
+    "sg:address":"1265 US Hwy 7",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 3336",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Tcq9QEwtVTbuDqAkvrLPw_42.849685_-73.202704@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310713,
+    "wof:geomhash":"2ea60db665628237ab249f052a2ba8e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873993241
+        }
+    ],
+    "wof:id":873993241,
+    "wof:lastmodified":1464310713,
+    "wof:name":"Sweet Pea Antiques",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -73.202704,
+    42.849685,
+    -73.202704,
+    42.849685
+],
+  "geometry": {"coordinates":[-73.202704,42.849685],"type":"Point"}
+}

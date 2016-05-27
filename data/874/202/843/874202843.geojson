@@ -1,0 +1,71 @@
+{
+  "id": 874202843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.162553,44.009542,-73.162553,44.009542",
+    "geom:latitude":44.009542,
+    "geom:longitude":-73.162553,
+    "iso:country":"US",
+    "sg:address":"57 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2727",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m0bou7PYRCGHaeVxMhiGJ_44.009542_-73.162553@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312873,
+    "wof:geomhash":"c2e6f464c5694f5a27c2f391183d686f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874202843
+        }
+    ],
+    "wof:id":874202843,
+    "wof:lastmodified":1464312873,
+    "wof:name":"Harvey J Green DDS",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.162553,
+    44.009542,
+    -73.162553,
+    44.009542
+],
+  "geometry": {"coordinates":[-73.162553,44.009542],"type":"Point"}
+}

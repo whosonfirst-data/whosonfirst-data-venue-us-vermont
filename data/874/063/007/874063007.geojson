@@ -1,0 +1,71 @@
+{
+  "id": 874063007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.12323,44.695807,-73.12323,44.695807",
+    "geom:latitude":44.695807,
+    "geom:longitude":-73.12323,
+    "iso:country":"US",
+    "sg:address":"90 Fontaine Dr",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 7896",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LYuchv8BCeleN72lM4rhu_44.695807_-73.123230@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311362,
+    "wof:geomhash":"d3882e75860de049d4e6ad777561ed18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874063007
+        }
+    ],
+    "wof:id":874063007,
+    "wof:lastmodified":1464311362,
+    "wof:name":"Jfs Electric",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.12323,
+    44.695807,
+    -73.12323,
+    44.695807
+],
+  "geometry": {"coordinates":[-73.12323000000001,44.695807],"type":"Point"}
+}

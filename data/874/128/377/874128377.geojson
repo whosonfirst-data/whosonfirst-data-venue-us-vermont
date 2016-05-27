@@ -1,0 +1,69 @@
+{
+  "id": 874128377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.06223,44.511378,-73.06223,44.511378",
+    "geom:latitude":44.511378,
+    "geom:longitude":-73.06223,
+    "iso:country":"US",
+    "sg:address":"110 Center Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 3091",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34rSB3168jJkSc5Wpyg39R_44.511378_-73.062230@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312114,
+    "wof:geomhash":"ca9fefdfd1d71d4623e26ef31d5f9cb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874128377
+        }
+    ],
+    "wof:id":874128377,
+    "wof:lastmodified":1464312114,
+    "wof:name":"John Q Doane",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -73.06223,
+    44.511378,
+    -73.06223,
+    44.511378
+],
+  "geometry": {"coordinates":[-73.06223,44.511378],"type":"Point"}
+}

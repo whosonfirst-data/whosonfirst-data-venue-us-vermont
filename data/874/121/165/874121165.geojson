@@ -1,0 +1,64 @@
+{
+  "id": 874121165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.377316,43.865299,-72.377316,43.865299",
+    "geom:latitude":43.865299,
+    "geom:longitude":-72.377316,
+    "iso:country":"US",
+    "sg:address":"1 Brook Rd",
+    "sg:city":"Strafford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 765 4554",
+    "sg:postcode":"05072",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85839297,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_070c7p1xi3WtVg9WQ3Txaq_43.865299_-72.377316@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312051,
+    "wof:geomhash":"5ece6af82891bf76ac802d414a4a74aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85839297,
+            "region_id":85688763,
+            "venue_id":874121165
+        }
+    ],
+    "wof:id":874121165,
+    "wof:lastmodified":1464312051,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85839297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.377316,
+    43.865299,
+    -72.377316,
+    43.865299
+],
+  "geometry": {"coordinates":[-72.37731599999999,43.865299],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874115057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.171729,44.468467,-73.171729,44.468467",
+    "geom:latitude":44.468467,
+    "geom:longitude":-73.171729,
+    "iso:country":"US",
+    "sg:address":"79 Patchen Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 5465",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wUGNjFThtyRT3zvJIEgyR_44.468467_-73.171729@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311988,
+    "wof:geomhash":"0c59bcccd55b459d4153dc505edf386b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874115057
+        }
+    ],
+    "wof:id":874115057,
+    "wof:lastmodified":1464311988,
+    "wof:name":"Hair Forte",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.171729,
+    44.468467,
+    -73.171729,
+    44.468467
+],
+  "geometry": {"coordinates":[-73.171729,44.468467],"type":"Point"}
+}

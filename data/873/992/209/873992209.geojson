@@ -1,0 +1,69 @@
+{
+  "id": 873992209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.126037,44.449351,-73.126037,44.449351",
+    "geom:latitude":44.449351,
+    "geom:longitude":-73.126037,
+    "iso:country":"US",
+    "sg:address":"981 S Brownell Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 7015",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MrS6dMqYgQQD685mUao2m_44.449351_-73.126037@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310707,
+    "wof:geomhash":"2c95b35a238e917be83c467f8bb18c7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":873992209
+        }
+    ],
+    "wof:id":873992209,
+    "wof:lastmodified":1464310707,
+    "wof:name":"Champlain Gourmet",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -73.126037,
+    44.449351,
+    -73.126037,
+    44.449351
+],
+  "geometry": {"coordinates":[-73.126037,44.449351],"type":"Point"}
+}

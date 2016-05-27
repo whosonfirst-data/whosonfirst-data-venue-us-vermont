@@ -1,0 +1,71 @@
+{
+  "id": 874074127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.970528,44.553987,-71.970528,44.553987",
+    "geom:latitude":44.553987,
+    "geom:longitude":-71.970528,
+    "iso:country":"US",
+    "sg:address":"891 E Burke Rd",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 3282",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77MYMYFikll9eOYPxl21of_44.553987_-71.970528@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311495,
+    "wof:geomhash":"b8c27090501cdaed087f8de2e7c095ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874074127
+        }
+    ],
+    "wof:id":874074127,
+    "wof:lastmodified":1464311495,
+    "wof:name":"Burke View Garage",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.970528,
+    44.553987,
+    -71.970528,
+    44.553987
+],
+  "geometry": {"coordinates":[-71.970528,44.553987],"type":"Point"}
+}

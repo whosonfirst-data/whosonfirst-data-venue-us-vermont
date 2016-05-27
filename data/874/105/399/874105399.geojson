@@ -1,0 +1,73 @@
+{
+  "id": 874105399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971684,43.605084,-72.971684,43.605084",
+    "geom:latitude":43.605084,
+    "geom:longitude":-72.971684,
+    "iso:country":"US",
+    "sg:address":"253 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3361",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "reservation",
+        "motel",
+        "hotel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64JRf0HpqEh6By55fCsLaF_43.605084_-72.971684@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311862,
+    "wof:geomhash":"b2889ea75a3c9399e2e3654b2be11590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874105399
+        }
+    ],
+    "wof:id":874105399,
+    "wof:lastmodified":1464311862,
+    "wof:name":"Ramada Inn",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reservation",
+        "motel",
+        "hotel"
+    ]
+},
+  "bbox": [
+    -72.971684,
+    43.605084,
+    -72.971684,
+    43.605084
+],
+  "geometry": {"coordinates":[-72.971684,43.605084],"type":"Point"}
+}

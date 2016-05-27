@@ -1,0 +1,66 @@
+{
+  "id": 874200823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078225,44.133037,-73.078225,44.133037",
+    "geom:latitude":44.133037,
+    "geom:longitude":-73.078225,
+    "iso:country":"US",
+    "sg:address":"17 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 4888",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JRlCADiTtXks3WDBDTcYF_44.133037_-73.078225@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312852,
+    "wof:geomhash":"4fd03414ff71dc0721f19a1d1d34ba40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874200823
+        }
+    ],
+    "wof:id":874200823,
+    "wof:lastmodified":1464312852,
+    "wof:name":"Wokky's Chinese Restaurant",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.078225,
+    44.133037,
+    -73.078225,
+    44.133037
+],
+  "geometry": {"coordinates":[-73.078225,44.133037],"type":"Point"}
+}

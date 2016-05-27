@@ -1,0 +1,73 @@
+{
+  "id": 874224195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.191604,44.468347,-73.191604,44.468347",
+    "geom:latitude":44.468347,
+    "geom:longitude":-73.191604,
+    "iso:country":"US",
+    "sg:address":"500 Spear St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 2151",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "noncommercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7epFSrqWCvXpCPjcah8O5N_44.468347_-73.191604@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313104,
+    "wof:geomhash":"8633fde70681bcce37377e9b1a7d20ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874224195
+        }
+    ],
+    "wof:id":874224195,
+    "wof:lastmodified":1464313104,
+    "wof:name":"University of Vermont Farm",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "noncommercial"
+    ]
+},
+  "bbox": [
+    -73.191604,
+    44.468347,
+    -73.191604,
+    44.468347
+],
+  "geometry": {"coordinates":[-73.191604,44.468347],"type":"Point"}
+}

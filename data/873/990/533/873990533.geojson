@@ -1,0 +1,69 @@
+{
+  "id": 873990533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.562024,43.332117,-72.562024,43.332117",
+    "geom:latitude":43.332117,
+    "geom:longitude":-72.562024,
+    "iso:country":"US",
+    "sg:address":"117 Davidson Hill Rd",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 1062",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U1S2rUxJludd7u3Y2acQl_43.332117_-72.562024@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310693,
+    "wof:geomhash":"9eb0858825609ae3ba50b9adc51b59db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":873990533
+        }
+    ],
+    "wof:id":873990533,
+    "wof:lastmodified":1464310693,
+    "wof:name":"City Slickers Diner",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.562024,
+    43.332117,
+    -72.562024,
+    43.332117
+],
+  "geometry": {"coordinates":[-72.56202399999999,43.332117],"type":"Point"}
+}

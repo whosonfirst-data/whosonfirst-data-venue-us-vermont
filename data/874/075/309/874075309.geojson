@@ -1,0 +1,69 @@
+{
+  "id": 874075309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.639981,42.839645,-72.639981,42.839645",
+    "geom:latitude":42.839645,
+    "geom:longitude":-72.639981,
+    "iso:country":"US",
+    "sg:address":"888 Hinesburg Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 4912",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZrB58j3l50cuJg7kNP1Ep_42.839645_-72.639981@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311505,
+    "wof:geomhash":"b3f27be293a600cc8691a51f60c2a4b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874075309
+        }
+    ],
+    "wof:id":874075309,
+    "wof:lastmodified":1464311505,
+    "wof:name":"Cindys Day Care",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -72.639981,
+    42.839645,
+    -72.639981,
+    42.839645
+],
+  "geometry": {"coordinates":[-72.63998100000001,42.839645],"type":"Point"}
+}

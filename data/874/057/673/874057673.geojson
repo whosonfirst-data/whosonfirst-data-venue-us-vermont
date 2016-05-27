@@ -1,0 +1,75 @@
+{
+  "id": 874057673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.109489,44.634007,-73.109489,44.634007",
+    "geom:latitude":44.634007,
+    "geom:longitude":-73.109489,
+    "iso:country":"US",
+    "sg:address":"42 Herrick Ave",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 3210",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "board"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420545841,
+        102191575,
+        404527495,
+        85633793,
+        101728445,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hwCxOnB3jprZyWufpWcx0_44.634007_-73.109489@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311315,
+    "wof:geomhash":"a7af10bd0f9275e02d86024273f21cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527495,
+            "locality_id":101728445,
+            "neighbourhood_id":420545841,
+            "region_id":85688763,
+            "venue_id":874057673
+        }
+    ],
+    "wof:id":874057673,
+    "wof:lastmodified":1464311315,
+    "wof:name":"Milton Town School District",
+    "wof:parent_id":420545841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "board"
+    ]
+},
+  "bbox": [
+    -73.109489,
+    44.634007,
+    -73.109489,
+    44.634007
+],
+  "geometry": {"coordinates":[-73.109489,44.634007],"type":"Point"}
+}

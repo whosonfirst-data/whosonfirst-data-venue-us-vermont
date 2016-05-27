@@ -1,0 +1,71 @@
+{
+  "id": 874050347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.959588,43.624544,-72.959588,43.624544",
+    "geom:latitude":43.624544,
+    "geom:longitude":-72.959588,
+    "iso:country":"US",
+    "sg:address":"3 Wendy Ln",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 2936",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fhLfjx3CB13csVWuM2MyL_43.624544_-72.959588@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311244,
+    "wof:geomhash":"3649fc9f6a9d0d8c73ef0540c93433db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874050347
+        }
+    ],
+    "wof:id":874050347,
+    "wof:lastmodified":1464311244,
+    "wof:name":"Rutland Chimney Svc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney"
+    ]
+},
+  "bbox": [
+    -72.959588,
+    43.624544,
+    -72.959588,
+    43.624544
+],
+  "geometry": {"coordinates":[-72.959588,43.624544],"type":"Point"}
+}

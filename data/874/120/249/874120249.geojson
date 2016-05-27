@@ -1,0 +1,69 @@
+{
+  "id": 874120249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.969563,43.610874,-72.969563,43.610874",
+    "geom:latitude":43.610874,
+    "geom:longitude":-72.969563,
+    "iso:country":"US",
+    "sg:address":"6 East St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 9224",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UgT3mI0vYm9inrz0GjgxY_43.610874_-72.969563@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312043,
+    "wof:geomhash":"e37b6b68172aa148e2835a6511604b07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874120249
+        }
+    ],
+    "wof:id":874120249,
+    "wof:lastmodified":1464312043,
+    "wof:name":"Olsons Auto Body",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -72.969563,
+    43.610874,
+    -72.969563,
+    43.610874
+],
+  "geometry": {"coordinates":[-72.96956299999999,43.610874],"type":"Point"}
+}

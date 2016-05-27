@@ -1,0 +1,82 @@
+{
+  "id": 874256623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.022987,43.48801,-73.022987,43.48801",
+    "geom:latitude":43.48801,
+    "geom:longitude":-73.022987,
+    "iso:country":"US",
+    "sg:address":"515 N End Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 2498",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CZOEnIw1j5SWuEFZb6Rxl_43.488010_-73.022987@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313711,
+    "wof:geomhash":"e4248685c83f040cc7fad9281a494b5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874256623
+        }
+    ],
+    "wof:id":874256623,
+    "wof:lastmodified":1464313711,
+    "wof:name":"Town Clerks Office",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -73.022987,
+    43.48801,
+    -73.022987,
+    43.48801
+],
+  "geometry": {"coordinates":[-73.022987,43.48801],"type":"Point"}
+}

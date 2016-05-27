@@ -1,0 +1,71 @@
+{
+  "id": 874128569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.178963,44.492588,-73.178963,44.492588",
+    "geom:latitude":44.492588,
+    "geom:longitude":-73.178963,
+    "iso:country":"US",
+    "sg:address":"123 E Allen St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 6136",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "motion",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mLW8TT08BvGyqNbUDyKn0_44.492588_-73.178963@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312116,
+    "wof:geomhash":"7760382e943a49a370d654ca4edc631a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874128569
+        }
+    ],
+    "wof:id":874128569,
+    "wof:lastmodified":1464312116,
+    "wof:name":"New England Video",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -73.178963,
+    44.492588,
+    -73.178963,
+    44.492588
+],
+  "geometry": {"coordinates":[-73.178963,44.492588],"type":"Point"}
+}

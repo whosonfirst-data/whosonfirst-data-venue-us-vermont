@@ -1,0 +1,79 @@
+{
+  "id": 874223293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.165844,44.468196,-73.165844,44.468196",
+    "geom:latitude":44.468196,
+    "geom:longitude":-73.165844,
+    "iso:country":"US",
+    "sg:address":"29 Myers Ct",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 4791",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "specialty",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102532853,
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bwBK4rUC5lvn3qedVzKLn_44.468196_-73.165844@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313096,
+    "wof:geomhash":"706fd3a582c12012722925d1723e9b02",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532853,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874223293
+        }
+    ],
+    "wof:id":874223293,
+    "wof:lastmodified":1464313096,
+    "wof:name":"Kershner Signs",
+    "wof:parent_id":102532853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.165844,
+    44.468196,
+    -73.165844,
+    44.468196
+],
+  "geometry": {"coordinates":[-73.16584400000001,44.468196],"type":"Point"}
+}

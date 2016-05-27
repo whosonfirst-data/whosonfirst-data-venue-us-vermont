@@ -1,0 +1,82 @@
+{
+  "id": 873996617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.135301,44.512475,-73.135301,44.512475",
+    "geom:latitude":44.512475,
+    "geom:longitude":-73.135301,
+    "iso:country":"US",
+    "sg:address":"4 Andrew Dr",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 857 0143",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "assembly",
+        "fiber",
+        "optics",
+        "system",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AeBw0GLkxazmWGOceZkOa_44.512475_-73.135301@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310737,
+    "wof:geomhash":"86d04375ed0154129dd702d7dc5f4122",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":873996617
+        }
+    ],
+    "wof:id":873996617,
+    "wof:lastmodified":1464310737,
+    "wof:name":"Vantage Technologies",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assembly",
+        "fiber",
+        "optics",
+        "system",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.135301,
+    44.512475,
+    -73.135301,
+    44.512475
+],
+  "geometry": {"coordinates":[-73.135301,44.512475],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874244015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215111,44.480443,-73.215111,44.480443",
+    "geom:latitude":44.480443,
+    "geom:longitude":-73.215111,
+    "iso:country":"US",
+    "sg:address":"78 Pearl St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 5023",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68vpsPdl1k84u5v8tP2kjD_44.480443_-73.215111@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313412,
+    "wof:geomhash":"7150c403b52936bbecb4fab7d93c8389",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874244015
+        }
+    ],
+    "wof:id":874244015,
+    "wof:lastmodified":1464313412,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -73.215111,
+    44.480443,
+    -73.215111,
+    44.480443
+],
+  "geometry": {"coordinates":[-73.21511099999999,44.480443],"type":"Point"}
+}

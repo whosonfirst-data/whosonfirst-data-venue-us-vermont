@@ -1,0 +1,69 @@
+{
+  "id": 874230565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.003585,43.604274,-73.003585,43.604274",
+    "geom:latitude":43.604274,
+    "geom:longitude":-73.003585,
+    "iso:country":"US",
+    "sg:address":"465 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 5788",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6emGtVvI3zXdy5qxDvlT62_43.604274_-73.003585@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313170,
+    "wof:geomhash":"2dc5afeed6e2921ad1b828ac5a550033",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874230565
+        }
+    ],
+    "wof:id":874230565,
+    "wof:lastmodified":1464313170,
+    "wof:name":"Evergreen Cemetery Assn",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -73.003585,
+    43.604274,
+    -73.003585,
+    43.604274
+],
+  "geometry": {"coordinates":[-73.003585,43.604274],"type":"Point"}
+}

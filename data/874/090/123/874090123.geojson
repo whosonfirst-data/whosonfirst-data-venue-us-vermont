@@ -1,0 +1,64 @@
+{
+  "id": 874090123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.016453,44.415273,-72.016453,44.415273",
+    "geom:latitude":44.415273,
+    "geom:longitude":-72.016453,
+    "iso:country":"US",
+    "sg:address":"123 Railroad St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 4253",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mcRW40mCk2VYuDcjAhbfa_44.415273_-72.016453@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311665,
+    "wof:geomhash":"647f82a8501073e46f51eea7a725a94e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874090123
+        }
+    ],
+    "wof:id":874090123,
+    "wof:lastmodified":1464311665,
+    "wof:name":"R & J Meat Center",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.016453,
+    44.415273,
+    -72.016453,
+    44.415273
+],
+  "geometry": {"coordinates":[-72.016453,44.415273],"type":"Point"}
+}

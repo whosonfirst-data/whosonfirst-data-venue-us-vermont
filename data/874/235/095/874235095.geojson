@@ -1,0 +1,73 @@
+{
+  "id": 874235095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.25808,44.88799,-73.25808,44.88799",
+    "geom:latitude":44.88799,
+    "geom:longitude":-73.25808,
+    "iso:country":"US",
+    "sg:address":"957 Bridge Rd",
+    "sg:city":"North Hero",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 372 6440",
+    "sg:postcode":"05474",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849381,
+        102080783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q4xQPbYCJgXMm5kJ2KZOl_44.887990_-73.258080@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313242,
+    "wof:geomhash":"3d575f1259b00abad4fd80ea374fa872",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080783,
+            "neighbourhood_id":85849381,
+            "region_id":85688763,
+            "venue_id":874235095
+        }
+    ],
+    "wof:id":874235095,
+    "wof:lastmodified":1464313242,
+    "wof:name":"Dubuques Trucking",
+    "wof:parent_id":85849381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.25808,
+    44.88799,
+    -73.25808,
+    44.88799
+],
+  "geometry": {"coordinates":[-73.25808000000001,44.88799],"type":"Point"}
+}

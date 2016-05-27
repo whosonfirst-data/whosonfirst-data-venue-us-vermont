@@ -1,0 +1,72 @@
+{
+  "id": 874200945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.164281,44.015026,-73.164281,44.015026",
+    "geom:latitude":44.015026,
+    "geom:longitude":-73.164281,
+    "iso:country":"US",
+    "sg:address":"7 Washington St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 6337",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "sg:website":"www.middlaw.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gOYKfWELRqv1aYimsjl0k_44.015026_-73.164281@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312853,
+    "wof:geomhash":"12c92b1e6b07635d8bbc0068aaf05b53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874200945
+        }
+    ],
+    "wof:id":874200945,
+    "wof:lastmodified":1464312853,
+    "wof:name":"Deppman & Foley",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -73.164281,
+    44.015026,
+    -73.164281,
+    44.015026
+],
+  "geometry": {"coordinates":[-73.164281,44.015026],"type":"Point"}
+}

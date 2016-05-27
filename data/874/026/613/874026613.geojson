@@ -1,0 +1,71 @@
+{
+  "id": 874026613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.122142,44.449966,-73.122142,44.449966",
+    "geom:latitude":44.449966,
+    "geom:longitude":-73.122142,
+    "iso:country":"US",
+    "sg:address":"156 Commerce St",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 2300",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xCoVThX0WqwV7jXQTmeZC_44.449966_-73.122142@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311013,
+    "wof:geomhash":"fba2f95557b3b90dd7fe75df6e5e4b1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874026613
+        }
+    ],
+    "wof:id":874026613,
+    "wof:lastmodified":1464311013,
+    "wof:name":"Labor & Industry-Boiler Insp",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -73.122142,
+    44.449966,
+    -73.122142,
+    44.449966
+],
+  "geometry": {"coordinates":[-73.122142,44.449966],"type":"Point"}
+}

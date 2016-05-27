@@ -1,0 +1,71 @@
+{
+  "id": 874252877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.217339,44.475771,-73.217339,44.475771",
+    "geom:latitude":44.475771,
+    "geom:longitude":-73.217339,
+    "iso:country":"US",
+    "sg:address":"53 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 540 0008",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ykq1v2aWOfr88G03SBT25_44.475771_-73.217339@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313622,
+    "wof:geomhash":"fd64900629a7c213c4c1dd44c03afee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874252877
+        }
+    ],
+    "wof:id":874252877,
+    "wof:lastmodified":1464313622,
+    "wof:name":"Anjou & The Little Pear Home Furnishings",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -73.217339,
+    44.475771,
+    -73.217339,
+    44.475771
+],
+  "geometry": {"coordinates":[-73.217339,44.475771],"type":"Point"}
+}

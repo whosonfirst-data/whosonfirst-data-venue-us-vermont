@@ -1,0 +1,71 @@
+{
+  "id": 874230531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.087147,43.798339,-73.087147,43.798339",
+    "geom:latitude":43.798339,
+    "geom:longitude":-73.087147,
+    "iso:country":"US",
+    "sg:address":"14 Park St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3740",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "return"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35ysG4ywQotvdxqfvu6a3f_43.798339_-73.087147@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313170,
+    "wof:geomhash":"82e042b1539d94133f27bce876477846",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874230531
+        }
+    ],
+    "wof:id":874230531,
+    "wof:lastmodified":1464313170,
+    "wof:name":"H & R Block",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return"
+    ]
+},
+  "bbox": [
+    -73.087147,
+    43.798339,
+    -73.087147,
+    43.798339
+],
+  "geometry": {"coordinates":[-73.087147,43.798339],"type":"Point"}
+}

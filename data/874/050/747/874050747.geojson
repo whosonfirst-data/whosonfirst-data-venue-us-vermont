@@ -1,0 +1,72 @@
+{
+  "id": 874050747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.099206,43.254537,-73.099206,43.254537",
+    "geom:latitude":43.254537,
+    "geom:longitude":-73.099206,
+    "iso:country":"US",
+    "sg:address":"31 Church St",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 867 4400",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "market"
+    ],
+    "sg:website":"www.peltiersmarket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LTZ4UA17E75ROH85At12d_43.254537_-73.099206@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311248,
+    "wof:geomhash":"75c9cb9d3bd3c98272118f3c8c74f8ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874050747
+        }
+    ],
+    "wof:id":874050747,
+    "wof:lastmodified":1464311248,
+    "wof:name":"Peltier's Market",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -73.099206,
+    43.254537,
+    -73.099206,
+    43.254537
+],
+  "geometry": {"coordinates":[-73.099206,43.254537],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874227983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.049255,43.597375,-73.049255,43.597375",
+    "geom:latitude":43.597375,
+    "geom:longitude":-73.049255,
+    "iso:country":"US",
+    "sg:address":"110 Marble St",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 2303",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06pez2Wi1x76gDwVKjhG9f_43.597375_-73.049255@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313140,
+    "wof:geomhash":"4f42dc6f8954dfbe4eb8040eec0f8038",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874227983
+        }
+    ],
+    "wof:id":874227983,
+    "wof:lastmodified":1464313140,
+    "wof:name":"Rutland West Neighborhood Hsng",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.049255,
+    43.597375,
+    -73.049255,
+    43.597375
+],
+  "geometry": {"coordinates":[-73.049255,43.597375],"type":"Point"}
+}

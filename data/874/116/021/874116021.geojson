@@ -1,0 +1,71 @@
+{
+  "id": 874116021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.163572,44.010923,-73.163572,44.010923",
+    "geom:latitude":44.010923,
+    "geom:longitude":-73.163572,
+    "iso:country":"US",
+    "sg:address":"45 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 6851",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04gwwHeQAHwV0lsnd70CJO_44.010923_-73.163572@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311997,
+    "wof:geomhash":"a85fc617cf26d6c720946a3c1788cb12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874116021
+        }
+    ],
+    "wof:id":874116021,
+    "wof:lastmodified":1464311997,
+    "wof:name":"Mark's Upholstery",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -73.163572,
+    44.010923,
+    -73.163572,
+    44.010923
+],
+  "geometry": {"coordinates":[-73.163572,44.010923],"type":"Point"}
+}

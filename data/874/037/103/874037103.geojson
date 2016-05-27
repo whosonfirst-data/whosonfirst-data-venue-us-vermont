@@ -1,0 +1,71 @@
+{
+  "id": 874037103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.11107,44.674035,-73.11107,44.674035",
+    "geom:latitude":44.674035,
+    "geom:longitude":-73.11107,
+    "iso:country":"US",
+    "sg:address":"414 US Hwy 7",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 4343",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816349,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k5W1AZaVuIpMeUL7mwIyu_44.674035_-73.111070@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311117,
+    "wof:geomhash":"60b694e3dbbcb009b1399119687ed7bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85816349,
+            "region_id":85688763,
+            "venue_id":874037103
+        }
+    ],
+    "wof:id":874037103,
+    "wof:lastmodified":1464311117,
+    "wof:name":"B & M Auto Parts",
+    "wof:parent_id":85816349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -73.11107,
+    44.674035,
+    -73.11107,
+    44.674035
+],
+  "geometry": {"coordinates":[-73.11107,44.674035],"type":"Point"}
+}

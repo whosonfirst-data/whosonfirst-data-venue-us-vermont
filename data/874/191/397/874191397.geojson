@@ -1,0 +1,73 @@
+{
+  "id": 874191397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.177142,44.024635,-73.177142,44.024635",
+    "geom:latitude":44.024635,
+    "geom:longitude":-73.177142,
+    "iso:country":"US",
+    "sg:address":"31 Seymour St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 382 9274",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mhUTJb1BzDjZ7M6Bd2jeG_44.024635_-73.177142@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312753,
+    "wof:geomhash":"55dfe8bcd6db42237da7226ee3c923ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874191397
+        }
+    ],
+    "wof:id":874191397,
+    "wof:lastmodified":1464312753,
+    "wof:name":"Custom Auto Detailing",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -73.177142,
+    44.024635,
+    -73.177142,
+    44.024635
+],
+  "geometry": {"coordinates":[-73.177142,44.024635],"type":"Point"}
+}

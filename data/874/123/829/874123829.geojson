@@ -1,0 +1,71 @@
+{
+  "id": 874123829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.634417,43.384802,-72.634417,43.384802",
+    "geom:latitude":43.384802,
+    "geom:longitude":-72.634417,
+    "iso:country":"US",
+    "sg:address":"660 Main St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 824 5477",
+    "sg:postcode":"05153",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kPcMmGj4QkxN4awOBRgvd_43.384802_-72.634417@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312075,
+    "wof:geomhash":"6a106742ee89e69170e93ca87715b698",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874123829
+        }
+    ],
+    "wof:id":874123829,
+    "wof:lastmodified":1464312075,
+    "wof:name":"Weston Village Store",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.634417,
+    43.384802,
+    -72.634417,
+    43.384802
+],
+  "geometry": {"coordinates":[-72.634417,43.384802],"type":"Point"}
+}

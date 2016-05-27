@@ -1,0 +1,71 @@
+{
+  "id": 874093675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.060189,43.719071,-73.060189,43.719071",
+    "geom:latitude":43.719071,
+    "geom:longitude":-73.060189,
+    "iso:country":"US",
+    "sg:address":"2247 W Creek Rd",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 483 6786",
+    "sg:postcode":"05744",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OwnihzOGbt1CrXwXXpo4a_43.719071_-73.060189@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311700,
+    "wof:geomhash":"bca9a4a040675c1a3f5c3248e735032e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874093675
+        }
+    ],
+    "wof:id":874093675,
+    "wof:lastmodified":1464311700,
+    "wof:name":"Magic Scissors",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.060189,
+    43.719071,
+    -73.060189,
+    43.719071
+],
+  "geometry": {"coordinates":[-73.06018899999999,43.719071],"type":"Point"}
+}

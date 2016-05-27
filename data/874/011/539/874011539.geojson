@@ -1,0 +1,77 @@
+{
+  "id": 874011539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.504876,44.177119,-72.504876,44.177119",
+    "geom:latitude":44.177119,
+    "geom:longitude":-72.504876,
+    "iso:country":"US",
+    "sg:address":"24 Bridge St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 7447",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0081aqtdnM0RrJV6BjqJUf_44.177119_-72.504876@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310866,
+    "wof:geomhash":"c63ac6b3f8ef56fd7508933c29ed1586",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874011539
+        }
+    ],
+    "wof:id":874011539,
+    "wof:lastmodified":1464310866,
+    "wof:name":"Film Buzz",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -72.504876,
+    44.177119,
+    -72.504876,
+    44.177119
+],
+  "geometry": {"coordinates":[-72.504876,44.177119],"type":"Point"}
+}

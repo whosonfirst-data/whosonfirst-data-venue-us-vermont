@@ -1,0 +1,69 @@
+{
+  "id": 874120081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.008333,44.420518,-72.008333,44.420518",
+    "geom:latitude":44.420518,
+    "geom:longitude":-72.008333,
+    "iso:country":"US",
+    "sg:address":"422 Portland St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 2371",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09mgv57w9yg4TtmsUe91i7_44.420518_-72.008333@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312042,
+    "wof:geomhash":"cc2d00834d2e81bb0922acfb88ec83a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874120081
+        }
+    ],
+    "wof:id":874120081,
+    "wof:lastmodified":1464312042,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -72.008333,
+    44.420518,
+    -72.008333,
+    44.420518
+],
+  "geometry": {"coordinates":[-72.00833299999999,44.420518],"type":"Point"}
+}

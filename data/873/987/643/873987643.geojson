@@ -1,0 +1,74 @@
+{
+  "id": 873987643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.966831,43.612418,-72.966831,43.612418",
+    "geom:latitude":43.612418,
+    "geom:longitude":-72.966831,
+    "iso:country":"US",
+    "sg:address":"1 Deer St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 1853",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xjSAGcBTstYgclqp0GsVg_43.612418_-72.966831@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310673,
+    "wof:geomhash":"cdf0cde8933c79d8ede69caa04b7d34d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":873987643
+        }
+    ],
+    "wof:id":873987643,
+    "wof:lastmodified":1464310673,
+    "wof:name":"Godnick Adult Center",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.966831,
+    43.612418,
+    -72.966831,
+    43.612418
+],
+  "geometry": {"coordinates":[-72.966831,43.612418],"type":"Point"}
+}

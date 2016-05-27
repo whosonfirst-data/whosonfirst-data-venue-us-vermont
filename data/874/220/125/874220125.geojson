@@ -1,0 +1,71 @@
+{
+  "id": 874220125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.096133,43.802732,-73.096133,43.802732",
+    "geom:latitude":43.802732,
+    "geom:longitude":-73.096133,
+    "iso:country":"US",
+    "sg:address":"25 Grove St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3235",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u4K8xs0Nf3zJh4ODAoNSN_43.802732_-73.096133@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313062,
+    "wof:geomhash":"bfa3f60ce1f8e06c92272ea07b663ec8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874220125
+        }
+    ],
+    "wof:id":874220125,
+    "wof:lastmodified":1464313062,
+    "wof:name":"Gazebo Inn",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -73.096133,
+    43.802732,
+    -73.096133,
+    43.802732
+],
+  "geometry": {"coordinates":[-73.09613299999999,43.802732],"type":"Point"}
+}

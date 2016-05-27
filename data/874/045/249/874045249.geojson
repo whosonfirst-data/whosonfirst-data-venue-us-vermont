@@ -1,0 +1,71 @@
+{
+  "id": 874045249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.523341,43.820556,-72.523341,43.820556",
+    "geom:latitude":43.820556,
+    "geom:longitude":-72.523341,
+    "iso:country":"US",
+    "sg:address":"91 Acton Pl",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 7024",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BeqJwjkaID9gwr5Ysgmej_43.820556_-72.523341@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311198,
+    "wof:geomhash":"27312634220dd9aa723c90a75d743e99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874045249
+        }
+    ],
+    "wof:id":874045249,
+    "wof:lastmodified":1464311198,
+    "wof:name":"Paul B Parker Electric",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.523341,
+    43.820556,
+    -72.523341,
+    43.820556
+],
+  "geometry": {"coordinates":[-72.523341,43.820556],"type":"Point"}
+}

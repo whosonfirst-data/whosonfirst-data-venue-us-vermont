@@ -1,0 +1,71 @@
+{
+  "id": 874076365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.178971,44.458169,-73.178971,44.458169",
+    "geom:latitude":44.458169,
+    "geom:longitude":-73.178971,
+    "iso:country":"US",
+    "sg:address":"35 San Remo Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 8500",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t2hyZfzF0zAuoUI9QocoG_44.458169_-73.178971@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311514,
+    "wof:geomhash":"f39e8411d55a076b7cb05ea018bd3fee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874076365
+        }
+    ],
+    "wof:id":874076365,
+    "wof:lastmodified":1464311514,
+    "wof:name":"Advanced Transmissions",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -73.178971,
+    44.458169,
+    -73.178971,
+    44.458169
+],
+  "geometry": {"coordinates":[-73.178971,44.458169],"type":"Point"}
+}

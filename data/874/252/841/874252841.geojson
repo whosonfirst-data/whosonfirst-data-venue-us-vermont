@@ -1,0 +1,76 @@
+{
+  "id": 874252841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21403,44.476648,-73.21403,44.476648",
+    "geom:latitude":44.476648,
+    "geom:longitude":-73.21403,
+    "iso:country":"US",
+    "sg:address":"123 Saint Paul St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 8424",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BWhFo12AbHiihbNjp0xlp_44.476648_-73.214030@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313621,
+    "wof:geomhash":"c2435789f1f2078e7b130e8c258eb7fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874252841
+        }
+    ],
+    "wof:id":874252841,
+    "wof:lastmodified":1464313621,
+    "wof:name":"Brook Wheeler Housing Lp",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -73.21403,
+    44.476648,
+    -73.21403,
+    44.476648
+],
+  "geometry": {"coordinates":[-73.21402999999999,44.476648],"type":"Point"}
+}

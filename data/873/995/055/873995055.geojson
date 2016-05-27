@@ -1,0 +1,74 @@
+{
+  "id": 873995055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.640263,44.90149,-72.640263,44.90149",
+    "geom:latitude":44.90149,
+    "geom:longitude":-72.640263,
+    "iso:country":"US",
+    "sg:address":"2057 N Main St",
+    "sg:city":"Montgomery",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 326 4507",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.blacklantern.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ixdMGPJGaeWJfWsOAwrn7_44.901490_-72.640263@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310726,
+    "wof:geomhash":"6b9efd260d84fe87e7a498882538ceff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":873995055
+        }
+    ],
+    "wof:id":873995055,
+    "wof:lastmodified":1464310726,
+    "wof:name":"Black Lantern Inn",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -72.640263,
+    44.90149,
+    -72.640263,
+    44.90149
+],
+  "geometry": {"coordinates":[-72.640263,44.90149],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 874089499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.499944,44.191856,-72.499944,44.191856",
+    "geom:latitude":44.191856,
+    "geom:longitude":-72.499944,
+    "iso:country":"US",
+    "sg:address":"85 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 5332",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:website":"www.pyramidsupply.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U7wno7qd1LfilYKkBT28X_44.191856_-72.499944@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311655,
+    "wof:geomhash":"d3ed56ea8a6e09c5ecfad1063b9fbe10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874089499
+        }
+    ],
+    "wof:id":874089499,
+    "wof:lastmodified":1464311655,
+    "wof:name":"Pyramid Supply",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.499944,
+    44.191856,
+    -72.499944,
+    44.191856
+],
+  "geometry": {"coordinates":[-72.499944,44.191856],"type":"Point"}
+}

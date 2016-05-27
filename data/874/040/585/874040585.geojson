@@ -1,0 +1,82 @@
+{
+  "id": 874040585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.978497,44.427494,-71.978497,44.427494",
+    "geom:latitude":44.427494,
+    "geom:longitude":-71.978497,
+    "iso:country":"US",
+    "sg:address":"2176 Portland St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3999",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg",
+        "product",
+        "sewer",
+        "embroidery",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sAx1uSWFgac7XI3AqCjlS_44.427494_-71.978497@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311149,
+    "wof:geomhash":"874762fcca7232586d05a13c75d695ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874040585
+        }
+    ],
+    "wof:id":874040585,
+    "wof:lastmodified":1464311149,
+    "wof:name":"W T Solutions Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "product",
+        "sewer",
+        "embroidery",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.978497,
+    44.427494,
+    -71.978497,
+    44.427494
+],
+  "geometry": {"coordinates":[-71.978497,44.427494],"type":"Point"}
+}

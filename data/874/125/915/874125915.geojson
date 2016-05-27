@@ -1,0 +1,76 @@
+{
+  "id": 874125915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.203931,44.489419,-73.203931,44.489419",
+    "geom:latitude":44.489419,
+    "geom:longitude":-73.203931,
+    "iso:country":"US",
+    "sg:address":"500 Riverside Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 5707",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1liAVZxfpNwW68WQpHppq9_44.489419_-73.203931@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312093,
+    "wof:geomhash":"4083504fca5da0311e78b2aead6b1d48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874125915
+        }
+    ],
+    "wof:id":874125915,
+    "wof:lastmodified":1464312093,
+    "wof:name":"Riverside Beverages",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -73.203931,
+    44.489419,
+    -73.203931,
+    44.489419
+],
+  "geometry": {"coordinates":[-73.203931,44.489419],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874233001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.12774,44.622749,-72.12774,44.622749",
+    "geom:latitude":44.622749,
+    "geom:longitude":-72.12774,
+    "iso:country":"US",
+    "sg:address":"4498 State Rte 122",
+    "sg:city":"Sheffield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 3490",
+    "sg:postcode":"05866",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OT3OU9PxKfvgMcW6ZUOfx_44.622749_-72.127740@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313199,
+    "wof:geomhash":"e4769d7aca953b6132f53f5e8178889f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874233001
+        }
+    ],
+    "wof:id":874233001,
+    "wof:lastmodified":1464313199,
+    "wof:name":"Garand Trucking",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.12774,
+    44.622749,
+    -72.12774,
+    44.622749
+],
+  "geometry": {"coordinates":[-72.12774,44.622749],"type":"Point"}
+}

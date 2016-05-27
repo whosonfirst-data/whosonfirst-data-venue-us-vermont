@@ -1,0 +1,67 @@
+{
+  "id": 873998731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.812013,44.098428,-72.812013,44.098428",
+    "geom:latitude":44.098428,
+    "geom:longitude":-72.812013,
+    "iso:country":"US",
+    "sg:address":"1 Old Farm Ln",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 9361",
+    "sg:postcode":"05674",
+    "sg:province":"VT",
+    "sg:website":"www.cabotcheese.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i3wwBFSVimdn4Vi4iF7sN_44.098428_-72.812013@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310752,
+    "wof:geomhash":"7bd63acfde489831c4a5553f172c1d06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":873998731
+        }
+    ],
+    "wof:id":873998731,
+    "wof:lastmodified":1464310752,
+    "wof:name":"Cabot Creamery Co-Op Corp",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.812013,
+    44.098428,
+    -72.812013,
+    44.098428
+],
+  "geometry": {"coordinates":[-72.81201299999999,44.098428],"type":"Point"}
+}

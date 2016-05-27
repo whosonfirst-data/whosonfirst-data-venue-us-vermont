@@ -1,0 +1,70 @@
+{
+  "id": 874254925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210098,44.363811,-73.210098,44.363811",
+    "geom:latitude":44.363811,
+    "geom:longitude":-73.210098,
+    "iso:country":"US",
+    "sg:address":"480 Thomas Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Temple",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 9746",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "buddhist"
+    ],
+    "sg:website":"vermontzen.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PPLVEL1pmqFfNbDdPKQCj_44.363811_-73.210098@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313673,
+    "wof:geomhash":"55cd5491d4a0e6d878d83e23a59dee90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874254925
+        }
+    ],
+    "wof:id":874254925,
+    "wof:lastmodified":1464313673,
+    "wof:name":"Vermont Zen Center",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buddhist"
+    ]
+},
+  "bbox": [
+    -73.210098,
+    44.363811,
+    -73.210098,
+    44.363811
+],
+  "geometry": {"coordinates":[-73.210098,44.363811],"type":"Point"}
+}

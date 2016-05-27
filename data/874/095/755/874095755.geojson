@@ -1,0 +1,69 @@
+{
+  "id": 874095755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.557761,42.875159,-72.557761,42.875159",
+    "geom:latitude":42.875159,
+    "geom:longitude":-72.557761,
+    "iso:country":"US",
+    "sg:address":"72 Landmark Hill Dr",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 9244",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78g05g4r5EeFCET6k2LrFx_42.875159_-72.557761@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311722,
+    "wof:geomhash":"b325292093e78496814c1171e588a663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874095755
+        }
+    ],
+    "wof:id":874095755,
+    "wof:lastmodified":1464311722,
+    "wof:name":"Horizon Dental Associates PC",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.557761,
+    42.875159,
+    -72.557761,
+    42.875159
+],
+  "geometry": {"coordinates":[-72.557761,42.875159],"type":"Point"}
+}

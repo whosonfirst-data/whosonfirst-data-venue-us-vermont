@@ -1,0 +1,69 @@
+{
+  "id": 874181289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.191488,44.389246,-73.191488,44.389246",
+    "geom:latitude":44.389246,
+    "geom:longitude":-73.191488,
+    "iso:country":"US",
+    "sg:address":"886 Beaver Creek Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 3421",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AxsEL2qliSlRN9fXHM7zZ_44.389246_-73.191488@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312644,
+    "wof:geomhash":"5237b58cd69b9981d637eed2380f9e15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874181289
+        }
+    ],
+    "wof:id":874181289,
+    "wof:lastmodified":1464312644,
+    "wof:name":"Beaver Engineering & Dev Co",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -73.191488,
+    44.389246,
+    -73.191488,
+    44.389246
+],
+  "geometry": {"coordinates":[-73.19148800000001,44.389246],"type":"Point"}
+}

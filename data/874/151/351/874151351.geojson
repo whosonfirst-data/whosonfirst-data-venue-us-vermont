@@ -1,0 +1,71 @@
+{
+  "id": 874151351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.09706,43.987361,-73.09706,43.987361",
+    "geom:latitude":43.987361,
+    "geom:longitude":-73.09706,
+    "iso:country":"US",
+    "sg:address":"467 Airport Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2022",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "aircraft",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AgPZT3s6grKBuDkvORe5E_43.987361_-73.097060@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312340,
+    "wof:geomhash":"3a15e694d9fb207d09d2e70f9024926d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874151351
+        }
+    ],
+    "wof:id":874151351,
+    "wof:lastmodified":1464312340,
+    "wof:name":"J & M Aviation Corp",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "school"
+    ]
+},
+  "bbox": [
+    -73.09706,
+    43.987361,
+    -73.09706,
+    43.987361
+],
+  "geometry": {"coordinates":[-73.09706,43.987361],"type":"Point"}
+}

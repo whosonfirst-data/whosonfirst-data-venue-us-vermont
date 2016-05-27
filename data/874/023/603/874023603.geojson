@@ -1,0 +1,69 @@
+{
+  "id": 874023603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.181693,44.493563,-73.181693,44.493563",
+    "geom:latitude":44.493563,
+    "geom:longitude":-73.181693,
+    "iso:country":"US",
+    "sg:address":"120 E Spring St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 9320",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gDDBR4Pbd7nl4bPwIXZ9c_44.493563_-73.181693@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310979,
+    "wof:geomhash":"66111b222307033b1727fe0eed12da97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874023603
+        }
+    ],
+    "wof:id":874023603,
+    "wof:lastmodified":1464310979,
+    "wof:name":"Courtyard",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.181693,
+    44.493563,
+    -73.181693,
+    44.493563
+],
+  "geometry": {"coordinates":[-73.181693,44.493563],"type":"Point"}
+}

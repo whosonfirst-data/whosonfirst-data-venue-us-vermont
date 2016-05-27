@@ -1,0 +1,73 @@
+{
+  "id": 874230375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167368,44.453662,-73.167368,44.453662",
+    "geom:latitude":44.453662,
+    "geom:longitude":-73.167368,
+    "iso:country":"US",
+    "sg:address":"40 Timber Ln",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 3785",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ifmhmqU50ORMUJqJ1XOHw_44.453662_-73.167368@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313163,
+    "wof:geomhash":"513bfab4d412e2c1da39aed4dee237dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874230375
+        }
+    ],
+    "wof:id":874230375,
+    "wof:lastmodified":1464313163,
+    "wof:name":"Timberlane Physical Therapy",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.167368,
+    44.453662,
+    -73.167368,
+    44.453662
+],
+  "geometry": {"coordinates":[-73.167368,44.453662],"type":"Point"}
+}

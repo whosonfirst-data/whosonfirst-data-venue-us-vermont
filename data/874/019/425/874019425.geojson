@@ -1,0 +1,74 @@
+{
+  "id": 874019425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.13524,44.512423,-73.13524,44.512423",
+    "geom:latitude":44.512423,
+    "geom:longitude":-73.13524,
+    "iso:country":"US",
+    "sg:address":"1 Turcotte Rd",
+    "sg:city":"Essex",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 9012",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.rotundas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WtOa5kSnqrQAv9AQVBMTS_44.512423_-73.135240@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310942,
+    "wof:geomhash":"02419d6117a78b98f43d9e3eecf584fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874019425
+        }
+    ],
+    "wof:id":874019425,
+    "wof:lastmodified":1464310942,
+    "wof:name":"Rotunda's Autobody",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -73.13524,
+    44.512423,
+    -73.13524,
+    44.512423
+],
+  "geometry": {"coordinates":[-73.13524,44.512423],"type":"Point"}
+}

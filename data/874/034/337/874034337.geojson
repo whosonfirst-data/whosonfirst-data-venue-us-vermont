@@ -1,0 +1,75 @@
+{
+  "id": 874034337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214365,44.473536,-73.214365,44.473536",
+    "geom:latitude":44.473536,
+    "geom:longitude":-73.214365,
+    "iso:country":"US",
+    "sg:address":"121 Maple St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 4430",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61c1Tu2QqrqK10844ujWKK_44.473536_-73.214365@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311088,
+    "wof:geomhash":"ac344fafeb0f54efd669e0d97e8e2e56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874034337
+        }
+    ],
+    "wof:id":874034337,
+    "wof:lastmodified":1464311088,
+    "wof:name":"Early Learning Preschool Ctr",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -73.214365,
+    44.473536,
+    -73.214365,
+    44.473536
+],
+  "geometry": {"coordinates":[-73.214365,44.473536],"type":"Point"}
+}

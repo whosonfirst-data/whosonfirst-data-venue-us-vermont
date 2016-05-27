@@ -1,0 +1,71 @@
+{
+  "id": 874020333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199082,44.482973,-73.199082,44.482973",
+    "geom:latitude":44.482973,
+    "geom:longitude":-73.199082,
+    "iso:country":"US",
+    "sg:address":"20 Mansfield Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 3797",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TR93E3XEyiwX7CEQTT3Cj_44.482973_-73.199082@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310951,
+    "wof:geomhash":"c66a8b5b0226b30b675833afad036981",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874020333
+        }
+    ],
+    "wof:id":874020333,
+    "wof:lastmodified":1464310951,
+    "wof:name":"Burlington Fire Station 3",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.199082,
+    44.482973,
+    -73.199082,
+    44.482973
+],
+  "geometry": {"coordinates":[-73.199082,44.482973],"type":"Point"}
+}

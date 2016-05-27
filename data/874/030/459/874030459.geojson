@@ -1,0 +1,73 @@
+{
+  "id": 874030459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.565082,44.210493,-72.565082,44.210493",
+    "geom:latitude":44.210493,
+    "geom:longitude":-72.565082,
+    "iso:country":"US",
+    "sg:address":"244 Granger Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 4926",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KBM0TEA0yaeApUngfVZPO_44.210493_-72.565082@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311053,
+    "wof:geomhash":"5cb7038caa8e39a6fab1c5ce9c43a48b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874030459
+        }
+    ],
+    "wof:id":874030459,
+    "wof:lastmodified":1464311053,
+    "wof:name":"Central Vermont Urology Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.565082,
+    44.210493,
+    -72.565082,
+    44.210493
+],
+  "geometry": {"coordinates":[-72.565082,44.210493],"type":"Point"}
+}

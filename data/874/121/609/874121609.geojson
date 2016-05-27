@@ -1,0 +1,78 @@
+{
+  "id": 874121609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078301,44.133192,-73.078301,44.133192",
+    "geom:latitude":44.133192,
+    "geom:longitude":-73.078301,
+    "iso:country":"US",
+    "sg:address":"16 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 4040",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "forester",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RQ0TRBE84QQlLJMDVvWH5_44.133192_-73.078301@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312055,
+    "wof:geomhash":"c195c9daa2927f02f6b9ffeeed91bb0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874121609
+        }
+    ],
+    "wof:id":874121609,
+    "wof:lastmodified":1464312055,
+    "wof:name":"Upland Forestry Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forester",
+        "business"
+    ]
+},
+  "bbox": [
+    -73.078301,
+    44.133192,
+    -73.078301,
+    44.133192
+],
+  "geometry": {"coordinates":[-73.078301,44.133192],"type":"Point"}
+}

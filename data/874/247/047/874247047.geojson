@@ -1,0 +1,71 @@
+{
+  "id": 874247047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210079,44.441335,-73.210079,44.441335",
+    "geom:latitude":44.441335,
+    "geom:longitude":-73.210079,
+    "iso:country":"US",
+    "sg:address":"1048 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 7325",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jZWIjGoDcsZ5DawxNbvwg_44.441335_-73.210079@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313472,
+    "wof:geomhash":"3cf741d4688a675e01b147df4f2b3321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874247047
+        }
+    ],
+    "wof:id":874247047,
+    "wof:lastmodified":1464313472,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -73.210079,
+    44.441335,
+    -73.210079,
+    44.441335
+],
+  "geometry": {"coordinates":[-73.21007899999999,44.441335],"type":"Point"}
+}

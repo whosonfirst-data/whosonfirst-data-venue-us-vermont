@@ -1,0 +1,76 @@
+{
+  "id": 874253257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.207797,44.463836,-73.207797,44.463836",
+    "geom:latitude":44.463836,
+    "geom:longitude":-73.207797,
+    "iso:country":"US",
+    "sg:address":"44 Shelburne Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 9856",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E7sGpTMR8aclHZibEvwUB_44.463836_-73.207797@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313631,
+    "wof:geomhash":"6228ad5674c7bb080aeff7f91ad59d6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874253257
+        }
+    ],
+    "wof:id":874253257,
+    "wof:lastmodified":1464313631,
+    "wof:name":"Charles Burns",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -73.207797,
+    44.463836,
+    -73.207797,
+    44.463836
+],
+  "geometry": {"coordinates":[-73.207797,44.463836],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874036217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169638,44.447915,-73.169638,44.447915",
+    "geom:latitude":44.447915,
+    "geom:longitude":-73.169638,
+    "iso:country":"US",
+    "sg:address":"802 Brand Farm Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 859 8952",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Kb92J4yr8PDH0Uu4U8vZz_44.447915_-73.169638@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311107,
+    "wof:geomhash":"815b901b163ce4f6481e948f5392f672",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874036217
+        }
+    ],
+    "wof:id":874036217,
+    "wof:lastmodified":1464311107,
+    "wof:name":"Split Rock Satellite",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -73.169638,
+    44.447915,
+    -73.169638,
+    44.447915
+],
+  "geometry": {"coordinates":[-73.16963800000001,44.447915],"type":"Point"}
+}

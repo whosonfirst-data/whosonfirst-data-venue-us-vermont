@@ -1,0 +1,66 @@
+{
+  "id": 874068933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.310745,44.402834,-72.310745,44.402834",
+    "geom:latitude":44.402834,
+    "geom:longitude":-72.310745,
+    "iso:country":"US",
+    "sg:address":"3123 Main St",
+    "sg:city":"Cabot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 563 9929",
+    "sg:postcode":"05647",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63KwVB2bKBvaFxQocBI6Fg_44.402834_-72.310745@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311422,
+    "wof:geomhash":"b1ae57416787b1f7585fc08c838768d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874068933
+        }
+    ],
+    "wof:id":874068933,
+    "wof:lastmodified":1464311422,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.310745,
+    44.402834,
+    -72.310745,
+    44.402834
+],
+  "geometry": {"coordinates":[-72.310745,44.402834],"type":"Point"}
+}

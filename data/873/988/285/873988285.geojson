@@ -1,0 +1,73 @@
+{
+  "id": 873988285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.003827,44.534771,-72.003827,44.534771",
+    "geom:latitude":44.534771,
+    "geom:longitude":-72.003827,
+    "iso:country":"US",
+    "sg:address":"76 Depot St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 8700",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hGSlUpuWg45ieCEMUm0M3_44.534771_-72.003827@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310678,
+    "wof:geomhash":"7bed7621a13f638312e1bbb3d82818c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":873988285
+        }
+    ],
+    "wof:id":873988285,
+    "wof:lastmodified":1464310678,
+    "wof:name":"Darling Inn Meal Site",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -72.003827,
+    44.534771,
+    -72.003827,
+    44.534771
+],
+  "geometry": {"coordinates":[-72.003827,44.534771],"type":"Point"}
+}

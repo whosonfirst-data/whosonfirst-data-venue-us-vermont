@@ -1,0 +1,71 @@
+{
+  "id": 874239005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.07655,44.132919,-73.07655,44.132919",
+    "geom:latitude":44.132919,
+    "geom:longitude":-73.07655,
+    "iso:country":"US",
+    "sg:address":"74 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 7680",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OcOQPREuduncNC0K091D5_44.132919_-73.076550@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313321,
+    "wof:geomhash":"c73d306eb3eb7688520607c9f8fd2584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874239005
+        }
+    ],
+    "wof:id":874239005,
+    "wof:lastmodified":1464313321,
+    "wof:name":"Bristol Woodworks",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.07655,
+    44.132919,
+    -73.07655,
+    44.132919
+],
+  "geometry": {"coordinates":[-73.07655,44.132919],"type":"Point"}
+}

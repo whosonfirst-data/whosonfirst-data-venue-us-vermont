@@ -1,0 +1,74 @@
+{
+  "id": 874198663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.186545,44.502388,-73.186545,44.502388",
+    "geom:latitude":44.502388,
+    "geom:longitude":-73.186545,
+    "iso:country":"US",
+    "sg:address":"100 Tigan St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 4040",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "analytical",
+        "laboratory",
+        "instrument"
+    ],
+    "sg:website":"www.biotek.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4leKxycszgEri6RRvc1Ya0_44.502388_-73.186545@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312831,
+    "wof:geomhash":"c161bebe38fe09e9aeefdb2e775fce6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874198663
+        }
+    ],
+    "wof:id":874198663,
+    "wof:lastmodified":1464312831,
+    "wof:name":"Bio-Tek Instruments Inc",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analytical",
+        "laboratory",
+        "instrument"
+    ]
+},
+  "bbox": [
+    -73.186545,
+    44.502388,
+    -73.186545,
+    44.502388
+],
+  "geometry": {"coordinates":[-73.186545,44.502388],"type":"Point"}
+}

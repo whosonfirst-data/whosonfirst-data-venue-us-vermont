@@ -1,0 +1,86 @@
+{
+  "id": 874252351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.559148,42.873457,-72.559148,42.873457",
+    "geom:latitude":42.873457,
+    "geom:longitude":-72.559148,
+    "iso:country":"US",
+    "sg:address":"14 Noahs Ln",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 3550",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "graphic",
+        "services-commercial",
+        "designer",
+        "compiler"
+    ],
+    "sg:website":"http://www.howardprintinginc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YZtM3Msp9hVqekYifHePg_42.873457_-72.559148@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313611,
+    "wof:geomhash":"b1222e87074074747be2ce8b433c58c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874252351
+        }
+    ],
+    "wof:id":874252351,
+    "wof:lastmodified":1464313611,
+    "wof:name":"Howard Printing Inc",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "graphic",
+        "services-commercial",
+        "designer",
+        "compiler"
+    ]
+},
+  "bbox": [
+    -72.559148,
+    42.873457,
+    -72.559148,
+    42.873457
+],
+  "geometry": {"coordinates":[-72.55914799999999,42.873457],"type":"Point"}
+}

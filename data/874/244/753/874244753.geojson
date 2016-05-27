@@ -1,0 +1,73 @@
+{
+  "id": 874244753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.043024,43.179998,-73.043024,43.179998",
+    "geom:latitude":43.179998,
+    "geom:longitude":-73.043024,
+    "iso:country":"US",
+    "sg:address":"295 Barnumville Rd",
+    "sg:city":"Manchester Center",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 3351",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iCTtuPFNfnppvMHsapjWU_43.179998_-73.043024@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313430,
+    "wof:geomhash":"a011098e2d6ed2fa9430db877ad4fec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874244753
+        }
+    ],
+    "wof:id":874244753,
+    "wof:lastmodified":1464313430,
+    "wof:name":"Green Peak Pro Office Building",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.043024,
+    43.179998,
+    -73.043024,
+    43.179998
+],
+  "geometry": {"coordinates":[-73.043024,43.179998],"type":"Point"}
+}

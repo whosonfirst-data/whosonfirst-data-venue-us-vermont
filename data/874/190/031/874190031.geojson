@@ -1,0 +1,73 @@
+{
+  "id": 874190031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.565378,44.222294,-72.565378,44.222294",
+    "geom:latitude":44.222294,
+    "geom:longitude":-72.565378,
+    "iso:country":"US",
+    "sg:address":"266 Fisher Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 371 4844",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hOmkDyXE07TXU4DcExXhj_44.222294_-72.565378@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312740,
+    "wof:geomhash":"cbdbf2c7f4e6adccba8ed268ca614d3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874190031
+        }
+    ],
+    "wof:id":874190031,
+    "wof:lastmodified":1464312740,
+    "wof:name":"Associates In Family Health",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.565378,
+    44.222294,
+    -72.565378,
+    44.222294
+],
+  "geometry": {"coordinates":[-72.565378,44.222294],"type":"Point"}
+}

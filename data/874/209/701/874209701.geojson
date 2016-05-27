@@ -1,0 +1,71 @@
+{
+  "id": 874209701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.890774,44.508325,-72.890774,44.508325",
+    "geom:latitude":44.508325,
+    "geom:longitude":-72.890774,
+    "iso:country":"US",
+    "sg:address":"52 Stevensville Rd",
+    "sg:city":"Underhill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 2358",
+    "sg:postcode":"05490",
+    "sg:province":"VT",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85851047,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G8FNQyyOGki4xTmjGac8k_44.508325_-72.890774@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312946,
+    "wof:geomhash":"5c21e9fee6e6065a8836a6f91073169a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85851047,
+            "region_id":85688763,
+            "venue_id":874209701
+        }
+    ],
+    "wof:id":874209701,
+    "wof:lastmodified":1464312946,
+    "wof:name":"Mantone Stone Works",
+    "wof:parent_id":85851047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.890774,
+    44.508325,
+    -72.890774,
+    44.508325
+],
+  "geometry": {"coordinates":[-72.89077399999999,44.508325],"type":"Point"}
+}

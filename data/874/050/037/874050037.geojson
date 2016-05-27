@@ -1,0 +1,71 @@
+{
+  "id": 874050037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.20292,44.407301,-72.20292,44.407301",
+    "geom:latitude":44.407301,
+    "geom:longitude":-72.20292,
+    "iso:country":"US",
+    "sg:address":"3182 US Hwy 2",
+    "sg:city":"West Danville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 3379",
+    "sg:postcode":"05873",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cottage",
+        "cabin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EHtO4QOars7j9PZxUaPPl_44.407301_-72.202920@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311241,
+    "wof:geomhash":"5e1646dc16d1195421141f035444a136",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874050037
+        }
+    ],
+    "wof:id":874050037,
+    "wof:lastmodified":1464311241,
+    "wof:name":"Point Comfort Cottages",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cottage",
+        "cabin"
+    ]
+},
+  "bbox": [
+    -72.20292,
+    44.407301,
+    -72.20292,
+    44.407301
+],
+  "geometry": {"coordinates":[-72.20292000000001,44.407301],"type":"Point"}
+}

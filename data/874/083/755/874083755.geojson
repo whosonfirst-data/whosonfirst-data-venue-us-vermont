@@ -1,0 +1,71 @@
+{
+  "id": 874083755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.354141,43.611247,-72.354141,43.611247",
+    "geom:latitude":43.611247,
+    "geom:longitude":-72.354141,
+    "iso:country":"US",
+    "sg:address":"2590 N Hartland Rd",
+    "sg:city":"White River Junction",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 5740",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tkWQgLkLhpJa6zBpcE0qi_43.611247_-72.354141@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311596,
+    "wof:geomhash":"b51dfa223ca7e0bb23b25648ff7aad0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874083755
+        }
+    ],
+    "wof:id":874083755,
+    "wof:lastmodified":1464311596,
+    "wof:name":"Landfill Office",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -72.354141,
+    43.611247,
+    -72.354141,
+    43.611247
+],
+  "geometry": {"coordinates":[-72.354141,43.611247],"type":"Point"}
+}

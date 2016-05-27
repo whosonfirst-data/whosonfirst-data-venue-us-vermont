@@ -1,0 +1,72 @@
+{
+  "id": 874046291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212516,44.477628,-73.212516,44.477628",
+    "geom:latitude":44.477628,
+    "geom:longitude":-73.212516,
+    "iso:country":"US",
+    "sg:address":"96 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 9004",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cards"
+    ],
+    "sg:website":"www.scribblesvermont.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69iRmyWJc3v818LX897KxC_44.477628_-73.212516@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311209,
+    "wof:geomhash":"119bb162cccebe7ee510f8622f0089cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874046291
+        }
+    ],
+    "wof:id":874046291,
+    "wof:lastmodified":1464311209,
+    "wof:name":"Scribbles",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cards"
+    ]
+},
+  "bbox": [
+    -73.212516,
+    44.477628,
+    -73.212516,
+    44.477628
+],
+  "geometry": {"coordinates":[-73.21251599999999,44.477628],"type":"Point"}
+}

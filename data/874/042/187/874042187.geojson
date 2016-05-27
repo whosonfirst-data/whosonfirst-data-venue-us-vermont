@@ -1,0 +1,71 @@
+{
+  "id": 874042187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.224362,42.912129,-73.224362,42.912129",
+    "geom:latitude":42.912129,
+    "geom:longitude":-73.224362,
+    "iso:country":"US",
+    "sg:address":"751 N Bennington Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 3321",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gdldEZn2SVmWggpk8leyY_42.912129_-73.224362@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311167,
+    "wof:geomhash":"517e0b14494736c0a91ab2e856783890",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874042187
+        }
+    ],
+    "wof:id":874042187,
+    "wof:lastmodified":1464311167,
+    "wof:name":"Carbone Honda",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.224362,
+    42.912129,
+    -73.224362,
+    42.912129
+],
+  "geometry": {"coordinates":[-73.224362,42.912129],"type":"Point"}
+}

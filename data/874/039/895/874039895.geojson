@@ -1,0 +1,71 @@
+{
+  "id": 874039895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.942806,43.602731,-72.942806,43.602731",
+    "geom:latitude":43.602731,
+    "geom:longitude":-72.942806,
+    "iso:country":"US",
+    "sg:address":"436 Hitzel Ter",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 1277",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66zJhXjFcw722YqUHvJJkC_43.602731_-72.942806@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311142,
+    "wof:geomhash":"bea04c41b091cc899835097a7292efaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874039895
+        }
+    ],
+    "wof:id":874039895,
+    "wof:lastmodified":1464311142,
+    "wof:name":"Mc KANE Electric",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.942806,
+    43.602731,
+    -72.942806,
+    43.602731
+],
+  "geometry": {"coordinates":[-72.942806,43.602731],"type":"Point"}
+}

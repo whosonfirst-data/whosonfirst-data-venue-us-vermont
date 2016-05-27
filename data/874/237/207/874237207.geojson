@@ -1,0 +1,71 @@
+{
+  "id": 874237207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.504138,44.202472,-72.504138,44.202472",
+    "geom:latitude":44.202472,
+    "geom:longitude":-72.504138,
+    "iso:country":"US",
+    "sg:address":"25 Auditorium Hill",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 0256",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jfZqA7eMDCLpOwG8k531b_44.202472_-72.504138@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313284,
+    "wof:geomhash":"d38855654bf16b0ab3df77298dc1b4c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874237207
+        }
+    ],
+    "wof:id":874237207,
+    "wof:lastmodified":1464313284,
+    "wof:name":"Barre City Auditorium",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.504138,
+    44.202472,
+    -72.504138,
+    44.202472
+],
+  "geometry": {"coordinates":[-72.504138,44.202472],"type":"Point"}
+}

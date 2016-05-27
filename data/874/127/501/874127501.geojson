@@ -1,0 +1,79 @@
+{
+  "id": 874127501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.932926,43.531395,-72.932926,43.531395",
+    "geom:latitude":43.531395,
+    "geom:longitude":-72.932926,
+    "iso:country":"US",
+    "sg:address":"401 E Clarendon Rd",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4177",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mail",
+        "establishment",
+        "house"
+    ],
+    "sg:website":"www.vcsapothecary.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42QqI3AA8mjdQ2YDn6qrg1_43.531395_-72.932926@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312107,
+    "wof:geomhash":"0b7e22b8204ea5909a6be0171aece2e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874127501
+        }
+    ],
+    "wof:id":874127501,
+    "wof:lastmodified":1464312107,
+    "wof:name":"Vermont Country Store Bakery",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "establishment",
+        "house"
+    ]
+},
+  "bbox": [
+    -72.932926,
+    43.531395,
+    -72.932926,
+    43.531395
+],
+  "geometry": {"coordinates":[-72.93292599999999,43.531395],"type":"Point"}
+}

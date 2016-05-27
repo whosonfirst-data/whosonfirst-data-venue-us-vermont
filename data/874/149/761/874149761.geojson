@@ -1,0 +1,69 @@
+{
+  "id": 874149761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.99627,44.501841,-72.99627,44.501841",
+    "geom:latitude":44.501841,
+    "geom:longitude":-72.99627,
+    "iso:country":"US",
+    "sg:address":"8 Buxton Ln",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 1490",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jOl08uRG9PkPXaTjcoui0_44.501841_-72.996270@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312326,
+    "wof:geomhash":"c429d9c616e7cc1e46b86fc7df14c3b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874149761
+        }
+    ],
+    "wof:id":874149761,
+    "wof:lastmodified":1464312326,
+    "wof:name":"Floral Artistry",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.99627,
+    44.501841,
+    -72.99627,
+    44.501841
+],
+  "geometry": {"coordinates":[-72.99627,44.501841],"type":"Point"}
+}

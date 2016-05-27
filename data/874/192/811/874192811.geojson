@@ -1,0 +1,69 @@
+{
+  "id": 874192811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.505657,44.710206,-72.505657,44.710206",
+    "geom:latitude":44.710206,
+    "geom:longitude":-72.505657,
+    "iso:country":"US",
+    "sg:address":"187 Griggs Rd",
+    "sg:city":"Eden Mills",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 7757",
+    "sg:postcode":"05652",
+    "sg:province":"VT",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AryLcXlxYaDkgvLYYHYoo_44.710206_-72.505657@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312769,
+    "wof:geomhash":"1c1ac4e95e8af8a6839c7369638c3874",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874192811
+        }
+    ],
+    "wof:id":874192811,
+    "wof:lastmodified":1464312769,
+    "wof:name":"Peatman Surveying Inc",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -72.505657,
+    44.710206,
+    -72.505657,
+    44.710206
+],
+  "geometry": {"coordinates":[-72.505657,44.710206],"type":"Point"}
+}

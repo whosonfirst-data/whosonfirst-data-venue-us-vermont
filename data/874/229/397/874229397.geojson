@@ -1,0 +1,73 @@
+{
+  "id": 874229397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.485437,44.184853,-72.485437,44.184853",
+    "geom:latitude":44.184853,
+    "geom:longitude":-72.485437,
+    "iso:country":"US",
+    "sg:address":"43 Starr Farm Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 6384",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gonfeILa4bwKDfTqSFHtI_44.184853_-72.485437@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313154,
+    "wof:geomhash":"7709a48972b938ac835386f5853b1973",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874229397
+        }
+    ],
+    "wof:id":874229397,
+    "wof:lastmodified":1464313154,
+    "wof:name":"Birchwood Terrace Healthcare",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -72.485437,
+    44.184853,
+    -72.485437,
+    44.184853
+],
+  "geometry": {"coordinates":[-72.485437,44.184853],"type":"Point"}
+}

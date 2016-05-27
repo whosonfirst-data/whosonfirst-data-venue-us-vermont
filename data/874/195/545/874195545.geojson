@@ -1,0 +1,71 @@
+{
+  "id": 874195545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.840487,43.235098,-72.840487,43.235098",
+    "geom:latitude":43.235098,
+    "geom:longitude":-72.840487,
+    "iso:country":"US",
+    "sg:address":"1350 State Rte 11",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 824 4127",
+    "sg:postcode":"05148",
+    "sg:province":"VT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85852185,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GCHCgafRuaSEama3ng1yR_43.235098_-72.840487@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312800,
+    "wof:geomhash":"07c42510715da5fc6eb2eeb31b83a118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85852185,
+            "region_id":85688763,
+            "venue_id":874195545
+        }
+    ],
+    "wof:id":874195545,
+    "wof:lastmodified":1464312800,
+    "wof:name":"Iron Horse Standing Seam Roof",
+    "wof:parent_id":85852185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.840487,
+    43.235098,
+    -72.840487,
+    43.235098
+],
+  "geometry": {"coordinates":[-72.840487,43.235098],"type":"Point"}
+}

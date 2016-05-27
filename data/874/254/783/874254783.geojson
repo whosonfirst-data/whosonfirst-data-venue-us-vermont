@@ -1,0 +1,69 @@
+{
+  "id": 874254783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.228203,44.380699,-73.228203,44.380699",
+    "geom:latitude":44.380699,
+    "geom:longitude":-73.228203,
+    "iso:country":"US",
+    "sg:address":"29 Harbor Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 5480",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MQ6EiZoLjQjDPeMarj1fQ_44.380699_-73.228203@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313665,
+    "wof:geomhash":"5503029e019312eb544af39cf68fcefc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874254783
+        }
+    ],
+    "wof:id":874254783,
+    "wof:lastmodified":1464313665,
+    "wof:name":"Godfrey Megan Acupnctr",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture"
+    ]
+},
+  "bbox": [
+    -73.228203,
+    44.380699,
+    -73.228203,
+    44.380699
+],
+  "geometry": {"coordinates":[-73.22820299999999,44.380699],"type":"Point"}
+}

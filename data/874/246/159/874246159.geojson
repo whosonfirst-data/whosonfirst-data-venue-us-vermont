@@ -1,0 +1,71 @@
+{
+  "id": 874246159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.70155,44.957333,-72.70155,44.957333",
+    "geom:latitude":44.957333,
+    "geom:longitude":-72.70155,
+    "iso:country":"US",
+    "sg:address":"1657 Marvin Rd",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 848 7065",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "industrial",
+        "organic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jLFW4VNP39XTwUTodOKSy_44.957333_-72.701550@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313457,
+    "wof:geomhash":"db0b61ccf3fc69bb94b6b3e9650f4a22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874246159
+        }
+    ],
+    "wof:id":874246159,
+    "wof:lastmodified":1464313457,
+    "wof:name":"Vermont Organic Reclamation",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "organic"
+    ]
+},
+  "bbox": [
+    -72.70155,
+    44.957333,
+    -72.70155,
+    44.957333
+],
+  "geometry": {"coordinates":[-72.70155,44.957333],"type":"Point"}
+}

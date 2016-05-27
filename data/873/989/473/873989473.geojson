@@ -1,0 +1,71 @@
+{
+  "id": 873989473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.251174,44.16832,-73.251174,44.16832",
+    "geom:latitude":44.16832,
+    "geom:longitude":-73.251174,
+    "iso:country":"US",
+    "sg:address":"186 Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 9200",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73GqEB5TESb1z7nn0abHc2_44.168320_-73.251174@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310686,
+    "wof:geomhash":"a375cb6a3180421e1542cc6a95bc46e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":873989473
+        }
+    ],
+    "wof:id":873989473,
+    "wof:lastmodified":1464310686,
+    "wof:name":"Terry's Tips",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -73.251174,
+    44.16832,
+    -73.251174,
+    44.16832
+],
+  "geometry": {"coordinates":[-73.25117400000001,44.16832],"type":"Point"}
+}

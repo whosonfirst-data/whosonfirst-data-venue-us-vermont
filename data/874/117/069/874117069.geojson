@@ -1,0 +1,69 @@
+{
+  "id": 874117069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196319,42.88444,-73.196319,42.88444",
+    "geom:latitude":42.88444,
+    "geom:longitude":-73.196319,
+    "iso:country":"US",
+    "sg:address":"324 County St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pottery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 7531",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b95O0TQpSDxt3kR8vpJS9_42.884440_-73.196319@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312007,
+    "wof:geomhash":"5042a0e0b8f980ef00e08104e4befe8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874117069
+        }
+    ],
+    "wof:id":874117069,
+    "wof:lastmodified":1464312007,
+    "wof:name":"Bennington Potters Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -73.196319,
+    42.88444,
+    -73.196319,
+    42.88444
+],
+  "geometry": {"coordinates":[-73.196319,42.88444],"type":"Point"}
+}

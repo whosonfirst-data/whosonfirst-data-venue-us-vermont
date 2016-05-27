@@ -1,0 +1,71 @@
+{
+  "id": 874135765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.499383,44.197191,-72.499383,44.197191",
+    "geom:latitude":44.197191,
+    "geom:longitude":-72.499383,
+    "iso:country":"US",
+    "sg:address":"103 Church St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 525 9500",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zbwdqRnGLouUcUXcgM6Mx_44.197191_-72.499383@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312198,
+    "wof:geomhash":"eaf19a405ed3b786367896cae9ac4042",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874135765
+        }
+    ],
+    "wof:id":874135765,
+    "wof:lastmodified":1464312198,
+    "wof:name":"Debonville Certified Septic",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -72.499383,
+    44.197191,
+    -72.499383,
+    44.197191
+],
+  "geometry": {"coordinates":[-72.49938299999999,44.197191],"type":"Point"}
+}

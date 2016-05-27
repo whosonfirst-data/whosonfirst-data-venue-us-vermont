@@ -1,0 +1,66 @@
+{
+  "id": 874105295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.565186,44.215891,-72.565186,44.215891",
+    "geom:latitude":44.215891,
+    "geom:longitude":-72.565186,
+    "iso:country":"US",
+    "sg:address":"282 Berlin Mall Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 7792",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BmNYTdLsxQQOJPyWXUifx_44.215891_-72.565186@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311861,
+    "wof:geomhash":"7a87df9d54bd56c214b37d5f52bd6bda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874105295
+        }
+    ],
+    "wof:id":874105295,
+    "wof:lastmodified":1464311861,
+    "wof:name":"Wal-Mart",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.565186,
+    44.215891,
+    -72.565186,
+    44.215891
+],
+  "geometry": {"coordinates":[-72.565186,44.215891],"type":"Point"}
+}

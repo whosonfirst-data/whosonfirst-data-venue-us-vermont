@@ -1,0 +1,69 @@
+{
+  "id": 874248185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.195929,44.494741,-73.195929,44.494741",
+    "geom:latitude":44.494741,
+    "geom:longitude":-73.195929,
+    "iso:country":"US",
+    "sg:address":"14 West St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 7120",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R1hjYThMQ0Oo1iLYIshuQ_44.494741_-73.195929@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313499,
+    "wof:geomhash":"642efe1c08e997dbe81f06c2388502bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874248185
+        }
+    ],
+    "wof:id":874248185,
+    "wof:lastmodified":1464313499,
+    "wof:name":"Walter's Painting",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -73.195929,
+    44.494741,
+    -73.195929,
+    44.494741
+],
+  "geometry": {"coordinates":[-73.19592900000001,44.494741],"type":"Point"}
+}

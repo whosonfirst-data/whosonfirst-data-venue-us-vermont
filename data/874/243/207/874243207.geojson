@@ -1,0 +1,79 @@
+{
+  "id": 874243207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501758,44.197438,-72.501758,44.197438",
+    "geom:latitude":44.197438,
+    "geom:longitude":-72.501758,
+    "iso:country":"US",
+    "sg:address":"84 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Photographic Equipment",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4342",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photofinishing",
+        "camera",
+        "store",
+        "lab",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fBKvnEojJtPQTjkVITmWR_44.197438_-72.501758@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313398,
+    "wof:geomhash":"efc7765a87158183ff723f420e056b86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874243207
+        }
+    ],
+    "wof:id":874243207,
+    "wof:lastmodified":1464313398,
+    "wof:name":"Bob's Camera & Video",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photofinishing",
+        "camera",
+        "store",
+        "lab",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.501758,
+    44.197438,
+    -72.501758,
+    44.197438
+],
+  "geometry": {"coordinates":[-72.501758,44.197438],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874200703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.440547,44.230679,-72.440547,44.230679",
+    "geom:latitude":44.230679,
+    "geom:longitude":-72.440547,
+    "iso:country":"US",
+    "sg:address":"560 Gonyeau Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9258",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "riding",
+        "academy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wPKCJxGRZZX100qNXQcDj_44.230679_-72.440547@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312851,
+    "wof:geomhash":"b9369660df1ac356e8782310152f5566",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874200703
+        }
+    ],
+    "wof:id":874200703,
+    "wof:lastmodified":1464312851,
+    "wof:name":"East Hill Farm Riding Center",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "riding",
+        "academy"
+    ]
+},
+  "bbox": [
+    -72.440547,
+    44.230679,
+    -72.440547,
+    44.230679
+],
+  "geometry": {"coordinates":[-72.440547,44.230679],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874171235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.47453,43.297153,-72.47453,43.297153",
+    "geom:latitude":43.297153,
+    "geom:longitude":-72.47453,
+    "iso:country":"US",
+    "sg:address":"152 Summer St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 4815",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822381,
+        102191575,
+        404527377,
+        85633793,
+        101728481,
+        102080777,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z5QROxkgnPMRI3FwmVpJF_43.297153_-72.474530@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312541,
+    "wof:geomhash":"d07da43f8418bebcf8df15ac7b7edf24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080777,
+            "localadmin_id":404527377,
+            "locality_id":101728481,
+            "neighbourhood_id":85822381,
+            "region_id":85688763,
+            "venue_id":874171235
+        }
+    ],
+    "wof:id":874171235,
+    "wof:lastmodified":1464312541,
+    "wof:name":"Morse Properties",
+    "wof:parent_id":85822381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.47453,
+    43.297153,
+    -72.47453,
+    43.297153
+],
+  "geometry": {"coordinates":[-72.47453,43.297153],"type":"Point"}
+}

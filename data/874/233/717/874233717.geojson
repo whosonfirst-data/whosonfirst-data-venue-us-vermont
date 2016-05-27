@@ -1,0 +1,71 @@
+{
+  "id": 874233717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.509149,44.203896,-72.509149,44.203896",
+    "geom:latitude":44.203896,
+    "geom:longitude":-72.509149,
+    "iso:country":"US",
+    "sg:address":"411 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9227",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04ufnDVFuw59iPGujc9hTV_44.203896_-72.509149@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313214,
+    "wof:geomhash":"810fd0142fcd6c62c9accee1c4645b26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874233717
+        }
+    ],
+    "wof:id":874233717,
+    "wof:lastmodified":1464313214,
+    "wof:name":"Beverage Baron & Redemption",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -72.509149,
+    44.203896,
+    -72.509149,
+    44.203896
+],
+  "geometry": {"coordinates":[-72.50914899999999,44.203896],"type":"Point"}
+}

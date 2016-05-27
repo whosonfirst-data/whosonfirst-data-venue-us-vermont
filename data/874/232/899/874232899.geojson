@@ -1,0 +1,73 @@
+{
+  "id": 874232899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.522613,43.328469,-72.522613,43.328469",
+    "geom:latitude":43.328469,
+    "geom:longitude":-72.522613,
+    "iso:country":"US",
+    "sg:address":"5 Overlook Dr",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 8471",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ez42zlgv6ZLoRpNbLdwOe_43.328469_-72.522613@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313198,
+    "wof:geomhash":"7fcd74d51db26c534705a51e59de2e1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874232899
+        }
+    ],
+    "wof:id":874232899,
+    "wof:lastmodified":1464313198,
+    "wof:name":"J A Burton",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -72.522613,
+    43.328469,
+    -72.522613,
+    43.328469
+],
+  "geometry": {"coordinates":[-72.52261300000001,43.328469],"type":"Point"}
+}

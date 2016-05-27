@@ -1,0 +1,72 @@
+{
+  "id": 874197305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.197131,42.878353,-73.197131,42.878353",
+    "geom:latitude":42.878353,
+    "geom:longitude":-73.197131,
+    "iso:country":"US",
+    "sg:address":"401 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 6396",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "sg:website":"www.chittenden.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_295knyQ9mR2v8ieXytBwOn_42.878353_-73.197131@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312819,
+    "wof:geomhash":"10878645e44fed548c83c956f5535da5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874197305
+        }
+    ],
+    "wof:id":874197305,
+    "wof:lastmodified":1464312819,
+    "wof:name":"Chittenden Bank",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -73.197131,
+    42.878353,
+    -73.197131,
+    42.878353
+],
+  "geometry": {"coordinates":[-73.197131,42.878353],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874157889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.231628,42.91254,-73.231628,42.91254",
+    "geom:latitude":42.91254,
+    "geom:longitude":-73.231628,
+    "iso:country":"US",
+    "sg:address":"1246 N Bennington Rd",
+    "sg:city":"North Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 1932",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XdwocYNKTqRzg0dfBPwj8_42.912540_-73.231628@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312407,
+    "wof:geomhash":"6c56337458572b04ee4ded2b47497b6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874157889
+        }
+    ],
+    "wof:id":874157889,
+    "wof:lastmodified":1464312407,
+    "wof:name":"Academy of Cosmetology",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.231628,
+    42.91254,
+    -73.231628,
+    42.91254
+],
+  "geometry": {"coordinates":[-73.231628,42.91254],"type":"Point"}
+}

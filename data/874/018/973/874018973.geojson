@@ -1,0 +1,71 @@
+{
+  "id": 874018973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.051461,43.156197,-73.051461,43.156197",
+    "geom:latitude":43.156197,
+    "geom:longitude":-73.051461,
+    "iso:country":"US",
+    "sg:address":"2545 Richville Rd",
+    "sg:city":"Manchester Center",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 4088",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844461,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eM2g5fa5klsJaGLkn302P_43.156197_-73.051461@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310937,
+    "wof:geomhash":"ad39d9061915c2187be18a58a7c468ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85844461,
+            "region_id":85688763,
+            "venue_id":874018973
+        }
+    ],
+    "wof:id":874018973,
+    "wof:lastmodified":1464310937,
+    "wof:name":"Bushee Battenkill Valley Farm",
+    "wof:parent_id":85844461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.051461,
+    43.156197,
+    -73.051461,
+    43.156197
+],
+  "geometry": {"coordinates":[-73.051461,43.156197],"type":"Point"}
+}

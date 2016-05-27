@@ -1,0 +1,73 @@
+{
+  "id": 874023583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.561909,44.208867,-72.561909,44.208867",
+    "geom:latitude":44.208867,
+    "geom:longitude":-72.561909,
+    "iso:country":"US",
+    "sg:address":"254 Industrial Ln",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 1955",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a9ntIM80pLIHjHz6Dz8A3_44.208867_-72.561909@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310979,
+    "wof:geomhash":"063ef634d457e81b43670fdcaba1ab84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874023583
+        }
+    ],
+    "wof:id":874023583,
+    "wof:lastmodified":1464310979,
+    "wof:name":"Benoit Electric Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.561909,
+    44.208867,
+    -72.561909,
+    44.208867
+],
+  "geometry": {"coordinates":[-72.561909,44.208867],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874113037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.178702,44.458186,-73.178702,44.458186",
+    "geom:latitude":44.458186,
+    "geom:longitude":-73.178702,
+    "iso:country":"US",
+    "sg:address":"45 San Remo Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 5380",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "sg:website":"www.champlainoil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xOMfZAUG0OKbneg3t7jwM_44.458186_-73.178702@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311968,
+    "wof:geomhash":"20732794851346bffea1fc8192a912dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874113037
+        }
+    ],
+    "wof:id":874113037,
+    "wof:lastmodified":1464311968,
+    "wof:name":"Champlain Oil Co",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -73.178702,
+    44.458186,
+    -73.178702,
+    44.458186
+],
+  "geometry": {"coordinates":[-73.178702,44.458186],"type":"Point"}
+}

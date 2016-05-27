@@ -1,0 +1,71 @@
+{
+  "id": 874167553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.143989,44.049691,-73.143989,44.049691",
+    "geom:latitude":44.049691,
+    "geom:longitude":-73.143989,
+    "iso:country":"US",
+    "sg:address":"201 Halpin Covered Bridge Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7446",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RSg2WMjHrcpHFEeMvVsIn_44.049691_-73.143989@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312503,
+    "wof:geomhash":"efee58c0cdb0f41ff6d5b538947f6830",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874167553
+        }
+    ],
+    "wof:id":874167553,
+    "wof:lastmodified":1464312503,
+    "wof:name":"Sugarhill Woodworks",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.143989,
+    44.049691,
+    -73.143989,
+    44.049691
+],
+  "geometry": {"coordinates":[-73.143989,44.049691],"type":"Point"}
+}

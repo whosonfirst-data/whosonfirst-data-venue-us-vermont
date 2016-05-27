@@ -1,0 +1,71 @@
+{
+  "id": 874184953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.975331,43.624332,-72.975331,43.624332",
+    "geom:latitude":43.624332,
+    "geom:longitude":-72.975331,
+    "iso:country":"US",
+    "sg:address":"259 N Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 5527",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "passenger",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A4OZ2PrdbWkdGffS2MdN2_43.624332_-72.975331@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312691,
+    "wof:geomhash":"2d65705918945330e1a4b74a352345a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874184953
+        }
+    ],
+    "wof:id":874184953,
+    "wof:lastmodified":1464312691,
+    "wof:name":"Execustar Limousine Service",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -72.975331,
+    43.624332,
+    -72.975331,
+    43.624332
+],
+  "geometry": {"coordinates":[-72.975331,43.624332],"type":"Point"}
+}

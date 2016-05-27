@@ -1,0 +1,73 @@
+{
+  "id": 874017205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.170709,44.03538,-73.170709,44.03538",
+    "geom:latitude":44.03538,
+    "geom:longitude":-73.170709,
+    "iso:country":"US",
+    "sg:address":"108 Park Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4572",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05StvkXPhhWuPcGG8UXkyM_44.035380_-73.170709@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310915,
+    "wof:geomhash":"bb6382e35e2820fd90b20a9f0b2f83ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874017205
+        }
+    ],
+    "wof:id":874017205,
+    "wof:lastmodified":1464310915,
+    "wof:name":"Back To Action Physical Thrpy",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.170709,
+    44.03538,
+    -73.170709,
+    44.03538
+],
+  "geometry": {"coordinates":[-73.170709,44.03538],"type":"Point"}
+}

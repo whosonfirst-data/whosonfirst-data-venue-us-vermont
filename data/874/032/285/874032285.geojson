@@ -1,0 +1,69 @@
+{
+  "id": 874032285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.938209,44.384257,-72.938209,44.384257",
+    "geom:latitude":44.384257,
+    "geom:longitude":-72.938209,
+    "iso:country":"US",
+    "sg:address":"3406 E Main St",
+    "sg:city":"Jonesville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 4040",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "scooter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FPYvPLaNxsMc8qzgVtXKt_44.384257_-72.938209@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311069,
+    "wof:geomhash":"750b79e29d17cafd66b363548273097c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874032285
+        }
+    ],
+    "wof:id":874032285,
+    "wof:lastmodified":1464311069,
+    "wof:name":"Harbor Vintage Motor Co",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [
+    -72.938209,
+    44.384257,
+    -72.938209,
+    44.384257
+],
+  "geometry": {"coordinates":[-72.938209,44.384257],"type":"Point"}
+}

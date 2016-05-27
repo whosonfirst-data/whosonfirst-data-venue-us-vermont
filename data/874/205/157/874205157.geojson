@@ -1,0 +1,71 @@
+{
+  "id": 874205157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.564556,44.207195,-72.564556,44.207195",
+    "geom:latitude":44.207195,
+    "geom:longitude":-72.564556,
+    "iso:country":"US",
+    "sg:address":"641 Comstock Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 7364",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q81GPuFKqEDKHPzIHJHu1_44.207195_-72.564556@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312896,
+    "wof:geomhash":"f12dfd98c42cd0d9f778fd6f4662cfe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874205157
+        }
+    ],
+    "wof:id":874205157,
+    "wof:lastmodified":1464312896,
+    "wof:name":"Family Tree Counseling Assoc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -72.564556,
+    44.207195,
+    -72.564556,
+    44.207195
+],
+  "geometry": {"coordinates":[-72.564556,44.207195],"type":"Point"}
+}

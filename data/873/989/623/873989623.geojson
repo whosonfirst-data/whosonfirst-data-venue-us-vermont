@@ -1,0 +1,71 @@
+{
+  "id": 873989623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50162,44.181569,-72.50162,44.181569",
+    "geom:latitude":44.181569,
+    "geom:longitude":-72.50162,
+    "iso:country":"US",
+    "sg:address":"297 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9262",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24tekBbaniGhGefyR9PyJj_44.181569_-72.501620@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310687,
+    "wof:geomhash":"df4c5d8677fe802ff4c3925c8ca2e374",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873989623
+        }
+    ],
+    "wof:id":873989623,
+    "wof:lastmodified":1464310687,
+    "wof:name":"Dufresne & Assoc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -72.50162,
+    44.181569,
+    -72.50162,
+    44.181569
+],
+  "geometry": {"coordinates":[-72.50162,44.181569],"type":"Point"}
+}

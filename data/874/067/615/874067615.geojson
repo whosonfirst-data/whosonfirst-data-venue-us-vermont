@@ -1,0 +1,75 @@
+{
+  "id": 874067615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.185143,43.958011,-73.185143,43.958011",
+    "geom:latitude":43.958011,
+    "geom:longitude":-73.185143,
+    "iso:country":"US",
+    "sg:address":"1348 Peet Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 2776",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "a",
+        "transmitter",
+        "radio",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nfb2oM7jQ12jtu7z3Ang7_43.958011_-73.185143@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311404,
+    "wof:geomhash":"61a01de2d706f7bda70e62c71ee51405",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":874067615
+        }
+    ],
+    "wof:id":874067615,
+    "wof:lastmodified":1464311404,
+    "wof:name":"Falcon Communications",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "a",
+        "transmitter",
+        "radio",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.185143,
+    43.958011,
+    -73.185143,
+    43.958011
+],
+  "geometry": {"coordinates":[-73.185143,43.958011],"type":"Point"}
+}

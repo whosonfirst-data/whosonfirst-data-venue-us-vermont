@@ -1,0 +1,71 @@
+{
+  "id": 874143813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.355627,43.591658,-72.355627,43.591658",
+    "geom:latitude":43.591658,
+    "geom:longitude":-72.355627,
+    "iso:country":"US",
+    "sg:address":"114 Wood Cir",
+    "sg:city":"White River Jct",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 1979",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CEJPXClqFMRCcUSyeLFtP_43.591658_-72.355627@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312269,
+    "wof:geomhash":"e1d242a0ba25e12d0d2ed191b3a97aaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874143813
+        }
+    ],
+    "wof:id":874143813,
+    "wof:lastmodified":1464312269,
+    "wof:name":"Changing Seasons",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -72.355627,
+    43.591658,
+    -72.355627,
+    43.591658
+],
+  "geometry": {"coordinates":[-72.355627,43.591658],"type":"Point"}
+}

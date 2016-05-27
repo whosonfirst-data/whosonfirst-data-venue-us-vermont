@@ -1,0 +1,71 @@
+{
+  "id": 874253771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.195721,44.291526,-73.195721,44.291526",
+    "geom:latitude":44.291526,
+    "geom:longitude":-73.195721,
+    "iso:country":"US",
+    "sg:address":"475 Meadowside Dr",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 3809",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "print",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85843159,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kbmRtCIueAQSa1HMFGiub_44.291526_-73.195721@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313641,
+    "wof:geomhash":"c19502dcf10e7e30bde740c24c4242d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85843159,
+            "region_id":85688763,
+            "venue_id":874253771
+        }
+    ],
+    "wof:id":874253771,
+    "wof:lastmodified":1464313641,
+    "wof:name":"Horsemen's Guide the",
+    "wof:parent_id":85843159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "medium"
+    ]
+},
+  "bbox": [
+    -73.195721,
+    44.291526,
+    -73.195721,
+    44.291526
+],
+  "geometry": {"coordinates":[-73.19572100000001,44.291526],"type":"Point"}
+}

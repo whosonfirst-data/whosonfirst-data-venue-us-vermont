@@ -1,0 +1,69 @@
+{
+  "id": 874044037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.492041,43.307119,-72.492041,43.307119",
+    "geom:latitude":43.307119,
+    "geom:longitude":-72.492041,
+    "iso:country":"US",
+    "sg:address":"59 Westview Ter",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 4453",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i4UhoW3hABRXddYyphWe4_43.307119_-72.492041@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311185,
+    "wof:geomhash":"a1053f456680f24bce11a1ab979079ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874044037
+        }
+    ],
+    "wof:id":874044037,
+    "wof:lastmodified":1464311185,
+    "wof:name":"Westview Apartments",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.492041,
+    43.307119,
+    -72.492041,
+    43.307119
+],
+  "geometry": {"coordinates":[-72.492041,43.307119],"type":"Point"}
+}

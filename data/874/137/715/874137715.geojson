@@ -1,0 +1,73 @@
+{
+  "id": 874137715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.164484,44.548539,-73.164484,44.548539",
+    "geom:latitude":44.548539,
+    "geom:longitude":-73.164484,
+    "iso:country":"US",
+    "sg:address":"164 Main St",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 7844",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V0DL7Paf1oL8mqYW5w6MP_44.548539_-73.164484@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312215,
+    "wof:geomhash":"3a9cbe1c44f04256fc2cab32a6086b03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874137715
+        }
+    ],
+    "wof:id":874137715,
+    "wof:lastmodified":1464312215,
+    "wof:name":"Rebecca J Collman MD",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.164484,
+    44.548539,
+    -73.164484,
+    44.548539
+],
+  "geometry": {"coordinates":[-73.164484,44.548539],"type":"Point"}
+}

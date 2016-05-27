@@ -1,0 +1,69 @@
+{
+  "id": 874134929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.79044,44.953804,-72.79044,44.953804",
+    "geom:latitude":44.953804,
+    "geom:longitude":-72.79044,
+    "iso:country":"US",
+    "sg:address":"2317 Water Tower Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 2143",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gBqcVXWU67Aibs77140n5_44.953804_-72.790440@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312190,
+    "wof:geomhash":"a4122ff6356ac7f8a0536266846c53e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874134929
+        }
+    ],
+    "wof:id":874134929,
+    "wof:lastmodified":1464312190,
+    "wof:name":"Lawrence Chalifoux",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -72.79044,
+    44.953804,
+    -72.79044,
+    44.953804
+],
+  "geometry": {"coordinates":[-72.79044,44.953804],"type":"Point"}
+}

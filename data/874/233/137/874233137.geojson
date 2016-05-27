@@ -1,0 +1,71 @@
+{
+  "id": 874233137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.224204,44.313077,-73.224204,44.313077",
+    "geom:latitude":44.313077,
+    "geom:longitude":-73.224204,
+    "iso:country":"US",
+    "sg:address":"2954 Mount Philo Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 3404",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "miscellaneous",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85843159,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d3im8GHLSilYjymtp26pE_44.313077_-73.224204@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313201,
+    "wof:geomhash":"7f494ebb1e123050b973203f07915d3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85843159,
+            "region_id":85688763,
+            "venue_id":874233137
+        }
+    ],
+    "wof:id":874233137,
+    "wof:lastmodified":1464313201,
+    "wof:name":"Big Rock Productions",
+    "wof:parent_id":85843159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "miscellaneous",
+        "store"
+    ]
+},
+  "bbox": [
+    -73.224204,
+    44.313077,
+    -73.224204,
+    44.313077
+],
+  "geometry": {"coordinates":[-73.224204,44.313077],"type":"Point"}
+}

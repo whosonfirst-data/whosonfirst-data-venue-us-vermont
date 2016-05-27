@@ -1,0 +1,69 @@
+{
+  "id": 874241373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.02368,44.41553,-72.02368,44.41553",
+    "geom:latitude":44.41553,
+    "geom:longitude":-72.02368,
+    "iso:country":"US",
+    "sg:address":"74 Barker Ave",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 5031",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "civic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DwXoWzQFrSyucdhb2YpJF_44.415530_-72.023680@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313365,
+    "wof:geomhash":"f0189d25d2142623ca582d9bf8fbe9f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874241373
+        }
+    ],
+    "wof:id":874241373,
+    "wof:lastmodified":1464313365,
+    "wof:name":"Kiwanis Club Saint Johnsbury",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civic"
+    ]
+},
+  "bbox": [
+    -72.02368,
+    44.41553,
+    -72.02368,
+    44.41553
+],
+  "geometry": {"coordinates":[-72.02368,44.41553],"type":"Point"}
+}

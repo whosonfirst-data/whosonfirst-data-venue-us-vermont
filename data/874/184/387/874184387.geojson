@@ -1,0 +1,73 @@
+{
+  "id": 874184387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.082875,44.143338,-73.082875,44.143338",
+    "geom:latitude":44.143338,
+    "geom:longitude":-73.082875,
+    "iso:country":"US",
+    "sg:address":"140 North St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2587",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WGCAAYU8A6s2cxlLDEdvT_44.143338_-73.082875@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312683,
+    "wof:geomhash":"b14a9c8ad70ea662541b214d1df51210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874184387
+        }
+    ],
+    "wof:id":874184387,
+    "wof:lastmodified":1464312683,
+    "wof:name":"Heffernan Excavating Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.082875,
+    44.143338,
+    -73.082875,
+    44.143338
+],
+  "geometry": {"coordinates":[-73.082875,44.143338],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874255035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.225549,44.373233,-73.225549,44.373233",
+    "geom:latitude":44.373233,
+    "geom:longitude":-73.225549,
+    "iso:country":"US",
+    "sg:address":"516 Falls Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 3732",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WZXe4Wa0JkPhyXl4YgG01_44.373233_-73.225549@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313676,
+    "wof:geomhash":"9acf5e3a2bb3c594af910be3076bfea0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874255035
+        }
+    ],
+    "wof:id":874255035,
+    "wof:lastmodified":1464313676,
+    "wof:name":"Fisher R Trucking & Excavating Company",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.225549,
+    44.373233,
+    -73.225549,
+    44.373233
+],
+  "geometry": {"coordinates":[-73.225549,44.373233],"type":"Point"}
+}

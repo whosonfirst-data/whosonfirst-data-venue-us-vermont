@@ -1,0 +1,69 @@
+{
+  "id": 874105691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.688649,44.465271,-72.688649,44.465271",
+    "geom:latitude":44.465271,
+    "geom:longitude":-72.688649,
+    "iso:country":"US",
+    "sg:address":"64 S Main St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 6837",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OLiODlw2cLGYLRpjGCh2z_44.465271_-72.688649@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311865,
+    "wof:geomhash":"cdae4ac63afe1144cdf77d96e333f244",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874105691
+        }
+    ],
+    "wof:id":874105691,
+    "wof:lastmodified":1464311865,
+    "wof:name":"Stowe Asst Management Co",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -72.688649,
+    44.465271,
+    -72.688649,
+    44.465271
+],
+  "geometry": {"coordinates":[-72.688649,44.465271],"type":"Point"}
+}

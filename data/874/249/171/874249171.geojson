@@ -1,0 +1,75 @@
+{
+  "id": 874249171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211813,44.475949,-73.211813,44.475949",
+    "geom:latitude":44.475949,
+    "geom:longitude":-73.211813,
+    "iso:country":"US",
+    "sg:address":"194 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 7314",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking",
+        "eating",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MsOhNk35R91fdkNFpu70T_44.476048_-73.211639@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313536,
+    "wof:geomhash":"26dc8c7b7c002124fc94e4f7cbe3d268",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874249171
+        }
+    ],
+    "wof:id":874249171,
+    "wof:lastmodified":1464313536,
+    "wof:name":"Esox",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -73.211813,
+    44.475949,
+    -73.211813,
+    44.475949
+],
+  "geometry": {"coordinates":[-73.21181300000001,44.475949],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 874251471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200081,42.884472,-73.200081,42.884472",
+    "geom:latitude":42.884472,
+    "geom:longitude":-73.200081,
+    "iso:country":"US",
+    "sg:address":"115 County St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 3129",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "truck",
+        "used",
+        "moving"
+    ],
+    "sg:website":"http://budgettruck.com/IYP_tl",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h4Ws5wZPsis0IFvJ6jQJJ_42.884472_-73.200081@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313595,
+    "wof:geomhash":"1a097e923c5ba855c0e0b7a15473231b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251471
+        }
+    ],
+    "wof:id":874251471,
+    "wof:lastmodified":1464313595,
+    "wof:name":"Ez Way Rental Center DBA/Budget Truck Rental",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "used",
+        "moving"
+    ]
+},
+  "bbox": [
+    -73.200081,
+    42.884472,
+    -73.200081,
+    42.884472
+],
+  "geometry": {"coordinates":[-73.200081,42.884472],"type":"Point"}
+}

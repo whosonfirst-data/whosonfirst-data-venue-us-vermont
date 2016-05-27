@@ -1,0 +1,71 @@
+{
+  "id": 874238791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.092036,43.800048,-73.092036,43.800048",
+    "geom:latitude":43.800048,
+    "geom:longitude":-73.092036,
+    "iso:country":"US",
+    "sg:address":"23 Conant Sq",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 5101",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zkig4DLungfFo4HOl0ShM_43.800048_-73.092036@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313317,
+    "wof:geomhash":"ddd9884cbaa68e5ac182735bde297999",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874238791
+        }
+    ],
+    "wof:id":874238791,
+    "wof:lastmodified":1464313317,
+    "wof:name":"John W Beasley",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -73.092036,
+    43.800048,
+    -73.092036,
+    43.800048
+],
+  "geometry": {"coordinates":[-73.09203599999999,43.800048],"type":"Point"}
+}

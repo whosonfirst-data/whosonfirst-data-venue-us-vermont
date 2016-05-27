@@ -1,0 +1,71 @@
+{
+  "id": 874109617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.506451,44.197555,-72.506451,44.197555",
+    "geom:latitude":44.197555,
+    "geom:longitude":-72.506451,
+    "iso:country":"US",
+    "sg:address":"32 Burnham St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6689",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yj5XUw1NnHrONNmpTXT29_44.197555_-72.506451@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311909,
+    "wof:geomhash":"ebe3bb97889eed3c4d1802be8851337c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874109617
+        }
+    ],
+    "wof:id":874109617,
+    "wof:lastmodified":1464311909,
+    "wof:name":"Capital Candy Co Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -72.506451,
+    44.197555,
+    -72.506451,
+    44.197555
+],
+  "geometry": {"coordinates":[-72.506451,44.197555],"type":"Point"}
+}

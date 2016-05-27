@@ -1,0 +1,69 @@
+{
+  "id": 874107157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.195869,42.878127,-73.195869,42.878127",
+    "geom:latitude":42.878127,
+    "geom:longitude":-73.195869,
+    "iso:country":"US",
+    "sg:address":"437 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 2122",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UIgA3WH51MZoJrTN2EEHS_42.878127_-73.195869@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311884,
+    "wof:geomhash":"49e2fe15523dfcb18c420ee8741a1a60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874107157
+        }
+    ],
+    "wof:id":874107157,
+    "wof:lastmodified":1464311884,
+    "wof:name":"K F Armstrong Jewelers",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -73.195869,
+    42.878127,
+    -73.195869,
+    42.878127
+],
+  "geometry": {"coordinates":[-73.195869,42.878127],"type":"Point"}
+}

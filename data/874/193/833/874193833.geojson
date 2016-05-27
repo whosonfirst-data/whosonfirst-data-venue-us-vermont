@@ -1,0 +1,79 @@
+{
+  "id": 874193833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204157,44.448451,-73.204157,44.448451",
+    "geom:latitude":44.448451,
+    "geom:longitude":-73.204157,
+    "iso:country":"US",
+    "sg:address":"60 Farrell St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 4891",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "control",
+        "management"
+    ],
+    "sg:website":"www.hallam.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gHQ0UuBqWclNSjBukevyr_44.448451_-73.204157@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312778,
+    "wof:geomhash":"7780713973ca457587820715114b3608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874193833
+        }
+    ],
+    "wof:id":874193833,
+    "wof:lastmodified":1464312778,
+    "wof:name":"Integrated Control Systems",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "management"
+    ]
+},
+  "bbox": [
+    -73.204157,
+    44.448451,
+    -73.204157,
+    44.448451
+],
+  "geometry": {"coordinates":[-73.204157,44.448451],"type":"Point"}
+}

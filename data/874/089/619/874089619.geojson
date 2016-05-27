@@ -1,0 +1,71 @@
+{
+  "id": 874089619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.401213,44.24862,-72.401213,44.24862",
+    "geom:latitude":44.24862,
+    "geom:longitude":-72.401213,
+    "iso:country":"US",
+    "sg:address":"783 Fowler Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 454 7717",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38WpS2fCnF1khzGoTK6Pma_44.248620_-72.401213@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311656,
+    "wof:geomhash":"172df44c663d1a2cb150ed6d53730d6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874089619
+        }
+    ],
+    "wof:id":874089619,
+    "wof:lastmodified":1464311656,
+    "wof:name":"Tamarack House",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book"
+    ]
+},
+  "bbox": [
+    -72.401213,
+    44.24862,
+    -72.401213,
+    44.24862
+],
+  "geometry": {"coordinates":[-72.401213,44.24862],"type":"Point"}
+}

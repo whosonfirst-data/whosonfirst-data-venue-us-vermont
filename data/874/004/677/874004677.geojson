@@ -1,0 +1,71 @@
+{
+  "id": 874004677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.192259,42.879066,-73.192259,42.879066",
+    "geom:latitude":42.879066,
+    "geom:longitude":-73.192259,
+    "iso:country":"US",
+    "sg:address":"103 Valentine St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 3097",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_058C95Y7z24KFtqiMCn2t7_42.879066_-73.192259@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310811,
+    "wof:geomhash":"b114fa3f7c9d8dc18c7104a81f1819e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874004677
+        }
+    ],
+    "wof:id":874004677,
+    "wof:lastmodified":1464310811,
+    "wof:name":"PS Properties",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.192259,
+    42.879066,
+    -73.192259,
+    42.879066
+],
+  "geometry": {"coordinates":[-73.19225900000001,42.879066],"type":"Point"}
+}

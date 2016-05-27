@@ -1,0 +1,71 @@
+{
+  "id": 874088599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.497773,44.172436,-72.497773,44.172436",
+    "geom:latitude":44.172436,
+    "geom:longitude":-72.497773,
+    "iso:country":"US",
+    "sg:address":"169 Sterling Hill Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4366",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EXzGfF0nMBXGRiM9jakrR_44.172436_-72.497773@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311646,
+    "wof:geomhash":"82542816a54f564c17bb6357e1da4bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874088599
+        }
+    ],
+    "wof:id":874088599,
+    "wof:lastmodified":1464311646,
+    "wof:name":"Koffee Kup Bakery Distribution",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -72.497773,
+    44.172436,
+    -72.497773,
+    44.172436
+],
+  "geometry": {"coordinates":[-72.497773,44.172436],"type":"Point"}
+}

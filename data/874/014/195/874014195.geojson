@@ -1,0 +1,71 @@
+{
+  "id": 874014195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.18986,42.906551,-73.18986,42.906551",
+    "geom:latitude":42.906551,
+    "geom:longitude":-73.18986,
+    "iso:country":"US",
+    "sg:address":"1323 East Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 6897",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G5aTphIPkPLGYpUZOdO1B_42.906551_-73.189860@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310885,
+    "wof:geomhash":"7cad9fc49facf51f74bb66a2a4e3ce69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874014195
+        }
+    ],
+    "wof:id":874014195,
+    "wof:lastmodified":1464310885,
+    "wof:name":"Walt's Svc Ctr",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.18986,
+    42.906551,
+    -73.18986,
+    42.906551
+],
+  "geometry": {"coordinates":[-73.18986,42.906551],"type":"Point"}
+}

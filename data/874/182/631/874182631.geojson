@@ -1,0 +1,72 @@
+{
+  "id": 874182631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.667741,43.046109,-72.667741,43.046109",
+    "geom:latitude":43.046109,
+    "geom:longitude":-72.667741,
+    "iso:country":"US",
+    "sg:address":"1844 State Rte 30",
+    "sg:city":"Townshend",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 4170",
+    "sg:postcode":"05353",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.nejeeps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z94jcowIN3UPlNbHSIo0K_43.046109_-72.667741@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312656,
+    "wof:geomhash":"8208229b9ed14eb5d08a894fd5e32603",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874182631
+        }
+    ],
+    "wof:id":874182631,
+    "wof:lastmodified":1464312656,
+    "wof:name":"Wayne's Auto & Truck Repair",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.667741,
+    43.046109,
+    -72.667741,
+    43.046109
+],
+  "geometry": {"coordinates":[-72.66774100000001,43.046109],"type":"Point"}
+}

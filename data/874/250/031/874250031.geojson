@@ -1,0 +1,75 @@
+{
+  "id": 874250031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.979716,43.599957,-72.979716,43.599957",
+    "geom:latitude":43.599957,
+    "geom:longitude":-72.979716,
+    "iso:country":"US",
+    "sg:address":"140 Granger St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 6251",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "hotels-apartment",
+        "apartment",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6anocN9vFJblM8wLZkWeKw_43.599899_-72.979599@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313566,
+    "wof:geomhash":"27e45528bd1f2a53d72e3cc7b7bf15ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874250031
+        }
+    ],
+    "wof:id":874250031,
+    "wof:lastmodified":1464313566,
+    "wof:name":"Avanti Enterprises Ltd",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "hotels-apartment",
+        "apartment",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -72.979716,
+    43.599957,
+    -72.979716,
+    43.599957
+],
+  "geometry": {"coordinates":[-72.979716,43.599957],"type":"Point"}
+}

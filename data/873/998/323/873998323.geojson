@@ -1,0 +1,73 @@
+{
+  "id": 873998323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.297034,44.166193,-73.297034,44.166193",
+    "geom:latitude":44.166193,
+    "geom:longitude":-73.297034,
+    "iso:country":"US",
+    "sg:address":"619 Basin Harbor Rd",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 475 2942",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rAZAD5xPQTN6ytZqbWyZ5_44.166193_-73.297034@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310749,
+    "wof:geomhash":"388f79490cb4eca08167362ac4331172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":873998323
+        }
+    ],
+    "wof:id":873998323,
+    "wof:lastmodified":1464310749,
+    "wof:name":"Miner Excavation",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.297034,
+    44.166193,
+    -73.297034,
+    44.166193
+],
+  "geometry": {"coordinates":[-73.297034,44.166193],"type":"Point"}
+}

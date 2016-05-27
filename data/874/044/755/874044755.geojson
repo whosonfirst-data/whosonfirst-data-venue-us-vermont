@@ -1,0 +1,73 @@
+{
+  "id": 874044755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.941398,44.448437,-71.941398,44.448437",
+    "geom:latitude":44.448437,
+    "geom:longitude":-71.941398,
+    "iso:country":"US",
+    "sg:address":"1029 Severance Hill Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 6277",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zSvIV2zX7UsSkAmMZSxVV_44.448437_-71.941398@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311191,
+    "wof:geomhash":"f9d32a925c619c19c2a50843b5681175",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874044755
+        }
+    ],
+    "wof:id":874044755,
+    "wof:lastmodified":1464311191,
+    "wof:name":"Broome Power Equipment",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -71.941398,
+    44.448437,
+    -71.941398,
+    44.448437
+],
+  "geometry": {"coordinates":[-71.94139800000001,44.448437],"type":"Point"}
+}

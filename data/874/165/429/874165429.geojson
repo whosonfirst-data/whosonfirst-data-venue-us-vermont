@@ -1,0 +1,73 @@
+{
+  "id": 874165429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977832,43.595137,-72.977832,43.595137",
+    "geom:latitude":43.595137,
+    "geom:longitude":-72.977832,
+    "iso:country":"US",
+    "sg:address":"72 Park St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2626",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lawn",
+        "garden",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OCWf7Cyhqz8Z9yXlipAtb_43.595137_-72.977832@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312484,
+    "wof:geomhash":"a891e3f363d6349e977a57a9ae444e2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874165429
+        }
+    ],
+    "wof:id":874165429,
+    "wof:lastmodified":1464312484,
+    "wof:name":"Park Place Florist & Grdn Ctr",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "garden",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.977832,
+    43.595137,
+    -72.977832,
+    43.595137
+],
+  "geometry": {"coordinates":[-72.97783200000001,43.595137],"type":"Point"}
+}

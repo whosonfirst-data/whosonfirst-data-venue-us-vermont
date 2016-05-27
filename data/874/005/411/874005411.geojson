@@ -1,0 +1,71 @@
+{
+  "id": 874005411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.557307,42.86915,-72.557307,42.86915",
+    "geom:latitude":42.86915,
+    "geom:longitude":-72.557307,
+    "iso:country":"US",
+    "sg:address":"670 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 4195",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xhvt7C066bYbXhFfJZDl8_42.869150_-72.557307@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310819,
+    "wof:geomhash":"32fdd9f413db5c0e4cda44e1f494c373",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874005411
+        }
+    ],
+    "wof:id":874005411,
+    "wof:lastmodified":1464310819,
+    "wof:name":"Putney Road Redemption Ctr",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -72.557307,
+    42.86915,
+    -72.557307,
+    42.86915
+],
+  "geometry": {"coordinates":[-72.55730699999999,42.86915],"type":"Point"}
+}

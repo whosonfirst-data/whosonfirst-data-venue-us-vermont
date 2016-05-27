@@ -1,0 +1,71 @@
+{
+  "id": 874128889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.176669,43.874831,-72.176669,43.874831",
+    "geom:latitude":43.874831,
+    "geom:longitude":-72.176669,
+    "iso:country":"US",
+    "sg:address":"7 Ely Rd",
+    "sg:city":"Fairlee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 4129",
+    "sg:postcode":"05045",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MXZTtdAWh8yfhu9wFFtAo_43.874831_-72.176669@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312120,
+    "wof:geomhash":"93cb486d2b9ed5865ca163f4b49a8bdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874128889
+        }
+    ],
+    "wof:id":874128889,
+    "wof:lastmodified":1464312120,
+    "wof:name":"Vermont Forestry Assoc",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [
+    -72.176669,
+    43.874831,
+    -72.176669,
+    43.874831
+],
+  "geometry": {"coordinates":[-72.176669,43.874831],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 874255859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.973511,43.600899,-72.973511,43.600899",
+    "geom:latitude":43.600899,
+    "geom:longitude":-72.973511,
+    "iso:country":"US",
+    "sg:address":"108 Strongs Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 4888",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "roofing",
+        "industrial",
+        "consultant",
+        "builder",
+        "contractor",
+        "contractors-commercial",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D3N8RyUAXQoOizhSGjFGA_43.600899_-72.973511@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313693,
+    "wof:geomhash":"b83d7234d01ccaeee848508ca413f4c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255859
+        }
+    ],
+    "wof:id":874255859,
+    "wof:lastmodified":1464313693,
+    "wof:name":"Daniels F A Roofing & General Construction",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "industrial",
+        "consultant",
+        "builder",
+        "contractor",
+        "contractors-commercial",
+        "home"
+    ]
+},
+  "bbox": [
+    -72.973511,
+    43.600899,
+    -72.973511,
+    43.600899
+],
+  "geometry": {"coordinates":[-72.973511,43.600899],"type":"Point"}
+}

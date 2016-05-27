@@ -1,0 +1,71 @@
+{
+  "id": 874159827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.98368,43.607573,-72.98368,43.607573",
+    "geom:latitude":43.607573,
+    "geom:longitude":-72.98368,
+    "iso:country":"US",
+    "sg:address":"173 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 786 5837",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "clocks",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eD5gMG3LtUP3KJdXR2mYD_43.607573_-72.983680@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312430,
+    "wof:geomhash":"ca7de161283c84ddde419a7634751778",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874159827
+        }
+    ],
+    "wof:id":874159827,
+    "wof:lastmodified":1464312430,
+    "wof:name":"Employment Service",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clocks",
+        "parts"
+    ]
+},
+  "bbox": [
+    -72.98368,
+    43.607573,
+    -72.98368,
+    43.607573
+],
+  "geometry": {"coordinates":[-72.98368000000001,43.607573],"type":"Point"}
+}

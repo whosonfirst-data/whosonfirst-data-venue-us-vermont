@@ -1,0 +1,78 @@
+{
+  "id": 874087643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.558928,42.872944,-72.558928,42.872944",
+    "geom:latitude":42.872944,
+    "geom:longitude":-72.558928,
+    "iso:country":"US",
+    "sg:address":"755 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 3047",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "equipment",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AU3RlsJFk6YM1A4qxhPCU_42.872944_-72.558928@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311637,
+    "wof:geomhash":"923cee89e48265553c36a84638635ca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874087643
+        }
+    ],
+    "wof:id":874087643,
+    "wof:lastmodified":1464311637,
+    "wof:name":"Lindcare Inc",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "equipment",
+        "care"
+    ]
+},
+  "bbox": [
+    -72.558928,
+    42.872944,
+    -72.558928,
+    42.872944
+],
+  "geometry": {"coordinates":[-72.55892799999999,42.872944],"type":"Point"}
+}

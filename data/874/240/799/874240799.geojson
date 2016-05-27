@@ -1,0 +1,73 @@
+{
+  "id": 874240799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169811,44.001475,-73.169811,44.001475",
+    "geom:latitude":44.001475,
+    "geom:longitude":-73.169811,
+    "iso:country":"US",
+    "sg:address":"107 Collins Dr",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3899",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qJVJRwpviuONKsMgaTRND_44.001475_-73.169811@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313355,
+    "wof:geomhash":"654b68fa12052ddf911d11c1fc1c367a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874240799
+        }
+    ],
+    "wof:id":874240799,
+    "wof:lastmodified":1464313355,
+    "wof:name":"Green Mountain Urology",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.169811,
+    44.001475,
+    -73.169811,
+    44.001475
+],
+  "geometry": {"coordinates":[-73.169811,44.001475],"type":"Point"}
+}

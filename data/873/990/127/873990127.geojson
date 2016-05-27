@@ -1,0 +1,71 @@
+{
+  "id": 873990127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501165,44.195751,-72.501165,44.195751",
+    "geom:latitude":44.195751,
+    "geom:longitude":-72.501165,
+    "iso:country":"US",
+    "sg:address":"20 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7793",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eoGrvBzhLDrd18S47R6EQ_44.195751_-72.501165@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310690,
+    "wof:geomhash":"7a279eaedfb7727fc62df7362cc46bde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873990127
+        }
+    ],
+    "wof:id":873990127,
+    "wof:lastmodified":1464310690,
+    "wof:name":"Oriental Chop Stick",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.501165,
+    44.195751,
+    -72.501165,
+    44.195751
+],
+  "geometry": {"coordinates":[-72.501165,44.195751],"type":"Point"}
+}

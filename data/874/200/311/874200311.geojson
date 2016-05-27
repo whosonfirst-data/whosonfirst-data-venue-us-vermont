@@ -1,0 +1,80 @@
+{
+  "id": 874200311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.007859,44.424225,-72.007859,44.424225",
+    "geom:latitude":44.424225,
+    "geom:longitude":-72.007859,
+    "iso:country":"US",
+    "sg:address":"6 Almshouse Rd",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 4408",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "marking",
+        "transportation",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lIgf8BGpi4cLbHBznyLBt_44.424225_-72.007859@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312847,
+    "wof:geomhash":"6bb5f63c40f498840c06574ca1516a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874200311
+        }
+    ],
+    "wof:id":874200311,
+    "wof:lastmodified":1464312847,
+    "wof:name":"St Johnsbury Street Dept",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "transportation",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -72.007859,
+    44.424225,
+    -72.007859,
+    44.424225
+],
+  "geometry": {"coordinates":[-72.007859,44.424225],"type":"Point"}
+}

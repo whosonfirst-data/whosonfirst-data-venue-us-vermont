@@ -1,0 +1,71 @@
+{
+  "id": 874002215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.856932,44.596489,-72.856932,44.596489",
+    "geom:latitude":44.596489,
+    "geom:longitude":-72.856932,
+    "iso:country":"US",
+    "sg:address":"3838 Upper Pleasant Valley Rd",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2642",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FDjIZZIYNlrZFHQRF0oBq_44.596489_-72.856932@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310777,
+    "wof:geomhash":"054d5e386c4a41cd82c7d519fb0df80c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874002215
+        }
+    ],
+    "wof:id":874002215,
+    "wof:lastmodified":1464310777,
+    "wof:name":"Hutchins Farm",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -72.856932,
+    44.596489,
+    -72.856932,
+    44.596489
+],
+  "geometry": {"coordinates":[-72.856932,44.596489],"type":"Point"}
+}

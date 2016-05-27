@@ -1,0 +1,69 @@
+{
+  "id": 874050467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.693425,44.657704,-72.693425,44.657704",
+    "geom:latitude":44.657704,
+    "geom:longitude":-72.693425,
+    "iso:country":"US",
+    "sg:address":"1159 Foote Brook Rd",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 2948",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NBAwOBIIoG5PkDrlmpChW_44.657704_-72.693425@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311245,
+    "wof:geomhash":"c167427eecce8d9a8598805e5d483093",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874050467
+        }
+    ],
+    "wof:id":874050467,
+    "wof:lastmodified":1464311245,
+    "wof:name":"D T Morgan",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equine"
+    ]
+},
+  "bbox": [
+    -72.693425,
+    44.657704,
+    -72.693425,
+    44.657704
+],
+  "geometry": {"coordinates":[-72.693425,44.657704],"type":"Point"}
+}

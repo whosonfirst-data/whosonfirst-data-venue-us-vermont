@@ -1,0 +1,66 @@
+{
+  "id": 874113227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078699,44.133204,-73.078699,44.133204",
+    "geom:latitude":44.133204,
+    "geom:longitude":-73.078699,
+    "iso:country":"US",
+    "sg:address":"1 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 6337",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FhXTBV8nimXxVM9JJFIjk_44.133204_-73.078699@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311969,
+    "wof:geomhash":"12bdd18890c726033184efa18ab3868a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874113227
+        }
+    ],
+    "wof:id":874113227,
+    "wof:lastmodified":1464311969,
+    "wof:name":"Green Mountain Shoe & Apparel",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.078699,
+    44.133204,
+    -73.078699,
+    44.133204
+],
+  "geometry": {"coordinates":[-73.078699,44.133204],"type":"Point"}
+}

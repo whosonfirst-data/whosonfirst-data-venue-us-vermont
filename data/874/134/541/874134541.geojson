@@ -1,0 +1,73 @@
+{
+  "id": 874134541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.988978,43.613391,-72.988978,43.613391",
+    "geom:latitude":43.613391,
+    "geom:longitude":-72.988978,
+    "iso:country":"US",
+    "sg:address":"81 Cleveland Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 7033",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automotive",
+        "trailer",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gkoBS6k4xIkD50X9keinS_43.613391_-72.988978@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312186,
+    "wof:geomhash":"97e022bb5bf86ec744cf2113f36fd7dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874134541
+        }
+    ],
+    "wof:id":874134541,
+    "wof:lastmodified":1464312186,
+    "wof:name":"Brown's Auto Repair",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "trailer",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.988978,
+    43.613391,
+    -72.988978,
+    43.613391
+],
+  "geometry": {"coordinates":[-72.988978,43.613391],"type":"Point"}
+}

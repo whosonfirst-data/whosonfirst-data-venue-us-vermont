@@ -1,0 +1,69 @@
+{
+  "id": 874059505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.803722,43.668147,-72.803722,43.668147",
+    "geom:latitude":43.668147,
+    "geom:longitude":-72.803722,
+    "iso:country":"US",
+    "sg:address":"1 Killington Rd",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 422 2124",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848249,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FcNlxk0XKjPJ4NJUVd1LQ_43.668147_-72.803722@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311331,
+    "wof:geomhash":"00b532fd593452933df9c5b6c82695d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":874059505
+        }
+    ],
+    "wof:id":874059505,
+    "wof:lastmodified":1464311331,
+    "wof:name":"Santa Fe Steakhouse Inc",
+    "wof:parent_id":85848249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.803722,
+    43.668147,
+    -72.803722,
+    43.668147
+],
+  "geometry": {"coordinates":[-72.80372199999999,43.668147],"type":"Point"}
+}

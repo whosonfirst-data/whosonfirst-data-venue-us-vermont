@@ -1,0 +1,64 @@
+{
+  "id": 874123141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971801,43.60559,-72.971801,43.60559",
+    "geom:latitude":43.60559,
+    "geom:longitude":-72.971801,
+    "iso:country":"US",
+    "sg:address":"212 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 9819",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52CA4pDrzVVsnagpopu4ni_43.605590_-72.971801@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312069,
+    "wof:geomhash":"4c347350447a1491f51c11e653f32088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874123141
+        }
+    ],
+    "wof:id":874123141,
+    "wof:lastmodified":1464312069,
+    "wof:name":"Cumberland Farms",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.971801,
+    43.60559,
+    -72.971801,
+    43.60559
+],
+  "geometry": {"coordinates":[-72.971801,43.60559],"type":"Point"}
+}

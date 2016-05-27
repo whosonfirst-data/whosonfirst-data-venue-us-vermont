@@ -1,0 +1,71 @@
+{
+  "id": 874053285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.097885,44.455743,-73.097885,44.455743",
+    "geom:latitude":44.455743,
+    "geom:longitude":-73.097885,
+    "iso:country":"US",
+    "sg:address":"31 Barrett Ln",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 8808",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fvu1sbLzVV4QcP8tIOsJT_44.455743_-73.097885@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311271,
+    "wof:geomhash":"cd2732e4e2b282bca85c218252ec16bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874053285
+        }
+    ],
+    "wof:id":874053285,
+    "wof:lastmodified":1464311271,
+    "wof:name":"B C Carrier Plumbing & Heating",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.097885,
+    44.455743,
+    -73.097885,
+    44.455743
+],
+  "geometry": {"coordinates":[-73.09788500000001,44.455743],"type":"Point"}
+}

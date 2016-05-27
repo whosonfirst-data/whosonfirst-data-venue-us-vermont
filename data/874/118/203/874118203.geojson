@@ -1,0 +1,71 @@
+{
+  "id": 874118203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.496201,43.308222,-72.496201,43.308222",
+    "geom:latitude":43.308222,
+    "geom:longitude":-72.496201,
+    "iso:country":"US",
+    "sg:address":"242 River St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 8001",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iCvTeYvyclMtqXHfQ4JD7_43.308222_-72.496201@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312018,
+    "wof:geomhash":"9bbb416074d388adf919069986d8c457",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874118203
+        }
+    ],
+    "wof:id":874118203,
+    "wof:lastmodified":1464312018,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.496201,
+    43.308222,
+    -72.496201,
+    43.308222
+],
+  "geometry": {"coordinates":[-72.496201,43.308222],"type":"Point"}
+}

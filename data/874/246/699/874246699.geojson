@@ -1,0 +1,71 @@
+{
+  "id": 874246699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.293424,44.887476,-73.293424,44.887476",
+    "geom:latitude":44.887476,
+    "geom:longitude":-73.293424,
+    "iso:country":"US",
+    "sg:address":"230 State Rte 129",
+    "sg:city":"Alburg",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 796 3586",
+    "sg:postcode":"05440",
+    "sg:province":"VT",
+    "sg:tags":[
+        "course",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849381,
+        102080783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hL95wn3Vuh2fMK6wBYhV5_44.887476_-73.293424@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313466,
+    "wof:geomhash":"1ecab3b606d47a988a0eec45f3662feb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080783,
+            "neighbourhood_id":85849381,
+            "region_id":85688763,
+            "venue_id":874246699
+        }
+    ],
+    "wof:id":874246699,
+    "wof:lastmodified":1464313466,
+    "wof:name":"Alburg Golf Links Inc",
+    "wof:parent_id":85849381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "public"
+    ]
+},
+  "bbox": [
+    -73.293424,
+    44.887476,
+    -73.293424,
+    44.887476
+],
+  "geometry": {"coordinates":[-73.293424,44.887476],"type":"Point"}
+}

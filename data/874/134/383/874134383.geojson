@@ -1,0 +1,69 @@
+{
+  "id": 874134383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.678026,44.634663,-72.678026,44.634663",
+    "geom:latitude":44.634663,
+    "geom:longitude":-72.678026,
+    "iso:country":"US",
+    "sg:address":"93 Lower Main St E",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 7724",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MK4m2MEzv9z0r0M7fVSmF_44.634663_-72.678026@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312185,
+    "wof:geomhash":"c814b0a973a9d57be1a1e19c43740bcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874134383
+        }
+    ],
+    "wof:id":874134383,
+    "wof:lastmodified":1464312185,
+    "wof:name":"LA Moille Ambulance Svc",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -72.678026,
+    44.634663,
+    -72.678026,
+    44.634663
+],
+  "geometry": {"coordinates":[-72.678026,44.634663],"type":"Point"}
+}

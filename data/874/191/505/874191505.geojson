@@ -1,0 +1,75 @@
+{
+  "id": 874191505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.504821,44.201688,-72.504821,44.201688",
+    "geom:latitude":44.201688,
+    "geom:longitude":-72.504821,
+    "iso:country":"US",
+    "sg:address":"101 Summer St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6206",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JQdrx0AMEulCCeOGkxiXt_44.201688_-72.504821@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312754,
+    "wof:geomhash":"c687e3d612123c800092d7e3f14a6237",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874191505
+        }
+    ],
+    "wof:id":874191505,
+    "wof:lastmodified":1464312754,
+    "wof:name":"Bonin Rest Home",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -72.504821,
+    44.201688,
+    -72.504821,
+    44.201688
+],
+  "geometry": {"coordinates":[-72.50482100000001,44.201688],"type":"Point"}
+}

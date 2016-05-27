@@ -1,0 +1,71 @@
+{
+  "id": 874205855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.108863,44.716136,-73.108863,44.716136",
+    "geom:latitude":44.716136,
+    "geom:longitude":-73.108863,
+    "iso:country":"US",
+    "sg:address":"2701 Ethan Allen Hwy",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 6394",
+    "sg:postcode":"05454",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3csdEQvygW6zvqaoWZKVYY_44.716136_-73.108863@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312903,
+    "wof:geomhash":"0aee56c664df1e0a062f127ecccef8f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874205855
+        }
+    ],
+    "wof:id":874205855,
+    "wof:lastmodified":1464312903,
+    "wof:name":"B & A Auto",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.108863,
+    44.716136,
+    -73.108863,
+    44.716136
+],
+  "geometry": {"coordinates":[-73.108863,44.716136],"type":"Point"}
+}

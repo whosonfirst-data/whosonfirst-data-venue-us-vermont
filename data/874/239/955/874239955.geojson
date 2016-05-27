@@ -1,0 +1,73 @@
+{
+  "id": 874239955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.998065,44.366123,-72.998065,44.366123",
+    "geom:latitude":44.366123,
+    "geom:longitude":-72.998065,
+    "iso:country":"US",
+    "sg:address":"3104 Huntington Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 2112",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "new",
+        "renovation",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53Db7TpTeTg0Z7945F97ox_44.366123_-72.998065@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313339,
+    "wof:geomhash":"d9b0a12cd65e55342307d207039b2d5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874239955
+        }
+    ],
+    "wof:id":874239955,
+    "wof:lastmodified":1464313339,
+    "wof:name":"Birdseye Building Company",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "renovation",
+        "repair"
+    ]
+},
+  "bbox": [
+    -72.998065,
+    44.366123,
+    -72.998065,
+    44.366123
+],
+  "geometry": {"coordinates":[-72.998065,44.366123],"type":"Point"}
+}

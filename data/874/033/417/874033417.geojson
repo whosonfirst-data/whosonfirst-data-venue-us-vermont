@@ -1,0 +1,73 @@
+{
+  "id": 874033417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.507823,44.202546,-72.507823,44.202546",
+    "geom:latitude":44.202546,
+    "geom:longitude":-72.507823,
+    "iso:country":"US",
+    "sg:address":"393 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2030",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TkmVIpJVkwp1m6rO2xnB7_44.202546_-72.507823@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311079,
+    "wof:geomhash":"7940be6a8541d1718f6f3906309beeca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874033417
+        }
+    ],
+    "wof:id":874033417,
+    "wof:lastmodified":1464311079,
+    "wof:name":"Norway & Sons Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.507823,
+    44.202546,
+    -72.507823,
+    44.202546
+],
+  "geometry": {"coordinates":[-72.507823,44.202546],"type":"Point"}
+}

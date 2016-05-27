@@ -1,0 +1,88 @@
+{
+  "id": 874089525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.177421,44.445843,-73.177421,44.445843",
+    "geom:latitude":44.445843,
+    "geom:longitude":-73.177421,
+    "iso:country":"US",
+    "sg:address":"1580 Dorset St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 6263",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "canned",
+        "fr",
+        "mfg",
+        "food",
+        "crop",
+        "general",
+        "preparation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_219S5Pqq1xRkDpwq82po00_44.445843_-73.177421@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311656,
+    "wof:geomhash":"cdaf891e0159731e5909a219de8723cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874089525
+        }
+    ],
+    "wof:id":874089525,
+    "wof:lastmodified":1464311656,
+    "wof:name":"Chittenden Farm & Cider Mill",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "canned",
+        "fr",
+        "mfg",
+        "food",
+        "crop",
+        "general",
+        "preparation"
+    ]
+},
+  "bbox": [
+    -73.177421,
+    44.445843,
+    -73.177421,
+    44.445843
+],
+  "geometry": {"coordinates":[-73.177421,44.445843],"type":"Point"}
+}

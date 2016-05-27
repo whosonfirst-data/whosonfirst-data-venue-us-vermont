@@ -1,0 +1,73 @@
+{
+  "id": 874072723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.427901,44.269362,-72.427901,44.269362",
+    "geom:latitude":44.269362,
+    "geom:longitude":-72.427901,
+    "iso:country":"US",
+    "sg:address":"30 Middle Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 583 2233",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B3bPPPVwrpGZA9zQlbZKh_44.269362_-72.427901@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311472,
+    "wof:geomhash":"983cd9d7c6ba9b732bf7c966d363090c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874072723
+        }
+    ],
+    "wof:id":874072723,
+    "wof:lastmodified":1464311472,
+    "wof:name":"Sentry Management Corp",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -72.427901,
+    44.269362,
+    -72.427901,
+    44.269362
+],
+  "geometry": {"coordinates":[-72.42790100000001,44.269362],"type":"Point"}
+}

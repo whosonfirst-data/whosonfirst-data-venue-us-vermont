@@ -1,0 +1,73 @@
+{
+  "id": 874039723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.209082,44.214284,-72.209082,44.214284",
+    "geom:latitude":44.214284,
+    "geom:longitude":-72.209082,
+    "iso:country":"US",
+    "sg:address":"458 Scott Hwy",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 584 4446",
+    "sg:postcode":"05046",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "log",
+        "cabin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844467,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eWkI7293PN2boHGz2cBfy_44.214284_-72.209082@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311140,
+    "wof:geomhash":"3fd59e538f04d7237c0e24309cdb9066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85844467,
+            "region_id":85688763,
+            "venue_id":874039723
+        }
+    ],
+    "wof:id":874039723,
+    "wof:lastmodified":1464311140,
+    "wof:name":"Groton Timberworks",
+    "wof:parent_id":85844467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "log",
+        "cabin"
+    ]
+},
+  "bbox": [
+    -72.209082,
+    44.214284,
+    -72.209082,
+    44.214284
+],
+  "geometry": {"coordinates":[-72.209082,44.214284],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874078145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078699,44.133204,-73.078699,44.133204",
+    "geom:latitude":44.133204,
+    "geom:longitude":-73.078699,
+    "iso:country":"US",
+    "sg:address":"10 North St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 4919",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor",
+        "fabricated",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AJ91jfr52fabWpmvmrayw_44.133204_-73.078699@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311529,
+    "wof:geomhash":"12bdd18890c726033184efa18ab3868a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874078145
+        }
+    ],
+    "wof:id":874078145,
+    "wof:lastmodified":1464311529,
+    "wof:name":"Chiptec Corp",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "fabricated",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.078699,
+    44.133204,
+    -73.078699,
+    44.133204
+],
+  "geometry": {"coordinates":[-73.078699,44.133204],"type":"Point"}
+}

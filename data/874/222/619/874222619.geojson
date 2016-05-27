@@ -1,0 +1,75 @@
+{
+  "id": 874222619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.932867,43.525779,-72.932867,43.525779",
+    "geom:latitude":43.525779,
+    "geom:longitude":-72.932867,
+    "iso:country":"US",
+    "sg:address":"16 E Clarendon Rd",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 9121",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engine",
+        "aircraft",
+        "component",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PMniaTOcaos3T15HIMVco_43.525779_-72.932867@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313091,
+    "wof:geomhash":"5d979a003b27ec839e1bf21d6a5364bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874222619
+        }
+    ],
+    "wof:id":874222619,
+    "wof:lastmodified":1464313091,
+    "wof:name":"GE",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "aircraft",
+        "component",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.932867,
+    43.525779,
+    -72.932867,
+    43.525779
+],
+  "geometry": {"coordinates":[-72.932867,43.525779],"type":"Point"}
+}

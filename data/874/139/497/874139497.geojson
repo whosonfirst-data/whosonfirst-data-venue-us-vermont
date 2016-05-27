@@ -1,0 +1,74 @@
+{
+  "id": 874139497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.556151,44.23416,-72.556151,44.23416",
+    "geom:latitude":44.23416,
+    "geom:longitude":-72.556151,
+    "iso:country":"US",
+    "sg:address":"5 Green Mountain Dr",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 828 4344",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "sg:website":"www.det.state.vt.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12qNKIztuSJ3dHKeRnGESZ_44.234160_-72.556151@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312230,
+    "wof:geomhash":"71ffb7a2fbeabb50f846d1c1e1212cb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874139497
+        }
+    ],
+    "wof:id":874139497,
+    "wof:lastmodified":1464312230,
+    "wof:name":"Unemployment Insurance Div",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -72.556151,
+    44.23416,
+    -72.556151,
+    44.23416
+],
+  "geometry": {"coordinates":[-72.556151,44.23416],"type":"Point"}
+}

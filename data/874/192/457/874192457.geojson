@@ -1,0 +1,71 @@
+{
+  "id": 874192457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.498636,44.187815,-72.498636,44.187815",
+    "geom:latitude":44.187815,
+    "geom:longitude":-72.498636,
+    "iso:country":"US",
+    "sg:address":"156 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2533",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GTtvZmEqPEzZiK6MOheuf_44.187815_-72.498636@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312763,
+    "wof:geomhash":"0df0a6755a2cbdc0cb8629be51e45fe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874192457
+        }
+    ],
+    "wof:id":874192457,
+    "wof:lastmodified":1464312763,
+    "wof:name":"Cano's Barber Shop",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.498636,
+    44.187815,
+    -72.498636,
+    44.187815
+],
+  "geometry": {"coordinates":[-72.498636,44.187815],"type":"Point"}
+}

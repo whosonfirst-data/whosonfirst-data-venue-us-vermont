@@ -1,0 +1,71 @@
+{
+  "id": 874126105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.14699,44.124998,-73.14699,44.124998",
+    "geom:latitude":44.124998,
+    "geom:longitude":-73.14699,
+    "iso:country":"US",
+    "sg:address":"1685 Main St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 4748",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "turkey"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YSA90V5boUizK12wOQQwT_44.124998_-73.146990@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312095,
+    "wof:geomhash":"ce8352a5423c31c346c49091bd954606",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874126105
+        }
+    ],
+    "wof:id":874126105,
+    "wof:lastmodified":1464312095,
+    "wof:name":"Misty Knolls Farms",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "turkey"
+    ]
+},
+  "bbox": [
+    -73.14699,
+    44.124998,
+    -73.14699,
+    44.124998
+],
+  "geometry": {"coordinates":[-73.14699,44.124998],"type":"Point"}
+}

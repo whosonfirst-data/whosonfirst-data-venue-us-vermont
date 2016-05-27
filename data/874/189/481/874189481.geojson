@@ -1,0 +1,71 @@
+{
+  "id": 874189481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.500979,44.194768,-72.500979,44.194768",
+    "geom:latitude":44.194768,
+    "geom:longitude":-72.500979,
+    "iso:country":"US",
+    "sg:address":"40 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9456",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39ar68GUXoKxmwxaQ7bkDm_44.194768_-72.500979@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312735,
+    "wof:geomhash":"4976152403c4cb072caf9a91cc161aec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874189481
+        }
+    ],
+    "wof:id":874189481,
+    "wof:lastmodified":1464312735,
+    "wof:name":"Upholstery Recovery Ctr",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -72.500979,
+    44.194768,
+    -72.500979,
+    44.194768
+],
+  "geometry": {"coordinates":[-72.500979,44.194768],"type":"Point"}
+}

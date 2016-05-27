@@ -1,0 +1,71 @@
+{
+  "id": 874146953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.174951,42.874842,-73.174951,42.874842",
+    "geom:latitude":42.874842,
+    "geom:longitude":-73.174951,
+    "iso:country":"US",
+    "sg:address":"52 Cyr Ct",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 1785",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G22MvHjTBEm1jwncqNYpc_42.874842_-73.174951@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312302,
+    "wof:geomhash":"3868e9616abaeb516ded5f96d064bb36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874146953
+        }
+    ],
+    "wof:id":874146953,
+    "wof:lastmodified":1464312302,
+    "wof:name":"Racicot Electric",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.174951,
+    42.874842,
+    -73.174951,
+    42.874842
+],
+  "geometry": {"coordinates":[-73.17495099999999,42.874842],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874241601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.101277,44.486596,-73.101277,44.486596",
+    "geom:latitude":44.486596,
+    "geom:longitude":-73.101277,
+    "iso:country":"US",
+    "sg:address":"4 Maplewood Ln",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 2471",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LUvtXEnptACrkunVARx1m_44.486596_-73.101277@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313370,
+    "wof:geomhash":"936f08fbddec940af58d1fb1390ee91f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874241601
+        }
+    ],
+    "wof:id":874241601,
+    "wof:lastmodified":1464313370,
+    "wof:name":"Earthscapes",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.101277,
+    44.486596,
+    -73.101277,
+    44.486596
+],
+  "geometry": {"coordinates":[-73.101277,44.486596],"type":"Point"}
+}

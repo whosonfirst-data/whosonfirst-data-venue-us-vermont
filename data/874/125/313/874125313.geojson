@@ -1,0 +1,73 @@
+{
+  "id": 874125313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.058891,43.601445,-73.058891,43.601445",
+    "geom:latitude":43.601445,
+    "geom:longitude":-73.058891,
+    "iso:country":"US",
+    "sg:address":"1071 Main St",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 5222",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VD9Vnw9h0ddT9fKhT3FXS_43.601445_-73.058891@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312088,
+    "wof:geomhash":"5e51f86311ebfd70aa305d6f09f4ef9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874125313
+        }
+    ],
+    "wof:id":874125313,
+    "wof:lastmodified":1464312088,
+    "wof:name":"Dydo Auto Sales Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.058891,
+    43.601445,
+    -73.058891,
+    43.601445
+],
+  "geometry": {"coordinates":[-73.058891,43.601445],"type":"Point"}
+}

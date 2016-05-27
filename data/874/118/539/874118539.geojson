@@ -1,0 +1,71 @@
+{
+  "id": 874118539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.719927,44.424988,-72.719927,44.424988",
+    "geom:latitude":44.424988,
+    "geom:longitude":-72.719927,
+    "iso:country":"US",
+    "sg:address":"3171 Waterbury Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 8566",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qMSvgNqspWuX9Ne3JgzLH_44.424988_-72.719927@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312021,
+    "wof:geomhash":"4a16540db34e47ecb4026e0a3200d679",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874118539
+        }
+    ],
+    "wof:id":874118539,
+    "wof:lastmodified":1464312021,
+    "wof:name":"Serge Plumbing & Heating",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.719927,
+    44.424988,
+    -72.719927,
+    44.424988
+],
+  "geometry": {"coordinates":[-72.719927,44.424988],"type":"Point"}
+}

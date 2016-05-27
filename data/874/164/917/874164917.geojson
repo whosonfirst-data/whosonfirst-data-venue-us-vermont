@@ -1,0 +1,73 @@
+{
+  "id": 874164917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.054293,44.24145,-72.054293,44.24145",
+    "geom:latitude":44.24145,
+    "geom:longitude":-72.054293,
+    "iso:country":"US",
+    "sg:address":"183 Moore Ln",
+    "sg:city":"East Ryegate",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 4931",
+    "sg:postcode":"05042",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4keoR3j8rXHZTZF9J2hSZB_44.241450_-72.054293@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312479,
+    "wof:geomhash":"9fa26a7127dc747d00ad0875ed1782fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874164917
+        }
+    ],
+    "wof:id":874164917,
+    "wof:lastmodified":1464312479,
+    "wof:name":"Smith Family Trust",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -72.054293,
+    44.24145,
+    -72.054293,
+    44.24145
+],
+  "geometry": {"coordinates":[-72.054293,44.24145],"type":"Point"}
+}

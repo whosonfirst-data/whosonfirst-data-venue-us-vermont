@@ -1,0 +1,69 @@
+{
+  "id": 874029347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.14712,43.906102,-72.14712,43.906102",
+    "geom:latitude":43.906102,
+    "geom:longitude":-72.14712,
+    "iso:country":"US",
+    "sg:address":"49 School St",
+    "sg:city":"Hartland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 6629",
+    "sg:postcode":"05045",
+    "sg:province":"VT",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j1G4NgU8TtCO0a4tG4QZD_43.906102_-72.147120@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311042,
+    "wof:geomhash":"61ed7fa2ad8a7f6ad60acfe2d49a0781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874029347
+        }
+    ],
+    "wof:id":874029347,
+    "wof:lastmodified":1464311042,
+    "wof:name":"Green Mountain Institute",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture"
+    ]
+},
+  "bbox": [
+    -72.14712,
+    43.906102,
+    -72.14712,
+    43.906102
+],
+  "geometry": {"coordinates":[-72.14712,43.906102],"type":"Point"}
+}

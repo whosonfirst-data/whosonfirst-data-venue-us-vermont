@@ -1,0 +1,69 @@
+{
+  "id": 874248351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.050574,43.447758,-73.050574,43.447758",
+    "geom:latitude":43.447758,
+    "geom:longitude":-73.050574,
+    "iso:country":"US",
+    "sg:address":"5 Mountain View Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 2460",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AogZ8CtaRd4yhz6qr7OqV_43.447758_-73.050574@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313505,
+    "wof:geomhash":"92ed292d8942830e29d4db4b1b8e96b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874248351
+        }
+    ],
+    "wof:id":874248351,
+    "wof:lastmodified":1464313505,
+    "wof:name":"Tinmouth Fire Dept",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.050574,
+    43.447758,
+    -73.050574,
+    43.447758
+],
+  "geometry": {"coordinates":[-73.050574,43.447758],"type":"Point"}
+}

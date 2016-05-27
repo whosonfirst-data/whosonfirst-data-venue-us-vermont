@@ -1,0 +1,72 @@
+{
+  "id": 874095549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.207582,44.529745,-73.207582,44.529745",
+    "geom:latitude":44.529745,
+    "geom:longitude":-73.207582,
+    "iso:country":"US",
+    "sg:address":"620 Malletts Bay Ave",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 1620",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.triplex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gu274ymkmkN5yGpEUQv4X_44.529745_-73.207582@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311719,
+    "wof:geomhash":"20ad5310cdf6d31c674da808b25ffb9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874095549
+        }
+    ],
+    "wof:id":874095549,
+    "wof:lastmodified":1464311719,
+    "wof:name":"WVMT",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -73.207582,
+    44.529745,
+    -73.207582,
+    44.529745
+],
+  "geometry": {"coordinates":[-73.207582,44.529745],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874213149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.203051,44.442527,-73.203051,44.442527",
+    "geom:latitude":44.442527,
+    "geom:longitude":-73.203051,
+    "iso:country":"US",
+    "sg:address":"25 Brewer Pkwy",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 2214",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jNVJGM5NE1b6QYwpJw7Fm_44.442527_-73.203051@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312986,
+    "wof:geomhash":"42be42d2fc237717fc4b39f98bea076b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874213149
+        }
+    ],
+    "wof:id":874213149,
+    "wof:lastmodified":1464312986,
+    "wof:name":"Sunset Lake Farm LLC",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.203051,
+    44.442527,
+    -73.203051,
+    44.442527
+],
+  "geometry": {"coordinates":[-73.203051,44.442527],"type":"Point"}
+}

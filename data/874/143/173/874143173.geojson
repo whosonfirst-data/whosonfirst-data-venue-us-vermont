@@ -1,0 +1,76 @@
+{
+  "id": 874143173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.002601,43.604283,-73.002601,43.604283",
+    "geom:latitude":43.604283,
+    "geom:longitude":-73.002601,
+    "iso:country":"US",
+    "sg:address":"451 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Toys & Hobbies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4540",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "ceramic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W50YuhzC9vSVJNbs7MLFy_43.604283_-73.002601@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312263,
+    "wof:geomhash":"5a26e2d5c6c80ba288a658459a6518be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874143173
+        }
+    ],
+    "wof:id":874143173,
+    "wof:lastmodified":1464312263,
+    "wof:name":"Vermont Ceramic Supply Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "ceramic"
+    ]
+},
+  "bbox": [
+    -73.002601,
+    43.604283,
+    -73.002601,
+    43.604283
+],
+  "geometry": {"coordinates":[-73.002601,43.604283],"type":"Point"}
+}

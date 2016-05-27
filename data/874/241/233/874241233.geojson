@@ -1,0 +1,73 @@
+{
+  "id": 874241233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.525041,44.54247,-72.525041,44.54247",
+    "geom:latitude":44.54247,
+    "geom:longitude":-72.525041,
+    "iso:country":"US",
+    "sg:address":"331 Westphal Rd",
+    "sg:city":"Lake Elmore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 7074",
+    "sg:postcode":"05657",
+    "sg:province":"VT",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UrIU8IVjOIdWDB4cv0ChW_44.542470_-72.525041@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313363,
+    "wof:geomhash":"2a2bb90e5cce1752c8600a199b120fea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874241233
+        }
+    ],
+    "wof:id":874241233,
+    "wof:lastmodified":1464313363,
+    "wof:name":"Well Of Stars",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.525041,
+    44.54247,
+    -72.525041,
+    44.54247
+],
+  "geometry": {"coordinates":[-72.525041,44.54247],"type":"Point"}
+}

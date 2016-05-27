@@ -1,0 +1,71 @@
+{
+  "id": 874137431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.59188,43.724285,-72.59188,43.724285",
+    "geom:latitude":43.724285,
+    "geom:longitude":-72.59188,
+    "iso:country":"US",
+    "sg:address":"381 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 2448",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jlUPsPwptTTEoJBRcAkOr_43.724285_-72.591880@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312212,
+    "wof:geomhash":"ac02f6f560a6ec2380820d9778c7bd9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874137431
+        }
+    ],
+    "wof:id":874137431,
+    "wof:lastmodified":1464312212,
+    "wof:name":"Mid-Vermont Electric Inc",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.59188,
+    43.724285,
+    -72.59188,
+    43.724285
+],
+  "geometry": {"coordinates":[-72.59188,43.724285],"type":"Point"}
+}

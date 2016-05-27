@@ -1,0 +1,71 @@
+{
+  "id": 874130763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.112393,43.955853,-72.112393,43.955853",
+    "geom:latitude":43.955853,
+    "geom:longitude":-72.112393,
+    "iso:country":"US",
+    "sg:address":"161 Mallary Rd",
+    "sg:city":"Bradford",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 222 9232",
+    "sg:postcode":"05033",
+    "sg:province":"VT",
+    "sg:tags":[
+        "produce",
+        "farmer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FVTjzqitm2LsjVa2QWS9T_43.955853_-72.112393@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312146,
+    "wof:geomhash":"047d4934788805495a7d1e0e4fde03a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874130763
+        }
+    ],
+    "wof:id":874130763,
+    "wof:lastmodified":1464312146,
+    "wof:name":"Newmont Farms",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce",
+        "farmer"
+    ]
+},
+  "bbox": [
+    -72.112393,
+    43.955853,
+    -72.112393,
+    43.955853
+],
+  "geometry": {"coordinates":[-72.112393,43.955853],"type":"Point"}
+}

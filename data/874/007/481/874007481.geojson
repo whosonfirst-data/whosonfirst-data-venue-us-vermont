@@ -1,0 +1,71 @@
+{
+  "id": 874007481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.011755,44.420249,-72.011755,44.420249",
+    "geom:latitude":44.420249,
+    "geom:longitude":-72.011755,
+    "iso:country":"US",
+    "sg:address":"138 Weeks Ct",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 1646",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automotive",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fmY7Qfkgj7A8OqEqN4bmP_44.420249_-72.011755@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310836,
+    "wof:geomhash":"859e6a4a1428fc5f9dabe38113ea3a00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874007481
+        }
+    ],
+    "wof:id":874007481,
+    "wof:lastmodified":1464310836,
+    "wof:name":"Saint Jhnsbury Strtr-Lternator",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -72.011755,
+    44.420249,
+    -72.011755,
+    44.420249
+],
+  "geometry": {"coordinates":[-72.01175499999999,44.420249],"type":"Point"}
+}

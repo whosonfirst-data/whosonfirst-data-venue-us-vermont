@@ -1,0 +1,71 @@
+{
+  "id": 874014751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.086601,43.865202,-73.086601,43.865202",
+    "geom:latitude":43.865202,
+    "geom:longitude":-73.086601,
+    "iso:country":"US",
+    "sg:address":"1122 Fern Lake Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 5025",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "saw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h06oKKIztx33g8gGNKTHd_43.865202_-73.086601@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310889,
+    "wof:geomhash":"11358db2ab5ebc24fdce883a63d659c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874014751
+        }
+    ],
+    "wof:id":874014751,
+    "wof:lastmodified":1464310889,
+    "wof:name":"Ed Miner Saw Shop",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "saw"
+    ]
+},
+  "bbox": [
+    -73.086601,
+    43.865202,
+    -73.086601,
+    43.865202
+],
+  "geometry": {"coordinates":[-73.086601,43.865202],"type":"Point"}
+}

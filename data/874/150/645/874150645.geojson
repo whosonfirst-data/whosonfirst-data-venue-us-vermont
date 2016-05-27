@@ -1,0 +1,73 @@
+{
+  "id": 874150645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.02104,44.418911,-72.02104,44.418911",
+    "geom:latitude":44.418911,
+    "geom:longitude":-72.02104,
+    "iso:country":"US",
+    "sg:address":"1187 Main St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 2314",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "executive",
+        "police",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dOieq4mnkzWbLlFGzUIfv_44.418911_-72.021040@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312334,
+    "wof:geomhash":"4d25252082c4007eebb289f2d6b42317",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874150645
+        }
+    ],
+    "wof:id":874150645,
+    "wof:lastmodified":1464312334,
+    "wof:name":"Police Department",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive",
+        "police",
+        "protection"
+    ]
+},
+  "bbox": [
+    -72.02104,
+    44.418911,
+    -72.02104,
+    44.418911
+],
+  "geometry": {"coordinates":[-72.02104,44.418911],"type":"Point"}
+}

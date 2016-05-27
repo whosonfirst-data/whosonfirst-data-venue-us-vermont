@@ -1,0 +1,73 @@
+{
+  "id": 874150739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.217113,44.112778,-73.217113,44.112778",
+    "geom:latitude":44.112778,
+    "geom:longitude":-73.217113,
+    "iso:country":"US",
+    "sg:address":"1248 State Rte 17",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2198",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E0ss1LYJF2wZs1fTXX9aH_44.112778_-73.217113@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312335,
+    "wof:geomhash":"905841e71d2f456f1820699ae3f8f69e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874150739
+        }
+    ],
+    "wof:id":874150739,
+    "wof:lastmodified":1464312335,
+    "wof:name":"Waltham Orchard",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -73.217113,
+    44.112778,
+    -73.217113,
+    44.112778
+],
+  "geometry": {"coordinates":[-73.217113,44.112778],"type":"Point"}
+}

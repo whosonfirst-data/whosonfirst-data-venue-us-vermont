@@ -1,0 +1,71 @@
+{
+  "id": 874090869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212025,44.421914,-73.212025,44.421914",
+    "geom:latitude":44.421914,
+    "geom:longitude":-73.212025,
+    "iso:country":"US",
+    "sg:address":"2383 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 5236",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ElAQc8QwFPlKd5B70Od5T_44.421914_-73.212025@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311672,
+    "wof:geomhash":"0dd0fe2e12e83a519d410dcccca17ee7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874090869
+        }
+    ],
+    "wof:id":874090869,
+    "wof:lastmodified":1464311672,
+    "wof:name":"Mountain Air Cleaners Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -73.212025,
+    44.421914,
+    -73.212025,
+    44.421914
+],
+  "geometry": {"coordinates":[-73.212025,44.421914],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874058631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.081637,44.133761,-73.081637,44.133761",
+    "geom:latitude":44.133761,
+    "geom:longitude":-73.081637,
+    "iso:country":"US",
+    "sg:address":"42 West St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 6066",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79POEC1r1cOm4ENgG6zneB_44.133761_-73.081637@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311323,
+    "wof:geomhash":"c036f41d20093e83f561cc0e9055cd54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874058631
+        }
+    ],
+    "wof:id":874058631,
+    "wof:lastmodified":1464311323,
+    "wof:name":"Village Mobil & Deli",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -73.081637,
+    44.133761,
+    -73.081637,
+    44.133761
+],
+  "geometry": {"coordinates":[-73.081637,44.133761],"type":"Point"}
+}

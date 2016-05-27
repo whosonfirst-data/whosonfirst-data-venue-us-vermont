@@ -1,0 +1,71 @@
+{
+  "id": 874133531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.96987,43.471504,-72.96987,43.471504",
+    "geom:latitude":43.471504,
+    "geom:longitude":-72.96987,
+    "iso:country":"US",
+    "sg:address":"71 Hillside Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 2916",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drywall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YB8WBTFAiqP0IG38I7hWP_43.471504_-72.969870@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312177,
+    "wof:geomhash":"736df75a29f1128b0b3dc603c494ccbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874133531
+        }
+    ],
+    "wof:id":874133531,
+    "wof:lastmodified":1464312177,
+    "wof:name":"Veilleux Drywall Inc",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drywall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.96987,
+    43.471504,
+    -72.96987,
+    43.471504
+],
+  "geometry": {"coordinates":[-72.96987,43.471504],"type":"Point"}
+}

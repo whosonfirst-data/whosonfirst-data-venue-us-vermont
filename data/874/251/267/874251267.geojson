@@ -1,0 +1,80 @@
+{
+  "id": 874251267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.194867,42.84908,-73.194867,42.84908",
+    "geom:latitude":42.84908,
+    "geom:longitude":-73.194867,
+    "iso:country":"US",
+    "sg:address":"552 Fuller Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 3475",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31njCOKpw24D8w0PPe6mpL_42.849080_-73.194867@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313590,
+    "wof:geomhash":"3246c2c891f8029e2421f5aa51ab35c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251267
+        }
+    ],
+    "wof:id":874251267,
+    "wof:lastmodified":1464313590,
+    "wof:name":"Beyond Picket Fence",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.194867,
+    42.84908,
+    -73.194867,
+    42.84908
+],
+  "geometry": {"coordinates":[-73.194867,42.84908],"type":"Point"}
+}

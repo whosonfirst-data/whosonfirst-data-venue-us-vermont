@@ -1,0 +1,71 @@
+{
+  "id": 874103549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.36389,43.983817,-72.36389,43.983817",
+    "geom:latitude":43.983817,
+    "geom:longitude":-72.36389,
+    "iso:country":"US",
+    "sg:address":"9615 State Rte 113",
+    "sg:city":"Vershire",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 685 2238",
+    "sg:postcode":"05079",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85812235,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_588afZRa1wiV5j9eRrbxLt_43.983817_-72.363890@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311838,
+    "wof:geomhash":"7c0d50696d6140473d7d65ef5e122511",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85812235,
+            "region_id":85688763,
+            "venue_id":874103549
+        }
+    ],
+    "wof:id":874103549,
+    "wof:lastmodified":1464311838,
+    "wof:name":"Ward's Garage",
+    "wof:parent_id":85812235,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.36389,
+    43.983817,
+    -72.36389,
+    43.983817
+],
+  "geometry": {"coordinates":[-72.36389,43.983817],"type":"Point"}
+}

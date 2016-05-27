@@ -1,0 +1,75 @@
+{
+  "id": 874162487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.554044,44.233834,-72.554044,44.233834",
+    "geom:latitude":44.233834,
+    "geom:longitude":-72.554044,
+    "iso:country":"US",
+    "sg:address":"1715 US Hwy 302",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 6999",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wholesale",
+        "replace",
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HeGsiH1A5DsIJYN4C1DJz_44.233834_-72.554044@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312455,
+    "wof:geomhash":"8ad6fbfc3fe31b0942d0cd5b82d659e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874162487
+        }
+    ],
+    "wof:id":874162487,
+    "wof:lastmodified":1464312455,
+    "wof:name":"New England Auto Glass Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesale",
+        "replace",
+        "glass"
+    ]
+},
+  "bbox": [
+    -72.554044,
+    44.233834,
+    -72.554044,
+    44.233834
+],
+  "geometry": {"coordinates":[-72.554044,44.233834],"type":"Point"}
+}

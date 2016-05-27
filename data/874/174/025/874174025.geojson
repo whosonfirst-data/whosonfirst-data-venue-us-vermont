@@ -1,0 +1,64 @@
+{
+  "id": 874174025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.006421,44.535814,-72.006421,44.535814",
+    "geom:latitude":44.535814,
+    "geom:longitude":-72.006421,
+    "iso:country":"US",
+    "sg:address":"9 Park Ave",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 9381",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n26fkLjgeNz9GCphPjkov_44.535814_-72.006421@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312569,
+    "wof:geomhash":"3b0c6de47024e4298170125c829c61af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874174025
+        }
+    ],
+    "wof:id":874174025,
+    "wof:lastmodified":1464312569,
+    "wof:name":"Park Street Laundry",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.006421,
+    44.535814,
+    -72.006421,
+    44.535814
+],
+  "geometry": {"coordinates":[-72.006421,44.535814],"type":"Point"}
+}

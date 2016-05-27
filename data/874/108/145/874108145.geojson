@@ -1,0 +1,73 @@
+{
+  "id": 874108145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.253064,44.167324,-73.253064,44.167324",
+    "geom:latitude":44.167324,
+    "geom:longitude":-73.253064,
+    "iso:country":"US",
+    "sg:address":"245 Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 9900",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v38SNZZvPFdLOQ5mxKfzU_44.167324_-73.253064@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311896,
+    "wof:geomhash":"fb29e9f4f7df00b89971b75bd76568ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874108145
+        }
+    ],
+    "wof:id":874108145,
+    "wof:lastmodified":1464311896,
+    "wof:name":"Blue Moon Gallery LLC",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.253064,
+    44.167324,
+    -73.253064,
+    44.167324
+],
+  "geometry": {"coordinates":[-73.25306399999999,44.167324],"type":"Point"}
+}

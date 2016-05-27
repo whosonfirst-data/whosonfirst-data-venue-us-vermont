@@ -1,0 +1,73 @@
+{
+  "id": 874168249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.674746,44.988644,-72.674746,44.988644",
+    "geom:latitude":44.988644,
+    "geom:longitude":-72.674746,
+    "iso:country":"US",
+    "sg:address":"60 Noyes St",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 848 3289",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OICKYLKKAhhoFxeT3YNpA_44.988644_-72.674746@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312509,
+    "wof:geomhash":"b01d9419dd471c0b10bc9ce752564aca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874168249
+        }
+    ],
+    "wof:id":874168249,
+    "wof:lastmodified":1464312509,
+    "wof:name":"L & L Auto",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.674746,
+    44.988644,
+    -72.674746,
+    44.988644
+],
+  "geometry": {"coordinates":[-72.674746,44.988644],"type":"Point"}
+}

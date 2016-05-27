@@ -1,0 +1,71 @@
+{
+  "id": 874214943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.516817,44.196282,-72.516817,44.196282",
+    "geom:latitude":44.196282,
+    "geom:longitude":-72.516817,
+    "iso:country":"US",
+    "sg:address":"15 Arioli Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1439",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EG5xz6S5iG5bwARrKjXEk_44.196282_-72.516817@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313003,
+    "wof:geomhash":"1fae2527cc50b047ea2956de61241c11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874214943
+        }
+    ],
+    "wof:id":874214943,
+    "wof:lastmodified":1464313003,
+    "wof:name":"Washington County Mental Hlth",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -72.516817,
+    44.196282,
+    -72.516817,
+    44.196282
+],
+  "geometry": {"coordinates":[-72.516817,44.196282],"type":"Point"}
+}

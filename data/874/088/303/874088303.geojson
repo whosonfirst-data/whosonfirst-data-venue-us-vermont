@@ -1,0 +1,70 @@
+{
+  "id": 874088303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.388127,43.666379,-72.388127,43.666379",
+    "geom:latitude":43.666379,
+    "geom:longitude":-72.388127,
+    "iso:country":"US",
+    "sg:address":"69 Costello Rd",
+    "sg:city":"White River Jct",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 7322",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "printer"
+    ],
+    "sg:website":"www.winslowprinting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810161,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YQP8oBoXhdqhK1BIYGNfU_43.666379_-72.388127@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311644,
+    "wof:geomhash":"b3f1b009c99da337f408f0443baeadfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85810161,
+            "region_id":85688763,
+            "venue_id":874088303
+        }
+    ],
+    "wof:id":874088303,
+    "wof:lastmodified":1464311644,
+    "wof:name":"Winslow Printing Inc",
+    "wof:parent_id":85810161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -72.388127,
+    43.666379,
+    -72.388127,
+    43.666379
+],
+  "geometry": {"coordinates":[-72.388127,43.666379],"type":"Point"}
+}

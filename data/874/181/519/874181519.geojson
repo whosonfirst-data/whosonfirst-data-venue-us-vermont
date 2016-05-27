@@ -1,0 +1,71 @@
+{
+  "id": 874181519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.221553,44.547554,-73.221553,44.547554",
+    "geom:latitude":44.547554,
+    "geom:longitude":-73.221553,
+    "iso:country":"US",
+    "sg:address":"511 W Lakeshore Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 9065",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "instruction",
+        "sailing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ECfeMOMaNFKKq1n6BYlBj_44.547554_-73.221553@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312646,
+    "wof:geomhash":"5bd26dc8f8c53fbfd15d980b143488d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874181519
+        }
+    ],
+    "wof:id":874181519,
+    "wof:lastmodified":1464312646,
+    "wof:name":"International Sailing School",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "sailing"
+    ]
+},
+  "bbox": [
+    -73.221553,
+    44.547554,
+    -73.221553,
+    44.547554
+],
+  "geometry": {"coordinates":[-73.221553,44.547554],"type":"Point"}
+}

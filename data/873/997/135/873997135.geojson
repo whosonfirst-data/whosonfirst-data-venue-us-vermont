@@ -1,0 +1,71 @@
+{
+  "id": 873997135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.226492,44.383427,-73.226492,44.383427",
+    "geom:latitude":44.383427,
+    "geom:longitude":-73.226492,
+    "iso:country":"US",
+    "sg:address":"5120 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 5115",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DXn2GB34DDhFsSOPuOcve_44.383427_-73.226492@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310740,
+    "wof:geomhash":"0ad4db980ab0030b064c4056e75fc05c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":873997135
+        }
+    ],
+    "wof:id":873997135,
+    "wof:lastmodified":1464310740,
+    "wof:name":"Town Assessor",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -73.226492,
+    44.383427,
+    -73.226492,
+    44.383427
+],
+  "geometry": {"coordinates":[-73.22649199999999,44.383427],"type":"Point"}
+}

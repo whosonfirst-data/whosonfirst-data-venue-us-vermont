@@ -1,0 +1,71 @@
+{
+  "id": 874087445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.250036,44.169359,-73.250036,44.169359",
+    "geom:latitude":44.169359,
+    "geom:longitude":-73.250036,
+    "iso:country":"US",
+    "sg:address":"61 Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2076",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yoMphDGEo74Rnu12JjR4P_44.169359_-73.250036@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311635,
+    "wof:geomhash":"1f7b4c7efbb2056756b2f7ca4fbe1210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874087445
+        }
+    ],
+    "wof:id":874087445,
+    "wof:lastmodified":1464311635,
+    "wof:name":"Vergennes Video",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -73.250036,
+    44.169359,
+    -73.250036,
+    44.169359
+],
+  "geometry": {"coordinates":[-73.25003599999999,44.169359],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874054437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.47678,43.293111,-72.47678,43.293111",
+    "geom:latitude":43.293111,
+    "geom:longitude":-72.47678,
+    "iso:country":"US",
+    "sg:address":"65 Clinton St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 4265",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822381,
+        102191575,
+        404527377,
+        85633793,
+        101728481,
+        102080777,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h7zZ4RwUTeyEdYwuMjIqO_43.293111_-72.476780@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311282,
+    "wof:geomhash":"7cfe27ef34fe829c8439606b03ee7934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080777,
+            "localadmin_id":404527377,
+            "locality_id":101728481,
+            "neighbourhood_id":85822381,
+            "region_id":85688763,
+            "venue_id":874054437
+        }
+    ],
+    "wof:id":874054437,
+    "wof:lastmodified":1464311282,
+    "wof:name":"Value Service Center",
+    "wof:parent_id":85822381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.47678,
+    43.293111,
+    -72.47678,
+    43.293111
+],
+  "geometry": {"coordinates":[-72.47678000000001,43.293111],"type":"Point"}
+}

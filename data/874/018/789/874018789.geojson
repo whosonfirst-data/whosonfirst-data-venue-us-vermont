@@ -1,0 +1,73 @@
+{
+  "id": 874018789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.154218,44.123244,-73.154218,44.123244",
+    "geom:latitude":44.123244,
+    "geom:longitude":-73.154218,
+    "iso:country":"US",
+    "sg:address":"88 Town Hill Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2356",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DXv2yO0hkgQhjt9K8W1Qh_44.123244_-73.154218@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310935,
+    "wof:geomhash":"3cfedad275fa66b641a355e8e01dc508",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874018789
+        }
+    ],
+    "wof:id":874018789,
+    "wof:lastmodified":1464310935,
+    "wof:name":"Packard Of Vermont",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.154218,
+    44.123244,
+    -73.154218,
+    44.123244
+],
+  "geometry": {"coordinates":[-73.154218,44.123244],"type":"Point"}
+}

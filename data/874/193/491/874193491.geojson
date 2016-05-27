@@ -1,0 +1,69 @@
+{
+  "id": 874193491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.664614,44.48117,-72.664614,44.48117",
+    "geom:latitude":44.48117,
+    "geom:longitude":-72.664614,
+    "iso:country":"US",
+    "sg:address":"893 Pucker St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7746",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kSWnTeEfCAeKNthNJDDU7_44.481170_-72.664614@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312775,
+    "wof:geomhash":"2ccdb2e3e5588d99a5c095b3220714e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874193491
+        }
+    ],
+    "wof:id":874193491,
+    "wof:lastmodified":1464312775,
+    "wof:name":"Mansfield Valley Poultry Farm",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken"
+    ]
+},
+  "bbox": [
+    -72.664614,
+    44.48117,
+    -72.664614,
+    44.48117
+],
+  "geometry": {"coordinates":[-72.664614,44.48117],"type":"Point"}
+}

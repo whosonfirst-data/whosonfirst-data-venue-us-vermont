@@ -1,0 +1,73 @@
+{
+  "id": 874074005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.565429,44.222153,-72.565429,44.222153",
+    "geom:latitude":44.222153,
+    "geom:longitude":-72.565429,
+    "iso:country":"US",
+    "sg:address":"267 Fisher Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 9117",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zdBiopVXGCHB1CsKGkOhm_44.222153_-72.565429@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311494,
+    "wof:geomhash":"6860a93e192655bca18677a8db505832",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874074005
+        }
+    ],
+    "wof:id":874074005,
+    "wof:lastmodified":1464311494,
+    "wof:name":"Courtesy Toyota Pontiac Buick",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.565429,
+    44.222153,
+    -72.565429,
+    44.222153
+],
+  "geometry": {"coordinates":[-72.56542899999999,44.222153],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874070399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.098615,43.805304,-73.098615,43.805304",
+    "geom:latitude":43.805304,
+    "geom:longitude":-73.098615,
+    "iso:country":"US",
+    "sg:address":"420 Grove St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 6305",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qwbztRUTaZmR8qzFuvhPE_43.805304_-73.098615@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311435,
+    "wof:geomhash":"8ffe92aeaee92c3424a3635df0e56c9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874070399
+        }
+    ],
+    "wof:id":874070399,
+    "wof:lastmodified":1464311435,
+    "wof:name":"Dick John F",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.098615,
+    43.805304,
+    -73.098615,
+    43.805304
+],
+  "geometry": {"coordinates":[-73.098615,43.805304],"type":"Point"}
+}

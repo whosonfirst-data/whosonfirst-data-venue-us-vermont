@@ -1,0 +1,71 @@
+{
+  "id": 874079155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.9952,44.395417,-71.9952,44.395417",
+    "geom:latitude":44.395417,
+    "geom:longitude":-71.9952,
+    "iso:country":"US",
+    "sg:address":"212 Hastings Rd",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 2205",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31aLYF1BZAN9dXv5BLMUSI_44.395417_-71.995200@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311544,
+    "wof:geomhash":"55876d38ce8048fb2d639d4ceca94545",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874079155
+        }
+    ],
+    "wof:id":874079155,
+    "wof:lastmodified":1464311544,
+    "wof:name":"Lamplighter Lounge Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.9952,
+    44.395417,
+    -71.9952,
+    44.395417
+],
+  "geometry": {"coordinates":[-71.9952,44.395417],"type":"Point"}
+}

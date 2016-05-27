@@ -1,0 +1,69 @@
+{
+  "id": 873983825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.593721,42.886201,-72.593721,42.886201",
+    "geom:latitude":42.886201,
+    "geom:longitude":-72.593721,
+    "iso:country":"US",
+    "sg:address":"1213 Upper Dummerston Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 6763",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B3Y65uwVQHaVzawlUrRgO_42.886201_-72.593721@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310640,
+    "wof:geomhash":"0a741dabaab4d578836b2e88fae6f325",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":873983825
+        }
+    ],
+    "wof:id":873983825,
+    "wof:lastmodified":1464310640,
+    "wof:name":"Ralph's Repair",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -72.593721,
+    42.886201,
+    -72.593721,
+    42.886201
+],
+  "geometry": {"coordinates":[-72.593721,42.886201],"type":"Point"}
+}

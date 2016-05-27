@@ -1,0 +1,66 @@
+{
+  "id": 873995909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.495113,44.197733,-72.495113,44.197733",
+    "geom:latitude":44.197733,
+    "geom:longitude":-72.495113,
+    "iso:country":"US",
+    "sg:address":"11 Maple Grove St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7153",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bcyrZuAt8z5E679jeLjN8_44.197733_-72.495113@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310732,
+    "wof:geomhash":"30da8f03e70ef3999002d750c04b1529",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873995909
+        }
+    ],
+    "wof:id":873995909,
+    "wof:lastmodified":1464310732,
+    "wof:name":"Mary-Ann's Beauty Salon",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.495113,
+    44.197733,
+    -72.495113,
+    44.197733
+],
+  "geometry": {"coordinates":[-72.495113,44.197733],"type":"Point"}
+}

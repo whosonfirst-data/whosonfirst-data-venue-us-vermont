@@ -1,0 +1,71 @@
+{
+  "id": 874252941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213092,44.470902,-73.213092,44.470902",
+    "geom:latitude":44.470902,
+    "geom:longitude":-73.213092,
+    "iso:country":"US",
+    "sg:address":"309 Saint Paul St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 2162",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KIBUgK1d4yo8gdiIRl4Cx_44.470902_-73.213092@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313623,
+    "wof:geomhash":"56e1a44e862eb30cfe9ba6284de791d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874252941
+        }
+    ],
+    "wof:id":874252941,
+    "wof:lastmodified":1464313623,
+    "wof:name":"Cpl Electrical Contractors",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -73.213092,
+    44.470902,
+    -73.213092,
+    44.470902
+],
+  "geometry": {"coordinates":[-73.213092,44.470902],"type":"Point"}
+}

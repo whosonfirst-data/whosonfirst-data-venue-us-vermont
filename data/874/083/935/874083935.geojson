@@ -1,0 +1,73 @@
+{
+  "id": 874083935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.511999,44.162389,-72.511999,44.162389",
+    "geom:latitude":44.162389,
+    "geom:longitude":-72.511999,
+    "iso:country":"US",
+    "sg:address":"689 S Barre Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7800",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vhnt4gdZICVijn8wkobLm_44.162389_-72.511999@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311598,
+    "wof:geomhash":"52b6162e1177f009d0c4cc0b631ff8c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874083935
+        }
+    ],
+    "wof:id":874083935,
+    "wof:lastmodified":1464311598,
+    "wof:name":"Community Action Motors",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.511999,
+    44.162389,
+    -72.511999,
+    44.162389
+],
+  "geometry": {"coordinates":[-72.511999,44.162389],"type":"Point"}
+}

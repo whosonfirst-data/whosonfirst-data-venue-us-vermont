@@ -1,0 +1,71 @@
+{
+  "id": 874020971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.679158,44.635276,-72.679158,44.635276",
+    "geom:latitude":44.635276,
+    "geom:longitude":-72.679158,
+    "iso:country":"US",
+    "sg:address":"5 Lower Main St E",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 7500",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HrQ9Oms3lJuVphyoyvzY5_44.635276_-72.679158@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310956,
+    "wof:geomhash":"c9acae81a2fba7ff2092b453d7251b48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874020971
+        }
+    ],
+    "wof:id":874020971,
+    "wof:lastmodified":1464310956,
+    "wof:name":"Better Living Massage",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -72.679158,
+    44.635276,
+    -72.679158,
+    44.635276
+],
+  "geometry": {"coordinates":[-72.679158,44.635276],"type":"Point"}
+}

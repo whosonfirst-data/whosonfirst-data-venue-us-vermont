@@ -1,0 +1,71 @@
+{
+  "id": 874238999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50304,44.19656,-72.50304,44.19656",
+    "geom:latitude":44.19656,
+    "geom:longitude":-72.50304,
+    "iso:country":"US",
+    "sg:address":"50 Prospect St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0671",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mattress"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TCQzxmhX7w8F0yvmzLYZM_44.196560_-72.503040@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313321,
+    "wof:geomhash":"eaf0a365a693747ffdf48bf9602c9edb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874238999
+        }
+    ],
+    "wof:id":874238999,
+    "wof:lastmodified":1464313321,
+    "wof:name":"Mattress Land",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mattress"
+    ]
+},
+  "bbox": [
+    -72.50304,
+    44.19656,
+    -72.50304,
+    44.19656
+],
+  "geometry": {"coordinates":[-72.50304,44.19656],"type":"Point"}
+}

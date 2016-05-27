@@ -1,0 +1,73 @@
+{
+  "id": 874179977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.291046,44.182621,-73.291046,44.182621",
+    "geom:latitude":44.182621,
+    "geom:longitude":-73.291046,
+    "iso:country":"US",
+    "sg:address":"499 Cross Rd",
+    "sg:city":"Ferrisburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 651 4053",
+    "sg:postcode":"05456",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cisICvDubtteOpFy25baK_44.182621_-73.291046@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312630,
+    "wof:geomhash":"14327e09892edd65261319d0461597ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874179977
+        }
+    ],
+    "wof:id":874179977,
+    "wof:lastmodified":1464312630,
+    "wof:name":"Second Chance Movers",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.291046,
+    44.182621,
+    -73.291046,
+    44.182621
+],
+  "geometry": {"coordinates":[-73.29104599999999,44.182621],"type":"Point"}
+}

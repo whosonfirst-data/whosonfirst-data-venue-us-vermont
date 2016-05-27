@@ -1,0 +1,71 @@
+{
+  "id": 874065419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.701446,44.467868,-72.701446,44.467868",
+    "geom:latitude":44.467868,
+    "geom:longitude":-72.701446,
+    "iso:country":"US",
+    "sg:address":"361 Winterbird Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 5642",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BDpfhShq7cT5UymJ0E4X4_44.467868_-72.701446@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311383,
+    "wof:geomhash":"3b8d2a883d13a948240a402bdd28c726",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874065419
+        }
+    ],
+    "wof:id":874065419,
+    "wof:lastmodified":1464311383,
+    "wof:name":"Trotman Properties",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.701446,
+    44.467868,
+    -72.701446,
+    44.467868
+],
+  "geometry": {"coordinates":[-72.701446,44.467868],"type":"Point"}
+}

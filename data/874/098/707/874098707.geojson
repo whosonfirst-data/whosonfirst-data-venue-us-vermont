@@ -1,0 +1,67 @@
+{
+  "id": 874098707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.500016,44.182873,-72.500016,44.182873",
+    "geom:latitude":44.182873,
+    "geom:longitude":-72.500016,
+    "iso:country":"US",
+    "sg:address":"265 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9411",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:website":"www.cvtcu.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WRaC1x8vJjO9ITGoaUDPl_44.182873_-72.500016@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311766,
+    "wof:geomhash":"824ac5fee973810f020f964ae6f11b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874098707
+        }
+    ],
+    "wof:id":874098707,
+    "wof:lastmodified":1464311766,
+    "wof:name":"Central Vermont Teachers CU",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.500016,
+    44.182873,
+    -72.500016,
+    44.182873
+],
+  "geometry": {"coordinates":[-72.500016,44.182873],"type":"Point"}
+}

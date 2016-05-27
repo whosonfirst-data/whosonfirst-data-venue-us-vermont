@@ -1,0 +1,71 @@
+{
+  "id": 874111829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.247758,44.19133,-73.247758,44.19133",
+    "geom:latitude":44.19133,
+    "geom:longitude":-73.247758,
+    "iso:country":"US",
+    "sg:address":"2470 US Hwy 7",
+    "sg:city":"Ferrisburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3776",
+    "sg:postcode":"05456",
+    "sg:province":"VT",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sq4qAzDseciNTJdQhMO0N_44.191330_-73.247758@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311955,
+    "wof:geomhash":"fb15ddc6ee55e436419babd78a772b08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874111829
+        }
+    ],
+    "wof:id":874111829,
+    "wof:lastmodified":1464311955,
+    "wof:name":"Midstate Shooting Sports",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -73.247758,
+    44.19133,
+    -73.247758,
+    44.19133
+],
+  "geometry": {"coordinates":[-73.247758,44.19133],"type":"Point"}
+}

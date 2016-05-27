@@ -1,0 +1,71 @@
+{
+  "id": 874056621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.493986,43.308249,-72.493986,43.308249",
+    "geom:latitude":43.308249,
+    "geom:longitude":-72.493986,
+    "iso:country":"US",
+    "sg:address":"113 Westview Ter",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 1218",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72IykUdLfhe7ojhjH8Kxwu_43.308249_-72.493986@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311306,
+    "wof:geomhash":"d60750e14f48dbc457cd579641f46eaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874056621
+        }
+    ],
+    "wof:id":874056621,
+    "wof:lastmodified":1464311306,
+    "wof:name":"Westview Community Ctr",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -72.493986,
+    43.308249,
+    -72.493986,
+    43.308249
+],
+  "geometry": {"coordinates":[-72.49398600000001,43.308249],"type":"Point"}
+}

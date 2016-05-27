@@ -1,0 +1,71 @@
+{
+  "id": 874197823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.03266,43.545588,-73.03266,43.545588",
+    "geom:latitude":43.545588,
+    "geom:longitude":-73.03266,
+    "iso:country":"US",
+    "sg:address":"1058 Teer Rd",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 5356",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jxskq9Vsa7AUSO4p05rlo_43.545588_-73.032660@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312824,
+    "wof:geomhash":"1a161096eeb7e92ebc35f319879bcb46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874197823
+        }
+    ],
+    "wof:id":874197823,
+    "wof:lastmodified":1464312824,
+    "wof:name":"Smith Building Co Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.03266,
+    43.545588,
+    -73.03266,
+    43.545588
+],
+  "geometry": {"coordinates":[-73.03266000000001,43.545588],"type":"Point"}
+}

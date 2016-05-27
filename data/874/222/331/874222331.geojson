@@ -1,0 +1,69 @@
+{
+  "id": 874222331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.559227,42.88134,-72.559227,42.88134",
+    "geom:latitude":42.88134,
+    "geom:longitude":-72.559227,
+    "iso:country":"US",
+    "sg:address":"40 Black Mountain Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 9509",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ae4PXn0gi3qpbqSGhiyFk_42.881340_-72.559227@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313087,
+    "wof:geomhash":"8f2e4372a3da9bcc8f46882c3243226f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874222331
+        }
+    ],
+    "wof:id":874222331,
+    "wof:lastmodified":1464313087,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -72.559227,
+    42.88134,
+    -72.559227,
+    42.88134
+],
+  "geometry": {"coordinates":[-72.55922700000001,42.88134],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874036471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078045,44.132998,-73.078045,44.132998",
+    "geom:latitude":44.132998,
+    "geom:longitude":-73.078045,
+    "iso:country":"US",
+    "sg:address":"25 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5684",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yo7qFqDd5jSUSfJhvlMVB_44.132998_-73.078045@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311110,
+    "wof:geomhash":"fde885a449d1649b11672beecbe5f08f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874036471
+        }
+    ],
+    "wof:id":874036471,
+    "wof:lastmodified":1464311110,
+    "wof:name":"Deerleap Books",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -73.078045,
+    44.132998,
+    -73.078045,
+    44.132998
+],
+  "geometry": {"coordinates":[-73.078045,44.132998],"type":"Point"}
+}

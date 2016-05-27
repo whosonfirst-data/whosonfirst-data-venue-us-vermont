@@ -1,0 +1,69 @@
+{
+  "id": 874012285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.310075,43.711345,-73.310075,43.711345",
+    "geom:latitude":43.711345,
+    "geom:longitude":-73.310075,
+    "iso:country":"US",
+    "sg:address":"2760 Stage Rd",
+    "sg:city":"Benson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 537 2611",
+    "sg:postcode":"05731",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4faVIE3fuCTZzg7NOAuIKy_43.711345_-73.310075@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310871,
+    "wof:geomhash":"4b206408a2977faf9ddbfb5619943606",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874012285
+        }
+    ],
+    "wof:id":874012285,
+    "wof:lastmodified":1464310871,
+    "wof:name":"Benson Town Clerk",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -73.310075,
+    43.711345,
+    -73.310075,
+    43.711345
+],
+  "geometry": {"coordinates":[-73.310075,43.711345],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874245661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.157818,44.464055,-73.157818,44.464055",
+    "geom:latitude":44.464055,
+    "geom:longitude":-73.157818,
+    "iso:country":"US",
+    "sg:address":"1891 Williston Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 4386",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102532853,
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PPhgZ7ZsZgBLlCbff0ylP_44.464055_-73.157818@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313447,
+    "wof:geomhash":"9ab53f9aace44963f99b93dee0df566d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532853,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874245661
+        }
+    ],
+    "wof:id":874245661,
+    "wof:lastmodified":1464313447,
+    "wof:name":"Lee Zachary's Pizza",
+    "wof:parent_id":102532853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.157818,
+    44.464055,
+    -73.157818,
+    44.464055
+],
+  "geometry": {"coordinates":[-73.15781800000001,44.464055],"type":"Point"}
+}

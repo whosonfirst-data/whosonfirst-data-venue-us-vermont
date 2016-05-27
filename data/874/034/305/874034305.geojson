@@ -1,0 +1,71 @@
+{
+  "id": 874034305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971366,43.60325,-72.971366,43.60325",
+    "geom:latitude":43.60325,
+    "geom:longitude":-72.971366,
+    "iso:country":"US",
+    "sg:address":"355 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 2571",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t90hYEZMl2dEE19X2h2El_43.603250_-72.971366@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311088,
+    "wof:geomhash":"0150595d34bd4df716a025c52658f8e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874034305
+        }
+    ],
+    "wof:id":874034305,
+    "wof:lastmodified":1464311088,
+    "wof:name":"Mobil",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.971366,
+    43.60325,
+    -72.971366,
+    43.60325
+],
+  "geometry": {"coordinates":[-72.971366,43.60325],"type":"Point"}
+}

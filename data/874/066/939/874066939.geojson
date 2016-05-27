@@ -1,0 +1,71 @@
+{
+  "id": 874066939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.96897,44.493915,-72.96897,44.493915",
+    "geom:latitude":44.493915,
+    "geom:longitude":-72.96897,
+    "iso:country":"US",
+    "sg:address":"154 Packard Rd",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 4344",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OHrYKCxRt91GgYbCePUr4_44.493915_-72.968970@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311396,
+    "wof:geomhash":"8bcd1cae323005b6a7394874f2cb78b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874066939
+        }
+    ],
+    "wof:id":874066939,
+    "wof:lastmodified":1464311396,
+    "wof:name":"Joanne's Vacuum Shop",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -72.96897,
+    44.493915,
+    -72.96897,
+    44.493915
+],
+  "geometry": {"coordinates":[-72.96897,44.493915],"type":"Point"}
+}

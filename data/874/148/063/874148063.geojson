@@ -1,0 +1,71 @@
+{
+  "id": 874148063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.543559,44.173836,-72.543559,44.173836",
+    "geom:latitude":44.173836,
+    "geom:longitude":-72.543559,
+    "iso:country":"US",
+    "sg:address":"84 Miller Woods Dr",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3386",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RRUm6TlXeDKMhPyMJlOT8_44.173836_-72.543559@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312311,
+    "wof:geomhash":"40f52ff3e867ebdde6de5ec289f7b944",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874148063
+        }
+    ],
+    "wof:id":874148063,
+    "wof:lastmodified":1464312311,
+    "wof:name":"J & R Builders",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.543559,
+    44.173836,
+    -72.543559,
+    44.173836
+],
+  "geometry": {"coordinates":[-72.543559,44.173836],"type":"Point"}
+}

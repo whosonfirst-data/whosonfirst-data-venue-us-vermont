@@ -1,0 +1,71 @@
+{
+  "id": 874244179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.172365,44.471897,-73.172365,44.471897",
+    "geom:latitude":44.471897,
+    "geom:longitude":-73.172365,
+    "iso:country":"US",
+    "sg:address":"185 Patchen Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 0341",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PeoldKhtmSvrOZmlojvi6_44.471897_-73.172365@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313415,
+    "wof:geomhash":"635bf4b7b9ef53cb8f3862a53791e79d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874244179
+        }
+    ],
+    "wof:id":874244179,
+    "wof:lastmodified":1464313415,
+    "wof:name":"Gerald Le Clair Electrcl Cnstr",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.172365,
+    44.471897,
+    -73.172365,
+    44.471897
+],
+  "geometry": {"coordinates":[-73.172365,44.471897],"type":"Point"}
+}

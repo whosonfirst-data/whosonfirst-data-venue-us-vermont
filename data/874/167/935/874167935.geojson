@@ -1,0 +1,74 @@
+{
+  "id": 874167935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.957998,43.525678,-72.957998,43.525678",
+    "geom:latitude":43.525678,
+    "geom:longitude":-72.957998,
+    "iso:country":"US",
+    "sg:address":"63 Jones Ln",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0233",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.waynesbodyshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yPLVVffwkhMl0ReJZU3fj_43.525678_-72.957998@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312506,
+    "wof:geomhash":"6f43e059df333cf6e5655ecf54505a81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874167935
+        }
+    ],
+    "wof:id":874167935,
+    "wof:lastmodified":1464312506,
+    "wof:name":"Wayne's Body Shop",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.957998,
+    43.525678,
+    -72.957998,
+    43.525678
+],
+  "geometry": {"coordinates":[-72.957998,43.525678],"type":"Point"}
+}

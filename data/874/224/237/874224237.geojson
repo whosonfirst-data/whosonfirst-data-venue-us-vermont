@@ -1,0 +1,71 @@
+{
+  "id": 874224237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.133296,44.507689,-73.133296,44.507689",
+    "geom:latitude":44.507689,
+    "geom:longitude":-73.133296,
+    "iso:country":"US",
+    "sg:address":"27 Market Pl",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 9572",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60lmWuWUlY6ErEYX2j01F7_44.507689_-73.133296@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313105,
+    "wof:geomhash":"852ee082c15d22c807ed346b44faecf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874224237
+        }
+    ],
+    "wof:id":874224237,
+    "wof:lastmodified":1464313105,
+    "wof:name":"Essex Physical Theraphy",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.133296,
+    44.507689,
+    -73.133296,
+    44.507689
+],
+  "geometry": {"coordinates":[-73.133296,44.507689],"type":"Point"}
+}

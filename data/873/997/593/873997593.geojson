@@ -1,0 +1,79 @@
+{
+  "id": 873997593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501948,44.256852,-72.501948,44.256852",
+    "geom:latitude":44.256852,
+    "geom:longitude":-72.501948,
+    "iso:country":"US",
+    "sg:address":"1498 US Hwy 2",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 6417",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sell",
+        "also",
+        "parts",
+        "camper",
+        "pick"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cq1TCTuoeNCgvfHIi7Be9_44.256852_-72.501948@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310744,
+    "wof:geomhash":"a8e43c98b38dd7ddede8ee6a6047f885",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873997593
+        }
+    ],
+    "wof:id":873997593,
+    "wof:lastmodified":1464310744,
+    "wof:name":"Vermont Country Campers Sales",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sell",
+        "also",
+        "parts",
+        "camper",
+        "pick"
+    ]
+},
+  "bbox": [
+    -72.501948,
+    44.256852,
+    -72.501948,
+    44.256852
+],
+  "geometry": {"coordinates":[-72.501948,44.256852],"type":"Point"}
+}

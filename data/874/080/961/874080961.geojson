@@ -1,0 +1,73 @@
+{
+  "id": 874080961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.593011,43.724008,-72.593011,43.724008",
+    "geom:latitude":43.724008,
+    "geom:longitude":-72.593011,
+    "iso:country":"US",
+    "sg:address":"10 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 2900",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a5In3g4qmMDd5f43fs2cy_43.724008_-72.593011@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311562,
+    "wof:geomhash":"f01dd6431952571349de80e6bd5ad646",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874080961
+        }
+    ],
+    "wof:id":874080961,
+    "wof:lastmodified":1464311562,
+    "wof:name":"Northside Autobody",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.593011,
+    43.724008,
+    -72.593011,
+    43.724008
+],
+  "geometry": {"coordinates":[-72.593011,43.724008],"type":"Point"}
+}

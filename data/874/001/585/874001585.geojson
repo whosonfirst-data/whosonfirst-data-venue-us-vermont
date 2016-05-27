@@ -1,0 +1,69 @@
+{
+  "id": 874001585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.230303,44.550607,-73.230303,44.550607",
+    "geom:latitude":44.550607,
+    "geom:longitude":-73.230303,
+    "iso:country":"US",
+    "sg:address":"777 W Lakeshore Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 1808",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BZYy5clfZr3hkLlVFNTHa_44.550607_-73.230303@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310772,
+    "wof:geomhash":"a008993b12981bdac87c567fff958f08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874001585
+        }
+    ],
+    "wof:id":874001585,
+    "wof:lastmodified":1464310772,
+    "wof:name":"Dick Mazza Liquor Store",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -73.230303,
+    44.550607,
+    -73.230303,
+    44.550607
+],
+  "geometry": {"coordinates":[-73.23030300000001,44.550607],"type":"Point"}
+}

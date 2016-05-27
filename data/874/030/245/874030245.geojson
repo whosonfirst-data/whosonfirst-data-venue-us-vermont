@@ -1,0 +1,72 @@
+{
+  "id": 874030245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180031,44.460547,-73.180031,44.460547",
+    "geom:latitude":44.460547,
+    "geom:longitude":-73.180031,
+    "iso:country":"US",
+    "sg:address":"340 Dorset St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 8184",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state"
+    ],
+    "sg:website":"www.caswellcu.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VKn8fXPnqxgLo8nXbEDZS_44.460547_-73.180031@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311050,
+    "wof:geomhash":"3b73d000d2938ac9aef5e831fe0efb2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874030245
+        }
+    ],
+    "wof:id":874030245,
+    "wof:lastmodified":1464311050,
+    "wof:name":"Caswell Credit Union",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -73.180031,
+    44.460547,
+    -73.180031,
+    44.460547
+],
+  "geometry": {"coordinates":[-73.180031,44.460547],"type":"Point"}
+}

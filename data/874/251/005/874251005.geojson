@@ -1,0 +1,74 @@
+{
+  "id": 874251005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214584,44.477989,-73.214584,44.477989",
+    "geom:latitude":44.477989,
+    "geom:longitude":-73.214584,
+    "iso:country":"US",
+    "sg:address":"133 Bank St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/burlington/269157-a-single-pebble/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 5200",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G5ddnk4wSkAy975C5AgdW_44.478036_-73.214971@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313586,
+    "wof:geomhash":"c95e463b84947172e00b60cd8315ae40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874251005
+        }
+    ],
+    "wof:id":874251005,
+    "wof:lastmodified":1464313586,
+    "wof:name":"A Single Pebble",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -73.214584,
+    44.477989,
+    -73.214584,
+    44.477989
+],
+  "geometry": {"coordinates":[-73.214584,44.477989],"type":"Point"}
+}

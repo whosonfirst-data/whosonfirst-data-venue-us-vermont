@@ -1,0 +1,73 @@
+{
+  "id": 874094347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213215,44.438256,-73.213215,44.438256",
+    "geom:latitude":44.438256,
+    "geom:longitude":-73.213215,
+    "iso:country":"US",
+    "sg:address":"7 Fayette Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 651 9090",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d8fdUZXAwTeHg3HxGNFai_44.438256_-73.213215@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311707,
+    "wof:geomhash":"ef00367741a62111346ab6eaa7901e0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874094347
+        }
+    ],
+    "wof:id":874094347,
+    "wof:lastmodified":1464311707,
+    "wof:name":"Dee Physical Therapy LLC",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.213215,
+    44.438256,
+    -73.213215,
+    44.438256
+],
+  "geometry": {"coordinates":[-73.21321500000001,44.438256],"type":"Point"}
+}

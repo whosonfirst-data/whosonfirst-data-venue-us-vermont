@@ -1,0 +1,81 @@
+{
+  "id": 874134429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.515482,44.210101,-72.515482,44.210101",
+    "geom:latitude":44.210101,
+    "geom:longitude":-72.515482,
+    "iso:country":"US",
+    "sg:address":"672 US Hwy 302",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 1241",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organ",
+        "trucking",
+        "moving",
+        "operator",
+        "piano",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yAtJZvLG5x96zNIRS0ZHi_44.210101_-72.515482@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312185,
+    "wof:geomhash":"46dcbe5d53758ea89ba5a342c4f939f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874134429
+        }
+    ],
+    "wof:id":874134429,
+    "wof:lastmodified":1464312185,
+    "wof:name":"Green Mountain Piano Moving",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organ",
+        "trucking",
+        "moving",
+        "operator",
+        "piano",
+        "local"
+    ]
+},
+  "bbox": [
+    -72.515482,
+    44.210101,
+    -72.515482,
+    44.210101
+],
+  "geometry": {"coordinates":[-72.51548200000001,44.210101],"type":"Point"}
+}

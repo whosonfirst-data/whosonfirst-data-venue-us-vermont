@@ -1,0 +1,73 @@
+{
+  "id": 874179219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.181035,44.122096,-73.181035,44.122096",
+    "geom:latitude":44.122096,
+    "geom:longitude":-73.181035,
+    "iso:country":"US",
+    "sg:address":"73 Main St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2752",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B1uxTt6si1SGToXMJEFUi_44.122096_-73.181035@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312622,
+    "wof:geomhash":"a8c7b76038f5fca814b814f5bbbc6778",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874179219
+        }
+    ],
+    "wof:id":874179219,
+    "wof:lastmodified":1464312622,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -73.181035,
+    44.122096,
+    -73.181035,
+    44.122096
+],
+  "geometry": {"coordinates":[-73.18103499999999,44.122096],"type":"Point"}
+}

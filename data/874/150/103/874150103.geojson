@@ -1,0 +1,73 @@
+{
+  "id": 874150103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.683723,44.115854,-72.683723,44.115854",
+    "geom:latitude":44.115854,
+    "geom:longitude":-72.683723,
+    "iso:country":"US",
+    "sg:address":"266 Homewild Ln",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 5622",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RDTtH9hON72FGk0Wvwjpy_44.115854_-72.683723@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312329,
+    "wof:geomhash":"e432253bb80614cf9a018a47fc457e0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874150103
+        }
+    ],
+    "wof:id":874150103,
+    "wof:lastmodified":1464312329,
+    "wof:name":"Mc Lean Electric",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.683723,
+    44.115854,
+    -72.683723,
+    44.115854
+],
+  "geometry": {"coordinates":[-72.683723,44.115854],"type":"Point"}
+}

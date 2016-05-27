@@ -1,0 +1,73 @@
+{
+  "id": 874187425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.492206,43.274773,-72.492206,43.274773",
+    "geom:latitude":43.274773,
+    "geom:longitude":-72.492206,
+    "iso:country":"US",
+    "sg:address":"53 Massey Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 1147",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iD1AruJ4ARPY2fHXAkBmC_43.274773_-72.492206@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312714,
+    "wof:geomhash":"a6fac12cf5fe1b236a4b157088c84f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874187425
+        }
+    ],
+    "wof:id":874187425,
+    "wof:lastmodified":1464312714,
+    "wof:name":"Misty Morning Kennels",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -72.492206,
+    43.274773,
+    -72.492206,
+    43.274773
+],
+  "geometry": {"coordinates":[-72.492206,43.274773],"type":"Point"}
+}

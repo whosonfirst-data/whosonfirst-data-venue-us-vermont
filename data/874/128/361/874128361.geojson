@@ -1,0 +1,69 @@
+{
+  "id": 874128361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.643106,43.810841,-72.643106,43.810841",
+    "geom:latitude":43.810841,
+    "geom:longitude":-72.643106,
+    "iso:country":"US",
+    "sg:address":"1542 State Rte 107",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 234 6244",
+    "sg:postcode":"05032",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18qALTf3bWgJpqbxHCrZbu_43.810841_-72.643106@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312114,
+    "wof:geomhash":"56ae31622c47be9c5500fee847eaa9b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874128361
+        }
+    ],
+    "wof:id":874128361,
+    "wof:lastmodified":1464312114,
+    "wof:name":"Obuchowski & Emens-Butler",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -72.643106,
+    43.810841,
+    -72.643106,
+    43.810841
+],
+  "geometry": {"coordinates":[-72.643106,43.810841],"type":"Point"}
+}

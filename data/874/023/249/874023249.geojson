@@ -1,0 +1,69 @@
+{
+  "id": 874023249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.197315,42.8766,-73.197315,42.8766",
+    "geom:latitude":42.8766,
+    "geom:longitude":-73.197315,
+    "iso:country":"US",
+    "sg:address":"305 South St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 0540",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SH7l9VjFTnVU1dD5aN9pP_42.876600_-73.197315@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310976,
+    "wof:geomhash":"a8263e4387b4d026b9418d2a37b318b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874023249
+        }
+    ],
+    "wof:id":874023249,
+    "wof:lastmodified":1464310976,
+    "wof:name":"Fleming Oil Co",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -73.197315,
+    42.8766,
+    -73.197315,
+    42.8766
+],
+  "geometry": {"coordinates":[-73.197315,42.8766],"type":"Point"}
+}

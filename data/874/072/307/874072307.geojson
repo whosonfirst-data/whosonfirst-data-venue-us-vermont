@@ -1,0 +1,73 @@
+{
+  "id": 874072307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.518652,43.336583,-72.518652,43.336583",
+    "geom:latitude":43.336583,
+    "geom:longitude":-72.518652,
+    "iso:country":"US",
+    "sg:address":"14 Gurney Rd",
+    "sg:city":"N Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 8245",
+    "sg:postcode":"05150",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LWnD6GLifz9im9VC2P1Q4_43.336583_-72.518652@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311467,
+    "wof:geomhash":"c6d16cf46d330da42da09354fc666966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874072307
+        }
+    ],
+    "wof:id":874072307,
+    "wof:lastmodified":1464311467,
+    "wof:name":"Gurney's Turf Inc",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -72.518652,
+    43.336583,
+    -72.518652,
+    43.336583
+],
+  "geometry": {"coordinates":[-72.518652,43.336583],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874256329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.996909,43.350673,-72.996909,43.350673",
+    "geom:latitude":43.350673,
+    "geom:longitude":-72.996909,
+    "iso:country":"US",
+    "sg:address":"214 N Main St",
+    "sg:city":"Danby",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"05739",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0024cCZWmbEBZSxAPNctKI_43.350673_-72.996909@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313703,
+    "wof:geomhash":"1fba0e78f7f739eb2807fdf0c67083f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874256329
+        }
+    ],
+    "wof:id":874256329,
+    "wof:lastmodified":1464313703,
+    "wof:name":"USPS - United States Post Office - Danby Main Office",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -72.996909,
+    43.350673,
+    -72.996909,
+    43.350673
+],
+  "geometry": {"coordinates":[-72.996909,43.350673],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 874253245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.217422,44.480301,-73.217422,44.480301",
+    "geom:latitude":44.480301,
+    "geom:longitude":-73.217422,
+    "iso:country":"US",
+    "sg:address":"69 Pearl St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 6608",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dressmaker",
+        "tailoring",
+        "alteration",
+        "alterations-clothing",
+        "tailor",
+        "wedding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OqA7tsHdLKNzU9PgbgrmK_44.480301_-73.217422@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313631,
+    "wof:geomhash":"21d8ff21d8080c777979db7cee7e3bac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874253245
+        }
+    ],
+    "wof:id":874253245,
+    "wof:lastmodified":1464313631,
+    "wof:name":"Linda's Sew Unique",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dressmaker",
+        "tailoring",
+        "alteration",
+        "alterations-clothing",
+        "tailor",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -73.217422,
+    44.480301,
+    -73.217422,
+    44.480301
+],
+  "geometry": {"coordinates":[-73.217422,44.480301],"type":"Point"}
+}

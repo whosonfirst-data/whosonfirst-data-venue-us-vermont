@@ -1,0 +1,78 @@
+{
+  "id": 874254675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.221592,44.390499,-73.221592,44.390499",
+    "geom:latitude":44.390499,
+    "geom:longitude":-73.221592,
+    "iso:country":"US",
+    "sg:address":"54 Webster Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 3296",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dTkgFeNPSTi86KZLk3gYY_44.390499_-73.221592@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313662,
+    "wof:geomhash":"b7b8c10ede8b748fb894e7a09d51936a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874254675
+        }
+    ],
+    "wof:id":874254675,
+    "wof:lastmodified":1464313662,
+    "wof:name":"R & J Trucking",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.221592,
+    44.390499,
+    -73.221592,
+    44.390499
+],
+  "geometry": {"coordinates":[-73.221592,44.390499],"type":"Point"}
+}

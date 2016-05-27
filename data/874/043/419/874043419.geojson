@@ -1,0 +1,71 @@
+{
+  "id": 874043419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.65521,44.025042,-72.65521,44.025042",
+    "geom:latitude":44.025042,
+    "geom:longitude":-72.65521,
+    "iso:country":"US",
+    "sg:address":"103 State Rte 12",
+    "sg:city":"Randolph",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 728 9014",
+    "sg:postcode":"05060",
+    "sg:province":"VT",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85841465,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZkOyrq6FgL0QwAVSG1lhE_44.025042_-72.655210@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311179,
+    "wof:geomhash":"3028edc0b29be1f418fef6b3126e6a2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85841465,
+            "region_id":85688763,
+            "venue_id":874043419
+        }
+    ],
+    "wof:id":874043419,
+    "wof:lastmodified":1464311179,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85841465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -72.65521,
+    44.025042,
+    -72.65521,
+    44.025042
+],
+  "geometry": {"coordinates":[-72.65521,44.025042],"type":"Point"}
+}

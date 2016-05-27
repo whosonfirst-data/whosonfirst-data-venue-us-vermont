@@ -1,0 +1,71 @@
+{
+  "id": 874114363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.097555,44.430684,-72.097555,44.430684",
+    "geom:latitude":44.430684,
+    "geom:longitude":-72.097555,
+    "iso:country":"US",
+    "sg:address":"578 State Rte 2b",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 3613",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B8eU9XNnA7HtuLDducGIh_44.430684_-72.097555@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311981,
+    "wof:geomhash":"dee0c6ba43e0b473b1413a64d0cbb117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874114363
+        }
+    ],
+    "wof:id":874114363,
+    "wof:lastmodified":1464311981,
+    "wof:name":"C G Electric",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.097555,
+    44.430684,
+    -72.097555,
+    44.430684
+],
+  "geometry": {"coordinates":[-72.097555,44.430684],"type":"Point"}
+}

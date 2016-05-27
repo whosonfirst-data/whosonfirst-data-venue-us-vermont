@@ -1,0 +1,71 @@
+{
+  "id": 874198997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204873,44.408495,-73.204873,44.408495",
+    "geom:latitude":44.408495,
+    "geom:longitude":-73.204873,
+    "iso:country":"US",
+    "sg:address":"297 Birch Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 2509",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67H9zMbNXSfOamyugTVadc_44.408495_-73.204873@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312834,
+    "wof:geomhash":"20e0b030e2f41bc27f074886cb610a7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874198997
+        }
+    ],
+    "wof:id":874198997,
+    "wof:lastmodified":1464312834,
+    "wof:name":"Vermont Information Systems",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting"
+    ]
+},
+  "bbox": [
+    -73.204873,
+    44.408495,
+    -73.204873,
+    44.408495
+],
+  "geometry": {"coordinates":[-73.20487300000001,44.408495],"type":"Point"}
+}

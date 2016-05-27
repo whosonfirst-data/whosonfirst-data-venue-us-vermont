@@ -1,0 +1,71 @@
+{
+  "id": 874246973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.950186,43.592087,-72.950186,43.592087",
+    "geom:latitude":43.592087,
+    "geom:longitude":-72.950186,
+    "iso:country":"US",
+    "sg:address":"275 Stratton Rd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 1746",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "passenger",
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BAm8QxQrXV9wn1k4CRcbZ_43.592087_-72.950186@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313470,
+    "wof:geomhash":"a4c52841f91f324cd8cc4bdfb03ae238",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874246973
+        }
+    ],
+    "wof:id":874246973,
+    "wof:lastmodified":1464313470,
+    "wof:name":"Regional Ambulance Service",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -72.950186,
+    43.592087,
+    -72.950186,
+    43.592087
+],
+  "geometry": {"coordinates":[-72.950186,43.592087],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874044707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.486768,44.271156,-72.486768,44.271156",
+    "geom:latitude":44.271156,
+    "geom:longitude":-72.486768,
+    "iso:country":"US",
+    "sg:address":"3042 US Hwy 2",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 1200",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TaE8JQxAfLlVDB6FiH6VF_44.271156_-72.486768@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311191,
+    "wof:geomhash":"acb00964c0ded83864a832c04859be95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874044707
+        }
+    ],
+    "wof:id":874044707,
+    "wof:lastmodified":1464311191,
+    "wof:name":"Buy Right",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.486768,
+    44.271156,
+    -72.486768,
+    44.271156
+],
+  "geometry": {"coordinates":[-72.486768,44.271156],"type":"Point"}
+}

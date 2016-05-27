@@ -1,0 +1,69 @@
+{
+  "id": 874119371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204557,42.872146,-73.204557,42.872146",
+    "geom:latitude":42.872146,
+    "geom:longitude":-73.204557,
+    "iso:country":"US",
+    "sg:address":"316 Dewey St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 4968",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75vuVqqa7cKyZCiq2crsvW_42.872146_-73.204557@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312028,
+    "wof:geomhash":"cc03fa292434c139e53d5f5e8c54ddb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874119371
+        }
+    ],
+    "wof:id":874119371,
+    "wof:lastmodified":1464312028,
+    "wof:name":"United Counseling Svc-Bnningtn",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -73.204557,
+    42.872146,
+    -73.204557,
+    42.872146
+],
+  "geometry": {"coordinates":[-73.20455699999999,42.872146],"type":"Point"}
+}

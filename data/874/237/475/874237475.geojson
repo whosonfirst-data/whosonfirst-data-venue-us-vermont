@@ -1,0 +1,69 @@
+{
+  "id": 874237475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.020496,44.419862,-72.020496,44.419862",
+    "geom:latitude":44.419862,
+    "geom:longitude":-72.020496,
+    "iso:country":"US",
+    "sg:address":"1229 Main St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3906",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z5ILJEhTi6T11S9GlMyL1_44.419862_-72.020496@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313288,
+    "wof:geomhash":"92f7c796dfd8a7497b21ed086a618feb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874237475
+        }
+    ],
+    "wof:id":874237475,
+    "wof:lastmodified":1464313288,
+    "wof:name":"Richard S Kozlowski DDS",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.020496,
+    44.419862,
+    -72.020496,
+    44.419862
+],
+  "geometry": {"coordinates":[-72.02049599999999,44.419862],"type":"Point"}
+}

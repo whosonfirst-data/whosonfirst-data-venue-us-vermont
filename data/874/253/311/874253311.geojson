@@ -1,0 +1,85 @@
+{
+  "id": 874253311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209139,44.449052,-73.209139,44.449052",
+    "geom:latitude":44.449052,
+    "geom:longitude":-73.209139,
+    "iso:country":"US",
+    "sg:address":"580 Shelburne Rd Ste 9",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 651 0829",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CmL6Q6JkPPybJNclZF7jZ_44.449052_-73.209139@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313632,
+    "wof:geomhash":"ce88d67d05d845f20ae0d8070eae68c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874253311
+        }
+    ],
+    "wof:id":874253311,
+    "wof:lastmodified":1464313632,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -73.209139,
+    44.449052,
+    -73.209139,
+    44.449052
+],
+  "geometry": {"coordinates":[-73.20913899999999,44.449052],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874093319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.340912,44.149162,-73.340912,44.149162",
+    "geom:latitude":44.149162,
+    "geom:longitude":-73.340912,
+    "iso:country":"US",
+    "sg:address":"3074 Jersey St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 475 2431",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kaq6ql0Poyk4KJhrNhm8I_44.149162_-73.340912@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311697,
+    "wof:geomhash":"826bad6204f8ea18fcca6b2d17194061",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874093319
+        }
+    ],
+    "wof:id":874093319,
+    "wof:lastmodified":1464311697,
+    "wof:name":"Panton General Store",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.340912,
+    44.149162,
+    -73.340912,
+    44.149162
+],
+  "geometry": {"coordinates":[-73.340912,44.149162],"type":"Point"}
+}

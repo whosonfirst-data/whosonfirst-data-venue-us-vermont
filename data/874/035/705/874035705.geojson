@@ -1,0 +1,71 @@
+{
+  "id": 874035705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.038977,44.592511,-73.038977,44.592511",
+    "geom:latitude":44.592511,
+    "geom:longitude":-73.038977,
+    "iso:country":"US",
+    "sg:address":"5 Maple Tree Ln",
+    "sg:city":"Westford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 4682",
+    "sg:postcode":"05494",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818481,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08XIow4aFNq5QmDcb7c0bT_44.592511_-73.038977@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311101,
+    "wof:geomhash":"cee0e76f9ebc3fabcd322582d522f469",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85818481,
+            "region_id":85688763,
+            "venue_id":874035705
+        }
+    ],
+    "wof:id":874035705,
+    "wof:lastmodified":1464311101,
+    "wof:name":"Robert Mannings Trucking",
+    "wof:parent_id":85818481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.038977,
+    44.592511,
+    -73.038977,
+    44.592511
+],
+  "geometry": {"coordinates":[-73.038977,44.592511],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874224043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.575941,44.21006,-72.575941,44.21006",
+    "geom:latitude":44.21006,
+    "geom:longitude":-72.575941,
+    "iso:country":"US",
+    "sg:address":"123 Northshore Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 4981",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16auXnIkMeZjEpnBhP5iTs_44.210060_-72.575941@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313103,
+    "wof:geomhash":"78a408d9e04ebcf4aa987b094895184e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874224043
+        }
+    ],
+    "wof:id":874224043,
+    "wof:lastmodified":1464313103,
+    "wof:name":"Possibilities Consulting",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -72.575941,
+    44.21006,
+    -72.575941,
+    44.21006
+],
+  "geometry": {"coordinates":[-72.575941,44.21006],"type":"Point"}
+}

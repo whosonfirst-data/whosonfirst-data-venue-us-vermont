@@ -1,0 +1,66 @@
+{
+  "id": 874061651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08878,43.799201,-73.08878,43.799201",
+    "geom:latitude":43.799201,
+    "geom:longitude":-73.08878,
+    "iso:country":"US",
+    "sg:address":"14 Center St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 6464",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46hFwmZAdkyVuInPt7OSC2_43.799201_-73.088780@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311350,
+    "wof:geomhash":"6fa481864df8a3ce1360f1acd274770e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874061651
+        }
+    ],
+    "wof:id":874061651,
+    "wof:lastmodified":1464311350,
+    "wof:name":"Brandon Chiropractic Ctr",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.08878,
+    43.799201,
+    -73.08878,
+    43.799201
+],
+  "geometry": {"coordinates":[-73.08878,43.799201],"type":"Point"}
+}

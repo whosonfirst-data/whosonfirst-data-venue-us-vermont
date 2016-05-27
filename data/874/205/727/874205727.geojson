@@ -1,0 +1,73 @@
+{
+  "id": 874205727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.972041,43.606946,-72.972041,43.606946",
+    "geom:latitude":43.606946,
+    "geom:longitude":-72.972041,
+    "iso:country":"US",
+    "sg:address":"131 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 6458",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ldnTzBc0NT4RQln4UlInR_43.606946_-72.972041@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312901,
+    "wof:geomhash":"96a93c6154d2471184566e25a4728c0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874205727
+        }
+    ],
+    "wof:id":874205727,
+    "wof:lastmodified":1464312901,
+    "wof:name":"Graham Car Care Center",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ]
+},
+  "bbox": [
+    -72.972041,
+    43.606946,
+    -72.972041,
+    43.606946
+],
+  "geometry": {"coordinates":[-72.972041,43.606946],"type":"Point"}
+}

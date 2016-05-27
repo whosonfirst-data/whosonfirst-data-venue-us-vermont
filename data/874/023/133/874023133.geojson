@@ -1,0 +1,71 @@
+{
+  "id": 874023133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.96088,43.615725,-72.96088,43.615725",
+    "geom:latitude":43.615725,
+    "geom:longitude":-72.96088,
+    "iso:country":"US",
+    "sg:address":"186 Woodstock Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 7959",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LMvoFT1u50lbBH0ObhfTS_43.615725_-72.960880@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310974,
+    "wof:geomhash":"aaeb29d24cefd39034f5bf700be82c55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874023133
+        }
+    ],
+    "wof:id":874023133,
+    "wof:lastmodified":1464310974,
+    "wof:name":"Bud's Car Wash",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -72.96088,
+    43.615725,
+    -72.96088,
+    43.615725
+],
+  "geometry": {"coordinates":[-72.96088,43.615725],"type":"Point"}
+}

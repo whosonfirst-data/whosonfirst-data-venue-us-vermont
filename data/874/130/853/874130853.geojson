@@ -1,0 +1,69 @@
+{
+  "id": 874130853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.972642,43.610912,-72.972642,43.610912",
+    "geom:latitude":43.610912,
+    "geom:longitude":-72.972642,
+    "iso:country":"US",
+    "sg:address":"66 N Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 9700",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XwcNrNVBimhJdWm4mOc1z_43.610912_-72.972642@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312148,
+    "wof:geomhash":"910122ebc568b3d12d79d9ce1f8266aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874130853
+        }
+    ],
+    "wof:id":874130853,
+    "wof:lastmodified":1464312148,
+    "wof:name":"Green Mountain Oral Surgery",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.972642,
+    43.610912,
+    -72.972642,
+    43.610912
+],
+  "geometry": {"coordinates":[-72.97264199999999,43.610912],"type":"Point"}
+}

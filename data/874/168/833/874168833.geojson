@@ -1,0 +1,71 @@
+{
+  "id": 874168833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.030022,44.502373,-73.030022,44.502373",
+    "geom:latitude":44.502373,
+    "geom:longitude":-73.030022,
+    "iso:country":"US",
+    "sg:address":"110 Jericho Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 5700",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kRMOwrgpabrmbu2hz6y4v_44.502373_-73.030022@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312516,
+    "wof:geomhash":"2754ed71669c22449ad41ed8301c02d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874168833
+        }
+    ],
+    "wof:id":874168833,
+    "wof:lastmodified":1464312516,
+    "wof:name":"Sheeran's Lawn Maintenance",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.030022,
+    44.502373,
+    -73.030022,
+    44.502373
+],
+  "geometry": {"coordinates":[-73.030022,44.502373],"type":"Point"}
+}

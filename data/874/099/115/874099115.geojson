@@ -1,0 +1,71 @@
+{
+  "id": 874099115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.147568,44.758239,-73.147568,44.758239",
+    "geom:latitude":44.758239,
+    "geom:longitude":-73.147568,
+    "iso:country":"US",
+    "sg:address":"800 Cline Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 4285",
+    "sg:postcode":"05478",
+    "sg:province":"VT",
+    "sg:tags":[
+        "new",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85833735,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L6VqqueKPNLvpSnWYH4rk_44.758239_-73.147568@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311774,
+    "wof:geomhash":"9c9f31fd546c6d29c5b129d66bb1412e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85833735,
+            "region_id":85688763,
+            "venue_id":874099115
+        }
+    ],
+    "wof:id":874099115,
+    "wof:lastmodified":1464311774,
+    "wof:name":"Tom Shepard",
+    "wof:parent_id":85833735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "home"
+    ]
+},
+  "bbox": [
+    -73.147568,
+    44.758239,
+    -73.147568,
+    44.758239
+],
+  "geometry": {"coordinates":[-73.14756800000001,44.758239],"type":"Point"}
+}

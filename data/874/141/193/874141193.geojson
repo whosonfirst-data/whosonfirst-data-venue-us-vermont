@@ -1,0 +1,69 @@
+{
+  "id": 874141193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.282646,44.08969,-72.282646,44.08969",
+    "geom:latitude":44.08969,
+    "geom:longitude":-72.282646,
+    "iso:country":"US",
+    "sg:address":"2 Gendron Rd",
+    "sg:city":"West Topsham",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 439 5731",
+    "sg:postcode":"05086",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NrMzEnYYFIsp0vO6n91Mo_44.089690_-72.282646@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312245,
+    "wof:geomhash":"bdcaa3f0502a75d5f1fe6c5de559748b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874141193
+        }
+    ],
+    "wof:id":874141193,
+    "wof:lastmodified":1464312245,
+    "wof:name":"Sugar Maple Nursery School",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -72.282646,
+    44.08969,
+    -72.282646,
+    44.08969
+],
+  "geometry": {"coordinates":[-72.282646,44.08969],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874094253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.598529,44.561777,-72.598529,44.561777",
+    "geom:latitude":44.561777,
+    "geom:longitude":-72.598529,
+    "iso:country":"US",
+    "sg:address":"65 Portland St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5714",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16da0QjJ9kaEgt64X4bJjM_44.561777_-72.598529@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311706,
+    "wof:geomhash":"f6c7178d3a32dfc57a98438d500a657a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874094253
+        }
+    ],
+    "wof:id":874094253,
+    "wof:lastmodified":1464311706,
+    "wof:name":"Lamoille Housing Partnership",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -72.598529,
+    44.561777,
+    -72.598529,
+    44.561777
+],
+  "geometry": {"coordinates":[-72.598529,44.561777],"type":"Point"}
+}

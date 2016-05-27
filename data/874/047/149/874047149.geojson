@@ -1,0 +1,69 @@
+{
+  "id": 874047149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.250435,44.311011,-73.250435,44.311011",
+    "geom:latitude":44.311011,
+    "geom:longitude":-73.250435,
+    "iso:country":"US",
+    "sg:address":"170 Ferry Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 3111",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XfckXLT85n5kDw63x2bxG_44.311011_-73.250435@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311216,
+    "wof:geomhash":"3af08c479d57010a32ca3a6c7da4d3be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874047149
+        }
+    ],
+    "wof:id":874047149,
+    "wof:lastmodified":1464311216,
+    "wof:name":"Charlotte Fire Station",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.250435,
+    44.311011,
+    -73.250435,
+    44.311011
+],
+  "geometry": {"coordinates":[-73.250435,44.311011],"type":"Point"}
+}

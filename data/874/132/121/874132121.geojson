@@ -1,0 +1,69 @@
+{
+  "id": 874132121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.582396,43.475953,-72.582396,43.475953",
+    "geom:latitude":43.475953,
+    "geom:longitude":-72.582396,
+    "iso:country":"US",
+    "sg:address":"109 Malagash Rd",
+    "sg:city":"Reading",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 484 9037",
+    "sg:postcode":"05062",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V6yf3v9EiqXLXQwwAWpWR_43.475953_-72.582396@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312160,
+    "wof:geomhash":"aebfc94f33117d4e0357f6988bb5823f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874132121
+        }
+    ],
+    "wof:id":874132121,
+    "wof:lastmodified":1464312160,
+    "wof:name":"Outatime Trucking",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.582396,
+    43.475953,
+    -72.582396,
+    43.475953
+],
+  "geometry": {"coordinates":[-72.582396,43.475953],"type":"Point"}
+}

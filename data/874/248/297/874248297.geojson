@@ -1,0 +1,75 @@
+{
+  "id": 874248297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.058601,44.379795,-73.058601,44.379795",
+    "geom:latitude":44.379795,
+    "geom:longitude":-73.058601,
+    "iso:country":"US",
+    "sg:address":"3325 Hinesburg Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 3749",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oIzWkRhW8fRBI071DPZU6_44.379795_-73.058601@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313504,
+    "wof:geomhash":"aef4217b2375d077019c313640d86d16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874248297
+        }
+    ],
+    "wof:id":874248297,
+    "wof:lastmodified":1464313504,
+    "wof:name":"Audiobooks Online",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.058601,
+    44.379795,
+    -73.058601,
+    44.379795
+],
+  "geometry": {"coordinates":[-73.058601,44.379795],"type":"Point"}
+}

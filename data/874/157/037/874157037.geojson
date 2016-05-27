@@ -1,0 +1,75 @@
+{
+  "id": 874157037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.201326,44.45537,-73.201326,44.45537",
+    "geom:latitude":44.45537,
+    "geom:longitude":-73.201326,
+    "iso:country":"US",
+    "sg:address":"76 Glen Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 652 5138",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "administrative",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52XRWQAmPjCGuUoUPhCAs0_44.455370_-73.201326@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312399,
+    "wof:geomhash":"4a5771169e19ce99278d8e352bf0db54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874157037
+        }
+    ],
+    "wof:id":874157037,
+    "wof:lastmodified":1464312399,
+    "wof:name":"Early Childhood Connection",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -73.201326,
+    44.45537,
+    -73.201326,
+    44.45537
+],
+  "geometry": {"coordinates":[-73.20132599999999,44.45537],"type":"Point"}
+}

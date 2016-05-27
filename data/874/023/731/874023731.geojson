@@ -1,0 +1,69 @@
+{
+  "id": 874023731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.049079,44.500245,-73.049079,44.500245",
+    "geom:latitude":44.500245,
+    "geom:longitude":-73.049079,
+    "iso:country":"US",
+    "sg:address":"4 Maplelawn Dr",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 8467",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FQY4kEf9pna4rfd8ndyeP_44.500245_-73.049079@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310980,
+    "wof:geomhash":"fbf8cb0af36eab17837661756d6e0d06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874023731
+        }
+    ],
+    "wof:id":874023731,
+    "wof:lastmodified":1464310980,
+    "wof:name":"Anytime Towing",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road"
+    ]
+},
+  "bbox": [
+    -73.049079,
+    44.500245,
+    -73.049079,
+    44.500245
+],
+  "geometry": {"coordinates":[-73.04907900000001,44.500245],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874035915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.875951,44.67107,-72.875951,44.67107",
+    "geom:latitude":44.67107,
+    "geom:longitude":-72.875951,
+    "iso:country":"US",
+    "sg:address":"739 N Cambridge Rd",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2021",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DdH5Z2rDLlj6StiL4V33G_44.671070_-72.875951@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311104,
+    "wof:geomhash":"acf04423291072279904b257ce3c215a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874035915
+        }
+    ],
+    "wof:id":874035915,
+    "wof:lastmodified":1464311104,
+    "wof:name":"Ernest Krusch",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.875951,
+    44.67107,
+    -72.875951,
+    44.67107
+],
+  "geometry": {"coordinates":[-72.875951,44.67107],"type":"Point"}
+}

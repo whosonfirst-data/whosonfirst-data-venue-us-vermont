@@ -1,0 +1,71 @@
+{
+  "id": 874056659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.165209,44.013268,-73.165209,44.013268",
+    "geom:latitude":44.013268,
+    "geom:longitude":-73.165209,
+    "iso:country":"US",
+    "sg:address":"11 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 6307",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jkkZtSxp6v0FHsrQrh25I_44.013268_-73.165209@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311306,
+    "wof:geomhash":"9c59b7231b62c4972fe1a70a26764922",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874056659
+        }
+    ],
+    "wof:id":874056659,
+    "wof:lastmodified":1464311306,
+    "wof:name":"Miller Deverell & Co",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -73.165209,
+    44.013268,
+    -73.165209,
+    44.013268
+],
+  "geometry": {"coordinates":[-73.165209,44.013268],"type":"Point"}
+}

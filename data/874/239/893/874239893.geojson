@@ -1,0 +1,71 @@
+{
+  "id": 874239893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.874826,44.513898,-72.874826,44.513898",
+    "geom:latitude":44.513898,
+    "geom:longitude":-72.874826,
+    "iso:country":"US",
+    "sg:address":"122 Mountain Rd",
+    "sg:city":"Starksboro",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5576",
+    "sg:postcode":"05489",
+    "sg:province":"VT",
+    "sg:tags":[
+        "recording",
+        "studio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85851047,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g9p2xsU4KBaPFrqNRJA8S_44.513898_-72.874826@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313338,
+    "wof:geomhash":"fafd8cd45441bde1f54122745487694a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85851047,
+            "region_id":85688763,
+            "venue_id":874239893
+        }
+    ],
+    "wof:id":874239893,
+    "wof:lastmodified":1464313338,
+    "wof:name":"Little Castle Studio",
+    "wof:parent_id":85851047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recording",
+        "studio"
+    ]
+},
+  "bbox": [
+    -72.874826,
+    44.513898,
+    -72.874826,
+    44.513898
+],
+  "geometry": {"coordinates":[-72.874826,44.513898],"type":"Point"}
+}

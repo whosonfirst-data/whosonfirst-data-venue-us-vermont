@@ -1,0 +1,71 @@
+{
+  "id": 874245961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.173557,44.504196,-73.173557,44.504196",
+    "geom:latitude":44.504196,
+    "geom:longitude":-73.173557,
+    "iso:country":"US",
+    "sg:address":"480 Hercules Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 1910",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consultant",
+        "assessment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CiN7bfMNXTz5fipjhia1D_44.504196_-73.173557@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313453,
+    "wof:geomhash":"4135d846069b24be41d0dede9cd6fece",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874245961
+        }
+    ],
+    "wof:id":874245961,
+    "wof:lastmodified":1464313453,
+    "wof:name":"Vermont Council For Quality",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "assessment"
+    ]
+},
+  "bbox": [
+    -73.173557,
+    44.504196,
+    -73.173557,
+    44.504196
+],
+  "geometry": {"coordinates":[-73.173557,44.504196],"type":"Point"}
+}

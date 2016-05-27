@@ -1,0 +1,69 @@
+{
+  "id": 874067567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.97597,43.608369,-72.97597,43.608369",
+    "geom:latitude":43.608369,
+    "geom:longitude":-72.97597,
+    "iso:country":"US",
+    "sg:address":"51 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3182",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f8AkOjrQ2penwK2xZsp6R_43.608369_-72.975970@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311403,
+    "wof:geomhash":"555ca5cfa24f3937bbd8be783bede17a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874067567
+        }
+    ],
+    "wof:id":874067567,
+    "wof:lastmodified":1464311403,
+    "wof:name":"Carpenter's Motor Transport",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.97597,
+    43.608369,
+    -72.97597,
+    43.608369
+],
+  "geometry": {"coordinates":[-72.97597,43.608369],"type":"Point"}
+}

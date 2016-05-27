@@ -1,0 +1,75 @@
+{
+  "id": 874236243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.502823,44.198289,-72.502823,44.198289",
+    "geom:latitude":44.198289,
+    "geom:longitude":-72.502823,
+    "iso:country":"US",
+    "sg:address":"160 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1498",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "local",
+        "o",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76q3C420SK79gH744UZ4Tu_44.198289_-72.502823@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313267,
+    "wof:geomhash":"41fc4402d871dd016f4a353a3cbc7bf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874236243
+        }
+    ],
+    "wof:id":874236243,
+    "wof:lastmodified":1464313267,
+    "wof:name":"Simply Delicious of Vermont",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "o",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.502823,
+    44.198289,
+    -72.502823,
+    44.198289
+],
+  "geometry": {"coordinates":[-72.50282300000001,44.198289],"type":"Point"}
+}

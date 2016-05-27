@@ -1,0 +1,72 @@
+{
+  "id": 874250889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.969848,43.596435,-72.969848,43.596435",
+    "geom:latitude":43.596435,
+    "geom:longitude":-72.969848,
+    "iso:country":"US",
+    "sg:address":"182 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/rutland/212998-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 0720",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m4U46ZDC4Shs10UWMoIYt_43.596435_-72.969848@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313584,
+    "wof:geomhash":"edd713346b093652595674e0232d807f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874250889
+        }
+    ],
+    "wof:id":874250889,
+    "wof:lastmodified":1464313584,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.969848,
+    43.596435,
+    -72.969848,
+    43.596435
+],
+  "geometry": {"coordinates":[-72.969848,43.596435],"type":"Point"}
+}

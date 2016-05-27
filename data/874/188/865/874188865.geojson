@@ -1,0 +1,70 @@
+{
+  "id": 874188865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.139571,44.308514,-72.139571,44.308514",
+    "geom:latitude":44.308514,
+    "geom:longitude":-72.139571,
+    "iso:country":"US",
+    "sg:address":"457 W Main St",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 2550",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "sg:tags":[
+        "agency"
+    ],
+    "sg:website":"www.ritchie-insurance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E4Mdpjkkcgov9dWgHSJkP_44.308514_-72.139571@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312730,
+    "wof:geomhash":"6dad1418b0eae49f4d7615ec6fed2c99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874188865
+        }
+    ],
+    "wof:id":874188865,
+    "wof:lastmodified":1464312730,
+    "wof:name":"Ritchie Agency Inc",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -72.139571,
+    44.308514,
+    -72.139571,
+    44.308514
+],
+  "geometry": {"coordinates":[-72.139571,44.308514],"type":"Point"}
+}

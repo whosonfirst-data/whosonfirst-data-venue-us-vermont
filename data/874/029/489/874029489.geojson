@@ -1,0 +1,71 @@
+{
+  "id": 874029489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.190237,42.911226,-73.190237,42.911226",
+    "geom:latitude":42.911226,
+    "geom:longitude":-73.190237,
+    "iso:country":"US",
+    "sg:address":"74 Jayne Ln",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 9619",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TmryySTRCf8piPS0Ze8mh_42.911226_-73.190237@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311044,
+    "wof:geomhash":"8484089d88ae832b8b373495783c1471",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874029489
+        }
+    ],
+    "wof:id":874029489,
+    "wof:lastmodified":1464311044,
+    "wof:name":"Bob Tatro Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.190237,
+    42.911226,
+    -73.190237,
+    42.911226
+],
+  "geometry": {"coordinates":[-73.190237,42.911226],"type":"Point"}
+}

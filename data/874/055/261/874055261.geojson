@@ -1,0 +1,71 @@
+{
+  "id": 874055261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.605464,44.598013,-72.605464,44.598013",
+    "geom:latitude":44.598013,
+    "geom:longitude":-72.605464,
+    "iso:country":"US",
+    "sg:address":"302 Centerville Rd",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 8877",
+    "sg:postcode":"05655",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66EnkG40LMggbXj5yC4ALi_44.598013_-72.605464@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311294,
+    "wof:geomhash":"3d8eeb65db2809bd7cff791f2d6a4c22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874055261
+        }
+    ],
+    "wof:id":874055261,
+    "wof:lastmodified":1464311294,
+    "wof:name":"Wolcott Mini Storage Rentals",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -72.605464,
+    44.598013,
+    -72.605464,
+    44.598013
+],
+  "geometry": {"coordinates":[-72.605464,44.598013],"type":"Point"}
+}

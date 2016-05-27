@@ -1,0 +1,73 @@
+{
+  "id": 874248413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.513077,44.181483,-72.513077,44.181483",
+    "geom:latitude":44.181483,
+    "geom:longitude":-72.513077,
+    "iso:country":"US",
+    "sg:address":"488 Ethan Allen Pkwy",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 734 7639",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medicine",
+        "patch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EdsSaQWjbtdloxWDVWgIw_44.181483_-72.513077@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313508,
+    "wof:geomhash":"af788cb1780df2b64e8f3e255708d069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874248413
+        }
+    ],
+    "wof:id":874248413,
+    "wof:lastmodified":1464313508,
+    "wof:name":"Medi Patch Technologies LLC",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "patch"
+    ]
+},
+  "bbox": [
+    -72.513077,
+    44.181483,
+    -72.513077,
+    44.181483
+],
+  "geometry": {"coordinates":[-72.513077,44.181483],"type":"Point"}
+}

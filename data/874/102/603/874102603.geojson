@@ -1,0 +1,73 @@
+{
+  "id": 874102603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208874,44.453086,-73.208874,44.453086",
+    "geom:latitude":44.453086,
+    "geom:longitude":-73.208874,
+    "iso:country":"US",
+    "sg:address":"441 Shelburne Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 9090",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69ZAKuyynDYoiB5K94VKA6_44.453086_-73.208874@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311827,
+    "wof:geomhash":"9a40f493c8ecfe737e90b88d52c32287",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874102603
+        }
+    ],
+    "wof:id":874102603,
+    "wof:lastmodified":1464311827,
+    "wof:name":"Maple Tree Property Mntnc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.208874,
+    44.453086,
+    -73.208874,
+    44.453086
+],
+  "geometry": {"coordinates":[-73.20887399999999,44.453086],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874006019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205279,44.492609,-73.205279,44.492609",
+    "geom:latitude":44.492609,
+    "geom:longitude":-73.205279,
+    "iso:country":"US",
+    "sg:address":"128 Intervale Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 3500",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "farm",
+        "mail",
+        "house",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qJbDIeBC76tTrbrs5rN1H_44.492609_-73.205279@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310825,
+    "wof:geomhash":"6425dcd58170ce5536dc98c87f7c89f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874006019
+        }
+    ],
+    "wof:id":874006019,
+    "wof:lastmodified":1464310825,
+    "wof:name":"Gardeners Supply Co",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "mail",
+        "house",
+        "supply"
+    ]
+},
+  "bbox": [
+    -73.205279,
+    44.492609,
+    -73.205279,
+    44.492609
+],
+  "geometry": {"coordinates":[-73.205279,44.492609],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874253365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.178902,44.495178,-73.178902,44.495178",
+    "geom:latitude":44.495178,
+    "geom:longitude":-73.178902,
+    "iso:country":"US",
+    "sg:address":"54 Hood St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 5546",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_284NZZ8nstAEQzotXuKw2l_44.495178_-73.178902@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313633,
+    "wof:geomhash":"f906f9cb4f360bc486354fcc1e5fb21c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874253365
+        }
+    ],
+    "wof:id":874253365,
+    "wof:lastmodified":1464313633,
+    "wof:name":"Multi-Family Management Corp",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.178902,
+    44.495178,
+    -73.178902,
+    44.495178
+],
+  "geometry": {"coordinates":[-73.17890199999999,44.495178],"type":"Point"}
+}

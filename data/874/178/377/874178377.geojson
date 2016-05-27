@@ -1,0 +1,71 @@
+{
+  "id": 874178377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.630114,42.911494,-72.630114,42.911494",
+    "geom:latitude":42.911494,
+    "geom:longitude":-72.630114,
+    "iso:country":"US",
+    "sg:address":"744 Stickney Brook Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 258 3013",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PyP96R6fMC8cyznBqcjct_42.911494_-72.630114@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312611,
+    "wof:geomhash":"d9b011d60066c27cad6ebe89c575eba5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874178377
+        }
+    ],
+    "wof:id":874178377,
+    "wof:lastmodified":1464312611,
+    "wof:name":"Stickney Brook Farm",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.630114,
+    42.911494,
+    -72.630114,
+    42.911494
+],
+  "geometry": {"coordinates":[-72.63011400000001,42.911494],"type":"Point"}
+}

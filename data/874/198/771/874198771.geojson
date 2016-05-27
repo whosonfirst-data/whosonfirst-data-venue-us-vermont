@@ -1,0 +1,71 @@
+{
+  "id": 874198771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.134614,44.352317,-72.134614,44.352317",
+    "geom:latitude":44.352317,
+    "geom:longitude":-72.134614,
+    "iso:country":"US",
+    "sg:address":"107 E Hill Rd",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 3863",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41aJn05qenKpiqhcRdpPYH_44.352317_-72.134614@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312832,
+    "wof:geomhash":"cb15c28cdc3c052a9ba092669f53bd61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874198771
+        }
+    ],
+    "wof:id":874198771,
+    "wof:lastmodified":1464312832,
+    "wof:name":"Mark's Automotive",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.134614,
+    44.352317,
+    -72.134614,
+    44.352317
+],
+  "geometry": {"coordinates":[-72.134614,44.352317],"type":"Point"}
+}

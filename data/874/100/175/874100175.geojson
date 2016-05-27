@@ -1,0 +1,71 @@
+{
+  "id": 874100175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.511719,44.205891,-72.511719,44.205891",
+    "geom:latitude":44.205891,
+    "geom:longitude":-72.511719,
+    "iso:country":"US",
+    "sg:address":"490 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7448",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_131xCaelOdeq1WTwZmtk6b_44.205891_-72.511719@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311796,
+    "wof:geomhash":"b7341d4204b38b763b0af52a4a40fa57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874100175
+        }
+    ],
+    "wof:id":874100175,
+    "wof:lastmodified":1464311796,
+    "wof:name":"Green Light Package Express",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -72.511719,
+    44.205891,
+    -72.511719,
+    44.205891
+],
+  "geometry": {"coordinates":[-72.511719,44.205891],"type":"Point"}
+}

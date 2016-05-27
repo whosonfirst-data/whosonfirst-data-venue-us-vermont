@@ -1,0 +1,71 @@
+{
+  "id": 874110405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.479928,44.181024,-72.479928,44.181024",
+    "geom:latitude":44.181024,
+    "geom:longitude":-72.479928,
+    "iso:country":"US",
+    "sg:address":"519 E Barre Rd",
+    "sg:city":"East Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6660",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OSfx5TopeVa3SNBnJojEq_44.181024_-72.479928@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311927,
+    "wof:geomhash":"80b81288bf8455fdda0b23ef4678c487",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874110405
+        }
+    ],
+    "wof:id":874110405,
+    "wof:lastmodified":1464311927,
+    "wof:name":"Action Towing Svc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -72.479928,
+    44.181024,
+    -72.479928,
+    44.181024
+],
+  "geometry": {"coordinates":[-72.479928,44.181024],"type":"Point"}
+}

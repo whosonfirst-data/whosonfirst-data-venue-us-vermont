@@ -1,0 +1,100 @@
+{
+  "id": 874251101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015876,44.419433,-72.015876,44.419433",
+    "geom:latitude":44.419433,
+    "geom:longitude":-72.015876,
+    "iso:country":"US",
+    "sg:address":"473 Railroad St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/st-johnsbury/139040-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 5225",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "coffee",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZZnuE9DVqFgNOc39UZ2Y5_44.419847_-72.015483@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313587,
+    "wof:geomhash":"b05e48b0e4eb0d511190a3082ca89cff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874251101
+        }
+    ],
+    "wof:id":874251101,
+    "wof:lastmodified":1464313587,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.015876,
+    44.419433,
+    -72.015876,
+    44.419433
+],
+  "geometry": {"coordinates":[-72.01587600000001,44.419433],"type":"Point"}
+}

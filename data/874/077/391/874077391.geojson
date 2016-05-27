@@ -1,0 +1,75 @@
+{
+  "id": 874077391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.637562,43.385543,-72.637562,43.385543",
+    "geom:latitude":43.385543,
+    "geom:longitude":-72.637562,
+    "iso:country":"US",
+    "sg:address":"159 Maple St",
+    "sg:city":"Proctorsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 226 7844",
+    "sg:postcode":"05153",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "restoration",
+        "classic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GGwPUgfhaBcL38uOG23uP_43.385543_-72.637562@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311523,
+    "wof:geomhash":"01cd386efb94411829de7d1fae470ff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874077391
+        }
+    ],
+    "wof:id":874077391,
+    "wof:lastmodified":1464311523,
+    "wof:name":"G N G Restorations",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "restoration",
+        "classic"
+    ]
+},
+  "bbox": [
+    -72.637562,
+    43.385543,
+    -72.637562,
+    43.385543
+],
+  "geometry": {"coordinates":[-72.637562,43.385543],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 874138323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.258554,44.547639,-73.258554,44.547639",
+    "geom:latitude":44.547639,
+    "geom:longitude":-73.258554,
+    "iso:country":"US",
+    "sg:address":"34 Princess Ann Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 0237",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "work",
+        "embroidery",
+        "patch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850949,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f7qn8xnRAymW6tZzla3Zu_44.547639_-73.258554@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312220,
+    "wof:geomhash":"99d6bd692dcfb48b865586705b048da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85850949,
+            "region_id":85688763,
+            "venue_id":874138323
+        }
+    ],
+    "wof:id":874138323,
+    "wof:lastmodified":1464312220,
+    "wof:name":"Vermont Sportswear Emboridery",
+    "wof:parent_id":85850949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work",
+        "embroidery",
+        "patch"
+    ]
+},
+  "bbox": [
+    -73.258554,
+    44.547639,
+    -73.258554,
+    44.547639
+],
+  "geometry": {"coordinates":[-73.258554,44.547639],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874156917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.17245,44.064582,-73.17245,44.064582",
+    "geom:latitude":44.064582,
+    "geom:longitude":-73.17245,
+    "iso:country":"US",
+    "sg:address":"1338 Dog Team Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7651",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gAkjN8dsgaHGCikgmzb3Y_44.064582_-73.172450@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312398,
+    "wof:geomhash":"0189ee3d9d7db0f81f2162b7374833a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874156917
+        }
+    ],
+    "wof:id":874156917,
+    "wof:lastmodified":1464312398,
+    "wof:name":"Dog Team Tavern",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.17245,
+    44.064582,
+    -73.17245,
+    44.064582
+],
+  "geometry": {"coordinates":[-73.17245,44.064582],"type":"Point"}
+}

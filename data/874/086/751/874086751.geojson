@@ -1,0 +1,74 @@
+{
+  "id": 874086751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.613704,42.865537,-72.613704,42.865537",
+    "geom:latitude":42.865537,
+    "geom:longitude":-72.613704,
+    "iso:country":"US",
+    "sg:address":"55 Marlboro Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 258 4538",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RKj3Pw7CXhuanbOw7cjP7_42.865537_-72.613704@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311628,
+    "wof:geomhash":"8b05ae0818c207f84d91862fba83a2a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874086751
+        }
+    ],
+    "wof:id":874086751,
+    "wof:lastmodified":1464311628,
+    "wof:name":"Central Appliance Inc",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -72.613704,
+    42.865537,
+    -72.613704,
+    42.865537
+],
+  "geometry": {"coordinates":[-72.613704,42.865537],"type":"Point"}
+}

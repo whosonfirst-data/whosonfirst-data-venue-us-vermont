@@ -1,0 +1,73 @@
+{
+  "id": 874014501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.728924,44.118123,-72.728924,44.118123",
+    "geom:latitude":44.118123,
+    "geom:longitude":-72.728924,
+    "iso:country":"US",
+    "sg:address":"29 Storti Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 5971",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lkPlXQbVtHbLlIzA5ZXDE_44.118123_-72.728924@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310887,
+    "wof:geomhash":"f6b65923df373aa22a1e5fc632033880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874014501
+        }
+    ],
+    "wof:id":874014501,
+    "wof:lastmodified":1464310887,
+    "wof:name":"De Lary's Plumbing & Heating",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.728924,
+    44.118123,
+    -72.728924,
+    44.118123
+],
+  "geometry": {"coordinates":[-72.72892400000001,44.118123],"type":"Point"}
+}

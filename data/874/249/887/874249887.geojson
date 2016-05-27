@@ -1,0 +1,71 @@
+{
+  "id": 874249887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.14805,44.543608,-73.14805,44.543608",
+    "geom:latitude":44.543608,
+    "geom:longitude":-73.14805,
+    "iso:country":"US",
+    "sg:address":"984 Main St",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 5214",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F3FwKmvyQORzGE4PGdfT8_44.543326_-73.147932@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313563,
+    "wof:geomhash":"80b6b486da5383908c1aeb27b8bfd5fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874249887
+        }
+    ],
+    "wof:id":874249887,
+    "wof:lastmodified":1464313563,
+    "wof:name":"P L Lesage Apartments",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.14805,
+    44.543608,
+    -73.14805,
+    44.543608
+],
+  "geometry": {"coordinates":[-73.14805,44.543608],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874050789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.595324,44.574289,-72.595324,44.574289",
+    "geom:latitude":44.574289,
+    "geom:longitude":-72.595324,
+    "iso:country":"US",
+    "sg:address":"79 Goodell Ave",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 1215",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "building",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YXtSYkBCCK761EJC3XXVp_44.574289_-72.595324@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311248,
+    "wof:geomhash":"12c8e66122b4ba5fd8d61d229501c492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874050789
+        }
+    ],
+    "wof:id":874050789,
+    "wof:lastmodified":1464311248,
+    "wof:name":"Above Rest Chimney Service",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "building",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.595324,
+    44.574289,
+    -72.595324,
+    44.574289
+],
+  "geometry": {"coordinates":[-72.59532400000001,44.574289],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874184507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214473,44.460621,-73.214473,44.460621",
+    "geom:latitude":44.460621,
+    "geom:longitude":-73.214473,
+    "iso:country":"US",
+    "sg:address":"696 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 6478",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xt6l5W4383tm2ikXBy6Af_44.460621_-73.214473@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312685,
+    "wof:geomhash":"2288329009e6f0dd354fcf3634458323",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874184507
+        }
+    ],
+    "wof:id":874184507,
+    "wof:lastmodified":1464312685,
+    "wof:name":"Maynard Auto Supply Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.214473,
+    44.460621,
+    -73.214473,
+    44.460621
+],
+  "geometry": {"coordinates":[-73.214473,44.460621],"type":"Point"}
+}

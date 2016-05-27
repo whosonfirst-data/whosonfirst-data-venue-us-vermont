@@ -1,0 +1,71 @@
+{
+  "id": 874180327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.948319,43.612286,-72.948319,43.612286",
+    "geom:latitude":43.612286,
+    "geom:longitude":-72.948319,
+    "iso:country":"US",
+    "sg:address":"10 Rachel Dr",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3955",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wufltGbnLuF3yyGKWhby5_43.612286_-72.948319@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312633,
+    "wof:geomhash":"1a1632a43378578ef261934f784be27a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874180327
+        }
+    ],
+    "wof:id":874180327,
+    "wof:lastmodified":1464312633,
+    "wof:name":"Kelly's Siding Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.948319,
+    43.612286,
+    -72.948319,
+    43.612286
+],
+  "geometry": {"coordinates":[-72.948319,43.612286],"type":"Point"}
+}

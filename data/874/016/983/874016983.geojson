@@ -1,0 +1,73 @@
+{
+  "id": 874016983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.500104,43.317114,-72.500104,43.317114",
+    "geom:latitude":43.317114,
+    "geom:longitude":-72.500104,
+    "iso:country":"US",
+    "sg:address":"2 Walnut Hill Ct",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 8126",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "extract",
+        "syrup",
+        "flavoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kqUvLDigOcJx7qj8lTz5z_43.317114_-72.500104@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310912,
+    "wof:geomhash":"7f2fae227a0ff63c54778ca6cf1aef6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874016983
+        }
+    ],
+    "wof:id":874016983,
+    "wof:lastmodified":1464310912,
+    "wof:name":"Basilisk Inc",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "extract",
+        "syrup",
+        "flavoring"
+    ]
+},
+  "bbox": [
+    -72.500104,
+    43.317114,
+    -72.500104,
+    43.317114
+],
+  "geometry": {"coordinates":[-72.50010399999999,43.317114],"type":"Point"}
+}

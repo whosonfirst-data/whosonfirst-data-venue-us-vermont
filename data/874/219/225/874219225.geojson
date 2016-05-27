@@ -1,0 +1,71 @@
+{
+  "id": 874219225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.581496,44.565206,-72.581496,44.565206",
+    "geom:latitude":44.565206,
+    "geom:longitude":-72.581496,
+    "iso:country":"US",
+    "sg:address":"746 State Rte 15A",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 6288",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35rBLGbQaNPwuvk0vddRjJ_44.565206_-72.581496@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313046,
+    "wof:geomhash":"4739875bbac8b62de963dbc903b64859",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874219225
+        }
+    ],
+    "wof:id":874219225,
+    "wof:lastmodified":1464313046,
+    "wof:name":"Piper's Small Engine",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -72.581496,
+    44.565206,
+    -72.581496,
+    44.565206
+],
+  "geometry": {"coordinates":[-72.581496,44.565206],"type":"Point"}
+}

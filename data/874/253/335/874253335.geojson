@@ -1,0 +1,92 @@
+{
+  "id": 874253335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.226156,44.489223,-73.226156,44.489223",
+    "geom:latitude":44.489223,
+    "geom:longitude":-73.226156,
+    "iso:country":"US",
+    "sg:address":"331 North Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 6370",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "builder",
+        "gazebo",
+        "patio",
+        "contractor"
+    ],
+    "sg:website":"http://www.builtbydc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850949,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kPHlGxSEvY695lMhq68ii_44.489223_-73.226156@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313632,
+    "wof:geomhash":"db74cb6ccaab520315f9cee190026015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85850949,
+            "region_id":85688763,
+            "venue_id":874253335
+        }
+    ],
+    "wof:id":874253335,
+    "wof:lastmodified":1464313632,
+    "wof:name":"Dc Construction",
+    "wof:parent_id":85850949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "gazebo",
+        "patio",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.226156,
+    44.489223,
+    -73.226156,
+    44.489223
+],
+  "geometry": {"coordinates":[-73.226156,44.489223],"type":"Point"}
+}

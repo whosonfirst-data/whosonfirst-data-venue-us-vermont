@@ -1,0 +1,71 @@
+{
+  "id": 874206619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209424,44.482396,-73.209424,44.482396",
+    "geom:latitude":44.482396,
+    "geom:longitude":-73.209424,
+    "iso:country":"US",
+    "sg:address":"96 N Union St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 651 7512",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KOwhjEjO7UJvqzFhhxsFQ_44.482396_-73.209424@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312910,
+    "wof:geomhash":"556ef5fff373a6292db489c5d6e06777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874206619
+        }
+    ],
+    "wof:id":874206619,
+    "wof:lastmodified":1464312910,
+    "wof:name":"Mark Rubin Psycotherapist",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -73.209424,
+    44.482396,
+    -73.209424,
+    44.482396
+],
+  "geometry": {"coordinates":[-73.209424,44.482396],"type":"Point"}
+}

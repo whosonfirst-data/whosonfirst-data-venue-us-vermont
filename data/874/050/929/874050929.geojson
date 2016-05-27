@@ -1,0 +1,70 @@
+{
+  "id": 874050929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.018647,44.417421,-72.018647,44.417421",
+    "geom:latitude":44.417421,
+    "geom:longitude":-72.018647,
+    "iso:country":"US",
+    "sg:address":"190 Federal St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8121",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.caledonian-record.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CDRWXKA8biVQWhodHT5y7_44.417421_-72.018647@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311249,
+    "wof:geomhash":"af583ea7342a6182dd12f3e51b15cb8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874050929
+        }
+    ],
+    "wof:id":874050929,
+    "wof:lastmodified":1464311249,
+    "wof:name":"Caledonian-Record Publishing",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -72.018647,
+    44.417421,
+    -72.018647,
+    44.417421
+],
+  "geometry": {"coordinates":[-72.018647,44.417421],"type":"Point"}
+}

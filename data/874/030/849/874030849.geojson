@@ -1,0 +1,73 @@
+{
+  "id": 874030849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.504834,44.199853,-72.504834,44.199853",
+    "geom:latitude":44.199853,
+    "geom:longitude":-72.504834,
+    "iso:country":"US",
+    "sg:address":"260 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 7378",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TkuNdfZjOSpppC6OWtWfY_44.199853_-72.504834@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311056,
+    "wof:geomhash":"b43b32d3e223c86fe24b14cc15b50123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874030849
+        }
+    ],
+    "wof:id":874030849,
+    "wof:lastmodified":1464311056,
+    "wof:name":"New Directions For Barre",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -72.504834,
+    44.199853,
+    -72.504834,
+    44.199853
+],
+  "geometry": {"coordinates":[-72.504834,44.199853],"type":"Point"}
+}

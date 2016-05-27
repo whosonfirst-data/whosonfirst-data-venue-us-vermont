@@ -1,0 +1,73 @@
+{
+  "id": 874126339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.656448,44.154088,-72.656448,44.154088",
+    "geom:latitude":44.154088,
+    "geom:longitude":-72.656448,
+    "iso:country":"US",
+    "sg:address":"102 Belknap Ave",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 5459",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hBr04ugl5v6MJZcgiz6Lg_44.154088_-72.656448@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312097,
+    "wof:geomhash":"5a48e6f75b5a0594d93c8bde2c879e83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874126339
+        }
+    ],
+    "wof:id":874126339,
+    "wof:lastmodified":1464312097,
+    "wof:name":"Simply Fords Automotive",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.656448,
+    44.154088,
+    -72.656448,
+    44.154088
+],
+  "geometry": {"coordinates":[-72.656448,44.154088],"type":"Point"}
+}

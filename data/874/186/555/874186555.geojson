@@ -1,0 +1,71 @@
+{
+  "id": 874186555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.133261,43.986527,-73.133261,43.986527",
+    "geom:latitude":43.986527,
+    "geom:longitude":-73.133261,
+    "iso:country":"US",
+    "sg:address":"1442 US Hwy 7",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 5500",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21k2yuUqTy7D8MBpUJGDuS_43.986527_-73.133261@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312705,
+    "wof:geomhash":"63ffa4fb3713b61c5c6798ae4229d5e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874186555
+        }
+    ],
+    "wof:id":874186555,
+    "wof:lastmodified":1464312705,
+    "wof:name":"Middelbury Fence Co",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.133261,
+    43.986527,
+    -73.133261,
+    43.986527
+],
+  "geometry": {"coordinates":[-73.133261,43.986527],"type":"Point"}
+}

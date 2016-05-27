@@ -1,0 +1,78 @@
+{
+  "id": 874251425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.191033,42.878027,-73.191033,42.878027",
+    "geom:latitude":42.878027,
+    "geom:longitude":-73.191033,
+    "iso:country":"US",
+    "sg:address":"655 Main St Ste 1",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 2343",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "sg:website":"http://www.mtanthony-primarycare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N7OoJEermttswP3AVpVZb_42.878027_-73.191033@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313593,
+    "wof:geomhash":"42ee765b43298ad89dea06e62ade60e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251425
+        }
+    ],
+    "wof:id":874251425,
+    "wof:lastmodified":1464313593,
+    "wof:name":"Mt Anthony Primary Care",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [
+    -73.191033,
+    42.878027,
+    -73.191033,
+    42.878027
+],
+  "geometry": {"coordinates":[-73.191033,42.878027],"type":"Point"}
+}

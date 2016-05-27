@@ -1,0 +1,73 @@
+{
+  "id": 874044377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.556984,42.868477,-72.556984,42.868477",
+    "geom:latitude":42.868477,
+    "geom:longitude":-72.556984,
+    "iso:country":"US",
+    "sg:address":"659 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 7938",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "paint",
+        "floor",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BJhNUbo4ulcK8kUbS7cAl_42.868477_-72.556984@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311188,
+    "wof:geomhash":"531c0d8220eba2dd44a7213c171aa1d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874044377
+        }
+    ],
+    "wof:id":874044377,
+    "wof:lastmodified":1464311188,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "floor",
+        "covering"
+    ]
+},
+  "bbox": [
+    -72.556984,
+    42.868477,
+    -72.556984,
+    42.868477
+],
+  "geometry": {"coordinates":[-72.556984,42.868477],"type":"Point"}
+}

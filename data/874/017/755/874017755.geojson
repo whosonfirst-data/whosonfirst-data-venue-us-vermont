@@ -1,0 +1,70 @@
+{
+  "id": 874017755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199735,44.53109,-73.199735,44.53109",
+    "geom:latitude":44.53109,
+    "geom:longitude":-73.199735,
+    "iso:country":"US",
+    "sg:address":"277 Lavigne Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 3440",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "produce"
+    ],
+    "sg:website":"www.sammazza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JPkhtVAJIXjRXYzt3U5L2_44.531090_-73.199735@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310923,
+    "wof:geomhash":"df2876e4ada4d3cb24a8167ed85f3e63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874017755
+        }
+    ],
+    "wof:id":874017755,
+    "wof:lastmodified":1464310923,
+    "wof:name":"S Mazza Farmstand & Greenhouse",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -73.199735,
+    44.53109,
+    -73.199735,
+    44.53109
+],
+  "geometry": {"coordinates":[-73.199735,44.53109],"type":"Point"}
+}

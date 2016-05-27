@@ -1,0 +1,72 @@
+{
+  "id": 873988807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078989,43.798921,-73.078989,43.798921",
+    "geom:latitude":43.798921,
+    "geom:longitude":-73.078989,
+    "iso:country":"US",
+    "sg:address":"86 Park St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 0002",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "yard"
+    ],
+    "sg:website":"www.celebrateinvermont.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DtsEAfaMv3XH2DjMaOMja_43.798921_-73.078989@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310682,
+    "wof:geomhash":"9f76334774d4e8af524cf55b1d11edb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":873988807
+        }
+    ],
+    "wof:id":873988807,
+    "wof:lastmodified":1464310682,
+    "wof:name":"Celebration Rentals",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -73.078989,
+    43.798921,
+    -73.078989,
+    43.798921
+],
+  "geometry": {"coordinates":[-73.07898900000001,43.798921],"type":"Point"}
+}

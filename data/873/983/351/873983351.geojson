@@ -1,0 +1,71 @@
+{
+  "id": 873983351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.534988,43.29738,-72.534988,43.29738",
+    "geom:latitude":43.29738,
+    "geom:longitude":-72.534988,
+    "iso:country":"US",
+    "sg:address":"174 Kirk Meadow Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 2251",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VaVrWhV09YNsO6RoF379U_43.297380_-72.534988@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310636,
+    "wof:geomhash":"26340fcecaa697ae95d6509561cb27c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":873983351
+        }
+    ],
+    "wof:id":873983351,
+    "wof:lastmodified":1464310636,
+    "wof:name":"Cram H David",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.534988,
+    43.29738,
+    -72.534988,
+    43.29738
+],
+  "geometry": {"coordinates":[-72.534988,43.29738],"type":"Point"}
+}

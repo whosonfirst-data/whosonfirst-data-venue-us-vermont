@@ -1,0 +1,79 @@
+{
+  "id": 874252959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200546,44.480728,-73.200546,44.480728",
+    "geom:latitude":44.480728,
+    "geom:longitude":-73.200546,
+    "iso:country":"US",
+    "sg:address":"1 S Prospect St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 656 4516",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L7iXuUc54hVCM5gwQmsMk_44.480728_-73.200546@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313623,
+    "wof:geomhash":"56e15f25378c61677d10243800b8085f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874252959
+        }
+    ],
+    "wof:id":874252959,
+    "wof:lastmodified":1464313623,
+    "wof:name":"Phil A Aiken Md",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [
+    -73.200546,
+    44.480728,
+    -73.200546,
+    44.480728
+],
+  "geometry": {"coordinates":[-73.200546,44.480728],"type":"Point"}
+}

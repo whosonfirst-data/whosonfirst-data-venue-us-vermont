@@ -1,0 +1,71 @@
+{
+  "id": 874188121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.573172,44.253209,-72.573172,44.253209",
+    "geom:latitude":44.253209,
+    "geom:longitude":-72.573172,
+    "iso:country":"US",
+    "sg:address":"127 Berlin St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 3955",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gqoTG8IHMMLUTCYDQ553y_44.253209_-72.573172@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312721,
+    "wof:geomhash":"c4f8deb09953a16dce028279fc64a1a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874188121
+        }
+    ],
+    "wof:id":874188121,
+    "wof:lastmodified":1464312721,
+    "wof:name":"Sylvia's A Gallery Of Style",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.573172,
+    44.253209,
+    -72.573172,
+    44.253209
+],
+  "geometry": {"coordinates":[-72.573172,44.253209],"type":"Point"}
+}

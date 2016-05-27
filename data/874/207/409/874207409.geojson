@@ -1,0 +1,69 @@
+{
+  "id": 874207409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.510171,43.300877,-72.510171,43.300877",
+    "geom:latitude":43.300877,
+    "geom:longitude":-72.510171,
+    "iso:country":"US",
+    "sg:address":"125 Chester Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 2347",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UJ6pwSmFlmKToLMmLRAWJ_43.300877_-72.510171@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312924,
+    "wof:geomhash":"d2aca2658937d29dcbf8f25459c49dad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874207409
+        }
+    ],
+    "wof:id":874207409,
+    "wof:lastmodified":1464312924,
+    "wof:name":"Green Mountain Classics",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -72.510171,
+    43.300877,
+    -72.510171,
+    43.300877
+],
+  "geometry": {"coordinates":[-72.510171,43.300877],"type":"Point"}
+}

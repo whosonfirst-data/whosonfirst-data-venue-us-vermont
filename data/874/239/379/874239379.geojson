@@ -1,0 +1,69 @@
+{
+  "id": 874239379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.593475,43.723957,-72.593475,43.723957",
+    "geom:latitude":43.723957,
+    "geom:longitude":-72.593475,
+    "iso:country":"US",
+    "sg:address":"36 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 8243",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yzga8axQDVucV9reSpknH_43.723957_-72.593475@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313328,
+    "wof:geomhash":"021bca2117a6b0c983676db877a2e4d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874239379
+        }
+    ],
+    "wof:id":874239379,
+    "wof:lastmodified":1464313328,
+    "wof:name":"Standing Stone Perennial Farm",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -72.593475,
+    43.723957,
+    -72.593475,
+    43.723957
+],
+  "geometry": {"coordinates":[-72.593475,43.723957],"type":"Point"}
+}

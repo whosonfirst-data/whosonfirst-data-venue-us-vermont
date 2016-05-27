@@ -1,0 +1,69 @@
+{
+  "id": 874199921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.606467,43.36327,-72.606467,43.36327",
+    "geom:latitude":43.36327,
+    "geom:longitude":-72.606467,
+    "iso:country":"US",
+    "sg:address":"93 Densmore Rd",
+    "sg:city":"Cavendish",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 226 7783",
+    "sg:postcode":"05142",
+    "sg:province":"VT",
+    "sg:tags":[
+        "preparation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lmTSGSkiZnf20MMg3U7Oa_43.363270_-72.606467@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312843,
+    "wof:geomhash":"f84ff94a59e8b9df385165c94e729100",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874199921
+        }
+    ],
+    "wof:id":874199921,
+    "wof:lastmodified":1464312843,
+    "wof:name":"Old Cavendish Products",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation"
+    ]
+},
+  "bbox": [
+    -72.606467,
+    43.36327,
+    -72.606467,
+    43.36327
+],
+  "geometry": {"coordinates":[-72.60646699999999,43.36327],"type":"Point"}
+}

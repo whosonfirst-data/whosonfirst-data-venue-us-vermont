@@ -1,0 +1,71 @@
+{
+  "id": 874030675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.10594,43.973348,-73.10594,43.973348",
+    "geom:latitude":43.973348,
+    "geom:longitude":-73.10594,
+    "iso:country":"US",
+    "sg:address":"399 E Main St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3039",
+    "sg:postcode":"05740",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qARW9KwR9kxdZv4BtVnay_43.973348_-73.105940@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311054,
+    "wof:geomhash":"fde52da24d639c611ad7e7c58a6980ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874030675
+        }
+    ],
+    "wof:id":874030675,
+    "wof:lastmodified":1464311054,
+    "wof:name":"Harmony Electric PC",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.10594,
+    43.973348,
+    -73.10594,
+    43.973348
+],
+  "geometry": {"coordinates":[-73.10594,43.973348],"type":"Point"}
+}

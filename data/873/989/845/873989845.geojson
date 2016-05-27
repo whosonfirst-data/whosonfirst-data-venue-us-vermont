@@ -1,0 +1,78 @@
+{
+  "id": 873989845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.503019,44.200116,-72.503019,44.200116",
+    "geom:latitude":44.200116,
+    "geom:longitude":-72.503019,
+    "iso:country":"US",
+    "sg:address":"21 Merchant St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3235",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y3TIot1Iw1dZ3toy8UYg5_44.200116_-72.503019@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310689,
+    "wof:geomhash":"335a0649fab4ecb42f0b1b34ff6d839e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873989845
+        }
+    ],
+    "wof:id":873989845,
+    "wof:lastmodified":1464310689,
+    "wof:name":"Sleeper-Laprade Financial Svcs",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -72.503019,
+    44.200116,
+    -72.503019,
+    44.200116
+],
+  "geometry": {"coordinates":[-72.50301899999999,44.200116],"type":"Point"}
+}

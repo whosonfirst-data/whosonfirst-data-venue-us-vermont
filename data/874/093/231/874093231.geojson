@@ -1,0 +1,71 @@
+{
+  "id": 874093231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.106828,44.45608,-73.106828,44.45608",
+    "geom:latitude":44.45608,
+    "geom:longitude":-73.106828,
+    "iso:country":"US",
+    "sg:address":"3 Chelsea Pl",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 4827",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15acgmVKSgyCLJYY22d889_44.456080_-73.106828@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311696,
+    "wof:geomhash":"928a8e5bd7c8f4f2656a6114b9dec153",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874093231
+        }
+    ],
+    "wof:id":874093231,
+    "wof:lastmodified":1464311696,
+    "wof:name":"S T Electric",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.106828,
+    44.45608,
+    -73.106828,
+    44.45608
+],
+  "geometry": {"coordinates":[-73.10682799999999,44.45608],"type":"Point"}
+}

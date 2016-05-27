@@ -1,0 +1,77 @@
+{
+  "id": 874120831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.256071,44.546512,-73.256071,44.546512",
+    "geom:latitude":44.546512,
+    "geom:longitude":-73.256071,
+    "iso:country":"US",
+    "sg:address":"104 Robin Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 4467",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850949,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kMJb5C9nxr4na9sUrYwGi_44.546512_-73.256071@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312048,
+    "wof:geomhash":"8736080fd1e75c93497b23ef749fd770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85850949,
+            "region_id":85688763,
+            "venue_id":874120831
+        }
+    ],
+    "wof:id":874120831,
+    "wof:lastmodified":1464312048,
+    "wof:name":"Injury & Health Management",
+    "wof:parent_id":85850949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.256071,
+    44.546512,
+    -73.256071,
+    44.546512
+],
+  "geometry": {"coordinates":[-73.25607100000001,44.546512],"type":"Point"}
+}

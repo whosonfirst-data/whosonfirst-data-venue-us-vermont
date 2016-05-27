@@ -1,0 +1,71 @@
+{
+  "id": 874125587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.648319,43.855087,-72.648319,43.855087",
+    "geom:latitude":43.855087,
+    "geom:longitude":-72.648319,
+    "iso:country":"US",
+    "sg:address":"2057 Pleasant St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 234 9827",
+    "sg:postcode":"05032",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M0UOVrTpj1LEhDFCkO4Rv_43.855087_-72.648319@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312090,
+    "wof:geomhash":"087966e55392cf2289d15ba69757c8f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874125587
+        }
+    ],
+    "wof:id":874125587,
+    "wof:lastmodified":1464312090,
+    "wof:name":"W B Rogers Inc",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.648319,
+    43.855087,
+    -72.648319,
+    43.855087
+],
+  "geometry": {"coordinates":[-72.648319,43.855087],"type":"Point"}
+}

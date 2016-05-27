@@ -1,0 +1,74 @@
+{
+  "id": 874149261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.05294,43.177636,-73.05294,43.177636",
+    "geom:latitude":43.177636,
+    "geom:longitude":-73.05294,
+    "iso:country":"US",
+    "sg:address":"5046 Main St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 2100",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "sg:website":"www.manchesterandmtns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MtWPagCgnadxbLkYFohgb_43.177636_-73.052940@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312322,
+    "wof:geomhash":"8cfcdc3e467bd2c676d723a0d5358b82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874149261
+        }
+    ],
+    "wof:id":874149261,
+    "wof:lastmodified":1464312322,
+    "wof:name":"Manchester & The Mountains",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -73.05294,
+    43.177636,
+    -73.05294,
+    43.177636
+],
+  "geometry": {"coordinates":[-73.05294000000001,43.177636],"type":"Point"}
+}

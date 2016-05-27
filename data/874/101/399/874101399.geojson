@@ -1,0 +1,71 @@
+{
+  "id": 874101399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.179206,44.465667,-73.179206,44.465667",
+    "geom:latitude":44.465667,
+    "geom:longitude":-73.179206,
+    "iso:country":"US",
+    "sg:address":"4 Market St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 4656",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1an6FfsaTpArXZ8Dc39Y8v_44.465667_-73.179206@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311811,
+    "wof:geomhash":"713e9df1e8fefd3a4d2bc12fba51d7f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874101399
+        }
+    ],
+    "wof:id":874101399,
+    "wof:lastmodified":1464311811,
+    "wof:name":"Quilters Courtyard",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing"
+    ]
+},
+  "bbox": [
+    -73.179206,
+    44.465667,
+    -73.179206,
+    44.465667
+],
+  "geometry": {"coordinates":[-73.17920599999999,44.465667],"type":"Point"}
+}

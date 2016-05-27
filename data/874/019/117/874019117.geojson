@@ -1,0 +1,71 @@
+{
+  "id": 874019117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.564998,44.877295,-72.564998,44.877295",
+    "geom:latitude":44.877295,
+    "geom:longitude":-72.564998,
+    "iso:country":"US",
+    "sg:address":"209 Montgomery Hts",
+    "sg:city":"Montgomery Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 326 4696",
+    "sg:postcode":"05471",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EPss3IP5zN4aPvTw6dUqP_44.877295_-72.564998@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310939,
+    "wof:geomhash":"a42f50c38ce8207668787e6f293a1f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874019117
+        }
+    ],
+    "wof:id":874019117,
+    "wof:lastmodified":1464310939,
+    "wof:name":"Deuso Auto Svc",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.564998,
+    44.877295,
+    -72.564998,
+    44.877295
+],
+  "geometry": {"coordinates":[-72.564998,44.877295],"type":"Point"}
+}

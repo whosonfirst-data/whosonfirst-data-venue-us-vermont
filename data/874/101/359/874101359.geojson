@@ -1,0 +1,71 @@
+{
+  "id": 874101359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.141132,43.991941,-73.141132,43.991941",
+    "geom:latitude":43.991941,
+    "geom:longitude":-73.141132,
+    "iso:country":"US",
+    "sg:address":"864 US Hwy 7",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7617",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dUGZnX4MRdL6zeM5gsSEn_43.991941_-73.141132@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311810,
+    "wof:geomhash":"434f38997464ca6d502a431be6b78e83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874101359
+        }
+    ],
+    "wof:id":874101359,
+    "wof:lastmodified":1464311810,
+    "wof:name":"Speedi Lube & Svc",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -73.141132,
+    43.991941,
+    -73.141132,
+    43.991941
+],
+  "geometry": {"coordinates":[-73.141132,43.991941],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874203137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.494704,43.306617,-72.494704,43.306617",
+    "geom:latitude":43.306617,
+    "geom:longitude":-72.494704,
+    "iso:country":"US",
+    "sg:address":"266 River St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 5273",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aiewpF7pCJdj8IjuHCjvO_43.306617_-72.494704@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312876,
+    "wof:geomhash":"0412936b65b84a0762019b24c654d714",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874203137
+        }
+    ],
+    "wof:id":874203137,
+    "wof:lastmodified":1464312876,
+    "wof:name":"Motor Vehicle Dept",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -72.494704,
+    43.306617,
+    -72.494704,
+    43.306617
+],
+  "geometry": {"coordinates":[-72.494704,43.306617],"type":"Point"}
+}

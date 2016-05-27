@@ -1,0 +1,70 @@
+{
+  "id": 874248015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.515899,43.372303,-72.515899,43.372303",
+    "geom:latitude":43.372303,
+    "geom:longitude":-72.515899,
+    "iso:country":"US",
+    "sg:address":"33 Church St",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 9539",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.perkinsvillechurch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X3IUrTZcNQDQnwl1QYznw_43.372303_-72.515899@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313495,
+    "wof:geomhash":"ffb0d8efe7902f862cb0d12bef023b8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874248015
+        }
+    ],
+    "wof:id":874248015,
+    "wof:lastmodified":1464313495,
+    "wof:name":"Perkinsville Community Church",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.515899,
+    43.372303,
+    -72.515899,
+    43.372303
+],
+  "geometry": {"coordinates":[-72.515899,43.372303],"type":"Point"}
+}

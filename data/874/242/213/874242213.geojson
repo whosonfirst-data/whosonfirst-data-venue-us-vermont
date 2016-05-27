@@ -1,0 +1,71 @@
+{
+  "id": 874242213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.104052,43.985975,-73.104052,43.985975",
+    "geom:latitude":43.985975,
+    "geom:longitude":-73.104052,
+    "iso:country":"US",
+    "sg:address":"855 Case St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2336",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hlT0Joft9jqCQNXe5IrnO_43.985975_-73.104052@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313381,
+    "wof:geomhash":"edc372eca078b31f405365476ed2db39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874242213
+        }
+    ],
+    "wof:id":874242213,
+    "wof:lastmodified":1464313381,
+    "wof:name":"Dorothy Elmer",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -73.104052,
+    43.985975,
+    -73.104052,
+    43.985975
+],
+  "geometry": {"coordinates":[-73.104052,43.985975],"type":"Point"}
+}

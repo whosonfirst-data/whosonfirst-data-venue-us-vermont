@@ -1,0 +1,69 @@
+{
+  "id": 874115833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.626905,43.011084,-72.626905,43.011084",
+    "geom:latitude":43.011084,
+    "geom:longitude":-72.626905,
+    "iso:country":"US",
+    "sg:address":"270 Hill Rd",
+    "sg:city":"Newfane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 9114",
+    "sg:postcode":"05345",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EXxMo6D7CKnpD1hJwgO0S_43.011084_-72.626905@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311995,
+    "wof:geomhash":"0f096dcb44eb4153af9b079d3356bb38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874115833
+        }
+    ],
+    "wof:id":874115833,
+    "wof:lastmodified":1464311995,
+    "wof:name":"Scotts Plumbing & Heating LLC",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.626905,
+    43.011084,
+    -72.626905,
+    43.011084
+],
+  "geometry": {"coordinates":[-72.62690499999999,43.011084],"type":"Point"}
+}

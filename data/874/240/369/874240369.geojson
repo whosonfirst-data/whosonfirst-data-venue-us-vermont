@@ -1,0 +1,71 @@
+{
+  "id": 874240369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215437,44.065196,-73.215437,44.065196",
+    "geom:latitude":44.065196,
+    "geom:longitude":-73.215437,
+    "iso:country":"US",
+    "sg:address":"1727 Quaker Village Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2450",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3swo9UpH8l5dEhSqZFi7xH_44.065196_-73.215437@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313347,
+    "wof:geomhash":"2d93d0576a9efc56ae9586071a75d86a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874240369
+        }
+    ],
+    "wof:id":874240369,
+    "wof:lastmodified":1464313347,
+    "wof:name":"Weybridge Town Clerk",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -73.215437,
+    44.065196,
+    -73.215437,
+    44.065196
+],
+  "geometry": {"coordinates":[-73.21543699999999,44.065196],"type":"Point"}
+}

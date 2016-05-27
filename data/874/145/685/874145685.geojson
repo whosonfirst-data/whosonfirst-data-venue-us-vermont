@@ -1,0 +1,73 @@
+{
+  "id": 874145685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.574694,44.214574,-72.574694,44.214574",
+    "geom:latitude":44.214574,
+    "geom:longitude":-72.574694,
+    "iso:country":"US",
+    "sg:address":"52 Pike Dr",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 3701",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yNhtQYbQEsmfQza22jbMJ_44.214574_-72.574694@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312286,
+    "wof:geomhash":"0d9bb3aad1c7bce6926f4478f44049f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874145685
+        }
+    ],
+    "wof:id":874145685,
+    "wof:lastmodified":1464312286,
+    "wof:name":"American Red Cross",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -72.574694,
+    44.214574,
+    -72.574694,
+    44.214574
+],
+  "geometry": {"coordinates":[-72.57469399999999,44.214574],"type":"Point"}
+}

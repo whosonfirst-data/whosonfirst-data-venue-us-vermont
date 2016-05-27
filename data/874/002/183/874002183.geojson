@@ -1,0 +1,74 @@
+{
+  "id": 874002183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.970832,43.608841,-72.970832,43.608841",
+    "geom:latitude":43.608841,
+    "geom:longitude":-72.970832,
+    "iso:country":"US",
+    "sg:address":"10 Terrill St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 0777",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01bCgAcPayyLWPk8x40igp_43.608841_-72.970832@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310777,
+    "wof:geomhash":"f7dc07690d44c1706346ae9a3db7b737",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874002183
+        }
+    ],
+    "wof:id":874002183,
+    "wof:lastmodified":1464310777,
+    "wof:name":"Constantinos Italian Imports",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -72.970832,
+    43.608841,
+    -72.970832,
+    43.608841
+],
+  "geometry": {"coordinates":[-72.970832,43.608841],"type":"Point"}
+}

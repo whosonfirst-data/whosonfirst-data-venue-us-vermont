@@ -1,0 +1,64 @@
+{
+  "id": 874090173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.014095,44.423859,-73.014095,44.423859",
+    "geom:latitude":44.423859,
+    "geom:longitude":-73.014095,
+    "iso:country":"US",
+    "sg:address":"1436 W Main St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 3818",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tELZDmmKFjK0mmcwteKFx_44.423859_-73.014095@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311665,
+    "wof:geomhash":"110ed668014b193e711beba5724eee00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874090173
+        }
+    ],
+    "wof:id":874090173,
+    "wof:lastmodified":1464311665,
+    "wof:name":"Richmond Mobil Mart",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.014095,
+    44.423859,
+    -73.014095,
+    44.423859
+],
+  "geometry": {"coordinates":[-73.014095,44.423859],"type":"Point"}
+}

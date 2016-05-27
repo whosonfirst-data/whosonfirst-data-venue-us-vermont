@@ -1,0 +1,71 @@
+{
+  "id": 874187503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.643101,42.871771,-72.643101,42.871771",
+    "geom:latitude":42.871771,
+    "geom:longitude":-72.643101,
+    "iso:country":"US",
+    "sg:address":"1227 Marlboro Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 5275",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03GrB9iqE8OpdpejkR6frA_42.871771_-72.643101@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312714,
+    "wof:geomhash":"47e002cdc6e86f27f75b52904e492ac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874187503
+        }
+    ],
+    "wof:id":874187503,
+    "wof:lastmodified":1464312714,
+    "wof:name":"John Mc Kay Used Cars",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.643101,
+    42.871771,
+    -72.643101,
+    42.871771
+],
+  "geometry": {"coordinates":[-72.643101,42.871771],"type":"Point"}
+}

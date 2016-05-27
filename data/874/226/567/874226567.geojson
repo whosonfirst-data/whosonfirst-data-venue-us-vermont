@@ -1,0 +1,69 @@
+{
+  "id": 874226567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.518347,42.975608,-72.518347,42.975608",
+    "geom:latitude":42.975608,
+    "geom:longitude":-72.518347,
+    "iso:country":"US",
+    "sg:address":"45 Mill St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 464 6471",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h2fTbTR6d4WEj7eCD1SDA_42.975608_-72.518347@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313127,
+    "wof:geomhash":"cf7d96abac0ecaf11cafd6c9d90bbfde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874226567
+        }
+    ],
+    "wof:id":874226567,
+    "wof:lastmodified":1464313127,
+    "wof:name":"DVTA Garage",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -72.518347,
+    42.975608,
+    -72.518347,
+    42.975608
+],
+  "geometry": {"coordinates":[-72.51834700000001,42.975608],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873992577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.552273,43.320254,-72.552273,43.320254",
+    "geom:latitude":43.320254,
+    "geom:longitude":-72.552273,
+    "iso:country":"US",
+    "sg:address":"1924 Mattson Rd",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 2497",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZJReP0dpA0xR3WotYdH5C_43.320254_-72.552273@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310709,
+    "wof:geomhash":"27e1aacbff1c7aa0d6be523854ab87af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":873992577
+        }
+    ],
+    "wof:id":873992577,
+    "wof:lastmodified":1464310709,
+    "wof:name":"Hidden Valley Campgrounds",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -72.552273,
+    43.320254,
+    -72.552273,
+    43.320254
+],
+  "geometry": {"coordinates":[-72.552273,43.320254],"type":"Point"}
+}

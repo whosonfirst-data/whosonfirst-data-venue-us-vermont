@@ -1,0 +1,71 @@
+{
+  "id": 874003877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.565792,44.245719,-72.565792,44.245719",
+    "geom:latitude":44.245719,
+    "geom:longitude":-72.565792,
+    "iso:country":"US",
+    "sg:address":"43 Pleasant View St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 2037",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50xsKByIo6R6JuC7oXoFrG_44.245719_-72.565792@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310802,
+    "wof:geomhash":"995638b33336625b16b7c368074a90d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874003877
+        }
+    ],
+    "wof:id":874003877,
+    "wof:lastmodified":1464310802,
+    "wof:name":"Ronald C Lawson Chaplin",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -72.565792,
+    44.245719,
+    -72.565792,
+    44.245719
+],
+  "geometry": {"coordinates":[-72.565792,44.245719],"type":"Point"}
+}

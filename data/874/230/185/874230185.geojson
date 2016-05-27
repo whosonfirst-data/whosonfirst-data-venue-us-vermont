@@ -1,0 +1,71 @@
+{
+  "id": 874230185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.164817,44.014782,-73.164817,44.014782",
+    "geom:latitude":44.014782,
+    "geom:longitude":-73.164817,
+    "iso:country":"US",
+    "sg:address":"11 Washington St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 382 8858",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w1tx2d1g7JaiP12Ft6e8N_44.014782_-73.164817@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313162,
+    "wof:geomhash":"c60b158502aeee4bee8708ad379ff8a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874230185
+        }
+    ],
+    "wof:id":874230185,
+    "wof:lastmodified":1464313162,
+    "wof:name":"Teton West Lumber Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -73.164817,
+    44.014782,
+    -73.164817,
+    44.014782
+],
+  "geometry": {"coordinates":[-73.164817,44.014782],"type":"Point"}
+}

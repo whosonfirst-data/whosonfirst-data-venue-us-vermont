@@ -1,0 +1,71 @@
+{
+  "id": 874158801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.127857,44.510822,-73.127857,44.510822",
+    "geom:latitude":44.510822,
+    "geom:longitude":-73.127857,
+    "iso:country":"US",
+    "sg:address":"13 Colbert St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 2365",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i1TWqNs7F6dXudrOXaBgM_44.510822_-73.127857@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312420,
+    "wof:geomhash":"9e307f3ae823a15b4007abb4a175bdef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874158801
+        }
+    ],
+    "wof:id":874158801,
+    "wof:lastmodified":1464312420,
+    "wof:name":"Quesnel Enterprises",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.127857,
+    44.510822,
+    -73.127857,
+    44.510822
+],
+  "geometry": {"coordinates":[-73.12785700000001,44.510822],"type":"Point"}
+}

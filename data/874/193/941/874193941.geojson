@@ -1,0 +1,70 @@
+{
+  "id": 874193941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.249178,44.170371,-73.249178,44.170371",
+    "geom:latitude":44.170371,
+    "geom:longitude":-73.249178,
+    "iso:country":"US",
+    "sg:address":"14 N Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3600",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.deneckerchevrolet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HylhPEMgvhiT4kpRRmWaJ_44.170371_-73.249178@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312779,
+    "wof:geomhash":"ff2abe8f6f4d28e3ce87a99b3cd2e75c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874193941
+        }
+    ],
+    "wof:id":874193941,
+    "wof:lastmodified":1464312779,
+    "wof:name":"Denecker Chevrolet Inc",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.249178,
+    44.170371,
+    -73.249178,
+    44.170371
+],
+  "geometry": {"coordinates":[-73.249178,44.170371],"type":"Point"}
+}

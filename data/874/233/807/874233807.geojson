@@ -1,0 +1,73 @@
+{
+  "id": 874233807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.351882,44.349955,-72.351882,44.349955",
+    "geom:latitude":44.349955,
+    "geom:longitude":-72.351882,
+    "iso:country":"US",
+    "sg:address":"185 Gilman St",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3588",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xPpddD9C8CtQY7eu4fL0o_44.349955_-72.351882@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313216,
+    "wof:geomhash":"3b4fa8bc360198edf0e7602e362f3230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874233807
+        }
+    ],
+    "wof:id":874233807,
+    "wof:lastmodified":1464313216,
+    "wof:name":"J C Housewright",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.351882,
+    44.349955,
+    -72.351882,
+    44.349955
+],
+  "geometry": {"coordinates":[-72.351882,44.349955],"type":"Point"}
+}

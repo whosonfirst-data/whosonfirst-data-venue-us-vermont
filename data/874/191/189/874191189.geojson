@@ -1,0 +1,69 @@
+{
+  "id": 874191189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.699848,44.643458,-72.699848,44.643458",
+    "geom:latitude":44.643458,
+    "geom:longitude":-72.699848,
+    "iso:country":"US",
+    "sg:address":"24 Foote Brook Rd",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 2000",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AInWSq4A7RMe90yLfWltK_44.643458_-72.699848@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312751,
+    "wof:geomhash":"01ab8fab06d097d4d4373b0aed637064",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874191189
+        }
+    ],
+    "wof:id":874191189,
+    "wof:lastmodified":1464312751,
+    "wof:name":"Siegel Mel Antiques",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -72.699848,
+    44.643458,
+    -72.699848,
+    44.643458
+],
+  "geometry": {"coordinates":[-72.699848,44.643458],"type":"Point"}
+}

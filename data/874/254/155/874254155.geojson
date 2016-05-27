@@ -1,0 +1,80 @@
+{
+  "id": 874254155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.19017,44.591728,-73.19017,44.591728",
+    "geom:latitude":44.591728,
+    "geom:longitude":-73.19017,
+    "iso:country":"US",
+    "sg:address":"318 Raymond Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 1222",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "system",
+        "oils-fuel",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85854373,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LVxiYpFGc1f7IJylyDOEX_44.591728_-73.190170@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313649,
+    "wof:geomhash":"d83dd806488c93346c38ee18f237928b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85854373,
+            "region_id":85688763,
+            "venue_id":874254155
+        }
+    ],
+    "wof:id":874254155,
+    "wof:lastmodified":1464313649,
+    "wof:name":"Ed Lessard Heating Service Inc",
+    "wof:parent_id":85854373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "oils-fuel",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -73.19017,
+    44.591728,
+    -73.19017,
+    44.591728
+],
+  "geometry": {"coordinates":[-73.19016999999999,44.591728],"type":"Point"}
+}

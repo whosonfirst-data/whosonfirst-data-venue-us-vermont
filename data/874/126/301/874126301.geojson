@@ -1,0 +1,69 @@
+{
+  "id": 874126301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.013863,44.41951,-72.013863,44.41951",
+    "geom:latitude":44.41951,
+    "geom:longitude":-72.013863,
+    "iso:country":"US",
+    "sg:address":"88 Portland St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 2641",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S3VEHqMB6vO9vQKwoMBDQ_44.419510_-72.013863@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312097,
+    "wof:geomhash":"bb8e5fa36f483d82aeb55118c07b7bf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874126301
+        }
+    ],
+    "wof:id":874126301,
+    "wof:lastmodified":1464312097,
+    "wof:name":"US Consolidated Farm Svc Agcy",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -72.013863,
+    44.41951,
+    -72.013863,
+    44.41951
+],
+  "geometry": {"coordinates":[-72.013863,44.41951],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874142435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.143624,44.505646,-73.143624,44.505646",
+    "geom:latitude":44.505646,
+    "geom:longitude":-73.143624,
+    "iso:country":"US",
+    "sg:address":"1 Winooski Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 654 2408",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1peyM9c9hjSoo4PERVUAdh_44.505646_-73.143624@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312256,
+    "wof:geomhash":"41e4c5626c000d6a5ffed667c521a752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874142435
+        }
+    ],
+    "wof:id":874142435,
+    "wof:lastmodified":1464312256,
+    "wof:name":"Library",
+    "wof:parent_id":85828531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.143624,
+    44.505646,
+    -73.143624,
+    44.505646
+],
+  "geometry": {"coordinates":[-73.143624,44.505646],"type":"Point"}
+}

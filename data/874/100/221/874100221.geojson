@@ -1,0 +1,73 @@
+{
+  "id": 874100221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.173504,44.467771,-73.173504,44.467771",
+    "geom:latitude":44.467771,
+    "geom:longitude":-73.173504,
+    "iso:country":"US",
+    "sg:address":"50 White St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 6491",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KvOprEgSbnYW6VqMzodGm_44.467771_-73.173504@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311796,
+    "wof:geomhash":"3e2a539d71f1c0f425e053bf7b818a16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874100221
+        }
+    ],
+    "wof:id":874100221,
+    "wof:lastmodified":1464311796,
+    "wof:name":"Merchant's Bank",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -73.173504,
+    44.467771,
+    -73.173504,
+    44.467771
+],
+  "geometry": {"coordinates":[-73.17350399999999,44.467771],"type":"Point"}
+}

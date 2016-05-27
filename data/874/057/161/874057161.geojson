@@ -1,0 +1,69 @@
+{
+  "id": 874057161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.570222,44.289821,-72.570222,44.289821",
+    "geom:latitude":44.289821,
+    "geom:longitude":-72.570222,
+    "iso:country":"US",
+    "sg:address":"458 Gould Hill Rd",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 9282",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85859175,
+        102080779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OU3K1ulxdbJaGRPMah4PM_44.289821_-72.570222@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311310,
+    "wof:geomhash":"428045cd30f7b489a4ce9a72c85cbbc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "neighbourhood_id":85859175,
+            "region_id":85688763,
+            "venue_id":874057161
+        }
+    ],
+    "wof:id":874057161,
+    "wof:lastmodified":1464311310,
+    "wof:name":"Lifwynn Camp Inc",
+    "wof:parent_id":85859175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -72.570222,
+    44.289821,
+    -72.570222,
+    44.289821
+],
+  "geometry": {"coordinates":[-72.570222,44.289821],"type":"Point"}
+}

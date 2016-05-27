@@ -1,0 +1,69 @@
+{
+  "id": 874175243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.221018,43.926803,-73.221018,43.926803",
+    "geom:latitude":43.926803,
+    "geom:longitude":-73.221018,
+    "iso:country":"US",
+    "sg:address":"490 Parkhill Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 2002",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZrZyj4C6lL6J16Gd8QlCp_43.926803_-73.221018@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312581,
+    "wof:geomhash":"b997285c08d3aea0ac941429949d106d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":874175243
+        }
+    ],
+    "wof:id":874175243,
+    "wof:lastmodified":1464312581,
+    "wof:name":"Barth Dental Lab",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -73.221018,
+    43.926803,
+    -73.221018,
+    43.926803
+],
+  "geometry": {"coordinates":[-73.221018,43.926803],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874130689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.108905,44.69101,-73.108905,44.69101",
+    "geom:latitude":44.69101,
+    "geom:longitude":-73.108905,
+    "iso:country":"US",
+    "sg:address":"864 Ethan Allen Hwy",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 2356",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cKl14xJyZt2MbP8aO2z5t_44.691010_-73.108905@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312145,
+    "wof:geomhash":"110d4aa6899c8db31da103601bbb71a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874130689
+        }
+    ],
+    "wof:id":874130689,
+    "wof:lastmodified":1464312145,
+    "wof:name":"Homestead Campgrounds Inc",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -73.108905,
+    44.69101,
+    -73.108905,
+    44.69101
+],
+  "geometry": {"coordinates":[-73.10890499999999,44.69101],"type":"Point"}
+}

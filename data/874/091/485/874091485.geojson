@@ -1,0 +1,66 @@
+{
+  "id": 874091485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.091355,43.79983,-73.091355,43.79983",
+    "geom:latitude":43.79983,
+    "geom:longitude":-73.091355,
+    "iso:country":"US",
+    "sg:address":"28 Conant Sq",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3335",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hKXYLBxnvsiuboGuYCHwQ_43.799830_-73.091355@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311681,
+    "wof:geomhash":"3e02fe06667b84766f51504a953dd88a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874091485
+        }
+    ],
+    "wof:id":874091485,
+    "wof:lastmodified":1464311681,
+    "wof:name":"Otterside Animal Hospital",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.091355,
+    43.79983,
+    -73.091355,
+    43.79983
+],
+  "geometry": {"coordinates":[-73.09135499999999,43.79983],"type":"Point"}
+}

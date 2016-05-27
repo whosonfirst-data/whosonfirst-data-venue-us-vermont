@@ -1,0 +1,69 @@
+{
+  "id": 874221083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.614614,42.867805,-72.614614,42.867805",
+    "geom:latitude":42.867805,
+    "geom:longitude":-72.614614,
+    "iso:country":"US",
+    "sg:address":"19 Lynwood Dr",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 0782",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cooperative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cDQnYpOHLuC8ZMwjZFOjX_42.867805_-72.614614@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313075,
+    "wof:geomhash":"22cdc6d75724f4e5aa3362befb1b680d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874221083
+        }
+    ],
+    "wof:id":874221083,
+    "wof:lastmodified":1464313075,
+    "wof:name":"Tri Park Cooperative Housing",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cooperative"
+    ]
+},
+  "bbox": [
+    -72.614614,
+    42.867805,
+    -72.614614,
+    42.867805
+],
+  "geometry": {"coordinates":[-72.614614,42.867805],"type":"Point"}
+}

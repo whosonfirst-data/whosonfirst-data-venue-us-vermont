@@ -1,0 +1,70 @@
+{
+  "id": 873998997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.61381,44.592413,-72.61381,44.592413",
+    "geom:latitude":44.592413,
+    "geom:longitude":-72.61381,
+    "iso:country":"US",
+    "sg:address":"50 E Main St",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 2237",
+    "sg:postcode":"05655",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation"
+    ],
+    "sg:website":"www.hpes.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lDfHfrdxGgQ65Mvv8vLX9_44.592413_-72.613810@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310753,
+    "wof:geomhash":"e613b86355172364d7ead6a48add8ed2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":873998997
+        }
+    ],
+    "wof:id":873998997,
+    "wof:lastmodified":1464310753,
+    "wof:name":"Hyde Park Elementary School",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -72.61381,
+    44.592413,
+    -72.61381,
+    44.592413
+],
+  "geometry": {"coordinates":[-72.61381,44.592413],"type":"Point"}
+}

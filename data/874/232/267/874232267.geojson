@@ -1,0 +1,71 @@
+{
+  "id": 874232267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.766572,44.973168,-72.766572,44.973168",
+    "geom:latitude":44.973168,
+    "geom:longitude":-72.766572,
+    "iso:country":"US",
+    "sg:address":"4850 Water Tower Rd",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 2290",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "educational",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JGwjKOf1rznkaKPKr0sl5_44.973168_-72.766572@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313190,
+    "wof:geomhash":"eaddaf87d4ea992570d3c0be41ac12db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874232267
+        }
+    ],
+    "wof:id":874232267,
+    "wof:lastmodified":1464313190,
+    "wof:name":"Berkshire Elementary School",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -72.766572,
+    44.973168,
+    -72.766572,
+    44.973168
+],
+  "geometry": {"coordinates":[-72.766572,44.973168],"type":"Point"}
+}

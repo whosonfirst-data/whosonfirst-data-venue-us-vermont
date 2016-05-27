@@ -1,0 +1,72 @@
+{
+  "id": 874105531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214696,44.461914,-73.214696,44.461914",
+    "geom:latitude":44.461914,
+    "geom:longitude":-73.214696,
+    "iso:country":"US",
+    "sg:address":"585 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 7300",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.burlingtonelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_745y63smqpnV6Ik0TNYz7y_44.461914_-73.214696@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311863,
+    "wof:geomhash":"59b1ad32d1eb67cb032970b0036ec98d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874105531
+        }
+    ],
+    "wof:id":874105531,
+    "wof:lastmodified":1464311863,
+    "wof:name":"Burlington Electric Dept",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -73.214696,
+    44.461914,
+    -73.214696,
+    44.461914
+],
+  "geometry": {"coordinates":[-73.214696,44.461914],"type":"Point"}
+}

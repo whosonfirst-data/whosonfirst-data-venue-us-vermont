@@ -1,0 +1,71 @@
+{
+  "id": 874013075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.550883,43.360227,-72.550883,43.360227",
+    "geom:latitude":43.360227,
+    "geom:longitude":-72.550883,
+    "iso:country":"US",
+    "sg:address":"148 Old Piper Rd",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 9354",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dQ1sbliuUeox37YaQFntZ_43.360227_-72.550883@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310877,
+    "wof:geomhash":"ec9a468a1ce23908a21e213af3d285fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874013075
+        }
+    ],
+    "wof:id":874013075,
+    "wof:lastmodified":1464310877,
+    "wof:name":"Bergeron Electric",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.550883,
+    43.360227,
+    -72.550883,
+    43.360227
+],
+  "geometry": {"coordinates":[-72.550883,43.360227],"type":"Point"}
+}

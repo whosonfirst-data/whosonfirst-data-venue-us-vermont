@@ -1,0 +1,69 @@
+{
+  "id": 874103933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.556921,42.884535,-72.556921,42.884535",
+    "geom:latitude":42.884535,
+    "geom:longitude":-72.556921,
+    "iso:country":"US",
+    "sg:address":"1114 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 7397",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rFz8l3D0NshCbYiHgdl3m_42.884535_-72.556921@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311843,
+    "wof:geomhash":"345875ae5f638410907462b61b915a81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874103933
+        }
+    ],
+    "wof:id":874103933,
+    "wof:lastmodified":1464311843,
+    "wof:name":"Brattleboro Mobil",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -72.556921,
+    42.884535,
+    -72.556921,
+    42.884535
+],
+  "geometry": {"coordinates":[-72.556921,42.884535],"type":"Point"}
+}

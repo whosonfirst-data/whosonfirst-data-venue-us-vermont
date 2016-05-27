@@ -1,0 +1,71 @@
+{
+  "id": 874203505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.4144,44.285127,-72.4144,44.285127",
+    "geom:latitude":44.285127,
+    "geom:longitude":-72.4144,
+    "iso:country":"US",
+    "sg:address":"7238 US Hwy 2",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3179",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C3H0GAtmnhH1s0QpdYiV2_44.285127_-72.414400@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312879,
+    "wof:geomhash":"a2592419dffa359d274b66d1714e97c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874203505
+        }
+    ],
+    "wof:id":874203505,
+    "wof:lastmodified":1464312879,
+    "wof:name":"Convenient Cleaning Co Inc",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.4144,
+    44.285127,
+    -72.4144,
+    44.285127
+],
+  "geometry": {"coordinates":[-72.4144,44.285127],"type":"Point"}
+}

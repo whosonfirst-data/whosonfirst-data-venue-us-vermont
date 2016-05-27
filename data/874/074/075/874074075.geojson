@@ -1,0 +1,75 @@
+{
+  "id": 874074075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.828782,44.645231,-72.828782,44.645231",
+    "geom:latitude":44.645231,
+    "geom:longitude":-72.828782,
+    "iso:country":"US",
+    "sg:address":"71 Main St",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2030",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AjQCIY5DoUCZepfztQZKb_44.645231_-72.828782@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311495,
+    "wof:geomhash":"ed837fb0e1e6f8c5b36bae75d70c5368",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874074075
+        }
+    ],
+    "wof:id":874074075,
+    "wof:lastmodified":1464311495,
+    "wof:name":"Jefferson House",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -72.828782,
+    44.645231,
+    -72.828782,
+    44.645231
+],
+  "geometry": {"coordinates":[-72.828782,44.645231],"type":"Point"}
+}

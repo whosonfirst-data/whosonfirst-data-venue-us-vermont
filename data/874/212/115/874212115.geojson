@@ -1,0 +1,75 @@
+{
+  "id": 874212115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208879,44.453003,-73.208879,44.453003",
+    "geom:latitude":44.453003,
+    "geom:longitude":-73.208879,
+    "iso:country":"US",
+    "sg:address":"435 Shelburne Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 2628",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21h83anuaDQbMFTXV5WDcY_44.453003_-73.208879@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312975,
+    "wof:geomhash":"245408f31f6b0a71f0938627b542e15f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874212115
+        }
+    ],
+    "wof:id":874212115,
+    "wof:lastmodified":1464312975,
+    "wof:name":"Golden Ridge",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -73.208879,
+    44.453003,
+    -73.208879,
+    44.453003
+],
+  "geometry": {"coordinates":[-73.208879,44.453003],"type":"Point"}
+}

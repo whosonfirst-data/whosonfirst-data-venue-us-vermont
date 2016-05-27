@@ -1,0 +1,73 @@
+{
+  "id": 874061801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208344,44.477404,-73.208344,44.477404",
+    "geom:latitude":44.477404,
+    "geom:longitude":-73.208344,
+    "iso:country":"US",
+    "sg:address":"298 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 3623",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77eGbpFWiZ2H5Y6C3G934t_44.477404_-73.208344@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311351,
+    "wof:geomhash":"eaf2f21b1b891225a6c35645c5eeea22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874061801
+        }
+    ],
+    "wof:id":874061801,
+    "wof:lastmodified":1464311351,
+    "wof:name":"Knights of Columbus",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -73.208344,
+    44.477404,
+    -73.208344,
+    44.477404
+],
+  "geometry": {"coordinates":[-73.208344,44.477404],"type":"Point"}
+}

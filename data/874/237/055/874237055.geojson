@@ -1,0 +1,69 @@
+{
+  "id": 874237055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.992482,44.417141,-71.992482,44.417141",
+    "geom:latitude":44.417141,
+    "geom:longitude":-71.992482,
+    "iso:country":"US",
+    "sg:address":"1303 Concord Ave",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 2345",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PLa30n9BfY4qg5mNvFMyL_44.417141_-71.992482@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313282,
+    "wof:geomhash":"a9c717979b61deef12e26a2242e5d538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874237055
+        }
+    ],
+    "wof:id":874237055,
+    "wof:lastmodified":1464313282,
+    "wof:name":"Vermont Broadcast Associates",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -71.992482,
+    44.417141,
+    -71.992482,
+    44.417141
+],
+  "geometry": {"coordinates":[-71.992482,44.417141],"type":"Point"}
+}

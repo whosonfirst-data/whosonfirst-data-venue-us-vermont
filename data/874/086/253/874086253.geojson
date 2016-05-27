@@ -1,0 +1,75 @@
+{
+  "id": 874086253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501958,44.256705,-72.501958,44.256705",
+    "geom:latitude":44.256705,
+    "geom:longitude":-72.501958,
+    "iso:country":"US",
+    "sg:address":"1589 E Montpelier Rd",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2345",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q5wHTiBspwabW5eOqw91W_44.256705_-72.501958@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311623,
+    "wof:geomhash":"a3d905a12821b155c2b0a0ba84c1b9d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874086253
+        }
+    ],
+    "wof:id":874086253,
+    "wof:lastmodified":1464311623,
+    "wof:name":"Ruby's Run Pet Bed & Board",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -72.501958,
+    44.256705,
+    -72.501958,
+    44.256705
+],
+  "geometry": {"coordinates":[-72.501958,44.256705],"type":"Point"}
+}

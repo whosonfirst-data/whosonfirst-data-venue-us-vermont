@@ -1,0 +1,71 @@
+{
+  "id": 874078213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.009011,44.412876,-72.009011,44.412876",
+    "geom:latitude":44.412876,
+    "geom:longitude":-72.009011,
+    "iso:country":"US",
+    "sg:address":"51 Adams Dr",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3382",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PVJKN6U6pl4Q68OD8zJwJ_44.412876_-72.009011@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311530,
+    "wof:geomhash":"2f551201eaa1301457011736b181dfc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874078213
+        }
+    ],
+    "wof:id":874078213,
+    "wof:lastmodified":1464311530,
+    "wof:name":"PDQ Data Processing Ctr",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -72.009011,
+    44.412876,
+    -72.009011,
+    44.412876
+],
+  "geometry": {"coordinates":[-72.009011,44.412876],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874202403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.141255,44.414743,-72.141255,44.414743",
+    "geom:latitude":44.414743,
+    "geom:longitude":-72.141255,
+    "iso:country":"US",
+    "sg:address":"209 Hill St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8434",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r1fh7ZJXLUkNIuFrMGudd_44.414743_-72.141255@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312868,
+    "wof:geomhash":"d9153eec32fe27c7eb1948fd1af36787",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874202403
+        }
+    ],
+    "wof:id":874202403,
+    "wof:lastmodified":1464312868,
+    "wof:name":"Dora's Taxi Svc",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -72.141255,
+    44.414743,
+    -72.141255,
+    44.414743
+],
+  "geometry": {"coordinates":[-72.141255,44.414743],"type":"Point"}
+}

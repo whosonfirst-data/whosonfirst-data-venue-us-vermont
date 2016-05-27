@@ -1,0 +1,71 @@
+{
+  "id": 874117939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.968875,44.49379,-72.968875,44.49379",
+    "geom:latitude":44.49379,
+    "geom:longitude":-72.968875,
+    "iso:country":"US",
+    "sg:address":"158 Packard Rd",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 2926",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47xu90aUEY7SBcnbnzUqUi_44.493790_-72.968875@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312015,
+    "wof:geomhash":"965034e3bdaa9a5dabd137bd7559bc73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874117939
+        }
+    ],
+    "wof:id":874117939,
+    "wof:lastmodified":1464312015,
+    "wof:name":"Dan Marcotte Construction",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.968875,
+    44.49379,
+    -72.968875,
+    44.49379
+],
+  "geometry": {"coordinates":[-72.968875,44.49379],"type":"Point"}
+}

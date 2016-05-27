@@ -1,0 +1,82 @@
+{
+  "id": 874210507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.11142,44.682573,-73.11142,44.682573",
+    "geom:latitude":44.682573,
+    "geom:longitude":-73.11142,
+    "iso:country":"US",
+    "sg:address":"176 US Hwy 7",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 8883",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "video",
+        "disc",
+        "leasing",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WWG0O9CU36vGCjrQZwSOn_44.682573_-73.111420@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312955,
+    "wof:geomhash":"01dba70b2db27c64eee396f6370d36e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874210507
+        }
+    ],
+    "wof:id":874210507,
+    "wof:lastmodified":1464312955,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "video",
+        "disc",
+        "leasing",
+        "tape"
+    ]
+},
+  "bbox": [
+    -73.11142,
+    44.682573,
+    -73.11142,
+    44.682573
+],
+  "geometry": {"coordinates":[-73.11142,44.682573],"type":"Point"}
+}

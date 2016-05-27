@@ -1,0 +1,73 @@
+{
+  "id": 874041649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.104432,44.427847,-72.104432,44.427847",
+    "geom:latitude":44.427847,
+    "geom:longitude":-72.104432,
+    "iso:country":"US",
+    "sg:address":"77 State Rte 2b",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 3481",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jA3wjcLclWABj96jWNOse_44.427847_-72.104432@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311163,
+    "wof:geomhash":"3a82fb7776aea08e10e64ec111a3adf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874041649
+        }
+    ],
+    "wof:id":874041649,
+    "wof:lastmodified":1464311163,
+    "wof:name":"Danville Service Center",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -72.104432,
+    44.427847,
+    -72.104432,
+    44.427847
+],
+  "geometry": {"coordinates":[-72.104432,44.427847],"type":"Point"}
+}

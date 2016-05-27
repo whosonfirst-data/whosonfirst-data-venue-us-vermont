@@ -1,0 +1,69 @@
+{
+  "id": 874010161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.021867,44.420886,-72.021867,44.420886",
+    "geom:latitude":44.420886,
+    "geom:longitude":-72.021867,
+    "iso:country":"US",
+    "sg:address":"448 Summer St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3946",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pssZJUpwcJqOmOhtdcUP5_44.420886_-72.021867@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310857,
+    "wof:geomhash":"2e49a4e416a8fe4f3df4717757996d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874010161
+        }
+    ],
+    "wof:id":874010161,
+    "wof:lastmodified":1464310857,
+    "wof:name":"Truline Land Surveyors",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -72.021867,
+    44.420886,
+    -72.021867,
+    44.420886
+],
+  "geometry": {"coordinates":[-72.021867,44.420886],"type":"Point"}
+}

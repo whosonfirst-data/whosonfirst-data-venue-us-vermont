@@ -1,0 +1,71 @@
+{
+  "id": 874023431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088494,44.30116,-73.088494,44.30116",
+    "geom:latitude":44.30116,
+    "geom:longitude":-73.088494,
+    "iso:country":"US",
+    "sg:address":"1182 Gilman Rd",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 5359",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849747,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i3TLl3ULDgU5kxFYGtKyn_44.301160_-73.088494@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310978,
+    "wof:geomhash":"766f182537aa0595fb29c78e395dc922",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85849747,
+            "region_id":85688763,
+            "venue_id":874023431
+        }
+    ],
+    "wof:id":874023431,
+    "wof:lastmodified":1464310978,
+    "wof:name":"Deforge Electric Inc",
+    "wof:parent_id":85849747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.088494,
+    44.30116,
+    -73.088494,
+    44.30116
+],
+  "geometry": {"coordinates":[-73.088494,44.30116],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874229883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.174061,44.610449,-73.174061,44.610449",
+    "geom:latitude":44.610449,
+    "geom:longitude":-73.174061,
+    "iso:country":"US",
+    "sg:address":"28 Jackson Ln",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 2348",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "property",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85854373,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1683CEy50JHw6kRAz5l67S_44.610449_-73.174061@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313159,
+    "wof:geomhash":"efd97b1bc2cf007993f5a5120dd5784a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85854373,
+            "region_id":85688763,
+            "venue_id":874229883
+        }
+    ],
+    "wof:id":874229883,
+    "wof:lastmodified":1464313159,
+    "wof:name":"Sundance Property Svc",
+    "wof:parent_id":85854373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.174061,
+    44.610449,
+    -73.174061,
+    44.610449
+],
+  "geometry": {"coordinates":[-73.17406099999999,44.610449],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874021993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204146,44.458705,-73.204146,44.458705",
+    "geom:latitude":44.458705,
+    "geom:longitude":-73.204146,
+    "iso:country":"US",
+    "sg:address":"85 Crescent Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 7477",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W8x0LaFjxRbctIhuGzIdT_44.458705_-73.204146@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310964,
+    "wof:geomhash":"d8530d43cbc15f3bc4ad041733e450ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874021993
+        }
+    ],
+    "wof:id":874021993,
+    "wof:lastmodified":1464310964,
+    "wof:name":"Waterfront Books",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book"
+    ]
+},
+  "bbox": [
+    -73.204146,
+    44.458705,
+    -73.204146,
+    44.458705
+],
+  "geometry": {"coordinates":[-73.20414599999999,44.458705],"type":"Point"}
+}

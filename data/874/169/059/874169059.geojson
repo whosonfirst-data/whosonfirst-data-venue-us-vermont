@@ -1,0 +1,71 @@
+{
+  "id": 874169059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.500134,43.305891,-72.500134,43.305891",
+    "geom:latitude":43.305891,
+    "geom:longitude":-72.500134,
+    "iso:country":"US",
+    "sg:address":"9 Fairground Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 4362",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ovmiro3iF60jksdv2orY1_43.305891_-72.500134@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312518,
+    "wof:geomhash":"6892603a98b37859235b89424f40e7f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874169059
+        }
+    ],
+    "wof:id":874169059,
+    "wof:lastmodified":1464312518,
+    "wof:name":"Springfield Pool",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -72.500134,
+    43.305891,
+    -72.500134,
+    43.305891
+],
+  "geometry": {"coordinates":[-72.500134,43.305891],"type":"Point"}
+}

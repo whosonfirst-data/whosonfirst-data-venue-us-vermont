@@ -1,0 +1,71 @@
+{
+  "id": 874253881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.254097,44.316399,-73.254097,44.316399",
+    "geom:latitude":44.316399,
+    "geom:longitude":-73.254097,
+    "iso:country":"US",
+    "sg:address":"2350 Greenbush Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 2886",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "art",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85811695,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ve8UFdpcewWg0NNQmFpjD_44.316399_-73.254097@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313643,
+    "wof:geomhash":"08ff9ab3bb507bc36beffb53bdebe9e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85811695,
+            "region_id":85688763,
+            "venue_id":874253881
+        }
+    ],
+    "wof:id":874253881,
+    "wof:lastmodified":1464313643,
+    "wof:name":"Needleworks Etc",
+    "wof:parent_id":85811695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "supply"
+    ]
+},
+  "bbox": [
+    -73.254097,
+    44.316399,
+    -73.254097,
+    44.316399
+],
+  "geometry": {"coordinates":[-73.254097,44.316399],"type":"Point"}
+}

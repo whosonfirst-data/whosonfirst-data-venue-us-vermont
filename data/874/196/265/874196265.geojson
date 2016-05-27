@@ -1,0 +1,71 @@
+{
+  "id": 874196265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.179462,44.535737,-73.179462,44.535737",
+    "geom:latitude":44.535737,
+    "geom:longitude":-73.179462,
+    "iso:country":"US",
+    "sg:address":"825 Poor Farm Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 4860",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nDbaby9JoZiQ1Ty0rnD77_44.535737_-73.179462@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312808,
+    "wof:geomhash":"4b732ffd72454d0d0ea73930d806fcc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874196265
+        }
+    ],
+    "wof:id":874196265,
+    "wof:lastmodified":1464312808,
+    "wof:name":"Schroder Dnald Mstr Elctrician",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.179462,
+    44.535737,
+    -73.179462,
+    44.535737
+],
+  "geometry": {"coordinates":[-73.179462,44.535737],"type":"Point"}
+}

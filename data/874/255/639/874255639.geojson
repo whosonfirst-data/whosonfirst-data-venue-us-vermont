@@ -1,0 +1,69 @@
+{
+  "id": 874255639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.954994,43.593864,-72.954994,43.593864",
+    "geom:latitude":43.593864,
+    "geom:longitude":-72.954994,
+    "iso:country":"US",
+    "sg:address":"1 Carman Dr",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 8720",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_535kD5aruNRtgh7YY1guac_43.593864_-72.954994@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313689,
+    "wof:geomhash":"9da9c8ceb7427a22e6cde29530973469",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255639
+        }
+    ],
+    "wof:id":874255639,
+    "wof:lastmodified":1464313689,
+    "wof:name":"Dorman Apts",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.954994,
+    43.593864,
+    -72.954994,
+    43.593864
+],
+  "geometry": {"coordinates":[-72.954994,43.593864],"type":"Point"}
+}

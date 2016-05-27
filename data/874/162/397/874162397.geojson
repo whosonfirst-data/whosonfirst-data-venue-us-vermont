@@ -1,0 +1,71 @@
+{
+  "id": 874162397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.487449,44.217606,-72.487449,44.217606",
+    "geom:latitude":44.217606,
+    "geom:longitude":-72.487449,
+    "iso:country":"US",
+    "sg:address":"107 Valley View Cir",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5988",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vP0OQURU1aDMIHtIxvcTG_44.217606_-72.487449@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312454,
+    "wof:geomhash":"8fbb5825903b4d1318779cea0c3d57b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874162397
+        }
+    ],
+    "wof:id":874162397,
+    "wof:lastmodified":1464312454,
+    "wof:name":"Roy Marcel Builders",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.487449,
+    44.217606,
+    -72.487449,
+    44.217606
+],
+  "geometry": {"coordinates":[-72.487449,44.217606],"type":"Point"}
+}

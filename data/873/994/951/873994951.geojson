@@ -1,0 +1,66 @@
+{
+  "id": 873994951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.160478,44.00651,-73.160478,44.00651",
+    "geom:latitude":44.00651,
+    "geom:longitude":-73.160478,
+    "iso:country":"US",
+    "sg:address":"263 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4443",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ADRKf0tbuqvvkuJFj5z6W_44.006510_-73.160478@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310725,
+    "wof:geomhash":"1e8469a3f172e4637b7e73017462d9dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":873994951
+        }
+    ],
+    "wof:id":873994951,
+    "wof:lastmodified":1464310725,
+    "wof:name":"Brooks Pharmacy",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.160478,
+    44.00651,
+    -73.160478,
+    44.00651
+],
+  "geometry": {"coordinates":[-73.160478,44.00651],"type":"Point"}
+}

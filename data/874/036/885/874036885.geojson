@@ -1,0 +1,71 @@
+{
+  "id": 874036885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.370052,43.655067,-72.370052,43.655067",
+    "geom:latitude":43.655067,
+    "geom:longitude":-72.370052,
+    "iso:country":"US",
+    "sg:address":"923 Kings Hwy",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 4441",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "skating",
+        "rink"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810161,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70EFvuq5DDmtST72InKdTv_43.655067_-72.370052@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311115,
+    "wof:geomhash":"8bfae82e1f979496eb89fca2e5f49b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85810161,
+            "region_id":85688763,
+            "venue_id":874036885
+        }
+    ],
+    "wof:id":874036885,
+    "wof:lastmodified":1464311115,
+    "wof:name":"Hurricane Hill Ice Studio/Club",
+    "wof:parent_id":85810161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "rink"
+    ]
+},
+  "bbox": [
+    -72.370052,
+    43.655067,
+    -72.370052,
+    43.655067
+],
+  "geometry": {"coordinates":[-72.370052,43.655067],"type":"Point"}
+}

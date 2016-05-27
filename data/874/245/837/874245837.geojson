@@ -1,0 +1,71 @@
+{
+  "id": 874245837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.09241,44.669349,-73.09241,44.669349",
+    "geom:latitude":44.669349,
+    "geom:longitude":-73.09241,
+    "iso:country":"US",
+    "sg:address":"64 Hidden Meadow",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 4585",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816349,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27l3q10LEETxSdji9hGoYd_44.669349_-73.092410@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313450,
+    "wof:geomhash":"e4d282d19c9e164c6ad2a729505e5037",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85816349,
+            "region_id":85688763,
+            "venue_id":874245837
+        }
+    ],
+    "wof:id":874245837,
+    "wof:lastmodified":1464313450,
+    "wof:name":"Tougas Electric",
+    "wof:parent_id":85816349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.09241,
+    44.669349,
+    -73.09241,
+    44.669349
+],
+  "geometry": {"coordinates":[-73.09241,44.669349],"type":"Point"}
+}

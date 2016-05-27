@@ -1,0 +1,74 @@
+{
+  "id": 874173633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.537989,44.222375,-72.537989,44.222375",
+    "geom:latitude":44.222375,
+    "geom:longitude":-72.537989,
+    "iso:country":"US",
+    "sg:address":"233 Van Patten Pkwy",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 7228",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "engineer"
+    ],
+    "sg:website":"www.cameng.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YGObH2K10bF40DoX0cKNT_44.222375_-72.537989@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312564,
+    "wof:geomhash":"b1c8acd5075cf8366230e768c703caa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874173633
+        }
+    ],
+    "wof:id":874173633,
+    "wof:lastmodified":1464312564,
+    "wof:name":"Cambridge Engineering Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -72.537989,
+    44.222375,
+    -72.537989,
+    44.222375
+],
+  "geometry": {"coordinates":[-72.537989,44.222375],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874142719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.611408,44.593086,-72.611408,44.593086",
+    "geom:latitude":44.593086,
+    "geom:longitude":-72.611408,
+    "iso:country":"US",
+    "sg:address":"167 E Main St",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 4966",
+    "sg:postcode":"05655",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JJD7uLVcKb0SQPd17oHJE_44.593086_-72.611408@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312259,
+    "wof:geomhash":"4a5970f625dfcb69a42189815986f3eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874142719
+        }
+    ],
+    "wof:id":874142719,
+    "wof:lastmodified":1464312259,
+    "wof:name":"Fred's Import Specialists Inc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.611408,
+    44.593086,
+    -72.611408,
+    44.593086
+],
+  "geometry": {"coordinates":[-72.611408,44.593086],"type":"Point"}
+}

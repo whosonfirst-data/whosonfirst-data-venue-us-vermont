@@ -1,0 +1,71 @@
+{
+  "id": 874197335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.761942,44.705147,-72.761942,44.705147",
+    "geom:latitude":44.705147,
+    "geom:longitude":-72.761942,
+    "iso:country":"US",
+    "sg:address":"1586 State Rte 109",
+    "sg:city":"Waterville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5063",
+    "sg:postcode":"05492",
+    "sg:province":"VT",
+    "sg:tags":[
+        "saw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iFsDe3D3jOdFdHiIcrQSY_44.705147_-72.761942@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312819,
+    "wof:geomhash":"e2c9f841c68958d4a363d9cc77e89f24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874197335
+        }
+    ],
+    "wof:id":874197335,
+    "wof:lastmodified":1464312819,
+    "wof:name":"Marks Small Engine Repair Shop",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saw"
+    ]
+},
+  "bbox": [
+    -72.761942,
+    44.705147,
+    -72.761942,
+    44.705147
+],
+  "geometry": {"coordinates":[-72.761942,44.705147],"type":"Point"}
+}

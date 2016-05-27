@@ -1,0 +1,71 @@
+{
+  "id": 874070443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.728454,44.925591,-72.728454,44.925591",
+    "geom:latitude":44.925591,
+    "geom:longitude":-72.728454,
+    "iso:country":"US",
+    "sg:address":"3407 Sampsonville Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 7775",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leather",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69PKlZTHLwtNZQDASSa0z3_44.925591_-72.728454@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311436,
+    "wof:geomhash":"c81c0a5e7fc08167f99382dbaf6d95cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874070443
+        }
+    ],
+    "wof:id":874070443,
+    "wof:lastmodified":1464311436,
+    "wof:name":"Leather Medic",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather",
+        "good"
+    ]
+},
+  "bbox": [
+    -72.728454,
+    44.925591,
+    -72.728454,
+    44.925591
+],
+  "geometry": {"coordinates":[-72.728454,44.925591],"type":"Point"}
+}

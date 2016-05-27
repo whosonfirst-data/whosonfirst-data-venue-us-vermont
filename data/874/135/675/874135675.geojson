@@ -1,0 +1,73 @@
+{
+  "id": 874135675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.94151,44.422517,-71.94151,44.422517",
+    "geom:latitude":44.422517,
+    "geom:longitude":-71.94151,
+    "iso:country":"US",
+    "sg:address":"67 Twp Hwy 7",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 5193",
+    "sg:postcode":"05824",
+    "sg:province":"VT",
+    "sg:tags":[
+        "administrator",
+        "state",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oaA53VWIetDs7Q4KnzEMm_44.422517_-71.941510@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312197,
+    "wof:geomhash":"dcebecbe8a63aa336bbcc6b2a6ba5adc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874135675
+        }
+    ],
+    "wof:id":874135675,
+    "wof:lastmodified":1464312197,
+    "wof:name":"St Johnsbury District Office",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrator",
+        "state",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.94151,
+    44.422517,
+    -71.94151,
+    44.422517
+],
+  "geometry": {"coordinates":[-71.94150999999999,44.422517],"type":"Point"}
+}

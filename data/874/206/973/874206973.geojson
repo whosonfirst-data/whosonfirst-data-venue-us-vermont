@@ -1,0 +1,71 @@
+{
+  "id": 874206973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.141328,44.707658,-73.141328,44.707658",
+    "geom:latitude":44.707658,
+    "geom:longitude":-73.141328,
+    "iso:country":"US",
+    "sg:address":"508 Sodom Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 0960",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "specialty",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cBztV8n2hCqxIlUYbbM6k_44.707658_-73.141328@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312920,
+    "wof:geomhash":"8e71825982624850d11b08188109bac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874206973
+        }
+    ],
+    "wof:id":874206973,
+    "wof:lastmodified":1464312920,
+    "wof:name":"Sign Studio",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.141328,
+    44.707658,
+    -73.141328,
+    44.707658
+],
+  "geometry": {"coordinates":[-73.141328,44.707658],"type":"Point"}
+}

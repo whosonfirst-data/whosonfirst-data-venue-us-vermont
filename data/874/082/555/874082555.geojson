@@ -1,0 +1,75 @@
+{
+  "id": 874082555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.492861,44.178896,-72.492861,44.178896",
+    "geom:latitude":44.178896,
+    "geom:longitude":-72.492861,
+    "iso:country":"US",
+    "sg:address":"14 Fisher Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0440",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ui4ENJTOcO7iKokLGrZif_44.178896_-72.492861@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311584,
+    "wof:geomhash":"558af54a97ed864065180a6663ecaed2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874082555
+        }
+    ],
+    "wof:id":874082555,
+    "wof:lastmodified":1464311584,
+    "wof:name":"Crawford's Auto Repair",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.492861,
+    44.178896,
+    -72.492861,
+    44.178896
+],
+  "geometry": {"coordinates":[-72.492861,44.178896],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874227473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.663919,43.034343,-72.663919,43.034343",
+    "geom:latitude":43.034343,
+    "geom:longitude":-72.663919,
+    "iso:country":"US",
+    "sg:address":"1154 State Rte 30",
+    "sg:city":"Townshend",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 4354",
+    "sg:postcode":"05353",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L7vQYaGOmnWptfcs6uce1_43.034343_-72.663919@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313135,
+    "wof:geomhash":"5ebd39a8b37eecd60a293e226dcaf588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874227473
+        }
+    ],
+    "wof:id":874227473,
+    "wof:lastmodified":1464313135,
+    "wof:name":"Timothy Shafer MD",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.663919,
+    43.034343,
+    -72.663919,
+    43.034343
+],
+  "geometry": {"coordinates":[-72.66391900000001,43.034343],"type":"Point"}
+}

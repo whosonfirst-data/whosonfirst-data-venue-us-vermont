@@ -1,0 +1,71 @@
+{
+  "id": 874245473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.498565,44.186006,-72.498565,44.186006",
+    "geom:latitude":44.186006,
+    "geom:longitude":-72.498565,
+    "iso:country":"US",
+    "sg:address":"182 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 0928",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P81s7a8dnGxp70L9myfJb_44.186006_-72.498565@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313443,
+    "wof:geomhash":"4d488437ec4effb193448dabb9a88075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874245473
+        }
+    ],
+    "wof:id":874245473,
+    "wof:lastmodified":1464313443,
+    "wof:name":"Happy Faces Child Care Center",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -72.498565,
+    44.186006,
+    -72.498565,
+    44.186006
+],
+  "geometry": {"coordinates":[-72.498565,44.186006],"type":"Point"}
+}

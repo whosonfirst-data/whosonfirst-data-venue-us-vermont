@@ -1,0 +1,71 @@
+{
+  "id": 874097087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167119,44.016766,-73.167119,44.016766",
+    "geom:latitude":44.016766,
+    "geom:longitude":-73.167119,
+    "iso:country":"US",
+    "sg:address":"56 N Pleasant St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3632",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_419YLEWxsDO2mzrBP3uWE5_44.016766_-73.167119@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311745,
+    "wof:geomhash":"9a7efbfbebf71fa962ce1ddd8a0a0d1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874097087
+        }
+    ],
+    "wof:id":874097087,
+    "wof:lastmodified":1464311745,
+    "wof:name":"Middlebury Friends Meeting",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.167119,
+    44.016766,
+    -73.167119,
+    44.016766
+],
+  "geometry": {"coordinates":[-73.167119,44.016766],"type":"Point"}
+}

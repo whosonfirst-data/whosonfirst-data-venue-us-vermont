@@ -1,0 +1,71 @@
+{
+  "id": 874083727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.502014,44.197735,-72.502014,44.197735",
+    "geom:latitude":44.197735,
+    "geom:longitude":-72.502014,
+    "iso:country":"US",
+    "sg:address":"104 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2670",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23V7oEdz6aRJDHXLEtAn6B_44.197735_-72.502014@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311596,
+    "wof:geomhash":"6b565e01ff9d9e41aee8a0eb142577fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874083727
+        }
+    ],
+    "wof:id":874083727,
+    "wof:lastmodified":1464311596,
+    "wof:name":"Male-Centered Counseling Svc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -72.502014,
+    44.197735,
+    -72.502014,
+    44.197735
+],
+  "geometry": {"coordinates":[-72.502014,44.197735],"type":"Point"}
+}

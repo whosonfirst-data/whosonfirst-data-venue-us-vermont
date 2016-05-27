@@ -1,0 +1,71 @@
+{
+  "id": 874241715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.080009,44.13338,-73.080009,44.13338",
+    "geom:latitude":44.13338,
+    "geom:longitude":-73.080009,
+    "iso:country":"US",
+    "sg:address":"23 West St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2236",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b1XqpZTZHEt4ohXEbGIvq_44.133380_-73.080009@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313372,
+    "wof:geomhash":"22a6050f93a5563e334671b306ba9dd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874241715
+        }
+    ],
+    "wof:id":874241715,
+    "wof:lastmodified":1464313372,
+    "wof:name":"Bristol Cach Hse Bed Breakfast",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -73.080009,
+    44.13338,
+    -73.080009,
+    44.13338
+],
+  "geometry": {"coordinates":[-73.080009,44.13338],"type":"Point"}
+}

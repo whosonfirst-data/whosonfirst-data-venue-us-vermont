@@ -1,0 +1,70 @@
+{
+  "id": 874078829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.251748,44.168822,-73.251748,44.168822",
+    "geom:latitude":44.168822,
+    "geom:longitude":-73.251748,
+    "iso:country":"US",
+    "sg:address":"6 Park St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3322",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.saintpaulsvergennes.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JhtTUegk2pt1MtWtla8Y6_44.168822_-73.251748@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311541,
+    "wof:geomhash":"1169f84322eb4fb5deafafdffc4b0b2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874078829
+        }
+    ],
+    "wof:id":874078829,
+    "wof:lastmodified":1464311541,
+    "wof:name":"St Paul's Episcopal Church",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.251748,
+    44.168822,
+    -73.251748,
+    44.168822
+],
+  "geometry": {"coordinates":[-73.25174800000001,44.168822],"type":"Point"}
+}

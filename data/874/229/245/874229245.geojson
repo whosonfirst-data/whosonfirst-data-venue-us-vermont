@@ -1,0 +1,73 @@
+{
+  "id": 874229245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.20764,44.46335,-73.20764,44.46335",
+    "geom:latitude":44.46335,
+    "geom:longitude":-73.20764,
+    "iso:country":"US",
+    "sg:address":"103 Shelburne Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 2260",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oR7mYmQGzzgalvSeLjyVV_44.463350_-73.207640@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313153,
+    "wof:geomhash":"e975a3e2ac3c53a727226da0845cc9d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874229245
+        }
+    ],
+    "wof:id":874229245,
+    "wof:lastmodified":1464313153,
+    "wof:name":"Rotary Mart",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -73.20764,
+    44.46335,
+    -73.20764,
+    44.46335
+],
+  "geometry": {"coordinates":[-73.20764,44.46335],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874128723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.216161,44.475881,-73.216161,44.475881",
+    "geom:latitude":44.475881,
+    "geom:longitude":-73.216161,
+    "iso:country":"US",
+    "sg:address":"74 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 7266",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tQQlGniR2KCzf3O4kC1g2_44.475881_-73.216161@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312117,
+    "wof:geomhash":"5b4847fd953ecab60652567dcf980039",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874128723
+        }
+    ],
+    "wof:id":874128723,
+    "wof:lastmodified":1464312117,
+    "wof:name":"William E Drislane",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -73.216161,
+    44.475881,
+    -73.216161,
+    44.475881
+],
+  "geometry": {"coordinates":[-73.216161,44.475881],"type":"Point"}
+}

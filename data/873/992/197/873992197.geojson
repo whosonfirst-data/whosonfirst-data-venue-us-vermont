@@ -1,0 +1,76 @@
+{
+  "id": 873992197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.157183,44.007436,-73.157183,44.007436",
+    "geom:latitude":44.007436,
+    "geom:longitude":-73.157183,
+    "iso:country":"US",
+    "sg:address":"70 Monroe St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 1622",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ],
+    "sg:website":"www.monroestreetbooks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00O5SIKO05nr3TaUnBty2k_44.007436_-73.157183@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310707,
+    "wof:geomhash":"2db30a6e52b07fc2ec0a80f071b467c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":873992197
+        }
+    ],
+    "wof:id":873992197,
+    "wof:lastmodified":1464310707,
+    "wof:name":"Monroe Street Books",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.157183,
+    44.007436,
+    -73.157183,
+    44.007436
+],
+  "geometry": {"coordinates":[-73.157183,44.007436],"type":"Point"}
+}

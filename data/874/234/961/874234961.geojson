@@ -1,0 +1,69 @@
+{
+  "id": 874234961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111047,44.490518,-73.111047,44.490518",
+    "geom:latitude":44.490518,
+    "geom:longitude":-73.111047,
+    "iso:country":"US",
+    "sg:address":"9 Main St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 9300",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "quilting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52DMt69PcdWS9aRpy0s2KL_44.490518_-73.111047@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313239,
+    "wof:geomhash":"622e9779d50596753ffba63fb7a7dfc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874234961
+        }
+    ],
+    "wof:id":874234961,
+    "wof:lastmodified":1464313239,
+    "wof:name":"Yankee Pride",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilting"
+    ]
+},
+  "bbox": [
+    -73.111047,
+    44.490518,
+    -73.111047,
+    44.490518
+],
+  "geometry": {"coordinates":[-73.111047,44.490518],"type":"Point"}
+}

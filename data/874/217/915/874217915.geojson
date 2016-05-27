@@ -1,0 +1,66 @@
+{
+  "id": 874217915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.115937,44.127774,-73.115937,44.127774",
+    "geom:latitude":44.127774,
+    "geom:longitude":-73.115937,
+    "iso:country":"US",
+    "sg:address":"3305 Main St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5022",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j5UcYqllwOx9ZKW70YzFV_44.127774_-73.115937@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313031,
+    "wof:geomhash":"33d5b7ac7f2062d7256b2f4e05bbd81f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874217915
+        }
+    ],
+    "wof:id":874217915,
+    "wof:lastmodified":1464313031,
+    "wof:name":"Rally Sport Northeast",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.115937,
+    44.127774,
+    -73.115937,
+    44.127774
+],
+  "geometry": {"coordinates":[-73.115937,44.127774],"type":"Point"}
+}

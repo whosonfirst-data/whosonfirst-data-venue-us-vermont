@@ -1,0 +1,71 @@
+{
+  "id": 874189669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.880812,44.645254,-72.880812,44.645254",
+    "geom:latitude":44.645254,
+    "geom:longitude":-72.880812,
+    "iso:country":"US",
+    "sg:address":"272 N Main St",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5135",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A5CvTyH2nKkviPbQcLkw9_44.645254_-72.880812@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312736,
+    "wof:geomhash":"0dee49e9ddefa40ed5ea391df00c4d41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874189669
+        }
+    ],
+    "wof:id":874189669,
+    "wof:lastmodified":1464312736,
+    "wof:name":"Cambridge Regional Health Ctr",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.880812,
+    44.645254,
+    -72.880812,
+    44.645254
+],
+  "geometry": {"coordinates":[-72.88081200000001,44.645254],"type":"Point"}
+}

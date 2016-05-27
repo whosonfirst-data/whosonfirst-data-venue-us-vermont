@@ -1,0 +1,71 @@
+{
+  "id": 874106083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.023083,44.459098,-72.023083,44.459098",
+    "geom:latitude":44.459098,
+    "geom:longitude":-72.023083,
+    "iso:country":"US",
+    "sg:address":"402 Lapierre Dr",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 4314",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JTuGDWHd29NI7xO1krC1x_44.459098_-72.023083@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311869,
+    "wof:geomhash":"0cea9c0b56a98178d29585c49e3687b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874106083
+        }
+    ],
+    "wof:id":874106083,
+    "wof:lastmodified":1464311869,
+    "wof:name":"Mike Lemieux Trucking Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.023083,
+    44.459098,
+    -72.023083,
+    44.459098
+],
+  "geometry": {"coordinates":[-72.023083,44.459098],"type":"Point"}
+}

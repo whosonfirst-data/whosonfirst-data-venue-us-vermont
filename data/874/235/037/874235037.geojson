@@ -1,0 +1,71 @@
+{
+  "id": 874235037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.512139,44.203713,-72.512139,44.203713",
+    "geom:latitude":44.203713,
+    "geom:longitude":-72.512139,
+    "iso:country":"US",
+    "sg:address":"27 Smith St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2776",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xzm4rkxEQpaRLFTHaGanq_44.203713_-72.512139@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313240,
+    "wof:geomhash":"3da6102d54defb8e01eda71e25425d4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874235037
+        }
+    ],
+    "wof:id":874235037,
+    "wof:lastmodified":1464313240,
+    "wof:name":"Frank's Memorial",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -72.512139,
+    44.203713,
+    -72.512139,
+    44.203713
+],
+  "geometry": {"coordinates":[-72.512139,44.203713],"type":"Point"}
+}

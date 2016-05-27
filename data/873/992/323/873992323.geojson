@@ -1,0 +1,69 @@
+{
+  "id": 873992323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.976248,43.603471,-72.976248,43.603471",
+    "geom:latitude":43.603471,
+    "geom:longitude":-72.976248,
+    "iso:country":"US",
+    "sg:address":"56 Strongs Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 2901",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fgIG4gmMWbhfT1RyRIow6_43.603471_-72.976248@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310707,
+    "wof:geomhash":"776853ecbbd6edf817966fb91f9bc394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":873992323
+        }
+    ],
+    "wof:id":873992323,
+    "wof:lastmodified":1464310707,
+    "wof:name":"Friar's Tavern",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -72.976248,
+    43.603471,
+    -72.976248,
+    43.603471
+],
+  "geometry": {"coordinates":[-72.976248,43.603471],"type":"Point"}
+}

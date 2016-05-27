@@ -1,0 +1,69 @@
+{
+  "id": 874242947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.063622,44.454379,-73.063622,44.454379",
+    "geom:latitude":44.454379,
+    "geom:longitude":-73.063622,
+    "iso:country":"US",
+    "sg:address":"287 Lavallee Ln",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 5706",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nuk3AsPgKI2Ya2lgdhVwD_44.454379_-73.063622@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313393,
+    "wof:geomhash":"e443a34151523862ce4bc0e7a62888f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874242947
+        }
+    ],
+    "wof:id":874242947,
+    "wof:lastmodified":1464313393,
+    "wof:name":"Noe Provencher Upholstery",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -73.063622,
+    44.454379,
+    -73.063622,
+    44.454379
+],
+  "geometry": {"coordinates":[-73.063622,44.454379],"type":"Point"}
+}

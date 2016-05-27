@@ -1,0 +1,73 @@
+{
+  "id": 874113861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.129861,44.40365,-72.129861,44.40365",
+    "geom:latitude":44.40365,
+    "geom:longitude":-72.129861,
+    "iso:country":"US",
+    "sg:address":"760 Brainerd St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 3354",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jKET9MFFTbVLK3RVKEL0k_44.403650_-72.129861@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311975,
+    "wof:geomhash":"1257c70932e5d562b2c6f7b7c99d4c96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874113861
+        }
+    ],
+    "wof:id":874113861,
+    "wof:lastmodified":1464311975,
+    "wof:name":"Sherryland Farm",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -72.129861,
+    44.40365,
+    -72.129861,
+    44.40365
+],
+  "geometry": {"coordinates":[-72.12986100000001,44.40365],"type":"Point"}
+}

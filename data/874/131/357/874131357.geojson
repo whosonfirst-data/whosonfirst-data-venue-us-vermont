@@ -1,0 +1,69 @@
+{
+  "id": 874131357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.091196,44.580711,-73.091196,44.580711",
+    "geom:latitude":44.580711,
+    "geom:longitude":-73.091196,
+    "iso:country":"US",
+    "sg:address":"159 Rollin Irish Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 1479",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "ironwork"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GElGCQ6RhDo2QUQNdlpzo_44.580711_-73.091196@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312154,
+    "wof:geomhash":"4312af11555ae0b972f13d2860eb3556",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874131357
+        }
+    ],
+    "wof:id":874131357,
+    "wof:lastmodified":1464312154,
+    "wof:name":"Northern Ironworks",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ironwork"
+    ]
+},
+  "bbox": [
+    -73.091196,
+    44.580711,
+    -73.091196,
+    44.580711
+],
+  "geometry": {"coordinates":[-73.091196,44.580711],"type":"Point"}
+}

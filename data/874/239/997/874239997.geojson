@@ -1,0 +1,71 @@
+{
+  "id": 874239997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.058967,44.370869,-73.058967,44.370869",
+    "geom:latitude":44.370869,
+    "geom:longitude":-73.058967,
+    "iso:country":"US",
+    "sg:address":"435 Swamp Rd",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 3868",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844363,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NMv4BKuqGErvOOmzVn67K_44.370869_-73.058967@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313339,
+    "wof:geomhash":"cbe224e5088646667d122cf109e2fce3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85844363,
+            "region_id":85688763,
+            "venue_id":874239997
+        }
+    ],
+    "wof:id":874239997,
+    "wof:lastmodified":1464313339,
+    "wof:name":"John Eastman Electrical Svc",
+    "wof:parent_id":85844363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.058967,
+    44.370869,
+    -73.058967,
+    44.370869
+],
+  "geometry": {"coordinates":[-73.058967,44.370869],"type":"Point"}
+}

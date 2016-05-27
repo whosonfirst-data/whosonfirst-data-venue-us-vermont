@@ -1,0 +1,71 @@
+{
+  "id": 874253993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.202104,44.534741,-73.202104,44.534741",
+    "geom:latitude":44.534741,
+    "geom:longitude":-73.202104,
+    "iso:country":"US",
+    "sg:address":"42 Everbreeze Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 654 9277",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "agency",
+        "services-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CneWiSPSTzKMdwAKWqnuZ_44.534741_-73.202104@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313645,
+    "wof:geomhash":"459dd354ccd4721a677a26197fd7bf52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874253993
+        }
+    ],
+    "wof:id":874253993,
+    "wof:lastmodified":1464313645,
+    "wof:name":"Tropical Winds Travel",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "services-commercial"
+    ]
+},
+  "bbox": [
+    -73.202104,
+    44.534741,
+    -73.202104,
+    44.534741
+],
+  "geometry": {"coordinates":[-73.20210400000001,44.534741],"type":"Point"}
+}

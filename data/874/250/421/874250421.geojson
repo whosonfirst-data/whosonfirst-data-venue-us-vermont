@@ -1,0 +1,76 @@
+{
+  "id": 874250421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.207839,44.454921,-73.207839,44.454921",
+    "geom:latitude":44.454921,
+    "geom:longitude":-73.207839,
+    "iso:country":"US",
+    "sg:address":"370 Shelburne Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/south-burlington/126862-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 652 9828",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32fqnX8dqsszKu9ZdFinvT_44.454921_-73.207839@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313575,
+    "wof:geomhash":"d058f7278220998e82172bc90018b44b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874250421
+        }
+    ],
+    "wof:id":874250421,
+    "wof:lastmodified":1464313575,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -73.207839,
+    44.454921,
+    -73.207839,
+    44.454921
+],
+  "geometry": {"coordinates":[-73.20783900000001,44.454921],"type":"Point"}
+}

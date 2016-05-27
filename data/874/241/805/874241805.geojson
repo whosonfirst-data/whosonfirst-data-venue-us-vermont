@@ -1,0 +1,69 @@
+{
+  "id": 874241805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.016448,44.415302,-72.016448,44.415302",
+    "geom:latitude":44.415302,
+    "geom:longitude":-72.016448,
+    "iso:country":"US",
+    "sg:address":"121 Railroad St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 751 8503",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19kCmT0GW4MtN8P3hi8Mju_44.415302_-72.016448@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313374,
+    "wof:geomhash":"97cdceacf64d7b1ccdc75a6e260c816e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874241805
+        }
+    ],
+    "wof:id":874241805,
+    "wof:lastmodified":1464313374,
+    "wof:name":"One Nail Care",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -72.016448,
+    44.415302,
+    -72.016448,
+    44.415302
+],
+  "geometry": {"coordinates":[-72.016448,44.415302],"type":"Point"}
+}

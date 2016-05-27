@@ -1,0 +1,69 @@
+{
+  "id": 874234739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.93347,44.547277,-72.93347,44.547277",
+    "geom:latitude":44.547277,
+    "geom:longitude":-72.93347,
+    "iso:country":"US",
+    "sg:address":"97 Upper English Settlement Rd",
+    "sg:city":"Underhill",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 1281",
+    "sg:postcode":"05489",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tO3bH9b5YEihS0KEe1Ly0_44.547277_-72.933470@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313234,
+    "wof:geomhash":"2a39336ccb901d1e2191990bc5154813",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874234739
+        }
+    ],
+    "wof:id":874234739,
+    "wof:lastmodified":1464313234,
+    "wof:name":"Simply Art",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.93347,
+    44.547277,
+    -72.93347,
+    44.547277
+],
+  "geometry": {"coordinates":[-72.93347,44.547277],"type":"Point"}
+}

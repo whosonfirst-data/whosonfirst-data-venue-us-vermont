@@ -1,0 +1,73 @@
+{
+  "id": 874202117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.952099,44.5203,-72.952099,44.5203",
+    "geom:latitude":44.5203,
+    "geom:longitude":-72.952099,
+    "iso:country":"US",
+    "sg:address":"15 Brookside Dr",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 5154",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72GhnMDdttJZcJB8mbsqxy_44.520300_-72.952099@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312865,
+    "wof:geomhash":"e5db216a0d65810580ea3d39022b04eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874202117
+        }
+    ],
+    "wof:id":874202117,
+    "wof:lastmodified":1464312865,
+    "wof:name":"Extra Mile Bldg & Remodeling",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.952099,
+    44.5203,
+    -72.952099,
+    44.5203
+],
+  "geometry": {"coordinates":[-72.952099,44.5203],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874084485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.165854,44.011406,-73.165854,44.011406",
+    "geom:latitude":44.011406,
+    "geom:longitude":-73.165854,
+    "iso:country":"US",
+    "sg:address":"150 S Pleasant St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4381",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eA5Dtz0z3B5OEnnklcB8s_44.011406_-73.165854@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311603,
+    "wof:geomhash":"84e5cad62e287fd40fc3d9004a0a72fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874084485
+        }
+    ],
+    "wof:id":874084485,
+    "wof:lastmodified":1464311603,
+    "wof:name":"Coles Flowers & Frames",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -73.165854,
+    44.011406,
+    -73.165854,
+    44.011406
+],
+  "geometry": {"coordinates":[-73.165854,44.011406],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874233061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.444904,44.217318,-72.444904,44.217318",
+    "geom:latitude":44.217318,
+    "geom:longitude":-72.444904,
+    "iso:country":"US",
+    "sg:address":"7 Curtis Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 5731",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A16y3YHVsNcmkBphrFpgl_44.217318_-72.444904@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313200,
+    "wof:geomhash":"9ebf2a49d48b104537c7a9ba1a0e48cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874233061
+        }
+    ],
+    "wof:id":874233061,
+    "wof:lastmodified":1464313200,
+    "wof:name":"Countryside Property Main",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.444904,
+    44.217318,
+    -72.444904,
+    44.217318
+],
+  "geometry": {"coordinates":[-72.44490399999999,44.217318],"type":"Point"}
+}

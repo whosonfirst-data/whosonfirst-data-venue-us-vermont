@@ -1,0 +1,71 @@
+{
+  "id": 874161775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.679612,44.173271,-72.679612,44.173271",
+    "geom:latitude":44.173271,
+    "geom:longitude":-72.679612,
+    "iso:country":"US",
+    "sg:address":"819 Aseltine Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 5601",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ANN0o0v2hO60BtZbRp4w6_44.173271_-72.679612@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312449,
+    "wof:geomhash":"75b3ee9922d8669450334f6580f42fb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874161775
+        }
+    ],
+    "wof:id":874161775,
+    "wof:lastmodified":1464312449,
+    "wof:name":"Texaco",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.679612,
+    44.173271,
+    -72.679612,
+    44.173271
+],
+  "geometry": {"coordinates":[-72.67961200000001,44.173271],"type":"Point"}
+}

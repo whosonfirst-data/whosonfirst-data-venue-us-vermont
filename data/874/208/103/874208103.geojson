@@ -1,0 +1,71 @@
+{
+  "id": 874208103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.111035,44.498183,-72.111035,44.498183",
+    "geom:latitude":44.498183,
+    "geom:longitude":-72.111035,
+    "iso:country":"US",
+    "sg:address":"737 Wheelock Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 1532",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ddkXZESeL16bpa170NS8T_44.498183_-72.111035@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312930,
+    "wof:geomhash":"fd34f84640dea29b737374d9b20ddbc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874208103
+        }
+    ],
+    "wof:id":874208103,
+    "wof:lastmodified":1464312930,
+    "wof:name":"Richard J Riendeau",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.111035,
+    44.498183,
+    -72.111035,
+    44.498183
+],
+  "geometry": {"coordinates":[-72.111035,44.498183],"type":"Point"}
+}

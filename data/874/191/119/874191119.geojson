@@ -1,0 +1,77 @@
+{
+  "id": 874191119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501276,44.195436,-72.501276,44.195436",
+    "geom:latitude":44.195436,
+    "geom:longitude":-72.501276,
+    "iso:country":"US",
+    "sg:address":"25 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 8481",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor",
+        "industrial",
+        "commercial",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EFamaOXHRAyi6CxMVNSe6_44.195436_-72.501276@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312750,
+    "wof:geomhash":"e05f37fed200a6bccc613a1dfa57e907",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874191119
+        }
+    ],
+    "wof:id":874191119,
+    "wof:lastmodified":1464312750,
+    "wof:name":"Groleau Construction Company",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "industrial",
+        "commercial",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.501276,
+    44.195436,
+    -72.501276,
+    44.195436
+],
+  "geometry": {"coordinates":[-72.501276,44.195436],"type":"Point"}
+}

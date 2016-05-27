@@ -1,0 +1,66 @@
+{
+  "id": 874219071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.166029,44.465814,-73.166029,44.465814",
+    "geom:latitude":44.465814,
+    "geom:longitude":-73.166029,
+    "iso:country":"US",
+    "sg:address":"1333 Williston Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 1253",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OnkKnrJizYWLHZCqFkw4i_44.465814_-73.166029@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313045,
+    "wof:geomhash":"917fd0d8dcf1b6a1b9b7bfd9a570276e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874219071
+        }
+    ],
+    "wof:id":874219071,
+    "wof:lastmodified":1464313045,
+    "wof:name":"Graceys Store & Deli",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.166029,
+    44.465814,
+    -73.166029,
+    44.465814
+],
+  "geometry": {"coordinates":[-73.16602899999999,44.465814],"type":"Point"}
+}

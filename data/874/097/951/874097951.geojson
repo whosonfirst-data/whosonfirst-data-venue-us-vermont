@@ -1,0 +1,71 @@
+{
+  "id": 874097951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180543,44.514564,-73.180543,44.514564",
+    "geom:latitude":44.514564,
+    "geom:longitude":-73.180543,
+    "iso:country":"US",
+    "sg:address":"48 Rathe Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 0651",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vyvE5R3oQHRV2nv9LES8a_44.514564_-73.180543@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311756,
+    "wof:geomhash":"a09c22f9ed64c13648841883e43872cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874097951
+        }
+    ],
+    "wof:id":874097951,
+    "wof:lastmodified":1464311756,
+    "wof:name":"Rathe's Salvage",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -73.180543,
+    44.514564,
+    -73.180543,
+    44.514564
+],
+  "geometry": {"coordinates":[-73.180543,44.514564],"type":"Point"}
+}

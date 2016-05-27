@@ -1,0 +1,73 @@
+{
+  "id": 874156547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.486297,44.17272,-72.486297,44.17272",
+    "geom:latitude":44.17272,
+    "geom:longitude":-72.486297,
+    "iso:country":"US",
+    "sg:address":"29 Pitman Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1021",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "railroad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WBrvCA7ScmMBRmQ5F7bWo_44.172720_-72.486297@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312394,
+    "wof:geomhash":"07dea9c4fefaf6b3cc8d83d278a562d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874156547
+        }
+    ],
+    "wof:id":874156547,
+    "wof:lastmodified":1464312394,
+    "wof:name":"Bombardier Transit Corp",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "railroad"
+    ]
+},
+  "bbox": [
+    -72.486297,
+    44.17272,
+    -72.486297,
+    44.17272
+],
+  "geometry": {"coordinates":[-72.48629699999999,44.17272],"type":"Point"}
+}

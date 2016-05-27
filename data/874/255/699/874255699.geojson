@@ -1,0 +1,74 @@
+{
+  "id": 874255699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.99256,43.605603,-72.99256,43.605603",
+    "geom:latitude":43.605603,
+    "geom:longitude":-72.99256,
+    "iso:country":"US",
+    "sg:address":"325 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4383",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lumber-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FKwLUqMoiOt6UvAR8bSCF_43.605603_-72.992560@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313690,
+    "wof:geomhash":"cf267c7062074f0e76f881f008fc1812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255699
+        }
+    ],
+    "wof:id":874255699,
+    "wof:lastmodified":1464313690,
+    "wof:name":"Rotella Kit & Bath Design Ctr",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber-wholesale"
+    ]
+},
+  "bbox": [
+    -72.99256,
+    43.605603,
+    -72.99256,
+    43.605603
+],
+  "geometry": {"coordinates":[-72.99256,43.605603],"type":"Point"}
+}

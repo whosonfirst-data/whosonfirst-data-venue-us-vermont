@@ -1,0 +1,71 @@
+{
+  "id": 874246979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.968327,44.508863,-72.968327,44.508863",
+    "geom:latitude":44.508863,
+    "geom:longitude":-72.968327,
+    "iso:country":"US",
+    "sg:address":"3 S Main St",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 2886",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vhby72FD04x1h1Rtkmx72_44.508863_-72.968327@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313470,
+    "wof:geomhash":"d83eb39a02339efa286fe53c4e8d1c96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874246979
+        }
+    ],
+    "wof:id":874246979,
+    "wof:lastmodified":1464313470,
+    "wof:name":"Autosmith",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.968327,
+    44.508863,
+    -72.968327,
+    44.508863
+],
+  "geometry": {"coordinates":[-72.968327,44.508863],"type":"Point"}
+}

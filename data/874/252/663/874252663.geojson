@@ -1,0 +1,80 @@
+{
+  "id": 874252663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21109,44.477131,-73.21109,44.477131",
+    "geom:latitude":44.477131,
+    "geom:longitude":-73.21109,
+    "iso:country":"US",
+    "sg:address":"235 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3403",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q4ZY8SCrLdBOCDckLRHDt_44.477131_-73.211090@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313618,
+    "wof:geomhash":"5707bdc6f8459b23f774051051ae2b06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874252663
+        }
+    ],
+    "wof:id":874252663,
+    "wof:lastmodified":1464313618,
+    "wof:name":"City of Burlington Library Fletcher Free",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -73.21109,
+    44.477131,
+    -73.21109,
+    44.477131
+],
+  "geometry": {"coordinates":[-73.21109,44.477131],"type":"Point"}
+}

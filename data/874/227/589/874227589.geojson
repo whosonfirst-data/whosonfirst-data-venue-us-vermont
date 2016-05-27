@@ -1,0 +1,69 @@
+{
+  "id": 874227589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213293,44.545029,-73.213293,44.545029",
+    "geom:latitude":44.545029,
+    "geom:longitude":-73.213293,
+    "iso:country":"US",
+    "sg:address":"105 E Lakeshore Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 2472",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ldu77j7tHLCcLFVvKOodb_44.545029_-73.213293@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313136,
+    "wof:geomhash":"d5e13d88ea77153cdc4fab57faaa0b60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874227589
+        }
+    ],
+    "wof:id":874227589,
+    "wof:lastmodified":1464313136,
+    "wof:name":"Malletts Bay Veterinary Hosp",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -73.213293,
+    44.545029,
+    -73.213293,
+    44.545029
+],
+  "geometry": {"coordinates":[-73.21329299999999,44.545029],"type":"Point"}
+}

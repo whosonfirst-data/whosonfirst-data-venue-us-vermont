@@ -1,0 +1,73 @@
+{
+  "id": 874146813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206736,42.945857,-73.206736,42.945857",
+    "geom:latitude":42.945857,
+    "geom:longitude":-73.206736,
+    "iso:country":"US",
+    "sg:address":"69 Buck Hill Rd",
+    "sg:city":"Shaftsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 9838",
+    "sg:postcode":"05262",
+    "sg:province":"VT",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fFgkIYhE0v7bLTi2q0ARO_42.945857_-73.206736@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312300,
+    "wof:geomhash":"01d15e482ea7e7705ed60fb8e53fab25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874146813
+        }
+    ],
+    "wof:id":874146813,
+    "wof:lastmodified":1464312300,
+    "wof:name":"Shaftsbury Highway Dept",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -73.206736,
+    42.945857,
+    -73.206736,
+    42.945857
+],
+  "geometry": {"coordinates":[-73.20673600000001,42.945857],"type":"Point"}
+}

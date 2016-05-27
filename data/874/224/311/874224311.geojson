@@ -1,0 +1,73 @@
+{
+  "id": 874224311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.168114,44.01388,-73.168114,44.01388",
+    "geom:latitude":44.01388,
+    "geom:longitude":-73.168114,
+    "iso:country":"US",
+    "sg:address":"6 Merchants Row",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7547",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apparel",
+        "sport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zUU0vbwnpTiyh54oCJOV0_44.013880_-73.168114@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313105,
+    "wof:geomhash":"95a57c9ce55bac91fa7ab3e26ab6ad2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874224311
+        }
+    ],
+    "wof:id":874224311,
+    "wof:lastmodified":1464313105,
+    "wof:name":"Alpine Shop Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel",
+        "sport"
+    ]
+},
+  "bbox": [
+    -73.168114,
+    44.01388,
+    -73.168114,
+    44.01388
+],
+  "geometry": {"coordinates":[-73.168114,44.01388],"type":"Point"}
+}

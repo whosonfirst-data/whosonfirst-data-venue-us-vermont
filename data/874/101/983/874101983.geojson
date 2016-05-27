@@ -1,0 +1,71 @@
+{
+  "id": 874101983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.981626,43.607603,-72.981626,43.607603",
+    "geom:latitude":43.607603,
+    "geom:longitude":-72.981626,
+    "iso:country":"US",
+    "sg:address":"186 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 786 2244",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I75x8xecDgB51TFkNkt4a_43.607603_-72.981626@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311818,
+    "wof:geomhash":"a6558b25ac6f0a97ddbd003c8d83ab86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874101983
+        }
+    ],
+    "wof:id":874101983,
+    "wof:lastmodified":1464311818,
+    "wof:name":"North East Candle Works",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.981626,
+    43.607603,
+    -72.981626,
+    43.607603
+],
+  "geometry": {"coordinates":[-72.98162600000001,43.607603],"type":"Point"}
+}

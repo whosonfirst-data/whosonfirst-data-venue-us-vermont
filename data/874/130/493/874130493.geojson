@@ -1,0 +1,71 @@
+{
+  "id": 874130493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.157689,43.907343,-72.157689,43.907343",
+    "geom:latitude":43.907343,
+    "geom:longitude":-72.157689,
+    "iso:country":"US",
+    "sg:address":"461 Lake Morey Rd",
+    "sg:city":"Fairlee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 4144",
+    "sg:postcode":"05045",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gelkh4RDWIocTUCswdE8c_43.907343_-72.157689@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312143,
+    "wof:geomhash":"8870bc24cf10b3b482ee7871b9656a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874130493
+        }
+    ],
+    "wof:id":874130493,
+    "wof:lastmodified":1464312143,
+    "wof:name":"Cramer Electric Co Inc",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.157689,
+    43.907343,
+    -72.157689,
+    43.907343
+],
+  "geometry": {"coordinates":[-72.157689,43.907343],"type":"Point"}
+}

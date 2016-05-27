@@ -1,0 +1,73 @@
+{
+  "id": 874040879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.557332,44.232899,-72.557332,44.232899",
+    "geom:latitude":44.232899,
+    "geom:longitude":-72.557332,
+    "iso:country":"US",
+    "sg:address":"46 Bennington Dr",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 4630",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JkiE3c92pzA8m3wPqNP5G_44.232899_-72.557332@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311151,
+    "wof:geomhash":"31e3996144822ea8fe96eb34801bb927",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874040879
+        }
+    ],
+    "wof:id":874040879,
+    "wof:lastmodified":1464311151,
+    "wof:name":"Sweeney Landscaping & Snow",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.557332,
+    44.232899,
+    -72.557332,
+    44.232899
+],
+  "geometry": {"coordinates":[-72.557332,44.232899],"type":"Point"}
+}

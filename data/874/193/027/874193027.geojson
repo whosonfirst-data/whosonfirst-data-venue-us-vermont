@@ -1,0 +1,71 @@
+{
+  "id": 874193027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.502395,44.198029,-72.502395,44.198029",
+    "geom:latitude":44.198029,
+    "geom:longitude":-72.502395,
+    "iso:country":"US",
+    "sg:address":"124 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4031",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62OCvpUv2O0QXhZ6zSKOiy_44.198029_-72.502395@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312770,
+    "wof:geomhash":"3fc75dff4e51aad0d6088b5f0ec590fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874193027
+        }
+    ],
+    "wof:id":874193027,
+    "wof:lastmodified":1464312770,
+    "wof:name":"Diamond Center The",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -72.502395,
+    44.198029,
+    -72.502395,
+    44.198029
+],
+  "geometry": {"coordinates":[-72.50239500000001,44.198029],"type":"Point"}
+}

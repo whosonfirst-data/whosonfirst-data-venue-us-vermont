@@ -1,0 +1,73 @@
+{
+  "id": 874234981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169589,44.012265,-73.169589,44.012265",
+    "geom:latitude":44.012265,
+    "geom:longitude":-73.169589,
+    "iso:country":"US",
+    "sg:address":"94 Main St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4041",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "town",
+        "hall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ED5zsqkbaCuA4Zc1e0iOA_44.012265_-73.169589@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313239,
+    "wof:geomhash":"177794359646808acdee3c2fadcffa4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874234981
+        }
+    ],
+    "wof:id":874234981,
+    "wof:lastmodified":1464313239,
+    "wof:name":"Addison County-Middlebury",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "hall"
+    ]
+},
+  "bbox": [
+    -73.169589,
+    44.012265,
+    -73.169589,
+    44.012265
+],
+  "geometry": {"coordinates":[-73.169589,44.012265],"type":"Point"}
+}

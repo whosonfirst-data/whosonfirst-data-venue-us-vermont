@@ -1,0 +1,69 @@
+{
+  "id": 874109381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.660459,42.983824,-72.660459,42.983824",
+    "geom:latitude":42.983824,
+    "geom:longitude":-72.660459,
+    "iso:country":"US",
+    "sg:address":"5 Loop Rd",
+    "sg:city":"Newfane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 7782",
+    "sg:postcode":"05345",
+    "sg:province":"VT",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EzcYe1dyh38MfLHVv2acC_42.983824_-72.660459@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311907,
+    "wof:geomhash":"4c4011498ef00bf6554eabab0a4af3f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874109381
+        }
+    ],
+    "wof:id":874109381,
+    "wof:lastmodified":1464311907,
+    "wof:name":"Au Coin Paul R",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -72.660459,
+    42.983824,
+    -72.660459,
+    42.983824
+],
+  "geometry": {"coordinates":[-72.660459,42.983824],"type":"Point"}
+}

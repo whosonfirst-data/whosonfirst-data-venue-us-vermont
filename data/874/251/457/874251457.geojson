@@ -1,0 +1,73 @@
+{
+  "id": 874251457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.201962,42.883723,-73.201962,42.883723",
+    "geom:latitude":42.883723,
+    "geom:longitude":-73.201962,
+    "iso:country":"US",
+    "sg:address":"160 Benmont Ave Ste 20",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 3520",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tNsvgtWquu4aqc7oC57EW_42.883723_-73.201962@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313594,
+    "wof:geomhash":"1a8d817a800dbdfbb84f72c093d86be0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251457
+        }
+    ],
+    "wof:id":874251457,
+    "wof:lastmodified":1464313594,
+    "wof:name":"Catamon Associates",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -73.201962,
+    42.883723,
+    -73.201962,
+    42.883723
+],
+  "geometry": {"coordinates":[-73.20196199999999,42.883723],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874241889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.109614,44.454149,-73.109614,44.454149",
+    "geom:latitude":44.454149,
+    "geom:longitude":-73.109614,
+    "iso:country":"US",
+    "sg:address":"28 Day Ln",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 1389",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "opera",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cV6pGoKOjS8TypeZ83OQx_44.454149_-73.109614@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313375,
+    "wof:geomhash":"4c6c01a785399a3c9726299fd956bab3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874241889
+        }
+    ],
+    "wof:id":874241889,
+    "wof:lastmodified":1464313375,
+    "wof:name":"Twin Oaks Associates",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "opera",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.109614,
+    44.454149,
+    -73.109614,
+    44.454149
+],
+  "geometry": {"coordinates":[-73.10961399999999,44.454149],"type":"Point"}
+}

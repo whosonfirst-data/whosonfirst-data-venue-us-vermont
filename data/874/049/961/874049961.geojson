@@ -1,0 +1,71 @@
+{
+  "id": 874049961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.04414,43.166698,-73.04414,43.166698",
+    "geom:latitude":43.166698,
+    "geom:longitude":-73.04414,
+    "iso:country":"US",
+    "sg:address":"73 Boulder Rd",
+    "sg:city":"Manchester Center",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 1772",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844461,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40leabXK0HlD9oLxLWKRGQ_43.166698_-73.044140@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311240,
+    "wof:geomhash":"8ffcae73332104b7b7ea98ba2cc15406",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85844461,
+            "region_id":85688763,
+            "venue_id":874049961
+        }
+    ],
+    "wof:id":874049961,
+    "wof:lastmodified":1464311240,
+    "wof:name":"Lawrence Grant Excavating",
+    "wof:parent_id":85844461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.04414,
+    43.166698,
+    -73.04414,
+    43.166698
+],
+  "geometry": {"coordinates":[-73.04414,43.166698],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874253201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206253,44.477449,-73.206253,44.477449",
+    "geom:latitude":44.477449,
+    "geom:longitude":-73.206253,
+    "iso:country":"US",
+    "sg:address":"337 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 1855",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MfTF9vx5oc2hMh0k5tdVG_44.477449_-73.206253@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313630,
+    "wof:geomhash":"69faf776254bddbbc80a5c50274ecdec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874253201
+        }
+    ],
+    "wof:id":874253201,
+    "wof:lastmodified":1464313630,
+    "wof:name":"Art Shields",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -73.206253,
+    44.477449,
+    -73.206253,
+    44.477449
+],
+  "geometry": {"coordinates":[-73.206253,44.477449],"type":"Point"}
+}

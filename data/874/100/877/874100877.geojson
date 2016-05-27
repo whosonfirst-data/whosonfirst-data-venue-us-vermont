@@ -1,0 +1,73 @@
+{
+  "id": 874100877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.394266,43.610622,-72.394266,43.610622",
+    "geom:latitude":43.610622,
+    "geom:longitude":-72.394266,
+    "iso:country":"US",
+    "sg:address":"220 Clay Hill Rd",
+    "sg:city":"Hartland",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 296 2403",
+    "sg:postcode":"05048",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50Zi7EQjUVSKTAnxeq2aAI_43.610622_-72.394266@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311805,
+    "wof:geomhash":"f9d3a36debe99b6b92f44c8f7013a07c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874100877
+        }
+    ],
+    "wof:id":874100877,
+    "wof:lastmodified":1464311805,
+    "wof:name":"Clay Hill Farms",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.394266,
+    43.610622,
+    -72.394266,
+    43.610622
+],
+  "geometry": {"coordinates":[-72.394266,43.610622],"type":"Point"}
+}

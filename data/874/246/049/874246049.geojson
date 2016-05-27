@@ -1,0 +1,71 @@
+{
+  "id": 874246049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.584464,43.264179,-72.584464,43.264179",
+    "geom:latitude":43.264179,
+    "geom:longitude":-72.584464,
+    "iso:country":"US",
+    "sg:address":"354 Elm St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 2575",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "aircraft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IxrBR9tSlFjSwKTaJ6izv_43.264179_-72.584464@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313455,
+    "wof:geomhash":"daed8782c0301e9fb6940d6378d19d30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874246049
+        }
+    ],
+    "wof:id":874246049,
+    "wof:lastmodified":1464313455,
+    "wof:name":"Teleflex",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.584464,
+    43.264179,
+    -72.584464,
+    43.264179
+],
+  "geometry": {"coordinates":[-72.584464,43.264179],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874242773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.693438,44.635341,-72.693438,44.635341",
+    "geom:latitude":44.635341,
+    "geom:longitude":-72.693438,
+    "iso:country":"US",
+    "sg:address":"42 Wescom Rd",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 2331",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "distribution",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nK1VGnwpdCPwjCfmcITn8_44.635341_-72.693438@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313390,
+    "wof:geomhash":"28ae9374e5cafd9d50e26165184cca30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874242773
+        }
+    ],
+    "wof:id":874242773,
+    "wof:lastmodified":1464313390,
+    "wof:name":"Vermont Electric Cooperative",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution",
+        "power"
+    ]
+},
+  "bbox": [
+    -72.693438,
+    44.635341,
+    -72.693438,
+    44.635341
+],
+  "geometry": {"coordinates":[-72.693438,44.635341],"type":"Point"}
+}

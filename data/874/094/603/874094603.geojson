@@ -1,0 +1,71 @@
+{
+  "id": 874094603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.647369,45.002431,-72.647369,45.002431",
+    "geom:latitude":45.002431,
+    "geom:longitude":-72.647369,
+    "iso:country":"US",
+    "sg:address":"384 Corliss Rd",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 848 3440",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xCJfMER8IRwvop9yFJmTZ_45.002431_-72.647369@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311709,
+    "wof:geomhash":"eb56d0fd2391f993d77d02e3eceaef5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874094603
+        }
+    ],
+    "wof:id":874094603,
+    "wof:lastmodified":1464311709,
+    "wof:name":"Border Town Excavating",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.647369,
+    45.002431,
+    -72.647369,
+    45.002431
+],
+  "geometry": {"coordinates":[-72.647369,45.002431],"type":"Point"}
+}

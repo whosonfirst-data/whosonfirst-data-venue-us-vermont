@@ -1,0 +1,71 @@
+{
+  "id": 874164493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.225058,44.487705,-73.225058,44.487705",
+    "geom:latitude":44.487705,
+    "geom:longitude":-73.225058,
+    "iso:country":"US",
+    "sg:address":"203 North Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 6400",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kfHQfAsQrA2ha6YOVuSyW_44.487705_-73.225058@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312473,
+    "wof:geomhash":"3bf1c607666263e35945b87a99059898",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874164493
+        }
+    ],
+    "wof:id":874164493,
+    "wof:lastmodified":1464312473,
+    "wof:name":"Mansfeld Mnments of Burlington",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -73.225058,
+    44.487705,
+    -73.225058,
+    44.487705
+],
+  "geometry": {"coordinates":[-73.225058,44.487705],"type":"Point"}
+}

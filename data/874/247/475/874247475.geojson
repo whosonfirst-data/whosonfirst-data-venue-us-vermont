@@ -1,0 +1,73 @@
+{
+  "id": 874247475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.592795,44.577058,-72.592795,44.577058",
+    "geom:latitude":44.577058,
+    "geom:longitude":-72.592795,
+    "iso:country":"US",
+    "sg:address":"29 Sunset Dr",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 7317",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "solid",
+        "waste",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h2EhJnareQdilrPnOpbal_44.577058_-72.592795@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313482,
+    "wof:geomhash":"3f78e358bf07876debceb4f16f82540e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874247475
+        }
+    ],
+    "wof:id":874247475,
+    "wof:lastmodified":1464313482,
+    "wof:name":"Lamoille Rgnl Sld Waste Dist",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solid",
+        "waste",
+        "management"
+    ]
+},
+  "bbox": [
+    -72.592795,
+    44.577058,
+    -72.592795,
+    44.577058
+],
+  "geometry": {"coordinates":[-72.592795,44.577058],"type":"Point"}
+}

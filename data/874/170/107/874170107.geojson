@@ -1,0 +1,71 @@
+{
+  "id": 874170107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.0302,43.59438,-73.0302,43.59438",
+    "geom:latitude":43.59438,
+    "geom:longitude":-73.0302,
+    "iso:country":"US",
+    "sg:address":"525 Rutland Rd",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 5068",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kWPPvQsdPaFThbylNRyHk_43.594380_-73.030200@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312527,
+    "wof:geomhash":"ea6d6228f3ec00612b9ea9b5099cb993",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874170107
+        }
+    ],
+    "wof:id":874170107,
+    "wof:lastmodified":1464312527,
+    "wof:name":"Apple Hill Orchard",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -73.0302,
+    43.59438,
+    -73.0302,
+    43.59438
+],
+  "geometry": {"coordinates":[-73.03019999999999,43.59438],"type":"Point"}
+}

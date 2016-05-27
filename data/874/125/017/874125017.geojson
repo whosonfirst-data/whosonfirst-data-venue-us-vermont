@@ -1,0 +1,80 @@
+{
+  "id": 874125017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.35275,44.349606,-72.35275,44.349606",
+    "geom:latitude":44.349606,
+    "geom:longitude":-72.35275,
+    "iso:country":"US",
+    "sg:address":"247 Gilman St",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3369",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "blacksmith",
+        "ironwork",
+        "sculptural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zuMfbkXmYiZWxpsRpskXT_44.349606_-72.352750@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312085,
+    "wof:geomhash":"285764cf00f4c679702f21c7027516f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874125017
+        }
+    ],
+    "wof:id":874125017,
+    "wof:lastmodified":1464312085,
+    "wof:name":"Blackthorne Forge Ltd",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blacksmith",
+        "ironwork",
+        "sculptural"
+    ]
+},
+  "bbox": [
+    -72.35275,
+    44.349606,
+    -72.35275,
+    44.349606
+],
+  "geometry": {"coordinates":[-72.35275,44.349606],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874105043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.504661,43.300644,-72.504661,43.300644",
+    "geom:latitude":43.300644,
+    "geom:longitude":-72.504661,
+    "iso:country":"US",
+    "sg:address":"107 Chester Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 2007",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "center",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XIL885BglohXvve3Z3qAq_43.300644_-72.504661@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311857,
+    "wof:geomhash":"198b3bf9d83c3927bef5ec206c0681f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874105043
+        }
+    ],
+    "wof:id":874105043,
+    "wof:lastmodified":1464311857,
+    "wof:name":"Newton Mary Day Care",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "day"
+    ]
+},
+  "bbox": [
+    -72.504661,
+    43.300644,
+    -72.504661,
+    43.300644
+],
+  "geometry": {"coordinates":[-72.504661,43.300644],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874077227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.852305,43.495191,-72.852305,43.495191",
+    "geom:latitude":43.495191,
+    "geom:longitude":-72.852305,
+    "iso:country":"US",
+    "sg:address":"1232 Russellville Rd",
+    "sg:city":"Cuttingsville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 492 6166",
+    "sg:postcode":"05738",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cU8AUcS7F9PunVfT4VkYl_43.495191_-72.852305@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311521,
+    "wof:geomhash":"864be64827171f8a4ac7da6cc1cffdf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874077227
+        }
+    ],
+    "wof:id":874077227,
+    "wof:lastmodified":1464311521,
+    "wof:name":"T S P Limited",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.852305,
+    43.495191,
+    -72.852305,
+    43.495191
+],
+  "geometry": {"coordinates":[-72.852305,43.495191],"type":"Point"}
+}

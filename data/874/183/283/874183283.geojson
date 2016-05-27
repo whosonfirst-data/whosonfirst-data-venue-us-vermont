@@ -1,0 +1,71 @@
+{
+  "id": 874183283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501329,44.174077,-72.501329,44.174077",
+    "geom:latitude":44.174077,
+    "geom:longitude":-72.501329,
+    "iso:country":"US",
+    "sg:address":"90 Sterling Hill Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4850",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KyQ716ZTLKkZ2pja0pn5t_44.174077_-72.501329@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312667,
+    "wof:geomhash":"7737904b077b3ef8e98afcbcb7c1fa57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874183283
+        }
+    ],
+    "wof:id":874183283,
+    "wof:lastmodified":1464312667,
+    "wof:name":"Tony Chaloux Log Operations",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -72.501329,
+    44.174077,
+    -72.501329,
+    44.174077
+],
+  "geometry": {"coordinates":[-72.501329,44.174077],"type":"Point"}
+}

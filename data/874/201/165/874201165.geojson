@@ -1,0 +1,79 @@
+{
+  "id": 874201165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.984163,43.61654,-72.984163,43.61654",
+    "geom:latitude":43.61654,
+    "geom:longitude":-72.984163,
+    "iso:country":"US",
+    "sg:address":"164 Grove St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 7960",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "local",
+        "trucking",
+        "operator",
+        "rental",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sb7EPlSE370sp1Hlg5a8E_43.616540_-72.984163@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312855,
+    "wof:geomhash":"7e4405e4bf51386cdc9110b57ca1614a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874201165
+        }
+    ],
+    "wof:id":874201165,
+    "wof:lastmodified":1464312855,
+    "wof:name":"Mc Ginnis & Son Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking",
+        "operator",
+        "rental",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -72.984163,
+    43.61654,
+    -72.984163,
+    43.61654
+],
+  "geometry": {"coordinates":[-72.984163,43.61654],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874161361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.057305,43.174009,-73.057305,43.174009",
+    "geom:latitude":43.174009,
+    "geom:longitude":-73.057305,
+    "iso:country":"US",
+    "sg:address":"551 Rod & Gun Club Rd",
+    "sg:city":"Shaftsbury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 5612",
+    "sg:postcode":"05262",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832067,
+        102191575,
+        404527469,
+        85633793,
+        101728291,
+        102087439,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S3xyc7fNMhFRnsOG4phri_43.174009_-73.057305@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312445,
+    "wof:geomhash":"f79b6425d9b7fd005237f23e2e04955d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087439,
+            "localadmin_id":404527469,
+            "locality_id":101728291,
+            "neighbourhood_id":85832067,
+            "region_id":85688763,
+            "venue_id":874161361
+        }
+    ],
+    "wof:id":874161361,
+    "wof:lastmodified":1464312445,
+    "wof:name":"Shaftsbury Self Storage",
+    "wof:parent_id":85832067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -73.057305,
+    43.174009,
+    -73.057305,
+    43.174009
+],
+  "geometry": {"coordinates":[-73.057305,43.174009],"type":"Point"}
+}

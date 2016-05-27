@@ -1,0 +1,69 @@
+{
+  "id": 874034279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.000824,44.525891,-72.000824,44.525891",
+    "geom:latitude":44.525891,
+    "geom:longitude":-72.000824,
+    "iso:country":"US",
+    "sg:address":"58 Broad St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 9396",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "brewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04IGylFZEJGb5rkEcynVpN_44.525891_-72.000824@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311087,
+    "wof:geomhash":"42580a04442c80cd060602df30fbf9b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874034279
+        }
+    ],
+    "wof:id":874034279,
+    "wof:lastmodified":1464311087,
+    "wof:name":"Trout River Brewing Co",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brewer"
+    ]
+},
+  "bbox": [
+    -72.000824,
+    44.525891,
+    -72.000824,
+    44.525891
+],
+  "geometry": {"coordinates":[-72.00082399999999,44.525891],"type":"Point"}
+}

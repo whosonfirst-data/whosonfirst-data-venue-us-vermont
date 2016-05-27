@@ -1,0 +1,74 @@
+{
+  "id": 874255297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.250921,44.16744,-73.250921,44.16744",
+    "geom:latitude":44.16744,
+    "geom:longitude":-73.250921,
+    "iso:country":"US",
+    "sg:address":"46 School St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 1113",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YHGUqaKocZBGnVoEWbIl7_44.167440_-73.250921@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313682,
+    "wof:geomhash":"29bcc489d2c4abab137139404ad733b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874255297
+        }
+    ],
+    "wof:id":874255297,
+    "wof:lastmodified":1464313682,
+    "wof:name":"National Bank of Middlebury",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -73.250921,
+    44.16744,
+    -73.250921,
+    44.16744
+],
+  "geometry": {"coordinates":[-73.25092100000001,44.16744],"type":"Point"}
+}

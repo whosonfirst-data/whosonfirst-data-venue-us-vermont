@@ -1,0 +1,69 @@
+{
+  "id": 874243549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.182832,44.499248,-73.182832,44.499248",
+    "geom:latitude":44.499248,
+    "geom:longitude":-73.182832,
+    "iso:country":"US",
+    "sg:address":"17 Bellevue St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 9727",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d5HnMZKKv3MKOcbot4saM_44.499248_-73.182832@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313404,
+    "wof:geomhash":"14a1af8b6a2eca8b76e1f033b797322d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874243549
+        }
+    ],
+    "wof:id":874243549,
+    "wof:lastmodified":1464313404,
+    "wof:name":"Nicole's Kids On The Go",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -73.182832,
+    44.499248,
+    -73.182832,
+    44.499248
+],
+  "geometry": {"coordinates":[-73.182832,44.499248],"type":"Point"}
+}

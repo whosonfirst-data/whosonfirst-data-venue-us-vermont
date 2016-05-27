@@ -1,0 +1,72 @@
+{
+  "id": 874170751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.948186,43.563535,-72.948186,43.563535",
+    "geom:latitude":43.563535,
+    "geom:longitude":-72.948186,
+    "iso:country":"US",
+    "sg:address":"3339 State Rte 7b",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 1551",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.byrnestruckstore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MzIlhJoXQ0neYAiaXfWgF_43.563535_-72.948186@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312534,
+    "wof:geomhash":"21ffacb30823f1762abccdaa4e8635b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874170751
+        }
+    ],
+    "wof:id":874170751,
+    "wof:lastmodified":1464312534,
+    "wof:name":"Byrnes Truck Store",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.948186,
+    43.563535,
+    -72.948186,
+    43.563535
+],
+  "geometry": {"coordinates":[-72.94818600000001,43.563535],"type":"Point"}
+}

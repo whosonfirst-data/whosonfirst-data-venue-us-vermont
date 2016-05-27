@@ -1,0 +1,71 @@
+{
+  "id": 874083453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.386905,43.654447,-72.386905,43.654447",
+    "geom:latitude":43.654447,
+    "geom:longitude":-72.386905,
+    "iso:country":"US",
+    "sg:address":"97 Hidden Ln",
+    "sg:city":"White River Junction",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 296 3000",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11SnSQflPMD22B8EyGeg17_43.654447_-72.386905@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311594,
+    "wof:geomhash":"7faba1b6f915399a2557788da4eb564d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874083453
+        }
+    ],
+    "wof:id":874083453,
+    "wof:lastmodified":1464311594,
+    "wof:name":"LL Potwin Services",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.386905,
+    43.654447,
+    -72.386905,
+    43.654447
+],
+  "geometry": {"coordinates":[-72.386905,43.654447],"type":"Point"}
+}

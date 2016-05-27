@@ -1,0 +1,71 @@
+{
+  "id": 874093007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.503017,43.363584,-72.503017,43.363584",
+    "geom:latitude":43.363584,
+    "geom:longitude":-72.503017,
+    "iso:country":"US",
+    "sg:address":"50 Pine Pitch",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 5250",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qnf48OCTzhN0nzdOfQ0Pm_43.363584_-72.503017@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311695,
+    "wof:geomhash":"db6c776261af7655d8f1aac7d96bfedc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874093007
+        }
+    ],
+    "wof:id":874093007,
+    "wof:lastmodified":1464311695,
+    "wof:name":"Mark & Karen Bushway",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.503017,
+    43.363584,
+    -72.503017,
+    43.363584
+],
+  "geometry": {"coordinates":[-72.503017,43.363584],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874238855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.044443,43.16725,-73.044443,43.16725",
+    "geom:latitude":43.16725,
+    "geom:longitude":-73.044443,
+    "iso:country":"US",
+    "sg:address":"281 E Manchester Rd",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 366 8260",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844461,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YyCKZdNB3gR7cmOD4hTHC_43.167250_-73.044443@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313318,
+    "wof:geomhash":"cadd754c6c5ab3a05ee96b8d4cba619a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85844461,
+            "region_id":85688763,
+            "venue_id":874238855
+        }
+    ],
+    "wof:id":874238855,
+    "wof:lastmodified":1464313318,
+    "wof:name":"Artistic Interiors",
+    "wof:parent_id":85844461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -73.044443,
+    43.16725,
+    -73.044443,
+    43.16725
+],
+  "geometry": {"coordinates":[-73.044443,43.16725],"type":"Point"}
+}

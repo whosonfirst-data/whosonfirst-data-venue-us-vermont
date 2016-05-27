@@ -1,0 +1,88 @@
+{
+  "id": 874253949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.161544,44.52469,-73.161544,44.52469",
+    "geom:latitude":44.52469,
+    "geom:longitude":-73.161544,
+    "iso:country":"US",
+    "sg:address":"27 Eagle Park Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 1403",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "roofing",
+        "industrial",
+        "sheet",
+        "work",
+        "metal",
+        "contractor",
+        "siding",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76TLxTAulSoHqkpPG6sks5_44.524690_-73.161544@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313644,
+    "wof:geomhash":"b848de44735c7179c7af1fec275e820f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874253949
+        }
+    ],
+    "wof:id":874253949,
+    "wof:lastmodified":1464313644,
+    "wof:name":"Maynard Roofing",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "industrial",
+        "sheet",
+        "work",
+        "metal",
+        "contractor",
+        "siding",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -73.161544,
+    44.52469,
+    -73.161544,
+    44.52469
+],
+  "geometry": {"coordinates":[-73.16154400000001,44.52469],"type":"Point"}
+}

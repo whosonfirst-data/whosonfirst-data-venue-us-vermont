@@ -1,0 +1,71 @@
+{
+  "id": 874007539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.455159,44.577371,-72.455159,44.577371",
+    "geom:latitude":44.577371,
+    "geom:longitude":-72.455159,
+    "iso:country":"US",
+    "sg:address":"2060 Town Hill Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 3440",
+    "sg:postcode":"05680",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CMxBz3P7rFAAvSp8kVteH_44.577371_-72.455159@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310836,
+    "wof:geomhash":"669e92bd6705a44f60699c99dc0e0367",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874007539
+        }
+    ],
+    "wof:id":874007539,
+    "wof:lastmodified":1464310836,
+    "wof:name":"Keepsake Collectables",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -72.455159,
+    44.577371,
+    -72.455159,
+    44.577371
+],
+  "geometry": {"coordinates":[-72.45515899999999,44.577371],"type":"Point"}
+}

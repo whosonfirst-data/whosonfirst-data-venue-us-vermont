@@ -1,0 +1,71 @@
+{
+  "id": 874130923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205091,42.869337,-73.205091,42.869337",
+    "geom:latitude":42.869337,
+    "geom:longitude":-73.205091,
+    "iso:country":"US",
+    "sg:address":"2 Blackberry Ln",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 8525",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03iPLQcMsScz3wxbS625I7_42.869337_-73.205091@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312148,
+    "wof:geomhash":"0412171f4e6e4437fae42f7729a4a857",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874130923
+        }
+    ],
+    "wof:id":874130923,
+    "wof:lastmodified":1464312148,
+    "wof:name":"Bennington Health & Rehab Ctr",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -73.205091,
+    42.869337,
+    -73.205091,
+    42.869337
+],
+  "geometry": {"coordinates":[-73.205091,42.869337],"type":"Point"}
+}

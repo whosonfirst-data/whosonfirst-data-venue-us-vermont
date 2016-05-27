@@ -1,0 +1,71 @@
+{
+  "id": 874235271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.139845,43.98856,-73.139845,43.98856",
+    "geom:latitude":43.98856,
+    "geom:longitude":-73.139845,
+    "iso:country":"US",
+    "sg:address":"226 Halladay Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 1703",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mill",
+        "fabric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77nc4DlBancTVik54UlPUA_43.988560_-73.139845@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313246,
+    "wof:geomhash":"f5a2e0abb5d55e751fbfb747d3a3f002",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874235271
+        }
+    ],
+    "wof:id":874235271,
+    "wof:lastmodified":1464313246,
+    "wof:name":"Vermont Folk Quilts",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill",
+        "fabric"
+    ]
+},
+  "bbox": [
+    -73.139845,
+    43.98856,
+    -73.139845,
+    43.98856
+],
+  "geometry": {"coordinates":[-73.13984499999999,43.98856],"type":"Point"}
+}

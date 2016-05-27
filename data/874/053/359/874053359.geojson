@@ -1,0 +1,73 @@
+{
+  "id": 874053359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.55369,42.889489,-72.55369,42.889489",
+    "geom:latitude":42.889489,
+    "geom:longitude":-72.55369,
+    "iso:country":"US",
+    "sg:address":"1277 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 8755",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "supp",
+        "grain",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zft6EhC16djMM7ghtV3YT_42.889489_-72.553690@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311272,
+    "wof:geomhash":"037335c2d73bf9c67d78c3cd5cc4d02f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874053359
+        }
+    ],
+    "wof:id":874053359,
+    "wof:lastmodified":1464311272,
+    "wof:name":"Agway",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supp",
+        "grain",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -72.55369,
+    42.889489,
+    -72.55369,
+    42.889489
+],
+  "geometry": {"coordinates":[-72.55369,42.889489],"type":"Point"}
+}

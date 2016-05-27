@@ -1,0 +1,73 @@
+{
+  "id": 874249945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.021251,43.39891,-73.021251,43.39891",
+    "geom:latitude":43.39891,
+    "geom:longitude":-73.021251,
+    "iso:country":"US",
+    "sg:address":"1870 Scottsville Rd",
+    "sg:city":"Danby",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 2370",
+    "sg:postcode":"05739",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "breeder",
+        "pedigree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mni70eZ3fIXHic01lCTD3_43.398855_-73.021114@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313565,
+    "wof:geomhash":"88748d0e9a2482c570c29eedece37b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874249945
+        }
+    ],
+    "wof:id":874249945,
+    "wof:lastmodified":1464313565,
+    "wof:name":"Sudlowe Pedigrees",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "breeder",
+        "pedigree"
+    ]
+},
+  "bbox": [
+    -73.021251,
+    43.39891,
+    -73.021251,
+    43.39891
+],
+  "geometry": {"coordinates":[-73.02125100000001,43.39891],"type":"Point"}
+}

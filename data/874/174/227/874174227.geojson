@@ -1,0 +1,71 @@
+{
+  "id": 874174227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.832631,44.646137,-72.832631,44.646137",
+    "geom:latitude":44.646137,
+    "geom:longitude":-72.832631,
+    "iso:country":"US",
+    "sg:address":"4807 State Rte 15",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8336",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "canoe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dg8XIq9dyzhYB95CErHxw_44.646137_-72.832631@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312571,
+    "wof:geomhash":"156c877f45203146c928a2f6d8bdf55c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874174227
+        }
+    ],
+    "wof:id":874174227,
+    "wof:lastmodified":1464312571,
+    "wof:name":"Green River Canoe",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "canoe"
+    ]
+},
+  "bbox": [
+    -72.832631,
+    44.646137,
+    -72.832631,
+    44.646137
+],
+  "geometry": {"coordinates":[-72.83263100000001,44.646137],"type":"Point"}
+}

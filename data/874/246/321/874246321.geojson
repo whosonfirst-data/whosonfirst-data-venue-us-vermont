@@ -1,0 +1,71 @@
+{
+  "id": 874246321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.186088,42.878912,-73.186088,42.878912",
+    "geom:latitude":42.878912,
+    "geom:longitude":-73.186088,
+    "iso:country":"US",
+    "sg:address":"100 Beech St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 3333",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K6Oa4Qhtwy1UNndR9g9pz_42.878912_-73.186088@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313459,
+    "wof:geomhash":"8e5baf7ea649e8140c12d65e0c773313",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874246321
+        }
+    ],
+    "wof:id":874246321,
+    "wof:lastmodified":1464313459,
+    "wof:name":"K & K Kar Wash",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -73.186088,
+    42.878912,
+    -73.186088,
+    42.878912
+],
+  "geometry": {"coordinates":[-73.186088,42.878912],"type":"Point"}
+}

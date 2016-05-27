@@ -1,0 +1,71 @@
+{
+  "id": 874249279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.895569,44.643772,-72.895569,44.643772",
+    "geom:latitude":44.643772,
+    "geom:longitude":-72.895569,
+    "iso:country":"US",
+    "sg:address":"242 Cambridge Glen Rd",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2563",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dtgtOg0FyfCM5kt1X4BuT_44.643339_-72.895466@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313540,
+    "wof:geomhash":"ed8f8c4045c551e86e34244417b73d7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874249279
+        }
+    ],
+    "wof:id":874249279,
+    "wof:lastmodified":1464313540,
+    "wof:name":"Ambassador Carpet Cleaning",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpet"
+    ]
+},
+  "bbox": [
+    -72.895569,
+    44.643772,
+    -72.895569,
+    44.643772
+],
+  "geometry": {"coordinates":[-72.89556899999999,44.643772],"type":"Point"}
+}

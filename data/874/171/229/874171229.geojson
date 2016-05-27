@@ -1,0 +1,71 @@
+{
+  "id": 874171229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.56681,44.245815,-72.56681,44.245815",
+    "geom:latitude":44.245815,
+    "geom:longitude":-72.56681,
+    "iso:country":"US",
+    "sg:address":"229 Berlin St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 9615",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hypnotist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MGzgZbimTc2UwygmIZaN8_44.245815_-72.566810@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312541,
+    "wof:geomhash":"49bb3e1292178742b64c95f291d78c54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874171229
+        }
+    ],
+    "wof:id":874171229,
+    "wof:lastmodified":1464312541,
+    "wof:name":"Envision Hypnosis",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hypnotist"
+    ]
+},
+  "bbox": [
+    -72.56681,
+    44.245815,
+    -72.56681,
+    44.245815
+],
+  "geometry": {"coordinates":[-72.56681,44.245815],"type":"Point"}
+}

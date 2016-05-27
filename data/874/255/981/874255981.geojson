@@ -1,0 +1,80 @@
+{
+  "id": 874255981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.953591,43.621589,-72.953591,43.621589",
+    "geom:latitude":43.621589,
+    "geom:longitude":-72.953591,
+    "iso:country":"US",
+    "sg:address":"117 US Route 4 E",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 5947",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QmnrGFAFonlujy7lIEsq3_43.621589_-72.953591@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313696,
+    "wof:geomhash":"208be921164e813089ed1d7444edb259",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255981
+        }
+    ],
+    "wof:id":874255981,
+    "wof:lastmodified":1464313696,
+    "wof:name":"SAFELITE AUTO GLASS",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -72.953591,
+    43.621589,
+    -72.953591,
+    43.621589
+],
+  "geometry": {"coordinates":[-72.953591,43.621589],"type":"Point"}
+}

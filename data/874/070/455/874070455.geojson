@@ -1,0 +1,77 @@
+{
+  "id": 874070455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.670671,44.990947,-72.670671,44.990947",
+    "geom:latitude":44.990947,
+    "geom:longitude":-72.670671,
+    "iso:country":"US",
+    "sg:address":"115 Troy St",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 848 7018",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "shop",
+        "general",
+        "automotive",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rwkhHpnQD36iEHAaPsXVB_44.990947_-72.670671@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311436,
+    "wof:geomhash":"05d1d5236b7dc1b292ac180c7862d8e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874070455
+        }
+    ],
+    "wof:id":874070455,
+    "wof:lastmodified":1464311436,
+    "wof:name":"Dave's Auto Repair",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "shop",
+        "general",
+        "automotive",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.670671,
+    44.990947,
+    -72.670671,
+    44.990947
+],
+  "geometry": {"coordinates":[-72.670671,44.990947],"type":"Point"}
+}

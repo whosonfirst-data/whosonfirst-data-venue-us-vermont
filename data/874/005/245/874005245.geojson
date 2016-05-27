@@ -1,0 +1,71 @@
+{
+  "id": 874005245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.19398,44.492648,-73.19398,44.492648",
+    "geom:latitude":44.492648,
+    "geom:longitude":-73.19398,
+    "iso:country":"US",
+    "sg:address":"102 West St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 2188",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hpFaXNpp0PObHrcBhnE2A_44.492648_-73.193980@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310817,
+    "wof:geomhash":"5eda45efc8c18a3bc9f43e0f4fe0300f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874005245
+        }
+    ],
+    "wof:id":874005245,
+    "wof:lastmodified":1464310817,
+    "wof:name":"Advanced Construction LLC",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.19398,
+    44.492648,
+    -73.19398,
+    44.492648
+],
+  "geometry": {"coordinates":[-73.19398,44.492648],"type":"Point"}
+}

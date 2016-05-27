@@ -1,0 +1,80 @@
+{
+  "id": 874256083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.979729,43.60479,-72.979729,43.60479",
+    "geom:latitude":43.60479,
+    "geom:longitude":-72.979729,
+    "iso:country":"US",
+    "sg:address":"25 Rutland Shopping Plz",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 4938",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollartree.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UCNtHCgYua425wII7nvPB_43.604790_-72.979729@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313698,
+    "wof:geomhash":"71ea609f7d0d75db059028ffa64325f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874256083
+        }
+    ],
+    "wof:id":874256083,
+    "wof:lastmodified":1464313698,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -72.979729,
+    43.60479,
+    -72.979729,
+    43.60479
+],
+  "geometry": {"coordinates":[-72.97972900000001,43.60479],"type":"Point"}
+}

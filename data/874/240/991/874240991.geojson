@@ -1,0 +1,71 @@
+{
+  "id": 874240991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.551879,42.892203,-72.551879,42.892203",
+    "geom:latitude":42.892203,
+    "geom:longitude":-72.551879,
+    "iso:country":"US",
+    "sg:address":"1336 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 8025",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25ifNIcixWWnLVlVLhfQog_42.892203_-72.551879@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313358,
+    "wof:geomhash":"b5fb40238d8081b173bd27413cf0633a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874240991
+        }
+    ],
+    "wof:id":874240991,
+    "wof:lastmodified":1464313358,
+    "wof:name":"Lamplighter Inn Motel",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.551879,
+    42.892203,
+    -72.551879,
+    42.892203
+],
+  "geometry": {"coordinates":[-72.551879,42.892203],"type":"Point"}
+}

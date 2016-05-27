@@ -1,0 +1,71 @@
+{
+  "id": 874209381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.106779,44.42224,-73.106779,44.42224",
+    "geom:latitude":44.42224,
+    "geom:longitude":-73.106779,
+    "iso:country":"US",
+    "sg:address":"829 Old Creamery Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 9182",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ct0jvnFXOYm38nOIcvWgj_44.422240_-73.106779@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312943,
+    "wof:geomhash":"74a0f4e07fcd81caf818347aaae1d3e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874209381
+        }
+    ],
+    "wof:id":874209381,
+    "wof:lastmodified":1464312943,
+    "wof:name":"Bryce Mechanical Systems Inc",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.106779,
+    44.42224,
+    -73.106779,
+    44.42224
+],
+  "geometry": {"coordinates":[-73.106779,44.42224],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874139037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.704415,44.153176,-72.704415,44.153176",
+    "geom:latitude":44.153176,
+    "geom:longitude":-72.704415,
+    "iso:country":"US",
+    "sg:address":"70 Old Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 8548",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o3rQbgwifbPmJvSanOplw_44.153176_-72.704415@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312227,
+    "wof:geomhash":"e38ce382b0823951f077a661adf69262",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874139037
+        }
+    ],
+    "wof:id":874139037,
+    "wof:lastmodified":1464312227,
+    "wof:name":"D & H Storage",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -72.704415,
+    44.153176,
+    -72.704415,
+    44.153176
+],
+  "geometry": {"coordinates":[-72.704415,44.153176],"type":"Point"}
+}

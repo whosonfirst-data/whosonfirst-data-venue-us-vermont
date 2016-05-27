@@ -1,0 +1,69 @@
+{
+  "id": 874086791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.100826,43.919545,-73.100826,43.919545",
+    "geom:latitude":43.919545,
+    "geom:longitude":-73.100826,
+    "iso:country":"US",
+    "sg:address":"463 Smead Rd",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 352 6656",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CiNFuXtAJfsyruNYkzXkp_43.919545_-73.100826@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311628,
+    "wof:geomhash":"fe3b7ee10cf980e275de75bb8c38bee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874086791
+        }
+    ],
+    "wof:id":874086791,
+    "wof:lastmodified":1464311628,
+    "wof:name":"Salisbury Fire Dept",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.100826,
+    43.919545,
+    -73.100826,
+    43.919545
+],
+  "geometry": {"coordinates":[-73.100826,43.919545],"type":"Point"}
+}

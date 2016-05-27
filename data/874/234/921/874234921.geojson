@@ -1,0 +1,71 @@
+{
+  "id": 874234921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.480878,43.461001,-72.480878,43.461001",
+    "geom:latitude":43.461001,
+    "geom:longitude":-72.480878,
+    "iso:country":"US",
+    "sg:address":"1605 State Rte 44",
+    "sg:city":"Brownsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 484 3603",
+    "sg:postcode":"05037",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MPtfswIVk4imQpuQC4oab_43.461001_-72.480878@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313238,
+    "wof:geomhash":"c55074b7b50110a4c996ca5b57c24a4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874234921
+        }
+    ],
+    "wof:id":874234921,
+    "wof:lastmodified":1464313238,
+    "wof:name":"Murphy & Sons Construction",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.480878,
+    43.461001,
+    -72.480878,
+    43.461001
+],
+  "geometry": {"coordinates":[-72.480878,43.461001],"type":"Point"}
+}

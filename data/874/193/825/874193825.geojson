@@ -1,0 +1,69 @@
+{
+  "id": 874193825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977864,43.606711,-72.977864,43.606711",
+    "geom:latitude":43.606711,
+    "geom:longitude":-72.977864,
+    "iso:country":"US",
+    "sg:address":"7 Center St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 7277",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nBRmqdKPg1Cl7U7OyNBvf_43.606711_-72.977864@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312778,
+    "wof:geomhash":"1d762445a7d7399b95d048a7a03f16e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874193825
+        }
+    ],
+    "wof:id":874193825,
+    "wof:lastmodified":1464312778,
+    "wof:name":"Desjardins-Munsat Jewelers Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -72.977864,
+    43.606711,
+    -72.977864,
+    43.606711
+],
+  "geometry": {"coordinates":[-72.977864,43.606711],"type":"Point"}
+}

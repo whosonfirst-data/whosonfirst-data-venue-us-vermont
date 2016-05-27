@@ -1,0 +1,71 @@
+{
+  "id": 874036327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.152643,44.00501,-73.152643,44.00501",
+    "geom:latitude":44.00501,
+    "geom:longitude":-73.152643,
+    "iso:country":"US",
+    "sg:address":"189 Birchard Park",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2652",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08bAuL8TFViHm2ou3ssSat_44.005010_-73.152643@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311109,
+    "wof:geomhash":"6a820688aa86dc780f96229887727b5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874036327
+        }
+    ],
+    "wof:id":874036327,
+    "wof:lastmodified":1464311109,
+    "wof:name":"Champlain Construction Co Inc",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.152643,
+    44.00501,
+    -73.152643,
+    44.00501
+],
+  "geometry": {"coordinates":[-73.152643,44.00501],"type":"Point"}
+}

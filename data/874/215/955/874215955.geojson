@@ -1,0 +1,74 @@
+{
+  "id": 874215955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.187235,44.490192,-73.187235,44.490192",
+    "geom:latitude":44.490192,
+    "geom:longitude":-73.187235,
+    "iso:country":"US",
+    "sg:address":"20 W Canal St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 7772",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.vsavt.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o1E186IATmbWwTcz820PW_44.490192_-73.187235@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313013,
+    "wof:geomhash":"9c80e3578a399293cca1e0ec9aecf632",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874215955
+        }
+    ],
+    "wof:id":874215955,
+    "wof:lastmodified":1464313013,
+    "wof:name":"Very Special Arts Vermont",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.187235,
+    44.490192,
+    -73.187235,
+    44.490192
+],
+  "geometry": {"coordinates":[-73.187235,44.490192],"type":"Point"}
+}

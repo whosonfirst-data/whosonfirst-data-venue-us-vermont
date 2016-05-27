@@ -1,0 +1,72 @@
+{
+  "id": 874055937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167428,44.454046,-73.167428,44.454046",
+    "geom:latitude":44.454046,
+    "geom:longitude":-73.167428,
+    "iso:country":"US",
+    "sg:address":"60 Timber Ln",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 6881",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.timberlanedental.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hQMA3sqo09pnMBEJfNaKa_44.454046_-73.167428@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311300,
+    "wof:geomhash":"befc3e0ebdd5f88022977b74828e33a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874055937
+        }
+    ],
+    "wof:id":874055937,
+    "wof:lastmodified":1464311300,
+    "wof:name":"Timberlane Dental Group",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.167428,
+    44.454046,
+    -73.167428,
+    44.454046
+],
+  "geometry": {"coordinates":[-73.167428,44.454046],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874130207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.553464,42.890022,-72.553464,42.890022",
+    "geom:latitude":42.890022,
+    "geom:longitude":-72.553464,
+    "iso:country":"US",
+    "sg:address":"1270 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 4631",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54cIP29W0q9RQMwxvHvBZU_42.890022_-72.553464@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312139,
+    "wof:geomhash":"9de3174e4d2c686a67772faec35085d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874130207
+        }
+    ],
+    "wof:id":874130207,
+    "wof:lastmodified":1464312139,
+    "wof:name":"Brattleboro Chrysler-Plymouth",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.553464,
+    42.890022,
+    -72.553464,
+    42.890022
+],
+  "geometry": {"coordinates":[-72.55346400000001,42.890022],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873994785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.028249,44.416874,-72.028249,44.416874",
+    "geom:latitude":44.416874,
+    "geom:longitude":-72.028249,
+    "iso:country":"US",
+    "sg:address":"104 High St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 5060",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VaKm2cy6C4tk5isdAL543_44.416874_-72.028249@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310724,
+    "wof:geomhash":"8725000ed51f417c4de8678ad785eb25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":873994785
+        }
+    ],
+    "wof:id":873994785,
+    "wof:lastmodified":1464310724,
+    "wof:name":"A & B Home Improvement",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -72.028249,
+    44.416874,
+    -72.028249,
+    44.416874
+],
+  "geometry": {"coordinates":[-72.028249,44.416874],"type":"Point"}
+}

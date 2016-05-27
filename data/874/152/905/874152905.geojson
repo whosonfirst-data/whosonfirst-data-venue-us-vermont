@@ -1,0 +1,74 @@
+{
+  "id": 874152905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.467319,43.364206,-72.467319,43.364206",
+    "geom:latitude":43.364206,
+    "geom:longitude":-72.467319,
+    "iso:country":"US",
+    "sg:address":"1482 Weathersfield Center Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 5547",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "preparation",
+        "canned",
+        "mfg"
+    ],
+    "sg:website":"www.woodscidermill.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jHIj5r3ZNEb67e5gmfMKE_43.364206_-72.467319@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312355,
+    "wof:geomhash":"8dcf3de1a567775690d6685c81769eb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874152905
+        }
+    ],
+    "wof:id":874152905,
+    "wof:lastmodified":1464312355,
+    "wof:name":"Wood's Cider Mill",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "canned",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.467319,
+    43.364206,
+    -72.467319,
+    43.364206
+],
+  "geometry": {"coordinates":[-72.467319,43.364206],"type":"Point"}
+}

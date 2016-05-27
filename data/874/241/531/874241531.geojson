@@ -1,0 +1,71 @@
+{
+  "id": 874241531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.145334,44.065428,-73.145334,44.065428",
+    "geom:latitude":44.065428,
+    "geom:longitude":-73.145334,
+    "iso:country":"US",
+    "sg:address":"1536 River Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4897",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y8yNmpsLbhFv08dJ9eN1D_44.065428_-73.145334@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313369,
+    "wof:geomhash":"f414cf3f7e7cbf61a770385e1aea49b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874241531
+        }
+    ],
+    "wof:id":874241531,
+    "wof:lastmodified":1464313369,
+    "wof:name":"New Reflections",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.145334,
+    44.065428,
+    -73.145334,
+    44.065428
+],
+  "geometry": {"coordinates":[-73.14533400000001,44.065428],"type":"Point"}
+}

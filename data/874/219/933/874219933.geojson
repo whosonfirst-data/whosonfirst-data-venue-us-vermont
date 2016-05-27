@@ -1,0 +1,71 @@
+{
+  "id": 874219933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.207635,44.48068,-73.207635,44.48068",
+    "geom:latitude":44.48068,
+    "geom:longitude":-73.207635,
+    "iso:country":"US",
+    "sg:address":"240 Pearl St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 0210",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pharmacy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QoMbGBsOLXSSzINkeMyqv_44.480680_-73.207635@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313059,
+    "wof:geomhash":"0afe49fdb6839e871819141fdb70b49d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874219933
+        }
+    ],
+    "wof:id":874219933,
+    "wof:lastmodified":1464313059,
+    "wof:name":"Pharmacare",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmacy"
+    ]
+},
+  "bbox": [
+    -73.207635,
+    44.48068,
+    -73.207635,
+    44.48068
+],
+  "geometry": {"coordinates":[-73.207635,44.48068],"type":"Point"}
+}

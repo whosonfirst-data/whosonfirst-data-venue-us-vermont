@@ -1,0 +1,71 @@
+{
+  "id": 874196111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206043,42.873651,-73.206043,42.873651",
+    "geom:latitude":42.873651,
+    "geom:longitude":-73.206043,
+    "iso:country":"US",
+    "sg:address":"140 Hospital Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 7577",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mjSEyP4UFU4Yp06kH8iTt_42.873651_-73.206043@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312806,
+    "wof:geomhash":"83d1cb93a1bd939bd80dc9773c9a9bbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874196111
+        }
+    ],
+    "wof:id":874196111,
+    "wof:lastmodified":1464312806,
+    "wof:name":"Neurological Consultants",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.206043,
+    42.873651,
+    -73.206043,
+    42.873651
+],
+  "geometry": {"coordinates":[-73.20604299999999,42.873651],"type":"Point"}
+}

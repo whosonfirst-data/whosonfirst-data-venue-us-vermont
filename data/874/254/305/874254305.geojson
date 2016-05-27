@@ -1,0 +1,69 @@
+{
+  "id": 874254305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.810898,44.6325,-72.810898,44.6325",
+    "geom:latitude":44.6325,
+    "geom:longitude":-72.810898,
+    "iso:country":"US",
+    "sg:address":"1073 Junction Hill Rd",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8265",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849535,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cAUCIn92z9EXQqmsjNLqW_44.632500_-72.810898@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313653,
+    "wof:geomhash":"12394172fd3f0fe0a60dd96c2437a449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85849535,
+            "region_id":85688763,
+            "venue_id":874254305
+        }
+    ],
+    "wof:id":874254305,
+    "wof:lastmodified":1464313653,
+    "wof:name":"Sterling Ridge Inn & Log Cabins",
+    "wof:parent_id":85849535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.810898,
+    44.6325,
+    -72.810898,
+    44.6325
+],
+  "geometry": {"coordinates":[-72.81089799999999,44.6325],"type":"Point"}
+}

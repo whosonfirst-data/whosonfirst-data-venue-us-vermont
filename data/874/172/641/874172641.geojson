@@ -1,0 +1,77 @@
+{
+  "id": 874172641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.262927,43.910938,-72.262927,43.910938",
+    "geom:latitude":43.910938,
+    "geom:longitude":-72.262927,
+    "iso:country":"US",
+    "sg:address":"908 State Rte 113",
+    "sg:city":"West Fairlee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 9696",
+    "sg:postcode":"05045",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85812235,
+        102087431,
+        85885289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lriJ8ytuSS127J163Pnlm_43.910938_-72.262927@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312555,
+    "wof:geomhash":"2b387f6c3121b69ab843aaf50a9e4d84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85812235,
+            "region_id":85688763,
+            "venue_id":874172641
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85885289,
+            "region_id":85688763,
+            "venue_id":874172641
+        }
+    ],
+    "wof:id":874172641,
+    "wof:lastmodified":1464312555,
+    "wof:name":"Town Clerk",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -72.262927,
+    43.910938,
+    -72.262927,
+    43.910938
+],
+  "geometry": {"coordinates":[-72.262927,43.910938],"type":"Point"}
+}

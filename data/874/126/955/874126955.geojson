@@ -1,0 +1,71 @@
+{
+  "id": 874126955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.253797,44.16848,-73.253797,44.16848",
+    "geom:latitude":44.16848,
+    "geom:longitude":-73.253797,
+    "iso:country":"US",
+    "sg:address":"3 N Maple St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3111",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68I5QobyOqpVc7yFY9WHU2_44.168480_-73.253797@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312102,
+    "wof:geomhash":"8653ba0d6dd94310783dfa1cdcb77cb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874126955
+        }
+    ],
+    "wof:id":874126955,
+    "wof:lastmodified":1464312102,
+    "wof:name":"Chittenden Bank",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -73.253797,
+    44.16848,
+    -73.253797,
+    44.16848
+],
+  "geometry": {"coordinates":[-73.25379700000001,44.16848],"type":"Point"}
+}

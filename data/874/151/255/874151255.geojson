@@ -1,0 +1,71 @@
+{
+  "id": 874151255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21122,44.479256,-73.21122,44.479256",
+    "geom:latitude":44.479256,
+    "geom:longitude":-73.21122,
+    "iso:country":"US",
+    "sg:address":"47 S Winooski Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 6112",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vo5S912yhFRnsvPC3bNB3_44.479256_-73.211220@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312340,
+    "wof:geomhash":"8f50fe551b679d9de6a497660f286e13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874151255
+        }
+    ],
+    "wof:id":874151255,
+    "wof:lastmodified":1464312340,
+    "wof:name":"Marketplace Parking Garage",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -73.21122,
+    44.479256,
+    -73.21122,
+    44.479256
+],
+  "geometry": {"coordinates":[-73.21122,44.479256],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874216135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111469,44.49603,-73.111469,44.49603",
+    "geom:latitude":44.49603,
+    "geom:longitude":-73.111469,
+    "iso:country":"US",
+    "sg:address":"5 North St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 3176",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yTt7bzGfi1O2nTtAXv19u_44.496030_-73.111469@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313015,
+    "wof:geomhash":"9e010ec91ea4139139001d1a180cfe37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874216135
+        }
+    ],
+    "wof:id":874216135,
+    "wof:lastmodified":1464313015,
+    "wof:name":"Bodytek Massage",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -73.111469,
+    44.49603,
+    -73.111469,
+    44.49603
+],
+  "geometry": {"coordinates":[-73.111469,44.49603],"type":"Point"}
+}

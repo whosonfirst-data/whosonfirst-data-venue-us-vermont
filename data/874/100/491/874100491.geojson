@@ -1,0 +1,71 @@
+{
+  "id": 874100491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015937,44.447987,-72.015937,44.447987",
+    "geom:latitude":44.447987,
+    "geom:longitude":-72.015937,
+    "iso:country":"US",
+    "sg:address":"857 Memorial Dr",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 1109",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer",
+        "supermarket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jKz3tyAWykZCucGHuca8s_44.447987_-72.015937@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311801,
+    "wof:geomhash":"b91b623c983fbd848b44b6b4052813fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874100491
+        }
+    ],
+    "wof:id":874100491,
+    "wof:lastmodified":1464311801,
+    "wof:name":"Price Chopper 141",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -72.015937,
+    44.447987,
+    -72.015937,
+    44.447987
+],
+  "geometry": {"coordinates":[-72.01593699999999,44.447987],"type":"Point"}
+}

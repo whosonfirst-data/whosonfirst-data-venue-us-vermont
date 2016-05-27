@@ -1,0 +1,70 @@
+{
+  "id": 874240823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.142816,44.775865,-73.142816,44.775865",
+    "geom:latitude":44.775865,
+    "geom:longitude":-73.142816,
+    "iso:country":"US",
+    "sg:address":"1624 Cline Rd",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 527 9758",
+    "sg:postcode":"05478",
+    "sg:province":"VT",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"www.jamisoncomputer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85833735,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jT2JpzOpFbfzkDQyqLENP_44.775865_-73.142816@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313355,
+    "wof:geomhash":"143699f18fb6c2a272552c20e1f281c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85833735,
+            "region_id":85688763,
+            "venue_id":874240823
+        }
+    ],
+    "wof:id":874240823,
+    "wof:lastmodified":1464313355,
+    "wof:name":"Jamison Computer Svc",
+    "wof:parent_id":85833735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -73.142816,
+    44.775865,
+    -73.142816,
+    44.775865
+],
+  "geometry": {"coordinates":[-73.142816,44.775865],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873989993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.198566,42.881963,-73.198566,42.881963",
+    "geom:latitude":42.881963,
+    "geom:longitude":-73.198566,
+    "iso:country":"US",
+    "sg:address":"211 River St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 1166",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iHZqOeGPBufJNQds3hCDd_42.881963_-73.198566@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310689,
+    "wof:geomhash":"d252d618f24aea2fd6ce5fcc2762b6fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873989993
+        }
+    ],
+    "wof:id":873989993,
+    "wof:lastmodified":1464310689,
+    "wof:name":"Carpet Warehouse",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -73.198566,
+    42.881963,
+    -73.198566,
+    42.881963
+],
+  "geometry": {"coordinates":[-73.198566,42.881963],"type":"Point"}
+}

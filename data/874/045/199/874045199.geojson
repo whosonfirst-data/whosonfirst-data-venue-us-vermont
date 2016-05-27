@@ -1,0 +1,71 @@
+{
+  "id": 874045199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.023608,44.540067,-72.023608,44.540067",
+    "geom:latitude":44.540067,
+    "geom:longitude":-72.023608,
+    "iso:country":"US",
+    "sg:address":"4 Overlook Dr",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 5503",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zfCtenBny0Og1cJRVn0ta_44.540067_-72.023608@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311197,
+    "wof:geomhash":"f4113769f5eb29c748b6bb0878ca4a56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874045199
+        }
+    ],
+    "wof:id":874045199,
+    "wof:lastmodified":1464311197,
+    "wof:name":"Adjutant General",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -72.023608,
+    44.540067,
+    -72.023608,
+    44.540067
+],
+  "geometry": {"coordinates":[-72.023608,44.540067],"type":"Point"}
+}

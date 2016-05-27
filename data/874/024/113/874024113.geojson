@@ -1,0 +1,69 @@
+{
+  "id": 874024113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.258348,44.166135,-73.258348,44.166135",
+    "geom:latitude":44.166135,
+    "geom:longitude":-73.258348,
+    "iso:country":"US",
+    "sg:address":"2 Canal St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2931",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Orx51qUCg0cFBEpzqZqFF_44.166135_-73.258348@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310984,
+    "wof:geomhash":"05db9ddea6f51487e6962e40c1a27933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874024113
+        }
+    ],
+    "wof:id":874024113,
+    "wof:lastmodified":1464310984,
+    "wof:name":"Vergennes Sewerage Treatment",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -73.258348,
+    44.166135,
+    -73.258348,
+    44.166135
+],
+  "geometry": {"coordinates":[-73.258348,44.166135],"type":"Point"}
+}

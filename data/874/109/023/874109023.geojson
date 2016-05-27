@@ -1,0 +1,71 @@
+{
+  "id": 874109023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.611885,42.864948,-72.611885,42.864948",
+    "geom:latitude":42.864948,
+    "geom:longitude":-72.611885,
+    "iso:country":"US",
+    "sg:address":"127 Marlboro Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 9268",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZJjmTFzljJt8WY3wn64CX_42.864948_-72.611885@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311903,
+    "wof:geomhash":"4a0cbeb5344d917368d0d83855424235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874109023
+        }
+    ],
+    "wof:id":874109023,
+    "wof:lastmodified":1464311903,
+    "wof:name":"Washburn Vault Co",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.611885,
+    42.864948,
+    -72.611885,
+    42.864948
+],
+  "geometry": {"coordinates":[-72.611885,42.864948],"type":"Point"}
+}

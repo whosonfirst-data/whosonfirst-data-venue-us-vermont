@@ -1,0 +1,73 @@
+{
+  "id": 874145033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.490868,44.190945,-72.490868,44.190945",
+    "geom:latitude":44.190945,
+    "geom:longitude":-72.490868,
+    "iso:country":"US",
+    "sg:address":"207 Washington St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9347",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54Y0P6rLOI4Agy3dDQLGv9_44.190945_-72.490868@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312280,
+    "wof:geomhash":"89feff5fa41e91dbb06b9af67d280e2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874145033
+        }
+    ],
+    "wof:id":874145033,
+    "wof:lastmodified":1464312280,
+    "wof:name":"Arguin Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.490868,
+    44.190945,
+    -72.490868,
+    44.190945
+],
+  "geometry": {"coordinates":[-72.49086800000001,44.190945],"type":"Point"}
+}

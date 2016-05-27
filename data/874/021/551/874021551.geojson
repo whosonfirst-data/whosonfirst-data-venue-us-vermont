@@ -1,0 +1,71 @@
+{
+  "id": 874021551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.605181,43.430519,-72.605181,43.430519",
+    "geom:latitude":43.430519,
+    "geom:longitude":-72.605181,
+    "iso:country":"US",
+    "sg:address":"292 Prior Rd",
+    "sg:city":"Cavendish",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 226 8006",
+    "sg:postcode":"05142",
+    "sg:province":"VT",
+    "sg:tags":[
+        "design",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EFGUPGF9ZgI5a01fqkOCO_43.430519_-72.605181@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310961,
+    "wof:geomhash":"a632d43de01fa68cfec2f17e52134a02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874021551
+        }
+    ],
+    "wof:id":874021551,
+    "wof:lastmodified":1464310961,
+    "wof:name":"Office Web",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "system"
+    ]
+},
+  "bbox": [
+    -72.605181,
+    43.430519,
+    -72.605181,
+    43.430519
+],
+  "geometry": {"coordinates":[-72.605181,43.430519],"type":"Point"}
+}

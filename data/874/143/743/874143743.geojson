@@ -1,0 +1,71 @@
+{
+  "id": 874143743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111788,44.446388,-73.111788,44.446388",
+    "geom:latitude":44.446388,
+    "geom:longitude":-73.111788,
+    "iso:country":"US",
+    "sg:address":"75 Bishop Ave",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 5455",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68755cM6bwHxp8LKJrNAv5_44.446388_-73.111788@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312269,
+    "wof:geomhash":"e3ce0d8f0bd1ad3a9f001d92973d348e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874143743
+        }
+    ],
+    "wof:id":874143743,
+    "wof:lastmodified":1464312269,
+    "wof:name":"Waggles Lic",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "training"
+    ]
+},
+  "bbox": [
+    -73.111788,
+    44.446388,
+    -73.111788,
+    44.446388
+],
+  "geometry": {"coordinates":[-73.111788,44.446388],"type":"Point"}
+}

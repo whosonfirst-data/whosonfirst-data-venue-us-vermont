@@ -1,0 +1,71 @@
+{
+  "id": 874170223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.051612,44.505935,-73.051612,44.505935",
+    "geom:latitude":44.505935,
+    "geom:longitude":-73.051612,
+    "iso:country":"US",
+    "sg:address":"34 Lavigne Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 8320",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "designer",
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gpzunbRcqY2JLNrcJSkLY_44.505935_-73.051612@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312529,
+    "wof:geomhash":"7ff30710fcf5352826054932077c74e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874170223
+        }
+    ],
+    "wof:id":874170223,
+    "wof:lastmodified":1464312529,
+    "wof:name":"Windy Meadow Design",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "architectural"
+    ]
+},
+  "bbox": [
+    -73.051612,
+    44.505935,
+    -73.051612,
+    44.505935
+],
+  "geometry": {"coordinates":[-73.05161200000001,44.505935],"type":"Point"}
+}

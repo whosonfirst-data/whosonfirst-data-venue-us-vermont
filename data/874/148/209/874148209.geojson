@@ -1,0 +1,73 @@
+{
+  "id": 874148209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.179969,44.460636,-73.179969,44.460636",
+    "geom:latitude":44.460636,
+    "geom:longitude":-73.179969,
+    "iso:country":"US",
+    "sg:address":"350 Dorset St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 7205",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hiu2MoTVpKS7ZL7q1HW7O_44.460636_-73.179969@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312313,
+    "wof:geomhash":"c072c4392a613f71294f99ab83b1d865",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874148209
+        }
+    ],
+    "wof:id":874148209,
+    "wof:lastmodified":1464312313,
+    "wof:name":"Mountain Air Cleaners Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -73.179969,
+    44.460636,
+    -73.179969,
+    44.460636
+],
+  "geometry": {"coordinates":[-73.179969,44.460636],"type":"Point"}
+}

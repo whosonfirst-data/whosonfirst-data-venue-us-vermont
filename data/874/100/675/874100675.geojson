@@ -1,0 +1,73 @@
+{
+  "id": 874100675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.013056,44.431705,-72.013056,44.431705",
+    "geom:latitude":44.431705,
+    "geom:longitude":-72.013056,
+    "iso:country":"US",
+    "sg:address":"49 Union St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8424",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ubcADZFFZc2gE1b3IK5iO_44.431705_-72.013056@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311803,
+    "wof:geomhash":"160a7adafb9d993f9547eae861a13a33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874100675
+        }
+    ],
+    "wof:id":874100675,
+    "wof:lastmodified":1464311803,
+    "wof:name":"Larose Pub Trucking",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.013056,
+    44.431705,
+    -72.013056,
+    44.431705
+],
+  "geometry": {"coordinates":[-72.01305600000001,44.431705],"type":"Point"}
+}

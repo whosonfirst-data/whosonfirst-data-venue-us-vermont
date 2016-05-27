@@ -1,0 +1,71 @@
+{
+  "id": 874186825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.086414,43.797992,-73.086414,43.797992",
+    "geom:latitude":43.797992,
+    "geom:longitude":-73.086414,
+    "iso:country":"US",
+    "sg:address":"35 Franklin St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 6637",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3edpFJa1NsI18nF7nMNSSS_43.797992_-73.086414@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312707,
+    "wof:geomhash":"5f103f848e9dc21243949261e9d3c23d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874186825
+        }
+    ],
+    "wof:id":874186825,
+    "wof:lastmodified":1464312707,
+    "wof:name":"Artisans A T B",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gallery"
+    ]
+},
+  "bbox": [
+    -73.086414,
+    43.797992,
+    -73.086414,
+    43.797992
+],
+  "geometry": {"coordinates":[-73.086414,43.797992],"type":"Point"}
+}

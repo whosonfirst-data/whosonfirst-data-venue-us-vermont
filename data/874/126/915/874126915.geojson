@@ -1,0 +1,73 @@
+{
+  "id": 874126915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.521226,44.217365,-72.521226,44.217365",
+    "geom:latitude":44.217365,
+    "geom:longitude":-72.521226,
+    "iso:country":"US",
+    "sg:address":"9 Spring Hollow Ln",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3237",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XxF2FTiCOvqSEpJtN0T7J_44.217365_-72.521226@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312102,
+    "wof:geomhash":"cd363be61e42787bec4760a5bdeab99c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874126915
+        }
+    ],
+    "wof:id":874126915,
+    "wof:lastmodified":1464312102,
+    "wof:name":"Leo Beaudin Plumbing & Htg",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.521226,
+    44.217365,
+    -72.521226,
+    44.217365
+],
+  "geometry": {"coordinates":[-72.521226,44.217365],"type":"Point"}
+}

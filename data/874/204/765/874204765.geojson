@@ -1,0 +1,71 @@
+{
+  "id": 874204765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501891,44.197822,-72.501891,44.197822",
+    "geom:latitude":44.197822,
+    "geom:longitude":-72.501891,
+    "iso:country":"US",
+    "sg:address":"105 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4107",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gMh3O3NjvlqRWPQaSYDBL_44.197822_-72.501891@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312892,
+    "wof:geomhash":"dc279045570e0a54c12b52230feda4fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874204765
+        }
+    ],
+    "wof:id":874204765,
+    "wof:lastmodified":1464312892,
+    "wof:name":"Merchant's Bank",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -72.501891,
+    44.197822,
+    -72.501891,
+    44.197822
+],
+  "geometry": {"coordinates":[-72.501891,44.197822],"type":"Point"}
+}

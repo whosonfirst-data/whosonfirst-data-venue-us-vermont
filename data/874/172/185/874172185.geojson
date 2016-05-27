@@ -1,0 +1,71 @@
+{
+  "id": 874172185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.242397,42.929044,-73.242397,42.929044",
+    "geom:latitude":42.929044,
+    "geom:longitude":-73.242397,
+    "iso:country":"US",
+    "sg:address":"1 Main St",
+    "sg:city":"North Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 7800",
+    "sg:postcode":"05257",
+    "sg:province":"VT",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qk2qB96Pt2SyOzhLohH78_42.929044_-73.242397@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312551,
+    "wof:geomhash":"40345b245fa34e22b783471dd2baecfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874172185
+        }
+    ],
+    "wof:id":874172185,
+    "wof:lastmodified":1464312551,
+    "wof:name":"Avalon Travel Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -73.242397,
+    42.929044,
+    -73.242397,
+    42.929044
+],
+  "geometry": {"coordinates":[-73.242397,42.929044],"type":"Point"}
+}

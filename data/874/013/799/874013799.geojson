@@ -1,0 +1,76 @@
+{
+  "id": 874013799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.4966,43.299002,-72.4966,43.299002",
+    "geom:latitude":43.299002,
+    "geom:longitude":-72.4966,
+    "iso:country":"US",
+    "sg:address":"41 Chester Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 3446",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sewing",
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SLJByCTAL4na3srTCuQgR_43.299002_-72.496600@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310882,
+    "wof:geomhash":"61f0136b3d89bc9abbb0e151241135a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874013799
+        }
+    ],
+    "wof:id":874013799,
+    "wof:lastmodified":1464310882,
+    "wof:name":"Baker's Fabrics",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing",
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -72.4966,
+    43.299002,
+    -72.4966,
+    43.299002
+],
+  "geometry": {"coordinates":[-72.4966,43.299002],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874061499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.10253,43.896761,-73.10253,43.896761",
+    "geom:latitude":43.896761,
+    "geom:longitude":-73.10253,
+    "iso:country":"US",
+    "sg:address":"868 Maple St",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 352 4570",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28VxAeaSZcKS0S275AVOq8_43.896761_-73.102530@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311349,
+    "wof:geomhash":"a54d71c919b5ecaabfc3d3fb69b2c7d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874061499
+        }
+    ],
+    "wof:id":874061499,
+    "wof:lastmodified":1464311349,
+    "wof:name":"Parker Restoration",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.10253,
+    43.896761,
+    -73.10253,
+    43.896761
+],
+  "geometry": {"coordinates":[-73.10253,43.896761],"type":"Point"}
+}

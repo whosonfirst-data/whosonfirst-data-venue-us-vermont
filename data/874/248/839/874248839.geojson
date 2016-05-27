@@ -1,0 +1,75 @@
+{
+  "id": 874248839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.664777,44.123205,-72.664777,44.123205",
+    "geom:latitude":44.123205,
+    "geom:longitude":-72.664777,
+    "iso:country":"US",
+    "sg:address":"574 State Rte 12 Alt",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 7402",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "windows",
+        "door",
+        "storm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5euDvlXqQSdDiqV0oSaBUG_44.123205_-72.664777@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313523,
+    "wof:geomhash":"0c0087dbe37523cb74879a3b0b82850f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874248839
+        }
+    ],
+    "wof:id":874248839,
+    "wof:lastmodified":1464313523,
+    "wof:name":"B & M Glass",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows",
+        "door",
+        "storm"
+    ]
+},
+  "bbox": [
+    -72.664777,
+    44.123205,
+    -72.664777,
+    44.123205
+],
+  "geometry": {"coordinates":[-72.664777,44.123205],"type":"Point"}
+}

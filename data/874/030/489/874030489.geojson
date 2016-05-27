@@ -1,0 +1,71 @@
+{
+  "id": 874030489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.248036,44.200534,-73.248036,44.200534",
+    "geom:latitude":44.200534,
+    "geom:longitude":-73.248036,
+    "iso:country":"US",
+    "sg:address":"2822 US Hwy 7",
+    "sg:city":"Ferrisburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3599",
+    "sg:postcode":"05456",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating",
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NVBmnrTKtOYFyfV1pqNvV_44.200534_-73.248036@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311053,
+    "wof:geomhash":"348f0240691d3ca660b73d5c16e5b4a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874030489
+        }
+    ],
+    "wof:id":874030489,
+    "wof:lastmodified":1464311053,
+    "wof:name":"Burdick's Country Kitchen",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "out"
+    ]
+},
+  "bbox": [
+    -73.248036,
+    44.200534,
+    -73.248036,
+    44.200534
+],
+  "geometry": {"coordinates":[-73.248036,44.200534],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874004845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205333,44.462744,-73.205333,44.462744",
+    "geom:latitude":44.462744,
+    "geom:longitude":-73.205333,
+    "iso:country":"US",
+    "sg:address":"125 Ledge Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 859 0667",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "ceiling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_321FMs2kDljtQyD71ectXM_44.462744_-73.205333@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310813,
+    "wof:geomhash":"f48fbce6c8e4475ec563c1233b2629f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874004845
+        }
+    ],
+    "wof:id":874004845,
+    "wof:lastmodified":1464310813,
+    "wof:name":"Ceiling Pro Of Vermont",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ceiling"
+    ]
+},
+  "bbox": [
+    -73.205333,
+    44.462744,
+    -73.205333,
+    44.462744
+],
+  "geometry": {"coordinates":[-73.205333,44.462744],"type":"Point"}
+}

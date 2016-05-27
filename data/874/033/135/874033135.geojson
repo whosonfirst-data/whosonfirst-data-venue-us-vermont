@@ -1,0 +1,71 @@
+{
+  "id": 874033135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.197108,42.880525,-73.197108,42.880525",
+    "geom:latitude":42.880525,
+    "geom:longitude":-73.197108,
+    "iso:country":"US",
+    "sg:address":"136 North St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 3400",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CyqCGAbPydFCL3hkGxBp8_42.880525_-73.197108@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311076,
+    "wof:geomhash":"00b8ea282db9dac3ab469fc7c12a7084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874033135
+        }
+    ],
+    "wof:id":874033135,
+    "wof:lastmodified":1464311076,
+    "wof:name":"Advanced Communications",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -73.197108,
+    42.880525,
+    -73.197108,
+    42.880525
+],
+  "geometry": {"coordinates":[-73.197108,42.880525],"type":"Point"}
+}

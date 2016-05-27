@@ -1,0 +1,73 @@
+{
+  "id": 874007743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.087558,43.80175,-73.087558,43.80175",
+    "geom:latitude":43.80175,
+    "geom:longitude":-73.087558,
+    "iso:country":"US",
+    "sg:address":"32 W Seminary St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 4722",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ni4zn6TUkpXVkQ73R7nDO_43.801750_-73.087558@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310838,
+    "wof:geomhash":"48f7220669b8d78522e7c208e7a85c9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874007743
+        }
+    ],
+    "wof:id":874007743,
+    "wof:lastmodified":1464310838,
+    "wof:name":"Neshobe House",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -73.087558,
+    43.80175,
+    -73.087558,
+    43.80175
+],
+  "geometry": {"coordinates":[-73.087558,43.80175],"type":"Point"}
+}

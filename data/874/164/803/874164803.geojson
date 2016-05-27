@@ -1,0 +1,73 @@
+{
+  "id": 874164803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.565815,44.253785,-72.565815,44.253785",
+    "geom:latitude":44.253785,
+    "geom:longitude":-72.565815,
+    "iso:country":"US",
+    "sg:address":"6 Sabin St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 6480",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RHNYrg2IqXggZS3sr5bfD_44.253785_-72.565815@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312477,
+    "wof:geomhash":"a1a97824bee3e961c5aa0ccf8bdc737f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874164803
+        }
+    ],
+    "wof:id":874164803,
+    "wof:lastmodified":1464312477,
+    "wof:name":"David Hathaway Painting",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.565815,
+    44.253785,
+    -72.565815,
+    44.253785
+],
+  "geometry": {"coordinates":[-72.565815,44.253785],"type":"Point"}
+}

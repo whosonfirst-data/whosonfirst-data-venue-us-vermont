@@ -1,0 +1,71 @@
+{
+  "id": 874104173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.246356,43.829126,-72.246356,43.829126",
+    "geom:latitude":43.829126,
+    "geom:longitude":-72.246356,
+    "iso:country":"US",
+    "sg:address":"3843 State Rte 113",
+    "sg:city":"Thetford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 785 4959",
+    "sg:postcode":"05075",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ypTEdDS1djstwadEuEi5B_43.829126_-72.246356@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311847,
+    "wof:geomhash":"3c9a18859cf77ad4d6df772ac598f93a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874104173
+        }
+    ],
+    "wof:id":874104173,
+    "wof:lastmodified":1464311847,
+    "wof:name":"Muscular Therapy",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -72.246356,
+    43.829126,
+    -72.246356,
+    43.829126
+],
+  "geometry": {"coordinates":[-72.24635600000001,43.829126],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874242121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.988671,43.606584,-72.988671,43.606584",
+    "geom:latitude":43.606584,
+    "geom:longitude":-72.988671,
+    "iso:country":"US",
+    "sg:address":"303 US Hwy 4 Bus",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0912",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vXU30sJn1cHj67VzA5zQu_43.606584_-72.988671@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313379,
+    "wof:geomhash":"0f0211af9453f46107448aa967d2effc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874242121
+        }
+    ],
+    "wof:id":874242121,
+    "wof:lastmodified":1464313379,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.988671,
+    43.606584,
+    -72.988671,
+    43.606584
+],
+  "geometry": {"coordinates":[-72.988671,43.606584],"type":"Point"}
+}

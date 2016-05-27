@@ -1,0 +1,77 @@
+{
+  "id": 874103989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.20321,42.880873,-73.20321,42.880873",
+    "geom:latitude":42.880873,
+    "geom:longitude":-73.20321,
+    "iso:country":"US",
+    "sg:address":"165 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 9705",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Tm4hmZAzwrj8G6qX5OpHb_42.880873_-73.203210@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311844,
+    "wof:geomhash":"bdaab2f45045410aa32ae63296bc652d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874103989
+        }
+    ],
+    "wof:id":874103989,
+    "wof:lastmodified":1464311844,
+    "wof:name":"Citgo",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.20321,
+    42.880873,
+    -73.20321,
+    42.880873
+],
+  "geometry": {"coordinates":[-73.20321,42.880873],"type":"Point"}
+}

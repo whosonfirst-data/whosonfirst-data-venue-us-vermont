@@ -1,0 +1,69 @@
+{
+  "id": 874147559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.692053,42.766217,-72.692053,42.766217",
+    "geom:latitude":42.766217,
+    "geom:longitude":-72.692053,
+    "iso:country":"US",
+    "sg:address":"452 Jacksonville Stage Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 368 7850",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85823257,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AVTfCkpLOLAalvT7yR1TI_42.766217_-72.692053@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312307,
+    "wof:geomhash":"e1ef87f31c27f083f917b6b50fbb2d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85823257,
+            "region_id":85688763,
+            "venue_id":874147559
+        }
+    ],
+    "wof:id":874147559,
+    "wof:lastmodified":1464312307,
+    "wof:name":"Ian Hull",
+    "wof:parent_id":85823257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -72.692053,
+    42.766217,
+    -72.692053,
+    42.766217
+],
+  "geometry": {"coordinates":[-72.692053,42.766217],"type":"Point"}
+}

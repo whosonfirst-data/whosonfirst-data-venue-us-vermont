@@ -1,0 +1,69 @@
+{
+  "id": 874013845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.687339,44.470124,-72.687339,44.470124",
+    "geom:latitude":44.470124,
+    "geom:longitude":-72.687339,
+    "iso:country":"US",
+    "sg:address":"344 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 4354",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AYpkQbPfLp979IAsCGcZj_44.470124_-72.687339@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310882,
+    "wof:geomhash":"8f4c7bc3019e0c11bc310e502d225ed7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874013845
+        }
+    ],
+    "wof:id":874013845,
+    "wof:lastmodified":1464310882,
+    "wof:name":"William A Kelk",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -72.687339,
+    44.470124,
+    -72.687339,
+    44.470124
+],
+  "geometry": {"coordinates":[-72.68733899999999,44.470124],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874158535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.676888,44.634338,-72.676888,44.634338",
+    "geom:latitude":44.634338,
+    "geom:longitude":-72.676888,
+    "iso:country":"US",
+    "sg:address":"133 Lower Main St E",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 9700",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O9exElhMnfKQSJdSAJJPe_44.634338_-72.676888@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312418,
+    "wof:geomhash":"ed9f5367ecc7d7636acc8d10db11ae4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874158535
+        }
+    ],
+    "wof:id":874158535,
+    "wof:lastmodified":1464312418,
+    "wof:name":"Blake's Towing & Auto Repair",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.676888,
+    44.634338,
+    -72.676888,
+    44.634338
+],
+  "geometry": {"coordinates":[-72.67688800000001,44.634338],"type":"Point"}
+}

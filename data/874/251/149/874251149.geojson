@@ -1,0 +1,69 @@
+{
+  "id": 874251149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.203266,42.892811,-73.203266,42.892811",
+    "geom:latitude":42.892811,
+    "geom:longitude":-73.203266,
+    "iso:country":"US",
+    "sg:address":"17 Hunt St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 2167",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BUO4yPu44L7MeEhXdZ1n2_42.892811_-73.203266@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313588,
+    "wof:geomhash":"2095fd28cf03f01f0b74d06d8d2ada58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251149
+        }
+    ],
+    "wof:id":874251149,
+    "wof:lastmodified":1464313588,
+    "wof:name":"Protech Electric Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -73.203266,
+    42.892811,
+    -73.203266,
+    42.892811
+],
+  "geometry": {"coordinates":[-73.203266,42.892811],"type":"Point"}
+}

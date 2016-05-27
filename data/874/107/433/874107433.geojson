@@ -1,0 +1,69 @@
+{
+  "id": 874107433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.017301,44.413262,-72.017301,44.413262",
+    "geom:latitude":44.413262,
+    "geom:longitude":-72.017301,
+    "iso:country":"US",
+    "sg:address":"27 Railroad St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8382",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZR3170szVRqDYJmKSJCCj_44.413262_-72.017301@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311887,
+    "wof:geomhash":"ef49d7da11dfdaaf179d38021cbdf456",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874107433
+        }
+    ],
+    "wof:id":874107433,
+    "wof:lastmodified":1464311887,
+    "wof:name":"Stratham Tire Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -72.017301,
+    44.413262,
+    -72.017301,
+    44.413262
+],
+  "geometry": {"coordinates":[-72.017301,44.413262],"type":"Point"}
+}

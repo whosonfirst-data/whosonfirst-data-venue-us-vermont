@@ -1,0 +1,75 @@
+{
+  "id": 874176189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.497035,44.198685,-72.497035,44.198685",
+    "geom:latitude":44.198685,
+    "geom:longitude":-72.497035,
+    "iso:country":"US",
+    "sg:address":"23 Eastern Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2318",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "petroleum",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kj3BZ61VpbQPXmWzTTo0B_44.198685_-72.497035@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312589,
+    "wof:geomhash":"69d36319bf6e55bbb270c38f82734ace",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874176189
+        }
+    ],
+    "wof:id":874176189,
+    "wof:lastmodified":1464312589,
+    "wof:name":"S L Dudley Transportation",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "petroleum",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.497035,
+    44.198685,
+    -72.497035,
+    44.198685
+],
+  "geometry": {"coordinates":[-72.497035,44.198685],"type":"Point"}
+}

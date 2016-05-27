@@ -1,0 +1,73 @@
+{
+  "id": 874081121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213331,44.475825,-73.213331,44.475825",
+    "geom:latitude":44.475825,
+    "geom:longitude":-73.213331,
+    "iso:country":"US",
+    "sg:address":"161 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 4366",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "distributing",
+        "sample"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OrFAr2I1ge2diETmGnZWg_44.475825_-73.213331@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311565,
+    "wof:geomhash":"f9f250badc8826377b8965645c8b09be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874081121
+        }
+    ],
+    "wof:id":874081121,
+    "wof:lastmodified":1464311565,
+    "wof:name":"P P & D Distribution Svc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributing",
+        "sample"
+    ]
+},
+  "bbox": [
+    -73.213331,
+    44.475825,
+    -73.213331,
+    44.475825
+],
+  "geometry": {"coordinates":[-73.213331,44.475825],"type":"Point"}
+}

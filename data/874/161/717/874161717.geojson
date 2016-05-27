@@ -1,0 +1,73 @@
+{
+  "id": 874161717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.156908,44.002761,-73.156908,44.002761",
+    "geom:latitude":44.002761,
+    "geom:longitude":-73.156908,
+    "iso:country":"US",
+    "sg:address":"55 Middle Rd N",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 9079",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PapQf5PXFmceVIeSmhvU3_44.002761_-73.156908@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312448,
+    "wof:geomhash":"925302d61fffc3bc8670568da6dbf2b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874161717
+        }
+    ],
+    "wof:id":874161717,
+    "wof:lastmodified":1464312448,
+    "wof:name":"Desabrais Laundry and Noble",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "coin"
+    ]
+},
+  "bbox": [
+    -73.156908,
+    44.002761,
+    -73.156908,
+    44.002761
+],
+  "geometry": {"coordinates":[-73.156908,44.002761],"type":"Point"}
+}

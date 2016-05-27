@@ -1,0 +1,69 @@
+{
+  "id": 874110481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.538771,42.895919,-72.538771,42.895919",
+    "geom:latitude":42.895919,
+    "geom:longitude":-72.538771,
+    "iso:country":"US",
+    "sg:address":"224 Old Ferry Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 246 1181",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WjP2LUzPTkL894VAhaCUG_42.895919_-72.538771@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311929,
+    "wof:geomhash":"e161b8443ed06dc8f2b6590105ac351a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874110481
+        }
+    ],
+    "wof:id":874110481,
+    "wof:lastmodified":1464311929,
+    "wof:name":"Brattleboro Auto Auction LLC",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -72.538771,
+    42.895919,
+    -72.538771,
+    42.895919
+],
+  "geometry": {"coordinates":[-72.538771,42.895919],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874172287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.098602,43.925979,-73.098602,43.925979",
+    "geom:latitude":43.925979,
+    "geom:longitude":-73.098602,
+    "iso:country":"US",
+    "sg:address":"646 Lake Dunmore Rd",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 352 4371",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hatchery",
+        "fish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iBcGqyBPI4n5yCnbWUfhM_43.925979_-73.098602@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312552,
+    "wof:geomhash":"cb02120775874b160644c477124b2a24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874172287
+        }
+    ],
+    "wof:id":874172287,
+    "wof:lastmodified":1464312552,
+    "wof:name":"Salisbury Hatchery",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hatchery",
+        "fish"
+    ]
+},
+  "bbox": [
+    -73.098602,
+    43.925979,
+    -73.098602,
+    43.925979
+],
+  "geometry": {"coordinates":[-73.098602,43.925979],"type":"Point"}
+}

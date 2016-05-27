@@ -1,0 +1,69 @@
+{
+  "id": 874236207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.098439,44.43084,-72.098439,44.43084",
+    "geom:latitude":44.43084,
+    "geom:longitude":-72.098439,
+    "iso:country":"US",
+    "sg:address":"549 State Rte 2b",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 2284",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QbwkqSePXgs3gASMxqBJe_44.430840_-72.098439@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313267,
+    "wof:geomhash":"0bd8012b08198f52e8b58e62e4d4b40b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874236207
+        }
+    ],
+    "wof:id":874236207,
+    "wof:lastmodified":1464313267,
+    "wof:name":"Danville Animal Hospital Inc",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.098439,
+    44.43084,
+    -72.098439,
+    44.43084
+],
+  "geometry": {"coordinates":[-72.098439,44.43084],"type":"Point"}
+}

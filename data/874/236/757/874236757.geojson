@@ -1,0 +1,73 @@
+{
+  "id": 874236757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.911391,44.636218,-72.911391,44.636218",
+    "geom:latitude":44.636218,
+    "geom:longitude":-72.911391,
+    "iso:country":"US",
+    "sg:address":"403 State Rte 15",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8836",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44oL1W38lBPHVY00yfPMPz_44.636218_-72.911391@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313279,
+    "wof:geomhash":"b189380abfb72d5d6b4e03908e107e42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874236757
+        }
+    ],
+    "wof:id":874236757,
+    "wof:lastmodified":1464313279,
+    "wof:name":"Ken's Backhoe Svc",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.911391,
+    44.636218,
+    -72.911391,
+    44.636218
+],
+  "geometry": {"coordinates":[-72.91139099999999,44.636218],"type":"Point"}
+}

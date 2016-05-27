@@ -1,0 +1,64 @@
+{
+  "id": 874242313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.25283,44.310713,-73.25283,44.310713",
+    "geom:latitude":44.310713,
+    "geom:longitude":-73.25283,
+    "iso:country":"US",
+    "sg:address":"290 Ferry Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 2421",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qwdYopqwE6QIvqEDHGwAw_44.310713_-73.252830@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313383,
+    "wof:geomhash":"bbee1238759cdd92ec2ed812ec38c5c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874242313
+        }
+    ],
+    "wof:id":874242313,
+    "wof:lastmodified":1464313383,
+    "wof:name":"Old Brick Store",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.25283,
+    44.310713,
+    -73.25283,
+    44.310713
+],
+  "geometry": {"coordinates":[-73.25283,44.310713],"type":"Point"}
+}

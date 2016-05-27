@@ -1,0 +1,73 @@
+{
+  "id": 874249485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.994841,43.608951,-72.994841,43.608951",
+    "geom:latitude":43.608951,
+    "geom:longitude":-72.994841,
+    "iso:country":"US",
+    "sg:address":"45 Hazel St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 5989",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrician",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BPVJf3lq6kWwI13fxCsB4_43.608610_-72.994920@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313552,
+    "wof:geomhash":"9bc6cfe1acafcb0f0fcdb0ef75266195",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874249485
+        }
+    ],
+    "wof:id":874249485,
+    "wof:lastmodified":1464313552,
+    "wof:name":"Electrical Solutions Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.994841,
+    43.608951,
+    -72.994841,
+    43.608951
+],
+  "geometry": {"coordinates":[-72.99484099999999,43.608951],"type":"Point"}
+}

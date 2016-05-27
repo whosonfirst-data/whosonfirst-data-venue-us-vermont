@@ -1,0 +1,77 @@
+{
+  "id": 874252183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.557266,42.870151,-72.557266,42.870151",
+    "geom:latitude":42.870151,
+    "geom:longitude":-72.557266,
+    "iso:country":"US",
+    "sg:address":"558 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 5411",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "brake",
+        "tire"
+    ],
+    "sg:website":"http://www.goodyeartires.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ll2LIPTP0EiScvUupyp7s_42.870151_-72.557266@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313608,
+    "wof:geomhash":"c371fea3b2c17ce3fcd87637c526901d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874252183
+        }
+    ],
+    "wof:id":874252183,
+    "wof:lastmodified":1464313608,
+    "wof:name":"Brattleboro Tire",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake",
+        "tire"
+    ]
+},
+  "bbox": [
+    -72.557266,
+    42.870151,
+    -72.557266,
+    42.870151
+],
+  "geometry": {"coordinates":[-72.557266,42.870151],"type":"Point"}
+}

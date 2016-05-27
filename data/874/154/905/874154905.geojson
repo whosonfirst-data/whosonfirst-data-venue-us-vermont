@@ -1,0 +1,71 @@
+{
+  "id": 874154905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.186463,44.49685,-73.186463,44.49685",
+    "geom:latitude":44.49685,
+    "geom:longitude":-73.186463,
+    "iso:country":"US",
+    "sg:address":"10 Stevens St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 1611",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "offset"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38miLRA9kyvB6IpO6WxweW_44.496850_-73.186463@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312376,
+    "wof:geomhash":"30174889a10d6b84f98215f8ffb8a569",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874154905
+        }
+    ],
+    "wof:id":874154905,
+    "wof:lastmodified":1464312376,
+    "wof:name":"Winooski Press LLC",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "offset"
+    ]
+},
+  "bbox": [
+    -73.186463,
+    44.49685,
+    -73.186463,
+    44.49685
+],
+  "geometry": {"coordinates":[-73.186463,44.49685],"type":"Point"}
+}

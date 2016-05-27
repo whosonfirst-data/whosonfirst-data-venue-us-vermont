@@ -1,0 +1,69 @@
+{
+  "id": 874088759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.004162,44.536606,-72.004162,44.536606",
+    "geom:latitude":44.536606,
+    "geom:longitude":-72.004162,
+    "iso:country":"US",
+    "sg:address":"77 Main St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 7224",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aGgpiyzMpiWGb24NfdOkW_44.536606_-72.004162@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311648,
+    "wof:geomhash":"6d0ae94485d3a2efda3d58d91a1504e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874088759
+        }
+    ],
+    "wof:id":874088759,
+    "wof:lastmodified":1464311648,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -72.004162,
+    44.536606,
+    -72.004162,
+    44.536606
+],
+  "geometry": {"coordinates":[-72.00416199999999,44.536606],"type":"Point"}
+}

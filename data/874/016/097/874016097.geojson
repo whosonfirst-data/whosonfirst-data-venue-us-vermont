@@ -1,0 +1,71 @@
+{
+  "id": 874016097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.645622,44.480337,-72.645622,44.480337",
+    "geom:latitude":44.480337,
+    "geom:longitude":-72.645622,
+    "iso:country":"US",
+    "sg:address":"668 Worcester Loop",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 8117",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mexican",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wocMqeHEMaH3r55NKeEa2_44.480337_-72.645622@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310900,
+    "wof:geomhash":"90a11c0815aa107fc680d30669d1658d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874016097
+        }
+    ],
+    "wof:id":874016097,
+    "wof:lastmodified":1464310900,
+    "wof:name":"San Angel",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.645622,
+    44.480337,
+    -72.645622,
+    44.480337
+],
+  "geometry": {"coordinates":[-72.645622,44.480337],"type":"Point"}
+}

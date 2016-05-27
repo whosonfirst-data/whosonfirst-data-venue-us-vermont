@@ -1,0 +1,71 @@
+{
+  "id": 874043267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.314195,44.188154,-73.314195,44.188154",
+    "geom:latitude":44.188154,
+    "geom:longitude":-73.314195,
+    "iso:country":"US",
+    "sg:address":"2200 Basin Harbor Rd",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 475 2465",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27HtjgE7UNxRCC8szqkTHF_44.188154_-73.314195@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311178,
+    "wof:geomhash":"f0cd0145e0559cd032bf367dae122390",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874043267
+        }
+    ],
+    "wof:id":874043267,
+    "wof:lastmodified":1464311178,
+    "wof:name":"Tom's Marine Svc",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -73.314195,
+    44.188154,
+    -73.314195,
+    44.188154
+],
+  "geometry": {"coordinates":[-73.314195,44.188154],"type":"Point"}
+}

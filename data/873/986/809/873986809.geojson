@@ -1,0 +1,71 @@
+{
+  "id": 873986809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.556674,42.883351,-72.556674,42.883351",
+    "geom:latitude":42.883351,
+    "geom:longitude":-72.556674,
+    "iso:country":"US",
+    "sg:address":"30 Bradford Dr",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 9550",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "stampings",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76G45vesOuHtSnwO64Vw9f_42.883351_-72.556674@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310667,
+    "wof:geomhash":"0b3c2b67beff460e226ce1f5063d14d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":873986809
+        }
+    ],
+    "wof:id":873986809,
+    "wof:lastmodified":1464310667,
+    "wof:name":"Bayne Industries",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stampings",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.556674,
+    42.883351,
+    -72.556674,
+    42.883351
+],
+  "geometry": {"coordinates":[-72.556674,42.883351],"type":"Point"}
+}

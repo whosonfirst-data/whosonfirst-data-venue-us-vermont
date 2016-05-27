@@ -1,0 +1,73 @@
+{
+  "id": 874003377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.565246,44.210476,-72.565246,44.210476",
+    "geom:latitude":44.210476,
+    "geom:longitude":-72.565246,
+    "iso:country":"US",
+    "sg:address":"249 Granger Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 7100",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U68mRKRBsApI6DUkTpHmf_44.210476_-72.565246@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310796,
+    "wof:geomhash":"941c03c954691aa077981c2bfcc98a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874003377
+        }
+    ],
+    "wof:id":874003377,
+    "wof:lastmodified":1464310796,
+    "wof:name":"Pike Industries Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.565246,
+    44.210476,
+    -72.565246,
+    44.210476
+],
+  "geometry": {"coordinates":[-72.565246,44.210476],"type":"Point"}
+}

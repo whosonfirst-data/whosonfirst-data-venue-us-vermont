@@ -1,0 +1,69 @@
+{
+  "id": 874230645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204265,42.852722,-73.204265,42.852722",
+    "geom:latitude":42.852722,
+    "geom:longitude":-73.204265,
+    "iso:country":"US",
+    "sg:address":"1029 US Hwy 7",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 4002",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ubun9div7ePVfR9sKd3rs_42.852722_-73.204265@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313171,
+    "wof:geomhash":"aaf55708e7c540dbe04cc22476f13db3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874230645
+        }
+    ],
+    "wof:id":874230645,
+    "wof:lastmodified":1464313171,
+    "wof:name":"Golden Goose",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.204265,
+    42.852722,
+    -73.204265,
+    42.852722
+],
+  "geometry": {"coordinates":[-73.20426500000001,42.852722],"type":"Point"}
+}

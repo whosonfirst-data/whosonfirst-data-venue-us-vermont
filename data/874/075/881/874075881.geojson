@@ -1,0 +1,73 @@
+{
+  "id": 874075881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08023,44.133413,-73.08023,44.133413",
+    "geom:latitude":44.133413,
+    "geom:longitude":-73.08023,
+    "iso:country":"US",
+    "sg:address":"15 West St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2371",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vToZnUJqxi8BlhxZwahge_44.133413_-73.080230@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311510,
+    "wof:geomhash":"e59deb991944d1ce9b5a9f143ffc8a25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874075881
+        }
+    ],
+    "wof:id":874075881,
+    "wof:lastmodified":1464311510,
+    "wof:name":"Merchant's Bank",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -73.08023,
+    44.133413,
+    -73.08023,
+    44.133413
+],
+  "geometry": {"coordinates":[-73.08023,44.133413],"type":"Point"}
+}

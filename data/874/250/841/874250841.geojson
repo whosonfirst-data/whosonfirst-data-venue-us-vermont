@@ -1,0 +1,74 @@
+{
+  "id": 874250841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.592201,44.573585,-72.592201,44.573585",
+    "geom:latitude":44.573585,
+    "geom:longitude":-72.592201,
+    "iso:country":"US",
+    "sg:address":"66 Morrisville Plz",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/morristown/139070-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 1133",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BqofEV1CpenGXUrlK9vQW_44.573585_-72.592201@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313583,
+    "wof:geomhash":"5561f54da509ee2c763bf4a55d9f8909",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874250841
+        }
+    ],
+    "wof:id":874250841,
+    "wof:lastmodified":1464313583,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.592201,
+    44.573585,
+    -72.592201,
+    44.573585
+],
+  "geometry": {"coordinates":[-72.592201,44.573585],"type":"Point"}
+}

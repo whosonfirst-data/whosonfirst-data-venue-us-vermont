@@ -1,0 +1,69 @@
+{
+  "id": 874129789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.570461,44.52845,-72.570461,44.52845",
+    "geom:latitude":44.52845,
+    "geom:longitude":-72.570461,
+    "iso:country":"US",
+    "sg:address":"1631 Lower Elmore Mountain Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 4734",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jmtFX9i0xggs8ULFquzjn_44.528450_-72.570461@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312133,
+    "wof:geomhash":"fe16048d17a7ee622c484936c1d038c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874129789
+        }
+    ],
+    "wof:id":874129789,
+    "wof:lastmodified":1464312133,
+    "wof:name":"Nail Lady",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.570461,
+    44.52845,
+    -72.570461,
+    44.52845
+],
+  "geometry": {"coordinates":[-72.57046099999999,44.52845],"type":"Point"}
+}

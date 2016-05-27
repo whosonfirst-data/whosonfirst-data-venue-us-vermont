@@ -1,0 +1,73 @@
+{
+  "id": 874192781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.016465,44.455115,-72.016465,44.455115",
+    "geom:latitude":44.455115,
+    "geom:longitude":-72.016465,
+    "iso:country":"US",
+    "sg:address":"1591 Memorial Dr",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3900",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T9eFtrJ1E8IZL6DXgQsRL_44.455115_-72.016465@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312768,
+    "wof:geomhash":"b8ebe60bf991aa6e8a6554c348db9b55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874192781
+        }
+    ],
+    "wof:id":874192781,
+    "wof:lastmodified":1464312768,
+    "wof:name":"Top Carpet Cleaning",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -72.016465,
+    44.455115,
+    -72.016465,
+    44.455115
+],
+  "geometry": {"coordinates":[-72.016465,44.455115],"type":"Point"}
+}

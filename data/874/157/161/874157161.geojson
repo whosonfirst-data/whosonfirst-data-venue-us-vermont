@@ -1,0 +1,71 @@
+{
+  "id": 874157161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.564577,44.248966,-72.564577,44.248966",
+    "geom:latitude":44.248966,
+    "geom:longitude":-72.564577,
+    "iso:country":"US",
+    "sg:address":"90 River St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 4941",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75o9oyBYSRyCSSttvC3qcR_44.248966_-72.564577@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312400,
+    "wof:geomhash":"0bd7f472371a95be88f715c0a94a6462",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874157161
+        }
+    ],
+    "wof:id":874157161,
+    "wof:lastmodified":1464312400,
+    "wof:name":"Vermont Tire & Svc Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -72.564577,
+    44.248966,
+    -72.564577,
+    44.248966
+],
+  "geometry": {"coordinates":[-72.564577,44.248966],"type":"Point"}
+}

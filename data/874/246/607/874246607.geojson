@@ -1,0 +1,71 @@
+{
+  "id": 874246607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.503539,44.1991,-72.503539,44.1991",
+    "geom:latitude":44.1991,
+    "geom:longitude":-72.503539,
+    "iso:country":"US",
+    "sg:address":"189 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6785",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CSKjjifwJomDIAf9CIsTM_44.199100_-72.503539@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313464,
+    "wof:geomhash":"0076e76a4c1ec9937ef9794d3aa15a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874246607
+        }
+    ],
+    "wof:id":874246607,
+    "wof:lastmodified":1464313464,
+    "wof:name":"Vermont Dental Care Office",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.503539,
+    44.1991,
+    -72.503539,
+    44.1991
+],
+  "geometry": {"coordinates":[-72.503539,44.1991],"type":"Point"}
+}

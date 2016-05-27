@@ -1,0 +1,71 @@
+{
+  "id": 874038967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.56913,44.249021,-72.56913,44.249021",
+    "geom:latitude":44.249021,
+    "geom:longitude":-72.56913,
+    "iso:country":"US",
+    "sg:address":"172 Berlin St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 1999",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y1EtOGAbpyNx4nZHmHQGn_44.249021_-72.569130@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311134,
+    "wof:geomhash":"3c77696b275bc0dd36266123b68915c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874038967
+        }
+    ],
+    "wof:id":874038967,
+    "wof:lastmodified":1464311134,
+    "wof:name":"Joshua Singer",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture"
+    ]
+},
+  "bbox": [
+    -72.56913,
+    44.249021,
+    -72.56913,
+    44.249021
+],
+  "geometry": {"coordinates":[-72.56913,44.249021],"type":"Point"}
+}

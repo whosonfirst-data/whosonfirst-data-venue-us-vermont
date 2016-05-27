@@ -1,0 +1,71 @@
+{
+  "id": 874070815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.085841,44.497244,-73.085841,44.497244",
+    "geom:latitude":44.497244,
+    "geom:longitude":-73.085841,
+    "iso:country":"US",
+    "sg:address":"22 Countryside Dr",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 0172",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MJnyJiZ3lNanNHO71xXTF_44.497244_-73.085841@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311441,
+    "wof:geomhash":"14308ff3cb804d48af96c25633c13f9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874070815
+        }
+    ],
+    "wof:id":874070815,
+    "wof:lastmodified":1464311441,
+    "wof:name":"Rn Supply",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -73.085841,
+    44.497244,
+    -73.085841,
+    44.497244
+],
+  "geometry": {"coordinates":[-73.085841,44.497244],"type":"Point"}
+}

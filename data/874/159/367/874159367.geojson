@@ -1,0 +1,71 @@
+{
+  "id": 874159367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.064068,44.452407,-73.064068,44.452407",
+    "geom:latitude":44.452407,
+    "geom:longitude":-73.064068,
+    "iso:country":"US",
+    "sg:address":"53 Lavallee Ln",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 4858",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "charter",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HDEqcScoNYZSyWykLWA7C_44.452407_-73.064068@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312425,
+    "wof:geomhash":"76e7ef118520b83587448b9e7bd73d36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874159367
+        }
+    ],
+    "wof:id":874159367,
+    "wof:lastmodified":1464312425,
+    "wof:name":"Waterfront Boat Rental",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charter",
+        "boat"
+    ]
+},
+  "bbox": [
+    -73.064068,
+    44.452407,
+    -73.064068,
+    44.452407
+],
+  "geometry": {"coordinates":[-73.06406800000001,44.452407],"type":"Point"}
+}

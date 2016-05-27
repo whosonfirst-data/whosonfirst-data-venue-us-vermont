@@ -1,0 +1,71 @@
+{
+  "id": 874028077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.000898,44.522289,-72.000898,44.522289",
+    "geom:latitude":44.522289,
+    "geom:longitude":-72.000898,
+    "iso:country":"US",
+    "sg:address":"84 Pleasant St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 5841",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pJS9E4Zovy2a8djELeBQE_44.522289_-72.000898@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311025,
+    "wof:geomhash":"a4d89d390a8a85084188ef6a131e2bea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874028077
+        }
+    ],
+    "wof:id":874028077,
+    "wof:lastmodified":1464311025,
+    "wof:name":"Harris Heating & Plumbing",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.000898,
+    44.522289,
+    -72.000898,
+    44.522289
+],
+  "geometry": {"coordinates":[-72.00089800000001,44.522289],"type":"Point"}
+}

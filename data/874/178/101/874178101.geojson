@@ -1,0 +1,71 @@
+{
+  "id": 874178101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.158482,44.020283,-73.158482,44.020283",
+    "geom:latitude":44.020283,
+    "geom:longitude":-73.158482,
+    "iso:country":"US",
+    "sg:address":"193 Colonial Dr",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 1164",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GwIDbwtZqsC8xo7R84sml_44.020283_-73.158482@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312607,
+    "wof:geomhash":"c4d0ff40ebcdb5b6526fe71e41922bcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874178101
+        }
+    ],
+    "wof:id":874178101,
+    "wof:lastmodified":1464312607,
+    "wof:name":"Molly Leach Daycare",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -73.158482,
+    44.020283,
+    -73.158482,
+    44.020283
+],
+  "geometry": {"coordinates":[-73.15848200000001,44.020283],"type":"Point"}
+}

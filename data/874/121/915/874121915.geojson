@@ -1,0 +1,75 @@
+{
+  "id": 874121915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212362,44.036707,-73.212362,44.036707",
+    "geom:latitude":44.036707,
+    "geom:longitude":-73.212362,
+    "iso:country":"US",
+    "sg:address":"2107 James Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2119",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "processing",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hg2HIy036BXIPvQSjfS9T_44.036707_-73.212362@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312058,
+    "wof:geomhash":"ce867082ae781cddac6e1addd1b65a58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874121915
+        }
+    ],
+    "wof:id":874121915,
+    "wof:lastmodified":1464312058,
+    "wof:name":"Monument Farms Dairy",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "processing",
+        "milk"
+    ]
+},
+  "bbox": [
+    -73.212362,
+    44.036707,
+    -73.212362,
+    44.036707
+],
+  "geometry": {"coordinates":[-73.212362,44.036707],"type":"Point"}
+}

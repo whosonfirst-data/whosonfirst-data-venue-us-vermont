@@ -1,0 +1,71 @@
+{
+  "id": 874062327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206573,43.970794,-73.206573,43.970794",
+    "geom:latitude":43.970794,
+    "geom:longitude":-73.206573,
+    "iso:country":"US",
+    "sg:address":"1952 State Rte 30",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 2735",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "protection",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FBEHrtpIaLpFq9ogUtjfH_43.970794_-73.206573@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311356,
+    "wof:geomhash":"46f0d074f35155d9308cd70e88172e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":874062327
+        }
+    ],
+    "wof:id":874062327,
+    "wof:lastmodified":1464311356,
+    "wof:name":"Cornwall Volunteer Fire Dept",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -73.206573,
+    43.970794,
+    -73.206573,
+    43.970794
+],
+  "geometry": {"coordinates":[-73.20657300000001,43.970794],"type":"Point"}
+}

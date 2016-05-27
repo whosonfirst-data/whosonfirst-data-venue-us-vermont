@@ -1,0 +1,71 @@
+{
+  "id": 874091337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.059778,44.44309,-73.059778,44.44309",
+    "geom:latitude":44.44309,
+    "geom:longitude":-73.059778,
+    "iso:country":"US",
+    "sg:address":"264 Golf Course Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 8855",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rQbKlBszggrOnbKjW3w4T_44.443090_-73.059778@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311679,
+    "wof:geomhash":"7aa37e092f4ff8ab610459f96d8f0031",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874091337
+        }
+    ],
+    "wof:id":874091337,
+    "wof:lastmodified":1464311679,
+    "wof:name":"Arizona Tile Design Inc",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.059778,
+    44.44309,
+    -73.059778,
+    44.44309
+],
+  "geometry": {"coordinates":[-73.05977799999999,44.44309],"type":"Point"}
+}

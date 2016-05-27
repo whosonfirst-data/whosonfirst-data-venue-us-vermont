@@ -1,0 +1,73 @@
+{
+  "id": 874227543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.505308,43.319303,-72.505308,43.319303",
+    "geom:latitude":43.319303,
+    "geom:longitude":-72.505308,
+    "iso:country":"US",
+    "sg:address":"362 River St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 3556",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FSYh3dMlpj6MOvpglVte6_43.319303_-72.505308@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313136,
+    "wof:geomhash":"a70768f2c40c10b43598ec83191cbd2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874227543
+        }
+    ],
+    "wof:id":874227543,
+    "wof:lastmodified":1464313136,
+    "wof:name":"Simon Solano MD",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.505308,
+    43.319303,
+    -72.505308,
+    43.319303
+],
+  "geometry": {"coordinates":[-72.505308,43.319303],"type":"Point"}
+}

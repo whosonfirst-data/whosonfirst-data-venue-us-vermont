@@ -1,0 +1,78 @@
+{
+  "id": 874253139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.219192,44.450802,-73.219192,44.450802",
+    "geom:latitude":44.450802,
+    "geom:longitude":-73.219192,
+    "iso:country":"US",
+    "sg:address":"15 Industrial Pkwy",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 0211",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "line",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50w3gyciPEM5IQp94PgKDG_44.450802_-73.219192@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313629,
+    "wof:geomhash":"2799c3b828599fbf035a2da2a6845f06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874253139
+        }
+    ],
+    "wof:id":874253139,
+    "wof:lastmodified":1464313629,
+    "wof:name":"Ccta",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "public"
+    ]
+},
+  "bbox": [
+    -73.219192,
+    44.450802,
+    -73.219192,
+    44.450802
+],
+  "geometry": {"coordinates":[-73.21919200000001,44.450802],"type":"Point"}
+}

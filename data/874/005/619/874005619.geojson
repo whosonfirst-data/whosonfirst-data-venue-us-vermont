@@ -1,0 +1,69 @@
+{
+  "id": 874005619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.989425,44.576215,-71.989425,44.576215",
+    "geom:latitude":44.576215,
+    "geom:longitude":-71.989425,
+    "iso:country":"US",
+    "sg:address":"145 Dune Way",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 9423",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZkelzhK7nxaYU0ZiCBKvb_44.576215_-71.989425@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310821,
+    "wof:geomhash":"a6fc6cb16003a7e8ce52e19e9f487a89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874005619
+        }
+    ],
+    "wof:id":874005619,
+    "wof:lastmodified":1464310821,
+    "wof:name":"Northeast Telecom",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -71.989425,
+    44.576215,
+    -71.989425,
+    44.576215
+],
+  "geometry": {"coordinates":[-71.989425,44.576215],"type":"Point"}
+}

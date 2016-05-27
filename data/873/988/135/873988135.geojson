@@ -1,0 +1,71 @@
+{
+  "id": 873988135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.520292,43.330101,-72.520292,43.330101",
+    "geom:latitude":43.330101,
+    "geom:longitude":-72.520292,
+    "iso:country":"US",
+    "sg:address":"250 Fairground Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 8511",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45E2yDsR6z8WLK8LyfQnc8_43.330101_-72.520292@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310676,
+    "wof:geomhash":"3a2289f01e21d70d610682e7c823a68b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":873988135
+        }
+    ],
+    "wof:id":873988135,
+    "wof:lastmodified":1464310676,
+    "wof:name":"Karma Chameleon Design",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -72.520292,
+    43.330101,
+    -72.520292,
+    43.330101
+],
+  "geometry": {"coordinates":[-72.520292,43.330101],"type":"Point"}
+}

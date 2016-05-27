@@ -1,0 +1,77 @@
+{
+  "id": 874174643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.109579,44.688343,-73.109579,44.688343",
+    "geom:latitude":44.688343,
+    "geom:longitude":-73.109579,
+    "iso:country":"US",
+    "sg:address":"740 Ethan Allen Hwy",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 2941",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "conditioner",
+        "air",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_068SIlz8uXB2oQ4GXpFufu_44.688343_-73.109579@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312575,
+    "wof:geomhash":"508a4bcac6acb76134ab53e3d1921f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874174643
+        }
+    ],
+    "wof:id":874174643,
+    "wof:lastmodified":1464312575,
+    "wof:name":"Ben Benard Heating & AC",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "conditioner",
+        "air",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.109579,
+    44.688343,
+    -73.109579,
+    44.688343
+],
+  "geometry": {"coordinates":[-73.109579,44.688343],"type":"Point"}
+}

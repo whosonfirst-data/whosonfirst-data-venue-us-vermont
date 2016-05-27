@@ -1,0 +1,71 @@
+{
+  "id": 874232553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.240754,44.542026,-73.240754,44.542026",
+    "geom:latitude":44.542026,
+    "geom:longitude":-73.240754,
+    "iso:country":"US",
+    "sg:address":"748 Prim Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 3590",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o3cYgoWnMj31QTkru26vX_44.542026_-73.240754@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313193,
+    "wof:geomhash":"8d5624d26a52b0220bc2f2830b236d52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874232553
+        }
+    ],
+    "wof:id":874232553,
+    "wof:lastmodified":1464313193,
+    "wof:name":"Levinsky Landscaping Property",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.240754,
+    44.542026,
+    -73.240754,
+    44.542026
+],
+  "geometry": {"coordinates":[-73.240754,44.542026],"type":"Point"}
+}

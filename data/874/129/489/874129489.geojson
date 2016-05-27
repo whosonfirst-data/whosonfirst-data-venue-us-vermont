@@ -1,0 +1,80 @@
+{
+  "id": 874129489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.022772,44.450453,-72.022772,44.450453",
+    "geom:latitude":44.450453,
+    "geom:longitude":-72.022772,
+    "iso:country":"US",
+    "sg:address":"71 Depot Hill Rd",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8866",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "auto",
+        "general",
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1loGbt1dBl6vh6pTeEJCjk_44.450453_-72.022772@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312128,
+    "wof:geomhash":"fa20481c29eaeec7b8e98b8e0e007dd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874129489
+        }
+    ],
+    "wof:id":874129489,
+    "wof:lastmodified":1464312128,
+    "wof:name":"Simpson Mobile Welding & RPS",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "general",
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.022772,
+    44.450453,
+    -72.022772,
+    44.450453
+],
+  "geometry": {"coordinates":[-72.022772,44.450453],"type":"Point"}
+}

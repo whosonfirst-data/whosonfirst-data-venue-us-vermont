@@ -1,0 +1,71 @@
+{
+  "id": 874233083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.080994,43.798894,-73.080994,43.798894",
+    "geom:latitude":43.798894,
+    "geom:longitude":-73.080994,
+    "iso:country":"US",
+    "sg:address":"40 Park St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3302",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lTOZlmrhutCFTYqBF3aaM_43.798894_-73.080994@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313200,
+    "wof:geomhash":"05d20bacef61ece56b974ce84c5d766c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874233083
+        }
+    ],
+    "wof:id":874233083,
+    "wof:lastmodified":1464313200,
+    "wof:name":"Nutting House Antiques Center",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -73.080994,
+    43.798894,
+    -73.080994,
+    43.798894
+],
+  "geometry": {"coordinates":[-73.080994,43.798894],"type":"Point"}
+}

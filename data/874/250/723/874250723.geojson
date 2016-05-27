@@ -1,0 +1,69 @@
+{
+  "id": 874250723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.792374,44.545472,-72.792374,44.545472",
+    "geom:latitude":44.545472,
+    "geom:longitude":-72.792374,
+    "iso:country":"US",
+    "sg:address":"4323 Vt Route 108 S",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/cambridge/217458-ben--jerrys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85851219,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t5UT2O7wnkytBGOCA3Njf_44.545472_-72.792374@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313581,
+    "wof:geomhash":"e4106bbf0e484e242b08b5b3ce2d6130",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85851219,
+            "region_id":85688763,
+            "venue_id":874250723
+        }
+    ],
+    "wof:id":874250723,
+    "wof:lastmodified":1464313581,
+    "wof:name":"Ben & Jerry's",
+    "wof:parent_id":85851219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -72.792374,
+    44.545472,
+    -72.792374,
+    44.545472
+],
+  "geometry": {"coordinates":[-72.792374,44.545472],"type":"Point"}
+}

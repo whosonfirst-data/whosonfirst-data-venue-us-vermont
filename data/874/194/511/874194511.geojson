@@ -1,0 +1,71 @@
+{
+  "id": 874194511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.172123,44.31235,-72.172123,44.31235",
+    "geom:latitude":44.31235,
+    "geom:longitude":-72.172123,
+    "iso:country":"US",
+    "sg:address":"97 Gov Mattocks Rd",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 592 3092",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27mYgG55JRV2ZiuppBoost_44.312350_-72.172123@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312785,
+    "wof:geomhash":"93720368029403617bcd8d26b54a3956",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874194511
+        }
+    ],
+    "wof:id":874194511,
+    "wof:lastmodified":1464312785,
+    "wof:name":"Perpetua Press",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -72.172123,
+    44.31235,
+    -72.172123,
+    44.31235
+],
+  "geometry": {"coordinates":[-72.172123,44.31235],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873987285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.940315,43.545704,-72.940315,43.545704",
+    "geom:latitude":43.545704,
+    "geom:longitude":-72.940315,
+    "iso:country":"US",
+    "sg:address":"1628 E Clarendon Rd",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3055",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o16E67I2CpKa3uCLhphBB_43.545704_-72.940315@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310670,
+    "wof:geomhash":"58a26f41a232e636986277e2db0aee97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":873987285
+        }
+    ],
+    "wof:id":873987285,
+    "wof:lastmodified":1464310670,
+    "wof:name":"Transportation-Garage",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -72.940315,
+    43.545704,
+    -72.940315,
+    43.545704
+],
+  "geometry": {"coordinates":[-72.940315,43.545704],"type":"Point"}
+}

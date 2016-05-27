@@ -1,0 +1,71 @@
+{
+  "id": 874039625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.695573,44.473498,-72.695573,44.473498",
+    "geom:latitude":44.473498,
+    "geom:longitude":-72.695573,
+    "iso:country":"US",
+    "sg:address":"618 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 8855",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tennis",
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25p2nhDytDtyB1yW9rpBCH_44.473498_-72.695573@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311140,
+    "wof:geomhash":"0eef5ebffd44e46cd1bb019a80217835",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874039625
+        }
+    ],
+    "wof:id":874039625,
+    "wof:lastmodified":1464311140,
+    "wof:name":"Topnotch Tennis Tours",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tennis",
+        "instruction"
+    ]
+},
+  "bbox": [
+    -72.695573,
+    44.473498,
+    -72.695573,
+    44.473498
+],
+  "geometry": {"coordinates":[-72.695573,44.473498],"type":"Point"}
+}

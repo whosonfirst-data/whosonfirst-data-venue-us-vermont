@@ -1,0 +1,73 @@
+{
+  "id": 874153189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.978794,43.617404,-72.978794,43.617404",
+    "geom:latitude":43.617404,
+    "geom:longitude":-72.978794,
+    "iso:country":"US",
+    "sg:address":"129 Church St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 9107",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OkbMosJe8ASAtbiVGSkgS_43.617404_-72.978794@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312358,
+    "wof:geomhash":"9f476fbd33324d59ac9e930b71f8ad88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874153189
+        }
+    ],
+    "wof:id":874153189,
+    "wof:lastmodified":1464312358,
+    "wof:name":"Parker House",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -72.978794,
+    43.617404,
+    -72.978794,
+    43.617404
+],
+  "geometry": {"coordinates":[-72.97879399999999,43.617404],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874241265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.676078,44.488327,-72.676078,44.488327",
+    "geom:latitude":44.488327,
+    "geom:longitude":-72.676078,
+    "iso:country":"US",
+    "sg:address":"671 Baird Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 5188",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28GcZ66WccXTGSiwZDE8GZ_44.488327_-72.676078@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313363,
+    "wof:geomhash":"df26cbb6d42f6c3c46db9c96532dd12a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874241265
+        }
+    ],
+    "wof:id":874241265,
+    "wof:lastmodified":1464313363,
+    "wof:name":"Service Pro Carpet Cleaning",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -72.676078,
+    44.488327,
+    -72.676078,
+    44.488327
+],
+  "geometry": {"coordinates":[-72.676078,44.488327],"type":"Point"}
+}

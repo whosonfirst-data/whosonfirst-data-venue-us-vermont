@@ -1,0 +1,71 @@
+{
+  "id": 873983729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.511132,44.180627,-72.511132,44.180627",
+    "geom:latitude":44.180627,
+    "geom:longitude":-72.511132,
+    "iso:country":"US",
+    "sg:address":"40 Bridge St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 4550",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beverage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jcAP1uIgJEI5LH628xKyR_44.180627_-72.511132@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310640,
+    "wof:geomhash":"e1b69a54b6f7388bcf08026a5f7b8651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873983729
+        }
+    ],
+    "wof:id":873983729,
+    "wof:lastmodified":1464310640,
+    "wof:name":"Richmond Beverage & Liquor",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage"
+    ]
+},
+  "bbox": [
+    -72.511132,
+    44.180627,
+    -72.511132,
+    44.180627
+],
+  "geometry": {"coordinates":[-72.511132,44.180627],"type":"Point"}
+}

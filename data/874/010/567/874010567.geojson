@@ -1,0 +1,71 @@
+{
+  "id": 874010567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.057951,44.5045,-73.057951,44.5045",
+    "geom:latitude":44.5045,
+    "geom:longitude":-73.057951,
+    "iso:country":"US",
+    "sg:address":"15 Tanglewood Dr",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 4694",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nK6gPj1TWzzEuOQ0EnHSv_44.504500_-73.057951@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310859,
+    "wof:geomhash":"fc44b5144bdd1aceb106b5864f8c091b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874010567
+        }
+    ],
+    "wof:id":874010567,
+    "wof:lastmodified":1464310859,
+    "wof:name":"Keenan's Lock & Key",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -73.057951,
+    44.5045,
+    -73.057951,
+    44.5045
+],
+  "geometry": {"coordinates":[-73.057951,44.5045],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874100743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.203106,42.87781,-73.203106,42.87781",
+    "geom:latitude":42.87781,
+    "geom:longitude":-73.203106,
+    "iso:country":"US",
+    "sg:address":"185 Dewey St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 4360",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vLOPUveY23N2PhnBqDD32_42.877810_-73.203106@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311804,
+    "wof:geomhash":"8b2146d52c0861dde0866de96c734013",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874100743
+        }
+    ],
+    "wof:id":874100743,
+    "wof:lastmodified":1464311804,
+    "wof:name":"Counseling & Psychotherapy",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -73.203106,
+    42.87781,
+    -73.203106,
+    42.87781
+],
+  "geometry": {"coordinates":[-73.20310600000001,42.87781],"type":"Point"}
+}

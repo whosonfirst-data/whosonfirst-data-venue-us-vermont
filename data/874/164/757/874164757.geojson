@@ -1,0 +1,69 @@
+{
+  "id": 874164757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.46386,44.607715,-72.46386,44.607715",
+    "geom:latitude":44.607715,
+    "geom:longitude":-72.46386,
+    "iso:country":"US",
+    "sg:address":"3737 N Wolcott Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5329",
+    "sg:postcode":"05680",
+    "sg:province":"VT",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0amDD4gt5R8SsbcRbITq15_44.607715_-72.463860@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312476,
+    "wof:geomhash":"efbdc6a56d83ab505da36e9c1940edc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874164757
+        }
+    ],
+    "wof:id":874164757,
+    "wof:lastmodified":1464312476,
+    "wof:name":"North Wolcott Country Store",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.46386,
+    44.607715,
+    -72.46386,
+    44.607715
+],
+  "geometry": {"coordinates":[-72.46386,44.607715],"type":"Point"}
+}

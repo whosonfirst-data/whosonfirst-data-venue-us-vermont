@@ -1,0 +1,73 @@
+{
+  "id": 874015807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.756802,44.908153,-72.756802,44.908153",
+    "geom:latitude":44.908153,
+    "geom:longitude":-72.756802,
+    "iso:country":"US",
+    "sg:address":"1849 Davis Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 2190",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OUNSrozaETX59bLcW7z1F_44.908153_-72.756802@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310898,
+    "wof:geomhash":"01d7fa5cb847671a79067fcc6c5429b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874015807
+        }
+    ],
+    "wof:id":874015807,
+    "wof:lastmodified":1464310898,
+    "wof:name":"Tim Longe Trucking",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.756802,
+    44.908153,
+    -72.756802,
+    44.908153
+],
+  "geometry": {"coordinates":[-72.75680199999999,44.908153],"type":"Point"}
+}

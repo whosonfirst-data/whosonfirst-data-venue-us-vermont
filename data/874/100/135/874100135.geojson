@@ -1,0 +1,70 @@
+{
+  "id": 874100135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.597991,44.569215,-72.597991,44.569215",
+    "geom:latitude":44.569215,
+    "geom:longitude":-72.597991,
+    "iso:country":"US",
+    "sg:address":"417 Brooklyn St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 2212",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.newsandcitizen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QOYlPps4l9PTKSS8qE8EL_44.569215_-72.597991@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311795,
+    "wof:geomhash":"fde5186dc80fd099030d53058e4ed614",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874100135
+        }
+    ],
+    "wof:id":874100135,
+    "wof:lastmodified":1464311795,
+    "wof:name":"News & Citizen Inc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -72.597991,
+    44.569215,
+    -72.597991,
+    44.569215
+],
+  "geometry": {"coordinates":[-72.59799099999999,44.569215],"type":"Point"}
+}

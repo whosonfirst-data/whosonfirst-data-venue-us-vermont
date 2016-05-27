@@ -1,0 +1,69 @@
+{
+  "id": 874108045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.987522,44.468696,-71.987522,44.468696",
+    "geom:latitude":44.468696,
+    "geom:longitude":-71.987522,
+    "iso:country":"US",
+    "sg:address":"1211 Mt Pisgah Rd",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 9148",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JFb6KOVYbmu2mxqIssYFG_44.468696_-71.987522@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311894,
+    "wof:geomhash":"86269717354bd98fcae4788d1e330290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874108045
+        }
+    ],
+    "wof:id":874108045,
+    "wof:lastmodified":1464311894,
+    "wof:name":"Jerrys Auto Repair",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.987522,
+    44.468696,
+    -71.987522,
+    44.468696
+],
+  "geometry": {"coordinates":[-71.987522,44.468696],"type":"Point"}
+}

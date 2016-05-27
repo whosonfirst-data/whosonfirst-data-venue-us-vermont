@@ -1,0 +1,71 @@
+{
+  "id": 874036545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.572053,44.209058,-72.572053,44.209058",
+    "geom:latitude":44.209058,
+    "geom:longitude":-72.572053,
+    "iso:country":"US",
+    "sg:address":"229 Comstock Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 6971",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WHB3BJZ77HYwXcJ47wz50_44.209058_-72.572053@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311111,
+    "wof:geomhash":"01ce1ba302110afcfc103c7aa1c6fd18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874036545
+        }
+    ],
+    "wof:id":874036545,
+    "wof:lastmodified":1464311111,
+    "wof:name":"Success Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -72.572053,
+    44.209058,
+    -72.572053,
+    44.209058
+],
+  "geometry": {"coordinates":[-72.572053,44.209058],"type":"Point"}
+}

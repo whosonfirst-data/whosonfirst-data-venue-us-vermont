@@ -1,0 +1,71 @@
+{
+  "id": 874221693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.003,44.5031,-73.003,44.5031",
+    "geom:latitude":44.5031,
+    "geom:longitude":-73.003,
+    "iso:country":"US",
+    "sg:address":"213 State Rte 15",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 1184",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MgbmNjIp0oHTTnwt1QV0D_44.503100_-73.003000@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313081,
+    "wof:geomhash":"dd359fc8b376ee1515233b10f2a9415d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874221693
+        }
+    ],
+    "wof:id":874221693,
+    "wof:lastmodified":1464313081,
+    "wof:name":"Body Logic Massage",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -73.003,
+    44.5031,
+    -73.003,
+    44.5031
+],
+  "geometry": {"coordinates":[-73.003,44.5031],"type":"Point"}
+}

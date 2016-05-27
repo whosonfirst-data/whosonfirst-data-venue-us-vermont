@@ -1,0 +1,71 @@
+{
+  "id": 874182011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.746539,44.516096,-72.746539,44.516096",
+    "geom:latitude":44.516096,
+    "geom:longitude":-72.746539,
+    "iso:country":"US",
+    "sg:address":"1043 Robinson Springs Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 9898",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849535,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r0fQQ7Oh40pDuxMdswy2h_44.516096_-72.746539@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312651,
+    "wof:geomhash":"0301ad7c98296019499a944cee88e256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85849535,
+            "region_id":85688763,
+            "venue_id":874182011
+        }
+    ],
+    "wof:id":874182011,
+    "wof:lastmodified":1464312651,
+    "wof:name":"Brezar Enterprises",
+    "wof:parent_id":85849535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.746539,
+    44.516096,
+    -72.746539,
+    44.516096
+],
+  "geometry": {"coordinates":[-72.746539,44.516096],"type":"Point"}
+}

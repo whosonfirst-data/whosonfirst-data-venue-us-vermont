@@ -1,0 +1,73 @@
+{
+  "id": 874013473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.082287,44.445026,-73.082287,44.445026",
+    "geom:latitude":44.445026,
+    "geom:longitude":-73.082287,
+    "iso:country":"US",
+    "sg:address":"255 Southridge Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 5101",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38wBQ8OAMkCjDshVaT6RF9_44.445026_-73.082287@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310880,
+    "wof:geomhash":"035392e2cb9d115997d9f6bb185cf074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874013473
+        }
+    ],
+    "wof:id":874013473,
+    "wof:lastmodified":1464310880,
+    "wof:name":"Mabeys Moving & Storage",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.082287,
+    44.445026,
+    -73.082287,
+    44.445026
+],
+  "geometry": {"coordinates":[-73.08228699999999,44.445026],"type":"Point"}
+}

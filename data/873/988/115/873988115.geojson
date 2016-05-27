@@ -1,0 +1,71 @@
+{
+  "id": 873988115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.970302,44.506955,-72.970302,44.506955",
+    "geom:latitude":44.506955,
+    "geom:longitude":-72.970302,
+    "iso:country":"US",
+    "sg:address":"34 Kriste Ln",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 2009",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EdlxHAAoZLejJbLGQCVIv_44.506955_-72.970302@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310676,
+    "wof:geomhash":"9c2018cd181b2a1308d14b3475c44368",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":873988115
+        }
+    ],
+    "wof:id":873988115,
+    "wof:lastmodified":1464310676,
+    "wof:name":"Tourville Trucking",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -72.970302,
+    44.506955,
+    -72.970302,
+    44.506955
+],
+  "geometry": {"coordinates":[-72.970302,44.506955],"type":"Point"}
+}

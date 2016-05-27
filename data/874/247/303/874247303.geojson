@@ -1,0 +1,71 @@
+{
+  "id": 874247303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.194099,44.601487,-73.194099,44.601487",
+    "geom:latitude":44.601487,
+    "geom:longitude":-73.194099,
+    "iso:country":"US",
+    "sg:address":"19 N Harbor Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 856 3109",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "survey",
+        "geological"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85854373,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lQ497N2tmAm6FwI4vXCxf_44.601487_-73.194099@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313478,
+    "wof:geomhash":"85f39a9afcbd3586dd71c33c83817b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85854373,
+            "region_id":85688763,
+            "venue_id":874247303
+        }
+    ],
+    "wof:id":874247303,
+    "wof:lastmodified":1464313478,
+    "wof:name":"Usgs Eastern Region",
+    "wof:parent_id":85854373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "survey",
+        "geological"
+    ]
+},
+  "bbox": [
+    -73.194099,
+    44.601487,
+    -73.194099,
+    44.601487
+],
+  "geometry": {"coordinates":[-73.19409899999999,44.601487],"type":"Point"}
+}

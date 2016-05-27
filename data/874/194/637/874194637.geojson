@@ -1,0 +1,73 @@
+{
+  "id": 874194637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.511918,44.206248,-72.511918,44.206248",
+    "geom:latitude":44.206248,
+    "geom:longitude":-72.511918,
+    "iso:country":"US",
+    "sg:address":"475 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1930",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cEFjZY3DbEo8DfRqf6Fbo_44.206248_-72.511918@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312786,
+    "wof:geomhash":"a7a8b440fac3e9cff49b06bd525df7ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874194637
+        }
+    ],
+    "wof:id":874194637,
+    "wof:lastmodified":1464312786,
+    "wof:name":"North End Deli Mart",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.511918,
+    44.206248,
+    -72.511918,
+    44.206248
+],
+  "geometry": {"coordinates":[-72.51191799999999,44.206248],"type":"Point"}
+}

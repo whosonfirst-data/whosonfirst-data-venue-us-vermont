@@ -1,0 +1,75 @@
+{
+  "id": 874248143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212044,44.477186,-73.212044,44.477186",
+    "geom:latitude":44.477186,
+    "geom:longitude":-73.212044,
+    "iso:country":"US",
+    "sg:address":"194 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 5191",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cards",
+        "greeting",
+        "gift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qfw93KVWzRQueQrTP6Ta7_44.477186_-73.212044@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313499,
+    "wof:geomhash":"a8cc017587ce7b3badef6e868b74eecc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874248143
+        }
+    ],
+    "wof:id":874248143,
+    "wof:lastmodified":1464313499,
+    "wof:name":"Everyday Bookshop Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cards",
+        "greeting",
+        "gift"
+    ]
+},
+  "bbox": [
+    -73.212044,
+    44.477186,
+    -73.212044,
+    44.477186
+],
+  "geometry": {"coordinates":[-73.21204400000001,44.477186],"type":"Point"}
+}

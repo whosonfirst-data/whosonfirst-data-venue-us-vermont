@@ -1,0 +1,71 @@
+{
+  "id": 874188289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.220335,42.951441,-73.220335,42.951441",
+    "geom:latitude":42.951441,
+    "geom:longitude":-73.220335,
+    "iso:country":"US",
+    "sg:address":"561 Daniels Rd",
+    "sg:city":"Shaftsbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 7273",
+    "sg:postcode":"05262",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dN0rF3FcAxo5qIxUi7G1b_42.951441_-73.220335@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312723,
+    "wof:geomhash":"26a10d075cd6eaae24ae36c2be462297",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874188289
+        }
+    ],
+    "wof:id":874188289,
+    "wof:lastmodified":1464312723,
+    "wof:name":"Bennco Property Dev & MGT",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.220335,
+    42.951441,
+    -73.220335,
+    42.951441
+],
+  "geometry": {"coordinates":[-73.22033500000001,42.951441],"type":"Point"}
+}

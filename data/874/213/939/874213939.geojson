@@ -1,0 +1,69 @@
+{
+  "id": 874213939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.750166,44.501133,-72.750166,44.501133",
+    "geom:latitude":44.501133,
+    "geom:longitude":-72.750166,
+    "iso:country":"US",
+    "sg:address":"4968 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 5697",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849535,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f2Rl9qK6IBJGF2qOqKRuN_44.501133_-72.750166@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312993,
+    "wof:geomhash":"c73d56368b87c6bfdb18685ca2cc520b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85849535,
+            "region_id":85688763,
+            "venue_id":874213939
+        }
+    ],
+    "wof:id":874213939,
+    "wof:lastmodified":1464312993,
+    "wof:name":"Heidi Noonan Psychotherapist",
+    "wof:parent_id":85849535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -72.750166,
+    44.501133,
+    -72.750166,
+    44.501133
+],
+  "geometry": {"coordinates":[-72.75016599999999,44.501133],"type":"Point"}
+}

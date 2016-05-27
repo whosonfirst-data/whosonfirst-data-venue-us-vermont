@@ -1,0 +1,71 @@
+{
+  "id": 874237881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.832526,44.642257,-72.832526,44.642257",
+    "geom:latitude":44.642257,
+    "geom:longitude":-72.832526,
+    "iso:country":"US",
+    "sg:address":"49 Mihean Dr",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5514",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j3n8DU8XI0PFLpHDGHJOb_44.642257_-72.832526@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313300,
+    "wof:geomhash":"6d8115792509a8ae8c56b12c014d54f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874237881
+        }
+    ],
+    "wof:id":874237881,
+    "wof:lastmodified":1464313300,
+    "wof:name":"Michar Construction Corp",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -72.832526,
+    44.642257,
+    -72.832526,
+    44.642257
+],
+  "geometry": {"coordinates":[-72.832526,44.642257],"type":"Point"}
+}

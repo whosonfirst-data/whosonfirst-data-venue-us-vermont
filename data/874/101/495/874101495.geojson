@@ -1,0 +1,70 @@
+{
+  "id": 874101495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.951409,43.599655,-72.951409,43.599655",
+    "geom:latitude":43.599655,
+    "geom:longitude":-72.951409,
+    "iso:country":"US",
+    "sg:address":"7 Albert Cree Dr",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0568",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.ravnah.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FqWXWvgXRshgiNq2Ibsiq_43.599655_-72.951409@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311812,
+    "wof:geomhash":"6386bccf8450eea879542e8311b7392a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874101495
+        }
+    ],
+    "wof:id":874101495,
+    "wof:lastmodified":1464311812,
+    "wof:name":"Rutland Area Visiting Nurse",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -72.951409,
+    43.599655,
+    -72.951409,
+    43.599655
+],
+  "geometry": {"coordinates":[-72.951409,43.599655],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874217011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.437149,43.546314,-72.437149,43.546314",
+    "geom:latitude":43.546314,
+    "geom:longitude":-72.437149,
+    "iso:country":"US",
+    "sg:address":"10 Town Farm Hill Rd",
+    "sg:city":"Hartland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 436 2075",
+    "sg:postcode":"05048",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photography"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29ZsnneAlCFUwTDcZjyZsx_43.546314_-72.437149@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313022,
+    "wof:geomhash":"9990e1369f4201b7f8d2312c4b2848c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874217011
+        }
+    ],
+    "wof:id":874217011,
+    "wof:lastmodified":1464313022,
+    "wof:name":"Brousseau's Photography",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography"
+    ]
+},
+  "bbox": [
+    -72.437149,
+    43.546314,
+    -72.437149,
+    43.546314
+],
+  "geometry": {"coordinates":[-72.43714900000001,43.546314],"type":"Point"}
+}

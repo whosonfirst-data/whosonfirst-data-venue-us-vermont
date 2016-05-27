@@ -1,0 +1,69 @@
+{
+  "id": 874201953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971392,43.608928,-72.971392,43.608928",
+    "geom:latitude":43.608928,
+    "geom:longitude":-72.971392,
+    "iso:country":"US",
+    "sg:address":"11 Terrill St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 1652",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beverage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pkFFYazLw4y5wM9cKR9hf_43.608928_-72.971392@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312863,
+    "wof:geomhash":"326a8155d9327267ca483e04c05135bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874201953
+        }
+    ],
+    "wof:id":874201953,
+    "wof:lastmodified":1464312863,
+    "wof:name":"Terrill Street Discount",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage"
+    ]
+},
+  "bbox": [
+    -72.971392,
+    43.608928,
+    -72.971392,
+    43.608928
+],
+  "geometry": {"coordinates":[-72.97139199999999,43.608928],"type":"Point"}
+}

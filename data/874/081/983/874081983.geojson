@@ -1,0 +1,73 @@
+{
+  "id": 874081983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.194229,42.878004,-73.194229,42.878004",
+    "geom:latitude":42.878004,
+    "geom:longitude":-73.194229,
+    "iso:country":"US",
+    "sg:address":"493 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 1511",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "ticket",
+        "agency",
+        "airline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YaoGaOZqGbpj0p1Twa2qV_42.878004_-73.194229@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311576,
+    "wof:geomhash":"507702d091b82ad84cf74d60be18b494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874081983
+        }
+    ],
+    "wof:id":874081983,
+    "wof:lastmodified":1464311576,
+    "wof:name":"Bennington Travel Agency",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "agency",
+        "airline"
+    ]
+},
+  "bbox": [
+    -73.194229,
+    42.878004,
+    -73.194229,
+    42.878004
+],
+  "geometry": {"coordinates":[-73.19422900000001,42.878004],"type":"Point"}
+}

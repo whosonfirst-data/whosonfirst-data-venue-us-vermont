@@ -1,0 +1,71 @@
+{
+  "id": 874133219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.634073,44.562172,-72.634073,44.562172",
+    "geom:latitude":44.562172,
+    "geom:longitude":-72.634073,
+    "iso:country":"US",
+    "sg:address":"519 Cote Hill Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5614",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IuRnWoeii8CYDhLuGkKm3_44.562172_-72.634073@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312174,
+    "wof:geomhash":"c93221955a45fb97646fd0143ff70caa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874133219
+        }
+    ],
+    "wof:id":874133219,
+    "wof:lastmodified":1464312174,
+    "wof:name":"LA Mare Construction Inc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.634073,
+    44.562172,
+    -72.634073,
+    44.562172
+],
+  "geometry": {"coordinates":[-72.634073,44.562172],"type":"Point"}
+}

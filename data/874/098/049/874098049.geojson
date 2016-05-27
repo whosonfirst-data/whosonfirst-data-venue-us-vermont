@@ -1,0 +1,71 @@
+{
+  "id": 874098049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.488679,44.18983,-72.488679,44.18983",
+    "geom:latitude":44.18983,
+    "geom:longitude":-72.488679,
+    "iso:country":"US",
+    "sg:address":"320 Washington St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9494",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jKPXUtfQpP49VgrmZqZeJ_44.189830_-72.488679@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311757,
+    "wof:geomhash":"6bcda2e949ce5379dfd54ea299d4da3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874098049
+        }
+    ],
+    "wof:id":874098049,
+    "wof:lastmodified":1464311757,
+    "wof:name":"J & M Sunoco Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -72.488679,
+    44.18983,
+    -72.488679,
+    44.18983
+],
+  "geometry": {"coordinates":[-72.488679,44.18983],"type":"Point"}
+}

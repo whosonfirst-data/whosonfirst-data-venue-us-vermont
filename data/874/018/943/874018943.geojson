@@ -1,0 +1,71 @@
+{
+  "id": 874018943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.261502,44.160643,-73.261502,44.160643",
+    "geom:latitude":44.160643,
+    "geom:longitude":-73.261502,
+    "iso:country":"US",
+    "sg:address":"6 Hopkins Rd",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3562",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BM8TC0w5znV7E4DtuUlHF_44.160643_-73.261502@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310937,
+    "wof:geomhash":"7de9d3a9f6c4f751e62a2ef5bd451592",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874018943
+        }
+    ],
+    "wof:id":874018943,
+    "wof:lastmodified":1464310937,
+    "wof:name":"Vergennes Residential Care",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -73.261502,
+    44.160643,
+    -73.261502,
+    44.160643
+],
+  "geometry": {"coordinates":[-73.26150199999999,44.160643],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874231933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.218661,44.475724,-73.218661,44.475724",
+    "geom:latitude":44.475724,
+    "geom:longitude":-73.218661,
+    "iso:country":"US",
+    "sg:address":"1 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 2600",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "arts",
+        "information"
+    ],
+    "sg:website":"www.vtiff.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15ZgSOjZHW7MBktujRAqnG_44.475724_-73.218661@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313186,
+    "wof:geomhash":"6b42d91d3b74b514e5461edaa414cc9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874231933
+        }
+    ],
+    "wof:id":874231933,
+    "wof:lastmodified":1464313186,
+    "wof:name":"Vermont International Film",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "arts",
+        "information"
+    ]
+},
+  "bbox": [
+    -73.218661,
+    44.475724,
+    -73.218661,
+    44.475724
+],
+  "geometry": {"coordinates":[-73.218661,44.475724],"type":"Point"}
+}

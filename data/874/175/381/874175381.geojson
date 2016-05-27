@@ -1,0 +1,71 @@
+{
+  "id": 874175381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.563617,44.230359,-72.563617,44.230359",
+    "geom:latitude":44.230359,
+    "geom:longitude":-72.563617,
+    "iso:country":"US",
+    "sg:address":"1413 Paine Tpke N",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 0528",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KxtrpU9R2KC2wiBOLcQVh_44.230359_-72.563617@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312582,
+    "wof:geomhash":"c3a4f0ed11db76227d37b3cabb23e030",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874175381
+        }
+    ],
+    "wof:id":874175381,
+    "wof:lastmodified":1464312582,
+    "wof:name":"Stephen J Craddock",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -72.563617,
+    44.230359,
+    -72.563617,
+    44.230359
+],
+  "geometry": {"coordinates":[-72.56361699999999,44.230359],"type":"Point"}
+}

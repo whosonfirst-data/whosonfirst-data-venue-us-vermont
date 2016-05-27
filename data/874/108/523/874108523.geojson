@@ -1,0 +1,79 @@
+{
+  "id": 874108523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.499263,44.191177,-72.499263,44.191177",
+    "geom:latitude":44.191177,
+    "geom:longitude":-72.499263,
+    "iso:country":"US",
+    "sg:address":"103 S Main St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 241 3700",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hatchery",
+        "conservation",
+        "wildlife",
+        "agency",
+        "fish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I5POko2EC8enGgxThS6rQ_44.191177_-72.499263@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311899,
+    "wof:geomhash":"fc5c22c4b8a1c1b6155efe6e3e7fd218",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874108523
+        }
+    ],
+    "wof:id":874108523,
+    "wof:lastmodified":1464311899,
+    "wof:name":"Fish and Wildlife Vermont Dept",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hatchery",
+        "conservation",
+        "wildlife",
+        "agency",
+        "fish"
+    ]
+},
+  "bbox": [
+    -72.499263,
+    44.191177,
+    -72.499263,
+    44.191177
+],
+  "geometry": {"coordinates":[-72.499263,44.191177],"type":"Point"}
+}

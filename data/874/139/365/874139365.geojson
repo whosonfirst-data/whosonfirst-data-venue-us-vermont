@@ -1,0 +1,69 @@
+{
+  "id": 874139365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.679407,44.49183,-72.679407,44.49183",
+    "geom:latitude":44.49183,
+    "geom:longitude":-72.679407,
+    "iso:country":"US",
+    "sg:address":"227 Upper Baird Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7939",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3neGTHO3q40OcG7UykpudX_44.491830_-72.679407@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312229,
+    "wof:geomhash":"ac864d99dfa26040544f2239c5e33145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874139365
+        }
+    ],
+    "wof:id":874139365,
+    "wof:lastmodified":1464312229,
+    "wof:name":"John W Nichols II Ent Inc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -72.679407,
+    44.49183,
+    -72.679407,
+    44.49183
+],
+  "geometry": {"coordinates":[-72.679407,44.49183],"type":"Point"}
+}

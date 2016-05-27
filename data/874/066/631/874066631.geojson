@@ -1,0 +1,71 @@
+{
+  "id": 874066631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.966831,43.612418,-72.966831,43.612418",
+    "geom:latitude":43.612418,
+    "geom:longitude":-72.966831,
+    "iso:country":"US",
+    "sg:address":"84 US Hwy 4",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 8118",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tBBEuHC69rEzef4iyZQ6D_43.612418_-72.966831@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311394,
+    "wof:geomhash":"cdf0cde8933c79d8ede69caa04b7d34d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874066631
+        }
+    ],
+    "wof:id":874066631,
+    "wof:lastmodified":1464311394,
+    "wof:name":"Transportation-Garage",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -72.966831,
+    43.612418,
+    -72.966831,
+    43.612418
+],
+  "geometry": {"coordinates":[-72.966831,43.612418],"type":"Point"}
+}

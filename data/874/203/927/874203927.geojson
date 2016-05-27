@@ -1,0 +1,75 @@
+{
+  "id": 874203927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209206,44.421774,-73.209206,44.421774",
+    "geom:latitude":44.421774,
+    "geom:longitude":-73.209206,
+    "iso:country":"US",
+    "sg:address":"20 Karen Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 6000",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "drink",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rLr7fP4Z5dfnVzajyJCN3_44.421774_-73.209206@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312883,
+    "wof:geomhash":"c38a52db57280e851c18c6ffa86e2ddd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874203927
+        }
+    ],
+    "wof:id":874203927,
+    "wof:lastmodified":1464312883,
+    "wof:name":"Pepsi-Cola Bottling Co",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "drink",
+        "soft"
+    ]
+},
+  "bbox": [
+    -73.209206,
+    44.421774,
+    -73.209206,
+    44.421774
+],
+  "geometry": {"coordinates":[-73.20920599999999,44.421774],"type":"Point"}
+}

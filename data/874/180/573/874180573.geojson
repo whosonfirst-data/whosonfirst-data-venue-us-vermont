@@ -1,0 +1,71 @@
+{
+  "id": 874180573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.223035,44.485343,-73.223035,44.485343",
+    "geom:latitude":44.485343,
+    "geom:longitude":-73.223035,
+    "iso:country":"US",
+    "sg:address":"132 North Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 3796",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rnu6OJYIDFWUuNGHzN1oX_44.485343_-73.223035@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312635,
+    "wof:geomhash":"a1b0003304018c0be6ad8de0379ebb55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874180573
+        }
+    ],
+    "wof:id":874180573,
+    "wof:lastmodified":1464312635,
+    "wof:name":"Burlington Fire Station 2",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -73.223035,
+    44.485343,
+    -73.223035,
+    44.485343
+],
+  "geometry": {"coordinates":[-73.223035,44.485343],"type":"Point"}
+}

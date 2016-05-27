@@ -1,0 +1,69 @@
+{
+  "id": 874062165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.115776,44.348126,-73.115776,44.348126",
+    "geom:latitude":44.348126,
+    "geom:longitude":-73.115776,
+    "iso:country":"US",
+    "sg:address":"160 Place Rd W",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 3116",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844363,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UA69UglrHBvlihZw433up_44.348126_-73.115776@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311355,
+    "wof:geomhash":"63a222e1271ba2400408ef66b65316ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85844363,
+            "region_id":85688763,
+            "venue_id":874062165
+        }
+    ],
+    "wof:id":874062165,
+    "wof:lastmodified":1464311355,
+    "wof:name":"Fairway Property Maintenance",
+    "wof:parent_id":85844363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.115776,
+    44.348126,
+    -73.115776,
+    44.348126
+],
+  "geometry": {"coordinates":[-73.115776,44.348126],"type":"Point"}
+}

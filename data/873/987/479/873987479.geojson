@@ -1,0 +1,73 @@
+{
+  "id": 873987479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.688038,44.46526,-72.688038,44.46526",
+    "geom:latitude":44.46526,
+    "geom:longitude":-72.688038,
+    "iso:country":"US",
+    "sg:address":"35 S Main St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 6007",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FSfX4wtWEJtlyA0DtDTZm_44.465260_-72.688038@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310672,
+    "wof:geomhash":"ef6a320966537e99b9c5267b2d159e89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":873987479
+        }
+    ],
+    "wof:id":873987479,
+    "wof:lastmodified":1464310672,
+    "wof:name":"Art Gallery",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.688038,
+    44.46526,
+    -72.688038,
+    44.46526
+],
+  "geometry": {"coordinates":[-72.68803800000001,44.46526],"type":"Point"}
+}

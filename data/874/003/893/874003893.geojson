@@ -1,0 +1,73 @@
+{
+  "id": 874003893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.639117,44.18104,-72.639117,44.18104",
+    "geom:latitude":44.18104,
+    "geom:longitude":-72.639117,
+    "iso:country":"US",
+    "sg:address":"716 State Rte 12",
+    "sg:city":"Northfield Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 3995",
+    "sg:postcode":"05664",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IZ6deF0rflIR40PIeupsG_44.181040_-72.639117@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310802,
+    "wof:geomhash":"a59aa3a8886a3210e0200643c992f0cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874003893
+        }
+    ],
+    "wof:id":874003893,
+    "wof:lastmodified":1464310802,
+    "wof:name":"Audette Automotive",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.639117,
+    44.18104,
+    -72.639117,
+    44.18104
+],
+  "geometry": {"coordinates":[-72.639117,44.18104],"type":"Point"}
+}

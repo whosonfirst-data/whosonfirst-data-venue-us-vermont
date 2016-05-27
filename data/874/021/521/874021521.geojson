@@ -1,0 +1,73 @@
+{
+  "id": 874021521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.628483,44.650732,-72.628483,44.650732",
+    "geom:latitude":44.650732,
+    "geom:longitude":-72.628483,
+    "iso:country":"US",
+    "sg:address":"182 Wood Dr",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 9733",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IqGOAPlrELaQkYcVPyRK2_44.650732_-72.628483@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310960,
+    "wof:geomhash":"96d2b961057c8c14d8e48c4eec0158e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874021521
+        }
+    ],
+    "wof:id":874021521,
+    "wof:lastmodified":1464310960,
+    "wof:name":"Savage's Auto Care",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -72.628483,
+    44.650732,
+    -72.628483,
+    44.650732
+],
+  "geometry": {"coordinates":[-72.628483,44.650732],"type":"Point"}
+}

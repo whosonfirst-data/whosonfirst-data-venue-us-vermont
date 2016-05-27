@@ -1,0 +1,71 @@
+{
+  "id": 874103867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.422514,44.275137,-72.422514,44.275137",
+    "geom:latitude":44.275137,
+    "geom:longitude":-72.422514,
+    "iso:country":"US",
+    "sg:address":"175 Creamery St",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 8646",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_177gmB9PRwYIKxs83hITDi_44.275137_-72.422514@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311843,
+    "wof:geomhash":"726117adcf9a70e683f9d3332e138427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874103867
+        }
+    ],
+    "wof:id":874103867,
+    "wof:lastmodified":1464311843,
+    "wof:name":"Diamantis Construction",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.422514,
+    44.275137,
+    -72.422514,
+    44.275137
+],
+  "geometry": {"coordinates":[-72.42251400000001,44.275137],"type":"Point"}
+}

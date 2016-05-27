@@ -1,0 +1,71 @@
+{
+  "id": 874077139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.170856,44.02811,-73.170856,44.02811",
+    "geom:latitude":44.02811,
+    "geom:longitude":-73.170856,
+    "iso:country":"US",
+    "sg:address":"82 Exchange St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3146",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JS0f4kDmCgTVvHcpqQ3rl_44.028110_-73.170856@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311521,
+    "wof:geomhash":"674f8ea0cbdc2e11c84648357f27c9b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874077139
+        }
+    ],
+    "wof:id":874077139,
+    "wof:lastmodified":1464311521,
+    "wof:name":"Child Support Svc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -73.170856,
+    44.02811,
+    -73.170856,
+    44.02811
+],
+  "geometry": {"coordinates":[-73.170856,44.02811],"type":"Point"}
+}

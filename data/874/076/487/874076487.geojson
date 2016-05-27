@@ -1,0 +1,71 @@
+{
+  "id": 874076487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.216438,44.485858,-73.216438,44.485858",
+    "geom:latitude":44.485858,
+    "geom:longitude":-73.216438,
+    "iso:country":"US",
+    "sg:address":"78 Rose St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 6411",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uoweZDxuhTY6DNZ1lQdbZ_44.485858_-73.216438@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311515,
+    "wof:geomhash":"5f7c7f12eadb3ee98268afe9823325db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874076487
+        }
+    ],
+    "wof:id":874076487,
+    "wof:lastmodified":1464311515,
+    "wof:name":"Immersionary Learning LLC",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -73.216438,
+    44.485858,
+    -73.216438,
+    44.485858
+],
+  "geometry": {"coordinates":[-73.216438,44.485858],"type":"Point"}
+}

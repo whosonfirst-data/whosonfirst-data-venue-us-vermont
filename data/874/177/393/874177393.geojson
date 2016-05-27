@@ -1,0 +1,71 @@
+{
+  "id": 874177393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.085614,44.351525,-73.085614,44.351525",
+    "geom:latitude":44.351525,
+    "geom:longitude":-73.085614,
+    "iso:country":"US",
+    "sg:address":"49 Sunset Ct",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 6727",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "food",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844363,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ym88nrPrmhOHlVTfMseHg_44.351525_-73.085614@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312600,
+    "wof:geomhash":"6b70337a7cf703535905f9c09bb5f8ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85844363,
+            "region_id":85688763,
+            "venue_id":874177393
+        }
+    ],
+    "wof:id":874177393,
+    "wof:lastmodified":1464312600,
+    "wof:name":"Green River Chocolates",
+    "wof:parent_id":85844363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -73.085614,
+    44.351525,
+    -73.085614,
+    44.351525
+],
+  "geometry": {"coordinates":[-73.08561400000001,44.351525],"type":"Point"}
+}

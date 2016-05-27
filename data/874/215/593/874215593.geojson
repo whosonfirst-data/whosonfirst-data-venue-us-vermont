@@ -1,0 +1,71 @@
+{
+  "id": 874215593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.821855,44.648457,-72.821855,44.648457",
+    "geom:latitude":44.648457,
+    "geom:longitude":-72.821855,
+    "iso:country":"US",
+    "sg:address":"272 Deer Run Hts",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2646",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jiZzLUD3S70Gi3BFeLN6F_44.648457_-72.821855@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313010,
+    "wof:geomhash":"43702626d251c805946ae8be72b2ec64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874215593
+        }
+    ],
+    "wof:id":874215593,
+    "wof:lastmodified":1464313010,
+    "wof:name":"Terry Mc Cuin Builder",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.821855,
+    44.648457,
+    -72.821855,
+    44.648457
+],
+  "geometry": {"coordinates":[-72.821855,44.648457],"type":"Point"}
+}

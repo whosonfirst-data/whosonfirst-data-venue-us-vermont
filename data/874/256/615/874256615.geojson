@@ -1,0 +1,75 @@
+{
+  "id": 874256615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977489,43.470104,-72.977489,43.470104",
+    "geom:latitude":43.470104,
+    "geom:longitude":-72.977489,
+    "iso:country":"US",
+    "sg:address":"723 N Main St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 3441",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gbxRTpO9w5vAnapwiX1pb_43.470104_-72.977489@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313711,
+    "wof:geomhash":"fa28e8bd70ba8a8d1a2fe99a5bb075f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874256615
+        }
+    ],
+    "wof:id":874256615,
+    "wof:lastmodified":1464313711,
+    "wof:name":"Precision Auto Body",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -72.977489,
+    43.470104,
+    -72.977489,
+    43.470104
+],
+  "geometry": {"coordinates":[-72.97748900000001,43.470104],"type":"Point"}
+}

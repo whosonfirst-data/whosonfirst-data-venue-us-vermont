@@ -1,0 +1,71 @@
+{
+  "id": 874197717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.995139,44.406618,-72.995139,44.406618",
+    "geom:latitude":44.406618,
+    "geom:longitude":-72.995139,
+    "iso:country":"US",
+    "sg:address":"4 W Main St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 6327",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "skiing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rp3scvctgVYyqk0PpUpEI_44.406618_-72.995139@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312823,
+    "wof:geomhash":"61edb1f26e8f1b168d2e34531a365148",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874197717
+        }
+    ],
+    "wof:id":874197717,
+    "wof:lastmodified":1464312823,
+    "wof:name":"Ski Express",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -72.995139,
+    44.406618,
+    -72.995139,
+    44.406618
+],
+  "geometry": {"coordinates":[-72.99513899999999,44.406618],"type":"Point"}
+}

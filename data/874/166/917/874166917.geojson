@@ -1,0 +1,71 @@
+{
+  "id": 874166917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078618,44.13288,-73.078618,44.13288",
+    "geom:latitude":44.13288,
+    "geom:longitude":-73.078618,
+    "iso:country":"US",
+    "sg:address":"4 South St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2301",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YXcuuRT4koLdZnYBobNpG_44.132880_-73.078618@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312497,
+    "wof:geomhash":"08973063f9ec7828b283306d897c9ea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874166917
+        }
+    ],
+    "wof:id":874166917,
+    "wof:lastmodified":1464312497,
+    "wof:name":"Brown-Mc Clay Funeral Homes",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -73.078618,
+    44.13288,
+    -73.078618,
+    44.13288
+],
+  "geometry": {"coordinates":[-73.07861800000001,44.13288],"type":"Point"}
+}

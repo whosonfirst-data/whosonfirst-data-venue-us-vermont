@@ -1,0 +1,69 @@
+{
+  "id": 874171189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.662337,44.631056,-72.662337,44.631056",
+    "geom:latitude":44.631056,
+    "geom:longitude":-72.662337,
+    "iso:country":"US",
+    "sg:address":"120 Hilltop Dr",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 2626",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NzRlJ1XGYdU4nwyU4y95h_44.631056_-72.662337@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312540,
+    "wof:geomhash":"cc494751208fc1427bd0b9f4a0d4d262",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874171189
+        }
+    ],
+    "wof:id":874171189,
+    "wof:lastmodified":1464312540,
+    "wof:name":"Stanley Wescom Builders",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.662337,
+    44.631056,
+    -72.662337,
+    44.631056
+],
+  "geometry": {"coordinates":[-72.66233699999999,44.631056],"type":"Point"}
+}

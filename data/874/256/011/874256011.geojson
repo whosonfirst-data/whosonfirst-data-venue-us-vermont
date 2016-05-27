@@ -1,0 +1,76 @@
+{
+  "id": 874256011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.970628,43.599736,-72.970628,43.599736",
+    "geom:latitude":43.599736,
+    "geom:longitude":-72.970628,
+    "iso:country":"US",
+    "sg:address":"130 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 1428",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "refinish",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HQe7pFx1Ft3Vuh6Hqnufo_43.599736_-72.970628@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313697,
+    "wof:geomhash":"4ba05e1e74e50bd6c53b5f3d9e026061",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874256011
+        }
+    ],
+    "wof:id":874256011,
+    "wof:lastmodified":1464313697,
+    "wof:name":"Bose Carl",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinish",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -72.970628,
+    43.599736,
+    -72.970628,
+    43.599736
+],
+  "geometry": {"coordinates":[-72.970628,43.599736],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874060049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200701,44.480877,-73.200701,44.480877",
+    "geom:latitude":44.480877,
+    "geom:longitude":-73.200701,
+    "iso:country":"US",
+    "sg:address":"52 N Prospect St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3479",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rBmanj9ThjfJdBtnXcJ7F_44.480877_-73.200701@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311336,
+    "wof:geomhash":"59203b48b5489e7b65ac8706c9eb7f58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874060049
+        }
+    ],
+    "wof:id":874060049,
+    "wof:lastmodified":1464311336,
+    "wof:name":"Terrence L Horan DDS",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.200701,
+    44.480877,
+    -73.200701,
+    44.480877
+],
+  "geometry": {"coordinates":[-73.200701,44.480877],"type":"Point"}
+}

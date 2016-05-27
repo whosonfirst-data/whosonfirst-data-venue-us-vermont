@@ -1,0 +1,69 @@
+{
+  "id": 874233905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.815349,44.899131,-72.815349,44.899131",
+    "geom:latitude":44.899131,
+    "geom:longitude":-72.815349,
+    "iso:country":"US",
+    "sg:address":"682 Duffy Hill Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 2770",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TEJzxZb336sWSjJMxRhX7_44.899131_-72.815349@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313218,
+    "wof:geomhash":"6d56507d1ceb7590c69f4e1ee1cf0aaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874233905
+        }
+    ],
+    "wof:id":874233905,
+    "wof:lastmodified":1464313218,
+    "wof:name":"Cold Hollow Veterinary Svc",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.815349,
+    44.899131,
+    -72.815349,
+    44.899131
+],
+  "geometry": {"coordinates":[-72.815349,44.899131],"type":"Point"}
+}

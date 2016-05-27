@@ -1,0 +1,83 @@
+{
+  "id": 874255685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.970772,43.600521,-72.970772,43.600521",
+    "geom:latitude":43.600521,
+    "geom:longitude":-72.970772,
+    "iso:country":"US",
+    "sg:address":"121 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 7488",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "brake",
+        "system",
+        "tire"
+    ],
+    "sg:website":"http://www.tirewarehouse.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4796HH6y83C1r5Rv90xT4x_43.600521_-72.970772@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313689,
+    "wof:geomhash":"36b1670e5281fc7fe2e4e0956f044dd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255685
+        }
+    ],
+    "wof:id":874255685,
+    "wof:lastmodified":1464313689,
+    "wof:name":"Tire Warehouse",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "brake",
+        "system",
+        "tire"
+    ]
+},
+  "bbox": [
+    -72.970772,
+    43.600521,
+    -72.970772,
+    43.600521
+],
+  "geometry": {"coordinates":[-72.970772,43.600521],"type":"Point"}
+}

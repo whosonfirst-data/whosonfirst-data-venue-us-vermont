@@ -1,0 +1,69 @@
+{
+  "id": 874130087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.137125,44.516213,-73.137125,44.516213",
+    "geom:latitude":44.516213,
+    "geom:longitude":-73.137125,
+    "iso:country":"US",
+    "sg:address":"59 Gauthier Dr",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 4025",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mhdELt3m33436FTJweWi5_44.516213_-73.137125@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312137,
+    "wof:geomhash":"f20570e8588897b23cf1161be205c6ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874130087
+        }
+    ],
+    "wof:id":874130087,
+    "wof:lastmodified":1464312137,
+    "wof:name":"Town-Essex Gauthier Pump Sta",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump"
+    ]
+},
+  "bbox": [
+    -73.137125,
+    44.516213,
+    -73.137125,
+    44.516213
+],
+  "geometry": {"coordinates":[-73.137125,44.516213],"type":"Point"}
+}

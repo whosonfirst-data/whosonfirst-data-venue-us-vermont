@@ -1,0 +1,71 @@
+{
+  "id": 874101707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.052384,43.776613,-73.052384,43.776613",
+    "geom:latitude":43.776613,
+    "geom:longitude":-73.052384,
+    "iso:country":"US",
+    "sg:address":"3164 McConnell Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 6680",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14UgqGVtWJNl4FzksZQabO_43.776613_-73.052384@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311814,
+    "wof:geomhash":"ab37673205738368094464ce1dd55481",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874101707
+        }
+    ],
+    "wof:id":874101707,
+    "wof:lastmodified":1464311814,
+    "wof:name":"Lamoureux New & Used Pallets",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.052384,
+    43.776613,
+    -73.052384,
+    43.776613
+],
+  "geometry": {"coordinates":[-73.052384,43.776613],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874071149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.016407,44.415568,-72.016407,44.415568",
+    "geom:latitude":44.415568,
+    "geom:longitude":-72.016407,
+    "iso:country":"US",
+    "sg:address":"103 Railroad St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3611",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F52UKxcyHCIVOAYu2Z7Vc_44.415568_-72.016407@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311446,
+    "wof:geomhash":"afc4eacb4d26076e18e4c86aa360a359",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874071149
+        }
+    ],
+    "wof:id":874071149,
+    "wof:lastmodified":1464311446,
+    "wof:name":"Landrys Drug Store",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.016407,
+    44.415568,
+    -72.016407,
+    44.415568
+],
+  "geometry": {"coordinates":[-72.016407,44.415568],"type":"Point"}
+}

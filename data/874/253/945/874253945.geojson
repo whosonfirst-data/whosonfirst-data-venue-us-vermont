@@ -1,0 +1,85 @@
+{
+  "id": 874253945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.161811,44.558526,-73.161811,44.558526",
+    "geom:latitude":44.558526,
+    "geom:longitude":-73.161811,
+    "iso:country":"US",
+    "sg:address":"4156 Roosevelt Hwy",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 4111",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_593MmmyP3kWfUvWkg8p8ud_44.558526_-73.161811@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313644,
+    "wof:geomhash":"c248f4cb3d9c7d3103f850c621cd30e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":874253945
+        }
+    ],
+    "wof:id":874253945,
+    "wof:lastmodified":1464313644,
+    "wof:name":"Elm Hill Farm Fencing",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.161811,
+    44.558526,
+    -73.161811,
+    44.558526
+],
+  "geometry": {"coordinates":[-73.161811,44.558526],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874249189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.222403,44.142473,-73.222403,44.142473",
+    "geom:latitude":44.142473,
+    "geom:longitude":-73.222403,
+    "iso:country":"US",
+    "sg:address":"2111 Green St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 1058",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "information",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P1U9HQ0HeAZeHex0V4ErP_44.142751_-73.222539@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313537,
+    "wof:geomhash":"32f361500e2de6962f32551181ff2215",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874249189
+        }
+    ],
+    "wof:id":874249189,
+    "wof:lastmodified":1464313537,
+    "wof:name":"Middlebrook Historical Service",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -73.222403,
+    44.142473,
+    -73.222403,
+    44.142473
+],
+  "geometry": {"coordinates":[-73.222403,44.142473],"type":"Point"}
+}

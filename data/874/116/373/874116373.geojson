@@ -1,0 +1,73 @@
+{
+  "id": 874116373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.656936,44.156766,-72.656936,44.156766",
+    "geom:latitude":44.156766,
+    "geom:longitude":-72.656936,
+    "iso:country":"US",
+    "sg:address":"57 N Main St",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 3108",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P8x7ZDH752ku6Ttkg1z2J_44.156766_-72.656936@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312000,
+    "wof:geomhash":"ae56fd8bc52701ef47c6c9cdd8a314e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874116373
+        }
+    ],
+    "wof:id":874116373,
+    "wof:lastmodified":1464312000,
+    "wof:name":"Bond Auto Parts Of Northfield",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -72.656936,
+    44.156766,
+    -72.656936,
+    44.156766
+],
+  "geometry": {"coordinates":[-72.656936,44.156766],"type":"Point"}
+}

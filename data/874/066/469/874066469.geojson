@@ -1,0 +1,69 @@
+{
+  "id": 874066469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.031869,44.503066,-73.031869,44.503066",
+    "geom:latitude":44.503066,
+    "geom:longitude":-73.031869,
+    "iso:country":"US",
+    "sg:address":"122 Jericho Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 288 9273",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23jF9Qnkfw3KmeI2mxvfTh_44.503066_-73.031869@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311392,
+    "wof:geomhash":"a838ecc0598a6fe2dbf293a83e9a1cea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874066469
+        }
+    ],
+    "wof:id":874066469,
+    "wof:lastmodified":1464311392,
+    "wof:name":"Moms Baking",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.031869,
+    44.503066,
+    -73.031869,
+    44.503066
+],
+  "geometry": {"coordinates":[-73.031869,44.503066],"type":"Point"}
+}

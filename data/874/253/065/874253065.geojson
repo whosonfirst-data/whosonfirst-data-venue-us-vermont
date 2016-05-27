@@ -1,0 +1,78 @@
+{
+  "id": 874253065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210385,44.472215,-73.210385,44.472215",
+    "geom:latitude":44.472215,
+    "geom:longitude":-73.210385,
+    "iso:country":"US",
+    "sg:address":"92 Adams St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 6114",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychological",
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MgZIoDQatF5kn36GZRnpS_44.472215_-73.210385@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313627,
+    "wof:geomhash":"cded2b8847c7b9f2f96952c69481b3aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874253065
+        }
+    ],
+    "wof:id":874253065,
+    "wof:lastmodified":1464313627,
+    "wof:name":"Marcia W Hemley Phd Pc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychological",
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -73.210385,
+    44.472215,
+    -73.210385,
+    44.472215
+],
+  "geometry": {"coordinates":[-73.210385,44.472215],"type":"Point"}
+}

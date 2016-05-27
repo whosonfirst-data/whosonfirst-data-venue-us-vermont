@@ -1,0 +1,78 @@
+{
+  "id": 874255217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.24987,44.169338,-73.24987,44.169338",
+    "geom:latitude":44.169338,
+    "geom:longitude":-73.24987,
+    "iso:country":"US",
+    "sg:address":"1 Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2233",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plate",
+        "window",
+        "glass-auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w4emA92psLy7Sfto3OoWI_44.169338_-73.249870@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313680,
+    "wof:geomhash":"684fd5e0c21f252c3171ec6ecb4f0370",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874255217
+        }
+    ],
+    "wof:id":874255217,
+    "wof:lastmodified":1464313680,
+    "wof:name":"Vergennes Glass",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -73.24987,
+    44.169338,
+    -73.24987,
+    44.169338
+],
+  "geometry": {"coordinates":[-73.24987,44.169338],"type":"Point"}
+}

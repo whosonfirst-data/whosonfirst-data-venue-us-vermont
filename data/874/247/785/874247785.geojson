@@ -1,0 +1,64 @@
+{
+  "id": 874247785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.220164,44.351834,-73.220164,44.351834",
+    "geom:latitude":44.351834,
+    "geom:longitude":-73.220164,
+    "iso:country":"US",
+    "sg:address":"269 Mount Philo Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 2220",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Mtk5MzHU2QqX87ACG4O6E_44.351834_-73.220164@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313490,
+    "wof:geomhash":"6d1a435a37209a5d3fed99ce5ff0f376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874247785
+        }
+    ],
+    "wof:id":874247785,
+    "wof:lastmodified":1464313490,
+    "wof:name":"Eds Body Shop",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.220164,
+    44.351834,
+    -73.220164,
+    44.351834
+],
+  "geometry": {"coordinates":[-73.220164,44.351834],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874242003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.536119,43.049521,-72.536119,43.049521",
+    "geom:latitude":43.049521,
+    "geom:longitude":-72.536119,
+    "iso:country":"US",
+    "sg:address":"95 Taylor Rd",
+    "sg:city":"Putney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 387 2770",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oISN4SX2vP04oxjcLd49q_43.049521_-72.536119@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313378,
+    "wof:geomhash":"ea11796af275bee40aac52570fb5f204",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874242003
+        }
+    ],
+    "wof:id":874242003,
+    "wof:lastmodified":1464313378,
+    "wof:name":"Carl's Transmission Svc",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -72.536119,
+    43.049521,
+    -72.536119,
+    43.049521
+],
+  "geometry": {"coordinates":[-72.536119,43.049521],"type":"Point"}
+}

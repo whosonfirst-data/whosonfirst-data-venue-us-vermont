@@ -1,0 +1,73 @@
+{
+  "id": 874160175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211139,44.431362,-73.211139,44.431362",
+    "geom:latitude":44.431362,
+    "geom:longitude":-73.211139,
+    "iso:country":"US",
+    "sg:address":"1720 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 6000",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zw0rmVhQNBF3pjxawsntx_44.431362_-73.211139@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312434,
+    "wof:geomhash":"616abbe7b04ed2bd1e748b346f9ce4f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874160175
+        }
+    ],
+    "wof:id":874160175,
+    "wof:lastmodified":1464312434,
+    "wof:name":"Howard Johnson",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "business"
+    ]
+},
+  "bbox": [
+    -73.211139,
+    44.431362,
+    -73.211139,
+    44.431362
+],
+  "geometry": {"coordinates":[-73.211139,44.431362],"type":"Point"}
+}

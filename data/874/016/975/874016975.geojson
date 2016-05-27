@@ -1,0 +1,71 @@
+{
+  "id": 874016975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.147109,44.000686,-73.147109,44.000686",
+    "geom:latitude":44.000686,
+    "geom:longitude":-73.147109,
+    "iso:country":"US",
+    "sg:address":"99 Wilson Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3143",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14Xj8ESwH1TXX8JQnxBXwM_44.000686_-73.147109@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310912,
+    "wof:geomhash":"6539bdc3465f81213edc8820f8835500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874016975
+        }
+    ],
+    "wof:id":874016975,
+    "wof:lastmodified":1464310912,
+    "wof:name":"Number One Auto Parts",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -73.147109,
+    44.000686,
+    -73.147109,
+    44.000686
+],
+  "geometry": {"coordinates":[-73.147109,44.000686],"type":"Point"}
+}

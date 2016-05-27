@@ -1,0 +1,71 @@
+{
+  "id": 874222237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.181432,44.149686,-73.181432,44.149686",
+    "geom:latitude":44.149686,
+    "geom:longitude":-73.181432,
+    "iso:country":"US",
+    "sg:address":"1435 Quarry Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 4114",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sculptor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IIrBpk9Tnq5yuYQ9W5BKz_44.149686_-73.181432@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313086,
+    "wof:geomhash":"5aaeb1416052866ea6ba27ca1a907c80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874222237
+        }
+    ],
+    "wof:id":874222237,
+    "wof:lastmodified":1464313086,
+    "wof:name":"Sparling Studio",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sculptor"
+    ]
+},
+  "bbox": [
+    -73.181432,
+    44.149686,
+    -73.181432,
+    44.149686
+],
+  "geometry": {"coordinates":[-73.181432,44.149686],"type":"Point"}
+}

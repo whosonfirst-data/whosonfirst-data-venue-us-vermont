@@ -1,0 +1,71 @@
+{
+  "id": 874114161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.677989,44.988001,-72.677989,44.988001",
+    "geom:latitude":44.988001,
+    "geom:longitude":-72.677989,
+    "iso:country":"US",
+    "sg:address":"308 S Main St",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 848 3886",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "work",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00uVzZ13vD5e9psZdGcJVw_44.988001_-72.677989@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311979,
+    "wof:geomhash":"bd4caf46d3fdfa241f4e13a97de8a34f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874114161
+        }
+    ],
+    "wof:id":874114161,
+    "wof:lastmodified":1464311979,
+    "wof:name":"Maurise Legault Electric",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -72.677989,
+    44.988001,
+    -72.677989,
+    44.988001
+],
+  "geometry": {"coordinates":[-72.677989,44.988001],"type":"Point"}
+}

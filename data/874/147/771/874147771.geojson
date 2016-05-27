@@ -1,0 +1,71 @@
+{
+  "id": 874147771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.48851,44.193844,-72.48851,44.193844",
+    "geom:latitude":44.193844,
+    "geom:longitude":-72.48851,
+    "iso:country":"US",
+    "sg:address":"86 Nelson St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2733",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54kpbLUCKQGsaJ8rUWaWIj_44.193844_-72.488510@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312309,
+    "wof:geomhash":"0bb2e816a269227b03c8244ec944e9d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874147771
+        }
+    ],
+    "wof:id":874147771,
+    "wof:lastmodified":1464312309,
+    "wof:name":"Greg's Painting",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -72.48851,
+    44.193844,
+    -72.48851,
+    44.193844
+],
+  "geometry": {"coordinates":[-72.48851000000001,44.193844],"type":"Point"}
+}

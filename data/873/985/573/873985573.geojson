@@ -1,0 +1,73 @@
+{
+  "id": 873985573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.023769,44.474096,-72.023769,44.474096",
+    "geom:latitude":44.474096,
+    "geom:longitude":-72.023769,
+    "iso:country":"US",
+    "sg:address":"23 Coffin Rd",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8694",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jMB0RX1ItsVwZtVdk4YX6_44.474096_-72.023769@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310654,
+    "wof:geomhash":"06d7134ffb7bcad5489e4c31efaf1ac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":873985573
+        }
+    ],
+    "wof:id":873985573,
+    "wof:lastmodified":1464310654,
+    "wof:name":"Gingues Auto Body",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.023769,
+    44.474096,
+    -72.023769,
+    44.474096
+],
+  "geometry": {"coordinates":[-72.023769,44.474096],"type":"Point"}
+}

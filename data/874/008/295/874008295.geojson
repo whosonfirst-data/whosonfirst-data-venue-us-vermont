@@ -1,0 +1,66 @@
+{
+  "id": 874008295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199938,44.056776,-73.199938,44.056776",
+    "geom:latitude":44.056776,
+    "geom:longitude":-73.199938,
+    "iso:country":"US",
+    "sg:address":"58 Lafountain Ln",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 236 5012",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MGwmtNGxUpnWMqOs8r1a6_44.056776_-73.199938@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310843,
+    "wof:geomhash":"949933cc077296d2ad5c4febbe826384",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874008295
+        }
+    ],
+    "wof:id":874008295,
+    "wof:lastmodified":1464310843,
+    "wof:name":"Skips Repair",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.199938,
+    44.056776,
+    -73.199938,
+    44.056776
+],
+  "geometry": {"coordinates":[-73.199938,44.056776],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874092401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.830361,44.6474,-72.830361,44.6474",
+    "geom:latitude":44.6474,
+    "geom:longitude":-72.830361,
+    "iso:country":"US",
+    "sg:address":"5109 State Rte 15",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2858",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4voWBB1pgPWBv9ErVlTFBV_44.647400_-72.830361@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311689,
+    "wof:geomhash":"20ee90ac3619fffb4d96cbe3c87f0631",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874092401
+        }
+    ],
+    "wof:id":874092401,
+    "wof:lastmodified":1464311689,
+    "wof:name":"Jeffersonville Automotive",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.830361,
+    44.6474,
+    -72.830361,
+    44.6474
+],
+  "geometry": {"coordinates":[-72.830361,44.6474],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874223779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213793,44.470996,-73.213793,44.470996",
+    "geom:latitude":44.470996,
+    "geom:longitude":-73.213793,
+    "iso:country":"US",
+    "sg:address":"39 Kilburn St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 9196",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "stationer",
+        "photocopying",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qP4fxCwhr2TgwfDD2NK2s_44.470996_-73.213793@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313101,
+    "wof:geomhash":"de4a83a0a1fba33ef22774cfd40b5a9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874223779
+        }
+    ],
+    "wof:id":874223779,
+    "wof:lastmodified":1464313101,
+    "wof:name":"Fox Printing",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stationer",
+        "photocopying",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -73.213793,
+    44.470996,
+    -73.213793,
+    44.470996
+],
+  "geometry": {"coordinates":[-73.213793,44.470996],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874226729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.976243,43.603215,-72.976243,43.603215",
+    "geom:latitude":43.603215,
+    "geom:longitude":-72.976243,
+    "iso:country":"US",
+    "sg:address":"135 Strongs Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3054",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TXPhzdWb0uObugqS4wPFk_43.603215_-72.976243@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313128,
+    "wof:geomhash":"f6b47aca4795f6507f9ebe53c6deaa31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874226729
+        }
+    ],
+    "wof:id":874226729,
+    "wof:lastmodified":1464313128,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -72.976243,
+    43.603215,
+    -72.976243,
+    43.603215
+],
+  "geometry": {"coordinates":[-72.976243,43.603215],"type":"Point"}
+}

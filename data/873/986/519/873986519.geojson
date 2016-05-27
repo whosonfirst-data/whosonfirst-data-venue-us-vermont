@@ -1,0 +1,71 @@
+{
+  "id": 873986519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210698,44.43456,-73.210698,44.43456",
+    "geom:latitude":44.43456,
+    "geom:longitude":-73.210698,
+    "iso:country":"US",
+    "sg:address":"1475 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 9591",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iVxSrKeKuZ5MaBCNBWgEA_44.434560_-73.210698@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310665,
+    "wof:geomhash":"2403b6136bb8e7aff87e66ff3a313996",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873986519
+        }
+    ],
+    "wof:id":873986519,
+    "wof:lastmodified":1464310665,
+    "wof:name":"OBriens Training Center",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.210698,
+    44.43456,
+    -73.210698,
+    44.43456
+],
+  "geometry": {"coordinates":[-73.21069799999999,44.43456],"type":"Point"}
+}

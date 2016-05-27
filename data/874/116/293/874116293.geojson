@@ -1,0 +1,71 @@
+{
+  "id": 874116293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.497813,44.195012,-72.497813,44.195012",
+    "geom:latitude":44.195012,
+    "geom:longitude":-72.497813,
+    "iso:country":"US",
+    "sg:address":"85 Washington St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7162",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QXYKImRm8ZFxyuydrSl1k_44.195012_-72.497813@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311999,
+    "wof:geomhash":"fe46f2fc08d58da629dc13152e9ea768",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874116293
+        }
+    ],
+    "wof:id":874116293,
+    "wof:lastmodified":1464311999,
+    "wof:name":"James J Crumbaker DDS",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.497813,
+    44.195012,
+    -72.497813,
+    44.195012
+],
+  "geometry": {"coordinates":[-72.49781299999999,44.195012],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874150007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196477,44.429785,-73.196477,44.429785",
+    "geom:latitude":44.429785,
+    "geom:longitude":-73.196477,
+    "iso:country":"US",
+    "sg:address":"3 Brownell Way",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 2709",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tpmEZkclpnHhNRWnYeVOo_44.429785_-73.196477@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312329,
+    "wof:geomhash":"2a31fa0c6297e9305b6de6a6710002d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874150007
+        }
+    ],
+    "wof:id":874150007,
+    "wof:lastmodified":1464312329,
+    "wof:name":"G & E Delivery Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.196477,
+    44.429785,
+    -73.196477,
+    44.429785
+],
+  "geometry": {"coordinates":[-73.196477,44.429785],"type":"Point"}
+}

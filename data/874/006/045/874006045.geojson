@@ -1,0 +1,71 @@
+{
+  "id": 874006045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.567995,44.587951,-72.567995,44.587951",
+    "geom:latitude":44.587951,
+    "geom:longitude":-72.567995,
+    "iso:country":"US",
+    "sg:address":"981 Trombley Hill Rd",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 7117",
+    "sg:postcode":"05655",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GCjERZgCajk2b1psx7iZJ_44.587951_-72.567995@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310825,
+    "wof:geomhash":"048ee6d27a0d585ea2a00194d9164c66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874006045
+        }
+    ],
+    "wof:id":874006045,
+    "wof:lastmodified":1464310825,
+    "wof:name":"Bc Excavation Inc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.567995,
+    44.587951,
+    -72.567995,
+    44.587951
+],
+  "geometry": {"coordinates":[-72.567995,44.587951],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874055773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50641,44.2012,-72.50641,44.2012",
+    "geom:latitude":44.2012,
+    "geom:longitude":-72.50641,
+    "iso:country":"US",
+    "sg:address":"324 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 0199",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department",
+        "fish",
+        "wildlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66WdDGNzugO3Vsch9Vvyh3_44.201200_-72.506410@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311299,
+    "wof:geomhash":"781d805a241cc9338a0e6686e2096bc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874055773
+        }
+    ],
+    "wof:id":874055773,
+    "wof:lastmodified":1464311299,
+    "wof:name":"Barre Office",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "fish",
+        "wildlife"
+    ]
+},
+  "bbox": [
+    -72.50641,
+    44.2012,
+    -72.50641,
+    44.2012
+],
+  "geometry": {"coordinates":[-72.50641,44.2012],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874083293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.558071,42.882481,-72.558071,42.882481",
+    "geom:latitude":42.882481,
+    "geom:longitude":-72.558071,
+    "iso:country":"US",
+    "sg:address":"1075 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 9900",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qq1ERUYUDJktjuoWatysr_42.882481_-72.558071@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311592,
+    "wof:geomhash":"f728fd65d587338427e585ba3fcebe6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874083293
+        }
+    ],
+    "wof:id":874083293,
+    "wof:lastmodified":1464311592,
+    "wof:name":"Thrifty Car Rental",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.558071,
+    42.882481,
+    -72.558071,
+    42.882481
+],
+  "geometry": {"coordinates":[-72.558071,42.882481],"type":"Point"}
+}

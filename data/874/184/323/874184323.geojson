@@ -1,0 +1,73 @@
+{
+  "id": 874184323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.109985,44.052965,-73.109985,44.052965",
+    "geom:latitude":44.052965,
+    "geom:longitude":-73.109985,
+    "iso:country":"US",
+    "sg:address":"547 Cobble Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 8008",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "miscellaneous",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FoD6pSMyyIk3Gv1yJeNbU_44.052965_-73.109985@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312682,
+    "wof:geomhash":"ce5cb587c88f9556b9777a72aab6a490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874184323
+        }
+    ],
+    "wof:id":874184323,
+    "wof:lastmodified":1464312682,
+    "wof:name":"Steve Feldman & Assoc Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "miscellaneous",
+        "store"
+    ]
+},
+  "bbox": [
+    -73.109985,
+    44.052965,
+    -73.109985,
+    44.052965
+],
+  "geometry": {"coordinates":[-73.10998499999999,44.052965],"type":"Point"}
+}

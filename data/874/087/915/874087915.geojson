@@ -1,0 +1,73 @@
+{
+  "id": 874087915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.20601,44.470651,-73.20601,44.470651",
+    "geom:latitude":44.470651,
+    "geom:longitude":-73.20601,
+    "iso:country":"US",
+    "sg:address":"119 Spruce St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 5044",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GVumqGQYyTNYA5GjyC7Md_44.470651_-73.206010@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311640,
+    "wof:geomhash":"0058020647bee47400a1bc169ce0c349",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874087915
+        }
+    ],
+    "wof:id":874087915,
+    "wof:lastmodified":1464311640,
+    "wof:name":"Home Base Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.20601,
+    44.470651,
+    -73.20601,
+    44.470651
+],
+  "geometry": {"coordinates":[-73.20601000000001,44.470651],"type":"Point"}
+}

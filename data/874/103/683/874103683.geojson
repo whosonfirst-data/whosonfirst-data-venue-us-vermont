@@ -1,0 +1,73 @@
+{
+  "id": 874103683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.144508,44.024974,-73.144508,44.024974",
+    "geom:latitude":44.024974,
+    "geom:longitude":-73.144508,
+    "iso:country":"US",
+    "sg:address":"108 Juniper Ln",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3476",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "window",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iZ8593UruqkTEVvyssdGa_44.024974_-73.144508@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311840,
+    "wof:geomhash":"e9e5d664202f7ef195da025b8cbffaf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874103683
+        }
+    ],
+    "wof:id":874103683,
+    "wof:lastmodified":1464311840,
+    "wof:name":"Stark Window Cleaning Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.144508,
+    44.024974,
+    -73.144508,
+    44.024974
+],
+  "geometry": {"coordinates":[-73.144508,44.024974],"type":"Point"}
+}

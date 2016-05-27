@@ -1,0 +1,69 @@
+{
+  "id": 874174921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.106242,43.855198,-73.106242,43.855198",
+    "geom:latitude":43.855198,
+    "geom:longitude":-73.106242,
+    "iso:country":"US",
+    "sg:address":"581 US Hwy 7",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 8814",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cTGsuK2tiAnMOYbxBrVcy_43.855198_-73.106242@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312578,
+    "wof:geomhash":"73e65833594748ff2e1f01ef6676283f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874174921
+        }
+    ],
+    "wof:id":874174921,
+    "wof:lastmodified":1464312578,
+    "wof:name":"Leicester Service Ctr",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -73.106242,
+    43.855198,
+    -73.106242,
+    43.855198
+],
+  "geometry": {"coordinates":[-73.10624199999999,43.855198],"type":"Point"}
+}

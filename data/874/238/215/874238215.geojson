@@ -1,0 +1,71 @@
+{
+  "id": 874238215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.993796,44.404606,-72.993796,44.404606",
+    "geom:latitude":44.404606,
+    "geom:longitude":-72.993796,
+    "iso:country":"US",
+    "sg:address":"8 Depot St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 7710",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ouT2gcEbXCBz6S4gjAT7r_44.404606_-72.993796@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313306,
+    "wof:geomhash":"d80e1bbd99c48b465e2cf249e6b527ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874238215
+        }
+    ],
+    "wof:id":874238215,
+    "wof:lastmodified":1464313306,
+    "wof:name":"Richmond Home Supply Interiors",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -72.993796,
+    44.404606,
+    -72.993796,
+    44.404606
+],
+  "geometry": {"coordinates":[-72.993796,44.404606],"type":"Point"}
+}

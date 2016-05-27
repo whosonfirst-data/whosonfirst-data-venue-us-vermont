@@ -1,0 +1,69 @@
+{
+  "id": 874243013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.250204,44.310889,-73.250204,44.310889",
+    "geom:latitude":44.310889,
+    "geom:longitude":-73.250204,
+    "iso:country":"US",
+    "sg:address":"159 Ferry Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 3071",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85811695,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5brwqUoXZARWeAVf1SBpi6_44.310889_-73.250204@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313395,
+    "wof:geomhash":"9f79f88e38b53ab988cd3a172c02f845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85811695,
+            "region_id":85688763,
+            "venue_id":874243013
+        }
+    ],
+    "wof:id":874243013,
+    "wof:lastmodified":1464313395,
+    "wof:name":"Town Of Charlotte Clerk",
+    "wof:parent_id":85811695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -73.250204,
+    44.310889,
+    -73.250204,
+    44.310889
+],
+  "geometry": {"coordinates":[-73.250204,44.310889],"type":"Point"}
+}

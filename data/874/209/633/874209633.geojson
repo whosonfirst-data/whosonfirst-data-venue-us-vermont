@@ -1,0 +1,71 @@
+{
+  "id": 874209633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.173431,44.01771,-73.173431,44.01771",
+    "geom:latitude":44.01771,
+    "geom:longitude":-73.173431,
+    "iso:country":"US",
+    "sg:address":"150 Lucius Shaw Ln",
+    "sg:city":"Cuttingsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 492 3562",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26fyAewKfMlYXV3YXoDSnX_44.017710_-73.173431@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312945,
+    "wof:geomhash":"c6e3550d77e1e2513ff15816a6b16573",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874209633
+        }
+    ],
+    "wof:id":874209633,
+    "wof:lastmodified":1464312945,
+    "wof:name":"Peter B Clarke Contracting",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -73.173431,
+    44.01771,
+    -73.173431,
+    44.01771
+],
+  "geometry": {"coordinates":[-73.17343099999999,44.01771],"type":"Point"}
+}

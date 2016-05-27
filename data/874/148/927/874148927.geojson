@@ -1,0 +1,71 @@
+{
+  "id": 874148927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.064501,44.436621,-73.064501,44.436621",
+    "geom:latitude":44.436621,
+    "geom:longitude":-73.064501,
+    "iso:country":"US",
+    "sg:address":"7846 Williston Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 6541",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oZdyBFKsPVy1azVdTUvfm_44.436621_-73.064501@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312319,
+    "wof:geomhash":"82405e1ea76408950a6225c5dc271d98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874148927
+        }
+    ],
+    "wof:id":874148927,
+    "wof:lastmodified":1464312319,
+    "wof:name":"Army National Guard",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -73.064501,
+    44.436621,
+    -73.064501,
+    44.436621
+],
+  "geometry": {"coordinates":[-73.06450100000001,44.436621],"type":"Point"}
+}

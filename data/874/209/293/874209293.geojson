@@ -1,0 +1,67 @@
+{
+  "id": 874209293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.565836,44.20917,-72.565836,44.20917",
+    "geom:latitude":44.20917,
+    "geom:longitude":-72.565836,
+    "iso:country":"US",
+    "sg:address":"41 Granger Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 0005",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:website":"www.vtvast.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P6LDYhyrswf5oFRyEp8Bp_44.209170_-72.565836@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312942,
+    "wof:geomhash":"3a1d2a0043124ff6e71b17dbb9560640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874209293
+        }
+    ],
+    "wof:id":874209293,
+    "wof:lastmodified":1464312942,
+    "wof:name":"Vermont Assn Of Snow Travelers",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.565836,
+    44.20917,
+    -72.565836,
+    44.20917
+],
+  "geometry": {"coordinates":[-72.565836,44.20917],"type":"Point"}
+}

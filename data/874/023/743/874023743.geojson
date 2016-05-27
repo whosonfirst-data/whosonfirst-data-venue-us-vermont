@@ -1,0 +1,76 @@
+{
+  "id": 874023743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971927,43.606216,-72.971927,43.606216",
+    "geom:latitude":43.606216,
+    "geom:longitude":-72.971927,
+    "iso:country":"US",
+    "sg:address":"173 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 0809",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09gcgNsjAnsGqJDIgwyyeg_43.606216_-72.971927@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310980,
+    "wof:geomhash":"d227a9bd1c1f037cd503947cb574fe74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874023743
+        }
+    ],
+    "wof:id":874023743,
+    "wof:lastmodified":1464310980,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -72.971927,
+    43.606216,
+    -72.971927,
+    43.606216
+],
+  "geometry": {"coordinates":[-72.97192699999999,43.606216],"type":"Point"}
+}

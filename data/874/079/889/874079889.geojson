@@ -1,0 +1,71 @@
+{
+  "id": 874079889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.047102,43.173719,-73.047102,43.173719",
+    "geom:latitude":43.173719,
+    "geom:longitude":-73.047102,
+    "iso:country":"US",
+    "sg:address":"114 Elm St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 3646",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XLpOwmvqSFmauCIlJO87X_43.173719_-73.047102@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311550,
+    "wof:geomhash":"ec53ed286d9dfb74b15de2661ae5541d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874079889
+        }
+    ],
+    "wof:id":874079889,
+    "wof:lastmodified":1464311550,
+    "wof:name":"Glass Shop Inc",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -73.047102,
+    43.173719,
+    -73.047102,
+    43.173719
+],
+  "geometry": {"coordinates":[-73.047102,43.173719],"type":"Point"}
+}

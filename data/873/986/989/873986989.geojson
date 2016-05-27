@@ -1,0 +1,71 @@
+{
+  "id": 873986989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088053,44.357013,-73.088053,44.357013",
+    "geom:latitude":44.357013,
+    "geom:longitude":-73.088053,
+    "iso:country":"US",
+    "sg:address":"220 Sunset Ln W",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 5096",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844363,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vaxc4bUZZzkSRV31brlH2_44.357013_-73.088053@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310668,
+    "wof:geomhash":"5ffb9e2e0f0f99bbccc6b8f65a7588e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85844363,
+            "region_id":85688763,
+            "venue_id":873986989
+        }
+    ],
+    "wof:id":873986989,
+    "wof:lastmodified":1464310668,
+    "wof:name":"Murray's Contracting Svc Inc",
+    "wof:parent_id":85844363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.088053,
+    44.357013,
+    -73.088053,
+    44.357013
+],
+  "geometry": {"coordinates":[-73.088053,44.357013],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874217481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.589099,43.268143,-72.589099,43.268143",
+    "geom:latitude":43.268143,
+    "geom:longitude":-72.589099,
+    "iso:country":"US",
+    "sg:address":"556 Elm St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 2173",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.chester.govoffice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q6aBTOdut1WJJuG96WCNZ_43.268143_-72.589099@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313027,
+    "wof:geomhash":"eaca39fbf0842a4b2466b9f6a14dcedb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874217481
+        }
+    ],
+    "wof:id":874217481,
+    "wof:lastmodified":1464313027,
+    "wof:name":"Chester Managers Office",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.589099,
+    43.268143,
+    -72.589099,
+    43.268143
+],
+  "geometry": {"coordinates":[-72.589099,43.268143],"type":"Point"}
+}

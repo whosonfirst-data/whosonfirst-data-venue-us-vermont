@@ -1,0 +1,71 @@
+{
+  "id": 874047193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.542479,43.243993,-72.542479,43.243993",
+    "geom:latitude":43.243993,
+    "geom:longitude":-72.542479,
+    "iso:country":"US",
+    "sg:address":"469 Whitney Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 4020",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TFZoE4fE3ZT7OYasR2PhQ_43.243993_-72.542479@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311216,
+    "wof:geomhash":"058b35388d935e1cc785be9696ae52ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874047193
+        }
+    ],
+    "wof:id":874047193,
+    "wof:lastmodified":1464311216,
+    "wof:name":"Philip A Carpenter",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -72.542479,
+    43.243993,
+    -72.542479,
+    43.243993
+],
+  "geometry": {"coordinates":[-72.542479,43.243993],"type":"Point"}
+}

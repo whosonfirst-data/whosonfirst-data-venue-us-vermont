@@ -1,0 +1,69 @@
+{
+  "id": 874162627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.616013,42.865945,-72.616013,42.865945",
+    "geom:latitude":42.865945,
+    "geom:longitude":-72.616013,
+    "iso:country":"US",
+    "sg:address":"328 Marlboro Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 4805",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MWONgSkvyu3bQ4553BUwl_42.865945_-72.616013@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312456,
+    "wof:geomhash":"34da290c8e915a0dd98119fe60195878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874162627
+        }
+    ],
+    "wof:id":874162627,
+    "wof:lastmodified":1464312456,
+    "wof:name":"Fleming Oil Co",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -72.616013,
+    42.865945,
+    -72.616013,
+    42.865945
+],
+  "geometry": {"coordinates":[-72.616013,42.865945],"type":"Point"}
+}

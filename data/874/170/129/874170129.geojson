@@ -1,0 +1,66 @@
+{
+  "id": 874170129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.353948,44.349555,-72.353948,44.349555",
+    "geom:latitude":44.349555,
+    "geom:longitude":-72.353948,
+    "iso:country":"US",
+    "sg:address":"122 School St",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3581",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M7T4Hhc22wfOE9bjpz0Ht_44.349555_-72.353948@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312528,
+    "wof:geomhash":"50e93bf1730903adcedec5acc74a0cd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874170129
+        }
+    ],
+    "wof:id":874170129,
+    "wof:lastmodified":1464312528,
+    "wof:name":"Jaquith Public Library",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.353948,
+    44.349555,
+    -72.353948,
+    44.349555
+],
+  "geometry": {"coordinates":[-72.353948,44.349555],"type":"Point"}
+}

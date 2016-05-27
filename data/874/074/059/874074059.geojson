@@ -1,0 +1,71 @@
+{
+  "id": 874074059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.039358,44.596696,-73.039358,44.596696",
+    "geom:latitude":44.596696,
+    "geom:longitude":-73.039358,
+    "iso:country":"US",
+    "sg:address":"851 Woods Hollow Rd",
+    "sg:city":"Westford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 1144",
+    "sg:postcode":"05494",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818481,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TZ9HEvLwbJt1uxMZ28Hmj_44.596696_-73.039358@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311494,
+    "wof:geomhash":"3157041d28ecb96437e16c9921bb857b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85818481,
+            "region_id":85688763,
+            "venue_id":874074059
+        }
+    ],
+    "wof:id":874074059,
+    "wof:lastmodified":1464311494,
+    "wof:name":"Cobb's Corner",
+    "wof:parent_id":85818481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -73.039358,
+    44.596696,
+    -73.039358,
+    44.596696
+],
+  "geometry": {"coordinates":[-73.03935799999999,44.596696],"type":"Point"}
+}

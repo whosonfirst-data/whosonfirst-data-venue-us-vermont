@@ -1,0 +1,70 @@
+{
+  "id": 874255691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.981045,43.610716,-72.981045,43.610716",
+    "geom:latitude":43.610716,
+    "geom:longitude":-72.981045,
+    "iso:country":"US",
+    "sg:address":"66 Grove St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 3221",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"http://www.cpa-vermont.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rmNG2OfYkhWLaOIapxAY7_43.610716_-72.981045@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313689,
+    "wof:geomhash":"129777da65387fb479c45468001fffef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255691
+        }
+    ],
+    "wof:id":874255691,
+    "wof:lastmodified":1464313689,
+    "wof:name":"Harvey House Ltd",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.981045,
+    43.610716,
+    -72.981045,
+    43.610716
+],
+  "geometry": {"coordinates":[-72.98104499999999,43.610716],"type":"Point"}
+}

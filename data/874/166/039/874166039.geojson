@@ -1,0 +1,75 @@
+{
+  "id": 874166039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.232201,44.020714,-73.232201,44.020714",
+    "geom:latitude":44.020714,
+    "geom:longitude":-73.232201,
+    "iso:country":"US",
+    "sg:address":"1601 Lemon Fair Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2446",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WYj4BqpnoK6CTWIe36mLL_44.020714_-73.232201@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312490,
+    "wof:geomhash":"28c26923ef44fe399a8918cd992114b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874166039
+        }
+    ],
+    "wof:id":874166039,
+    "wof:lastmodified":1464312490,
+    "wof:name":"Weybridge Farms Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -73.232201,
+    44.020714,
+    -73.232201,
+    44.020714
+],
+  "geometry": {"coordinates":[-73.232201,44.020714],"type":"Point"}
+}

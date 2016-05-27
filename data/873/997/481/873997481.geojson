@@ -1,0 +1,74 @@
+{
+  "id": 873997481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.499842,44.196636,-72.499842,44.196636",
+    "geom:latitude":44.196636,
+    "geom:longitude":-72.499842,
+    "iso:country":"US",
+    "sg:address":"30 Washington St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0531",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "management",
+        "elderly"
+    ],
+    "sg:website":"www.cvcoa.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tDxMv6uoMxrowD3A2jYDX_44.196636_-72.499842@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310743,
+    "wof:geomhash":"1cf027eeab036b2017e8ceed0892f79c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873997481
+        }
+    ],
+    "wof:id":873997481,
+    "wof:lastmodified":1464310743,
+    "wof:name":"Central Vt Council On Aging",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "elderly"
+    ]
+},
+  "bbox": [
+    -72.499842,
+    44.196636,
+    -72.499842,
+    44.196636
+],
+  "geometry": {"coordinates":[-72.499842,44.196636],"type":"Point"}
+}

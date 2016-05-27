@@ -1,0 +1,71 @@
+{
+  "id": 874228075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215451,44.461208,-73.215451,44.461208",
+    "geom:latitude":44.461208,
+    "geom:longitude":-73.215451,
+    "iso:country":"US",
+    "sg:address":"175 Lakeside Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 0442",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YSPsV696hcjNWOjI8tF18_44.461208_-73.215451@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313141,
+    "wof:geomhash":"908d5c50bcb69ea22ec0587b5cf7f9f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874228075
+        }
+    ],
+    "wof:id":874228075,
+    "wof:lastmodified":1464313141,
+    "wof:name":"Cwm Transportation",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -73.215451,
+    44.461208,
+    -73.215451,
+    44.461208
+],
+  "geometry": {"coordinates":[-73.215451,44.461208],"type":"Point"}
+}

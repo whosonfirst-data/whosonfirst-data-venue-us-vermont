@@ -1,0 +1,71 @@
+{
+  "id": 874120719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.004021,44.535015,-72.004021,44.535015",
+    "geom:latitude":44.535015,
+    "geom:longitude":-72.004021,
+    "iso:country":"US",
+    "sg:address":"51 Depot St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 3121",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pathologist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vO56OdsUGwC9upV0JcOSu_44.535015_-72.004021@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312047,
+    "wof:geomhash":"befadd5d82b4ce4f3e7fff094b7d2994",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874120719
+        }
+    ],
+    "wof:id":874120719,
+    "wof:lastmodified":1464312047,
+    "wof:name":"Dialect Accent Specialists Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pathologist",
+        "speech"
+    ]
+},
+  "bbox": [
+    -72.004021,
+    44.535015,
+    -72.004021,
+    44.535015
+],
+  "geometry": {"coordinates":[-72.00402099999999,44.535015],"type":"Point"}
+}

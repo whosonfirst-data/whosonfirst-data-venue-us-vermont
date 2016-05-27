@@ -1,0 +1,75 @@
+{
+  "id": 874242323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.10192,44.520971,-73.10192,44.520971",
+    "geom:latitude":44.520971,
+    "geom:longitude":-73.10192,
+    "iso:country":"US",
+    "sg:address":"146 Lost Nation Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 5579",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rm3ePboNAqWh5F6is054y_44.520971_-73.101920@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313383,
+    "wof:geomhash":"ce6e9caa76090c9e1cef75d334868487",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874242323
+        }
+    ],
+    "wof:id":874242323,
+    "wof:lastmodified":1464313383,
+    "wof:name":"Greenwood Floor Svc",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ]
+},
+  "bbox": [
+    -73.10192,
+    44.520971,
+    -73.10192,
+    44.520971
+],
+  "geometry": {"coordinates":[-73.10192000000001,44.520971],"type":"Point"}
+}

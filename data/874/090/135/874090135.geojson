@@ -1,0 +1,64 @@
+{
+  "id": 874090135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.993477,44.404761,-72.993477,44.404761",
+    "geom:latitude":44.404761,
+    "geom:longitude":-72.993477,
+    "iso:country":"US",
+    "sg:address":"50 Bridge St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 5143",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pnsDbcp5S31gpElIdSzou_44.404761_-72.993477@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311665,
+    "wof:geomhash":"2309a394cf32f39a6f52101d9c1c6696",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874090135
+        }
+    ],
+    "wof:id":874090135,
+    "wof:lastmodified":1464311665,
+    "wof:name":"Bear Hug Florist",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.993477,
+    44.404761,
+    -72.993477,
+    44.404761
+],
+  "geometry": {"coordinates":[-72.993477,44.404761],"type":"Point"}
+}

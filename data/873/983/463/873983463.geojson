@@ -1,0 +1,69 @@
+{
+  "id": 873983463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.149307,44.546206,-73.149307,44.546206",
+    "geom:latitude":44.546206,
+    "geom:longitude":-73.149307,
+    "iso:country":"US",
+    "sg:address":"119 Cobbleview Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 0139",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s1uD2UHDMh2MAqVHEWf4w_44.546206_-73.149307@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310637,
+    "wof:geomhash":"7acbb8a09ea88ddef3084928523cb163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":873983463
+        }
+    ],
+    "wof:id":873983463,
+    "wof:lastmodified":1464310637,
+    "wof:name":"David W Brubaker",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group"
+    ]
+},
+  "bbox": [
+    -73.149307,
+    44.546206,
+    -73.149307,
+    44.546206
+],
+  "geometry": {"coordinates":[-73.14930699999999,44.546206],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874254413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.781998,44.601898,-72.781998,44.601898",
+    "geom:latitude":44.601898,
+    "geom:longitude":-72.781998,
+    "iso:country":"US",
+    "sg:address":"598 Smugglers View Rd",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5695",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849535,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RWtHu8fYfNdubNzaXBTn2_44.601898_-72.781998@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313656,
+    "wof:geomhash":"ba32db9a29bb648a56b0a3b96ef9ba4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85849535,
+            "region_id":85688763,
+            "venue_id":874254413
+        }
+    ],
+    "wof:id":874254413,
+    "wof:lastmodified":1464313656,
+    "wof:name":"Sweeney and Belisle",
+    "wof:parent_id":85849535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.781998,
+    44.601898,
+    -72.781998,
+    44.601898
+],
+  "geometry": {"coordinates":[-72.781998,44.601898],"type":"Point"}
+}

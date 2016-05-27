@@ -1,0 +1,67 @@
+{
+  "id": 874233863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.080539,43.801829,-73.080539,43.801829",
+    "geom:latitude":43.801829,
+    "geom:longitude":-73.080539,
+    "iso:country":"US",
+    "sg:address":"1 Marble St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3449",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:website":"www.rowerealestate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HMErQIPylzJsU8C0wOYrG_43.801829_-73.080539@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313218,
+    "wof:geomhash":"d5199a5eba114f1e52d233d6be3fe947",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874233863
+        }
+    ],
+    "wof:id":874233863,
+    "wof:lastmodified":1464313218,
+    "wof:name":"Rowes Real Estate",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.080539,
+    43.801829,
+    -73.080539,
+    43.801829
+],
+  "geometry": {"coordinates":[-73.080539,43.801829],"type":"Point"}
+}

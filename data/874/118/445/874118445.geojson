@@ -1,0 +1,71 @@
+{
+  "id": 874118445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.121131,44.081098,-73.121131,44.081098",
+    "geom:latitude":44.081098,
+    "geom:longitude":-73.121131,
+    "iso:country":"US",
+    "sg:address":"3237 River Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 1044",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aFoFyjyGFwwC7H1GpN064_44.081098_-73.121131@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312020,
+    "wof:geomhash":"8853d20979fdb9a526f8ce24c5b2542a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874118445
+        }
+    ],
+    "wof:id":874118445,
+    "wof:lastmodified":1464312020,
+    "wof:name":"Brooks Firewood & Logging",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -73.121131,
+    44.081098,
+    -73.121131,
+    44.081098
+],
+  "geometry": {"coordinates":[-73.12113100000001,44.081098],"type":"Point"}
+}

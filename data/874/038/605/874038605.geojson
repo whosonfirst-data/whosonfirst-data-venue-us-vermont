@@ -1,0 +1,69 @@
+{
+  "id": 874038605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.52721,43.336148,-72.52721,43.336148",
+    "geom:latitude":43.336148,
+    "geom:longitude":-72.52721,
+    "iso:country":"US",
+    "sg:address":"26 School St",
+    "sg:city":"North Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 2624",
+    "sg:postcode":"05150",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GUuD1aRGo13fx7szLXl1Y_43.336148_-72.527210@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311131,
+    "wof:geomhash":"16d8023096b602629ebecd6dabe86f17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874038605
+        }
+    ],
+    "wof:id":874038605,
+    "wof:lastmodified":1464311131,
+    "wof:name":"Country Beauty Salon",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.52721,
+    43.336148,
+    -72.52721,
+    43.336148
+],
+  "geometry": {"coordinates":[-72.52721,43.336148],"type":"Point"}
+}

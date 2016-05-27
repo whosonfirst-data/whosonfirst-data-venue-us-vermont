@@ -1,0 +1,69 @@
+{
+  "id": 874068889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.079203,44.432127,-72.079203,44.432127",
+    "geom:latitude":44.432127,
+    "geom:longitude":-72.079203,
+    "iso:country":"US",
+    "sg:address":"1647 State Rte 2b",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 2141",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "piano"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oUXMVdoMu93PP8yrUwMBh_44.432127_-72.079203@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311422,
+    "wof:geomhash":"1fcf2ac700f847b98f8de11dca15b3ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874068889
+        }
+    ],
+    "wof:id":874068889,
+    "wof:lastmodified":1464311422,
+    "wof:name":"Melody Hill Farm",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano"
+    ]
+},
+  "bbox": [
+    -72.079203,
+    44.432127,
+    -72.079203,
+    44.432127
+],
+  "geometry": {"coordinates":[-72.07920300000001,44.432127],"type":"Point"}
+}

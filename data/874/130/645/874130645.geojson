@@ -1,0 +1,69 @@
+{
+  "id": 874130645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.046906,44.460112,-73.046906,44.460112",
+    "geom:latitude":44.460112,
+    "geom:longitude":-73.046906,
+    "iso:country":"US",
+    "sg:address":"21 la Fountain St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 0214",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ApIWv1YUnorw3lSnrXc5V_44.460112_-73.046906@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312145,
+    "wof:geomhash":"b87cf0ccf8b4c7f73c6d8f9095490a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874130645
+        }
+    ],
+    "wof:id":874130645,
+    "wof:lastmodified":1464312145,
+    "wof:name":"Qi River Accupuncture",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture"
+    ]
+},
+  "bbox": [
+    -73.046906,
+    44.460112,
+    -73.046906,
+    44.460112
+],
+  "geometry": {"coordinates":[-73.04690600000001,44.460112],"type":"Point"}
+}

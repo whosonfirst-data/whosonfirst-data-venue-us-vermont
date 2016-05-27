@@ -1,0 +1,69 @@
+{
+  "id": 874043313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.969123,43.609379,-72.969123,43.609379",
+    "geom:latitude":43.609379,
+    "geom:longitude":-72.969123,
+    "iso:country":"US",
+    "sg:address":"28 East St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 0566",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5twPqoUaRm2vToceaIYXMC_43.609379_-72.969123@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311179,
+    "wof:geomhash":"03ecbec573f28a64f45846493f04659c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874043313
+        }
+    ],
+    "wof:id":874043313,
+    "wof:lastmodified":1464311179,
+    "wof:name":"Mid Vermont Neurology",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.969123,
+    43.609379,
+    -72.969123,
+    43.609379
+],
+  "geometry": {"coordinates":[-72.969123,43.609379],"type":"Point"}
+}

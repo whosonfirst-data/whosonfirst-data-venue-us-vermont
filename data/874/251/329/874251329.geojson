@@ -1,0 +1,111 @@
+{
+  "id": 874251329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210708,42.92041,-73.210708,42.92041",
+    "geom:latitude":42.92041,
+    "geom:longitude":-73.210708,
+    "iso:country":"US",
+    "sg:address":"1371 Harwood Hill Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 3212",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "designer",
+        "upholsterer",
+        "material",
+        "bed",
+        "set",
+        "decorator",
+        "bedroom",
+        "interior",
+        "store"
+    ],
+    "sg:website":"http://www.benningtonfurniture.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qPCWQDnNsaiyYinvIcQsE_42.920410_-73.210708@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313592,
+    "wof:geomhash":"a0271cdf4a2cbf57903ee068876fecec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251329
+        }
+    ],
+    "wof:id":874251329,
+    "wof:lastmodified":1464313592,
+    "wof:name":"Bennington Furniture",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "upholsterer",
+        "material",
+        "bed",
+        "set",
+        "decorator",
+        "bedroom",
+        "interior",
+        "store"
+    ]
+},
+  "bbox": [
+    -73.210708,
+    42.92041,
+    -73.210708,
+    42.92041
+],
+  "geometry": {"coordinates":[-73.210708,42.92041],"type":"Point"}
+}

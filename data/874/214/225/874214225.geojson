@@ -1,0 +1,76 @@
+{
+  "id": 874214225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.47903,43.379871,-72.47903,43.379871",
+    "geom:latitude":43.379871,
+    "geom:longitude":-72.47903,
+    "iso:country":"US",
+    "sg:address":"793 Cady Hill Rd",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 9642",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "estimate",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4djK2YAkiJeajkhQloV1JI_43.379871_-72.479030@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312997,
+    "wof:geomhash":"e1b52273e05ab1977e8df66fcefd5e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874214225
+        }
+    ],
+    "wof:id":874214225,
+    "wof:lastmodified":1464312997,
+    "wof:name":"Nichols Brook Restoration",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "estimate",
+        "construction"
+    ]
+},
+  "bbox": [
+    -72.47903,
+    43.379871,
+    -72.47903,
+    43.379871
+],
+  "geometry": {"coordinates":[-72.47902999999999,43.379871],"type":"Point"}
+}

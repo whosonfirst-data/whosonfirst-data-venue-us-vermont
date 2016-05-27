@@ -1,0 +1,69 @@
+{
+  "id": 874179565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.652947,44.620617,-72.652947,44.620617",
+    "geom:latitude":44.620617,
+    "geom:longitude":-72.652947,
+    "iso:country":"US",
+    "sg:address":"499 Maple Hill Rd",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 7549",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ryBK2KxIjLVdca3PLRSW7_44.620617_-72.652947@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312626,
+    "wof:geomhash":"4b3db13c246c6f21303fe4d6fcc5a30c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874179565
+        }
+    ],
+    "wof:id":874179565,
+    "wof:lastmodified":1464312626,
+    "wof:name":"Langevin Rehabilitation Svc",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -72.652947,
+    44.620617,
+    -72.652947,
+    44.620617
+],
+  "geometry": {"coordinates":[-72.652947,44.620617],"type":"Point"}
+}

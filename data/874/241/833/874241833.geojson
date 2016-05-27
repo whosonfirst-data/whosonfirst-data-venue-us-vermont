@@ -1,0 +1,71 @@
+{
+  "id": 874241833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.153381,44.123537,-73.153381,44.123537",
+    "geom:latitude":44.123537,
+    "geom:longitude":-73.153381,
+    "iso:country":"US",
+    "sg:address":"61 South St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3374",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AIOhBAyRvTL7W1xzaAvyY_44.123537_-73.153381@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313374,
+    "wof:geomhash":"b6903855fb4f76a4a45e4af18a8706c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874241833
+        }
+    ],
+    "wof:id":874241833,
+    "wof:lastmodified":1464313374,
+    "wof:name":"Liberty Construction Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.153381,
+    44.123537,
+    -73.153381,
+    44.123537
+],
+  "geometry": {"coordinates":[-73.153381,44.123537],"type":"Point"}
+}

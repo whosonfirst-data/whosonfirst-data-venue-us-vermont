@@ -1,0 +1,71 @@
+{
+  "id": 874135189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.113676,44.452082,-73.113676,44.452082",
+    "geom:latitude":44.452082,
+    "geom:longitude":-73.113676,
+    "iso:country":"US",
+    "sg:address":"311 Lawrence Pl",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 0909",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cN8ncm32mElsZJNgkXcDz_44.452082_-73.113676@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312192,
+    "wof:geomhash":"1468071aae34cc5c7f588f45e39ba190",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874135189
+        }
+    ],
+    "wof:id":874135189,
+    "wof:lastmodified":1464312192,
+    "wof:name":"Associates In Physical Therapy",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.113676,
+    44.452082,
+    -73.113676,
+    44.452082
+],
+  "geometry": {"coordinates":[-73.113676,44.452082],"type":"Point"}
+}

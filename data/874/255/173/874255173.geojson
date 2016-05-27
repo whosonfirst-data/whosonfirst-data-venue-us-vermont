@@ -1,0 +1,84 @@
+{
+  "id": 874255173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.245178,44.131069,-73.245178,44.131069",
+    "geom:latitude":44.131069,
+    "geom:longitude":-73.245178,
+    "iso:country":"US",
+    "sg:address":"2053 Maple St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3641",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LQnIrmvOSz1d0QciU7Bki_44.131069_-73.245178@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313679,
+    "wof:geomhash":"37c3f57bd03172448764dfef81b12317",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874255173
+        }
+    ],
+    "wof:id":874255173,
+    "wof:lastmodified":1464313679,
+    "wof:name":"Waltham Town Clerk",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -73.245178,
+    44.131069,
+    -73.245178,
+    44.131069
+],
+  "geometry": {"coordinates":[-73.245178,44.131069],"type":"Point"}
+}

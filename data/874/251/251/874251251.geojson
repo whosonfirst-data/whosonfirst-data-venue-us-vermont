@@ -1,0 +1,80 @@
+{
+  "id": 874251251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199722,42.878159,-73.199722,42.878159",
+    "geom:latitude":42.878159,
+    "geom:longitude":-73.199722,
+    "iso:country":"US",
+    "sg:address":"100 Franklin Ln",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 1995",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "government-state",
+        "force",
+        "armed",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F6JunYG6EVHegpM7kwxQN_42.878159_-73.199722@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313590,
+    "wof:geomhash":"0518b15e8e995286b16c760dd491c27b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251251
+        }
+    ],
+    "wof:id":874251251,
+    "wof:lastmodified":1464313590,
+    "wof:name":"Vermont Army National Guard",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state",
+        "force",
+        "armed",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -73.199722,
+    42.878159,
+    -73.199722,
+    42.878159
+],
+  "geometry": {"coordinates":[-73.19972199999999,42.878159],"type":"Point"}
+}

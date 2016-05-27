@@ -1,0 +1,73 @@
+{
+  "id": 874223171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.132323,44.531243,-73.132323,44.531243",
+    "geom:latitude":44.531243,
+    "geom:longitude":-73.132323,
+    "iso:country":"US",
+    "sg:address":"2363 Main St",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 4768",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EhWMaBsULNMFk7PJSpC5z_44.531243_-73.132323@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313095,
+    "wof:geomhash":"cbd7c69b8e1a3275d6f573287724e140",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874223171
+        }
+    ],
+    "wof:id":874223171,
+    "wof:lastmodified":1464313095,
+    "wof:name":"Caron's Colchester Auto Body",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -73.132323,
+    44.531243,
+    -73.132323,
+    44.531243
+],
+  "geometry": {"coordinates":[-73.132323,44.531243],"type":"Point"}
+}

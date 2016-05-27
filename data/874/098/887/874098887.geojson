@@ -1,0 +1,71 @@
+{
+  "id": 874098887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.000881,44.525586,-72.000881,44.525586",
+    "geom:latitude":44.525586,
+    "geom:longitude":-72.000881,
+    "iso:country":"US",
+    "sg:address":"66 Broad St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 8181",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bP3dra982kyKKi7l4a6j5_44.525586_-72.000881@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311770,
+    "wof:geomhash":"6d87094c1c418a61fd53f31b843a3afe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874098887
+        }
+    ],
+    "wof:id":874098887,
+    "wof:lastmodified":1464311770,
+    "wof:name":"Sullivan's Auto Supply",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -72.000881,
+    44.525586,
+    -72.000881,
+    44.525586
+],
+  "geometry": {"coordinates":[-72.00088100000001,44.525586],"type":"Point"}
+}

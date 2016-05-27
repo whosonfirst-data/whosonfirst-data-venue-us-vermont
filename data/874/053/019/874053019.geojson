@@ -1,0 +1,69 @@
+{
+  "id": 874053019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.021877,44.42067,-72.021877,44.42067",
+    "geom:latitude":44.42067,
+    "geom:longitude":-72.021877,
+    "iso:country":"US",
+    "sg:address":"18 Church St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8353",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Lbuji9PwHGh3gGFiKk3xN_44.420670_-72.021877@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311268,
+    "wof:geomhash":"6e127d8ee950ac4a424a01663bcb1e36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874053019
+        }
+    ],
+    "wof:id":874053019,
+    "wof:lastmodified":1464311268,
+    "wof:name":"Daniel Brodkowitz DDS",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.021877,
+    44.42067,
+    -72.021877,
+    44.42067
+],
+  "geometry": {"coordinates":[-72.021877,44.42067],"type":"Point"}
+}

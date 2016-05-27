@@ -1,0 +1,71 @@
+{
+  "id": 874040831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.202415,44.4763,-73.202415,44.4763",
+    "geom:latitude":44.4763,
+    "geom:longitude":-73.202415,
+    "iso:country":"US",
+    "sg:address":"61 Summit St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 4707",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H5JLvhPJ46KfAD0yTlhgo_44.476300_-73.202415@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311151,
+    "wof:geomhash":"a33cf5879631eb299dc4287059c551bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874040831
+        }
+    ],
+    "wof:id":874040831,
+    "wof:lastmodified":1464311151,
+    "wof:name":"Delta PSI Fraternity",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -73.202415,
+    44.4763,
+    -73.202415,
+    44.4763
+],
+  "geometry": {"coordinates":[-73.202415,44.4763],"type":"Point"}
+}

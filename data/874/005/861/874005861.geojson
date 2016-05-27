@@ -1,0 +1,71 @@
+{
+  "id": 874005861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.656202,44.12054,-72.656202,44.12054",
+    "geom:latitude":44.12054,
+    "geom:longitude":-72.656202,
+    "iso:country":"US",
+    "sg:address":"856 State Rte 12",
+    "sg:city":"Lake Elmore",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 2982",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NnioZf4koEElwAnmtBOZP_44.120540_-72.656202@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310824,
+    "wof:geomhash":"3bf9d1d7a1570fe2dc6ee59050f26a08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874005861
+        }
+    ],
+    "wof:id":874005861,
+    "wof:lastmodified":1464310824,
+    "wof:name":"Elmore State Park",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -72.656202,
+    44.12054,
+    -72.656202,
+    44.12054
+],
+  "geometry": {"coordinates":[-72.65620199999999,44.12054],"type":"Point"}
+}

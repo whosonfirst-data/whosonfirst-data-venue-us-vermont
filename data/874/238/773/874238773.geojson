@@ -1,0 +1,66 @@
+{
+  "id": 874238773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.512045,44.259095,-72.512045,44.259095",
+    "geom:latitude":44.259095,
+    "geom:longitude":-72.512045,
+    "iso:country":"US",
+    "sg:address":"45 Old Farm Rd",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 0114",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Nfr8K1GfoJ6RRlPNu7eMR_44.259095_-72.512045@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313317,
+    "wof:geomhash":"6f9bfc41ff68c8b8d306a5dbef5dfbcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874238773
+        }
+    ],
+    "wof:id":874238773,
+    "wof:lastmodified":1464313317,
+    "wof:name":"Country Pampered Paws",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.512045,
+    44.259095,
+    -72.512045,
+    44.259095
+],
+  "geometry": {"coordinates":[-72.512045,44.259095],"type":"Point"}
+}

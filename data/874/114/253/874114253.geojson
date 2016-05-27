@@ -1,0 +1,70 @@
+{
+  "id": 874114253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.251933,44.167875,-73.251933,44.167875",
+    "geom:latitude":44.167875,
+    "geom:longitude":-73.251933,
+    "iso:country":"US",
+    "sg:address":"6 Green St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 4632",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.stthomasvt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LKkHVCXQKJvfEzFuulPYH_44.167875_-73.251933@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311979,
+    "wof:geomhash":"249c451c1f08445ed43da0fd341e6237",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874114253
+        }
+    ],
+    "wof:id":874114253,
+    "wof:lastmodified":1464311979,
+    "wof:name":"St Thomas",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.251933,
+    44.167875,
+    -73.251933,
+    44.167875
+],
+  "geometry": {"coordinates":[-73.25193299999999,44.167875],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874116191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169536,44.015818,-73.169536,44.015818",
+    "geom:latitude":44.015818,
+    "geom:longitude":-73.169536,
+    "iso:country":"US",
+    "sg:address":"211 Maple St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3011",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27urdhy1M69N9AjABAV5gO_44.015818_-73.169536@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311998,
+    "wof:geomhash":"fb0d931355cb3191bd1ffc3a8a6ea3c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874116191
+        }
+    ],
+    "wof:id":874116191,
+    "wof:lastmodified":1464311998,
+    "wof:name":"Land Works",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -73.169536,
+    44.015818,
+    -73.169536,
+    44.015818
+],
+  "geometry": {"coordinates":[-73.16953599999999,44.015818],"type":"Point"}
+}

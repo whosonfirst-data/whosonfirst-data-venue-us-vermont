@@ -1,0 +1,71 @@
+{
+  "id": 874000027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.086677,43.914352,-73.086677,43.914352",
+    "geom:latitude":43.914352,
+    "geom:longitude":-73.086677,
+    "iso:country":"US",
+    "sg:address":"425 W Shore Rd",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 352 4290",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cottage",
+        "cabin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Cx1lhgqmndZdvX0BeDZll_43.914352_-73.086677@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310760,
+    "wof:geomhash":"a3a95601233a56266f4b68751e65b974",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874000027
+        }
+    ],
+    "wof:id":874000027,
+    "wof:lastmodified":1464310760,
+    "wof:name":"Sunset Lodge",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cottage",
+        "cabin"
+    ]
+},
+  "bbox": [
+    -73.086677,
+    43.914352,
+    -73.086677,
+    43.914352
+],
+  "geometry": {"coordinates":[-73.08667699999999,43.914352],"type":"Point"}
+}

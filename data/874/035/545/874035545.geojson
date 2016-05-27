@@ -1,0 +1,69 @@
+{
+  "id": 874035545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.560702,42.957003,-72.560702,42.957003",
+    "geom:latitude":42.957003,
+    "geom:longitude":-72.560702,
+    "iso:country":"US",
+    "sg:address":"147 Greenhoe Rd",
+    "sg:city":"Putney",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 387 5770",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IZJQq2yQahhi8Q2zQaBJa_42.957003_-72.560702@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311099,
+    "wof:geomhash":"285416cc73609cb4474421830ac2df99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874035545
+        }
+    ],
+    "wof:id":874035545,
+    "wof:lastmodified":1464311099,
+    "wof:name":"Vermont Harm Reduction Coaliti",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -72.560702,
+    42.957003,
+    -72.560702,
+    42.957003
+],
+  "geometry": {"coordinates":[-72.56070200000001,42.957003],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874122271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.537004,44.241349,-72.537004,44.241349",
+    "geom:latitude":44.241349,
+    "geom:longitude":-72.537004,
+    "iso:country":"US",
+    "sg:address":"967 US Hwy 2",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 1440",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43rVtSj8RLiZcLYGkXY2Cu_44.241349_-72.537004@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312061,
+    "wof:geomhash":"0c5e8fcb2cb545f73608d726f21a4e13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874122271
+        }
+    ],
+    "wof:id":874122271,
+    "wof:lastmodified":1464312061,
+    "wof:name":"William St Cyr Plumbing & Htg",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.537004,
+    44.241349,
+    -72.537004,
+    44.241349
+],
+  "geometry": {"coordinates":[-72.537004,44.241349],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874155379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.557374,44.249654,-72.557374,44.249654",
+    "geom:latitude":44.249654,
+    "geom:longitude":-72.557374,
+    "iso:country":"US",
+    "sg:address":"4 Blackwell St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 4297",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iDo8KWQ69Jgzlo2EC8XQ1_44.249654_-72.557374@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312381,
+    "wof:geomhash":"335e95ed08a105b647d896d4186b78f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874155379
+        }
+    ],
+    "wof:id":874155379,
+    "wof:lastmodified":1464312381,
+    "wof:name":"Drywall Stars",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.557374,
+    44.249654,
+    -72.557374,
+    44.249654
+],
+  "geometry": {"coordinates":[-72.557374,44.249654],"type":"Point"}
+}

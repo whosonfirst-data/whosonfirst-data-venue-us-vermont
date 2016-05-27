@@ -1,0 +1,77 @@
+{
+  "id": 874061531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.447355,44.164255,-72.447355,44.164255",
+    "geom:latitude":44.164255,
+    "geom:longitude":-72.447355,
+    "iso:country":"US",
+    "sg:address":"290 E Cobble Hill Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 0461",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853237,
+        102191575,
+        404527421,
+        85633793,
+        101728527,
+        102080779,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SUheIqNbXxdjpXipQYz3T_44.164255_-72.447355@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311349,
+    "wof:geomhash":"5ff3819f81068bb2887ed85e1bfd2f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080779,
+            "localadmin_id":404527421,
+            "locality_id":101728527,
+            "neighbourhood_id":85853237,
+            "region_id":85688763,
+            "venue_id":874061531
+        }
+    ],
+    "wof:id":874061531,
+    "wof:lastmodified":1464311349,
+    "wof:name":"Cobble Hill Construction",
+    "wof:parent_id":85853237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.447355,
+    44.164255,
+    -72.447355,
+    44.164255
+],
+  "geometry": {"coordinates":[-72.447355,44.164255],"type":"Point"}
+}

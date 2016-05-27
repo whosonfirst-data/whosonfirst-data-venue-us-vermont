@@ -1,0 +1,71 @@
+{
+  "id": 874065295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.246651,44.540802,-73.246651,44.540802",
+    "geom:latitude":44.540802,
+    "geom:longitude":-73.246651,
+    "iso:country":"US",
+    "sg:address":"306 Bissette Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 3802",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fP4oQ4SzxWFSTJu0BAosp_44.540802_-73.246651@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311382,
+    "wof:geomhash":"67362c58e4dce1d70e51135751fc8535",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874065295
+        }
+    ],
+    "wof:id":874065295,
+    "wof:lastmodified":1464311382,
+    "wof:name":"East Coast Manufacturing Co",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.246651,
+    44.540802,
+    -73.246651,
+    44.540802
+],
+  "geometry": {"coordinates":[-73.246651,44.540802],"type":"Point"}
+}

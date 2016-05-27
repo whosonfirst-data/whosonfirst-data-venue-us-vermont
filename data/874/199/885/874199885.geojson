@@ -1,0 +1,73 @@
+{
+  "id": 874199885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.718834,44.439847,-72.718834,44.439847",
+    "geom:latitude":44.439847,
+    "geom:longitude":-72.718834,
+    "iso:country":"US",
+    "sg:address":"199 Adams Mill Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 0921",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3urFtS3e7Bo6oaB0WDJ3d8_44.439847_-72.718834@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312842,
+    "wof:geomhash":"258ae3cbda7ab4c2b0978e872821917d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874199885
+        }
+    ],
+    "wof:id":874199885,
+    "wof:lastmodified":1464312842,
+    "wof:name":"Stowe Kennel Kare",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -72.718834,
+    44.439847,
+    -72.718834,
+    44.439847
+],
+  "geometry": {"coordinates":[-72.718834,44.439847],"type":"Point"}
+}

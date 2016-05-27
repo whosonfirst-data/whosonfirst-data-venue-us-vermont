@@ -1,0 +1,71 @@
+{
+  "id": 874196283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.669184,43.43472,-72.669184,43.43472",
+    "geom:latitude":43.43472,
+    "geom:longitude":-72.669184,
+    "iso:country":"US",
+    "sg:address":"671 Nelson Rd",
+    "sg:city":"Ludlow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 228 5632",
+    "sg:postcode":"05149",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YPpkgoxvW8sq0OjZveyE4_43.434720_-72.669184@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312808,
+    "wof:geomhash":"f0617415179d0e319f445a81cd752a97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874196283
+        }
+    ],
+    "wof:id":874196283,
+    "wof:lastmodified":1464312808,
+    "wof:name":"Alpine Woodworking",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.669184,
+    43.43472,
+    -72.669184,
+    43.43472
+],
+  "geometry": {"coordinates":[-72.669184,43.43472],"type":"Point"}
+}

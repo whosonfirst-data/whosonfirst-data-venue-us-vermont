@@ -1,0 +1,76 @@
+{
+  "id": 874256279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.92686,43.521803,-72.92686,43.521803",
+    "geom:latitude":43.521803,
+    "geom:longitude":-72.92686,
+    "iso:country":"US",
+    "sg:address":"2045 Vt Route 103",
+    "sg:city":"Cuttingsville",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 492 3194",
+    "sg:postcode":"05738",
+    "sg:province":"VT",
+    "sg:tags":[
+        "super",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35Ab1WUFseCce2V8A5e7up_43.521803_-72.926860@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313703,
+    "wof:geomhash":"9fd14cc48bb29d5356a36d4416f49a1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874256279
+        }
+    ],
+    "wof:id":874256279,
+    "wof:lastmodified":1464313703,
+    "wof:name":"Gloria's Pantry",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super",
+        "store"
+    ]
+},
+  "bbox": [
+    -72.92686,
+    43.521803,
+    -72.92686,
+    43.521803
+],
+  "geometry": {"coordinates":[-72.92686,43.521803],"type":"Point"}
+}

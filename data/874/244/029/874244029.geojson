@@ -1,0 +1,71 @@
+{
+  "id": 874244029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.579294,44.754899,-72.579294,44.754899",
+    "geom:latitude":44.754899,
+    "geom:longitude":-72.579294,
+    "iso:country":"US",
+    "sg:address":"3519 Belvidere Rd",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 7734",
+    "sg:postcode":"05652",
+    "sg:province":"VT",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aMVxyiGLDPwA1StKxkX52_44.754899_-72.579294@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313412,
+    "wof:geomhash":"965ebc2689cfbcc8ecbb4409b5e944e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874244029
+        }
+    ],
+    "wof:id":874244029,
+    "wof:lastmodified":1464313412,
+    "wof:name":"Moose Crossing Gun Shop",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -72.579294,
+    44.754899,
+    -72.579294,
+    44.754899
+],
+  "geometry": {"coordinates":[-72.579294,44.754899],"type":"Point"}
+}

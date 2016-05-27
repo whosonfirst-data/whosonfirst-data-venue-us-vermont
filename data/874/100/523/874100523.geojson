@@ -1,0 +1,71 @@
+{
+  "id": 874100523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.04,43.594021,-73.04,43.594021",
+    "geom:latitude":43.594021,
+    "geom:longitude":-73.04,
+    "iso:country":"US",
+    "sg:address":"47 State Rte 4a",
+    "sg:city":"Bomoseen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 468 2285",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "exchanging",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oK5gzECX8IEl5gGZHS0hp_43.594021_-73.040000@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311802,
+    "wof:geomhash":"81e9728e19b14217033c36362b88c1d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874100523
+        }
+    ],
+    "wof:id":874100523,
+    "wof:lastmodified":1464311802,
+    "wof:name":"Edger Engines Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchanging",
+        "engine"
+    ]
+},
+  "bbox": [
+    -73.04,
+    43.594021,
+    -73.04,
+    43.594021
+],
+  "geometry": {"coordinates":[-73.04000000000001,43.594021],"type":"Point"}
+}

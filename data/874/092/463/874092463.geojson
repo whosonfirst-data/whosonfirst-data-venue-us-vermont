@@ -1,0 +1,86 @@
+{
+  "id": 874092463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.594244,44.573115,-72.594244,44.573115",
+    "geom:latitude":44.573115,
+    "geom:longitude":-72.594244,
+    "iso:country":"US",
+    "sg:address":"746 Brooklyn St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5138",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair",
+        "sales",
+        "contractor",
+        "forestry",
+        "ranger",
+        "rental",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EBytCvVNdilnlUIDBmAsA_44.573115_-72.594244@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311690,
+    "wof:geomhash":"793954f61cd382b78088554c965169b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874092463
+        }
+    ],
+    "wof:id":874092463,
+    "wof:lastmodified":1464311690,
+    "wof:name":"Pete's Repair Inc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "sales",
+        "contractor",
+        "forestry",
+        "ranger",
+        "rental",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.594244,
+    44.573115,
+    -72.594244,
+    44.573115
+],
+  "geometry": {"coordinates":[-72.594244,44.573115],"type":"Point"}
+}

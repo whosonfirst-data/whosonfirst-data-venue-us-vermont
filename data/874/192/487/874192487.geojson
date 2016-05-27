@@ -1,0 +1,69 @@
+{
+  "id": 874192487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.601577,43.2653,-72.601577,43.2653",
+    "geom:latitude":43.2653,
+    "geom:longitude":-72.601577,
+    "iso:country":"US",
+    "sg:address":"397 Main St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 2531",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79IWe0RFdVgpXH964YmLnW_43.265300_-72.601577@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312764,
+    "wof:geomhash":"890c913bfb11c03c5258add6c1e65d8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874192487
+        }
+    ],
+    "wof:id":874192487,
+    "wof:lastmodified":1464312764,
+    "wof:name":"Newsbank Print Shop",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -72.601577,
+    43.2653,
+    -72.601577,
+    43.2653
+],
+  "geometry": {"coordinates":[-72.60157700000001,43.2653],"type":"Point"}
+}

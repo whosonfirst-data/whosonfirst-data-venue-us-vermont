@@ -1,0 +1,66 @@
+{
+  "id": 874034557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.476058,44.191967,-72.476058,44.191967",
+    "geom:latitude":44.191967,
+    "geom:longitude":-72.476058,
+    "iso:country":"US",
+    "sg:address":"275 Hill St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1175",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nc35bPvulJC0XUKXozjKG_44.191967_-72.476058@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311090,
+    "wof:geomhash":"8449ff521bd2bbbf01cfa7d0c83b6b6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874034557
+        }
+    ],
+    "wof:id":874034557,
+    "wof:lastmodified":1464311090,
+    "wof:name":"Trow Hill Grocery",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.476058,
+    44.191967,
+    -72.476058,
+    44.191967
+],
+  "geometry": {"coordinates":[-72.47605799999999,44.191967],"type":"Point"}
+}

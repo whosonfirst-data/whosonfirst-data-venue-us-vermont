@@ -1,0 +1,71 @@
+{
+  "id": 874210621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.828713,44.645453,-72.828713,44.645453",
+    "geom:latitude":44.645453,
+    "geom:longitude":-72.828713,
+    "iso:country":"US",
+    "sg:address":"55 Main St",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2200",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z9NT8aU9hKp83LtHX3dyb_44.645453_-72.828713@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312957,
+    "wof:geomhash":"f5e8d5c2d2ad8c12b69f67067e9bb927",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874210621
+        }
+    ],
+    "wof:id":874210621,
+    "wof:lastmodified":1464312957,
+    "wof:name":"Cambridge Listers Office",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.828713,
+    44.645453,
+    -72.828713,
+    44.645453
+],
+  "geometry": {"coordinates":[-72.82871299999999,44.645453],"type":"Point"}
+}

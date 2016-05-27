@@ -1,0 +1,71 @@
+{
+  "id": 874203965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.2083,44.458552,-73.2083,44.458552",
+    "geom:latitude":44.458552,
+    "geom:longitude":-73.2083,
+    "iso:country":"US",
+    "sg:address":"209 Shelburne Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 0864",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IPnVzOkMJYFV2zdJdXQY1_44.458552_-73.208300@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312883,
+    "wof:geomhash":"16cbec58e7351ee856db5f0dce8548d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874203965
+        }
+    ],
+    "wof:id":874203965,
+    "wof:lastmodified":1464312883,
+    "wof:name":"Robert K Bing",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -73.2083,
+    44.458552,
+    -73.2083,
+    44.458552
+],
+  "geometry": {"coordinates":[-73.20829999999999,44.458552],"type":"Point"}
+}

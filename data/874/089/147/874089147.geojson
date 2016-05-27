@@ -1,0 +1,70 @@
+{
+  "id": 874089147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.073025,43.163512,-73.073025,43.163512",
+    "geom:latitude":43.163512,
+    "geom:longitude":-73.073025,
+    "iso:country":"US",
+    "sg:address":"300 Seminary Ave",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 1170",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832067,
+        102191575,
+        404527469,
+        85633793,
+        101728291,
+        102087439,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FUEHgu74sleEST9AuzCtG_43.163512_-73.073025@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311652,
+    "wof:geomhash":"421ea6ed4764c54b74ea3c657cb0c15b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087439,
+            "localadmin_id":404527469,
+            "locality_id":101728291,
+            "neighbourhood_id":85832067,
+            "region_id":85688763,
+            "venue_id":874089147
+        }
+    ],
+    "wof:id":874089147,
+    "wof:lastmodified":1464311652,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85832067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.073025,
+    43.163512,
+    -73.073025,
+    43.163512
+],
+  "geometry": {"coordinates":[-73.073025,43.163512],"type":"Point"}
+}

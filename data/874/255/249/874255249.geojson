@@ -1,0 +1,78 @@
+{
+  "id": 874255249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.33089,44.215649,-73.33089,44.215649",
+    "geom:latitude":44.215649,
+    "geom:longitude":-73.33089,
+    "iso:country":"US",
+    "sg:address":"2115 Kellogg Bay Rd",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 475 2481",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NHRGlBMkdEo2o6wcfliCi_44.215649_-73.330890@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313680,
+    "wof:geomhash":"1c3f70c0f57d5e5d7eed8c9ad46676bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874255249
+        }
+    ],
+    "wof:id":874255249,
+    "wof:lastmodified":1464313680,
+    "wof:name":"Lafleche Trucking",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.33089,
+    44.215649,
+    -73.33089,
+    44.215649
+],
+  "geometry": {"coordinates":[-73.33089,44.215649],"type":"Point"}
+}

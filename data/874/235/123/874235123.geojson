@@ -1,0 +1,69 @@
+{
+  "id": 874235123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.146933,43.998982,-73.146933,43.998982",
+    "geom:latitude":43.998982,
+    "geom:longitude":-73.146933,
+    "iso:country":"US",
+    "sg:address":"28 Willow Dr",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4053",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FzfHB0NGmVKlNtjxjHOes_43.998982_-73.146933@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313242,
+    "wof:geomhash":"b2b39e7deff25ad72a5bf264582ab136",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874235123
+        }
+    ],
+    "wof:id":874235123,
+    "wof:lastmodified":1464313242,
+    "wof:name":"Rouse Tire Sales Inc",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -73.146933,
+    43.998982,
+    -73.146933,
+    43.998982
+],
+  "geometry": {"coordinates":[-73.146933,43.998982],"type":"Point"}
+}

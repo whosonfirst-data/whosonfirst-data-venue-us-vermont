@@ -1,0 +1,73 @@
+{
+  "id": 874060203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.198514,44.598097,-73.198514,44.598097",
+    "geom:latitude":44.598097,
+    "geom:longitude":-73.198514,
+    "iso:country":"US",
+    "sg:address":"973 Roosevelt Hwy",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 2882",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85854373,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nvo5nMSzEsDj7Itvbxugb_44.598097_-73.198514@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311337,
+    "wof:geomhash":"35d717fa3229020959eb32fc65e50ba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85854373,
+            "region_id":85688763,
+            "venue_id":874060203
+        }
+    ],
+    "wof:id":874060203,
+    "wof:lastmodified":1464311337,
+    "wof:name":"Sunny Hollow Quick Stop Inc",
+    "wof:parent_id":85854373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -73.198514,
+    44.598097,
+    -73.198514,
+    44.598097
+],
+  "geometry": {"coordinates":[-73.198514,44.598097],"type":"Point"}
+}

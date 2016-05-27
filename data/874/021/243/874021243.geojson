@@ -1,0 +1,69 @@
+{
+  "id": 874021243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.691655,44.477298,-72.691655,44.477298",
+    "geom:latitude":44.477298,
+    "geom:longitude":-72.691655,
+    "iso:country":"US",
+    "sg:address":"144 Percy Park",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 8504",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mO3M35IRY8LB3x0plSoYV_44.477298_-72.691655@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310958,
+    "wof:geomhash":"fa274f3507548065e06e0c9f406b3d7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874021243
+        }
+    ],
+    "wof:id":874021243,
+    "wof:lastmodified":1464310958,
+    "wof:name":"Percy Rentals Sales & Svc Inc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -72.691655,
+    44.477298,
+    -72.691655,
+    44.477298
+],
+  "geometry": {"coordinates":[-72.691655,44.477298],"type":"Point"}
+}

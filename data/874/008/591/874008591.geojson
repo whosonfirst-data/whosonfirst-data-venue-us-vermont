@@ -1,0 +1,73 @@
+{
+  "id": 874008591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211005,44.432529,-73.211005,44.432529",
+    "geom:latitude":44.432529,
+    "geom:longitude":-73.211005,
+    "iso:country":"US",
+    "sg:address":"1800 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 8054",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Za63X41KtxwnNRLm78Fdd_44.432529_-73.211005@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310845,
+    "wof:geomhash":"3da4e24cf470300cd1e0abf81d138937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874008591
+        }
+    ],
+    "wof:id":874008591,
+    "wof:lastmodified":1464310845,
+    "wof:name":"Dunham's Bay Sea Ray-Baja",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -73.211005,
+    44.432529,
+    -73.211005,
+    44.432529
+],
+  "geometry": {"coordinates":[-73.211005,44.432529],"type":"Point"}
+}

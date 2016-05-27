@@ -1,0 +1,71 @@
+{
+  "id": 874029167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.926727,44.401652,-71.926727,44.401652",
+    "geom:latitude":44.401652,
+    "geom:longitude":-71.926727,
+    "iso:country":"US",
+    "sg:address":"173 Duck Pond Rd",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 5522",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79v52tGqQ4Qiol8Tcq9uAd_44.401652_-71.926727@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311040,
+    "wof:geomhash":"ed921b69347bc19fc75cd644f37e1294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874029167
+        }
+    ],
+    "wof:id":874029167,
+    "wof:lastmodified":1464311040,
+    "wof:name":"S T Griswold & Co",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -71.926727,
+    44.401652,
+    -71.926727,
+    44.401652
+],
+  "geometry": {"coordinates":[-71.926727,44.401652],"type":"Point"}
+}

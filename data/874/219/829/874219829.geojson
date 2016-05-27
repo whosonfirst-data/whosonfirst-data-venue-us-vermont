@@ -1,0 +1,73 @@
+{
+  "id": 874219829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.528444,43.332758,-72.528444,43.332758",
+    "geom:latitude":43.332758,
+    "geom:longitude":-72.528444,
+    "iso:country":"US",
+    "sg:address":"86 Main St",
+    "sg:city":"N Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 3300",
+    "sg:postcode":"05150",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ECSZcE2j7RXAMwX01f079_43.332758_-72.528444@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313057,
+    "wof:geomhash":"b032e66c9751ff9370757746bc906791",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874219829
+        }
+    ],
+    "wof:id":874219829,
+    "wof:lastmodified":1464313057,
+    "wof:name":"Springfield Paving",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.528444,
+    43.332758,
+    -72.528444,
+    43.332758
+],
+  "geometry": {"coordinates":[-72.52844399999999,43.332758],"type":"Point"}
+}

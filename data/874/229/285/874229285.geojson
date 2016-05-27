@@ -1,0 +1,71 @@
+{
+  "id": 874229285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088398,44.507056,-73.088398,44.507056",
+    "geom:latitude":44.507056,
+    "geom:longitude":-73.088398,
+    "iso:country":"US",
+    "sg:address":"80 Upper Main St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 7211",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oZbYSWhkxfeZXTl6SLuzH_44.507056_-73.088398@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313153,
+    "wof:geomhash":"36703b269846ee1e16f96f643087cd0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874229285
+        }
+    ],
+    "wof:id":874229285,
+    "wof:lastmodified":1464313153,
+    "wof:name":"Sogoloff Farm",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.088398,
+    44.507056,
+    -73.088398,
+    44.507056
+],
+  "geometry": {"coordinates":[-73.088398,44.507056],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874251247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.192581,42.877991,-73.192581,42.877991",
+    "geom:latitude":42.877991,
+    "geom:longitude":-73.192581,
+    "iso:country":"US",
+    "sg:address":"601 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 2105",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r0g9jnnf04VUJV5DS5atT_42.877991_-73.192581@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313590,
+    "wof:geomhash":"1952d6ac03f1dc6d2ca33cc1517741ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251247
+        }
+    ],
+    "wof:id":874251247,
+    "wof:lastmodified":1464313590,
+    "wof:name":"First Baptist Church Of Bennington, Vermont",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ]
+},
+  "bbox": [
+    -73.192581,
+    42.877991,
+    -73.192581,
+    42.877991
+],
+  "geometry": {"coordinates":[-73.192581,42.877991],"type":"Point"}
+}

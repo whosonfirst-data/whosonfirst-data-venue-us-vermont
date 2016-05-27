@@ -1,0 +1,71 @@
+{
+  "id": 874210039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.55376,44.715257,-72.55376,44.715257",
+    "geom:latitude":44.715257,
+    "geom:longitude":-72.55376,
+    "iso:country":"US",
+    "sg:address":"756 Belvidere Rd",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 2526",
+    "sg:postcode":"05652",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SvxAG41rgkVGMEUK9jwit_44.715257_-72.553760@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312949,
+    "wof:geomhash":"9206611639ad59aa514b2ebdb8ef4701",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874210039
+        }
+    ],
+    "wof:id":874210039,
+    "wof:lastmodified":1464312949,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -72.55376,
+    44.715257,
+    -72.55376,
+    44.715257
+],
+  "geometry": {"coordinates":[-72.55376,44.715257],"type":"Point"}
+}

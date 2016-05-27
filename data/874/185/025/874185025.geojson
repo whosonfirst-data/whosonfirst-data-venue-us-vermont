@@ -1,0 +1,71 @@
+{
+  "id": 874185025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.184531,44.497941,-73.184531,44.497941",
+    "geom:latitude":44.497941,
+    "geom:longitude":-73.184531,
+    "iso:country":"US",
+    "sg:address":"355 Main St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 0616",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R8NhKei7XhcCF8GTgOLyC_44.497941_-73.184531@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312691,
+    "wof:geomhash":"4efdb456bae9032ccf61eb5939097867",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874185025
+        }
+    ],
+    "wof:id":874185025,
+    "wof:lastmodified":1464312691,
+    "wof:name":"Andy's Used Cars",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.184531,
+    44.497941,
+    -73.184531,
+    44.497941
+],
+  "geometry": {"coordinates":[-73.18453100000001,44.497941],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874172881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.590878,43.742841,-72.590878,43.742841",
+    "geom:latitude":43.742841,
+    "geom:longitude":-72.590878,
+    "iso:country":"US",
+    "sg:address":"2096 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 8164",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "horse",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4umXSAX8f5KT83WioInMbM_43.742841_-72.590878@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312557,
+    "wof:geomhash":"9339111228c1c950f0293989427e1494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874172881
+        }
+    ],
+    "wof:id":874172881,
+    "wof:lastmodified":1464312557,
+    "wof:name":"Hitching Post Farm",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "training"
+    ]
+},
+  "bbox": [
+    -72.590878,
+    43.742841,
+    -72.590878,
+    43.742841
+],
+  "geometry": {"coordinates":[-72.590878,43.742841],"type":"Point"}
+}

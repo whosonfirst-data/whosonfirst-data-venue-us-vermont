@@ -1,0 +1,71 @@
+{
+  "id": 873982821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.087091,44.346252,-73.087091,44.346252",
+    "geom:latitude":44.346252,
+    "geom:longitude":-73.087091,
+    "iso:country":"US",
+    "sg:address":"247 Jourdan St",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 373 8398",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844363,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WCk06btQuBJreww81VurU_44.346252_-73.087091@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310630,
+    "wof:geomhash":"9d4b5b692c540e29b3a21c6ace13449e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85844363,
+            "region_id":85688763,
+            "venue_id":873982821
+        }
+    ],
+    "wof:id":873982821,
+    "wof:lastmodified":1464310630,
+    "wof:name":"Protec Drywall",
+    "wof:parent_id":85844363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.087091,
+    44.346252,
+    -73.087091,
+    44.346252
+],
+  "geometry": {"coordinates":[-73.087091,44.346252],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874054747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206546,42.873581,-73.206546,42.873581",
+    "geom:latitude":42.873581,
+    "geom:longitude":-73.206546,
+    "iso:country":"US",
+    "sg:address":"150 Hospital Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 8811",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "nursing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V0WpiIi6HCiRS5ZNQVfk9_42.873581_-73.206546@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311290,
+    "wof:geomhash":"f25f2943126d45325f50bc3a4ace8680",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874054747
+        }
+    ],
+    "wof:id":874054747,
+    "wof:lastmodified":1464311290,
+    "wof:name":"Putnam Mem Schl Prctcal Nrsing",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing"
+    ]
+},
+  "bbox": [
+    -73.206546,
+    42.873581,
+    -73.206546,
+    42.873581
+],
+  "geometry": {"coordinates":[-73.206546,42.873581],"type":"Point"}
+}

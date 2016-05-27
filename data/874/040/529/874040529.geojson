@@ -1,0 +1,69 @@
+{
+  "id": 874040529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.118665,44.506829,-73.118665,44.506829",
+    "geom:latitude":44.506829,
+    "geom:longitude":-73.118665,
+    "iso:country":"US",
+    "sg:address":"86 Pinecrest Dr",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 3218",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G0zCDSlpdAVBwELn3NKre_44.506829_-73.118665@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311149,
+    "wof:geomhash":"3f498c70281b47f6584a2431645fccbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874040529
+        }
+    ],
+    "wof:id":874040529,
+    "wof:lastmodified":1464311149,
+    "wof:name":"Pauls Computer Consultation",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -73.118665,
+    44.506829,
+    -73.118665,
+    44.506829
+],
+  "geometry": {"coordinates":[-73.11866499999999,44.506829],"type":"Point"}
+}

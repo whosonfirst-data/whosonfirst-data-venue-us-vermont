@@ -1,0 +1,69 @@
+{
+  "id": 874219141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111097,44.450722,-73.111097,44.450722",
+    "geom:latitude":44.450722,
+    "geom:longitude":-73.111097,
+    "iso:country":"US",
+    "sg:address":"1 Taft Corners Shopping Center",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 8233",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AKhknFBrPKnJXY6bWXlxn_44.450722_-73.111097@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313046,
+    "wof:geomhash":"92cd92ba8c9b06eaab0de6626863fb64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874219141
+        }
+    ],
+    "wof:id":874219141,
+    "wof:lastmodified":1464313046,
+    "wof:name":"AAA Travel and Insurance",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.111097,
+    44.450722,
+    -73.111097,
+    44.450722
+],
+  "geometry": {"coordinates":[-73.111097,44.450722],"type":"Point"}
+}

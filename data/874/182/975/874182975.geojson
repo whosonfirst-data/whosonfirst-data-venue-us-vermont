@@ -1,0 +1,71 @@
+{
+  "id": 874182975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.494447,43.333497,-72.494447,43.333497",
+    "geom:latitude":43.333497,
+    "geom:longitude":-72.494447,
+    "iso:country":"US",
+    "sg:address":"78 Pelkey Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 5362",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MUdtaLjh5G6wEale8sZQ0_43.333497_-72.494447@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312660,
+    "wof:geomhash":"b5b62c02bc4762d642a8c67e9da3c5ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874182975
+        }
+    ],
+    "wof:id":874182975,
+    "wof:lastmodified":1464312660,
+    "wof:name":"Et Machine",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.494447,
+    43.333497,
+    -72.494447,
+    43.333497
+],
+  "geometry": {"coordinates":[-72.49444699999999,43.333497],"type":"Point"}
+}

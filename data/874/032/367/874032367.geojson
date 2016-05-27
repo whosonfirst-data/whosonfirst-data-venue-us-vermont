@@ -1,0 +1,71 @@
+{
+  "id": 874032367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.8789,44.64518,-72.8789,44.64518",
+    "geom:latitude":44.64518,
+    "geom:longitude":-72.8789,
+    "iso:country":"US",
+    "sg:address":"186 N Main St",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 827 6667",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B4jHC7DgQ2y5ulFJSZqIS_44.645180_-72.878900@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311069,
+    "wof:geomhash":"acfe74e97a9ad28587e7f69ca755be61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874032367
+        }
+    ],
+    "wof:id":874032367,
+    "wof:lastmodified":1464311069,
+    "wof:name":"Expert Computer Svc",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -72.8789,
+    44.64518,
+    -72.8789,
+    44.64518
+],
+  "geometry": {"coordinates":[-72.8789,44.64518],"type":"Point"}
+}

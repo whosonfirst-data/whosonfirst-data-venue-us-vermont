@@ -1,0 +1,71 @@
+{
+  "id": 874247479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.496357,44.184878,-72.496357,44.184878",
+    "geom:latitude":44.184878,
+    "geom:longitude":-72.496357,
+    "iso:country":"US",
+    "sg:address":"21 Division St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 8873",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40nP7En1Iq0TOC6o2lh73e_44.184878_-72.496357@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313482,
+    "wof:geomhash":"ebc32478664cd0e07ba30ca851fc8361",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874247479
+        }
+    ],
+    "wof:id":874247479,
+    "wof:lastmodified":1464313482,
+    "wof:name":"T & J's Sled Shop Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -72.496357,
+    44.184878,
+    -72.496357,
+    44.184878
+],
+  "geometry": {"coordinates":[-72.496357,44.184878],"type":"Point"}
+}

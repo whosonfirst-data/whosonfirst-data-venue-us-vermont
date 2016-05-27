@@ -1,0 +1,71 @@
+{
+  "id": 874043807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.966893,43.612271,-72.966893,43.612271",
+    "geom:latitude":43.612271,
+    "geom:longitude":-72.966893,
+    "iso:country":"US",
+    "sg:address":"62 Woodstock Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2335",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jTwQz2wBEE2NDI6WLdfMz_43.612271_-72.966893@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311183,
+    "wof:geomhash":"b9ecc7400b653fd3ae788198bcd2c807",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874043807
+        }
+    ],
+    "wof:id":874043807,
+    "wof:lastmodified":1464311183,
+    "wof:name":"Beauchamp & ORourke Pharmacy",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -72.966893,
+    43.612271,
+    -72.966893,
+    43.612271
+],
+  "geometry": {"coordinates":[-72.966893,43.612271],"type":"Point"}
+}

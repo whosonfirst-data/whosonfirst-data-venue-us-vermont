@@ -1,0 +1,80 @@
+{
+  "id": 874119143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.396222,43.680137,-72.396222,43.680137",
+    "geom:latitude":43.680137,
+    "geom:longitude":-72.396222,
+    "iso:country":"US",
+    "sg:address":"44 Peach Tree Ln",
+    "sg:city":"White River Jct",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 1174",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fitness",
+        "program",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810215,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i3CK4Rq9i3Rq7gpL955af_43.680137_-72.396222@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312026,
+    "wof:geomhash":"74aaf19fb6ad044707c03e63f20a4003",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85810215,
+            "region_id":85688763,
+            "venue_id":874119143
+        }
+    ],
+    "wof:id":874119143,
+    "wof:lastmodified":1464312026,
+    "wof:name":"Jazzercise",
+    "wof:parent_id":85810215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "program",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -72.396222,
+    43.680137,
+    -72.396222,
+    43.680137
+],
+  "geometry": {"coordinates":[-72.39622199999999,43.680137],"type":"Point"}
+}

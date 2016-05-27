@@ -1,0 +1,71 @@
+{
+  "id": 874227331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.094917,43.266972,-73.094917,43.266972",
+    "geom:latitude":43.266972,
+    "geom:longitude":-73.094917,
+    "iso:country":"US",
+    "sg:address":"749 Peace St",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 867 5567",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sKdiggmzggD6HPxTKHuI8_43.266972_-73.094917@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313134,
+    "wof:geomhash":"b27890e1cefccede1b5c55aacb510193",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874227331
+        }
+    ],
+    "wof:id":874227331,
+    "wof:lastmodified":1464313134,
+    "wof:name":"Pauls Masonry",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.094917,
+    43.266972,
+    -73.094917,
+    43.266972
+],
+  "geometry": {"coordinates":[-73.094917,43.266972],"type":"Point"}
+}

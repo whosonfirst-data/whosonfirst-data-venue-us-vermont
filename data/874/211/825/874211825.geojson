@@ -1,0 +1,70 @@
+{
+  "id": 874211825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.246641,44.537969,-73.246641,44.537969",
+    "geom:latitude":44.537969,
+    "geom:longitude":-73.246641,
+    "iso:country":"US",
+    "sg:address":"1184 Prim Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 9755",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.pandcfoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NYScQT4Wrop8G7o6DE3yc_44.537969_-73.246641@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312972,
+    "wof:geomhash":"a7c33623fe087f0187338e1e940b1778",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874211825
+        }
+    ],
+    "wof:id":874211825,
+    "wof:lastmodified":1464312972,
+    "wof:name":"P & C Foods",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.246641,
+    44.537969,
+    -73.246641,
+    44.537969
+],
+  "geometry": {"coordinates":[-73.246641,44.537969],"type":"Point"}
+}

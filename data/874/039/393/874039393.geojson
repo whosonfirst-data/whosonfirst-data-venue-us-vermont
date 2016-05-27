@@ -1,0 +1,71 @@
+{
+  "id": 874039393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.482185,44.228282,-72.482185,44.228282",
+    "geom:latitude":44.228282,
+    "geom:longitude":-72.482185,
+    "iso:country":"US",
+    "sg:address":"33 Morgan Ln",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 9894",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FN7LIfNAVczMf6LmgKXSa_44.228282_-72.482185@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311138,
+    "wof:geomhash":"667585cc444d3eb7d01bd4a5e24a0fbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874039393
+        }
+    ],
+    "wof:id":874039393,
+    "wof:lastmodified":1464311138,
+    "wof:name":"Ainsworth Drywall",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.482185,
+    44.228282,
+    -72.482185,
+    44.228282
+],
+  "geometry": {"coordinates":[-72.482185,44.228282],"type":"Point"}
+}

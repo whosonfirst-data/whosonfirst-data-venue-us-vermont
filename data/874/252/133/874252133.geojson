@@ -1,0 +1,74 @@
+{
+  "id": 874252133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.585072,42.850082,-72.585072,42.850082",
+    "geom:latitude":42.850082,
+    "geom:longitude":-72.585072,
+    "iso:country":"US",
+    "sg:address":"480 Western Ave",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 5258",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52dFxZiH5tKl9mY8M6qInV_42.850082_-72.585072@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313607,
+    "wof:geomhash":"e3d4506a04f208d074ec4d5cf0854dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874252133
+        }
+    ],
+    "wof:id":874252133,
+    "wof:lastmodified":1464313607,
+    "wof:name":"Green Mountain Chapel",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.585072,
+    42.850082,
+    -72.585072,
+    42.850082
+],
+  "geometry": {"coordinates":[-72.585072,42.850082],"type":"Point"}
+}

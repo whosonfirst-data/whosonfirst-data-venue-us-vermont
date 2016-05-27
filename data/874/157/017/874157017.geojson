@@ -1,0 +1,71 @@
+{
+  "id": 874157017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.491142,44.172064,-72.491142,44.172064",
+    "geom:latitude":44.172064,
+    "geom:longitude":-72.491142,
+    "iso:country":"US",
+    "sg:address":"273 Quarry Hill Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 8336",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pDodYNg7PiXlyJ0QjkwZ8_44.172064_-72.491142@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312399,
+    "wof:geomhash":"ec7846b6b36029cba88f92f09d3f0882",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874157017
+        }
+    ],
+    "wof:id":874157017,
+    "wof:lastmodified":1464312399,
+    "wof:name":"Edsons Machine & Welding",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -72.491142,
+    44.172064,
+    -72.491142,
+    44.172064
+],
+  "geometry": {"coordinates":[-72.491142,44.172064],"type":"Point"}
+}

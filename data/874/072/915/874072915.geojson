@@ -1,0 +1,76 @@
+{
+  "id": 874072915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.560282,42.876064,-72.560282,42.876064",
+    "geom:latitude":42.876064,
+    "geom:longitude":-72.560282,
+    "iso:country":"US",
+    "sg:address":"837 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 1610",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rnDZ5gSQsR9dVUe3wlOX3_42.876064_-72.560282@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311476,
+    "wof:geomhash":"56686f9bbd47634ceab06948b6d42a43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874072915
+        }
+    ],
+    "wof:id":874072915,
+    "wof:lastmodified":1464311476,
+    "wof:name":"Fletcher Auto Repair",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.560282,
+    42.876064,
+    -72.560282,
+    42.876064
+],
+  "geometry": {"coordinates":[-72.560282,42.876064],"type":"Point"}
+}

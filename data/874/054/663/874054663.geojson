@@ -1,0 +1,71 @@
+{
+  "id": 874054663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.16565,44.022892,-73.16565,44.022892",
+    "geom:latitude":44.022892,
+    "geom:longitude":-73.16565,
+    "iso:country":"US",
+    "sg:address":"60 N Pleasant St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2672",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38ABoVVe1xr8CZ46gvNiM7_44.022892_-73.165650@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311289,
+    "wof:geomhash":"e61464f80333f6dc0f82662fb9e156eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874054663
+        }
+    ],
+    "wof:id":874054663,
+    "wof:lastmodified":1464311289,
+    "wof:name":"Maplefields",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -73.16565,
+    44.022892,
+    -73.16565,
+    44.022892
+],
+  "geometry": {"coordinates":[-73.16565,44.022892],"type":"Point"}
+}

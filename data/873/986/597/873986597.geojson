@@ -1,0 +1,71 @@
+{
+  "id": 873986597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.52908,44.272389,-72.52908,44.272389",
+    "geom:latitude":44.272389,
+    "geom:longitude":-72.52908,
+    "iso:country":"US",
+    "sg:address":"610 Bliss Rd",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 7555",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NyFJqJw0zJLRj3KvWDTuu_44.272389_-72.529080@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310666,
+    "wof:geomhash":"20aa58fcbbcfab8b9613fd14fb04a4fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873986597
+        }
+    ],
+    "wof:id":873986597,
+    "wof:lastmodified":1464310666,
+    "wof:name":"Middlesex Cemetery Association",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -72.52908,
+    44.272389,
+    -72.52908,
+    44.272389
+],
+  "geometry": {"coordinates":[-72.52907999999999,44.272389],"type":"Point"}
+}

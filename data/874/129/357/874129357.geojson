@@ -1,0 +1,78 @@
+{
+  "id": 874129357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.225169,44.372679,-73.225169,44.372679",
+    "geom:latitude":44.372679,
+    "geom:longitude":-73.225169,
+    "iso:country":"US",
+    "sg:address":"65 Falls Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 8566",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "bathroom",
+        "fixture",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fT85Vs88eQr9Tem84qm9o_44.372679_-73.225169@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312126,
+    "wof:geomhash":"3b723bf2e9eb445039521e3a90b4e954",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874129357
+        }
+    ],
+    "wof:id":874129357,
+    "wof:lastmodified":1464312126,
+    "wof:name":"Close To Home Inc",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathroom",
+        "fixture",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -73.225169,
+    44.372679,
+    -73.225169,
+    44.372679
+],
+  "geometry": {"coordinates":[-73.22516899999999,44.372679],"type":"Point"}
+}

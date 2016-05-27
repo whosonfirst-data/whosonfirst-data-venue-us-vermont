@@ -1,0 +1,66 @@
+{
+  "id": 874060865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.498254,44.189414,-72.498254,44.189414",
+    "geom:latitude":44.189414,
+    "geom:longitude":-72.498254,
+    "iso:country":"US",
+    "sg:address":"132 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 4382",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03Z8PDQlX9hAeIpMRsxrqr_44.189414_-72.498254@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311342,
+    "wof:geomhash":"291f2b9965c522ab57a712653596772c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874060865
+        }
+    ],
+    "wof:id":874060865,
+    "wof:lastmodified":1464311342,
+    "wof:name":"Cumberland Farms 8027",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.498254,
+    44.189414,
+    -72.498254,
+    44.189414
+],
+  "geometry": {"coordinates":[-72.498254,44.189414],"type":"Point"}
+}

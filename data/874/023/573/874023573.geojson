@@ -1,0 +1,71 @@
+{
+  "id": 874023573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.077744,44.133086,-73.077744,44.133086",
+    "geom:latitude":44.133086,
+    "geom:longitude":-73.077744,
+    "iso:country":"US",
+    "sg:address":"38 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5988",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48TEcLVAEqxvpgOCCK3tTC_44.133086_-73.077744@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310979,
+    "wof:geomhash":"c92a1f62420fb526003912a40cb8d65c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874023573
+        }
+    ],
+    "wof:id":874023573,
+    "wof:lastmodified":1464310979,
+    "wof:name":"Loveworks Photographic",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -73.077744,
+    44.133086,
+    -73.077744,
+    44.133086
+],
+  "geometry": {"coordinates":[-73.077744,44.133086],"type":"Point"}
+}

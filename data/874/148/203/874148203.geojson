@@ -1,0 +1,69 @@
+{
+  "id": 874148203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.632358,43.830157,-72.632358,43.830157",
+    "geom:latitude":43.830157,
+    "geom:longitude":-72.632358,
+    "iso:country":"US",
+    "sg:address":"2 Main St",
+    "sg:city":"Quechee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 5747",
+    "sg:postcode":"05032",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jF9UszWYdwLRlHLgjSGAh_43.830157_-72.632358@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312313,
+    "wof:geomhash":"45fb15c6fef2e5cd08e6bb21d9bd82cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874148203
+        }
+    ],
+    "wof:id":874148203,
+    "wof:lastmodified":1464312313,
+    "wof:name":"Timber Tender",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -72.632358,
+    43.830157,
+    -72.632358,
+    43.830157
+],
+  "geometry": {"coordinates":[-72.632358,43.830157],"type":"Point"}
+}

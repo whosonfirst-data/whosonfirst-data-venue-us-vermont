@@ -1,0 +1,69 @@
+{
+  "id": 874065583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.735829,44.645925,-72.735829,44.645925",
+    "geom:latitude":44.645925,
+    "geom:longitude":-72.735829,
+    "iso:country":"US",
+    "sg:address":"77 Moose Aly",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 6612",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40Q6Mcuq35fWBC1gG5wrei_44.645925_-72.735829@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311385,
+    "wof:geomhash":"0fecb33c96f658efa98aeb0972885c0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874065583
+        }
+    ],
+    "wof:id":874065583,
+    "wof:lastmodified":1464311385,
+    "wof:name":"Dons Auto Repair",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.735829,
+    44.645925,
+    -72.735829,
+    44.645925
+],
+  "geometry": {"coordinates":[-72.735829,44.645925],"type":"Point"}
+}

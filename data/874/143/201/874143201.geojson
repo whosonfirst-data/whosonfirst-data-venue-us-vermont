@@ -1,0 +1,75 @@
+{
+  "id": 874143201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.421481,43.64017,-72.421481,43.64017",
+    "geom:latitude":43.64017,
+    "geom:longitude":-72.421481,
+    "iso:country":"US",
+    "sg:address":"32 Cross St",
+    "sg:city":"Thetford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 4622",
+    "sg:postcode":"05091",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "planning",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ga83VGj0h1clEiyb3uLlW_43.640170_-72.421481@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312264,
+    "wof:geomhash":"5d8e1e823713a5facaeb2a5b585ff500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874143201
+        }
+    ],
+    "wof:id":874143201,
+    "wof:lastmodified":1464312264,
+    "wof:name":"Larry Hart Architectural Dsgn",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "planning",
+        "design"
+    ]
+},
+  "bbox": [
+    -72.421481,
+    43.64017,
+    -72.421481,
+    43.64017
+],
+  "geometry": {"coordinates":[-72.421481,43.64017],"type":"Point"}
+}

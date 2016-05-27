@@ -1,0 +1,73 @@
+{
+  "id": 874104377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088875,43.799519,-73.088875,43.799519",
+    "geom:latitude":43.799519,
+    "geom:longitude":-73.088875,
+    "iso:country":"US",
+    "sg:address":"43 Center St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 5100",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "holistic",
+        "practitioner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mHLC8jT29Wdns3DXySAbZ_43.799519_-73.088875@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311849,
+    "wof:geomhash":"d476cbe49e60c3f3b108ea6e29fca661",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874104377
+        }
+    ],
+    "wof:id":874104377,
+    "wof:lastmodified":1464311849,
+    "wof:name":"Beyond Infinity",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "holistic",
+        "practitioner"
+    ]
+},
+  "bbox": [
+    -73.088875,
+    43.799519,
+    -73.088875,
+    43.799519
+],
+  "geometry": {"coordinates":[-73.088875,43.799519],"type":"Point"}
+}

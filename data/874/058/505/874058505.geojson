@@ -1,0 +1,75 @@
+{
+  "id": 874058505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111566,44.49502,-73.111566,44.49502",
+    "geom:latitude":44.49502,
+    "geom:longitude":-73.111566,
+    "iso:country":"US",
+    "sg:address":"45 Lincoln St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 4309",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tSrjUSYiDeI8EOWtzkimV_44.495020_-73.111566@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311322,
+    "wof:geomhash":"1237203e68e2f307f21302ec4034be76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874058505
+        }
+    ],
+    "wof:id":874058505,
+    "wof:lastmodified":1464311322,
+    "wof:name":"Dave Whitcomb Service Center",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.111566,
+    44.49502,
+    -73.111566,
+    44.49502
+],
+  "geometry": {"coordinates":[-73.111566,44.49502],"type":"Point"}
+}

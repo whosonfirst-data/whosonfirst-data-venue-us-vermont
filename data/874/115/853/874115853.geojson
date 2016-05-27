@@ -1,0 +1,75 @@
+{
+  "id": 874115853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167814,44.01453,-73.167814,44.01453",
+    "geom:latitude":44.01453,
+    "geom:longitude":-73.167814,
+    "iso:country":"US",
+    "sg:address":"36 Main St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 8377",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consulting",
+        "management",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31peXVKNSi4Nl5BWQu8u6X_44.014530_-73.167814@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311995,
+    "wof:geomhash":"489a250378f60fd4b4dc925506611569",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874115853
+        }
+    ],
+    "wof:id":874115853,
+    "wof:lastmodified":1464311995,
+    "wof:name":"Timberline Interactive Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "management",
+        "datum"
+    ]
+},
+  "bbox": [
+    -73.167814,
+    44.01453,
+    -73.167814,
+    44.01453
+],
+  "geometry": {"coordinates":[-73.16781400000001,44.01453],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874123863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111367,44.682819,-73.111367,44.682819",
+    "geom:latitude":44.682819,
+    "geom:longitude":-73.111367,
+    "iso:country":"US",
+    "sg:address":"314 US Hwy 7",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 1667",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "parts",
+        "heating",
+        "boiler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UcBCyYwW6oNfvmqUrX071_44.682819_-73.111367@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312075,
+    "wof:geomhash":"2f482b688cd76136160c3031dfb96bf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874123863
+        }
+    ],
+    "wof:id":874123863,
+    "wof:lastmodified":1464312075,
+    "wof:name":"Adirondack Combustion Techs",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts",
+        "heating",
+        "boiler"
+    ]
+},
+  "bbox": [
+    -73.111367,
+    44.682819,
+    -73.111367,
+    44.682819
+],
+  "geometry": {"coordinates":[-73.111367,44.682819],"type":"Point"}
+}

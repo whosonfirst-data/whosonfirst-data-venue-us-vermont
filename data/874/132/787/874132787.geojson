@@ -1,0 +1,69 @@
+{
+  "id": 874132787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.133067,43.98634,-73.133067,43.98634",
+    "geom:latitude":43.98634,
+    "geom:longitude":-73.133067,
+    "iso:country":"US",
+    "sg:address":"1458 US Hwy 7",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3572",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43K9HE7M68DNyOYKOxMCJe_43.986340_-73.133067@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312171,
+    "wof:geomhash":"0699a3bd67a6f17faf9abd7f2c9dac2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874132787
+        }
+    ],
+    "wof:id":874132787,
+    "wof:lastmodified":1464312171,
+    "wof:name":"Vermont Field Sports",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boot"
+    ]
+},
+  "bbox": [
+    -73.133067,
+    43.98634,
+    -73.133067,
+    43.98634
+],
+  "geometry": {"coordinates":[-73.133067,43.98634],"type":"Point"}
+}

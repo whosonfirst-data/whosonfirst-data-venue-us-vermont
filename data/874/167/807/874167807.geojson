@@ -1,0 +1,66 @@
+{
+  "id": 874167807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.087403,43.797816,-73.087403,43.797816",
+    "geom:latitude":43.797816,
+    "geom:longitude":-73.087403,
+    "iso:country":"US",
+    "sg:address":"1 Carver St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 8050",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P0a8Ody6BZzUr70myXxeU_43.797816_-73.087403@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312505,
+    "wof:geomhash":"dc929c86d22436f8ae7b26db23fa8467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874167807
+        }
+    ],
+    "wof:id":874167807,
+    "wof:lastmodified":1464312505,
+    "wof:name":"Brooks Pharmacy",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.087403,
+    43.797816,
+    -73.087403,
+    43.797816
+],
+  "geometry": {"coordinates":[-73.08740299999999,43.797816],"type":"Point"}
+}

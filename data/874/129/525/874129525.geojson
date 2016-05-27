@@ -1,0 +1,71 @@
+{
+  "id": 874129525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.509045,44.206538,-72.509045,44.206538",
+    "geom:latitude":44.206538,
+    "geom:longitude":-72.509045,
+    "iso:country":"US",
+    "sg:address":"11 Garcia Ln",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2697",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drafting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cmYoLBoDAHgEFyFqn0Gjy_44.206538_-72.509045@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312129,
+    "wof:geomhash":"2408ab41eab54a05032bbe52f62e3951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874129525
+        }
+    ],
+    "wof:id":874129525,
+    "wof:lastmodified":1464312129,
+    "wof:name":"Stone Drafters",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drafting"
+    ]
+},
+  "bbox": [
+    -72.509045,
+    44.206538,
+    -72.509045,
+    44.206538
+],
+  "geometry": {"coordinates":[-72.509045,44.206538],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 874255679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.980473,43.607387,-72.980473,43.607387",
+    "geom:latitude":43.607387,
+    "geom:longitude":-72.980473,
+    "iso:country":"US",
+    "sg:address":"57 Merchants Row",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 7447",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "brew",
+        "style",
+        "take",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J5UuKFHn5Avaz4vFZKCgA_43.607387_-72.980473@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313689,
+    "wof:geomhash":"40c89403eb4c4e7ebc8b636bd8466cb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255679
+        }
+    ],
+    "wof:id":874255679,
+    "wof:lastmodified":1464313689,
+    "wof:name":"Rutland Restaurant",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "style",
+        "take",
+        "family"
+    ]
+},
+  "bbox": [
+    -72.980473,
+    43.607387,
+    -72.980473,
+    43.607387
+],
+  "geometry": {"coordinates":[-72.980473,43.607387],"type":"Point"}
+}

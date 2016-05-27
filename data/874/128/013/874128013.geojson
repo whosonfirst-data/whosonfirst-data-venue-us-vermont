@@ -1,0 +1,71 @@
+{
+  "id": 874128013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.254641,43.848808,-72.254641,43.848808",
+    "geom:latitude":43.848808,
+    "geom:longitude":-72.254641,
+    "iso:country":"US",
+    "sg:address":"5366 State Rte 113",
+    "sg:city":"Thetford Center",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 785 2810",
+    "sg:postcode":"05075",
+    "sg:province":"VT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85812235,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0arZnuJN80YrRnVzHudhnW_43.848808_-72.254641@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312111,
+    "wof:geomhash":"7a45455f3081c05237bbcccc3055f73b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85812235,
+            "region_id":85688763,
+            "venue_id":874128013
+        }
+    ],
+    "wof:id":874128013,
+    "wof:lastmodified":1464312111,
+    "wof:name":"Dave's Plumbing & Heating",
+    "wof:parent_id":85812235,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.254641,
+    43.848808,
+    -72.254641,
+    43.848808
+],
+  "geometry": {"coordinates":[-72.25464100000001,43.848808],"type":"Point"}
+}

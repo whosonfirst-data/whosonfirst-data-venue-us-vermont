@@ -1,0 +1,71 @@
+{
+  "id": 874200223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.175107,44.493493,-73.175107,44.493493",
+    "geom:latitude":44.493493,
+    "geom:longitude":-73.175107,
+    "iso:country":"US",
+    "sg:address":"9 Dion St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 4228",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "courier",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wdz3rKfPNobhcxhMyJ4IS_44.493493_-73.175107@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312846,
+    "wof:geomhash":"d978302a4da67a9c4613a7275849564c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874200223
+        }
+    ],
+    "wof:id":874200223,
+    "wof:lastmodified":1464312846,
+    "wof:name":"Queen City Delivery",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier",
+        "air"
+    ]
+},
+  "bbox": [
+    -73.175107,
+    44.493493,
+    -73.175107,
+    44.493493
+],
+  "geometry": {"coordinates":[-73.175107,44.493493],"type":"Point"}
+}

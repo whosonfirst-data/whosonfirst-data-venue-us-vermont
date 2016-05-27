@@ -1,0 +1,71 @@
+{
+  "id": 874227781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.161467,44.72873,-73.161467,44.72873",
+    "geom:latitude":44.72873,
+    "geom:longitude":-73.161467,
+    "iso:country":"US",
+    "sg:address":"577 Georgia Middle Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 527 0098",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EAmDZk0MJpoRwcyk5SDep_44.728730_-73.161467@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313138,
+    "wof:geomhash":"7b99c8f0337ae89dcbaa98c3b6fdb950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874227781
+        }
+    ],
+    "wof:id":874227781,
+    "wof:lastmodified":1464313138,
+    "wof:name":"Georgia Industrial Development",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.161467,
+    44.72873,
+    -73.161467,
+    44.72873
+],
+  "geometry": {"coordinates":[-73.161467,44.72873],"type":"Point"}
+}

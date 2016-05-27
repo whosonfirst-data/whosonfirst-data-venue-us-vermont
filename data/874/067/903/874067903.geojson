@@ -1,0 +1,71 @@
+{
+  "id": 874067903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.092827,44.309374,-72.092827,44.309374",
+    "geom:latitude":44.309374,
+    "geom:longitude":-72.092827,
+    "iso:country":"US",
+    "sg:address":"1981 W Barnet Rd",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 3637",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "sg:tags":[
+        "maker",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IViqdVFoyGsXmK5qeksUP_44.309374_-72.092827@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311407,
+    "wof:geomhash":"019316e2cf7265a536273d7b070f28db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874067903
+        }
+    ],
+    "wof:id":874067903,
+    "wof:lastmodified":1464311407,
+    "wof:name":"Scott A Davis Cabinetmaker",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maker",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -72.092827,
+    44.309374,
+    -72.092827,
+    44.309374
+],
+  "geometry": {"coordinates":[-72.092827,44.309374],"type":"Point"}
+}

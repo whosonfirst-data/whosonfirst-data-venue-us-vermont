@@ -1,0 +1,75 @@
+{
+  "id": 874119065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210134,44.440607,-73.210134,44.440607",
+    "geom:latitude":44.440607,
+    "geom:longitude":-73.210134,
+    "iso:country":"US",
+    "sg:address":"1000 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 4416",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CHHxXB7z83QZMvUMVW22c_44.440607_-73.210134@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312025,
+    "wof:geomhash":"5ed5da00302928fc20696f2cd3cbca4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874119065
+        }
+    ],
+    "wof:id":874119065,
+    "wof:lastmodified":1464312025,
+    "wof:name":"US Marine Corps Recruiting",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -73.210134,
+    44.440607,
+    -73.210134,
+    44.440607
+],
+  "geometry": {"coordinates":[-73.210134,44.440607],"type":"Point"}
+}

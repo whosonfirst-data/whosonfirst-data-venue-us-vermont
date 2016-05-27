@@ -1,0 +1,73 @@
+{
+  "id": 874083569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210127,42.931741,-73.210127,42.931741",
+    "geom:latitude":42.931741,
+    "geom:longitude":-73.210127,
+    "iso:country":"US",
+    "sg:address":"2116 Harwood Hill Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 0136",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZRPm3xh9E8koLo0wbjCqa_42.931741_-73.210127@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311595,
+    "wof:geomhash":"07f4f9a6eb042b13b58eef4e4c71e197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874083569
+        }
+    ],
+    "wof:id":874083569,
+    "wof:lastmodified":1464311595,
+    "wof:name":"William Barney Backhoe Constr",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.210127,
+    42.931741,
+    -73.210127,
+    42.931741
+],
+  "geometry": {"coordinates":[-73.210127,42.931741],"type":"Point"}
+}

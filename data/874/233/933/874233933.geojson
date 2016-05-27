@@ -1,0 +1,69 @@
+{
+  "id": 874233933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971925,43.606199,-72.971925,43.606199",
+    "geom:latitude":43.606199,
+    "geom:longitude":-72.971925,
+    "iso:country":"US",
+    "sg:address":"174 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 3775",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a1N1VEIDB7IkTKj1Yja5D_43.606199_-72.971925@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313219,
+    "wof:geomhash":"ed9a370969833bf0adff8abf35f54392",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874233933
+        }
+    ],
+    "wof:id":874233933,
+    "wof:lastmodified":1464313219,
+    "wof:name":"C J's Suds South",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -72.971925,
+    43.606199,
+    -72.971925,
+    43.606199
+],
+  "geometry": {"coordinates":[-72.971925,43.606199],"type":"Point"}
+}

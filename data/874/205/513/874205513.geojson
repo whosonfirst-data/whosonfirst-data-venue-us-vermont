@@ -1,0 +1,71 @@
+{
+  "id": 874205513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.492452,44.196552,-72.492452,44.196552",
+    "geom:latitude":44.196552,
+    "geom:longitude":-72.492452,
+    "iso:country":"US",
+    "sg:address":"8 Delmont Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 8732",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AWJxg6AmgDyY2QfoUV9ko_44.196552_-72.492452@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312899,
+    "wof:geomhash":"cddaaa29e77ebda68277ed2017885b89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874205513
+        }
+    ],
+    "wof:id":874205513,
+    "wof:lastmodified":1464312899,
+    "wof:name":"John Belding Photography",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -72.492452,
+    44.196552,
+    -72.492452,
+    44.196552
+],
+  "geometry": {"coordinates":[-72.492452,44.196552],"type":"Point"}
+}

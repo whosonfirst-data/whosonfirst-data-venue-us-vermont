@@ -1,0 +1,71 @@
+{
+  "id": 874194221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.101354,43.253697,-73.101354,43.253697",
+    "geom:latitude":43.253697,
+    "geom:longitude":-73.101354,
+    "iso:country":"US",
+    "sg:address":"143 Church St",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 867 2260",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XhnIGyEowJwlbveQDDDu8_43.253697_-73.101354@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312782,
+    "wof:geomhash":"1cae10d162279063841c8ae62d850d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874194221
+        }
+    ],
+    "wof:id":874194221,
+    "wof:lastmodified":1464312782,
+    "wof:name":"United Church Of Dorset",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.101354,
+    43.253697,
+    -73.101354,
+    43.253697
+],
+  "geometry": {"coordinates":[-73.101354,43.253697],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874205827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.013599,44.41961,-72.013599,44.41961",
+    "geom:latitude":44.41961,
+    "geom:longitude":-72.013599,
+    "iso:country":"US",
+    "sg:address":"78 Portland St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 5099",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZaXRwif1dkuLnsyIU2aVa_44.419610_-72.013599@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312902,
+    "wof:geomhash":"66e376822f5e6defaa01bde9b504117d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874205827
+        }
+    ],
+    "wof:id":874205827,
+    "wof:lastmodified":1464312902,
+    "wof:name":"White Market",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -72.013599,
+    44.41961,
+    -72.013599,
+    44.41961
+],
+  "geometry": {"coordinates":[-72.013599,44.41961],"type":"Point"}
+}

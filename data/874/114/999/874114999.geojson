@@ -1,0 +1,74 @@
+{
+  "id": 874114999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.216927,44.472892,-73.216927,44.472892",
+    "geom:latitude":44.472892,
+    "geom:longitude":-73.216927,
+    "iso:country":"US",
+    "sg:address":"255 S Champlain St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 2465",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.999thebuzz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lysHmiiS85KV2HaPX5XDz_44.472892_-73.216927@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311987,
+    "wof:geomhash":"2dff23b36040c8b4088f9a6349a1492c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874114999
+        }
+    ],
+    "wof:id":874114999,
+    "wof:lastmodified":1464311987,
+    "wof:name":"Buzz",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -73.216927,
+    44.472892,
+    -73.216927,
+    44.472892
+],
+  "geometry": {"coordinates":[-73.216927,44.472892],"type":"Point"}
+}

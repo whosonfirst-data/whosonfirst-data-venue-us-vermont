@@ -1,0 +1,71 @@
+{
+  "id": 874130217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.997444,43.354145,-72.997444,43.354145",
+    "geom:latitude":43.354145,
+    "geom:longitude":-72.997444,
+    "iso:country":"US",
+    "sg:address":"256 N Main St",
+    "sg:city":"Danby",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 293 2410",
+    "sg:postcode":"05739",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oxNOrsVjCSz3RhQ8V50wA_43.354145_-72.997444@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312139,
+    "wof:geomhash":"76e73eb2daa8376c5dc198016c7a1e70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874130217
+        }
+    ],
+    "wof:id":874130217,
+    "wof:lastmodified":1464312139,
+    "wof:name":"Hjs Electric",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.997444,
+    43.354145,
+    -72.997444,
+    43.354145
+],
+  "geometry": {"coordinates":[-72.997444,43.354145],"type":"Point"}
+}

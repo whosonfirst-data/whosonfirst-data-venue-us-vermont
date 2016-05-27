@@ -1,0 +1,75 @@
+{
+  "id": 874033081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.805266,44.907781,-72.805266,44.907781",
+    "geom:latitude":44.907781,
+    "geom:longitude":-72.805266,
+    "iso:country":"US",
+    "sg:address":"27 Bismark St",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 4419",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "frozen",
+        "food",
+        "locker",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Th6h6Lonl4yH4DothCpeS_44.907781_-72.805266@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311076,
+    "wof:geomhash":"b6b65e818c95ec33457e6501ab1839b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874033081
+        }
+    ],
+    "wof:id":874033081,
+    "wof:lastmodified":1464311076,
+    "wof:name":"Enosburg Meat Market",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "food",
+        "locker",
+        "plant"
+    ]
+},
+  "bbox": [
+    -72.805266,
+    44.907781,
+    -72.805266,
+    44.907781
+],
+  "geometry": {"coordinates":[-72.805266,44.907781],"type":"Point"}
+}

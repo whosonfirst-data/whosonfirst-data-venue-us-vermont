@@ -1,0 +1,69 @@
+{
+  "id": 874112095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.504933,43.327169,-72.504933,43.327169",
+    "geom:latitude":43.327169,
+    "geom:longitude":-72.504933,
+    "iso:country":"US",
+    "sg:address":"1 Plainhill Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 8151",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XPwN52w6zqAYtpyIdUBHe_43.327169_-72.504933@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311959,
+    "wof:geomhash":"654b293955a2e65a173ebb0761da2a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874112095
+        }
+    ],
+    "wof:id":874112095,
+    "wof:lastmodified":1464311959,
+    "wof:name":"Bill Parker's Train Shop",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -72.504933,
+    43.327169,
+    -72.504933,
+    43.327169
+],
+  "geometry": {"coordinates":[-72.50493299999999,43.327169],"type":"Point"}
+}

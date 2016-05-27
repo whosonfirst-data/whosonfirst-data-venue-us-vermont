@@ -1,0 +1,71 @@
+{
+  "id": 874230483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.976742,44.428309,-71.976742,44.428309",
+    "geom:latitude":44.428309,
+    "geom:longitude":-71.976742,
+    "iso:country":"US",
+    "sg:address":"2870 Portland St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 4334",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JdcvbtGu9PZbWHiInspNB_44.428309_-71.976742@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313169,
+    "wof:geomhash":"8ffafe9f52d36786bb032cccbe6980fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874230483
+        }
+    ],
+    "wof:id":874230483,
+    "wof:lastmodified":1464313169,
+    "wof:name":"Moose River Camp Ground",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -71.976742,
+    44.428309,
+    -71.976742,
+    44.428309
+],
+  "geometry": {"coordinates":[-71.976742,44.428309],"type":"Point"}
+}

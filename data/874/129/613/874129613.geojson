@@ -1,0 +1,73 @@
+{
+  "id": 874129613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.016578,44.417788,-72.016578,44.417788",
+    "geom:latitude":44.417788,
+    "geom:longitude":-72.016578,
+    "iso:country":"US",
+    "sg:address":"33 Eastern Ave",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 9803",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lounge",
+        "drinking",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gai56Q81I6YffmeSmeVtH_44.417788_-72.016578@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312130,
+    "wof:geomhash":"0088df928f639848c87f81ca89abc442",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874129613
+        }
+    ],
+    "wof:id":874129613,
+    "wof:lastmodified":1464312130,
+    "wof:name":"Dawg House Tavern",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "drinking",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -72.016578,
+    44.417788,
+    -72.016578,
+    44.417788
+],
+  "geometry": {"coordinates":[-72.016578,44.417788],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874243005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.445985,44.103115,-72.445985,44.103115",
+    "geom:latitude":44.103115,
+    "geom:longitude":-72.445985,
+    "iso:country":"US",
+    "sg:address":"303 Mac Donald Rd",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 883 5458",
+    "sg:postcode":"05675",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pw1cQiN1SxFFv1kNC1Xow_44.103115_-72.445985@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313394,
+    "wof:geomhash":"97bbbc5e4e03a2254b2b0d78c4240127",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874243005
+        }
+    ],
+    "wof:id":874243005,
+    "wof:lastmodified":1464313394,
+    "wof:name":"Bill Murphy Concrete Constr",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.445985,
+    44.103115,
+    -72.445985,
+    44.103115
+],
+  "geometry": {"coordinates":[-72.44598499999999,44.103115],"type":"Point"}
+}

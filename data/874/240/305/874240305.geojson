@@ -1,0 +1,71 @@
+{
+  "id": 874240305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.996709,44.405668,-72.996709,44.405668",
+    "geom:latitude":44.405668,
+    "geom:longitude":-72.996709,
+    "iso:country":"US",
+    "sg:address":"198 Railroad St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 2860",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74QjgBXmKDUTEw9h5SWUyX_44.405668_-72.996709@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313346,
+    "wof:geomhash":"fa537a4cd7a99ddd0b2bd56ddeb71c1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874240305
+        }
+    ],
+    "wof:id":874240305,
+    "wof:lastmodified":1464313346,
+    "wof:name":"Green Mountain Environmental",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "org"
+    ]
+},
+  "bbox": [
+    -72.996709,
+    44.405668,
+    -72.996709,
+    44.405668
+],
+  "geometry": {"coordinates":[-72.996709,44.405668],"type":"Point"}
+}

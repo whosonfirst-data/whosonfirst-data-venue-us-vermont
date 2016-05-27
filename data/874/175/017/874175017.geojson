@@ -1,0 +1,69 @@
+{
+  "id": 874175017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.986159,43.601315,-72.986159,43.601315",
+    "geom:latitude":43.601315,
+    "geom:longitude":-72.986159,
+    "iso:country":"US",
+    "sg:address":"159 River St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 4771",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e1JnTZHmptSRjOvDSlD47_43.601315_-72.986159@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312579,
+    "wof:geomhash":"f5b58f10e830ca1946a70bc52a978d94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874175017
+        }
+    ],
+    "wof:id":874175017,
+    "wof:lastmodified":1464312579,
+    "wof:name":"Riverside Pet Hospital",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal"
+    ]
+},
+  "bbox": [
+    -72.986159,
+    43.601315,
+    -72.986159,
+    43.601315
+],
+  "geometry": {"coordinates":[-72.986159,43.601315],"type":"Point"}
+}

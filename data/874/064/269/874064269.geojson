@@ -1,0 +1,73 @@
+{
+  "id": 874064269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.174585,44.462213,-73.174585,44.462213",
+    "geom:latitude":44.462213,
+    "geom:longitude":-73.174585,
+    "iso:country":"US",
+    "sg:address":"2 Iby St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 0485",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0twbEWqL9zIchHQub3gjAE_44.462213_-73.174585@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311374,
+    "wof:geomhash":"9c8b58558689c551e01fc73c741e6f3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874064269
+        }
+    ],
+    "wof:id":874064269,
+    "wof:lastmodified":1464311374,
+    "wof:name":"Jack Productions",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -73.174585,
+    44.462213,
+    -73.174585,
+    44.462213
+],
+  "geometry": {"coordinates":[-73.17458499999999,44.462213],"type":"Point"}
+}

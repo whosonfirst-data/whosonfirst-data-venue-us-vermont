@@ -1,0 +1,71 @@
+{
+  "id": 874103415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.069881,44.556889,-72.069881,44.556889",
+    "geom:latitude":44.556889,
+    "geom:longitude":-72.069881,
+    "iso:country":"US",
+    "sg:address":"644 Townsend Rd",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 4200",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E5o9gdI122BtM9efr8uKV_44.556889_-72.069881@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311837,
+    "wof:geomhash":"3332685071615441a0395090d49f1ea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874103415
+        }
+    ],
+    "wof:id":874103415,
+    "wof:lastmodified":1464311837,
+    "wof:name":"Gould Well Drilling Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -72.069881,
+    44.556889,
+    -72.069881,
+    44.556889
+],
+  "geometry": {"coordinates":[-72.069881,44.556889],"type":"Point"}
+}

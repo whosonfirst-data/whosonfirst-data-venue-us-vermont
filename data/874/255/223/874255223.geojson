@@ -1,0 +1,81 @@
+{
+  "id": 874255223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.249898,44.169303,-73.249898,44.169303",
+    "geom:latitude":44.169303,
+    "geom:longitude":-73.249898,
+    "iso:country":"US",
+    "sg:address":"12 Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2200",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "battery",
+        "part",
+        "accessory",
+        "automobile"
+    ],
+    "sg:website":"http://www.napaonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kc2lzFAUscby1xwUVTPGZ_44.169303_-73.249898@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313680,
+    "wof:geomhash":"d787393e07e3e13d498800375a7f2f0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874255223
+        }
+    ],
+    "wof:id":874255223,
+    "wof:lastmodified":1464313680,
+    "wof:name":"Napa Auto Parts",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery",
+        "part",
+        "accessory",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.249898,
+    44.169303,
+    -73.249898,
+    44.169303
+],
+  "geometry": {"coordinates":[-73.249898,44.169303],"type":"Point"}
+}

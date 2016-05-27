@@ -1,0 +1,69 @@
+{
+  "id": 874227445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.950152,43.592356,-72.950152,43.592356",
+    "geom:latitude":43.592356,
+    "geom:longitude":-72.950152,
+    "iso:country":"US",
+    "sg:address":"217 Stratton Rd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0819",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_207TG3Cc8Jx7Lf9sFsn23G_43.592356_-72.950152@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313135,
+    "wof:geomhash":"8e2baf647d3615aeb5919dec8825dceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874227445
+        }
+    ],
+    "wof:id":874227445,
+    "wof:lastmodified":1464313135,
+    "wof:name":"Family Dental Assoc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.950152,
+    43.592356,
+    -72.950152,
+    43.592356
+],
+  "geometry": {"coordinates":[-72.950152,43.592356],"type":"Point"}
+}

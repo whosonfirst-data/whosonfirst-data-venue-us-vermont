@@ -1,0 +1,73 @@
+{
+  "id": 874223583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.499611,44.191645,-72.499611,44.191645",
+    "geom:latitude":44.191645,
+    "geom:longitude":-72.499611,
+    "iso:country":"US",
+    "sg:address":"89 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4189",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "granite",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ImoKP0R6JuI7fiv3o8lX0_44.191645_-72.499611@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313099,
+    "wof:geomhash":"45ccfc589cddbdab88ae96f9e0056e28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874223583
+        }
+    ],
+    "wof:id":874223583,
+    "wof:lastmodified":1464313099,
+    "wof:name":"Parnigoni Brothers Granite Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "granite",
+        "product"
+    ]
+},
+  "bbox": [
+    -72.499611,
+    44.191645,
+    -72.499611,
+    44.191645
+],
+  "geometry": {"coordinates":[-72.499611,44.191645],"type":"Point"}
+}

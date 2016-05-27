@@ -1,0 +1,71 @@
+{
+  "id": 874076723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.177916,44.417277,-73.177916,44.417277",
+    "geom:latitude":44.417277,
+    "geom:longitude":-73.177916,
+    "iso:country":"US",
+    "sg:address":"45 Bower St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 3315",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30U1YYwjHtFil41m6hEl05_44.417277_-73.177916@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311517,
+    "wof:geomhash":"72c6b860de26ae9c3b14d73db6a54c6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874076723
+        }
+    ],
+    "wof:id":874076723,
+    "wof:lastmodified":1464311517,
+    "wof:name":"Property Management Assoc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -73.177916,
+    44.417277,
+    -73.177916,
+    44.417277
+],
+  "geometry": {"coordinates":[-73.177916,44.417277],"type":"Point"}
+}

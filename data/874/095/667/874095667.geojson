@@ -1,0 +1,69 @@
+{
+  "id": 874095667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.541481,42.891488,-72.541481,42.891488",
+    "geom:latitude":42.891488,
+    "geom:longitude":-72.541481,
+    "iso:country":"US",
+    "sg:address":"6 Glen Orne Dr",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 4661",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SJLOj4Lgbi5wr9uQjQ0pV_42.891488_-72.541481@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311721,
+    "wof:geomhash":"a7240eb96834276e4988d92fe1e113da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874095667
+        }
+    ],
+    "wof:id":874095667,
+    "wof:lastmodified":1464311721,
+    "wof:name":"Brattleboro Haulage",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.541481,
+    42.891488,
+    -72.541481,
+    42.891488
+],
+  "geometry": {"coordinates":[-72.541481,42.891488],"type":"Point"}
+}

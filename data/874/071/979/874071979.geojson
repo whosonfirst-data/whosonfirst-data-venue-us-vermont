@@ -1,0 +1,71 @@
+{
+  "id": 874071979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.074948,43.87665,-73.074948,43.87665",
+    "geom:latitude":43.87665,
+    "geom:longitude":-73.074948,
+    "iso:country":"US",
+    "sg:address":"754 Hooker Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 0035",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74a9iCCNnJML7usFpDZi9T_43.876650_-73.074948@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311461,
+    "wof:geomhash":"54180551e3ab9399aea60f906a9f9927",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874071979
+        }
+    ],
+    "wof:id":874071979,
+    "wof:lastmodified":1464311461,
+    "wof:name":"W C Paving",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.074948,
+    43.87665,
+    -73.074948,
+    43.87665
+],
+  "geometry": {"coordinates":[-73.07494800000001,43.87665],"type":"Point"}
+}

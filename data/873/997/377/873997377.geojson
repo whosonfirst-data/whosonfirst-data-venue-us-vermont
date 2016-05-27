@@ -1,0 +1,71 @@
+{
+  "id": 873997377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.165356,44.009397,-73.165356,44.009397",
+    "geom:latitude":44.009397,
+    "geom:longitude":-73.165356,
+    "iso:country":"US",
+    "sg:address":"317 Charles Ave",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7081",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sanitary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mHTmUugnMQkqUFua5g7Uk_44.009397_-73.165356@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310742,
+    "wof:geomhash":"b7083e94f00f1a48cc382d9f9ed0458b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":873997377
+        }
+    ],
+    "wof:id":873997377,
+    "wof:lastmodified":1464310742,
+    "wof:name":"Kirk Fiske",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary"
+    ]
+},
+  "bbox": [
+    -73.165356,
+    44.009397,
+    -73.165356,
+    44.009397
+],
+  "geometry": {"coordinates":[-73.165356,44.009397],"type":"Point"}
+}

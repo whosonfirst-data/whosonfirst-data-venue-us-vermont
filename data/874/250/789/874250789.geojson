@@ -1,0 +1,72 @@
+{
+  "id": 874250789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.110221,44.448574,-73.110221,44.448574",
+    "geom:latitude":44.448574,
+    "geom:longitude":-73.110221,
+    "iso:country":"US",
+    "sg:address":"5876 Williston Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/williston/98972-friendlys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 1404",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IAxqqf75cBiq7nLXUniF3_44.448574_-73.110221@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313582,
+    "wof:geomhash":"2f7e0a820772e7a14fab9eb26231f9bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874250789
+        }
+    ],
+    "wof:id":874250789,
+    "wof:lastmodified":1464313582,
+    "wof:name":"Friendly's",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.110221,
+    44.448574,
+    -73.110221,
+    44.448574
+],
+  "geometry": {"coordinates":[-73.110221,44.448574],"type":"Point"}
+}

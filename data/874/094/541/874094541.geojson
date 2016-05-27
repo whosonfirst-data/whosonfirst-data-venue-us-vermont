@@ -1,0 +1,71 @@
+{
+  "id": 874094541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.506973,42.741244,-72.506973,42.741244",
+    "geom:latitude":42.741244,
+    "geom:longitude":-72.506973,
+    "iso:country":"US",
+    "sg:address":"838 Newton Rd",
+    "sg:city":"Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 7340",
+    "sg:postcode":"05354",
+    "sg:province":"VT",
+    "sg:tags":[
+        "bait",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85850169,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62tujEA0kLr9NAmSi5B3mq_42.741244_-72.506973@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311708,
+    "wof:geomhash":"5378c3e7b11939e7eb02e8494cb04c52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85850169,
+            "region_id":85688763,
+            "venue_id":874094541
+        }
+    ],
+    "wof:id":874094541,
+    "wof:lastmodified":1464311708,
+    "wof:name":"Clints Bait & Tackle Shop",
+    "wof:parent_id":85850169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bait",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -72.506973,
+    42.741244,
+    -72.506973,
+    42.741244
+],
+  "geometry": {"coordinates":[-72.506973,42.741244],"type":"Point"}
+}

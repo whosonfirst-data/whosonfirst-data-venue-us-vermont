@@ -1,0 +1,74 @@
+{
+  "id": 874102625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.001233,44.398166,-73.001233,44.398166",
+    "geom:latitude":44.398166,
+    "geom:longitude":-73.001233,
+    "iso:country":"US",
+    "sg:address":"61 Farr Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 4007",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "sg:website":"www.brownway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CUeFGsO7cu8fsd3sv8DyG_44.398166_-73.001233@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311827,
+    "wof:geomhash":"d8155a91e873b32c7b151c56230f5eef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874102625
+        }
+    ],
+    "wof:id":874102625,
+    "wof:lastmodified":1464311827,
+    "wof:name":"Brownway Residence Inc",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -73.001233,
+    44.398166,
+    -73.001233,
+    44.398166
+],
+  "geometry": {"coordinates":[-73.001233,44.398166],"type":"Point"}
+}

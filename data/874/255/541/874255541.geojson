@@ -1,0 +1,71 @@
+{
+  "id": 874255541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.369598,44.341801,-72.369598,44.341801",
+    "geom:latitude":44.341801,
+    "geom:longitude":-72.369598,
+    "iso:country":"US",
+    "sg:address":"2193 Hollister Hill Rd",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 454 7725",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jLWRp4YBGSnxeZ96gMKTB_44.341801_-72.369598@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313687,
+    "wof:geomhash":"39bc22825e4cfa95deacac15d3798a54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874255541
+        }
+    ],
+    "wof:id":874255541,
+    "wof:lastmodified":1464313687,
+    "wof:name":"Hollister Hill Farm B & B",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.369598,
+    44.341801,
+    -72.369598,
+    44.341801
+],
+  "geometry": {"coordinates":[-72.369598,44.341801],"type":"Point"}
+}

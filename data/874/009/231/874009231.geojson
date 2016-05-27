@@ -1,0 +1,71 @@
+{
+  "id": 874009231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.505824,43.320243,-72.505824,43.320243",
+    "geom:latitude":43.320243,
+    "geom:longitude":-72.505824,
+    "iso:country":"US",
+    "sg:address":"371 River St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 2070",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lithographic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bbiMBapFDhYdjMRRfDjbC_43.320243_-72.505824@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310850,
+    "wof:geomhash":"ac0af6967f5feee2c1c0c21572897955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874009231
+        }
+    ],
+    "wof:id":874009231,
+    "wof:lastmodified":1464310850,
+    "wof:name":"Alternative Printing",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -72.505824,
+    43.320243,
+    -72.505824,
+    43.320243
+],
+  "geometry": {"coordinates":[-72.505824,43.320243],"type":"Point"}
+}

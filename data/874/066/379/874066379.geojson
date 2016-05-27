@@ -1,0 +1,71 @@
+{
+  "id": 874066379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.996529,44.505217,-72.996529,44.505217",
+    "geom:latitude":44.505217,
+    "geom:longitude":-72.996529,
+    "iso:country":"US",
+    "sg:address":"53 State Rte 15",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 4661",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t0nXdmko4ksiprlIQ9oW4_44.505217_-72.996529@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311392,
+    "wof:geomhash":"6d0892553230ffc715db300b637e6e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874066379
+        }
+    ],
+    "wof:id":874066379,
+    "wof:lastmodified":1464311392,
+    "wof:name":"Jericho General Store",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.996529,
+    44.505217,
+    -72.996529,
+    44.505217
+],
+  "geometry": {"coordinates":[-72.996529,44.505217],"type":"Point"}
+}

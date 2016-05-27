@@ -1,0 +1,76 @@
+{
+  "id": 874255307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.250374,44.168736,-73.250374,44.168736",
+    "geom:latitude":44.168736,
+    "geom:longitude":-73.250374,
+    "iso:country":"US",
+    "sg:address":"86 Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2134",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lTVW1wDxx4lWSri22epeU_44.168736_-73.250374@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313682,
+    "wof:geomhash":"b9884902486c5fa16b17243a03b308e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874255307
+        }
+    ],
+    "wof:id":874255307,
+    "wof:lastmodified":1464313682,
+    "wof:name":"Landmark Properties",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -73.250374,
+    44.168736,
+    -73.250374,
+    44.168736
+],
+  "geometry": {"coordinates":[-73.25037399999999,44.168736],"type":"Point"}
+}

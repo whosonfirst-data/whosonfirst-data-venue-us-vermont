@@ -1,0 +1,73 @@
+{
+  "id": 874216513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.507073,44.199026,-72.507073,44.199026",
+    "geom:latitude":44.199026,
+    "geom:longitude":-72.507073,
+    "iso:country":"US",
+    "sg:address":"53 Granite St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4561",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HjyaAmK0dcqYnEjyVjob3_44.199026_-72.507073@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313018,
+    "wof:geomhash":"be40a167a5248ccc83c1f2fe968173e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874216513
+        }
+    ],
+    "wof:id":874216513,
+    "wof:lastmodified":1464313018,
+    "wof:name":"Dessureau Machines Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.507073,
+    44.199026,
+    -72.507073,
+    44.199026
+],
+  "geometry": {"coordinates":[-72.50707300000001,44.199026],"type":"Point"}
+}

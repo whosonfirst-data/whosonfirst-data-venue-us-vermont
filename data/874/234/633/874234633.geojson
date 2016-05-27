@@ -1,0 +1,69 @@
+{
+  "id": 874234633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.048211,44.515368,-73.048211,44.515368",
+    "geom:latitude":44.515368,
+    "geom:longitude":-73.048211,
+    "iso:country":"US",
+    "sg:address":"35 Thomas Ln",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 0807",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_548dUbU8nV3Le5KhKGh3Ow_44.515368_-73.048211@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313233,
+    "wof:geomhash":"571f7bbc3265f7b4650830408ae9284c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874234633
+        }
+    ],
+    "wof:id":874234633,
+    "wof:lastmodified":1464313233,
+    "wof:name":"Town-Essex Trowbridge Pump",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump"
+    ]
+},
+  "bbox": [
+    -73.048211,
+    44.515368,
+    -73.048211,
+    44.515368
+],
+  "geometry": {"coordinates":[-73.04821099999999,44.515368],"type":"Point"}
+}

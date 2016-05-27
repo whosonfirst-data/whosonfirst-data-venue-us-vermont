@@ -1,0 +1,67 @@
+{
+  "id": 874159131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209144,44.421517,-73.209144,44.421517",
+    "geom:latitude":44.421517,
+    "geom:longitude":-73.209144,
+    "iso:country":"US",
+    "sg:address":"2 Karen Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 5180",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:website":"www.orkin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BQsTXdmLmNQmcM6DRg0qj_44.421517_-73.209144@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312423,
+    "wof:geomhash":"a8df68738d2bc907e8323cc7050b8f56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874159131
+        }
+    ],
+    "wof:id":874159131,
+    "wof:lastmodified":1464312423,
+    "wof:name":"Orkin Exterminating Co",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.209144,
+    44.421517,
+    -73.209144,
+    44.421517
+],
+  "geometry": {"coordinates":[-73.20914399999999,44.421517],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874091713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.228629,44.451139,-73.228629,44.451139",
+    "geom:latitude":44.451139,
+    "geom:longitude":-73.228629,
+    "iso:country":"US",
+    "sg:address":"68 S Cove Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 9777",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HLKzEEdrmlRh26sLFZzfP_44.451139_-73.228629@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311683,
+    "wof:geomhash":"ff30fb36b5d3ac597704067da5327e86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874091713
+        }
+    ],
+    "wof:id":874091713,
+    "wof:lastmodified":1464311683,
+    "wof:name":"Burlington Builders & Co",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.228629,
+    44.451139,
+    -73.228629,
+    44.451139
+],
+  "geometry": {"coordinates":[-73.228629,44.451139],"type":"Point"}
+}

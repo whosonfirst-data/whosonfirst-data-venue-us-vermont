@@ -1,0 +1,72 @@
+{
+  "id": 874251057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.112228,44.443935,-73.112228,44.443935",
+    "geom:latitude":44.443935,
+    "geom:longitude":-73.112228,
+    "iso:country":"US",
+    "sg:address":"1405 Maple Tree Pl",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/williston/98706-longhorn-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 288 9858",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mthRrnWcRBWGN82FkJ2Nk_44.444234_-73.112411@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313587,
+    "wof:geomhash":"2d409aa33b18bd14ae3a5dc7d7bac2ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874251057
+        }
+    ],
+    "wof:id":874251057,
+    "wof:lastmodified":1464313587,
+    "wof:name":"LongHorn Steakhouse",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -73.112228,
+    44.443935,
+    -73.112228,
+    44.443935
+],
+  "geometry": {"coordinates":[-73.112228,44.443935],"type":"Point"}
+}

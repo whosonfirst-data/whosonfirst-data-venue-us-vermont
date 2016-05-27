@@ -1,0 +1,69 @@
+{
+  "id": 874127635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.246504,44.537611,-73.246504,44.537611",
+    "geom:latitude":44.537611,
+    "geom:longitude":-73.246504,
+    "iso:country":"US",
+    "sg:address":"65 Elm Ct",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 652 9991",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SRaENOXpu6EmxWsExxrZW_44.537611_-73.246504@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312108,
+    "wof:geomhash":"04180479caa7b1a315984fe1ca00cce9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874127635
+        }
+    ],
+    "wof:id":874127635,
+    "wof:lastmodified":1464312108,
+    "wof:name":"Master Tech Automotive",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -73.246504,
+    44.537611,
+    -73.246504,
+    44.537611
+],
+  "geometry": {"coordinates":[-73.246504,44.537611],"type":"Point"}
+}

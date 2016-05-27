@@ -1,0 +1,77 @@
+{
+  "id": 874238371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167831,44.483617,-73.167831,44.483617",
+    "geom:latitude":44.483617,
+    "geom:longitude":-73.167831,
+    "iso:country":"US",
+    "sg:address":"29 Berard Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3690",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kUbYGK2QQu9xQr9RWpLfw_44.483617_-73.167831@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313309,
+    "wof:geomhash":"1f98bce8486bb77773bd044493e906d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874238371
+        }
+    ],
+    "wof:id":874238371,
+    "wof:lastmodified":1464313309,
+    "wof:name":"Portland Landscaping",
+    "wof:parent_id":85828531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.167831,
+    44.483617,
+    -73.167831,
+    44.483617
+],
+  "geometry": {"coordinates":[-73.16783100000001,44.483617],"type":"Point"}
+}

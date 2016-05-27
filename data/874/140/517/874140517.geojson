@@ -1,0 +1,69 @@
+{
+  "id": 874140517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.198349,44.497426,-73.198349,44.497426",
+    "geom:latitude":44.497426,
+    "geom:longitude":-73.198349,
+    "iso:country":"US",
+    "sg:address":"200 West St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 7944",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RO14FwchCicLWNctVIV6f_44.497426_-73.198349@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312239,
+    "wof:geomhash":"3b9ba77027d5374bfa6f4129bd98959d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874140517
+        }
+    ],
+    "wof:id":874140517,
+    "wof:lastmodified":1464312239,
+    "wof:name":"Vermont Paint Craftsmen Inc",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -73.198349,
+    44.497426,
+    -73.198349,
+    44.497426
+],
+  "geometry": {"coordinates":[-73.19834899999999,44.497426],"type":"Point"}
+}

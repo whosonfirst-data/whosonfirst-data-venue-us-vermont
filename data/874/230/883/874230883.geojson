@@ -1,0 +1,75 @@
+{
+  "id": 874230883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.249062,44.199882,-73.249062,44.199882",
+    "geom:latitude":44.199882,
+    "geom:longitude":-73.249062,
+    "iso:country":"US",
+    "sg:address":"19 Little Otter Ln",
+    "sg:city":"Ferrisburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 6756",
+    "sg:postcode":"05456",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "e",
+        "sporting",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lDR5JTn8IqZqs3ejto0AY_44.199882_-73.249062@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313173,
+    "wof:geomhash":"fea2ec3cb96b6f65c7645aba734a1e66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874230883
+        }
+    ],
+    "wof:id":874230883,
+    "wof:lastmodified":1464313173,
+    "wof:name":"Dock Doctors",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "e",
+        "sporting",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.249062,
+    44.199882,
+    -73.249062,
+    44.199882
+],
+  "geometry": {"coordinates":[-73.249062,44.199882],"type":"Point"}
+}

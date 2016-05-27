@@ -1,0 +1,64 @@
+{
+  "id": 874243783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.812293,43.681439,-72.812293,43.681439",
+    "geom:latitude":43.681439,
+    "geom:longitude":-72.812293,
+    "iso:country":"US",
+    "sg:address":"1720 State Rte 100",
+    "sg:city":"Stockbridge",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 746 8041",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848249,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lN0fqSo4Jm1aDqY0uCnGC_43.681439_-72.812293@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313408,
+    "wof:geomhash":"8c784f7c16144dac7082083c0267458f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":874243783
+        }
+    ],
+    "wof:id":874243783,
+    "wof:lastmodified":1464313408,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85848249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.812293,
+    43.681439,
+    -72.812293,
+    43.681439
+],
+  "geometry": {"coordinates":[-72.812293,43.681439],"type":"Point"}
+}

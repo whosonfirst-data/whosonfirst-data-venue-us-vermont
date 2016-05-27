@@ -1,0 +1,71 @@
+{
+  "id": 874246343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.684331,43.393311,-72.684331,43.393311",
+    "geom:latitude":43.393311,
+    "geom:longitude":-72.684331,
+    "iso:country":"US",
+    "sg:address":"8 Pleasant St Exd",
+    "sg:city":"Ludlow",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 228 7110",
+    "sg:postcode":"05149",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yr7bwRURzhHB6JXMFbFKC_43.393311_-72.684331@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313459,
+    "wof:geomhash":"ad68513dcbbad8dfcf1f14f9759a1beb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874246343
+        }
+    ],
+    "wof:id":874246343,
+    "wof:lastmodified":1464313459,
+    "wof:name":"K & M Auto Repair",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.684331,
+    43.393311,
+    -72.684331,
+    43.393311
+],
+  "geometry": {"coordinates":[-72.684331,43.393311],"type":"Point"}
+}

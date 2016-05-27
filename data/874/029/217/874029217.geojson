@@ -1,0 +1,71 @@
+{
+  "id": 874029217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.608347,44.8775,-72.608347,44.8775",
+    "geom:latitude":44.8775,
+    "geom:longitude":-72.608347,
+    "iso:country":"US",
+    "sg:address":"71 Main St",
+    "sg:city":"Montgomery Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 326 4528",
+    "sg:postcode":"05471",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b82FXZv5CmtJeoQihEJAq_44.877500_-72.608347@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311040,
+    "wof:geomhash":"81908d0b0d01c83b290e311d6c1e6f7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874029217
+        }
+    ],
+    "wof:id":874029217,
+    "wof:lastmodified":1464311040,
+    "wof:name":"Lutz's Automotive",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.608347,
+    44.8775,
+    -72.608347,
+    44.8775
+],
+  "geometry": {"coordinates":[-72.60834699999999,44.8775],"type":"Point"}
+}

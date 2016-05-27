@@ -1,0 +1,71 @@
+{
+  "id": 874202235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.592307,43.724217,-72.592307,43.724217",
+    "geom:latitude":43.724217,
+    "geom:longitude":-72.592307,
+    "iso:country":"US",
+    "sg:address":"421 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 7716",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yjzqPKL8mHSFT2v3j7f1W_43.724217_-72.592307@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312865,
+    "wof:geomhash":"6ae3b4b92f68dce612537aba9c983d37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874202235
+        }
+    ],
+    "wof:id":874202235,
+    "wof:lastmodified":1464312865,
+    "wof:name":"EPE Corp",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [
+    -72.592307,
+    43.724217,
+    -72.592307,
+    43.724217
+],
+  "geometry": {"coordinates":[-72.59230700000001,43.724217],"type":"Point"}
+}

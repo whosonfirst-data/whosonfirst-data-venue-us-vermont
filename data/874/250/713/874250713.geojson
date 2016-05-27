@@ -1,0 +1,87 @@
+{
+  "id": 874250713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.031944,44.503067,-73.031944,44.503067",
+    "geom:latitude":44.503067,
+    "geom:longitude":-73.031944,
+    "iso:country":"US",
+    "sg:address":"134 Jericho Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/essex/139028-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 4232",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DSkFGejzXsU81Q25T0TMv_44.503067_-73.031944@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313580,
+    "wof:geomhash":"09f31a91ccb8bb6d2ce9a8b86755fe32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874250713
+        }
+    ],
+    "wof:id":874250713,
+    "wof:lastmodified":1464313580,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -73.031944,
+    44.503067,
+    -73.031944,
+    44.503067
+],
+  "geometry": {"coordinates":[-73.031944,44.503067],"type":"Point"}
+}

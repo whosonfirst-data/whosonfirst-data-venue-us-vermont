@@ -1,0 +1,71 @@
+{
+  "id": 874003117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.7855,44.9072,-72.7855,44.9072",
+    "geom:latitude":44.9072,
+    "geom:longitude":-72.7855,
+    "iso:country":"US",
+    "sg:address":"1217 Davis Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 2700",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "daycare",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46fBgUCBXKN54sx8fPknGZ_44.907200_-72.785500@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310793,
+    "wof:geomhash":"47eadc1553af3ef861f072bd93d15290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874003117
+        }
+    ],
+    "wof:id":874003117,
+    "wof:lastmodified":1464310793,
+    "wof:name":"Poohs Corner Fmly Daycare LLC",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "daycare",
+        "provider"
+    ]
+},
+  "bbox": [
+    -72.7855,
+    44.9072,
+    -72.7855,
+    44.9072
+],
+  "geometry": {"coordinates":[-72.7855,44.9072],"type":"Point"}
+}

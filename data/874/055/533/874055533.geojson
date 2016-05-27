@@ -1,0 +1,71 @@
+{
+  "id": 874055533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.639167,43.382155,-72.639167,43.382155",
+    "geom:latitude":43.382155,
+    "geom:longitude":-72.639167,
+    "iso:country":"US",
+    "sg:address":"60 Village Green",
+    "sg:city":"Cavendish",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 226 7780",
+    "sg:postcode":"05142",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bkqBnbBLcgbLEh7h6Dity_43.382155_-72.639167@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311296,
+    "wof:geomhash":"266d3bade5325309f9973bd619e86995",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874055533
+        }
+    ],
+    "wof:id":874055533,
+    "wof:lastmodified":1464311296,
+    "wof:name":"Yankee Tile",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.639167,
+    43.382155,
+    -72.639167,
+    43.382155
+],
+  "geometry": {"coordinates":[-72.639167,43.382155],"type":"Point"}
+}

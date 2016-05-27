@@ -1,0 +1,73 @@
+{
+  "id": 874132829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.080174,44.133396,-73.080174,44.133396",
+    "geom:latitude":44.133396,
+    "geom:longitude":-73.080174,
+    "iso:country":"US",
+    "sg:address":"19 West St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 6029",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M1zo5pbOX6HBpbPsSbh7h_44.133396_-73.080174@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312171,
+    "wof:geomhash":"2a70808d885bd2d87c8bd78e9b3e1b60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874132829
+        }
+    ],
+    "wof:id":874132829,
+    "wof:lastmodified":1464312171,
+    "wof:name":"Howden Hall Community Ctr",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -73.080174,
+    44.133396,
+    -73.080174,
+    44.133396
+],
+  "geometry": {"coordinates":[-73.080174,44.133396],"type":"Point"}
+}

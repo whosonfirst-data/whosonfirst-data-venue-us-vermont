@@ -1,0 +1,71 @@
+{
+  "id": 874031189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.513328,44.20108,-72.513328,44.20108",
+    "geom:latitude":44.20108,
+    "geom:longitude":-72.513328,
+    "iso:country":"US",
+    "sg:address":"212 James Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 6466",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NebUV3zgMvXUqdZpFMWtG_44.201080_-72.513328@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311059,
+    "wof:geomhash":"2717e6437058a05e8cba674cfb2b335e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874031189
+        }
+    ],
+    "wof:id":874031189,
+    "wof:lastmodified":1464311059,
+    "wof:name":"Rondas Day Care",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -72.513328,
+    44.20108,
+    -72.513328,
+    44.20108
+],
+  "geometry": {"coordinates":[-72.513328,44.20108],"type":"Point"}
+}

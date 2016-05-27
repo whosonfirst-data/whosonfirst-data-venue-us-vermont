@@ -1,0 +1,72 @@
+{
+  "id": 874250677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.086501,44.507366,-73.086501,44.507366",
+    "geom:latitude":44.507366,
+    "geom:longitude":-73.086501,
+    "iso:country":"US",
+    "sg:address":"71 Upper Main St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/essex/212988-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 5300",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f2vSL1uNbvEpoMHQRxgM1_44.507366_-73.086501@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313580,
+    "wof:geomhash":"a1bada9ca30c29aa19b1af86d8b490b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874250677
+        }
+    ],
+    "wof:id":874250677,
+    "wof:lastmodified":1464313580,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.086501,
+    44.507366,
+    -73.086501,
+    44.507366
+],
+  "geometry": {"coordinates":[-73.086501,44.507366],"type":"Point"}
+}

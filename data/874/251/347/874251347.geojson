@@ -1,0 +1,92 @@
+{
+  "id": 874251347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.181529,42.89345,-73.181529,42.89345",
+    "geom:latitude":42.89345,
+    "geom:longitude":-73.181529,
+    "iso:country":"US",
+    "sg:address":"227 Chapel Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 3882",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "industrial",
+        "builder",
+        "system",
+        "specialty",
+        "heating",
+        "contractor",
+        "contractors-commercial",
+        "home",
+        "air conditioning",
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GduZf4Xd8Hmb46So0rwvo_42.893450_-73.181529@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313592,
+    "wof:geomhash":"f6698b624a2055379a1d4a2840db431f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251347
+        }
+    ],
+    "wof:id":874251347,
+    "wof:lastmodified":1464313592,
+    "wof:name":"Krawczyk's Carpentry",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "builder",
+        "system",
+        "specialty",
+        "heating",
+        "contractor",
+        "contractors-commercial",
+        "home",
+        "air conditioning",
+        "carpenter"
+    ]
+},
+  "bbox": [
+    -73.181529,
+    42.89345,
+    -73.181529,
+    42.89345
+],
+  "geometry": {"coordinates":[-73.181529,42.89345],"type":"Point"}
+}

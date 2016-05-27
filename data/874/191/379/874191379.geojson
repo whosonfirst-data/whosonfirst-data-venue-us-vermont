@@ -1,0 +1,69 @@
+{
+  "id": 874191379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.97865,43.594808,-72.97865,43.594808",
+    "geom:latitude":43.594808,
+    "geom:longitude":-72.97865,
+    "iso:country":"US",
+    "sg:address":"88 Park St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 1360",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QyJ5jAxfG4OD4MKF4ceWO_43.594808_-72.978650@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312753,
+    "wof:geomhash":"27748c9f9b74a7b5bdbd610184e28679",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874191379
+        }
+    ],
+    "wof:id":874191379,
+    "wof:lastmodified":1464312753,
+    "wof:name":"Park Street Healthshare",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.97865,
+    43.594808,
+    -72.97865,
+    43.594808
+],
+  "geometry": {"coordinates":[-72.97865,43.594808],"type":"Point"}
+}

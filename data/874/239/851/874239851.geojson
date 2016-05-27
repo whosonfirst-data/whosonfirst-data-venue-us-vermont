@@ -1,0 +1,70 @@
+{
+  "id": 874239851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.256777,44.165296,-73.256777,44.165296",
+    "geom:latitude":44.165296,
+    "geom:longitude":-73.256777,
+    "iso:country":"US",
+    "sg:address":"11 W Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2975",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.kennedy-brothers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xs7is7pYSBxjY9mMm2DrW_44.165296_-73.256777@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313337,
+    "wof:geomhash":"d05e29325f98acc5c09c5af22f47836b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874239851
+        }
+    ],
+    "wof:id":874239851,
+    "wof:lastmodified":1464313337,
+    "wof:name":"Kennedy Brothers Factory Mktpl",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.256777,
+    44.165296,
+    -73.256777,
+    44.165296
+],
+  "geometry": {"coordinates":[-73.256777,44.165296],"type":"Point"}
+}

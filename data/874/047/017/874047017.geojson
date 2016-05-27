@@ -1,0 +1,71 @@
+{
+  "id": 874047017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.476512,44.250156,-72.476512,44.250156",
+    "geom:latitude":44.250156,
+    "geom:longitude":-72.476512,
+    "iso:country":"US",
+    "sg:address":"1630 Clark Rd",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 9659",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "information"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30HL9riJYqEDVumrV2hirn_44.250156_-72.476512@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311215,
+    "wof:geomhash":"248ea5911e3ba16c9b13993920e8a72f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874047017
+        }
+    ],
+    "wof:id":874047017,
+    "wof:lastmodified":1464311215,
+    "wof:name":"Funeral Consumer Alliance-Vt",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information"
+    ]
+},
+  "bbox": [
+    -72.476512,
+    44.250156,
+    -72.476512,
+    44.250156
+],
+  "geometry": {"coordinates":[-72.476512,44.250156],"type":"Point"}
+}

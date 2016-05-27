@@ -1,0 +1,71 @@
+{
+  "id": 873994363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.004254,44.496631,-72.004254,44.496631",
+    "geom:latitude":44.496631,
+    "geom:longitude":-72.004254,
+    "iso:country":"US",
+    "sg:address":"4772 Memorial Dr",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 5200",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Nh7hLLtWYX77NHOUZpJ3L_44.496631_-72.004254@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310721,
+    "wof:geomhash":"732175a39d3fcd2af8752f9d20d3e085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":873994363
+        }
+    ],
+    "wof:id":873994363,
+    "wof:lastmodified":1464310721,
+    "wof:name":"Carroll's Automotive",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.004254,
+    44.496631,
+    -72.004254,
+    44.496631
+],
+  "geometry": {"coordinates":[-72.004254,44.496631],"type":"Point"}
+}

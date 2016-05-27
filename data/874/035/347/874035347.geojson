@@ -1,0 +1,71 @@
+{
+  "id": 874035347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21199,44.479229,-73.21199,44.479229",
+    "geom:latitude":44.479229,
+    "geom:longitude":-73.21199,
+    "iso:country":"US",
+    "sg:address":"149 Cherry St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 5025",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0txyRKcGl5nhqS54HCu62L_44.479229_-73.211990@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311098,
+    "wof:geomhash":"d9a9a79bba5b8aa9850f3c0380c19b2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874035347
+        }
+    ],
+    "wof:id":874035347,
+    "wof:lastmodified":1464311098,
+    "wof:name":"Moroz Violins",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.21199,
+    44.479229,
+    -73.21199,
+    44.479229
+],
+  "geometry": {"coordinates":[-73.21199,44.479229],"type":"Point"}
+}

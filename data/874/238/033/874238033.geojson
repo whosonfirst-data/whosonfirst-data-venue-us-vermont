@@ -1,0 +1,73 @@
+{
+  "id": 874238033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.270754,44.349745,-72.270754,44.349745",
+    "geom:latitude":44.349745,
+    "geom:longitude":-72.270754,
+    "iso:country":"US",
+    "sg:address":"1048 Lovely Rd",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3817",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849525,
+        102080779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gftwDl0NXyJPYQtIM09ju_44.349745_-72.270754@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313302,
+    "wof:geomhash":"73a002eebd2dc9e2cdf5b9ac4f198250",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "neighbourhood_id":85849525,
+            "region_id":85688763,
+            "venue_id":874238033
+        }
+    ],
+    "wof:id":874238033,
+    "wof:lastmodified":1464313302,
+    "wof:name":"Cookson Trucking & Trash",
+    "wof:parent_id":85849525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.270754,
+    44.349745,
+    -72.270754,
+    44.349745
+],
+  "geometry": {"coordinates":[-72.270754,44.349745],"type":"Point"}
+}

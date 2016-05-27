@@ -1,0 +1,71 @@
+{
+  "id": 874170255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.177964,44.07681,-73.177964,44.07681",
+    "geom:latitude":44.07681,
+    "geom:longitude":-73.177964,
+    "iso:country":"US",
+    "sg:address":"400 Dog Team Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2360",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jMwRmgMN4rsZYcqVDLBqx_44.076810_-73.177964@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312529,
+    "wof:geomhash":"dcb7dd1d3594e1b44d9acaf810f8ffd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874170255
+        }
+    ],
+    "wof:id":874170255,
+    "wof:lastmodified":1464312529,
+    "wof:name":"Woos Consulting",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -73.177964,
+    44.07681,
+    -73.177964,
+    44.07681
+],
+  "geometry": {"coordinates":[-73.177964,44.07681],"type":"Point"}
+}

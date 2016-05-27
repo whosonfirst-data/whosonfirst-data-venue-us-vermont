@@ -1,0 +1,69 @@
+{
+  "id": 874182403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.627574,44.908085,-72.627574,44.908085",
+    "geom:latitude":44.908085,
+    "geom:longitude":-72.627574,
+    "iso:country":"US",
+    "sg:address":"327 N Hill Rd",
+    "sg:city":"Montgomery",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 326 4058",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K5KdImjZ5KAF7bpPVh5RO_44.908085_-72.627574@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312654,
+    "wof:geomhash":"134cefc8e06a3a7694ee0d5f089fa3c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874182403
+        }
+    ],
+    "wof:id":874182403,
+    "wof:lastmodified":1464312654,
+    "wof:name":"Scheffler Stained Glass",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.627574,
+    44.908085,
+    -72.627574,
+    44.908085
+],
+  "geometry": {"coordinates":[-72.627574,44.908085],"type":"Point"}
+}

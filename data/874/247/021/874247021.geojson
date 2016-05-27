@@ -1,0 +1,71 @@
+{
+  "id": 874247021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21195,42.903767,-73.21195,42.903767",
+    "geom:latitude":42.903767,
+    "geom:longitude":-73.21195,
+    "iso:country":"US",
+    "sg:address":"137 Harwood Hill Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 8513",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "furnace",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b0DlpJD6xscAEcelaUyT3_42.903767_-73.211950@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313471,
+    "wof:geomhash":"68f2d6ec43fc61108fd9abb566bdfe00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874247021
+        }
+    ],
+    "wof:id":874247021,
+    "wof:lastmodified":1464313471,
+    "wof:name":"Energy Marketing Corp",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnace",
+        "supply"
+    ]
+},
+  "bbox": [
+    -73.21195,
+    42.903767,
+    -73.21195,
+    42.903767
+],
+  "geometry": {"coordinates":[-73.21195,42.903767],"type":"Point"}
+}

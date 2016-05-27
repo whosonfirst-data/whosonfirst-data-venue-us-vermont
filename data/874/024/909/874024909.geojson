@@ -1,0 +1,71 @@
+{
+  "id": 874024909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.630253,44.559063,-72.630253,44.559063",
+    "geom:latitude":44.559063,
+    "geom:longitude":-72.630253,
+    "iso:country":"US",
+    "sg:address":"342 Walton Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 3006",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rtiQtJWZWiivginMmlRwd_44.559063_-72.630253@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310995,
+    "wof:geomhash":"1d15b77fb632e72268e050bcbc234396",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874024909
+        }
+    ],
+    "wof:id":874024909,
+    "wof:lastmodified":1464310995,
+    "wof:name":"Neighborhood Painters",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.630253,
+    44.559063,
+    -72.630253,
+    44.559063
+],
+  "geometry": {"coordinates":[-72.630253,44.559063],"type":"Point"}
+}

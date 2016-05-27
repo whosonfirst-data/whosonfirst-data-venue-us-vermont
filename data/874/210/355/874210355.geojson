@@ -1,0 +1,69 @@
+{
+  "id": 874210355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.027696,43.174122,-73.027696,43.174122",
+    "geom:latitude":43.174122,
+    "geom:longitude":-73.027696,
+    "iso:country":"US",
+    "sg:address":"1638 Depot St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 0500",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844461,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56rhwPCA6XME5rNx3GVKpI_43.174122_-73.027696@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312953,
+    "wof:geomhash":"397be08a25d0767b9d7c4f41b7c95860",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85844461,
+            "region_id":85688763,
+            "venue_id":874210355
+        }
+    ],
+    "wof:id":874210355,
+    "wof:lastmodified":1464312953,
+    "wof:name":"Atlantic Painting Co",
+    "wof:parent_id":85844461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -73.027696,
+    43.174122,
+    -73.027696,
+    43.174122
+],
+  "geometry": {"coordinates":[-73.02769600000001,43.174122],"type":"Point"}
+}

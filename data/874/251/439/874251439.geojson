@@ -1,0 +1,80 @@
+{
+  "id": 874251439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210856,42.917397,-73.210856,42.917397",
+    "geom:latitude":42.917397,
+    "geom:longitude":-73.210856,
+    "iso:country":"US",
+    "sg:address":"1169 Harwood Hill Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 0804",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumber",
+        "contractor",
+        "specialty",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l7gvC1lz9CmtjKv2HfQtx_42.917397_-73.210856@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313594,
+    "wof:geomhash":"babc7e15d770ed6b7e738f0b1cb69d9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251439
+        }
+    ],
+    "wof:id":874251439,
+    "wof:lastmodified":1464313594,
+    "wof:name":"Roy Plumbing & Heating",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "contractor",
+        "specialty",
+        "heating"
+    ]
+},
+  "bbox": [
+    -73.210856,
+    42.917397,
+    -73.210856,
+    42.917397
+],
+  "geometry": {"coordinates":[-73.21085600000001,42.917397],"type":"Point"}
+}

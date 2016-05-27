@@ -1,0 +1,80 @@
+{
+  "id": 874251029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.112319,44.489295,-73.112319,44.489295",
+    "geom:latitude":44.489295,
+    "geom:longitude":-73.112319,
+    "iso:country":"US",
+    "sg:address":"19 Park St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/essex/83071-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 1111",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WI0FKiS2NZnEzd9lTc5lx_44.489765_-73.111879@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313586,
+    "wof:geomhash":"519f3fe108849b3eb3ca6198e2f1c318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874251029
+        }
+    ],
+    "wof:id":874251029,
+    "wof:lastmodified":1464313586,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85828531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.112319,
+    44.489295,
+    -73.112319,
+    44.489295
+],
+  "geometry": {"coordinates":[-73.112319,44.489295],"type":"Point"}
+}

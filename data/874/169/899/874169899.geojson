@@ -1,0 +1,71 @@
+{
+  "id": 874169899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.68808,44.468346,-72.68808,44.468346",
+    "geom:latitude":44.468346,
+    "geom:longitude":-72.68808,
+    "iso:country":"US",
+    "sg:address":"232 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7378",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16HlOZVofSFImIDNL6IXQa_44.468346_-72.688080@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312526,
+    "wof:geomhash":"1f8fd5e68450f71e1d4b75bddd05a7ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874169899
+        }
+    ],
+    "wof:id":874169899,
+    "wof:lastmodified":1464312526,
+    "wof:name":"Salon Salon",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "clothing"
+    ]
+},
+  "bbox": [
+    -72.68808,
+    44.468346,
+    -72.68808,
+    44.468346
+],
+  "geometry": {"coordinates":[-72.68808,44.468346],"type":"Point"}
+}

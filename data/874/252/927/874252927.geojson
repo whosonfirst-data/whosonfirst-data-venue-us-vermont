@@ -1,0 +1,80 @@
+{
+  "id": 874252927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209157,44.448868,-73.209157,44.448868",
+    "geom:latitude":44.448868,
+    "geom:longitude":-73.209157,
+    "iso:country":"US",
+    "sg:address":"595 Shelburne Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 651 9826",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "money",
+        "order",
+        "transfer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G8VOuUWoUkCUPU8VaqxQw_44.448868_-73.209157@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313623,
+    "wof:geomhash":"ad1ed4ebf4f845c0a4b315e4c78bf399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874252927
+        }
+    ],
+    "wof:id":874252927,
+    "wof:lastmodified":1464313623,
+    "wof:name":"Western Union",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "money",
+        "order",
+        "transfer"
+    ]
+},
+  "bbox": [
+    -73.209157,
+    44.448868,
+    -73.209157,
+    44.448868
+],
+  "geometry": {"coordinates":[-73.209157,44.448868],"type":"Point"}
+}

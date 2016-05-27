@@ -1,0 +1,73 @@
+{
+  "id": 874098737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.476831,44.223882,-72.476831,44.223882",
+    "geom:latitude":44.223882,
+    "geom:longitude":-72.476831,
+    "iso:country":"US",
+    "sg:address":"103 Plainfield Brook Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9703",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BzFEXnq9Elsbbt6nigRom_44.223882_-72.476831@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311767,
+    "wof:geomhash":"10c909a63759e5ec32c26d3a86f59cb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874098737
+        }
+    ],
+    "wof:id":874098737,
+    "wof:lastmodified":1464311767,
+    "wof:name":"Bates & Murray Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.476831,
+    44.223882,
+    -72.476831,
+    44.223882
+],
+  "geometry": {"coordinates":[-72.476831,44.223882],"type":"Point"}
+}

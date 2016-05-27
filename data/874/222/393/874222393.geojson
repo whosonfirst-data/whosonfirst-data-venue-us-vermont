@@ -1,0 +1,73 @@
+{
+  "id": 874222393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.502162,44.198255,-72.502162,44.198255",
+    "geom:latitude":44.198255,
+    "geom:longitude":-72.502162,
+    "iso:country":"US",
+    "sg:address":"25 Keith Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5301",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F6JymJQcPtYjOKbXvUTik_44.198255_-72.502162@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313088,
+    "wof:geomhash":"d09c75ff9c559ce01ef026175be7541f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874222393
+        }
+    ],
+    "wof:id":874222393,
+    "wof:lastmodified":1464313088,
+    "wof:name":"Salvation Army",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -72.502162,
+    44.198255,
+    -72.502162,
+    44.198255
+],
+  "geometry": {"coordinates":[-72.502162,44.198255],"type":"Point"}
+}

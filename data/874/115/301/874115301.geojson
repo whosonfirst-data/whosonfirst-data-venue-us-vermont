@@ -1,0 +1,69 @@
+{
+  "id": 874115301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.59311,43.724144,-72.59311,43.724144",
+    "geom:latitude":43.724144,
+    "geom:longitude":-72.59311,
+    "iso:country":"US",
+    "sg:address":"15 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 8756",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ogbh3wWqxOgvMKKSk9HZ5_43.724144_-72.593110@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311990,
+    "wof:geomhash":"0d5c622a9c271f7390672a8045629716",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874115301
+        }
+    ],
+    "wof:id":874115301,
+    "wof:lastmodified":1464311990,
+    "wof:name":"Jigger Mountain Builders",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.59311,
+    43.724144,
+    -72.59311,
+    43.724144
+],
+  "geometry": {"coordinates":[-72.59311,43.724144],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874239947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.01327,44.419699,-72.01327,44.419699",
+    "geom:latitude":44.419699,
+    "geom:longitude":-72.01327,
+    "iso:country":"US",
+    "sg:address":"118 Portland St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3586",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yqIfFShIYYN62XAtLLbdx_44.419699_-72.013270@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313339,
+    "wof:geomhash":"c3fd936d7464dfe90346e8b10ac1c962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874239947
+        }
+    ],
+    "wof:id":874239947,
+    "wof:lastmodified":1464313339,
+    "wof:name":"Dolgin Realty",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.01327,
+    44.419699,
+    -72.01327,
+    44.419699
+],
+  "geometry": {"coordinates":[-72.01327000000001,44.419699],"type":"Point"}
+}

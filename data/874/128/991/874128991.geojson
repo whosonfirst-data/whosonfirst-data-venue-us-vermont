@@ -1,0 +1,69 @@
+{
+  "id": 874128991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.603755,43.267844,-72.603755,43.267844",
+    "geom:latitude":43.267844,
+    "geom:longitude":-72.603755,
+    "iso:country":"US",
+    "sg:address":"131 Orcutt Dr",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 1700",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51ZuzLV0YGQwbpJw8VdorD_43.267844_-72.603755@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312121,
+    "wof:geomhash":"eff7e1a96f80d4933adfa4a8ede47815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874128991
+        }
+    ],
+    "wof:id":874128991,
+    "wof:lastmodified":1464312121,
+    "wof:name":"Chester Plumbing & Heating",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.603755,
+    43.267844,
+    -72.603755,
+    43.267844
+],
+  "geometry": {"coordinates":[-72.60375500000001,43.267844],"type":"Point"}
+}

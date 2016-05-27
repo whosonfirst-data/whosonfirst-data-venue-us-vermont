@@ -1,0 +1,73 @@
+{
+  "id": 874185863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.556945,44.249807,-72.556945,44.249807",
+    "geom:latitude":44.249807,
+    "geom:longitude":-72.556945,
+    "iso:country":"US",
+    "sg:address":"188 River St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 4976",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i37tz3XU4Ei19pqIVJ9fG_44.249807_-72.556945@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312699,
+    "wof:geomhash":"fba3080f69ef8c37a567cd6810806a03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874185863
+        }
+    ],
+    "wof:id":874185863,
+    "wof:lastmodified":1464312699,
+    "wof:name":"Star Cleaners",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -72.556945,
+    44.249807,
+    -72.556945,
+    44.249807
+],
+  "geometry": {"coordinates":[-72.556945,44.249807],"type":"Point"}
+}

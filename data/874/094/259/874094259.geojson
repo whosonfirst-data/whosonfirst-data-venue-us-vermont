@@ -1,0 +1,73 @@
+{
+  "id": 874094259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.511994,44.162409,-72.511994,44.162409",
+    "geom:latitude":44.162409,
+    "geom:longitude":-72.511994,
+    "iso:country":"US",
+    "sg:address":"679 S Barre Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7571",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75HPl1BlkaUBFXAc6CSrTO_44.162409_-72.511994@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311706,
+    "wof:geomhash":"952f1e3bbc429f499dc5b2889dae14bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874094259
+        }
+    ],
+    "wof:id":874094259,
+    "wof:lastmodified":1464311706,
+    "wof:name":"Pelletier & Son Quick Lube",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -72.511994,
+    44.162409,
+    -72.511994,
+    44.162409
+],
+  "geometry": {"coordinates":[-72.511994,44.162409],"type":"Point"}
+}

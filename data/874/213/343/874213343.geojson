@@ -1,0 +1,71 @@
+{
+  "id": 874213343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.20477,42.871343,-73.20477,42.871343",
+    "geom:latitude":42.871343,
+    "geom:longitude":-73.20477,
+    "iso:country":"US",
+    "sg:address":"328 Dewey St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 2101",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q8hidOnhAJpuwM1gQM2ML_42.871343_-73.204770@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312987,
+    "wof:geomhash":"c031975811d7c1fef3c7324a487e56b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874213343
+        }
+    ],
+    "wof:id":874213343,
+    "wof:lastmodified":1464312987,
+    "wof:name":"Bennington Physical Therapy PC",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.20477,
+    42.871343,
+    -73.20477,
+    42.871343
+],
+  "geometry": {"coordinates":[-73.20477,42.871343],"type":"Point"}
+}

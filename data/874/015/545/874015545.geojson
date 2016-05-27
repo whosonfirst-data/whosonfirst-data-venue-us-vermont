@@ -1,0 +1,71 @@
+{
+  "id": 874015545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078884,44.133175,-73.078884,44.133175",
+    "geom:latitude":44.133175,
+    "geom:longitude":-73.078884,
+    "iso:country":"US",
+    "sg:address":"79 West St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3637",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KOqUnwsGB8XVBf0y0Kn2X_44.133175_-73.078884@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310895,
+    "wof:geomhash":"624e30d339a5119c86b4f9a662a7e830",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874015545
+        }
+    ],
+    "wof:id":874015545,
+    "wof:lastmodified":1464310895,
+    "wof:name":"Peter A Nelson Memorials Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -73.078884,
+    44.133175,
+    -73.078884,
+    44.133175
+],
+  "geometry": {"coordinates":[-73.078884,44.133175],"type":"Point"}
+}

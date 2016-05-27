@@ -1,0 +1,71 @@
+{
+  "id": 874216753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.113208,44.444585,-73.113208,44.444585",
+    "geom:latitude":44.444585,
+    "geom:longitude":-73.113208,
+    "iso:country":"US",
+    "sg:address":"72 Marshall Ave",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 3905",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XLh5XaTOK21Zo1WnrnVNv_44.444585_-73.113208@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313020,
+    "wof:geomhash":"74f8531a960ef0716c0668ad58105fc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874216753
+        }
+    ],
+    "wof:id":874216753,
+    "wof:lastmodified":1464313020,
+    "wof:name":"Berlin City's Car Ctr",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.113208,
+    44.444585,
+    -73.113208,
+    44.444585
+],
+  "geometry": {"coordinates":[-73.113208,44.444585],"type":"Point"}
+}

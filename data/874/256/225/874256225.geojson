@@ -1,0 +1,71 @@
+{
+  "id": 874256225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.182787,43.662304,-73.182787,43.662304",
+    "geom:latitude":43.662304,
+    "geom:longitude":-73.182787,
+    "iso:country":"US",
+    "sg:address":"113 Stables Rd",
+    "sg:city":"Castleton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 273 2543",
+    "sg:postcode":"05735",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m8xtdoTNTmKJBIkpgarcI_43.662304_-73.182787@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313702,
+    "wof:geomhash":"894bfb15ff3e812bc4f2e6d0a34d41eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874256225
+        }
+    ],
+    "wof:id":874256225,
+    "wof:lastmodified":1464313702,
+    "wof:name":"Carrara Engineering",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -73.182787,
+    43.662304,
+    -73.182787,
+    43.662304
+],
+  "geometry": {"coordinates":[-73.182787,43.662304],"type":"Point"}
+}

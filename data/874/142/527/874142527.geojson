@@ -1,0 +1,69 @@
+{
+  "id": 874142527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.106666,44.694255,-73.106666,44.694255",
+    "geom:latitude":44.694255,
+    "geom:longitude":-73.106666,
+    "iso:country":"US",
+    "sg:address":"4497 Highbridge Rd",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 4336",
+    "sg:postcode":"05454",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qvs33h6raJb9CAmphqlxH_44.694255_-73.106666@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312257,
+    "wof:geomhash":"a936b84259c5584bd5a8d56ebacde506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874142527
+        }
+    ],
+    "wof:id":874142527,
+    "wof:lastmodified":1464312257,
+    "wof:name":"Georgia Eye Center",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.106666,
+    44.694255,
+    -73.106666,
+    44.694255
+],
+  "geometry": {"coordinates":[-73.106666,44.694255],"type":"Point"}
+}

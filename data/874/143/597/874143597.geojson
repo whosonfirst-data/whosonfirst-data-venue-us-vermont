@@ -1,0 +1,71 @@
+{
+  "id": 874143597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.790092,44.91736,-72.790092,44.91736",
+    "geom:latitude":44.91736,
+    "geom:longitude":-72.790092,
+    "iso:country":"US",
+    "sg:address":"144 Camp Rd",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8232",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_416n4dBDQPDvjckIvaDZOl_44.917360_-72.790092@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312268,
+    "wof:geomhash":"80df2e083842b1e007323290c7fc62cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874143597
+        }
+    ],
+    "wof:id":874143597,
+    "wof:lastmodified":1464312268,
+    "wof:name":"Madonna Auto Repair",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.790092,
+    44.91736,
+    -72.790092,
+    44.91736
+],
+  "geometry": {"coordinates":[-72.790092,44.91736],"type":"Point"}
+}

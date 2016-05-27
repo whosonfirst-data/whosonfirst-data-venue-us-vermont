@@ -1,0 +1,69 @@
+{
+  "id": 874225105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.658997,43.02923,-72.658997,43.02923",
+    "geom:latitude":43.02923,
+    "geom:longitude":-72.658997,
+    "iso:country":"US",
+    "sg:address":"710 State Rte 30",
+    "sg:city":"Townshend",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 9663",
+    "sg:postcode":"05353",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UhD9jE6bHXlZsxKQPrhYU_43.029230_-72.658997@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313112,
+    "wof:geomhash":"5905a3e7c8053dc79aefdd1e8ba957dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874225105
+        }
+    ],
+    "wof:id":874225105,
+    "wof:lastmodified":1464313112,
+    "wof:name":"Townsend Animal Clinic",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.658997,
+    43.02923,
+    -72.658997,
+    43.02923
+],
+  "geometry": {"coordinates":[-72.658997,43.02923],"type":"Point"}
+}

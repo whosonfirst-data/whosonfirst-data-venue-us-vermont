@@ -1,0 +1,73 @@
+{
+  "id": 874098015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.652687,44.144421,-72.652687,44.144421",
+    "geom:latitude":44.144421,
+    "geom:longitude":-72.652687,
+    "iso:country":"US",
+    "sg:address":"27 Hill St",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 8775",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ELsHRUdq47PfGv360GUiF_44.144421_-72.652687@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311757,
+    "wof:geomhash":"e9f24d343043f70ebae3d4ba39ab49c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874098015
+        }
+    ],
+    "wof:id":874098015,
+    "wof:lastmodified":1464311757,
+    "wof:name":"M & M Painting",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.652687,
+    44.144421,
+    -72.652687,
+    44.144421
+],
+  "geometry": {"coordinates":[-72.652687,44.144421],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874071341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.178145,44.458114,-73.178145,44.458114",
+    "geom:latitude":44.458114,
+    "geom:longitude":-73.178145,
+    "iso:country":"US",
+    "sg:address":"72 San Remo Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 6330",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zp22r2ihhgKdEHs7vP7dP_44.458114_-73.178145@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311450,
+    "wof:geomhash":"20277cc3f1f5dc8ee51aab21f1eebec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874071341
+        }
+    ],
+    "wof:id":874071341,
+    "wof:lastmodified":1464311450,
+    "wof:name":"Pizzagalli Construction Co",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.178145,
+    44.458114,
+    -73.178145,
+    44.458114
+],
+  "geometry": {"coordinates":[-73.178145,44.458114],"type":"Point"}
+}

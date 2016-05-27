@@ -1,0 +1,71 @@
+{
+  "id": 874095447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.967134,43.61224,-72.967134,43.61224",
+    "geom:latitude":43.61224,
+    "geom:longitude":-72.967134,
+    "iso:country":"US",
+    "sg:address":"68 Woodstock Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 9059",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yYj0vUeXTgLrjoiCRpNZn_43.612240_-72.967134@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311718,
+    "wof:geomhash":"e9fef257a2c1c57a7b57f8244d335566",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874095447
+        }
+    ],
+    "wof:id":874095447,
+    "wof:lastmodified":1464311718,
+    "wof:name":"Village Car Wash Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -72.967134,
+    43.61224,
+    -72.967134,
+    43.61224
+],
+  "geometry": {"coordinates":[-72.967134,43.61224],"type":"Point"}
+}

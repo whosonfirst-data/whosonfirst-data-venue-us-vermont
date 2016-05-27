@@ -1,0 +1,70 @@
+{
+  "id": 874047373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.521669,43.336891,-72.521669,43.336891",
+    "geom:latitude":43.336891,
+    "geom:longitude":-72.521669,
+    "iso:country":"US",
+    "sg:address":"54 State Rte 106",
+    "sg:city":"N Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 2261",
+    "sg:postcode":"05150",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.dufresne-henry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cbe6jWS0j9AEzNxrA9KOM_43.336891_-72.521669@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311218,
+    "wof:geomhash":"b75c9273e6cd1a67a1bcd3f023a22cc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874047373
+        }
+    ],
+    "wof:id":874047373,
+    "wof:lastmodified":1464311218,
+    "wof:name":"Dufresne-Henry Inc",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -72.521669,
+    43.336891,
+    -72.521669,
+    43.336891
+],
+  "geometry": {"coordinates":[-72.521669,43.336891],"type":"Point"}
+}

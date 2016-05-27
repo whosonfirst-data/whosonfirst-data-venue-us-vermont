@@ -1,0 +1,71 @@
+{
+  "id": 874254281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.828382,44.625172,-72.828382,44.625172",
+    "geom:latitude":44.625172,
+    "geom:longitude":-72.828382,
+    "iso:country":"US",
+    "sg:address":"16 Iris Ln",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 6700",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UW1efGsL1YYVIeu2w0YHA_44.625172_-72.828382@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313653,
+    "wof:geomhash":"fb4fb6539a8f9f0b4ab4aa2b20f23eb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874254281
+        }
+    ],
+    "wof:id":874254281,
+    "wof:lastmodified":1464313653,
+    "wof:name":"Well the",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -72.828382,
+    44.625172,
+    -72.828382,
+    44.625172
+],
+  "geometry": {"coordinates":[-72.828382,44.625172],"type":"Point"}
+}

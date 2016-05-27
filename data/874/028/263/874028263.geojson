@@ -1,0 +1,71 @@
+{
+  "id": 874028263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.098915,43.800216,-73.098915,43.800216",
+    "geom:latitude":43.800216,
+    "geom:longitude":-73.098915,
+    "iso:country":"US",
+    "sg:address":"73 Champlain St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3600",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fnas4f8L1kfzdD7VH1jVy_43.800216_-73.098915@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311027,
+    "wof:geomhash":"23be92a8cc6e7efb909e4d758513ddc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874028263
+        }
+    ],
+    "wof:id":874028263,
+    "wof:lastmodified":1464311027,
+    "wof:name":"Brandon Town Garage",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -73.098915,
+    43.800216,
+    -73.098915,
+    43.800216
+],
+  "geometry": {"coordinates":[-73.09891500000001,43.800216],"type":"Point"}
+}

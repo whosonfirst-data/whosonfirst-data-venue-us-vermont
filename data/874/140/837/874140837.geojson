@@ -1,0 +1,71 @@
+{
+  "id": 874140837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.496664,44.199188,-72.496664,44.199188",
+    "geom:latitude":44.199188,
+    "geom:longitude":-72.496664,
+    "iso:country":"US",
+    "sg:address":"42 Park St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1394",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15jdIfoioMpVAdhjLJ21sh_44.199188_-72.496664@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312242,
+    "wof:geomhash":"df0aafbe1816d191ef272dcc027bc0c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874140837
+        }
+    ],
+    "wof:id":874140837,
+    "wof:lastmodified":1464312242,
+    "wof:name":"Pro Power Wash",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -72.496664,
+    44.199188,
+    -72.496664,
+    44.199188
+],
+  "geometry": {"coordinates":[-72.496664,44.199188],"type":"Point"}
+}

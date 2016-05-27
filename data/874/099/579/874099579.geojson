@@ -1,0 +1,75 @@
+{
+  "id": 874099579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.952597,44.486973,-72.952597,44.486973",
+    "geom:latitude":44.486973,
+    "geom:longitude":-72.952597,
+    "iso:country":"US",
+    "sg:address":"20 Toner Ln",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 4800",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "machine",
+        "job",
+        "build"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EIgKIhAmV4Suwalt2c1Fw_44.486973_-72.952597@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311783,
+    "wof:geomhash":"dc6581ada0281f217a753f07c1ed85dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874099579
+        }
+    ],
+    "wof:id":874099579,
+    "wof:lastmodified":1464311783,
+    "wof:name":"Darrell's Machine Shop",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "machine",
+        "job",
+        "build"
+    ]
+},
+  "bbox": [
+    -72.952597,
+    44.486973,
+    -72.952597,
+    44.486973
+],
+  "geometry": {"coordinates":[-72.952597,44.486973],"type":"Point"}
+}

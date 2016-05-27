@@ -1,0 +1,69 @@
+{
+  "id": 874084115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.951623,43.612018,-72.951623,43.612018",
+    "geom:latitude":43.612018,
+    "geom:longitude":-72.951623,
+    "iso:country":"US",
+    "sg:address":"12 Rachel Dr",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 7892",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hZGsLlvRMOykS9G7kHoIU_43.612018_-72.951623@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311600,
+    "wof:geomhash":"2c548f8d465fe0d8a89023750befe2e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874084115
+        }
+    ],
+    "wof:id":874084115,
+    "wof:lastmodified":1464311600,
+    "wof:name":"Potter Plumbing & Heating Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.951623,
+    43.612018,
+    -72.951623,
+    43.612018
+],
+  "geometry": {"coordinates":[-72.951623,43.612018],"type":"Point"}
+}

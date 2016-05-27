@@ -1,0 +1,69 @@
+{
+  "id": 874080391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.434618,44.1454,-72.434618,44.1454",
+    "geom:latitude":44.1454,
+    "geom:longitude":-72.434618,
+    "iso:country":"US",
+    "sg:address":"292 State Rte 110",
+    "sg:city":"Orange",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 685 3339",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "arbitration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_127QPTI8UKPiXb2qJtTiZP_44.145400_-72.434618@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311555,
+    "wof:geomhash":"5535b9830e071597fef2d0c81f671e4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874080391
+        }
+    ],
+    "wof:id":874080391,
+    "wof:lastmodified":1464311555,
+    "wof:name":"Mid-Point Mediation",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arbitration"
+    ]
+},
+  "bbox": [
+    -72.434618,
+    44.1454,
+    -72.434618,
+    44.1454
+],
+  "geometry": {"coordinates":[-72.434618,44.1454],"type":"Point"}
+}

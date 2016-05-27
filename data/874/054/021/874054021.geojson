@@ -1,0 +1,73 @@
+{
+  "id": 874054021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.253365,44.169601,-73.253365,44.169601",
+    "geom:latitude":44.169601,
+    "geom:longitude":-73.253365,
+    "iso:country":"US",
+    "sg:address":"1 Alden Pl",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 0033",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "manager",
+        "recruiter",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gcD0ylWrSQI1pSjy0G2Uy_44.169601_-73.253365@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311278,
+    "wof:geomhash":"cf929b4aaf28200467b836b4a2d90dbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874054021
+        }
+    ],
+    "wof:id":874054021,
+    "wof:lastmodified":1464311278,
+    "wof:name":"Yankee Sportsman Classic",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manager",
+        "recruiter",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -73.253365,
+    44.169601,
+    -73.253365,
+    44.169601
+],
+  "geometry": {"coordinates":[-73.253365,44.169601],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874193461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212351,44.454169,-73.212351,44.454169",
+    "geom:latitude":44.454169,
+    "geom:longitude":-73.212351,
+    "iso:country":"US",
+    "sg:address":"141 Ferguson Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 651 9654",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xms1TXBBvjHVqSxBwMKYK_44.454169_-73.212351@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312774,
+    "wof:geomhash":"1c82bc1ec408a99d6d7a1b7a07740fe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874193461
+        }
+    ],
+    "wof:id":874193461,
+    "wof:lastmodified":1464312774,
+    "wof:name":"Gelkins Same Day Couriers",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -73.212351,
+    44.454169,
+    -73.212351,
+    44.454169
+],
+  "geometry": {"coordinates":[-73.212351,44.454169],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874131479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.164817,44.014782,-73.164817,44.014782",
+    "geom:latitude":44.014782,
+    "geom:longitude":-73.164817,
+    "iso:country":"US",
+    "sg:address":"11 Washington St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 0859",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sy7YSttNcKe7Fg2qYxXbs_44.014782_-73.164817@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312155,
+    "wof:geomhash":"c60b158502aeee4bee8708ad379ff8a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874131479
+        }
+    ],
+    "wof:id":874131479,
+    "wof:lastmodified":1464312155,
+    "wof:name":"Middlebury Bagel",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -73.164817,
+    44.014782,
+    -73.164817,
+    44.014782
+],
+  "geometry": {"coordinates":[-73.164817,44.014782],"type":"Point"}
+}

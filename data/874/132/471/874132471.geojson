@@ -1,0 +1,70 @@
+{
+  "id": 874132471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.22657,44.377578,-73.22657,44.377578",
+    "geom:latitude":44.377578,
+    "geom:longitude":-73.22657,
+    "iso:country":"US",
+    "sg:address":"29 Falls Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 3657",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.shelburnecountrystore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RsRwzaxEl97x3S6opXeL2_44.377578_-73.226570@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312168,
+    "wof:geomhash":"ddef70b805f82d9eb9286b9a9c4cefe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874132471
+        }
+    ],
+    "wof:id":874132471,
+    "wof:lastmodified":1464312168,
+    "wof:name":"Shelburne Country Store",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.22657,
+    44.377578,
+    -73.22657,
+    44.377578
+],
+  "geometry": {"coordinates":[-73.22657,44.377578],"type":"Point"}
+}

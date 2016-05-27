@@ -1,0 +1,71 @@
+{
+  "id": 874047067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.406635,43.600497,-72.406635,43.600497",
+    "geom:latitude":43.600497,
+    "geom:longitude":-72.406635,
+    "iso:country":"US",
+    "sg:address":"507 Quechee Rd",
+    "sg:city":"Hartland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 291 9904",
+    "sg:postcode":"05048",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PnuHEiZpOY9xfGbG6NFT0_43.600497_-72.406635@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311215,
+    "wof:geomhash":"13b8e78ee54c15dadf4c1a0f237f4131",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874047067
+        }
+    ],
+    "wof:id":874047067,
+    "wof:lastmodified":1464311215,
+    "wof:name":"B & B Repair Service",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.406635,
+    43.600497,
+    -72.406635,
+    43.600497
+],
+  "geometry": {"coordinates":[-72.40663499999999,43.600497],"type":"Point"}
+}

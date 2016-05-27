@@ -1,0 +1,73 @@
+{
+  "id": 874177905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.569385,44.252022,-72.569385,44.252022",
+    "geom:latitude":44.252022,
+    "geom:longitude":-72.569385,
+    "iso:country":"US",
+    "sg:address":"121 Granite Shed Ln",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 0161",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C7LH2XrjK1DQdIxCwbI8r_44.252022_-72.569385@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312605,
+    "wof:geomhash":"2bd2da34dfbbcad39cde0f382c4ba39e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874177905
+        }
+    ],
+    "wof:id":874177905,
+    "wof:lastmodified":1464312605,
+    "wof:name":"Geo's Auto Svc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.569385,
+    44.252022,
+    -72.569385,
+    44.252022
+],
+  "geometry": {"coordinates":[-72.569385,44.252022],"type":"Point"}
+}

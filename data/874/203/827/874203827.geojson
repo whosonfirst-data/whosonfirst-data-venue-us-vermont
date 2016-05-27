@@ -1,0 +1,73 @@
+{
+  "id": 874203827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.076575,44.105294,-73.076575,44.105294",
+    "geom:latitude":44.105294,
+    "geom:longitude":-73.076575,
+    "iso:country":"US",
+    "sg:address":"49 Bristol Cliffs Dr",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3567",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s5BMPKmGjbBvzyf4njRhX_44.105294_-73.076575@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312882,
+    "wof:geomhash":"27f2a5e57ae11e8f5351b062a9134db8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874203827
+        }
+    ],
+    "wof:id":874203827,
+    "wof:lastmodified":1464312882,
+    "wof:name":"Cliffs Bristol Farm",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.076575,
+    44.105294,
+    -73.076575,
+    44.105294
+],
+  "geometry": {"coordinates":[-73.07657500000001,44.105294],"type":"Point"}
+}

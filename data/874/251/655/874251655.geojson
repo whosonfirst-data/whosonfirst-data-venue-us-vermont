@@ -1,0 +1,74 @@
+{
+  "id": 874251655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169681,42.881865,-73.169681,42.881865",
+    "geom:latitude":42.881865,
+    "geom:longitude":-73.169681,
+    "iso:country":"US",
+    "sg:address":"1036 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 5333",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ],
+    "sg:website":"http://www.kellyfuels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07fxdChfKrOZlZvZZ6Y2bw_42.881865_-73.169681@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313598,
+    "wof:geomhash":"919858e871dc0b110d42d79c66df0514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251655
+        }
+    ],
+    "wof:id":874251655,
+    "wof:lastmodified":1464313598,
+    "wof:name":"Kelly Fuels",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -73.169681,
+    42.881865,
+    -73.169681,
+    42.881865
+],
+  "geometry": {"coordinates":[-73.169681,42.881865],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874117321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.973432,43.58776,-72.973432,43.58776",
+    "geom:latitude":43.58776,
+    "geom:longitude":-72.973432,
+    "iso:country":"US",
+    "sg:address":"252 Randbury Rd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 2788",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45lMDpMZY3MdPwIU9DUjoo_43.587760_-72.973432@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312009,
+    "wof:geomhash":"f1228434585c19fbdf10a397a7f84e25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874117321
+        }
+    ],
+    "wof:id":874117321,
+    "wof:lastmodified":1464312009,
+    "wof:name":"Maynard Auto Supply Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.973432,
+    43.58776,
+    -72.973432,
+    43.58776
+],
+  "geometry": {"coordinates":[-72.973432,43.58776],"type":"Point"}
+}

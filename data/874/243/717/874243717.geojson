@@ -1,0 +1,71 @@
+{
+  "id": 874243717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.051578,44.50379,-73.051578,44.50379",
+    "geom:latitude":44.50379,
+    "geom:longitude":-73.051578,
+    "iso:country":"US",
+    "sg:address":"182 Sandhill Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 5676",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qW3G7nsBuykE3xF88Ac4t_44.503790_-73.051578@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313407,
+    "wof:geomhash":"29a024b37c2e85af484751ba09bfd7c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874243717
+        }
+    ],
+    "wof:id":874243717,
+    "wof:lastmodified":1464313407,
+    "wof:name":"Ron Weston Excavating",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.051578,
+    44.50379,
+    -73.051578,
+    44.50379
+],
+  "geometry": {"coordinates":[-73.05157800000001,44.50379],"type":"Point"}
+}

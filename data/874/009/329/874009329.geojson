@@ -1,0 +1,71 @@
+{
+  "id": 874009329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.187485,42.917574,-73.187485,42.917574",
+    "geom:latitude":42.917574,
+    "geom:longitude":-73.187485,
+    "iso:country":"US",
+    "sg:address":"906 Houghton Ln",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 3402",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LKxsxodqHJZUHEIw5bnaw_42.917574_-73.187485@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310850,
+    "wof:geomhash":"c6949afa69e43ed20e6a974415f0a7a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874009329
+        }
+    ],
+    "wof:id":874009329,
+    "wof:lastmodified":1464310850,
+    "wof:name":"Bennington Transfer Station",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.187485,
+    42.917574,
+    -73.187485,
+    42.917574
+],
+  "geometry": {"coordinates":[-73.187485,42.917574],"type":"Point"}
+}

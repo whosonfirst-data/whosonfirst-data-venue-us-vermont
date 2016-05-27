@@ -1,0 +1,79 @@
+{
+  "id": 874145359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.444808,44.103511,-72.444808,44.103511",
+    "geom:latitude":44.103511,
+    "geom:longitude":-72.444808,
+    "iso:country":"US",
+    "sg:address":"251 Mac Donald Rd",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 883 5564",
+    "sg:postcode":"05675",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engine",
+        "repair",
+        "supp",
+        "auto",
+        "general",
+        "re"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71R35b7lZICNSrVS78Z1WA_44.103511_-72.444808@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312283,
+    "wof:geomhash":"58924e452eec8353d27370acde0cae03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874145359
+        }
+    ],
+    "wof:id":874145359,
+    "wof:lastmodified":1464312283,
+    "wof:name":"Ed's Repair Shop",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "repair",
+        "supp",
+        "auto",
+        "general",
+        "re"
+    ]
+},
+  "bbox": [
+    -72.444808,
+    44.103511,
+    -72.444808,
+    44.103511
+],
+  "geometry": {"coordinates":[-72.44480799999999,44.103511],"type":"Point"}
+}

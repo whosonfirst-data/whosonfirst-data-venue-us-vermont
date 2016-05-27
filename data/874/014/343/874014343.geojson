@@ -1,0 +1,71 @@
+{
+  "id": 874014343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215154,44.41075,-73.215154,44.41075",
+    "geom:latitude":44.41075,
+    "geom:longitude":-73.215154,
+    "iso:country":"US",
+    "sg:address":"3093 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 4911",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13v77ScFSubCHMDtVBrxmk_44.410750_-73.215154@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310885,
+    "wof:geomhash":"92dca32eee401c91b1bb3a8f8b9968ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874014343
+        }
+    ],
+    "wof:id":874014343,
+    "wof:lastmodified":1464310885,
+    "wof:name":"Burlington Center-Antiques",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -73.215154,
+    44.41075,
+    -73.215154,
+    44.41075
+],
+  "geometry": {"coordinates":[-73.215154,44.41075],"type":"Point"}
+}

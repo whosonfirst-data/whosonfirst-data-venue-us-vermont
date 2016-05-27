@@ -1,0 +1,71 @@
+{
+  "id": 874057289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.220856,44.448128,-72.220856,44.448128",
+    "geom:latitude":44.448128,
+    "geom:longitude":-72.220856,
+    "iso:country":"US",
+    "sg:address":"270 Maple Ln",
+    "sg:city":"West Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 563 3381",
+    "sg:postcode":"05873",
+    "sg:province":"VT",
+    "sg:tags":[
+        "training",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wLu9HgpdWElPKxMI6tIbU_44.448128_-72.220856@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311311,
+    "wof:geomhash":"4244b682cb4916d2cad031da3f400825",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874057289
+        }
+    ],
+    "wof:id":874057289,
+    "wof:lastmodified":1464311311,
+    "wof:name":"Animal Visions Inc",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "dog"
+    ]
+},
+  "bbox": [
+    -72.220856,
+    44.448128,
+    -72.220856,
+    44.448128
+],
+  "geometry": {"coordinates":[-72.220856,44.448128],"type":"Point"}
+}

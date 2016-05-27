@@ -1,0 +1,64 @@
+{
+  "id": 874256079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.993525,43.608913,-72.993525,43.608913",
+    "geom:latitude":43.608913,
+    "geom:longitude":-72.993525,
+    "iso:country":"US",
+    "sg:address":"35 Evergreen Ave.",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 342 6296",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XFMSj3YpcbRQubcxTEOA8_43.608913_-72.993525@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313698,
+    "wof:geomhash":"cb27ee5a81ff98104ef4586a400c729e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874256079
+        }
+    ],
+    "wof:id":874256079,
+    "wof:lastmodified":1464313698,
+    "wof:name":"roy's taxi",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.993525,
+    43.608913,
+    -72.993525,
+    43.608913
+],
+  "geometry": {"coordinates":[-72.99352500000001,43.608913],"type":"Point"}
+}

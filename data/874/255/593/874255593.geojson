@@ -1,0 +1,87 @@
+{
+  "id": 874255593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.973862,43.617109,-72.973862,43.617109",
+    "geom:latitude":43.617109,
+    "geom:longitude":-72.973862,
+    "iso:country":"US",
+    "sg:address":"124 N Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3110",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://www.nationwide.com/agent/Rutland-VERMONT-insurance-agent/william-perkins/office.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KD4kygatdwpUESCZqMmpe_43.617109_-72.973862@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313688,
+    "wof:geomhash":"a8e90d9842393881523e0b0cedfa5b92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255593
+        }
+    ],
+    "wof:id":874255593,
+    "wof:lastmodified":1464313688,
+    "wof:name":"Perkins Insurance Agy Inc - Nationwide Insurance",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -72.973862,
+    43.617109,
+    -72.973862,
+    43.617109
+],
+  "geometry": {"coordinates":[-72.973862,43.617109],"type":"Point"}
+}

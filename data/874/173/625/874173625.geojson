@@ -1,0 +1,78 @@
+{
+  "id": 874173625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.096072,44.38385,-72.096072,44.38385",
+    "geom:latitude":44.38385,
+    "geom:longitude":-72.096072,
+    "iso:country":"US",
+    "sg:address":"1906 Joes Brook Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 2251",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "breeder",
+        "horse",
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QHa4gXU2V2KvGsTBOO3FZ_44.383850_-72.096072@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312564,
+    "wof:geomhash":"7b592e339193bf303dad99dc8021707d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874173625
+        }
+    ],
+    "wof:id":874173625,
+    "wof:lastmodified":1464312564,
+    "wof:name":"Danville Morgan Horse Farm",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "horse",
+        "equine"
+    ]
+},
+  "bbox": [
+    -72.096072,
+    44.38385,
+    -72.096072,
+    44.38385
+],
+  "geometry": {"coordinates":[-72.09607200000001,44.38385],"type":"Point"}
+}

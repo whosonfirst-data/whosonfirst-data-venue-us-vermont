@@ -1,0 +1,73 @@
+{
+  "id": 874158709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.285902,44.329735,-72.285902,44.329735",
+    "geom:latitude":44.329735,
+    "geom:longitude":-72.285902,
+    "iso:country":"US",
+    "sg:address":"21 William Lyford Rd",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3623",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "sales",
+        "typewriter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85829723,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dfTSzfBaN0Dyqm5BFfDp6_44.329735_-72.285902@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312419,
+    "wof:geomhash":"ac66801bf2fd76f6bbdcf1d6b31e4f03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85829723,
+            "region_id":85688763,
+            "venue_id":874158709
+        }
+    ],
+    "wof:id":874158709,
+    "wof:lastmodified":1464312419,
+    "wof:name":"Green Mountain Tech Type",
+    "wof:parent_id":85829723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "sales",
+        "typewriter"
+    ]
+},
+  "bbox": [
+    -72.285902,
+    44.329735,
+    -72.285902,
+    44.329735
+],
+  "geometry": {"coordinates":[-72.28590199999999,44.329735],"type":"Point"}
+}

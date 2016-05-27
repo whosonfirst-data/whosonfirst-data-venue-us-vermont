@@ -1,0 +1,69 @@
+{
+  "id": 874239437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.166048,44.604857,-73.166048,44.604857",
+    "geom:latitude":44.604857,
+    "geom:longitude":-73.166048,
+    "iso:country":"US",
+    "sg:address":"91 Catamount Dr",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 5100",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AdDxdvcF017y8bs0FZJz9_44.604857_-73.166048@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313329,
+    "wof:geomhash":"c0dbb949f0afc3ad97f12754759e9920",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":874239437
+        }
+    ],
+    "wof:id":874239437,
+    "wof:lastmodified":1464313329,
+    "wof:name":"Dowlings Inc",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.166048,
+    44.604857,
+    -73.166048,
+    44.604857
+],
+  "geometry": {"coordinates":[-73.166048,44.604857],"type":"Point"}
+}

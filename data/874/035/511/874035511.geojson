@@ -1,0 +1,71 @@
+{
+  "id": 874035511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.495064,43.380386,-72.495064,43.380386",
+    "geom:latitude":43.380386,
+    "geom:longitude":-72.495064,
+    "iso:country":"US",
+    "sg:address":"131 Bishop Camp Rd",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 5555",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "camp",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sl0HoTrfYIQ0P12OQhKpN_43.380386_-72.495064@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311099,
+    "wof:geomhash":"167287b1f8588cea2b1d195669ae8a0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874035511
+        }
+    ],
+    "wof:id":874035511,
+    "wof:lastmodified":1464311099,
+    "wof:name":"Crown Point Camping Area",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -72.495064,
+    43.380386,
+    -72.495064,
+    43.380386
+],
+  "geometry": {"coordinates":[-72.495064,43.380386],"type":"Point"}
+}

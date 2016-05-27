@@ -1,0 +1,71 @@
+{
+  "id": 874180747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.177022,44.49291,-73.177022,44.49291",
+    "geom:latitude":44.49291,
+    "geom:longitude":-73.177022,
+    "iso:country":"US",
+    "sg:address":"280 E Allen St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 4336",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FwISayCCve6O684nXElA9_44.492910_-73.177022@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312637,
+    "wof:geomhash":"a40b80b8444df67d3e8043256d7dd549",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874180747
+        }
+    ],
+    "wof:id":874180747,
+    "wof:lastmodified":1464312637,
+    "wof:name":"Champlain Farms",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -73.177022,
+    44.49291,
+    -73.177022,
+    44.49291
+],
+  "geometry": {"coordinates":[-73.17702199999999,44.49291],"type":"Point"}
+}

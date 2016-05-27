@@ -1,0 +1,71 @@
+{
+  "id": 874000309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.255698,44.550984,-73.255698,44.550984",
+    "geom:latitude":44.550984,
+    "geom:longitude":-73.255698,
+    "iso:country":"US",
+    "sg:address":"46 Thayer Bay Cir",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 1079",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "investigation",
+        "background"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SkxzfNAwLv4FoOe6QnGh0_44.550984_-73.255698@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310763,
+    "wof:geomhash":"f4c1b72202512598c4ded22ed4abcd06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874000309
+        }
+    ],
+    "wof:id":874000309,
+    "wof:lastmodified":1464310763,
+    "wof:name":"Norman Henry",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigation",
+        "background"
+    ]
+},
+  "bbox": [
+    -73.255698,
+    44.550984,
+    -73.255698,
+    44.550984
+],
+  "geometry": {"coordinates":[-73.255698,44.550984],"type":"Point"}
+}

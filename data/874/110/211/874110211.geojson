@@ -1,0 +1,74 @@
+{
+  "id": 874110211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212721,44.479293,-73.212721,44.479293",
+    "geom:latitude":44.479293,
+    "geom:longitude":-73.212721,
+    "iso:country":"US",
+    "sg:address":"2 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 1010",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.pointfm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CiJqErwLDj9f7Pi2ajGhA_44.479293_-73.212721@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311924,
+    "wof:geomhash":"7344ea8045ff42304ada6e3e6377bf96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874110211
+        }
+    ],
+    "wof:id":874110211,
+    "wof:lastmodified":1464311924,
+    "wof:name":"WNCS",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -73.212721,
+    44.479293,
+    -73.212721,
+    44.479293
+],
+  "geometry": {"coordinates":[-73.212721,44.479293],"type":"Point"}
+}

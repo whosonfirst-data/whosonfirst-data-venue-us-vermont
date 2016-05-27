@@ -1,0 +1,75 @@
+{
+  "id": 874022325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.198675,42.884335,-73.198675,42.884335",
+    "geom:latitude":42.884335,
+    "geom:longitude":-73.198675,
+    "iso:country":"US",
+    "sg:address":"204 Depot St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 6156",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "youth",
+        "juvenile",
+        "for",
+        "offender"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gk7Snb58pJRtG9ArWNQvq_42.884335_-73.198675@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310968,
+    "wof:geomhash":"65e9e83b7be94811dbccca507bd1cc3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874022325
+        }
+    ],
+    "wof:id":874022325,
+    "wof:lastmodified":1464310968,
+    "wof:name":"204 Depot",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "juvenile",
+        "for",
+        "offender"
+    ]
+},
+  "bbox": [
+    -73.198675,
+    42.884335,
+    -73.198675,
+    42.884335
+],
+  "geometry": {"coordinates":[-73.19867499999999,42.884335],"type":"Point"}
+}

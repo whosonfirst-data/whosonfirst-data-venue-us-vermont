@@ -1,0 +1,71 @@
+{
+  "id": 874192217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.07725,44.510424,-73.07725,44.510424",
+    "geom:latitude":44.510424,
+    "geom:longitude":-73.07725,
+    "iso:country":"US",
+    "sg:address":"36 Center Rd",
+    "sg:city":"Swanton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 868 7369",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "broker",
+        "customs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a6qEsxbz76Ib5mbc2p89a_44.510424_-73.077250@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312760,
+    "wof:geomhash":"e5a0fa73e2d3775deddd8200bb5af3fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874192217
+        }
+    ],
+    "wof:id":874192217,
+    "wof:lastmodified":1464312760,
+    "wof:name":"PBB USA Inc",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "customs"
+    ]
+},
+  "bbox": [
+    -73.07725,
+    44.510424,
+    -73.07725,
+    44.510424
+],
+  "geometry": {"coordinates":[-73.07725000000001,44.510424],"type":"Point"}
+}

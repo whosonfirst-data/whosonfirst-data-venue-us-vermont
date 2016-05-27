@@ -1,0 +1,73 @@
+{
+  "id": 873994025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.001544,44.41158,-72.001544,44.41158",
+    "geom:latitude":44.41158,
+    "geom:longitude":-72.001544,
+    "iso:country":"US",
+    "sg:address":"463 Parker Ave",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3659",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ESIohHQ14WgzwUsSEtcNb_44.411580_-72.001544@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310719,
+    "wof:geomhash":"17e95b23c01daa4dda5317227ce22a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":873994025
+        }
+    ],
+    "wof:id":873994025,
+    "wof:lastmodified":1464310719,
+    "wof:name":"Bill Thurston Excavating",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.001544,
+    44.41158,
+    -72.001544,
+    44.41158
+],
+  "geometry": {"coordinates":[-72.001544,44.41158],"type":"Point"}
+}

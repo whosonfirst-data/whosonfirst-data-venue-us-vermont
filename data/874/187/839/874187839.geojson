@@ -1,0 +1,71 @@
+{
+  "id": 874187839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.168837,44.016366,-73.168837,44.016366",
+    "geom:latitude":44.016366,
+    "geom:longitude":-73.168837,
+    "iso:country":"US",
+    "sg:address":"30 Seymour St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 6636",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nWDYAUHLGt1ZwAxnTABea_44.016366_-73.168837@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312717,
+    "wof:geomhash":"f4b194f578c2807845ec5dcbaed48638",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874187839
+        }
+    ],
+    "wof:id":874187839,
+    "wof:lastmodified":1464312717,
+    "wof:name":"Pauline's Hair Fashions",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.168837,
+    44.016366,
+    -73.168837,
+    44.016366
+],
+  "geometry": {"coordinates":[-73.168837,44.016366],"type":"Point"}
+}

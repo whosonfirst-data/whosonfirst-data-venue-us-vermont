@@ -1,0 +1,69 @@
+{
+  "id": 874014595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200159,42.915569,-73.200159,42.915569",
+    "geom:latitude":42.915569,
+    "geom:longitude":-73.200159,
+    "iso:country":"US",
+    "sg:address":"66 Michaels Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 1442",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XCGtxQ41bEAeGJm0g4HAN_42.915569_-73.200159@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310888,
+    "wof:geomhash":"a56e71c7d5bc756f47b88a28789356ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874014595
+        }
+    ],
+    "wof:id":874014595,
+    "wof:lastmodified":1464310888,
+    "wof:name":"Bates Builders",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.200159,
+    42.915569,
+    -73.200159,
+    42.915569
+],
+  "geometry": {"coordinates":[-73.200159,42.915569],"type":"Point"}
+}

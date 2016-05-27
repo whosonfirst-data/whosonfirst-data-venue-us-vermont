@@ -1,0 +1,72 @@
+{
+  "id": 874251091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.960113,43.616672,-72.960113,43.616672",
+    "geom:latitude":43.616672,
+    "geom:longitude":-72.960113,
+    "iso:country":"US",
+    "sg:address":"157 Woodstock Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/rutland/73540-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 6008",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FUMAfo4GNVsbX02A3T4xx_43.616171_-72.960428@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313587,
+    "wof:geomhash":"bd76c8f917c2052e8594873a8c31df75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874251091
+        }
+    ],
+    "wof:id":874251091,
+    "wof:lastmodified":1464313587,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.960113,
+    43.616672,
+    -72.960113,
+    43.616672
+],
+  "geometry": {"coordinates":[-72.96011300000001,43.616672],"type":"Point"}
+}

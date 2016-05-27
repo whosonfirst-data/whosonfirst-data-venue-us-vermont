@@ -1,0 +1,69 @@
+{
+  "id": 874204069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971503,43.60412,-72.971503,43.60412",
+    "geom:latitude":43.60412,
+    "geom:longitude":-72.971503,
+    "iso:country":"US",
+    "sg:address":"321 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3434",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00faTjIlnq5wd72aB7Qdzb_43.604120_-72.971503@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312884,
+    "wof:geomhash":"dc359574fcfdf065867ae3e065a732fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874204069
+        }
+    ],
+    "wof:id":874204069,
+    "wof:lastmodified":1464312884,
+    "wof:name":"Little Caesars",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.971503,
+    43.60412,
+    -72.971503,
+    43.60412
+],
+  "geometry": {"coordinates":[-72.971503,43.60412],"type":"Point"}
+}

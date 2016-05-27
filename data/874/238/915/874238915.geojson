@@ -1,0 +1,73 @@
+{
+  "id": 874238915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.941866,43.56524,-72.941866,43.56524",
+    "geom:latitude":43.56524,
+    "geom:longitude":-72.941866,
+    "iso:country":"US",
+    "sg:address":"125 Collins Ln",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0000",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n2KBHBEXz8mxqAdRhIFkm_43.565240_-72.941866@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313319,
+    "wof:geomhash":"2efffa6298f42ff9b1a3a4c609d3b413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874238915
+        }
+    ],
+    "wof:id":874238915,
+    "wof:lastmodified":1464313319,
+    "wof:name":"Cristelli's Auto Body",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.941866,
+    43.56524,
+    -72.941866,
+    43.56524
+],
+  "geometry": {"coordinates":[-72.941866,43.56524],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874176683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.583059,44.587789,-72.583059,44.587789",
+    "geom:latitude":44.587789,
+    "geom:longitude":-72.583059,
+    "iso:country":"US",
+    "sg:address":"213 Clark Dr",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 1700",
+    "sg:postcode":"05655",
+    "sg:province":"VT",
+    "sg:tags":[
+        "intermediate",
+        "retirement",
+        "community",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rOf5TGeYVdW8BPZFeCSdi_44.587789_-72.583059@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312594,
+    "wof:geomhash":"3fb0f92cde7d9cdb70d5da307c60a342",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874176683
+        }
+    ],
+    "wof:id":874176683,
+    "wof:lastmodified":1464312594,
+    "wof:name":"Clark's Residential Care Home",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "intermediate",
+        "retirement",
+        "community",
+        "home"
+    ]
+},
+  "bbox": [
+    -72.583059,
+    44.587789,
+    -72.583059,
+    44.587789
+],
+  "geometry": {"coordinates":[-72.58305900000001,44.587789],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874172613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.311184,44.402274,-72.311184,44.402274",
+    "geom:latitude":44.402274,
+    "geom:longitude":-72.311184,
+    "iso:country":"US",
+    "sg:address":"3084 Main St",
+    "sg:city":"Cabot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 563 2279",
+    "sg:postcode":"05647",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oWytFvnxrq73MjGzligAT_44.402274_-72.311184@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312555,
+    "wof:geomhash":"5c610f62c4d8fe60d2a35d6c82033300",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874172613
+        }
+    ],
+    "wof:id":874172613,
+    "wof:lastmodified":1464312555,
+    "wof:name":"Cabot Town Clerk",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -72.311184,
+    44.402274,
+    -72.311184,
+    44.402274
+],
+  "geometry": {"coordinates":[-72.311184,44.402274],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 874252081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.537079,42.916271,-72.537079,42.916271",
+    "geom:latitude":42.916271,
+    "geom:longitude":-72.537079,
+    "iso:country":"US",
+    "sg:address":"830 US Route 5",
+    "sg:city":"Dummerston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        },
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 0543",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "moving-self",
+        "trucking-motor",
+        "material",
+        "trucking",
+        "truck",
+        "services-labor",
+        "moving",
+        "mover",
+        "local"
+    ],
+    "sg:website":"http://brattleboro.upack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wc2dA6Xx6oMZmy6HwsZhj_42.916271_-72.537079@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313607,
+    "wof:geomhash":"c4172c2890791722edb9adba5771dc31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874252081
+        }
+    ],
+    "wof:id":874252081,
+    "wof:lastmodified":1464313607,
+    "wof:name":"Abf",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "moving-self",
+        "trucking-motor",
+        "material",
+        "trucking",
+        "truck",
+        "services-labor",
+        "moving",
+        "mover",
+        "local"
+    ]
+},
+  "bbox": [
+    -72.537079,
+    42.916271,
+    -72.537079,
+    42.916271
+],
+  "geometry": {"coordinates":[-72.53707900000001,42.916271],"type":"Point"}
+}

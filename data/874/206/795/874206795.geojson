@@ -1,0 +1,73 @@
+{
+  "id": 874206795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.066116,43.785727,-73.066116,43.785727",
+    "geom:latitude":43.785727,
+    "geom:longitude":-73.066116,
+    "iso:country":"US",
+    "sg:address":"1410 Franklin St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 5417",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zzWlERLRNDDFd10l6dt0i_43.785727_-73.066116@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312912,
+    "wof:geomhash":"d764ab1fb0ae2d0f2ec8f727bfdfc9ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874206795
+        }
+    ],
+    "wof:id":874206795,
+    "wof:lastmodified":1464312912,
+    "wof:name":"Cole's Electronic & Satellite",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -73.066116,
+    43.785727,
+    -73.066116,
+    43.785727
+],
+  "geometry": {"coordinates":[-73.06611599999999,43.785727],"type":"Point"}
+}

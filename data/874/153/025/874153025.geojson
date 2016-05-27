@@ -1,0 +1,75 @@
+{
+  "id": 874153025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.63276,44.654082,-72.63276,44.654082",
+    "geom:latitude":44.654082,
+    "geom:longitude":-72.63276,
+    "iso:country":"US",
+    "sg:address":"163 Mine Rd",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 7313",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2845zbhAhrkGOkkrx65VKJ_44.654082_-72.632760@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312356,
+    "wof:geomhash":"509a32d6ea9e45d9e531930ac000f5bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874153025
+        }
+    ],
+    "wof:id":874153025,
+    "wof:lastmodified":1464312356,
+    "wof:name":"Entertainer",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -72.63276,
+    44.654082,
+    -72.63276,
+    44.654082
+],
+  "geometry": {"coordinates":[-72.63276,44.654082],"type":"Point"}
+}

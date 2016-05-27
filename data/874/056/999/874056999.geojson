@@ -1,0 +1,73 @@
+{
+  "id": 874056999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.520162,43.399019,-72.520162,43.399019",
+    "geom:latitude":43.399019,
+    "geom:longitude":-72.520162,
+    "iso:country":"US",
+    "sg:address":"16 Grout Rd",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 5698",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50c5PQWD8l9v9OYJ4PiYmz_43.399019_-72.520162@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311309,
+    "wof:geomhash":"112d5e78afc99a1d827fa3707dc6794c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874056999
+        }
+    ],
+    "wof:id":874056999,
+    "wof:lastmodified":1464311309,
+    "wof:name":"Thunder Road Transportation",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.520162,
+    43.399019,
+    -72.520162,
+    43.399019
+],
+  "geometry": {"coordinates":[-72.520162,43.399019],"type":"Point"}
+}

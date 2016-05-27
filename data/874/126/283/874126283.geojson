@@ -1,0 +1,73 @@
+{
+  "id": 874126283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.503241,44.200977,-72.503241,44.200977",
+    "geom:latitude":44.200977,
+    "geom:longitude":-72.503241,
+    "iso:country":"US",
+    "sg:address":"10 West St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 1157",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39UDD98eSdAM5zmTC2ieEu_44.200977_-72.503241@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312097,
+    "wof:geomhash":"f795a443138a3d431c6f35981321ce12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874126283
+        }
+    ],
+    "wof:id":874126283,
+    "wof:lastmodified":1464312097,
+    "wof:name":"R & M Mechanics",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.503241,
+    44.200977,
+    -72.503241,
+    44.200977
+],
+  "geometry": {"coordinates":[-72.503241,44.200977],"type":"Point"}
+}

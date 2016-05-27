@@ -1,0 +1,71 @@
+{
+  "id": 874090077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.185821,44.434509,-73.185821,44.434509",
+    "geom:latitude":44.434509,
+    "geom:longitude":-73.185821,
+    "iso:country":"US",
+    "sg:address":"45 Dorey Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 8449",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s3JNcJn54HF6dUqxcbixJ_44.434509_-73.185821@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311664,
+    "wof:geomhash":"54565a986f717dc2162a66e4e7b7ef30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874090077
+        }
+    ],
+    "wof:id":874090077,
+    "wof:lastmodified":1464311664,
+    "wof:name":"Yongs Dumpling Restaurant",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.185821,
+    44.434509,
+    -73.185821,
+    44.434509
+],
+  "geometry": {"coordinates":[-73.185821,44.434509],"type":"Point"}
+}

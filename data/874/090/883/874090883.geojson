@@ -1,0 +1,71 @@
+{
+  "id": 874090883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.500844,44.247341,-72.500844,44.247341",
+    "geom:latitude":44.247341,
+    "geom:longitude":-72.500844,
+    "iso:country":"US",
+    "sg:address":"50 Packard Rd",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 828 3394",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RW8YGayM9bXp2w1cEtYPu_44.247341_-72.500844@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311672,
+    "wof:geomhash":"9367aedbff658abc027d5113a1601eea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874090883
+        }
+    ],
+    "wof:id":874090883,
+    "wof:lastmodified":1464311672,
+    "wof:name":"Surplus Property",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -72.500844,
+    44.247341,
+    -72.500844,
+    44.247341
+],
+  "geometry": {"coordinates":[-72.500844,44.247341],"type":"Point"}
+}

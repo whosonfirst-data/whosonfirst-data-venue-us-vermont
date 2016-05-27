@@ -1,0 +1,71 @@
+{
+  "id": 874010725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.002256,44.396483,-73.002256,44.396483",
+    "geom:latitude":44.396483,
+    "geom:longitude":-73.002256,
+    "iso:country":"US",
+    "sg:address":"208 Thompson Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 6030",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TTqlISTVWOAJ8q4FTzmxw_44.396483_-73.002256@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310860,
+    "wof:geomhash":"566df22625345d32bb60f778755752d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874010725
+        }
+    ],
+    "wof:id":874010725,
+    "wof:lastmodified":1464310860,
+    "wof:name":"Richmond Terrace Housing Comm",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -73.002256,
+    44.396483,
+    -73.002256,
+    44.396483
+],
+  "geometry": {"coordinates":[-73.002256,44.396483],"type":"Point"}
+}

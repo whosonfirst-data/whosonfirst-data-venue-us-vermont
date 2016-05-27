@@ -1,0 +1,71 @@
+{
+  "id": 874161205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015378,44.461126,-72.015378,44.461126",
+    "geom:latitude":44.461126,
+    "geom:longitude":-72.015378,
+    "iso:country":"US",
+    "sg:address":"2002 Memorial Dr",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 751 8280",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YanhN3njByr3iRx06hxAO_44.461126_-72.015378@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312444,
+    "wof:geomhash":"44fdec9098fcdbd49aefeaa580ff9831",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874161205
+        }
+    ],
+    "wof:id":874161205,
+    "wof:lastmodified":1464312444,
+    "wof:name":"Dollar Depot Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.015378,
+    44.461126,
+    -72.015378,
+    44.461126
+],
+  "geometry": {"coordinates":[-72.015378,44.461126],"type":"Point"}
+}

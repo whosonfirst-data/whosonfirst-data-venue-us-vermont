@@ -1,0 +1,71 @@
+{
+  "id": 874131737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208347,44.468791,-73.208347,44.468791",
+    "geom:latitude":44.468791,
+    "geom:longitude":-73.208347,
+    "iso:country":"US",
+    "sg:address":"387 S Union St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 1827",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pYdgASW146QskdSkY6VFq_44.468791_-73.208347@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312157,
+    "wof:geomhash":"c81ce18b303bd5849031ff93e81ec36e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874131737
+        }
+    ],
+    "wof:id":874131737,
+    "wof:lastmodified":1464312157,
+    "wof:name":"R Avery Hall",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -73.208347,
+    44.468791,
+    -73.208347,
+    44.468791
+],
+  "geometry": {"coordinates":[-73.208347,44.468791],"type":"Point"}
+}

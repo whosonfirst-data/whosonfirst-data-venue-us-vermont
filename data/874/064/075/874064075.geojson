@@ -1,0 +1,75 @@
+{
+  "id": 874064075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.159979,44.004582,-73.159979,44.004582",
+    "geom:latitude":44.004582,
+    "geom:longitude":-73.159979,
+    "iso:country":"US",
+    "sg:address":"44 Creek Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 6423",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FCPdQGlPTTLPlmSh2PhLB_44.004582_-73.159979@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311372,
+    "wof:geomhash":"49ba38c47fc40bec8f064ca9387c34e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874064075
+        }
+    ],
+    "wof:id":874064075,
+    "wof:lastmodified":1464311372,
+    "wof:name":"Creek Road Laser Wash",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ]
+},
+  "bbox": [
+    -73.159979,
+    44.004582,
+    -73.159979,
+    44.004582
+],
+  "geometry": {"coordinates":[-73.15997900000001,44.004582],"type":"Point"}
+}

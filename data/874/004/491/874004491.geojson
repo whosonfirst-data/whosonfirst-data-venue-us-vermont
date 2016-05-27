@@ -1,0 +1,73 @@
+{
+  "id": 874004491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.4209,43.643142,-72.4209,43.643142",
+    "geom:latitude":43.643142,
+    "geom:longitude":-72.4209,
+    "iso:country":"US",
+    "sg:address":"5 Cross St",
+    "sg:city":"Quechee",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 5937",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YW5xeQNH7AhCkqx0wyNqh_43.643142_-72.420900@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310809,
+    "wof:geomhash":"a8416742967655d1b53eb72adc0002df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874004491
+        }
+    ],
+    "wof:id":874004491,
+    "wof:lastmodified":1464310809,
+    "wof:name":"Eleonora Stein Academy",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -72.4209,
+    43.643142,
+    -72.4209,
+    43.643142
+],
+  "geometry": {"coordinates":[-72.4209,43.643142],"type":"Point"}
+}

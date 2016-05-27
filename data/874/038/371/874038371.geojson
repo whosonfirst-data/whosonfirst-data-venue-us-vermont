@@ -1,0 +1,69 @@
+{
+  "id": 874038371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.65507,42.953779,-72.65507,42.953779",
+    "geom:latitude":42.953779,
+    "geom:longitude":-72.65507,
+    "iso:country":"US",
+    "sg:address":"42 Newfane Hill Rd",
+    "sg:city":"Newfane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 380 0204",
+    "sg:postcode":"05345",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1plgGMfDVRxwRNq5WdLMoV_42.953779_-72.655070@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311129,
+    "wof:geomhash":"d0a8025b06499258e37ddcdc1ba25709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874038371
+        }
+    ],
+    "wof:id":874038371,
+    "wof:lastmodified":1464311129,
+    "wof:name":"True Craft Construction",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.65507,
+    42.953779,
+    -72.65507,
+    42.953779
+],
+  "geometry": {"coordinates":[-72.65506999999999,42.953779],"type":"Point"}
+}

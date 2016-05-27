@@ -1,0 +1,71 @@
+{
+  "id": 874023175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.116814,44.447231,-73.116814,44.447231",
+    "geom:latitude":44.447231,
+    "geom:longitude":-73.116814,
+    "iso:country":"US",
+    "sg:address":"454 Harvest Ln",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 0328",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "courier",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0riiC1cjeCB0NF2ZI9KICY_44.447231_-73.116814@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310975,
+    "wof:geomhash":"0c135c38d823465c8887cf375efb9b5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874023175
+        }
+    ],
+    "wof:id":874023175,
+    "wof:lastmodified":1464310975,
+    "wof:name":"UPS",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier",
+        "air"
+    ]
+},
+  "bbox": [
+    -73.116814,
+    44.447231,
+    -73.116814,
+    44.447231
+],
+  "geometry": {"coordinates":[-73.11681400000001,44.447231],"type":"Point"}
+}

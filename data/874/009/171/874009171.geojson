@@ -1,0 +1,71 @@
+{
+  "id": 874009171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.995395,43.602172,-72.995395,43.602172",
+    "geom:latitude":43.602172,
+    "geom:longitude":-72.995395,
+    "iso:country":"US",
+    "sg:address":"45 Dorr Dr",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4926",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fmgn7wB4UOXF2aD9jr0rg_43.602172_-72.995395@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310849,
+    "wof:geomhash":"ebfa1e28c3257d530b90a5dbffd26a7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874009171
+        }
+    ],
+    "wof:id":874009171,
+    "wof:lastmodified":1464310849,
+    "wof:name":"Three TS Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -72.995395,
+    43.602172,
+    -72.995395,
+    43.602172
+],
+  "geometry": {"coordinates":[-72.995395,43.602172],"type":"Point"}
+}

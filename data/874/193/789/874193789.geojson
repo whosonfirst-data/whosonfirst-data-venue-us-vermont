@@ -1,0 +1,75 @@
+{
+  "id": 874193789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.173834,44.478087,-73.173834,44.478087",
+    "geom:latitude":44.478087,
+    "geom:longitude":-73.173834,
+    "iso:country":"US",
+    "sg:address":"104 Landfill Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 7961",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XAoDzn7z9qGrPi4c4ODp4_44.478087_-73.173834@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312777,
+    "wof:geomhash":"2f88ec48d294434a17912849320d4696",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874193789
+        }
+    ],
+    "wof:id":874193789,
+    "wof:lastmodified":1464312777,
+    "wof:name":"Public Works Dept-Street Dept",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -73.173834,
+    44.478087,
+    -73.173834,
+    44.478087
+],
+  "geometry": {"coordinates":[-73.173834,44.478087],"type":"Point"}
+}

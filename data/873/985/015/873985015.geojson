@@ -1,0 +1,64 @@
+{
+  "id": 873985015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.502425,43.372849,-72.502425,43.372849",
+    "geom:latitude":43.372849,
+    "geom:longitude":-72.502425,
+    "iso:country":"US",
+    "sg:address":"501 Stoughton Pond Rd",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 9277",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77DPkvgKTpedN9DWfW9sSj_43.372849_-72.502425@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310650,
+    "wof:geomhash":"27d698467a5ad2afee8712d367cb40af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":873985015
+        }
+    ],
+    "wof:id":873985015,
+    "wof:lastmodified":1464310650,
+    "wof:name":"G Adams Auto Service",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.502425,
+    43.372849,
+    -72.502425,
+    43.372849
+],
+  "geometry": {"coordinates":[-72.502425,43.372849],"type":"Point"}
+}

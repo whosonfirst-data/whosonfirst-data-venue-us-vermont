@@ -1,0 +1,73 @@
+{
+  "id": 874169529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.17959,44.51993,-73.17959,44.51993",
+    "geom:latitude":44.51993,
+    "geom:longitude":-73.17959,
+    "iso:country":"US",
+    "sg:address":"45 Oak Cir",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 2284",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "outside",
+        "snow",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Izyv0AmPfqbpSR8e9jPK4_44.519930_-73.179590@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312522,
+    "wof:geomhash":"1cd785f482d718d9901743cd91a2bec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874169529
+        }
+    ],
+    "wof:id":874169529,
+    "wof:lastmodified":1464312522,
+    "wof:name":"Advanced Lawn Care",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outside",
+        "snow",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.17959,
+    44.51993,
+    -73.17959,
+    44.51993
+],
+  "geometry": {"coordinates":[-73.17959,44.51993],"type":"Point"}
+}

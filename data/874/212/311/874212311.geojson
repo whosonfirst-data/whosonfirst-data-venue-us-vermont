@@ -1,0 +1,72 @@
+{
+  "id": 874212311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.127451,44.447185,-73.127451,44.447185",
+    "geom:latitude":44.447185,
+    "geom:longitude":-73.127451,
+    "iso:country":"US",
+    "sg:address":"1191 S Brownell Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 5084",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "medical"
+    ],
+    "sg:website":"www.triosyn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_074DKxOwkzHENPJ9zHJbES_44.447185_-73.127451@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312977,
+    "wof:geomhash":"dfeb56de6793fe6e81d981c0801a8d2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874212311
+        }
+    ],
+    "wof:id":874212311,
+    "wof:lastmodified":1464312977,
+    "wof:name":"Triosyn Corp",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.127451,
+    44.447185,
+    -73.127451,
+    44.447185
+],
+  "geometry": {"coordinates":[-73.12745099999999,44.447185],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873993837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.231093,43.819653,-72.231093,43.819653",
+    "geom:latitude":43.819653,
+    "geom:longitude":-72.231093,
+    "iso:country":"US",
+    "sg:address":"2775 State Rte 113",
+    "sg:city":"West Fairlee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 4789",
+    "sg:postcode":"05075",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p77qVBfdL2Vjw0cqSgL81_43.819653_-72.231093@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310717,
+    "wof:geomhash":"510b5fb2a2e39e17ac7a0a63476ca661",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":873993837
+        }
+    ],
+    "wof:id":873993837,
+    "wof:lastmodified":1464310717,
+    "wof:name":"Top Hat Chimney Sweep",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney"
+    ]
+},
+  "bbox": [
+    -72.231093,
+    43.819653,
+    -72.231093,
+    43.819653
+],
+  "geometry": {"coordinates":[-72.231093,43.819653],"type":"Point"}
+}

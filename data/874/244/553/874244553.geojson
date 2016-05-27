@@ -1,0 +1,71 @@
+{
+  "id": 874244553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180824,44.41551,-73.180824,44.41551",
+    "geom:latitude":44.41551,
+    "geom:longitude":-73.180824,
+    "iso:country":"US",
+    "sg:address":"23 Floral St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 859 9227",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "stone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FuaAbXNbJ4bUctqK2P6R2_44.415510_-73.180824@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313427,
+    "wof:geomhash":"5f122c1568143da6808337b8e9cd802b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874244553
+        }
+    ],
+    "wof:id":874244553,
+    "wof:lastmodified":1464313427,
+    "wof:name":"Bead Sprouts",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone"
+    ]
+},
+  "bbox": [
+    -73.180824,
+    44.41551,
+    -73.180824,
+    44.41551
+],
+  "geometry": {"coordinates":[-73.180824,44.41551],"type":"Point"}
+}

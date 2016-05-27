@@ -1,0 +1,71 @@
+{
+  "id": 874189509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.781247,44.602083,-72.781247,44.602083",
+    "geom:latitude":44.602083,
+    "geom:longitude":-72.781247,
+    "iso:country":"US",
+    "sg:address":"880 Smugglers View Rd",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 6730",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849535,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ugnL7uywkbeAcN8eW81Lv_44.602083_-72.781247@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312735,
+    "wof:geomhash":"924adc195619580891e82a9a8eeca2ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85849535,
+            "region_id":85688763,
+            "venue_id":874189509
+        }
+    ],
+    "wof:id":874189509,
+    "wof:lastmodified":1464312735,
+    "wof:name":"Peak Electric Inc",
+    "wof:parent_id":85849535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.781247,
+    44.602083,
+    -72.781247,
+    44.602083
+],
+  "geometry": {"coordinates":[-72.78124699999999,44.602083],"type":"Point"}
+}

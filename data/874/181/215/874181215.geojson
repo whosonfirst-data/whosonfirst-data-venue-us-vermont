@@ -1,0 +1,70 @@
+{
+  "id": 874181215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.133551,44.507831,-73.133551,44.507831",
+    "geom:latitude":44.507831,
+    "geom:longitude":-73.133551,
+    "iso:country":"US",
+    "sg:address":"11 Market Pl",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 5591",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.essexfamilydental.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54O5ip3e9WW05mLyeXq9WA_44.507831_-73.133551@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312643,
+    "wof:geomhash":"553747ed7d4ecf39ba14a0f25e252b6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874181215
+        }
+    ],
+    "wof:id":874181215,
+    "wof:lastmodified":1464312643,
+    "wof:name":"Essex Family Dental",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.133551,
+    44.507831,
+    -73.133551,
+    44.507831
+],
+  "geometry": {"coordinates":[-73.133551,44.507831],"type":"Point"}
+}

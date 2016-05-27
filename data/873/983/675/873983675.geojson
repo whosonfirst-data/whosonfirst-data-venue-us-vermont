@@ -1,0 +1,69 @@
+{
+  "id": 873983675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196921,42.881569,-73.196921,42.881569",
+    "geom:latitude":42.881569,
+    "geom:longitude":-73.196921,
+    "iso:country":"US",
+    "sg:address":"185 North St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 2123",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vgu085rrkWZYLuSOF7y6H_42.881569_-73.196921@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310639,
+    "wof:geomhash":"bdf448387b16456361ab01eaf17b26f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873983675
+        }
+    ],
+    "wof:id":873983675,
+    "wof:lastmodified":1464310639,
+    "wof:name":"Harsch Assoc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales"
+    ]
+},
+  "bbox": [
+    -73.196921,
+    42.881569,
+    -73.196921,
+    42.881569
+],
+  "geometry": {"coordinates":[-73.196921,42.881569],"type":"Point"}
+}

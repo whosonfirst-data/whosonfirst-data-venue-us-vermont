@@ -1,0 +1,71 @@
+{
+  "id": 874245503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.685344,44.465268,-72.685344,44.465268",
+    "geom:latitude":44.465268,
+    "geom:longitude":-72.685344,
+    "iso:country":"US",
+    "sg:address":"112 Main St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 4052",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "textile",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o0MFo2pc7f3ZkqaJwcs2P_44.465268_-72.685344@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313444,
+    "wof:geomhash":"7096a946e4ba3ce7358aeab1e2bf2aa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874245503
+        }
+    ],
+    "wof:id":874245503,
+    "wof:lastmodified":1464313444,
+    "wof:name":"Moriarty Hat & Sweater Shop",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "textile",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -72.685344,
+    44.465268,
+    -72.685344,
+    44.465268
+],
+  "geometry": {"coordinates":[-72.685344,44.465268],"type":"Point"}
+}

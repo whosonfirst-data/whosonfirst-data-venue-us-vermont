@@ -1,0 +1,73 @@
+{
+  "id": 874157989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.151039,44.022831,-73.151039,44.022831",
+    "geom:latitude":44.022831,
+    "geom:longitude":-73.151039,
+    "iso:country":"US",
+    "sg:address":"174 Washington St Exd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4851",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "membership",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pSmFWRKmoQGe8BFi11Zip_44.022831_-73.151039@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312408,
+    "wof:geomhash":"6751c4de0d3746f0d92574d2726e5ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874157989
+        }
+    ],
+    "wof:id":874157989,
+    "wof:lastmodified":1464312408,
+    "wof:name":"Middlebury Bed & Breakfast",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -73.151039,
+    44.022831,
+    -73.151039,
+    44.022831
+],
+  "geometry": {"coordinates":[-73.151039,44.022831],"type":"Point"}
+}

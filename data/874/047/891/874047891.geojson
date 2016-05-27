@@ -1,0 +1,71 @@
+{
+  "id": 874047891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.20411,42.852197,-73.20411,42.852197",
+    "geom:latitude":42.852197,
+    "geom:longitude":-73.20411,
+    "iso:country":"US",
+    "sg:address":"1067 US Hwy 7",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 4483",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78JaCLyq1XWzedEzGlnD9O_42.852197_-73.204110@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311223,
+    "wof:geomhash":"c26f6b58cc88f35b9e0fcb3972138365",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874047891
+        }
+    ],
+    "wof:id":874047891,
+    "wof:lastmodified":1464311223,
+    "wof:name":"Glass Trix Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -73.20411,
+    42.852197,
+    -73.20411,
+    42.852197
+],
+  "geometry": {"coordinates":[-73.20411,42.852197],"type":"Point"}
+}

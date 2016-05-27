@@ -1,0 +1,74 @@
+{
+  "id": 874197829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.181008,44.511645,-73.181008,44.511645",
+    "geom:latitude":44.511645,
+    "geom:longitude":-73.181008,
+    "iso:country":"US",
+    "sg:address":"441 Watertower Cir",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 654 4454",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "safety",
+        "alcohol",
+        "highway"
+    ],
+    "sg:website":"www.varc.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2efZP9Uip4ekY8wNKkgtaI_44.511645_-73.181008@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312824,
+    "wof:geomhash":"e2678ea3f3d9404a46eb94179dd26913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874197829
+        }
+    ],
+    "wof:id":874197829,
+    "wof:lastmodified":1464312824,
+    "wof:name":"Vermont Alcohol Research Ctr",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "safety",
+        "alcohol",
+        "highway"
+    ]
+},
+  "bbox": [
+    -73.181008,
+    44.511645,
+    -73.181008,
+    44.511645
+],
+  "geometry": {"coordinates":[-73.18100800000001,44.511645],"type":"Point"}
+}

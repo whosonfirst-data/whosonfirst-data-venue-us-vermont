@@ -1,0 +1,71 @@
+{
+  "id": 874157801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.577182,43.289951,-72.577182,43.289951",
+    "geom:latitude":43.289951,
+    "geom:longitude":-72.577182,
+    "iso:country":"US",
+    "sg:address":"1792 Flamstead Rd",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 3088",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "field",
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aGvUgksxeN6xws7zgnQvg_43.289951_-72.577182@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312406,
+    "wof:geomhash":"ad7da0bc18c9c0f31e5324d638418f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874157801
+        }
+    ],
+    "wof:id":874157801,
+    "wof:lastmodified":1464312406,
+    "wof:name":"Donald Farrar",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "crop"
+    ]
+},
+  "bbox": [
+    -72.577182,
+    43.289951,
+    -72.577182,
+    43.289951
+],
+  "geometry": {"coordinates":[-72.57718199999999,43.289951],"type":"Point"}
+}

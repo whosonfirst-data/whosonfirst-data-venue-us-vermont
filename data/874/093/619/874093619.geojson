@@ -1,0 +1,71 @@
+{
+  "id": 874093619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.165774,44.546606,-73.165774,44.546606",
+    "geom:latitude":44.546606,
+    "geom:longitude":-73.165774,
+    "iso:country":"US",
+    "sg:address":"5422 Roosevelt Hwy",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 6602",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08ROGFwdOiFLy0DXOPF71f_44.546606_-73.165774@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311700,
+    "wof:geomhash":"e06ef0ebcba142f255cf48bb4c8c5533",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874093619
+        }
+    ],
+    "wof:id":874093619,
+    "wof:lastmodified":1464311700,
+    "wof:name":"A & A Auto Rental",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -73.165774,
+    44.546606,
+    -73.165774,
+    44.546606
+],
+  "geometry": {"coordinates":[-73.165774,44.546606],"type":"Point"}
+}

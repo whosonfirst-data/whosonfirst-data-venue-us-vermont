@@ -1,0 +1,69 @@
+{
+  "id": 874215545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.851473,43.517869,-72.851473,43.517869",
+    "geom:latitude":43.517869,
+    "geom:longitude":-72.851473,
+    "iso:country":"US",
+    "sg:address":"1413 Northam Rd",
+    "sg:city":"Cuttingsville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 492 2059",
+    "sg:postcode":"05738",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27NciOAnb93c6TXTbu2yNL_43.517869_-72.851473@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313009,
+    "wof:geomhash":"a2de71038250509cfb0da12b25dc0df0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874215545
+        }
+    ],
+    "wof:id":874215545,
+    "wof:lastmodified":1464313009,
+    "wof:name":"Riverbend Woodworks",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.851473,
+    43.517869,
+    -72.851473,
+    43.517869
+],
+  "geometry": {"coordinates":[-72.851473,43.517869],"type":"Point"}
+}

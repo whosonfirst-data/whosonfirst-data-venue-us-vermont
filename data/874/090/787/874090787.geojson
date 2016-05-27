@@ -1,0 +1,73 @@
+{
+  "id": 874090787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.140768,44.512269,-73.140768,44.512269",
+    "geom:latitude":44.512269,
+    "geom:longitude":-73.140768,
+    "iso:country":"US",
+    "sg:address":"52 Kellogg Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 5341",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "guardrail",
+        "highway",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cZXuz5xQvIyFfQ9w9ZnTp_44.512269_-73.140768@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311671,
+    "wof:geomhash":"0a8594e1476f101fd411c6cdda3ffe9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874090787
+        }
+    ],
+    "wof:id":874090787,
+    "wof:lastmodified":1464311671,
+    "wof:name":"F R Lafayette Inc",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guardrail",
+        "highway",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.140768,
+    44.512269,
+    -73.140768,
+    44.512269
+],
+  "geometry": {"coordinates":[-73.14076799999999,44.512269],"type":"Point"}
+}

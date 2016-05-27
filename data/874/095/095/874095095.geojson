@@ -1,0 +1,70 @@
+{
+  "id": 874095095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.13343,43.986691,-73.13343,43.986691",
+    "geom:latitude":43.986691,
+    "geom:longitude":-73.13343,
+    "iso:country":"US",
+    "sg:address":"1428 US Hwy 7",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4919",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state"
+    ],
+    "sg:website":"www.dps.state.vt.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_359llV1ohhTqrIFitfNcFW_43.986691_-73.133430@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311713,
+    "wof:geomhash":"c9b36c7cd1a1961d763849d8ed30d3ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874095095
+        }
+    ],
+    "wof:id":874095095,
+    "wof:lastmodified":1464311713,
+    "wof:name":"Vermont State Police",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -73.13343,
+    43.986691,
+    -73.13343,
+    43.986691
+],
+  "geometry": {"coordinates":[-73.13343,43.986691],"type":"Point"}
+}

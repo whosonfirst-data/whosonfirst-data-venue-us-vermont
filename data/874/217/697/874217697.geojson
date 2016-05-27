@@ -1,0 +1,73 @@
+{
+  "id": 874217697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.49732,44.18557,-72.49732,44.18557",
+    "geom:latitude":44.18557,
+    "geom:longitude":-72.49732,
+    "iso:country":"US",
+    "sg:address":"163 Circle St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3338",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZJvLAzQDR6LhFOkJhnulw_44.185570_-72.497320@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313028,
+    "wof:geomhash":"78c041f1f57f5f66e9179762333be38a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874217697
+        }
+    ],
+    "wof:id":874217697,
+    "wof:lastmodified":1464313028,
+    "wof:name":"Concrete Done Right",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.49732,
+    44.18557,
+    -72.49732,
+    44.18557
+],
+  "geometry": {"coordinates":[-72.49732,44.18557],"type":"Point"}
+}

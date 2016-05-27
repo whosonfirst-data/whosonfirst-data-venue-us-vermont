@@ -1,0 +1,71 @@
+{
+  "id": 874241079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.41424,44.149858,-72.41424,44.149858",
+    "geom:latitude":44.149858,
+    "geom:longitude":-72.41424,
+    "iso:country":"US",
+    "sg:address":"1246 US Hwy 302",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 5400",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kkdqB2ridK6TwQUsUokFo_44.149858_-72.414240@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313360,
+    "wof:geomhash":"d0eda0ba1453ce071e82dca1bfcf4b49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874241079
+        }
+    ],
+    "wof:id":874241079,
+    "wof:lastmodified":1464313360,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -72.41424,
+    44.149858,
+    -72.41424,
+    44.149858
+],
+  "geometry": {"coordinates":[-72.41424000000001,44.149858],"type":"Point"}
+}

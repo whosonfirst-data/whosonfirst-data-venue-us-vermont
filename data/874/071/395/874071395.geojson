@@ -1,0 +1,69 @@
+{
+  "id": 874071395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.197741,43.746848,-73.197741,43.746848",
+    "geom:latitude":43.746848,
+    "geom:longitude":-73.197741,
+    "iso:country":"US",
+    "sg:address":"453 Camp Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 273 3338",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YjsHSvgXLJxNwTCw809Ey_43.746848_-73.197741@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311450,
+    "wof:geomhash":"fd72cda627403fdad32f2aafe3b160be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874071395
+        }
+    ],
+    "wof:id":874071395,
+    "wof:lastmodified":1464311450,
+    "wof:name":"Moonlight Towing",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -73.197741,
+    43.746848,
+    -73.197741,
+    43.746848
+],
+  "geometry": {"coordinates":[-73.19774099999999,43.746848],"type":"Point"}
+}

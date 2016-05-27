@@ -1,0 +1,71 @@
+{
+  "id": 874026683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.017389,44.413065,-72.017389,44.413065",
+    "geom:latitude":44.413065,
+    "geom:longitude":-72.017389,
+    "iso:country":"US",
+    "sg:address":"51 Railroad St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3310",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5in2AG8TwQruZ8trXfmr0I_44.413065_-72.017389@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311014,
+    "wof:geomhash":"413561bd500570e17fbdc81ba8686159",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874026683
+        }
+    ],
+    "wof:id":874026683,
+    "wof:lastmodified":1464311014,
+    "wof:name":"Windshield World",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -72.017389,
+    44.413065,
+    -72.017389,
+    44.413065
+],
+  "geometry": {"coordinates":[-72.01738899999999,44.413065],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874116435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.048211,43.593781,-73.048211,43.593781",
+    "geom:latitude":43.593781,
+    "geom:longitude":-73.048211,
+    "iso:country":"US",
+    "sg:address":"45 Chapel St",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 2861",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gbD4gMetlPoqkvcGUmNhy_43.593781_-73.048211@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312001,
+    "wof:geomhash":"3e0ca012c8f997255a9e7f0cc6aa4532",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874116435
+        }
+    ],
+    "wof:id":874116435,
+    "wof:lastmodified":1464312001,
+    "wof:name":"United Church of West Rutland",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.048211,
+    43.593781,
+    -73.048211,
+    43.593781
+],
+  "geometry": {"coordinates":[-73.04821099999999,43.593781],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874094119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.15556,44.134473,-73.15556,44.134473",
+    "geom:latitude":44.134473,
+    "geom:longitude":-73.15556,
+    "iso:country":"US",
+    "sg:address":"749 North St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3296",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vz9RPTRDf4GbdOAF1TG7Z_44.134473_-73.155560@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311705,
+    "wof:geomhash":"cbe8a669b31a9212713e149ff1c79a9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874094119
+        }
+    ],
+    "wof:id":874094119,
+    "wof:lastmodified":1464311705,
+    "wof:name":"Evergreen Cemetery Associates",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -73.15556,
+    44.134473,
+    -73.15556,
+    44.134473
+],
+  "geometry": {"coordinates":[-73.15555999999999,44.134473],"type":"Point"}
+}

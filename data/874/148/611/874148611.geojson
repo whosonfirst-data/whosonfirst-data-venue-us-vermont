@@ -1,0 +1,71 @@
+{
+  "id": 874148611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.532513,44.228094,-72.532513,44.228094",
+    "geom:latitude":44.228094,
+    "geom:longitude":-72.532513,
+    "iso:country":"US",
+    "sg:address":"68 Vine St Exd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6487",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rfg0oTflhoo7W1Ag9F0ev_44.228094_-72.532513@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312316,
+    "wof:geomhash":"3c2c3323e3a025e0da226fd81c51ee26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874148611
+        }
+    ],
+    "wof:id":874148611,
+    "wof:lastmodified":1464312316,
+    "wof:name":"Bible Baptist Church",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.532513,
+    44.228094,
+    -72.532513,
+    44.228094
+],
+  "geometry": {"coordinates":[-72.53251299999999,44.228094],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874060881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.112006,44.68837,-73.112006,44.68837",
+    "geom:latitude":44.68837,
+    "geom:longitude":-73.112006,
+    "iso:country":"US",
+    "sg:address":"164 Manor Dr",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 7781",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79mCF8dwyidKQCaueBFA4O_44.688370_-73.112006@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311343,
+    "wof:geomhash":"fa8b0668de3885a40f8cffdcfd7ba9be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874060881
+        }
+    ],
+    "wof:id":874060881,
+    "wof:lastmodified":1464311343,
+    "wof:name":"Bo's Sewer & Drain Svc",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -73.112006,
+    44.68837,
+    -73.112006,
+    44.68837
+],
+  "geometry": {"coordinates":[-73.11200599999999,44.68837],"type":"Point"}
+}

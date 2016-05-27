@@ -1,0 +1,72 @@
+{
+  "id": 874251019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.1809,44.503345,-73.1809,44.503345",
+    "geom:latitude":44.503345,
+    "geom:longitude":-73.1809,
+    "iso:country":"US",
+    "sg:address":"44 S Park Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/colchester/212984-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 7747",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pOVHKkpGy3aACJtEvcDUC_44.503960_-73.180062@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313586,
+    "wof:geomhash":"064e783574b6de1a3e67dc038619b843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874251019
+        }
+    ],
+    "wof:id":874251019,
+    "wof:lastmodified":1464313586,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.1809,
+    44.503345,
+    -73.1809,
+    44.503345
+],
+  "geometry": {"coordinates":[-73.18089999999999,44.503345],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874029839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.18365,42.892706,-73.18365,42.892706",
+    "geom:latitude":42.892706,
+    "geom:longitude":-73.18365,
+    "iso:country":"US",
+    "sg:address":"831 Chapel Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 2795",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65nhAFvpiHDO7ML63JMjLf_42.892706_-73.183650@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311047,
+    "wof:geomhash":"08274d3662343d6bf1b469fc26ddf9ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874029839
+        }
+    ],
+    "wof:id":874029839,
+    "wof:lastmodified":1464311047,
+    "wof:name":"Watson Excavating",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.18365,
+    42.892706,
+    -73.18365,
+    42.892706
+],
+  "geometry": {"coordinates":[-73.18365,42.892706],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 874201483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.676345,44.633957,-72.676345,44.633957",
+    "geom:latitude":44.633957,
+    "geom:longitude":-72.676345,
+    "iso:country":"US",
+    "sg:address":"162 State Rte 15",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 9200",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mill",
+        "knitting",
+        "business",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UpGp6VDaHhFK5UEQ7TFP1_44.633957_-72.676345@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312858,
+    "wof:geomhash":"c35d084db1afdeeddf7dd3e3c62b9423",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874201483
+        }
+    ],
+    "wof:id":874201483,
+    "wof:lastmodified":1464312858,
+    "wof:name":"Beagle Outdoor Wear",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill",
+        "knitting",
+        "business",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -72.676345,
+    44.633957,
+    -72.676345,
+    44.633957
+],
+  "geometry": {"coordinates":[-72.676345,44.633957],"type":"Point"}
+}

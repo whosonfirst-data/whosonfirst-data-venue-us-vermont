@@ -1,0 +1,79 @@
+{
+  "id": 874187917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.993603,43.605442,-72.993603,43.605442",
+    "geom:latitude":43.605442,
+    "geom:longitude":-72.993603,
+    "iso:country":"US",
+    "sg:address":"2 Green Hill Ln",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 7209",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "recycling",
+        "center",
+        "system"
+    ],
+    "sg:website":"www.rcswd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00mi6axx6JtWQnjk61t5NQ_43.605442_-72.993603@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312718,
+    "wof:geomhash":"568d49f2d6a5a2a4a308c5856333f4e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874187917
+        }
+    ],
+    "wof:id":874187917,
+    "wof:lastmodified":1464312718,
+    "wof:name":"Rutland County Solid Waste Dst",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center",
+        "system"
+    ]
+},
+  "bbox": [
+    -72.993603,
+    43.605442,
+    -72.993603,
+    43.605442
+],
+  "geometry": {"coordinates":[-72.99360299999999,43.605442],"type":"Point"}
+}

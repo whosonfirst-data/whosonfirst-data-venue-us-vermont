@@ -1,0 +1,71 @@
+{
+  "id": 874148379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.594059,42.851324,-72.594059,42.851324",
+    "geom:latitude":42.851324,
+    "geom:longitude":-72.594059,
+    "iso:country":"US",
+    "sg:address":"570 Western Ave",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 1039",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PlcClKPoWjgiQrMgkH1JS_42.851324_-72.594059@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312314,
+    "wof:geomhash":"cb04d066f0f0ca18a780d24dc91145cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874148379
+        }
+    ],
+    "wof:id":874148379,
+    "wof:lastmodified":1464312314,
+    "wof:name":"Western Ave Mobile",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.594059,
+    42.851324,
+    -72.594059,
+    42.851324
+],
+  "geometry": {"coordinates":[-72.594059,42.851324],"type":"Point"}
+}

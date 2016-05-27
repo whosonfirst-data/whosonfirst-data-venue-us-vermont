@@ -1,0 +1,71 @@
+{
+  "id": 874190791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.123039,44.521061,-73.123039,44.521061",
+    "geom:latitude":44.521061,
+    "geom:longitude":-73.123039,
+    "iso:country":"US",
+    "sg:address":"60 Gentes Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 5002",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jVwfztzfCUECxMzFibM9E_44.521061_-73.123039@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312747,
+    "wof:geomhash":"ae0d0b9eb5097cfedd61b8e6c2145bcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874190791
+        }
+    ],
+    "wof:id":874190791,
+    "wof:lastmodified":1464312747,
+    "wof:name":"Common Ground Property Mgmt",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.123039,
+    44.521061,
+    -73.123039,
+    44.521061
+],
+  "geometry": {"coordinates":[-73.12303900000001,44.521061],"type":"Point"}
+}

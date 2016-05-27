@@ -1,0 +1,66 @@
+{
+  "id": 874253721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.876777,44.644605,-72.876777,44.644605",
+    "geom:latitude":44.644605,
+    "geom:longitude":-72.876777,
+    "iso:country":"US",
+    "sg:address":"113 S Main St",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2272",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v7QWCrSdrI0EqiiEIGWUQ_44.644605_-72.876777@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313640,
+    "wof:geomhash":"c627dfe20725d4db96cae1c3165e190a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874253721
+        }
+    ],
+    "wof:id":874253721,
+    "wof:lastmodified":1464313640,
+    "wof:name":"Cambridge Village Market",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.876777,
+    44.644605,
+    -72.876777,
+    44.644605
+],
+  "geometry": {"coordinates":[-72.876777,44.644605],"type":"Point"}
+}

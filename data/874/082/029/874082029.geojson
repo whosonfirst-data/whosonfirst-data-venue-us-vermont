@@ -1,0 +1,73 @@
+{
+  "id": 874082029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214679,44.484634,-73.214679,44.484634",
+    "geom:latitude":44.484634,
+    "geom:longitude":-73.214679,
+    "iso:country":"US",
+    "sg:address":"191 North St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 2771",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RsXtpHGtlJJPSIUgSbrky_44.484634_-73.214679@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311576,
+    "wof:geomhash":"1911997ba3c6e25e721067e0ec22937f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874082029
+        }
+    ],
+    "wof:id":874082029,
+    "wof:lastmodified":1464311576,
+    "wof:name":"Champlain Valley OEO",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.214679,
+    44.484634,
+    -73.214679,
+    44.484634
+],
+  "geometry": {"coordinates":[-73.214679,44.484634],"type":"Point"}
+}

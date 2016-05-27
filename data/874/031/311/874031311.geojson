@@ -1,0 +1,73 @@
+{
+  "id": 874031311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.504731,44.197234,-72.504731,44.197234",
+    "geom:latitude":44.197234,
+    "geom:longitude":-72.504731,
+    "iso:country":"US",
+    "sg:address":"6 Burnham St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 0266",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UVBLCXWEghFBlDwpvLFLR_44.197234_-72.504731@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311060,
+    "wof:geomhash":"73ceeecd47e1c63e421d0aa5d756fc2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874031311
+        }
+    ],
+    "wof:id":874031311,
+    "wof:lastmodified":1464311060,
+    "wof:name":"Barre City Water Dept",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -72.504731,
+    44.197234,
+    -72.504731,
+    44.197234
+],
+  "geometry": {"coordinates":[-72.50473100000001,44.197234],"type":"Point"}
+}

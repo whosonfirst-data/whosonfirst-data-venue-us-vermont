@@ -1,0 +1,66 @@
+{
+  "id": 874135063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.55613,44.238942,-72.55613,44.238942",
+    "geom:latitude":44.238942,
+    "geom:longitude":-72.55613,
+    "iso:country":"US",
+    "sg:address":"78 Forest Dr",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 4405",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bkMx2KxPc0syCXvFolVb8_44.238942_-72.556130@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312191,
+    "wof:geomhash":"41b5c76e01d7e6b65a71f471ab18d05c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874135063
+        }
+    ],
+    "wof:id":874135063,
+    "wof:lastmodified":1464312191,
+    "wof:name":"Precision Paintless Dent Repr",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.55613,
+    44.238942,
+    -72.55613,
+    44.238942
+],
+  "geometry": {"coordinates":[-72.55613,44.238942],"type":"Point"}
+}

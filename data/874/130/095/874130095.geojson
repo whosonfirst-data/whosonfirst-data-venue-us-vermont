@@ -1,0 +1,73 @@
+{
+  "id": 874130095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.05445,43.177436,-73.05445,43.177436",
+    "geom:latitude":43.177436,
+    "geom:longitude":-73.05445,
+    "iso:country":"US",
+    "sg:address":"4996 Main St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 2156",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u6KHwAFr5ukzuLDvZb49K_43.177436_-73.054450@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312137,
+    "wof:geomhash":"7c1b2921a5fc2cf9f8503cd583edde24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874130095
+        }
+    ],
+    "wof:id":874130095,
+    "wof:lastmodified":1464312137,
+    "wof:name":"Merchant's Bank",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -73.05445,
+    43.177436,
+    -73.05445,
+    43.177436
+],
+  "geometry": {"coordinates":[-73.05445,43.177436],"type":"Point"}
+}

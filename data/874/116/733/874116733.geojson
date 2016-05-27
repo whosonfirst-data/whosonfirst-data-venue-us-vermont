@@ -1,0 +1,71 @@
+{
+  "id": 874116733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.09074,43.258037,-73.09074,43.258037",
+    "geom:latitude":43.258037,
+    "geom:longitude":-73.09074,
+    "iso:country":"US",
+    "sg:address":"191 Hidden Hollow Ln",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 867 2241",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QrXPL4KromqLxUPcm4hac_43.258037_-73.090740@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312004,
+    "wof:geomhash":"e15f09567cb80d9ded337632f5f01464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874116733
+        }
+    ],
+    "wof:id":874116733,
+    "wof:lastmodified":1464312004,
+    "wof:name":"Dibble Painters Inc",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -73.09074,
+    43.258037,
+    -73.09074,
+    43.258037
+],
+  "geometry": {"coordinates":[-73.09074,43.258037],"type":"Point"}
+}

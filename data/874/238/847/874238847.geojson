@@ -1,0 +1,75 @@
+{
+  "id": 874238847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200521,44.459638,-73.200521,44.459638",
+    "geom:latitude":44.459638,
+    "geom:longitude":-73.200521,
+    "iso:country":"US",
+    "sg:address":"777 S Prospect St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 8284",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "administrative",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TbEV3ODY6VZpoUFVfMbDV_44.459638_-73.200521@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313318,
+    "wof:geomhash":"6372c01f3565cc5e17119361f1cb890f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874238847
+        }
+    ],
+    "wof:id":874238847,
+    "wof:lastmodified":1464313318,
+    "wof:name":"Environmental Health Services",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -73.200521,
+    44.459638,
+    -73.200521,
+    44.459638
+],
+  "geometry": {"coordinates":[-73.20052099999999,44.459638],"type":"Point"}
+}

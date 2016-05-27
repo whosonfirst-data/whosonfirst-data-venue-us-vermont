@@ -1,0 +1,73 @@
+{
+  "id": 874237929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.491664,44.190845,-72.491664,44.190845",
+    "geom:latitude":44.190845,
+    "geom:longitude":-72.491664,
+    "iso:country":"US",
+    "sg:address":"15 W Patterson St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 8789",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "public",
+        "relations"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32HsIexjRRzTS1TbpnLT4O_44.190845_-72.491664@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313301,
+    "wof:geomhash":"ed3a934805c05922961dc441f866823f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874237929
+        }
+    ],
+    "wof:id":874237929,
+    "wof:lastmodified":1464313301,
+    "wof:name":"Vermont Assn of Broadcasters",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public",
+        "relations"
+    ]
+},
+  "bbox": [
+    -72.491664,
+    44.190845,
+    -72.491664,
+    44.190845
+],
+  "geometry": {"coordinates":[-72.491664,44.190845],"type":"Point"}
+}

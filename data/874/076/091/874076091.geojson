@@ -1,0 +1,71 @@
+{
+  "id": 874076091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167206,44.016377,-73.167206,44.016377",
+    "geom:latitude":44.016377,
+    "geom:longitude":-73.167206,
+    "iso:country":"US",
+    "sg:address":"32 N Pleasant St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 443 6301",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "technician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mKF8q4dnkYcaUPBfQplCr_44.016377_-73.167206@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311512,
+    "wof:geomhash":"17e1c5f5c2cfc07695429cf145bae443",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874076091
+        }
+    ],
+    "wof:id":874076091,
+    "wof:lastmodified":1464311512,
+    "wof:name":"William Roush",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technician"
+    ]
+},
+  "bbox": [
+    -73.167206,
+    44.016377,
+    -73.167206,
+    44.016377
+],
+  "geometry": {"coordinates":[-73.16720599999999,44.016377],"type":"Point"}
+}

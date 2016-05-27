@@ -1,0 +1,66 @@
+{
+  "id": 874074103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.698446,44.13199,-72.698446,44.13199",
+    "geom:latitude":44.13199,
+    "geom:longitude":-72.698446,
+    "iso:country":"US",
+    "sg:address":"1230 Smith Hill Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 8467",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KKcUPGCtkWJfxlATMIDqR_44.131990_-72.698446@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311495,
+    "wof:geomhash":"ee2cbdbccd567d73d49f7e8f38033e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874074103
+        }
+    ],
+    "wof:id":874074103,
+    "wof:lastmodified":1464311495,
+    "wof:name":"Framing Edge",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.698446,
+    44.13199,
+    -72.698446,
+    44.13199
+],
+  "geometry": {"coordinates":[-72.698446,44.13199],"type":"Point"}
+}

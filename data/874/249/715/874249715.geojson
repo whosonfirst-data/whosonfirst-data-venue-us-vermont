@@ -1,0 +1,75 @@
+{
+  "id": 874249715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.975166,43.624249,-72.975166,43.624249",
+    "geom:latitude":43.624249,
+    "geom:longitude":-72.975166,
+    "iso:country":"US",
+    "sg:address":"219 N Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 1160",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "food",
+        "grooming",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FnH0BZMQGbCzJq9njaGKL_43.623952_-72.975221@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313558,
+    "wof:geomhash":"a9f5e4c1f58f828dc1f84e86291552d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874249715
+        }
+    ],
+    "wof:id":874249715,
+    "wof:lastmodified":1464313558,
+    "wof:name":"Feed-N-Seed Pet Food Outlet",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "grooming",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.975166,
+    43.624249,
+    -72.975166,
+    43.624249
+],
+  "geometry": {"coordinates":[-72.975166,43.624249],"type":"Point"}
+}

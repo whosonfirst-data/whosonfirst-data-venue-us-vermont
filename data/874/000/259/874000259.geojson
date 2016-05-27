@@ -1,0 +1,71 @@
+{
+  "id": 874000259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.587124,44.871102,-72.587124,44.871102",
+    "geom:latitude":44.871102,
+    "geom:longitude":-72.587124,
+    "iso:country":"US",
+    "sg:address":"1205 Hazens Notch Rd",
+    "sg:city":"Montgomery Center",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 326 4036",
+    "sg:postcode":"05471",
+    "sg:province":"VT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SJlnPeWHaN1m3Zkp5BJHa_44.871102_-72.587124@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310762,
+    "wof:geomhash":"41b7b11ccc23eda5a6837bbd25bd3ad7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874000259
+        }
+    ],
+    "wof:id":874000259,
+    "wof:lastmodified":1464310762,
+    "wof:name":"Middlebury Slate Co Inc",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.587124,
+    44.871102,
+    -72.587124,
+    44.871102
+],
+  "geometry": {"coordinates":[-72.587124,44.871102],"type":"Point"}
+}

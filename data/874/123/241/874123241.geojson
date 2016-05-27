@@ -1,0 +1,77 @@
+{
+  "id": 874123241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.493593,44.152593,-72.493593,44.152593",
+    "geom:latitude":44.152593,
+    "geom:longitude":-72.493593,
+    "iso:country":"US",
+    "sg:address":"234 Orchard Ter",
+    "sg:city":"Graniteville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3225",
+    "sg:postcode":"05654",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853237,
+        102191575,
+        404527421,
+        85633793,
+        101728527,
+        102080779,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gMh2BjWL9WzXpcD4FPGKZ_44.152593_-72.493593@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312070,
+    "wof:geomhash":"4f4cd8eff42a6d311c570d35815b259a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080779,
+            "localadmin_id":404527421,
+            "locality_id":101728527,
+            "neighbourhood_id":85853237,
+            "region_id":85688763,
+            "venue_id":874123241
+        }
+    ],
+    "wof:id":874123241,
+    "wof:lastmodified":1464312070,
+    "wof:name":"Brad Flowers Plumbing and Htg",
+    "wof:parent_id":85853237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.493593,
+    44.152593,
+    -72.493593,
+    44.152593
+],
+  "geometry": {"coordinates":[-72.493593,44.152593],"type":"Point"}
+}

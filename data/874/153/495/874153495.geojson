@@ -1,0 +1,75 @@
+{
+  "id": 874153495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.484193,44.184921,-72.484193,44.184921",
+    "geom:latitude":44.184921,
+    "geom:longitude":-72.484193,
+    "iso:country":"US",
+    "sg:address":"455 E Barre Rd",
+    "sg:city":"East Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5073",
+    "sg:postcode":"05649",
+    "sg:province":"VT",
+    "sg:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jmP5P1AGmPFSHMMNKYOgd_44.184921_-72.484193@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312360,
+    "wof:geomhash":"aefd50c91b0883444f95da16e689beae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874153495
+        }
+    ],
+    "wof:id":874153495,
+    "wof:lastmodified":1464312360,
+    "wof:name":"Mike's Boring & Coring",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.484193,
+    44.184921,
+    -72.484193,
+    44.184921
+],
+  "geometry": {"coordinates":[-72.484193,44.184921],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874148537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501582,44.196976,-72.501582,44.196976",
+    "geom:latitude":44.196976,
+    "geom:longitude":-72.501582,
+    "iso:country":"US",
+    "sg:address":"6 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 0245",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eZH0UM7QcD7C9rE2Kztk1_44.196976_-72.501582@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312315,
+    "wof:geomhash":"52b155297ea748e358ab30d4df66beaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874148537
+        }
+    ],
+    "wof:id":874148537,
+    "wof:lastmodified":1464312315,
+    "wof:name":"Barre City Zoning",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -72.501582,
+    44.196976,
+    -72.501582,
+    44.196976
+],
+  "geometry": {"coordinates":[-72.501582,44.196976],"type":"Point"}
+}

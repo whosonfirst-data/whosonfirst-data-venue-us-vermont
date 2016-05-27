@@ -1,0 +1,73 @@
+{
+  "id": 874148493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.483144,44.23327,-72.483144,44.23327",
+    "geom:latitude":44.23327,
+    "geom:longitude":-72.483144,
+    "iso:country":"US",
+    "sg:address":"120 Clark Rd",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9141",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OjIUNNnD5Ut73WNxBVKZL_44.233270_-72.483144@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312315,
+    "wof:geomhash":"0ee67dab8c4b7c50814121ce3c94c1f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874148493
+        }
+    ],
+    "wof:id":874148493,
+    "wof:lastmodified":1464312315,
+    "wof:name":"William Brassard",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.483144,
+    44.23327,
+    -72.483144,
+    44.23327
+],
+  "geometry": {"coordinates":[-72.483144,44.23327],"type":"Point"}
+}

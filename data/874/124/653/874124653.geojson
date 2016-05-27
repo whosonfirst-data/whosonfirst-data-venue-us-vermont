@@ -1,0 +1,74 @@
+{
+  "id": 874124653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21013,44.439082,-73.21013,44.439082",
+    "geom:latitude":44.439082,
+    "geom:longitude":-73.21013,
+    "iso:country":"US",
+    "sg:address":"1089 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 6600",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "new",
+        "used"
+    ],
+    "sg:website":"www.saturnvt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G2Tbzy29YRxrD8stujhPY_44.439082_-73.210130@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312082,
+    "wof:geomhash":"135a1f909b8e0fa5a1ecf2bd33333ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874124653
+        }
+    ],
+    "wof:id":874124653,
+    "wof:lastmodified":1464312082,
+    "wof:name":"Saturn",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "used"
+    ]
+},
+  "bbox": [
+    -73.21013,
+    44.439082,
+    -73.21013,
+    44.439082
+],
+  "geometry": {"coordinates":[-73.21013000000001,44.439082],"type":"Point"}
+}

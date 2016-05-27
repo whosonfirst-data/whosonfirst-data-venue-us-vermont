@@ -1,0 +1,71 @@
+{
+  "id": 874102821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.802862,44.911265,-72.802862,44.911265",
+    "geom:latitude":44.911265,
+    "geom:longitude":-72.802862,
+    "iso:country":"US",
+    "sg:address":"158 Main St",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 4316",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XYqDDM6yuGF7K88wwO5Th_44.911265_-72.802862@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311829,
+    "wof:geomhash":"51dcd093c565fe6390209e1a9c5237c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874102821
+        }
+    ],
+    "wof:id":874102821,
+    "wof:lastmodified":1464311829,
+    "wof:name":"A Brown Auto & Home Stores",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.802862,
+    44.911265,
+    -72.802862,
+    44.911265
+],
+  "geometry": {"coordinates":[-72.802862,44.911265],"type":"Point"}
+}

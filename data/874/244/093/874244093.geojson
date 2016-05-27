@@ -1,0 +1,71 @@
+{
+  "id": 874244093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.631219,43.827988,-72.631219,43.827988",
+    "geom:latitude":43.827988,
+    "geom:longitude":-72.631219,
+    "iso:country":"US",
+    "sg:address":"32 River St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 234 5134",
+    "sg:postcode":"05032",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00J421i1SoXb33VXLctWV1_43.827988_-72.631219@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313413,
+    "wof:geomhash":"c5c813ce044128880762de6d3e99d15c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874244093
+        }
+    ],
+    "wof:id":874244093,
+    "wof:lastmodified":1464313413,
+    "wof:name":"Northeast Storage Ctr",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -72.631219,
+    43.827988,
+    -72.631219,
+    43.827988
+],
+  "geometry": {"coordinates":[-72.631219,43.827988],"type":"Point"}
+}

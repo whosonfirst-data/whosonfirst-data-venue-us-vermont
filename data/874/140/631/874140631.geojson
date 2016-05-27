@@ -1,0 +1,73 @@
+{
+  "id": 874140631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.522661,44.213352,-72.522661,44.213352",
+    "geom:latitude":44.213352,
+    "geom:longitude":-72.522661,
+    "iso:country":"US",
+    "sg:address":"6 Packard St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9892",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qhjdic52BlaDn9ZiUch59_44.213352_-72.522661@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312240,
+    "wof:geomhash":"184441ca1bd4ea0a2209e6e3fd4aaa34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874140631
+        }
+    ],
+    "wof:id":874140631,
+    "wof:lastmodified":1464312240,
+    "wof:name":"Lawrence Edson Construction",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "house"
+    ]
+},
+  "bbox": [
+    -72.522661,
+    44.213352,
+    -72.522661,
+    44.213352
+],
+  "geometry": {"coordinates":[-72.522661,44.213352],"type":"Point"}
+}

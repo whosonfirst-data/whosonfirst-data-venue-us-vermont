@@ -1,0 +1,69 @@
+{
+  "id": 874211675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971518,43.604165,-72.971518,43.604165",
+    "geom:latitude":43.604165,
+    "geom:longitude":-72.971518,
+    "iso:country":"US",
+    "sg:address":"300 US Hwy 7",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3434",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rk107JWlirEmqKciGPols_43.604165_-72.971518@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312971,
+    "wof:geomhash":"055a452d1b33b231b46f98c3593f7119",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874211675
+        }
+    ],
+    "wof:id":874211675,
+    "wof:lastmodified":1464312971,
+    "wof:name":"Little Caesars Pizza",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.971518,
+    43.604165,
+    -72.971518,
+    43.604165
+],
+  "geometry": {"coordinates":[-72.971518,43.604165],"type":"Point"}
+}

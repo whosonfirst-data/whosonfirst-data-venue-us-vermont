@@ -1,0 +1,75 @@
+{
+  "id": 874008479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.046275,44.506705,-73.046275,44.506705",
+    "geom:latitude":44.506705,
+    "geom:longitude":-73.046275,
+    "iso:country":"US",
+    "sg:address":"82 Jericho Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 2475",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "planing",
+        "mill",
+        "mills",
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wrrhxIjX08rey3Wv5qKvx_44.506705_-73.046275@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310844,
+    "wof:geomhash":"82b72524e11f71ec10d95b802ce77a89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874008479
+        }
+    ],
+    "wof:id":874008479,
+    "wof:lastmodified":1464310844,
+    "wof:name":"Lamell Lumber Corp",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "planing",
+        "mill",
+        "mills",
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -73.046275,
+    44.506705,
+    -73.046275,
+    44.506705
+],
+  "geometry": {"coordinates":[-73.04627499999999,44.506705],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874245233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.553965,44.233264,-72.553965,44.233264",
+    "geom:latitude":44.233264,
+    "geom:longitude":-72.553965,
+    "iso:country":"US",
+    "sg:address":"1755 US Hwy 302",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 6262",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PLydPT7nr58ACTDQPL4GK_44.233264_-72.553965@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313438,
+    "wof:geomhash":"b0a97a5df1db31d19aaebd44cd72882e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874245233
+        }
+    ],
+    "wof:id":874245233,
+    "wof:lastmodified":1464313438,
+    "wof:name":"Demers' Auto Body Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.553965,
+    44.233264,
+    -72.553965,
+    44.233264
+],
+  "geometry": {"coordinates":[-72.55396500000001,44.233264],"type":"Point"}
+}

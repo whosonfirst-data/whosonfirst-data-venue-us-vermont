@@ -1,0 +1,75 @@
+{
+  "id": 874053201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.197842,44.480736,-73.197842,44.480736",
+    "geom:latitude":44.480736,
+    "geom:longitude":-73.197842,
+    "iso:country":"US",
+    "sg:address":"56 Colchester Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 2184",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "clinic",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MJKvNgIi1fANtpIOpuaXO_44.480736_-73.197842@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311270,
+    "wof:geomhash":"8fd425212a8054918b1a6e38c82f39a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874053201
+        }
+    ],
+    "wof:id":874053201,
+    "wof:lastmodified":1464311270,
+    "wof:name":"Care Net Prgnacy Ctr Brlington",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -73.197842,
+    44.480736,
+    -73.197842,
+    44.480736
+],
+  "geometry": {"coordinates":[-73.19784199999999,44.480736],"type":"Point"}
+}

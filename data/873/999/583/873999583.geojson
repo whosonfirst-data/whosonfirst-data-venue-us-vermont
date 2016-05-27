@@ -1,0 +1,69 @@
+{
+  "id": 873999583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.102378,44.332185,-72.102378,44.332185",
+    "geom:latitude":44.332185,
+    "geom:longitude":-72.102378,
+    "iso:country":"US",
+    "sg:address":"1062 Strobridge Hill",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 4434",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "sg:tags":[
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Pn95Nj31hrP4gHEXDHYrn_44.332185_-72.102378@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310758,
+    "wof:geomhash":"8584e9b82a60e16dca58fdaa812305db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":873999583
+        }
+    ],
+    "wof:id":873999583,
+    "wof:lastmodified":1464310758,
+    "wof:name":"Strobridge Hill Woodworks",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -72.102378,
+    44.332185,
+    -72.102378,
+    44.332185
+],
+  "geometry": {"coordinates":[-72.102378,44.332185],"type":"Point"}
+}

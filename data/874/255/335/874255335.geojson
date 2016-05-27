@@ -1,0 +1,78 @@
+{
+  "id": 874255335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.10358,44.447495,-73.10358,44.447495",
+    "geom:latitude":44.447495,
+    "geom:longitude":-73.10358,
+    "iso:country":"US",
+    "sg:address":"300 Cornerstone Dr # 315",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 9743",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "isp",
+        "provider",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o9xaVVtsMZPOOg3JuoL94_44.447495_-73.103580@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313682,
+    "wof:geomhash":"3af543ba293c216511ba3f5a1c958774",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874255335
+        }
+    ],
+    "wof:id":874255335,
+    "wof:lastmodified":1464313682,
+    "wof:name":"Unified Communications",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "isp",
+        "provider",
+        "internet"
+    ]
+},
+  "bbox": [
+    -73.10358,
+    44.447495,
+    -73.10358,
+    44.447495
+],
+  "geometry": {"coordinates":[-73.10357999999999,44.447495],"type":"Point"}
+}

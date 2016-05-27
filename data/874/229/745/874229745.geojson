@@ -1,0 +1,71 @@
+{
+  "id": 874229745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.986196,43.614855,-72.986196,43.614855",
+    "geom:latitude":43.614855,
+    "geom:longitude":-72.986196,
+    "iso:country":"US",
+    "sg:address":"133 Crescent St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 1147",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qU30kHrNMrVzQwa6uj8Ph_43.614855_-72.986196@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313158,
+    "wof:geomhash":"5a087a77093c1636448b648339b7b7ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874229745
+        }
+    ],
+    "wof:id":874229745,
+    "wof:lastmodified":1464313158,
+    "wof:name":"Perfect Trim",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.986196,
+    43.614855,
+    -72.986196,
+    43.614855
+],
+  "geometry": {"coordinates":[-72.98619600000001,43.614855],"type":"Point"}
+}

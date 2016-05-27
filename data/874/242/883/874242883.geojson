@@ -1,0 +1,73 @@
+{
+  "id": 874242883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.194471,44.654508,-73.194471,44.654508",
+    "geom:latitude":44.654508,
+    "geom:longitude":-73.194471,
+    "iso:country":"US",
+    "sg:address":"249 Cadreact Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 6302",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85854373,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dn9yx1ruX1WoXKeL8YCZR_44.654508_-73.194471@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313392,
+    "wof:geomhash":"8e71c365628e39d4dfc1d6090c0ec32c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85854373,
+            "region_id":85688763,
+            "venue_id":874242883
+        }
+    ],
+    "wof:id":874242883,
+    "wof:lastmodified":1464313392,
+    "wof:name":"David Cadreact",
+    "wof:parent_id":85854373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -73.194471,
+    44.654508,
+    -73.194471,
+    44.654508
+],
+  "geometry": {"coordinates":[-73.19447099999999,44.654508],"type":"Point"}
+}

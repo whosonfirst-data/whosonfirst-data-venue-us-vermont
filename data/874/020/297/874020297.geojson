@@ -1,0 +1,71 @@
+{
+  "id": 874020297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.828533,44.6562,-72.828533,44.6562",
+    "geom:latitude":44.6562,
+    "geom:longitude":-72.828533,
+    "iso:country":"US",
+    "sg:address":"995 State Rte 108",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2725",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nKXM3MRHaLNsFAAeIYjCe_44.656200_-72.828533@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310951,
+    "wof:geomhash":"325afb72d24e931076a14aa369200b0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874020297
+        }
+    ],
+    "wof:id":874020297,
+    "wof:lastmodified":1464310951,
+    "wof:name":"Highlander At Notch Glen",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.828533,
+    44.6562,
+    -72.828533,
+    44.6562
+],
+  "geometry": {"coordinates":[-72.82853299999999,44.6562],"type":"Point"}
+}

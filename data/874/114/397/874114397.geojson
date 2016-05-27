@@ -1,0 +1,73 @@
+{
+  "id": 874114397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.595107,44.239791,-72.595107,44.239791",
+    "geom:latitude":44.239791,
+    "geom:longitude":-72.595107,
+    "iso:country":"US",
+    "sg:address":"6450 Northfield St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 2401",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gWW8rgvh66ii9GCjQsiOW_44.239791_-72.595107@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311981,
+    "wof:geomhash":"a124550ef8b33adc99da1632a6d51600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874114397
+        }
+    ],
+    "wof:id":874114397,
+    "wof:lastmodified":1464311981,
+    "wof:name":"Auto Union",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.595107,
+    44.239791,
+    -72.595107,
+    44.239791
+],
+  "geometry": {"coordinates":[-72.595107,44.239791],"type":"Point"}
+}

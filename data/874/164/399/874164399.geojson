@@ -1,0 +1,71 @@
+{
+  "id": 874164399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.499113,44.200599,-72.499113,44.200599",
+    "geom:latitude":44.200599,
+    "geom:longitude":-72.499113,
+    "iso:country":"US",
+    "sg:address":"48 Franklin St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5699",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZDfOGoAtqZuEzgSf8mbbp_44.200599_-72.499113@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312472,
+    "wof:geomhash":"e4f9f9e74874dfdbe707c796a1a99262",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874164399
+        }
+    ],
+    "wof:id":874164399,
+    "wof:lastmodified":1464312472,
+    "wof:name":"Sans Souci Studios",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.499113,
+    44.200599,
+    -72.499113,
+    44.200599
+],
+  "geometry": {"coordinates":[-72.49911299999999,44.200599],"type":"Point"}
+}

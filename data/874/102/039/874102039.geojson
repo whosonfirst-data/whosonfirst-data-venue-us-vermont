@@ -1,0 +1,71 @@
+{
+  "id": 874102039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.979899,43.611907,-72.979899,43.611907",
+    "geom:latitude":43.611907,
+    "geom:longitude":-72.979899,
+    "iso:country":"US",
+    "sg:address":"57 Chestnut Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4000",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OgefkdaTU4ZcscXMfLR63_43.611907_-72.979899@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311818,
+    "wof:geomhash":"4521d86e0e8a0b15f27c236082f13f07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874102039
+        }
+    ],
+    "wof:id":874102039,
+    "wof:lastmodified":1464311818,
+    "wof:name":"Thomas Mc Cormick MD",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.979899,
+    43.611907,
+    -72.979899,
+    43.611907
+],
+  "geometry": {"coordinates":[-72.979899,43.611907],"type":"Point"}
+}

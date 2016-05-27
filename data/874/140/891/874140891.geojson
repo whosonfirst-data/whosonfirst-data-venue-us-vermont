@@ -1,0 +1,71 @@
+{
+  "id": 874140891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088601,43.799228,-73.088601,43.799228",
+    "geom:latitude":43.799228,
+    "geom:longitude":-73.088601,
+    "iso:country":"US",
+    "sg:address":"7 Center St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 4956",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62B9c5X0KxLvD1xV5pxBod_43.799228_-73.088601@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312242,
+    "wof:geomhash":"4d79eafaa9bb2789cfba5f9712593b1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874140891
+        }
+    ],
+    "wof:id":874140891,
+    "wof:lastmodified":1464312242,
+    "wof:name":"Brandon Artists Guild",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gallery"
+    ]
+},
+  "bbox": [
+    -73.088601,
+    43.799228,
+    -73.088601,
+    43.799228
+],
+  "geometry": {"coordinates":[-73.088601,43.799228],"type":"Point"}
+}

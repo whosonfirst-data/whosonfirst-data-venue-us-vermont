@@ -1,0 +1,69 @@
+{
+  "id": 874023231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.598938,44.560608,-72.598938,44.560608",
+    "geom:latitude":44.560608,
+    "geom:longitude":-72.598938,
+    "iso:country":"US",
+    "sg:address":"241 Union St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 2230",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0okVBqfEYvbmebbELgCAYZ_44.560608_-72.598938@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310975,
+    "wof:geomhash":"4c1be8d3a5ad630c4cd88479cc7463ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874023231
+        }
+    ],
+    "wof:id":874023231,
+    "wof:lastmodified":1464310975,
+    "wof:name":"Morses Dairy Inc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -72.598938,
+    44.560608,
+    -72.598938,
+    44.560608
+],
+  "geometry": {"coordinates":[-72.598938,44.560608],"type":"Point"}
+}

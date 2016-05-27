@@ -1,0 +1,69 @@
+{
+  "id": 874055821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.978628,43.605267,-72.978628,43.605267",
+    "geom:latitude":43.605267,
+    "geom:longitude":-72.978628,
+    "iso:country":"US",
+    "sg:address":"5 Strongs Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 6988",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kePmuJeQNJGNv48SZQFZr_43.605267_-72.978628@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311299,
+    "wof:geomhash":"639971b7c0337b25d9d37ec42bcf3064",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874055821
+        }
+    ],
+    "wof:id":874055821,
+    "wof:lastmodified":1464311299,
+    "wof:name":"Modern Cleaners",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -72.978628,
+    43.605267,
+    -72.978628,
+    43.605267
+],
+  "geometry": {"coordinates":[-72.978628,43.605267],"type":"Point"}
+}

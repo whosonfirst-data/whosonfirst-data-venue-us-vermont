@@ -1,0 +1,71 @@
+{
+  "id": 874204775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.630434,43.0843,-72.630434,43.0843",
+    "geom:latitude":43.0843,
+    "geom:longitude":-72.630434,
+    "iso:country":"US",
+    "sg:address":"565 Deer Valley Rd",
+    "sg:city":"Townshend",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 7532",
+    "sg:postcode":"05353",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BKlqMCB2RAfV1DuSAHbS9_43.084300_-72.630434@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312892,
+    "wof:geomhash":"0fc6ce29e07e3101fb1765479ee70a4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874204775
+        }
+    ],
+    "wof:id":874204775,
+    "wof:lastmodified":1464312892,
+    "wof:name":"Deer Valley Canoe",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -72.630434,
+    43.0843,
+    -72.630434,
+    43.0843
+],
+  "geometry": {"coordinates":[-72.63043399999999,43.0843],"type":"Point"}
+}

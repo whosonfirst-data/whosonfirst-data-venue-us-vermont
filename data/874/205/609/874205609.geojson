@@ -1,0 +1,73 @@
+{
+  "id": 874205609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.136892,44.713608,-73.136892,44.713608",
+    "geom:latitude":44.713608,
+    "geom:longitude":-73.136892,
+    "iso:country":"US",
+    "sg:address":"857 Sodom Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 527 8182",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lvxHu4bxUpf84apL4uUtt_44.713608_-73.136892@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312900,
+    "wof:geomhash":"fcc6ab8c7039a4430ccfcbd1ac2502ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874205609
+        }
+    ],
+    "wof:id":874205609,
+    "wof:lastmodified":1464312900,
+    "wof:name":"Kings Mechanical",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.136892,
+    44.713608,
+    -73.136892,
+    44.713608
+],
+  "geometry": {"coordinates":[-73.136892,44.713608],"type":"Point"}
+}

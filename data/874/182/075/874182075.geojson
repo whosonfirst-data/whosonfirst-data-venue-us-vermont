@@ -1,0 +1,71 @@
+{
+  "id": 874182075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.59423,43.724065,-72.59423,43.724065",
+    "geom:latitude":43.724065,
+    "geom:longitude":-72.59423,
+    "iso:country":"US",
+    "sg:address":"89 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 7761",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gOLMqCH87GZakorGvoXkO_43.724065_-72.594230@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312651,
+    "wof:geomhash":"55fa09965cbeccdf214008908e9c1256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874182075
+        }
+    ],
+    "wof:id":874182075,
+    "wof:lastmodified":1464312651,
+    "wof:name":"Herb Crawford's Garage",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.59423,
+    43.724065,
+    -72.59423,
+    43.724065
+],
+  "geometry": {"coordinates":[-72.59423,43.724065],"type":"Point"}
+}

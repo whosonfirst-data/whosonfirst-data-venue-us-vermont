@@ -1,0 +1,71 @@
+{
+  "id": 874053825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.144804,44.024199,-73.144804,44.024199",
+    "geom:latitude":44.024199,
+    "geom:longitude":-73.144804,
+    "iso:country":"US",
+    "sg:address":"318 Painter Hills Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 6116",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "taping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rXDNVt6xS4zPcfGySxDAm_44.024199_-73.144804@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311276,
+    "wof:geomhash":"470d60c0868a11dcc22cbe1dbb75935a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874053825
+        }
+    ],
+    "wof:id":874053825,
+    "wof:lastmodified":1464311276,
+    "wof:name":"A Plus Videotec Svc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taping"
+    ]
+},
+  "bbox": [
+    -73.144804,
+    44.024199,
+    -73.144804,
+    44.024199
+],
+  "geometry": {"coordinates":[-73.14480399999999,44.024199],"type":"Point"}
+}

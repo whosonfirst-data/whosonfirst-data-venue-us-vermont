@@ -1,0 +1,71 @@
+{
+  "id": 874136039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50335,42.99161,-72.50335,42.99161",
+    "geom:latitude":42.99161,
+    "geom:longitude":-72.50335,
+    "iso:country":"US",
+    "sg:address":"47 E Town Farm Rd",
+    "sg:city":"Putney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 387 5400",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K1uihtGRvXAp1JY0I8HqS_42.991610_-72.503350@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312200,
+    "wof:geomhash":"f6e3f16db51ad9e6adcb10a49e8beafa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874136039
+        }
+    ],
+    "wof:id":874136039,
+    "wof:lastmodified":1464312200,
+    "wof:name":"Kennett & Sons Towing LLC",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.50335,
+    42.99161,
+    -72.50335,
+    42.99161
+],
+  "geometry": {"coordinates":[-72.50335,42.99161],"type":"Point"}
+}

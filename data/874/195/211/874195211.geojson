@@ -1,0 +1,71 @@
+{
+  "id": 874195211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.500698,44.199318,-72.500698,44.199318",
+    "geom:latitude":44.199318,
+    "geom:longitude":-72.500698,
+    "iso:country":"US",
+    "sg:address":"23 Summer St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 4051",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WIghs7F8ClzcBdwBqL9oH_44.199318_-72.500698@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312796,
+    "wof:geomhash":"ff09e569c4fe3c27a635fd7f8e423b08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874195211
+        }
+    ],
+    "wof:id":874195211,
+    "wof:lastmodified":1464312796,
+    "wof:name":"Washington County Mental Hlth",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -72.500698,
+    44.199318,
+    -72.500698,
+    44.199318
+],
+  "geometry": {"coordinates":[-72.500698,44.199318],"type":"Point"}
+}

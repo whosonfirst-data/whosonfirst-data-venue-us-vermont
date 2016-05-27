@@ -1,0 +1,71 @@
+{
+  "id": 874108623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.178121,44.449098,-73.178121,44.449098",
+    "geom:latitude":44.449098,
+    "geom:longitude":-73.178121,
+    "iso:country":"US",
+    "sg:address":"909 Dorset St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 8917",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WJX8AFYwO4wUc6fdTQCc0_44.449098_-73.178121@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311900,
+    "wof:geomhash":"59bb521e05b2afe73509c3ad5fe801e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874108623
+        }
+    ],
+    "wof:id":874108623,
+    "wof:lastmodified":1464311900,
+    "wof:name":"William A Robenstein",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -73.178121,
+    44.449098,
+    -73.178121,
+    44.449098
+],
+  "geometry": {"coordinates":[-73.178121,44.449098],"type":"Point"}
+}

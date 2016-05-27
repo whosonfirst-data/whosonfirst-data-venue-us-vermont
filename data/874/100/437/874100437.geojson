@@ -1,0 +1,71 @@
+{
+  "id": 874100437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501987,44.198545,-72.501987,44.198545",
+    "geom:latitude":44.198545,
+    "geom:longitude":-72.501987,
+    "iso:country":"US",
+    "sg:address":"10 Keith Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 5664",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YtLzpF4gtT6RvnOk1fDt4_44.198545_-72.501987@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311801,
+    "wof:geomhash":"5965ace61e6423c14a7bf30571d7456f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874100437
+        }
+    ],
+    "wof:id":874100437,
+    "wof:lastmodified":1464311801,
+    "wof:name":"Danny's Pub Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -72.501987,
+    44.198545,
+    -72.501987,
+    44.198545
+],
+  "geometry": {"coordinates":[-72.501987,44.198545],"type":"Point"}
+}

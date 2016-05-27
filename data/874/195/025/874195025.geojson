@@ -1,0 +1,73 @@
+{
+  "id": 874195025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169026,44.018446,-73.169026,44.018446",
+    "geom:latitude":44.018446,
+    "geom:longitude":-73.169026,
+    "iso:country":"US",
+    "sg:address":"1 Elm St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 9014",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YfNG0MNY4Te1Os1k4zvfG_44.018446_-73.169026@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312794,
+    "wof:geomhash":"0082b9deeec5c40cdaa17c74dc8d3faf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874195025
+        }
+    ],
+    "wof:id":874195025,
+    "wof:lastmodified":1464312794,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -73.169026,
+    44.018446,
+    -73.169026,
+    44.018446
+],
+  "geometry": {"coordinates":[-73.169026,44.018446],"type":"Point"}
+}

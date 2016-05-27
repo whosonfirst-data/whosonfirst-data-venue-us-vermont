@@ -1,0 +1,78 @@
+{
+  "id": 874216001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.16873,44.001317,-73.16873,44.001317",
+    "geom:latitude":44.001317,
+    "geom:longitude":-73.16873,
+    "iso:country":"US",
+    "sg:address":"44 Collins Dr",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 1500",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "nurse",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TfK2HsQc7kzBY0s9p3Waj_44.001317_-73.168730@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313013,
+    "wof:geomhash":"fe9a27ddda69026fb41fd71454d76d4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874216001
+        }
+    ],
+    "wof:id":874216001,
+    "wof:lastmodified":1464313013,
+    "wof:name":"Middlebury Family Health PC",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.16873,
+    44.001317,
+    -73.16873,
+    44.001317
+],
+  "geometry": {"coordinates":[-73.16873,44.001317],"type":"Point"}
+}

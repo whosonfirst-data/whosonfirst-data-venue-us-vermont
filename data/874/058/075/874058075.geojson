@@ -1,0 +1,75 @@
+{
+  "id": 874058075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.965525,43.614779,-72.965525,43.614779",
+    "geom:latitude":43.614779,
+    "geom:longitude":-72.965525,
+    "iso:country":"US",
+    "sg:address":"5 Tremont St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2926",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "development",
+        "project",
+        "housing",
+        "administration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FXfc1jh6ekH6HlNcyTsho_43.614779_-72.965525@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311318,
+    "wof:geomhash":"66474fc81a56de4970654967adbdfe85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874058075
+        }
+    ],
+    "wof:id":874058075,
+    "wof:lastmodified":1464311318,
+    "wof:name":"Sheldon Towers",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "project",
+        "housing",
+        "administration"
+    ]
+},
+  "bbox": [
+    -72.965525,
+    43.614779,
+    -72.965525,
+    43.614779
+],
+  "geometry": {"coordinates":[-72.965525,43.614779],"type":"Point"}
+}

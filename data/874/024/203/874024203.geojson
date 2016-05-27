@@ -1,0 +1,69 @@
+{
+  "id": 874024203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.1109,44.455418,-73.1109,44.455418",
+    "geom:latitude":44.455418,
+    "geom:longitude":-73.1109,
+    "iso:country":"US",
+    "sg:address":"71 Knight Ln",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 7001",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L8sxj9KAeSHuN1SAGudiJ_44.455418_-73.110900@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310985,
+    "wof:geomhash":"067a33426892c9a8f62a12bf762a0b03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874024203
+        }
+    ],
+    "wof:id":874024203,
+    "wof:lastmodified":1464310985,
+    "wof:name":"Vermont Urogynocology Assoc",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -73.1109,
+    44.455418,
+    -73.1109,
+    44.455418
+],
+  "geometry": {"coordinates":[-73.1109,44.455418],"type":"Point"}
+}

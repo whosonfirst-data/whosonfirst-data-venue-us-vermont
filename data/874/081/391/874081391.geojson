@@ -1,0 +1,69 @@
+{
+  "id": 874081391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.644567,43.869684,-72.644567,43.869684",
+    "geom:latitude":43.869684,
+    "geom:longitude":-72.644567,
+    "iso:country":"US",
+    "sg:address":"3190 Pleasant St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 234 6800",
+    "sg:postcode":"05032",
+    "sg:province":"VT",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ber6J8539jglXmM2c6Agd_43.869684_-72.644567@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311568,
+    "wof:geomhash":"ccfdb9be757e6725bc73a67cf554e495",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874081391
+        }
+    ],
+    "wof:id":874081391,
+    "wof:lastmodified":1464311568,
+    "wof:name":"White River Valley Ambulance",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -72.644567,
+    43.869684,
+    -72.644567,
+    43.869684
+],
+  "geometry": {"coordinates":[-72.644567,43.869684],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874029453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.198945,44.547146,-73.198945,44.547146",
+    "geom:latitude":44.547146,
+    "geom:longitude":-73.198945,
+    "iso:country":"US",
+    "sg:address":"5 Bayview Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 2179",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rRJxgeIh4OugiBguqVJYb_44.547146_-73.198945@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311043,
+    "wof:geomhash":"78bfeaea1e9d675fa38aa8258f46a167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874029453
+        }
+    ],
+    "wof:id":874029453,
+    "wof:lastmodified":1464311043,
+    "wof:name":"Chase Plumbing & Heating",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.198945,
+    44.547146,
+    -73.198945,
+    44.547146
+],
+  "geometry": {"coordinates":[-73.19894499999999,44.547146],"type":"Point"}
+}

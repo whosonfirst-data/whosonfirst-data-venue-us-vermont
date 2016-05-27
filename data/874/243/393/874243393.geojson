@@ -1,0 +1,73 @@
+{
+  "id": 874243393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.513032,44.20714,-72.513032,44.20714",
+    "geom:latitude":44.20714,
+    "geom:longitude":-72.513032,
+    "iso:country":"US",
+    "sg:address":"17 W 2nd St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5591",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TWpS8SUZUhP1Lj0fTyPro_44.207140_-72.513032@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313401,
+    "wof:geomhash":"745c9b7981536a3e82a4383efcb358b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874243393
+        }
+    ],
+    "wof:id":874243393,
+    "wof:lastmodified":1464313401,
+    "wof:name":"Hutchins Roofing Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.513032,
+    44.20714,
+    -72.513032,
+    44.20714
+],
+  "geometry": {"coordinates":[-72.513032,44.20714],"type":"Point"}
+}

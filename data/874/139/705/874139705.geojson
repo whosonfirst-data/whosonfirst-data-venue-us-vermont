@@ -1,0 +1,73 @@
+{
+  "id": 874139705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.507055,44.19884,-72.507055,44.19884",
+    "geom:latitude":44.19884,
+    "geom:longitude":-72.507055,
+    "iso:country":"US",
+    "sg:address":"58 Granite St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5830",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "granite",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QFGxKS7HnO8n76DUPS72L_44.198840_-72.507055@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312232,
+    "wof:geomhash":"3f6ed1445688cdc1289e91c7d335e3ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874139705
+        }
+    ],
+    "wof:id":874139705,
+    "wof:lastmodified":1464312232,
+    "wof:name":"Pepin Granite Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "granite",
+        "product"
+    ]
+},
+  "bbox": [
+    -72.507055,
+    44.19884,
+    -72.507055,
+    44.19884
+],
+  "geometry": {"coordinates":[-72.50705499999999,44.19884],"type":"Point"}
+}

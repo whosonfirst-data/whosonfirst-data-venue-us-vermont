@@ -1,0 +1,73 @@
+{
+  "id": 874006129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.170489,44.026123,-73.170489,44.026123",
+    "geom:latitude":44.026123,
+    "geom:longitude":-73.170489,
+    "iso:country":"US",
+    "sg:address":"111 Exchange St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4567",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ip2OFSumEuREoIawmtU3V_44.026123_-73.170489@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310826,
+    "wof:geomhash":"f58bb5e55bd083a9e6616c3b9d4de1c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874006129
+        }
+    ],
+    "wof:id":874006129,
+    "wof:lastmodified":1464310826,
+    "wof:name":"Questech Corporation",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.170489,
+    44.026123,
+    -73.170489,
+    44.026123
+],
+  "geometry": {"coordinates":[-73.170489,44.026123],"type":"Point"}
+}

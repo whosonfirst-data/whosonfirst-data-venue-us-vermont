@@ -1,0 +1,71 @@
+{
+  "id": 874244527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.247594,44.171105,-73.247594,44.171105",
+    "geom:latitude":44.171105,
+    "geom:longitude":-73.247594,
+    "iso:country":"US",
+    "sg:address":"25 Monkton Rd",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3143",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07ueCS7J3DieEDxiL9qy5q_44.171105_-73.247594@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313426,
+    "wof:geomhash":"ea46f348d9e1523480867134a1352d1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874244527
+        }
+    ],
+    "wof:id":874244527,
+    "wof:lastmodified":1464313426,
+    "wof:name":"Merchant's Bank",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -73.247594,
+    44.171105,
+    -73.247594,
+    44.171105
+],
+  "geometry": {"coordinates":[-73.24759400000001,44.171105],"type":"Point"}
+}

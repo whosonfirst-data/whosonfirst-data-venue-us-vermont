@@ -1,0 +1,71 @@
+{
+  "id": 874042053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111841,44.495752,-73.111841,44.495752",
+    "geom:latitude":44.495752,
+    "geom:longitude":-73.111841,
+    "iso:country":"US",
+    "sg:address":"37 Lincoln St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 1595",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qY6h2kVJWVoXk70G1Ecku_44.495752_-73.111841@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311166,
+    "wof:geomhash":"ce73ea5c900c09e65b45893c28958cdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874042053
+        }
+    ],
+    "wof:id":874042053,
+    "wof:lastmodified":1464311166,
+    "wof:name":"Workers In Wood",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -73.111841,
+    44.495752,
+    -73.111841,
+    44.495752
+],
+  "geometry": {"coordinates":[-73.111841,44.495752],"type":"Point"}
+}

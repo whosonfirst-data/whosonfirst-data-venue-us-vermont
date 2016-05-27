@@ -1,0 +1,71 @@
+{
+  "id": 874172863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.013713,44.464637,-72.013713,44.464637",
+    "geom:latitude":44.464637,
+    "geom:longitude":-72.013713,
+    "iso:country":"US",
+    "sg:address":"12 1st St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3877",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zt8cY7KZpzZfsvta2W5lj_44.464637_-72.013713@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312557,
+    "wof:geomhash":"c006768aed7373ed12840ab5be58d75f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874172863
+        }
+    ],
+    "wof:id":874172863,
+    "wof:lastmodified":1464312557,
+    "wof:name":"Murphy Electric Svc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.013713,
+    44.464637,
+    -72.013713,
+    44.464637
+],
+  "geometry": {"coordinates":[-72.013713,44.464637],"type":"Point"}
+}

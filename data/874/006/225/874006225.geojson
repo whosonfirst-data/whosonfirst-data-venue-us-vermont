@@ -1,0 +1,73 @@
+{
+  "id": 874006225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.496164,44.192692,-72.496164,44.192692",
+    "geom:latitude":44.192692,
+    "geom:longitude":-72.496164,
+    "iso:country":"US",
+    "sg:address":"41 Liberty St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2166",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "reporting",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39ABMrZXHUpBF03ihti2fa_44.192692_-72.496164@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310827,
+    "wof:geomhash":"ae05ff05f19436c72739951bcf8dab0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874006225
+        }
+    ],
+    "wof:id":874006225,
+    "wof:lastmodified":1464310827,
+    "wof:name":"Liberty Business Svc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting",
+        "court"
+    ]
+},
+  "bbox": [
+    -72.496164,
+    44.192692,
+    -72.496164,
+    44.192692
+],
+  "geometry": {"coordinates":[-72.49616399999999,44.192692],"type":"Point"}
+}

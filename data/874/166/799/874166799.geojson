@@ -1,0 +1,73 @@
+{
+  "id": 874166799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.221535,44.483332,-73.221535,44.483332",
+    "geom:latitude":44.483332,
+    "geom:longitude":-73.221535,
+    "iso:country":"US",
+    "sg:address":"38 North Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 0774",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38INr2MAiTM6i9RY99dZYE_44.483332_-73.221535@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312496,
+    "wof:geomhash":"a472cfcabbcfd0c0343a4b72c916cdd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874166799
+        }
+    ],
+    "wof:id":874166799,
+    "wof:lastmodified":1464312496,
+    "wof:name":"JFS Electric",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.221535,
+    44.483332,
+    -73.221535,
+    44.483332
+],
+  "geometry": {"coordinates":[-73.221535,44.483332],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874020077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.057571,44.510528,-73.057571,44.510528",
+    "geom:latitude":44.510528,
+    "geom:longitude":-73.057571,
+    "iso:country":"US",
+    "sg:address":"8 Jericho Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 9114",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vxx0T56Is4PLwXoVGLoi5_44.510528_-73.057571@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310949,
+    "wof:geomhash":"b45aa88feeb0dd79cf074cde7b5f3dbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874020077
+        }
+    ],
+    "wof:id":874020077,
+    "wof:lastmodified":1464310949,
+    "wof:name":"Green Mountain Montessori Schl",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -73.057571,
+    44.510528,
+    -73.057571,
+    44.510528
+],
+  "geometry": {"coordinates":[-73.057571,44.510528],"type":"Point"}
+}

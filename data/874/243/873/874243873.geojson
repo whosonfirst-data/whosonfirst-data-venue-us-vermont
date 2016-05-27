@@ -1,0 +1,69 @@
+{
+  "id": 874243873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.631906,44.499198,-72.631906,44.499198",
+    "geom:latitude":44.499198,
+    "geom:longitude":-72.631906,
+    "iso:country":"US",
+    "sg:address":"4904 Laporte Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 9412",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m5LW1TqA798fSJpUu4vyV_44.499198_-72.631906@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313410,
+    "wof:geomhash":"9d1e9b3b97d6e070ef8e7bd9774c899c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874243873
+        }
+    ],
+    "wof:id":874243873,
+    "wof:lastmodified":1464313410,
+    "wof:name":"Mansfield Media Partners",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -72.631906,
+    44.499198,
+    -72.631906,
+    44.499198
+],
+  "geometry": {"coordinates":[-72.631906,44.499198],"type":"Point"}
+}

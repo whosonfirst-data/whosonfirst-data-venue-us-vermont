@@ -1,0 +1,73 @@
+{
+  "id": 874242523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.42101,43.643606,-72.42101,43.643606",
+    "geom:latitude":43.643606,
+    "geom:longitude":-72.42101,
+    "iso:country":"US",
+    "sg:address":"5573 Woodstock Rd",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 6852",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18DTfxGNNI2AguKF9TfIan_43.643606_-72.421010@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313386,
+    "wof:geomhash":"2210c055d89b7c21129b72abce3739cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874242523
+        }
+    ],
+    "wof:id":874242523,
+    "wof:lastmodified":1464313386,
+    "wof:name":"Quechee Chamber Of Commerce",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -72.42101,
+    43.643606,
+    -72.42101,
+    43.643606
+],
+  "geometry": {"coordinates":[-72.42101,43.643606],"type":"Point"}
+}

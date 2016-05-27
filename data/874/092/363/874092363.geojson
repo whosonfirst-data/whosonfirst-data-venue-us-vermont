@@ -1,0 +1,71 @@
+{
+  "id": 874092363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.207621,44.481142,-73.207621,44.481142",
+    "geom:latitude":44.481142,
+    "geom:longitude":-73.207621,
+    "iso:country":"US",
+    "sg:address":"15 Green St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 5434",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "food"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04e21r8zWUwfBPe0kynDA9_44.481142_-73.207621@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311689,
+    "wof:geomhash":"c1bb42bb1e6f54c20d2159e0bfa49ce8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874092363
+        }
+    ],
+    "wof:id":874092363,
+    "wof:lastmodified":1464311689,
+    "wof:name":"Nco Kitchens Vermont Nat Guard",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food"
+    ]
+},
+  "bbox": [
+    -73.207621,
+    44.481142,
+    -73.207621,
+    44.481142
+],
+  "geometry": {"coordinates":[-73.207621,44.481142],"type":"Point"}
+}

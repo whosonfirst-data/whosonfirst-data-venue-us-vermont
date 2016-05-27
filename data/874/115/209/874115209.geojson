@@ -1,0 +1,69 @@
+{
+  "id": 874115209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.645172,43.382032,-72.645172,43.382032",
+    "geom:latitude":43.382032,
+    "geom:longitude":-72.645172,
+    "iso:country":"US",
+    "sg:address":"393 Main St",
+    "sg:city":"Proctorsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 226 8004",
+    "sg:postcode":"05153",
+    "sg:province":"VT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s1OubkXmS8OqcbBnqvjV0_43.382032_-72.645172@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311989,
+    "wof:geomhash":"bf924003f831ac57022bba2fb644d917",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874115209
+        }
+    ],
+    "wof:id":874115209,
+    "wof:lastmodified":1464311989,
+    "wof:name":"Sargent's Painting & Contr",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -72.645172,
+    43.382032,
+    -72.645172,
+    43.382032
+],
+  "geometry": {"coordinates":[-72.645172,43.382032],"type":"Point"}
+}

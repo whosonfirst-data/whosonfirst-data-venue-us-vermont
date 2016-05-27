@@ -1,0 +1,71 @@
+{
+  "id": 874131137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.171032,44.451209,-73.171032,44.451209",
+    "geom:latitude":44.451209,
+    "geom:longitude":-73.171032,
+    "iso:country":"US",
+    "sg:address":"200 Twin Oaks Ter",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 5333",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RcXsaqAztv4xRhfBaITrx_44.451209_-73.171032@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312151,
+    "wof:geomhash":"f4334c9f9400fc76e91022caa84d480c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874131137
+        }
+    ],
+    "wof:id":874131137,
+    "wof:lastmodified":1464312151,
+    "wof:name":"Voice Trax",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -73.171032,
+    44.451209,
+    -73.171032,
+    44.451209
+],
+  "geometry": {"coordinates":[-73.171032,44.451209],"type":"Point"}
+}

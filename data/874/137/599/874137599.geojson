@@ -1,0 +1,73 @@
+{
+  "id": 874137599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.092896,44.369727,-73.092896,44.369727",
+    "geom:latitude":44.369727,
+    "geom:longitude":-73.092896,
+    "iso:country":"US",
+    "sg:address":"460 Mount Pritchard Ln",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 5600",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4goFk2RmmU5Bdy3vRtIwOd_44.369727_-73.092896@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312214,
+    "wof:geomhash":"a914471151fb354781ae743fe0cd0699",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874137599
+        }
+    ],
+    "wof:id":874137599,
+    "wof:lastmodified":1464312214,
+    "wof:name":"Lynn's Dog Grooming",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -73.092896,
+    44.369727,
+    -73.092896,
+    44.369727
+],
+  "geometry": {"coordinates":[-73.092896,44.369727],"type":"Point"}
+}

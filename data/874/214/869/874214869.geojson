@@ -1,0 +1,69 @@
+{
+  "id": 874214869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.655723,42.983529,-72.655723,42.983529",
+    "geom:latitude":42.983529,
+    "geom:longitude":-72.655723,
+    "iso:country":"US",
+    "sg:address":"555 State Rte 30",
+    "sg:city":"Newfane",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 7772",
+    "sg:postcode":"05345",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e8tyMSHDOtXpDaaP3XZOE_42.983529_-72.655723@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313003,
+    "wof:geomhash":"35c4dde1d01df8ee971c85e9c3df44aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874214869
+        }
+    ],
+    "wof:id":874214869,
+    "wof:lastmodified":1464313003,
+    "wof:name":"Town Clerk",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -72.655723,
+    42.983529,
+    -72.655723,
+    42.983529
+],
+  "geometry": {"coordinates":[-72.65572299999999,42.983529],"type":"Point"}
+}

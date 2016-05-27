@@ -1,0 +1,71 @@
+{
+  "id": 874127995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.60203,42.855844,-72.60203,42.855844",
+    "geom:latitude":42.855844,
+    "geom:longitude":-72.60203,
+    "iso:country":"US",
+    "sg:address":"412 Western Ave",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 9336",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OGnQxPNHjSzWWcueIgIhw_42.855844_-72.602030@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312111,
+    "wof:geomhash":"651cc65165bb82b1e273b09ad4ef0ff7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874127995
+        }
+    ],
+    "wof:id":874127995,
+    "wof:lastmodified":1464312111,
+    "wof:name":"Greenleaf Properties",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.60203,
+    42.855844,
+    -72.60203,
+    42.855844
+],
+  "geometry": {"coordinates":[-72.60203,42.855844],"type":"Point"}
+}

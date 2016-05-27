@@ -1,0 +1,71 @@
+{
+  "id": 874158099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.688419,44.467817,-72.688419,44.467817",
+    "geom:latitude":44.467817,
+    "geom:longitude":-72.688419,
+    "iso:country":"US",
+    "sg:address":"108 Mountain Rd",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 244 8659",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52RBgkaAhWBKnAs8gok4Zp_44.467817_-72.688419@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312409,
+    "wof:geomhash":"0e05385f7f075f9a3c6bdfd153c661de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874158099
+        }
+    ],
+    "wof:id":874158099,
+    "wof:lastmodified":1464312409,
+    "wof:name":"Central Vermont Drywall",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.688419,
+    44.467817,
+    -72.688419,
+    44.467817
+],
+  "geometry": {"coordinates":[-72.688419,44.467817],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874245535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.500357,44.184514,-72.500357,44.184514",
+    "geom:latitude":44.184514,
+    "geom:longitude":-72.500357,
+    "iso:country":"US",
+    "sg:address":"12 Pond St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7500",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YANLSzPoSNqAmkSKrKQvS_44.184514_-72.500357@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313444,
+    "wof:geomhash":"47add20b8985d9ca4062ad51a10a6f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874245535
+        }
+    ],
+    "wof:id":874245535,
+    "wof:lastmodified":1464313444,
+    "wof:name":"G W Locksmith",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -72.500357,
+    44.184514,
+    -72.500357,
+    44.184514
+],
+  "geometry": {"coordinates":[-72.50035699999999,44.184514],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874118047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.035061,44.386734,-73.035061,44.386734",
+    "geom:latitude":44.386734,
+    "geom:longitude":-73.035061,
+    "iso:country":"US",
+    "sg:address":"370 Wortheim Ln",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 2362",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fpt2V53slAn7hUyN72YWc_44.386734_-73.035061@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312016,
+    "wof:geomhash":"a24c54f33b6fde08389d86c389379a28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874118047
+        }
+    ],
+    "wof:id":874118047,
+    "wof:lastmodified":1464312016,
+    "wof:name":"Wortheim's Hidden Valley Ranch",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -73.035061,
+    44.386734,
+    -73.035061,
+    44.386734
+],
+  "geometry": {"coordinates":[-73.035061,44.386734],"type":"Point"}
+}

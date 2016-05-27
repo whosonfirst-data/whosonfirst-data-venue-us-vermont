@@ -1,0 +1,71 @@
+{
+  "id": 874178749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.976373,43.603388,-72.976373,43.603388",
+    "geom:latitude":43.603388,
+    "geom:longitude":-72.976373,
+    "iso:country":"US",
+    "sg:address":"117 Strongs Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 9159",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MopHk681GqgPgW15DrBKx_43.603388_-72.976373@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312616,
+    "wof:geomhash":"9a58acb5fd27a73eed3aad46bca12ead",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874178749
+        }
+    ],
+    "wof:id":874178749,
+    "wof:lastmodified":1464312616,
+    "wof:name":"American Red Cross",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -72.976373,
+    43.603388,
+    -72.976373,
+    43.603388
+],
+  "geometry": {"coordinates":[-72.976373,43.603388],"type":"Point"}
+}

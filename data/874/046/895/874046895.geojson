@@ -1,0 +1,71 @@
+{
+  "id": 874046895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212243,44.038364,-73.212243,44.038364",
+    "geom:latitude":44.038364,
+    "geom:longitude":-73.212243,
+    "iso:country":"US",
+    "sg:address":"2792 Weybridge Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2265",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hra7gLtUz3CuCa1y25CNH_44.038364_-73.212243@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311214,
+    "wof:geomhash":"a5fbd4dbadab8b4875365d8c55023d1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874046895
+        }
+    ],
+    "wof:id":874046895,
+    "wof:lastmodified":1464311214,
+    "wof:name":"Weybridge Fire Dept",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.212243,
+    44.038364,
+    -73.212243,
+    44.038364
+],
+  "geometry": {"coordinates":[-73.212243,44.038364],"type":"Point"}
+}

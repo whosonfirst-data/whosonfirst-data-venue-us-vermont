@@ -1,0 +1,71 @@
+{
+  "id": 873988125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.245632,44.17999,-73.245632,44.17999",
+    "geom:latitude":44.17999,
+    "geom:longitude":-73.245632,
+    "iso:country":"US",
+    "sg:address":"62 Meigs Rd",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 9222",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24d7KFGe5uULdrZ7gudI7j_44.179990_-73.245632@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310676,
+    "wof:geomhash":"a26fc6f7d54dbb392c49a51755602db4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":873988125
+        }
+    ],
+    "wof:id":873988125,
+    "wof:lastmodified":1464310676,
+    "wof:name":"Bannister Motorcar",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.245632,
+    44.17999,
+    -73.245632,
+    44.17999
+],
+  "geometry": {"coordinates":[-73.245632,44.17999],"type":"Point"}
+}

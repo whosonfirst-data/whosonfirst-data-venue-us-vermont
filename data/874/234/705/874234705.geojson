@@ -1,0 +1,69 @@
+{
+  "id": 874234705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.458764,44.54418,-72.458764,44.54418",
+    "geom:latitude":44.54418,
+    "geom:longitude":-72.458764,
+    "iso:country":"US",
+    "sg:address":"28 Railroad St",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 6812",
+    "sg:postcode":"05680",
+    "sg:province":"VT",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TC56VIp781yzDSRpNuPC5_44.544180_-72.458764@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313234,
+    "wof:geomhash":"2e9c9b6a553f7c30611b3d3b4c165f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874234705
+        }
+    ],
+    "wof:id":874234705,
+    "wof:lastmodified":1464313234,
+    "wof:name":"Ossu Early Education Programs",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -72.458764,
+    44.54418,
+    -72.458764,
+    44.54418
+],
+  "geometry": {"coordinates":[-72.458764,44.54418],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874198613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.671988,44.997273,-72.671988,44.997273",
+    "geom:latitude":44.997273,
+    "geom:longitude":-72.671988,
+    "iso:country":"US",
+    "sg:address":"92 River St",
+    "sg:city":"Montgomery",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 326 2094",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5deDYFCfVSlGwnI1PGBKRC_44.997273_-72.671988@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312831,
+    "wof:geomhash":"080a9888240bc6c3e616cfc26546f1c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874198613
+        }
+    ],
+    "wof:id":874198613,
+    "wof:lastmodified":1464312831,
+    "wof:name":"X-Treme Glass",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.671988,
+    44.997273,
+    -72.671988,
+    44.997273
+],
+  "geometry": {"coordinates":[-72.671988,44.997273],"type":"Point"}
+}

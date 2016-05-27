@@ -1,0 +1,71 @@
+{
+  "id": 874135029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.689497,44.483047,-72.689497,44.483047",
+    "geom:latitude":44.483047,
+    "geom:longitude":-72.689497,
+    "iso:country":"US",
+    "sg:address":"200 Weeks Hill Meadows",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 2286",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "ope",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PZnWPROw67xIN5oQPEY5H_44.483047_-72.689497@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312191,
+    "wof:geomhash":"dd10345951a37721bdf1aef438c376dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874135029
+        }
+    ],
+    "wof:id":874135029,
+    "wof:lastmodified":1464312191,
+    "wof:name":"Frank J Motter Construction",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ope",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.689497,
+    44.483047,
+    -72.689497,
+    44.483047
+],
+  "geometry": {"coordinates":[-72.689497,44.483047],"type":"Point"}
+}

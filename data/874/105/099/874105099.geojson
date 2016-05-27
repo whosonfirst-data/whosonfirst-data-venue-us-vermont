@@ -1,0 +1,71 @@
+{
+  "id": 874105099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.561619,44.221467,-72.561619,44.221467",
+    "geom:latitude":44.221467,
+    "geom:longitude":-72.561619,
+    "iso:country":"US",
+    "sg:address":"174 Hospital Loop",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 0591",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jPmKk6LDZdVh2XXTPOdCb_44.221467_-72.561619@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311858,
+    "wof:geomhash":"dc5bda702def5072997cc54519d7add4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874105099
+        }
+    ],
+    "wof:id":874105099,
+    "wof:lastmodified":1464311858,
+    "wof:name":"Washington County Mental Svc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -72.561619,
+    44.221467,
+    -72.561619,
+    44.221467
+],
+  "geometry": {"coordinates":[-72.56161899999999,44.221467],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874177835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.183461,43.691034,-73.183461,43.691034",
+    "geom:latitude":43.691034,
+    "geom:longitude":-73.183461,
+    "iso:country":"US",
+    "sg:address":"1549 Pencil Mill Rd",
+    "sg:city":"Castleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 273 2527",
+    "sg:postcode":"05735",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "nonresidential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zvCGJ3eeHMRKOMKyCMMp5_43.691034_-73.183461@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312604,
+    "wof:geomhash":"8e195782fb5017d2e8ca1cb004424f0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874177835
+        }
+    ],
+    "wof:id":874177835,
+    "wof:lastmodified":1464312604,
+    "wof:name":"John Trombley Construction",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "nonresidential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.183461,
+    43.691034,
+    -73.183461,
+    43.691034
+],
+  "geometry": {"coordinates":[-73.18346099999999,43.691034],"type":"Point"}
+}

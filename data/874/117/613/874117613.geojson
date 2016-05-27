@@ -1,0 +1,69 @@
+{
+  "id": 874117613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.673034,44.99241,-72.673034,44.99241",
+    "geom:latitude":44.99241,
+    "geom:longitude":-72.673034,
+    "iso:country":"US",
+    "sg:address":"25 Troy St",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 848 3811",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nWqHPpFroK5yEnP1sxR0Z_44.992410_-72.673034@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312012,
+    "wof:geomhash":"f34fb44bb871ef658868a1bc007c4edd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874117613
+        }
+    ],
+    "wof:id":874117613,
+    "wof:lastmodified":1464312012,
+    "wof:name":"Skyline Garage",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical"
+    ]
+},
+  "bbox": [
+    -72.673034,
+    44.99241,
+    -72.673034,
+    44.99241
+],
+  "geometry": {"coordinates":[-72.673034,44.99241],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874239473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971237,43.587986,-72.971237,43.587986",
+    "geom:latitude":43.587986,
+    "geom:longitude":-72.971237,
+    "iso:country":"US",
+    "sg:address":"132 Randbury Rd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 0526",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TrNb6K2SMBSrA1ECoi7z2_43.587986_-72.971237@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313330,
+    "wof:geomhash":"9f2584d2307717249da6a0744a0cacb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874239473
+        }
+    ],
+    "wof:id":874239473,
+    "wof:lastmodified":1464313330,
+    "wof:name":"Pittsfield News",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -72.971237,
+    43.587986,
+    -72.971237,
+    43.587986
+],
+  "geometry": {"coordinates":[-72.971237,43.587986],"type":"Point"}
+}

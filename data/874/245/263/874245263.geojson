@@ -1,0 +1,71 @@
+{
+  "id": 874245263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.622788,44.55953,-72.622788,44.55953",
+    "geom:latitude":44.55953,
+    "geom:longitude":-72.622788,
+    "iso:country":"US",
+    "sg:address":"1132 Stagecoach Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 4465",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "work"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DuNehwNyCoNnb2pb4xPl1_44.559530_-72.622788@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313439,
+    "wof:geomhash":"0798dfdb8686b87c31080e0c155d204f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874245263
+        }
+    ],
+    "wof:id":874245263,
+    "wof:lastmodified":1464313439,
+    "wof:name":"James Bradley Inc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "work"
+    ]
+},
+  "bbox": [
+    -72.622788,
+    44.55953,
+    -72.622788,
+    44.55953
+],
+  "geometry": {"coordinates":[-72.622788,44.55953],"type":"Point"}
+}

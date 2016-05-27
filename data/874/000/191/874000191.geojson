@@ -1,0 +1,75 @@
+{
+  "id": 874000191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.743504,44.118153,-72.743504,44.118153",
+    "geom:latitude":44.118153,
+    "geom:longitude":-72.743504,
+    "iso:country":"US",
+    "sg:address":"993 Northfield Rd",
+    "sg:city":"Roxbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 5296",
+    "sg:postcode":"05669",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aAuIqFxImPvVaucZysnRH_44.118153_-72.743504@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310762,
+    "wof:geomhash":"056158492a9302807abc505a038f9099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874000191
+        }
+    ],
+    "wof:id":874000191,
+    "wof:lastmodified":1464310762,
+    "wof:name":"Happy Tails Boarding Kennel",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -72.743504,
+    44.118153,
+    -72.743504,
+    44.118153
+],
+  "geometry": {"coordinates":[-72.743504,44.118153],"type":"Point"}
+}

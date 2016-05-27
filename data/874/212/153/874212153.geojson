@@ -1,0 +1,69 @@
+{
+  "id": 874212153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.186733,42.878861,-73.186733,42.878861",
+    "geom:latitude":42.878861,
+    "geom:longitude":-73.186733,
+    "iso:country":"US",
+    "sg:address":"708 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 9942",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IWTOHGWdSc9DW14lMDDf2_42.878861_-73.186733@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312976,
+    "wof:geomhash":"b035bdfe564dc1e1a7412f39fd89b401",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874212153
+        }
+    ],
+    "wof:id":874212153,
+    "wof:lastmodified":1464312976,
+    "wof:name":"Merriam Graves Medical Product",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -73.186733,
+    42.878861,
+    -73.186733,
+    42.878861
+],
+  "geometry": {"coordinates":[-73.186733,42.878861],"type":"Point"}
+}

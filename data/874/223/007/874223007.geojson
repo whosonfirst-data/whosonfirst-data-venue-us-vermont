@@ -1,0 +1,71 @@
+{
+  "id": 874223007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.101267,43.253831,-73.101267,43.253831",
+    "geom:latitude":43.253831,
+    "geom:longitude":-73.101267,
+    "iso:country":"US",
+    "sg:address":"132 Church St",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 867 4002",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jbUMkH2hAX7usPxfoBc2R_43.253831_-73.101267@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313094,
+    "wof:geomhash":"2e60b20b9b2b68b445fdeda8ac4dcd8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874223007
+        }
+    ],
+    "wof:id":874223007,
+    "wof:lastmodified":1464313094,
+    "wof:name":"Dorset Field Club",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -73.101267,
+    43.253831,
+    -73.101267,
+    43.253831
+],
+  "geometry": {"coordinates":[-73.10126700000001,43.253831],"type":"Point"}
+}

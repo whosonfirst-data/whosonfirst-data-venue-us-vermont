@@ -1,0 +1,71 @@
+{
+  "id": 874114099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205998,44.477534,-73.205998,44.477534",
+    "geom:latitude":44.477534,
+    "geom:longitude":-73.205998,
+    "iso:country":"US",
+    "sg:address":"326 College St",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 6390",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZRC1QUSlW78fP3feyBCa1_44.477534_-73.205998@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311978,
+    "wof:geomhash":"34971f2ecf661dfe73e25b20fefa3aaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874114099
+        }
+    ],
+    "wof:id":874114099,
+    "wof:lastmodified":1464311978,
+    "wof:name":"New Heights Interactive",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -73.205998,
+    44.477534,
+    -73.205998,
+    44.477534
+],
+  "geometry": {"coordinates":[-73.20599799999999,44.477534],"type":"Point"}
+}

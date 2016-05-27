@@ -1,0 +1,73 @@
+{
+  "id": 874240727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.968843,43.596193,-72.968843,43.596193",
+    "geom:latitude":43.596193,
+    "geom:longitude":-72.968843,
+    "iso:country":"US",
+    "sg:address":"21 Allen St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2555",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kiFx4KhmxFPyieICFvfKf_43.596193_-72.968843@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313353,
+    "wof:geomhash":"696cf50b7390a08a2f402413752a68dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874240727
+        }
+    ],
+    "wof:id":874240727,
+    "wof:lastmodified":1464313353,
+    "wof:name":"Graybar Electric Co",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.968843,
+    43.596193,
+    -72.968843,
+    43.596193
+],
+  "geometry": {"coordinates":[-72.96884300000001,43.596193],"type":"Point"}
+}

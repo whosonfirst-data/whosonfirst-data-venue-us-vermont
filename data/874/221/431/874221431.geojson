@@ -1,0 +1,71 @@
+{
+  "id": 874221431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.337979,43.709151,-73.337979,43.709151",
+    "geom:latitude":43.709151,
+    "geom:longitude":-73.337979,
+    "iso:country":"US",
+    "sg:address":"2725 Lake Rd",
+    "sg:city":"Fair Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 537 3009",
+    "sg:postcode":"05743",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uH90i8lU1cKtianKdiakh_43.709151_-73.337979@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313078,
+    "wof:geomhash":"4846f4dc57cf2ce38635d973279ea56b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874221431
+        }
+    ],
+    "wof:id":874221431,
+    "wof:lastmodified":1464313078,
+    "wof:name":"Lannon Electric",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.337979,
+    43.709151,
+    -73.337979,
+    43.709151
+],
+  "geometry": {"coordinates":[-73.337979,43.709151],"type":"Point"}
+}

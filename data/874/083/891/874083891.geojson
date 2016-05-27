@@ -1,0 +1,71 @@
+{
+  "id": 874083891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.22301,44.401932,-73.22301,44.401932",
+    "geom:latitude":44.401932,
+    "geom:longitude":-73.22301,
+    "iso:country":"US",
+    "sg:address":"399 Bay Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 3724",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WhWzyJQaoj5GYuIzFoIUA_44.401932_-73.223010@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311598,
+    "wof:geomhash":"351baba397a7c85174c54afb887c42cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874083891
+        }
+    ],
+    "wof:id":874083891,
+    "wof:lastmodified":1464311598,
+    "wof:name":"Bert's Place Reconditioning",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -73.22301,
+    44.401932,
+    -73.22301,
+    44.401932
+],
+  "geometry": {"coordinates":[-73.22301,44.401932],"type":"Point"}
+}

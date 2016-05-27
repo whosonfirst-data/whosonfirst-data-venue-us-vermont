@@ -1,0 +1,70 @@
+{
+  "id": 874030775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.188945,43.68252,-73.188945,43.68252",
+    "geom:latitude":43.68252,
+    "geom:longitude":-73.188945,
+    "iso:country":"US",
+    "sg:address":"154 State Rte 30",
+    "sg:city":"Castleton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 468 3090",
+    "sg:postcode":"05735",
+    "sg:province":"VT",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "sg:website":"www.vtforge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jwyaaCv7OilJBkG45Dj8x_43.682520_-73.188945@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311055,
+    "wof:geomhash":"03a5dd7b1170f4ee09c9a901e8e66a88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874030775
+        }
+    ],
+    "wof:id":874030775,
+    "wof:lastmodified":1464311055,
+    "wof:name":"Glenbrook Mfg Corp",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -73.188945,
+    43.68252,
+    -73.188945,
+    43.68252
+],
+  "geometry": {"coordinates":[-73.188945,43.68252],"type":"Point"}
+}

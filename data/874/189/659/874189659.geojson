@@ -1,0 +1,71 @@
+{
+  "id": 874189659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.531876,43.472502,-72.531876,43.472502",
+    "geom:latitude":43.472502,
+    "geom:longitude":-72.531876,
+    "iso:country":"US",
+    "sg:address":"154 Flat Iron Rd",
+    "sg:city":"Reading",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 484 1291",
+    "sg:postcode":"05062",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4InQ2GwfCnRPEkZCALGYxZ_43.472502_-72.531876@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312736,
+    "wof:geomhash":"c12350f9eb571239923a7b9ff69851b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874189659
+        }
+    ],
+    "wof:id":874189659,
+    "wof:lastmodified":1464312736,
+    "wof:name":"Mill Brook Electric",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.531876,
+    43.472502,
+    -72.531876,
+    43.472502
+],
+  "geometry": {"coordinates":[-72.531876,43.472502],"type":"Point"}
+}

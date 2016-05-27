@@ -1,0 +1,71 @@
+{
+  "id": 874191345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.095016,44.430071,-72.095016,44.430071",
+    "geom:latitude":44.430071,
+    "geom:longitude":-72.095016,
+    "iso:country":"US",
+    "sg:address":"678 State Rte 2b",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 1144",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TKXeSFd81pAkqr2FjrAbK_44.430071_-72.095016@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312752,
+    "wof:geomhash":"ba7344ea1598e73a76f1a0261dcacb28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874191345
+        }
+    ],
+    "wof:id":874191345,
+    "wof:lastmodified":1464312752,
+    "wof:name":"Multi Motors",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.095016,
+    44.430071,
+    -72.095016,
+    44.430071
+],
+  "geometry": {"coordinates":[-72.095016,44.430071],"type":"Point"}
+}

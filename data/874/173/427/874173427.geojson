@@ -1,0 +1,73 @@
+{
+  "id": 874173427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501039,44.288542,-72.501039,44.288542",
+    "geom:latitude":44.288542,
+    "geom:longitude":-72.501039,
+    "iso:country":"US",
+    "sg:address":"210 Johnson Rd",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 4107",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67QEcT0Doc9U7VCzVrTqEc_44.288542_-72.501039@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312562,
+    "wof:geomhash":"bf4ef4db0d5f33d54c0eb9843bd76c81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874173427
+        }
+    ],
+    "wof:id":874173427,
+    "wof:lastmodified":1464312562,
+    "wof:name":"Vermont Technical Solutions",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -72.501039,
+    44.288542,
+    -72.501039,
+    44.288542
+],
+  "geometry": {"coordinates":[-72.50103900000001,44.288542],"type":"Point"}
+}

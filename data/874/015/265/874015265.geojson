@@ -1,0 +1,73 @@
+{
+  "id": 874015265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.457464,44.22934,-72.457464,44.22934",
+    "geom:latitude":44.22934,
+    "geom:longitude":-72.457464,
+    "iso:country":"US",
+    "sg:address":"600 Cummings Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5907",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48okhAyivZwvUFKfcKZQEY_44.229340_-72.457464@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310893,
+    "wof:geomhash":"8a5c2556a3559a0fc0206fc32202ebbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874015265
+        }
+    ],
+    "wof:id":874015265,
+    "wof:lastmodified":1464310893,
+    "wof:name":"A & W Artesian Well Co Of Vt",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -72.457464,
+    44.22934,
+    -72.457464,
+    44.22934
+],
+  "geometry": {"coordinates":[-72.457464,44.22934],"type":"Point"}
+}

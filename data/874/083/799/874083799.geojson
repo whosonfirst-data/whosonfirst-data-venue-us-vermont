@@ -1,0 +1,74 @@
+{
+  "id": 874083799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.218694,44.475647,-73.218694,44.475647",
+    "geom:latitude":44.475647,
+    "geom:longitude":-73.218694,
+    "iso:country":"US",
+    "sg:address":"3 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 5444",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lamp",
+        "shades"
+    ],
+    "sg:website":"www.city-lights.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Nq1yiSGLeRAviXY9hStar_44.475647_-73.218694@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311597,
+    "wof:geomhash":"015773e72ae72f45ca139cda061c8ff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874083799
+        }
+    ],
+    "wof:id":874083799,
+    "wof:lastmodified":1464311597,
+    "wof:name":"City Lights",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lamp",
+        "shades"
+    ]
+},
+  "bbox": [
+    -73.218694,
+    44.475647,
+    -73.218694,
+    44.475647
+],
+  "geometry": {"coordinates":[-73.218694,44.475647],"type":"Point"}
+}

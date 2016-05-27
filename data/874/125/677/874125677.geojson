@@ -1,0 +1,69 @@
+{
+  "id": 874125677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.050217,44.317309,-72.050217,44.317309",
+    "geom:latitude":44.317309,
+    "geom:longitude":-72.050217,
+    "iso:country":"US",
+    "sg:address":"262 Knights Ln",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 3902",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_699CL21jpzGjbWyg9bMOy8_44.317309_-72.050217@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312091,
+    "wof:geomhash":"d4db233cb241dfc8da104b1bbafca8da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874125677
+        }
+    ],
+    "wof:id":874125677,
+    "wof:lastmodified":1464312091,
+    "wof:name":"J JS Auto Body",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -72.050217,
+    44.317309,
+    -72.050217,
+    44.317309
+],
+  "geometry": {"coordinates":[-72.050217,44.317309],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874250077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204262,42.881389,-73.204262,42.881389",
+    "geom:latitude":42.881389,
+    "geom:longitude":-73.204262,
+    "iso:country":"US",
+    "sg:address":"143 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 5479",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h796Dv3HZniHzwyNDGAaF_42.881207_-73.204217@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313567,
+    "wof:geomhash":"25d9d0be7e2ce3f4d262fb41fcc8440b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874250077
+        }
+    ],
+    "wof:id":874250077,
+    "wof:lastmodified":1464313567,
+    "wof:name":"Bennington Motor Inn",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -73.204262,
+    42.881389,
+    -73.204262,
+    42.881389
+],
+  "geometry": {"coordinates":[-73.204262,42.881389],"type":"Point"}
+}

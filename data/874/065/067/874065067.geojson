@@ -1,0 +1,77 @@
+{
+  "id": 874065067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501901,44.199317,-72.501901,44.199317",
+    "geom:latitude":44.199317,
+    "geom:longitude":-72.501901,
+    "iso:country":"US",
+    "sg:address":"28 Pearl St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1853",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "operator",
+        "operation",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nw1nYml4FbTRDK9waNFcY_44.199317_-72.501901@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311380,
+    "wof:geomhash":"9c1a47e4b9202be2e018c7c77932dcef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874065067
+        }
+    ],
+    "wof:id":874065067,
+    "wof:lastmodified":1464311380,
+    "wof:name":"Downtown Rentals",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "operation",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.501901,
+    44.199317,
+    -72.501901,
+    44.199317
+],
+  "geometry": {"coordinates":[-72.501901,44.199317],"type":"Point"}
+}

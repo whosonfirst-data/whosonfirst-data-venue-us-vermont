@@ -1,0 +1,71 @@
+{
+  "id": 874255767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.962016,43.615194,-72.962016,43.615194",
+    "geom:latitude":43.615194,
+    "geom:longitude":-72.962016,
+    "iso:country":"US",
+    "sg:address":"130 Woodstock Ave Ste 4",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 786 0890",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oYS9Vto6sftF60YgUFHFG_43.615194_-72.962016@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313691,
+    "wof:geomhash":"3d2326c7aae6728d03ddb5fe0af74e41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255767
+        }
+    ],
+    "wof:id":874255767,
+    "wof:lastmodified":1464313691,
+    "wof:name":"Pro Hair",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -72.962016,
+    43.615194,
+    -72.962016,
+    43.615194
+],
+  "geometry": {"coordinates":[-72.96201600000001,43.615194],"type":"Point"}
+}

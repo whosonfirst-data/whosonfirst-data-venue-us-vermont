@@ -1,0 +1,71 @@
+{
+  "id": 874090581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169585,44.012273,-73.169585,44.012273",
+    "geom:latitude":44.012273,
+    "geom:longitude":-73.169585,
+    "iso:country":"US",
+    "sg:address":"88 Main St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3705",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_086Ufmooo6fEcgBIR1KqpF_44.012273_-73.169585@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311668,
+    "wof:geomhash":"c84095cae8bb1d1a4b3212f03a766722",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874090581
+        }
+    ],
+    "wof:id":874090581,
+    "wof:lastmodified":1464311668,
+    "wof:name":"Andrew Jackson",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -73.169585,
+    44.012273,
+    -73.169585,
+    44.012273
+],
+  "geometry": {"coordinates":[-73.169585,44.012273],"type":"Point"}
+}

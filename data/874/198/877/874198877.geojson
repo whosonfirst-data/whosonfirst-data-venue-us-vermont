@@ -1,0 +1,74 @@
+{
+  "id": 874198877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.725664,44.485029,-72.725664,44.485029",
+    "geom:latitude":44.485029,
+    "geom:longitude":-72.725664,
+    "iso:country":"US",
+    "sg:address":"89 Houston Farm Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 6282",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.stonehillinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nx9bi2IGoKIjrBO5K9OAE_44.485029_-72.725664@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312833,
+    "wof:geomhash":"ceffe9c9257fe246a4370bd499cd897f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874198877
+        }
+    ],
+    "wof:id":874198877,
+    "wof:lastmodified":1464312833,
+    "wof:name":"Stone Hill Inn",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -72.725664,
+    44.485029,
+    -72.725664,
+    44.485029
+],
+  "geometry": {"coordinates":[-72.72566399999999,44.485029],"type":"Point"}
+}

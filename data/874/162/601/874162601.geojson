@@ -1,0 +1,71 @@
+{
+  "id": 874162601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.179657,44.459189,-73.179657,44.459189",
+    "geom:latitude":44.459189,
+    "geom:longitude":-73.179657,
+    "iso:country":"US",
+    "sg:address":"550 Dorset St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 652 7055",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IFwvV2rrkLgMzVrEaCOjX_44.459189_-73.179657@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312456,
+    "wof:geomhash":"f9bb959c243a9a310c431f5a54fbc72e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874162601
+        }
+    ],
+    "wof:id":874162601,
+    "wof:lastmodified":1464312456,
+    "wof:name":"South Burlington School Supt",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "district"
+    ]
+},
+  "bbox": [
+    -73.179657,
+    44.459189,
+    -73.179657,
+    44.459189
+],
+  "geometry": {"coordinates":[-73.17965700000001,44.459189],"type":"Point"}
+}

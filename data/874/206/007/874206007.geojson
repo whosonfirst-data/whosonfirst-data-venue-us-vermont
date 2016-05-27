@@ -1,0 +1,71 @@
+{
+  "id": 874206007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.736633,44.490856,-72.736633,44.490856",
+    "geom:latitude":44.490856,
+    "geom:longitude":-72.736633,
+    "iso:country":"US",
+    "sg:address":"4000 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 2216",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hay",
+        "ride"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85851219,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O0EpTwSApP4RKNE09CFyQ_44.490856_-72.736633@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312904,
+    "wof:geomhash":"158dcf6913558be90d498df5167b8827",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85851219,
+            "region_id":85688763,
+            "venue_id":874206007
+        }
+    ],
+    "wof:id":874206007,
+    "wof:lastmodified":1464312904,
+    "wof:name":"Gentle Giants Sleigh-Carriage",
+    "wof:parent_id":85851219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hay",
+        "ride"
+    ]
+},
+  "bbox": [
+    -72.736633,
+    44.490856,
+    -72.736633,
+    44.490856
+],
+  "geometry": {"coordinates":[-72.736633,44.490856],"type":"Point"}
+}

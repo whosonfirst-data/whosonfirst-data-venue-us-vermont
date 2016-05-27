@@ -1,0 +1,71 @@
+{
+  "id": 874159395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.695493,44.473492,-72.695493,44.473492",
+    "geom:latitude":44.473492,
+    "geom:longitude":-72.695493,
+    "iso:country":"US",
+    "sg:address":"626 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7328",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Mn4Oh4EP7I3xpZvr56fhb_44.473492_-72.695493@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312425,
+    "wof:geomhash":"a1e6348960d87e91061215aa5c8dda77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874159395
+        }
+    ],
+    "wof:id":874159395,
+    "wof:lastmodified":1464312425,
+    "wof:name":"Morgan Stanley",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -72.695493,
+    44.473492,
+    -72.695493,
+    44.473492
+],
+  "geometry": {"coordinates":[-72.695493,44.473492],"type":"Point"}
+}

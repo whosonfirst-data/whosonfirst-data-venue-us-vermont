@@ -1,0 +1,77 @@
+{
+  "id": 874088951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.49749,44.188003,-72.49749,44.188003",
+    "geom:latitude":44.188003,
+    "geom:longitude":-72.49749,
+    "iso:country":"US",
+    "sg:address":"17 Boynton St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 5427",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iUN2ZXcV1MDAD1VmQAJLh_44.188003_-72.497490@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311650,
+    "wof:geomhash":"a823cd095e3ad149a1956081b75fece5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874088951
+        }
+    ],
+    "wof:id":874088951,
+    "wof:lastmodified":1464311650,
+    "wof:name":"Demers Brothers",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -72.49749,
+    44.188003,
+    -72.49749,
+    44.188003
+],
+  "geometry": {"coordinates":[-72.49749,44.188003],"type":"Point"}
+}

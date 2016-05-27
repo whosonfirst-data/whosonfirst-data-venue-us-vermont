@@ -1,0 +1,75 @@
+{
+  "id": 874102179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.181682,44.514543,-73.181682,44.514543",
+    "geom:latitude":44.514543,
+    "geom:longitude":-73.181682,
+    "iso:country":"US",
+    "sg:address":"61 S Oak Cir",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 7766",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "general",
+        "nonresidential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J7ToynKZBnuMaf3x0Z4gw_44.514543_-73.181682@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311820,
+    "wof:geomhash":"8531e915e79aa6fde05fce80560da881",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874102179
+        }
+    ],
+    "wof:id":874102179,
+    "wof:lastmodified":1464311820,
+    "wof:name":"T F Mackin Construction",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "general",
+        "nonresidential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.181682,
+    44.514543,
+    -73.181682,
+    44.514543
+],
+  "geometry": {"coordinates":[-73.181682,44.514543],"type":"Point"}
+}

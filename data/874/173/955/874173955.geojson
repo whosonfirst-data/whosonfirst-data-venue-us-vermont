@@ -1,0 +1,75 @@
+{
+  "id": 874173955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.478002,43.293753,-72.478002,43.293753",
+    "geom:latitude":43.293753,
+    "geom:longitude":-72.478002,
+    "iso:country":"US",
+    "sg:address":"40 Clinton St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 3398",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822381,
+        102191575,
+        404527377,
+        85633793,
+        101728481,
+        102080777,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57z1U5TiLLyrYPJxWPNCod_43.293753_-72.478002@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312567,
+    "wof:geomhash":"0ec331122da9ad1faf539d2de7b50604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080777,
+            "localadmin_id":404527377,
+            "locality_id":101728481,
+            "neighbourhood_id":85822381,
+            "region_id":85688763,
+            "venue_id":874173955
+        }
+    ],
+    "wof:id":874173955,
+    "wof:lastmodified":1464312567,
+    "wof:name":"Refrigerated Food Express",
+    "wof:parent_id":85822381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.478002,
+    43.293753,
+    -72.478002,
+    43.293753
+],
+  "geometry": {"coordinates":[-72.478002,43.293753],"type":"Point"}
+}

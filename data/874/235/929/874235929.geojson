@@ -1,0 +1,67 @@
+{
+  "id": 874235929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.077968,44.133135,-73.077968,44.133135",
+    "geom:latitude":44.133135,
+    "geom:longitude":-73.077968,
+    "iso:country":"US",
+    "sg:address":"28 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2512",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:website":"www.nationalbankmiddlebury.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m8y4uLEAsRcPuQDEVRikv_44.133135_-73.077968@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313260,
+    "wof:geomhash":"dc377586d0929874cbf74dfe4e01811b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874235929
+        }
+    ],
+    "wof:id":874235929,
+    "wof:lastmodified":1464313260,
+    "wof:name":"National Bank Of Middlebury",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.077968,
+    44.133135,
+    -73.077968,
+    44.133135
+],
+  "geometry": {"coordinates":[-73.077968,44.133135],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873994973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08803,44.138022,-73.08803,44.138022",
+    "geom:latitude":44.138022,
+    "geom:longitude":-73.08803,
+    "iso:country":"US",
+    "sg:address":"11 Liberty St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 7700",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SrbDTcc8UcK5fQLxzYxoc_44.138022_-73.088030@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310725,
+    "wof:geomhash":"32defe7a3ccf52614fd97877f8cb6599",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":873994973
+        }
+    ],
+    "wof:id":873994973,
+    "wof:lastmodified":1464310725,
+    "wof:name":"Just Because Flower Shop",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.08803,
+    44.138022,
+    -73.08803,
+    44.138022
+],
+  "geometry": {"coordinates":[-73.08803,44.138022],"type":"Point"}
+}

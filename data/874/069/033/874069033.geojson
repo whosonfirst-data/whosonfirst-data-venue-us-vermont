@@ -1,0 +1,71 @@
+{
+  "id": 874069033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212546,44.477852,-73.212546,44.477852",
+    "geom:latitude":44.477852,
+    "geom:longitude":-73.212546,
+    "iso:country":"US",
+    "sg:address":"104 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 2662",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G5yRKYCBq5FKptMjXU2nB_44.477852_-73.212546@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311423,
+    "wof:geomhash":"0d3673d0cd4effada8cddc35aae74028",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874069033
+        }
+    ],
+    "wof:id":874069033,
+    "wof:lastmodified":1464311423,
+    "wof:name":"Gordan G Woods Associates",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.212546,
+    44.477852,
+    -73.212546,
+    44.477852
+],
+  "geometry": {"coordinates":[-73.212546,44.477852],"type":"Point"}
+}

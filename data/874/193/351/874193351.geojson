@@ -1,0 +1,69 @@
+{
+  "id": 874193351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.295733,43.638401,-73.295733,43.638401",
+    "geom:latitude":43.638401,
+    "geom:longitude":-73.295733,
+    "iso:country":"US",
+    "sg:address":"195 Old Rte 22A",
+    "sg:city":"Fair Haven",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 265 8100",
+    "sg:postcode":"05743",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G7g1uQw1GJSAHZ9VJ0f4N_43.638401_-73.295733@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312773,
+    "wof:geomhash":"9dbf7e8f07ef08275569eedc6a6fac26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874193351
+        }
+    ],
+    "wof:id":874193351,
+    "wof:lastmodified":1464312773,
+    "wof:name":"Shaw's Supermarket",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.295733,
+    43.638401,
+    -73.295733,
+    43.638401
+],
+  "geometry": {"coordinates":[-73.295733,43.638401],"type":"Point"}
+}

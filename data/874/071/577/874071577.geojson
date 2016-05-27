@@ -1,0 +1,75 @@
+{
+  "id": 874071577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.140285,44.411714,-72.140285,44.411714",
+    "geom:latitude":44.411714,
+    "geom:longitude":-72.140285,
+    "iso:country":"US",
+    "sg:address":"23 Hill St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 2245",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jVzn5QoR4ZDhq67oFGmu9_44.411714_-72.140285@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311454,
+    "wof:geomhash":"254a967d49dad969a661f42d0b020482",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874071577
+        }
+    ],
+    "wof:id":874071577,
+    "wof:lastmodified":1464311454,
+    "wof:name":"Danville Video",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -72.140285,
+    44.411714,
+    -72.140285,
+    44.411714
+],
+  "geometry": {"coordinates":[-72.14028500000001,44.411714],"type":"Point"}
+}

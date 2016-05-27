@@ -1,0 +1,69 @@
+{
+  "id": 874176817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.185701,44.491442,-73.185701,44.491442",
+    "geom:latitude":44.491442,
+    "geom:longitude":-73.185701,
+    "iso:country":"US",
+    "sg:address":"5 E Allen St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 654 7106",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aF6odslKcl0bhXw6XYli6_44.491442_-73.185701@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312595,
+    "wof:geomhash":"b48fd6891bbeb230f7b24c0d7fa926fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874176817
+        }
+    ],
+    "wof:id":874176817,
+    "wof:lastmodified":1464312595,
+    "wof:name":"Terra Luna",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.185701,
+    44.491442,
+    -73.185701,
+    44.491442
+],
+  "geometry": {"coordinates":[-73.18570099999999,44.491442],"type":"Point"}
+}

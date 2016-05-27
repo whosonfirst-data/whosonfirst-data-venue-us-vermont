@@ -1,0 +1,71 @@
+{
+  "id": 874101107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.968029,43.602678,-72.968029,43.602678",
+    "geom:latitude":43.602678,
+    "geom:longitude":-72.968029,
+    "iso:country":"US",
+    "sg:address":"6 Ave B",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 7178",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ivrn3gT5z0aWINbFkoos4_43.602678_-72.968029@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311807,
+    "wof:geomhash":"ada4debce807ac674ae5474370fd84e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874101107
+        }
+    ],
+    "wof:id":874101107,
+    "wof:lastmodified":1464311807,
+    "wof:name":"Power Dental Lab Co",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -72.968029,
+    43.602678,
+    -72.968029,
+    43.602678
+],
+  "geometry": {"coordinates":[-72.968029,43.602678],"type":"Point"}
+}

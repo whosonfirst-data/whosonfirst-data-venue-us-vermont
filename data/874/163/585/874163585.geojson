@@ -1,0 +1,75 @@
+{
+  "id": 874163585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.408493,44.255689,-72.408493,44.255689",
+    "geom:latitude":44.255689,
+    "geom:longitude":-72.408493,
+    "iso:country":"US",
+    "sg:address":"183 Fowler Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 454 8597",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "farm",
+        "horse",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dvdDQrlkaOiiu9dMZnGHV_44.255689_-72.408493@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312465,
+    "wof:geomhash":"b8b5b74b7024bac76aa49b2f1af2f53b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874163585
+        }
+    ],
+    "wof:id":874163585,
+    "wof:lastmodified":1464312465,
+    "wof:name":"Hillcrest Stables",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "horse",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.408493,
+    44.255689,
+    -72.408493,
+    44.255689
+],
+  "geometry": {"coordinates":[-72.40849300000001,44.255689],"type":"Point"}
+}

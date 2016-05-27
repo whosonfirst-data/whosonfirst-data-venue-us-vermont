@@ -1,0 +1,66 @@
+{
+  "id": 874110745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167879,44.01367,-73.167879,44.01367",
+    "geom:latitude":44.01367,
+    "geom:longitude":-73.167879,
+    "iso:country":"US",
+    "sg:address":"22 Merchants Row",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3624",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GkwRXns6NULOJeIMTu1eV_44.013670_-73.167879@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311935,
+    "wof:geomhash":"fbc56ec9b65de8f63e90a9f1a3fd77fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874110745
+        }
+    ],
+    "wof:id":874110745,
+    "wof:lastmodified":1464311935,
+    "wof:name":"Amigos Cantina Of Middlebury",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.167879,
+    44.01367,
+    -73.167879,
+    44.01367
+],
+  "geometry": {"coordinates":[-73.167879,44.01367],"type":"Point"}
+}

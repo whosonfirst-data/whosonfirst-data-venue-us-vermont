@@ -1,0 +1,71 @@
+{
+  "id": 874065557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.349162,43.635545,-72.349162,43.635545",
+    "geom:latitude":43.635545,
+    "geom:longitude":-72.349162,
+    "iso:country":"US",
+    "sg:address":"206 Kline Dr",
+    "sg:city":"White River Jct",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 9876",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tennis",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810161,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QzN8QDkWsfOQXGbM4FCef_43.635545_-72.349162@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311384,
+    "wof:geomhash":"14cf33c07af9b8c7c1653585c75182a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85810161,
+            "region_id":85688763,
+            "venue_id":874065557
+        }
+    ],
+    "wof:id":874065557,
+    "wof:lastmodified":1464311384,
+    "wof:name":"Our Court",
+    "wof:parent_id":85810161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tennis",
+        "court"
+    ]
+},
+  "bbox": [
+    -72.349162,
+    43.635545,
+    -72.349162,
+    43.635545
+],
+  "geometry": {"coordinates":[-72.34916200000001,43.635545],"type":"Point"}
+}

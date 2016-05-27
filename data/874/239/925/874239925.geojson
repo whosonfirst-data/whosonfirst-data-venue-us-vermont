@@ -1,0 +1,71 @@
+{
+  "id": 874239925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.937901,43.634476,-72.937901,43.634476",
+    "geom:latitude":43.634476,
+    "geom:longitude":-72.937901,
+    "iso:country":"US",
+    "sg:address":"1114 US Hwy 4",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 6982",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "federal",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5baBgUVme6SkLweRRKF8QT_43.634476_-72.937901@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313338,
+    "wof:geomhash":"0c2e810f73a434388639d415513b069c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874239925
+        }
+    ],
+    "wof:id":874239925,
+    "wof:lastmodified":1464313338,
+    "wof:name":"US Internal Revenue Svc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -72.937901,
+    43.634476,
+    -72.937901,
+    43.634476
+],
+  "geometry": {"coordinates":[-72.937901,43.634476],"type":"Point"}
+}

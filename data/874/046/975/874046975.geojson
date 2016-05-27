@@ -1,0 +1,81 @@
+{
+  "id": 874046975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.919692,44.642892,-72.919692,44.642892",
+    "geom:latitude":44.642892,
+    "geom:longitude":-72.919692,
+    "iso:country":"US",
+    "sg:address":"833 River Rd",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5051",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beef",
+        "corn",
+        "crop",
+        "field",
+        "cattle",
+        "feedlot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K9CZsw0UWpQqxKJ8jsclM_44.642892_-72.919692@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311215,
+    "wof:geomhash":"51de4f5a9b97f309ebdf7153a1a6913b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874046975
+        }
+    ],
+    "wof:id":874046975,
+    "wof:lastmodified":1464311215,
+    "wof:name":"Bruce McCuin",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "corn",
+        "crop",
+        "field",
+        "cattle",
+        "feedlot"
+    ]
+},
+  "bbox": [
+    -72.919692,
+    44.642892,
+    -72.919692,
+    44.642892
+],
+  "geometry": {"coordinates":[-72.919692,44.642892],"type":"Point"}
+}

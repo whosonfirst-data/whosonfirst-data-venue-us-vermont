@@ -1,0 +1,71 @@
+{
+  "id": 873995379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.57677,42.732431,-72.57677,42.732431",
+    "geom:latitude":42.732431,
+    "geom:longitude":-72.57677,
+    "iso:country":"US",
+    "sg:address":"96 E Mountain Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 7846",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "food",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837349,
+        102084457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vrNDg47PdR604lLmxtilD_42.732431_-72.576770@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310728,
+    "wof:geomhash":"4707a84ea1a526e648448815c34663f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084457,
+            "neighbourhood_id":85837349,
+            "region_id":85688645,
+            "venue_id":873995379
+        }
+    ],
+    "wof:id":873995379,
+    "wof:lastmodified":1464310728,
+    "wof:name":"American Handwich",
+    "wof:parent_id":85837349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -72.57677,
+    42.732431,
+    -72.57677,
+    42.732431
+],
+  "geometry": {"coordinates":[-72.57677,42.732431],"type":"Point"}
+}

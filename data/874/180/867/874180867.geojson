@@ -1,0 +1,71 @@
+{
+  "id": 874180867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.699388,45.01523,-72.699388,45.01523",
+    "geom:latitude":45.01523,
+    "geom:longitude":-72.699388,
+    "iso:country":"US",
+    "sg:address":"14 Pinnacle Rd",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 848 7721",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "federal",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cbpQhYbZ6VSc2rWi4DLJt_45.015230_-72.699388@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312638,
+    "wof:geomhash":"774e4c1b366a7dff2cf4a9c29c57ae9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874180867
+        }
+    ],
+    "wof:id":874180867,
+    "wof:lastmodified":1464312638,
+    "wof:name":"US Customs Svc",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -72.699388,
+    45.01523,
+    -72.699388,
+    45.01523
+],
+  "geometry": {"coordinates":[-72.699388,45.01523],"type":"Point"}
+}

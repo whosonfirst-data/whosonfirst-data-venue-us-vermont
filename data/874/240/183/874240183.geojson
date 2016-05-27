@@ -1,0 +1,75 @@
+{
+  "id": 874240183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.972043,43.606964,-72.972043,43.606964",
+    "geom:latitude":43.606964,
+    "geom:longitude":-72.972043,
+    "iso:country":"US",
+    "sg:address":"130 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 0001",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "passenger",
+        "used",
+        "car",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A4p9z0nDQKHVpAU4YmQLP_43.606964_-72.972043@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313343,
+    "wof:geomhash":"b603aee602e64b2db740d763434c0f9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874240183
+        }
+    ],
+    "wof:id":874240183,
+    "wof:lastmodified":1464313343,
+    "wof:name":"U-Save Auto Rental",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "used",
+        "car",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.972043,
+    43.606964,
+    -72.972043,
+    43.606964
+],
+  "geometry": {"coordinates":[-72.972043,43.606964],"type":"Point"}
+}

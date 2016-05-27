@@ -1,0 +1,73 @@
+{
+  "id": 874144257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.512008,44.162354,-72.512008,44.162354",
+    "geom:latitude":44.162354,
+    "geom:longitude":-72.512008,
+    "iso:country":"US",
+    "sg:address":"706 S Barre Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1934",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JcXxpPS6vhf6Nx7KhRVyE_44.162354_-72.512008@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312274,
+    "wof:geomhash":"13eb335c8ad715c2f43f3b1dc7cfa277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874144257
+        }
+    ],
+    "wof:id":874144257,
+    "wof:lastmodified":1464312274,
+    "wof:name":"Deaf Victim Advocacy Svc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -72.512008,
+    44.162354,
+    -72.512008,
+    44.162354
+],
+  "geometry": {"coordinates":[-72.51200799999999,44.162354],"type":"Point"}
+}

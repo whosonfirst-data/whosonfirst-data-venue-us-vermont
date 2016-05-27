@@ -1,0 +1,69 @@
+{
+  "id": 874129297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.012239,43.854583,-73.012239,43.854583",
+    "geom:latitude":43.854583,
+    "geom:longitude":-73.012239,
+    "iso:country":"US",
+    "sg:address":"680 Capen Hill Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 6611",
+    "sg:postcode":"05745",
+    "sg:province":"VT",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZXSoHQhZNcJKwCdCO9eHn_43.854583_-73.012239@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312125,
+    "wof:geomhash":"8216daba7c886c261c2d58c90f1f8a41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874129297
+        }
+    ],
+    "wof:id":874129297,
+    "wof:lastmodified":1464312125,
+    "wof:name":"Thorpe Camp Inc",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -73.012239,
+    43.854583,
+    -73.012239,
+    43.854583
+],
+  "geometry": {"coordinates":[-73.01223899999999,43.854583],"type":"Point"}
+}

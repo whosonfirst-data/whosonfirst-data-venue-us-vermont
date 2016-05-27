@@ -1,0 +1,69 @@
+{
+  "id": 874084285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.116946,44.684012,-73.116946,44.684012",
+    "geom:latitude":44.684012,
+    "geom:longitude":-73.116946,
+    "iso:country":"US",
+    "sg:address":"104 Meadow Ridge Ln",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 2873",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c9Cp3GuwWJogliNOYr5zk_44.684012_-73.116946@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311601,
+    "wof:geomhash":"356d5745bae0e109c57b9e72bc94623d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874084285
+        }
+    ],
+    "wof:id":874084285,
+    "wof:lastmodified":1464311601,
+    "wof:name":"J R Madden & Co Ltd",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.116946,
+    44.684012,
+    -73.116946,
+    44.684012
+],
+  "geometry": {"coordinates":[-73.116946,44.684012],"type":"Point"}
+}

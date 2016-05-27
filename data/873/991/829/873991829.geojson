@@ -1,0 +1,69 @@
+{
+  "id": 873991829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.509299,43.37567,-72.509299,43.37567",
+    "geom:latitude":43.37567,
+    "geom:longitude":-72.509299,
+    "iso:country":"US",
+    "sg:address":"3927 State Rte 106",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 5425",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XYpm0WbmevUGKqUbrtHY5_43.375670_-72.509299@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310704,
+    "wof:geomhash":"b8318639487a91c17ee397b2579d6289",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":873991829
+        }
+    ],
+    "wof:id":873991829,
+    "wof:lastmodified":1464310704,
+    "wof:name":"D W Behn Plumbing & Heating",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.509299,
+    43.37567,
+    -72.509299,
+    43.37567
+],
+  "geometry": {"coordinates":[-72.509299,43.37567],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874031921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.147644,44.513891,-73.147644,44.513891",
+    "geom:latitude":44.513891,
+    "geom:longitude":-73.147644,
+    "iso:country":"US",
+    "sg:address":"55 Wilmington Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 238 4121",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Fc7axWTllHfPDTbvFAsah_44.513891_-73.147644@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311065,
+    "wof:geomhash":"1a9255897f9f6a1f3c73d234493256e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874031921
+        }
+    ],
+    "wof:id":874031921,
+    "wof:lastmodified":1464311065,
+    "wof:name":"Everywhere Taxi Of Vermont",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -73.147644,
+    44.513891,
+    -73.147644,
+    44.513891
+],
+  "geometry": {"coordinates":[-73.147644,44.513891],"type":"Point"}
+}

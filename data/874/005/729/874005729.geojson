@@ -1,0 +1,69 @@
+{
+  "id": 874005729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.142776,43.907451,-72.142776,43.907451",
+    "geom:latitude":43.907451,
+    "geom:longitude":-72.142776,
+    "iso:country":"US",
+    "sg:address":"472 US Hwy 5",
+    "sg:city":"Fairlee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 9596",
+    "sg:postcode":"05045",
+    "sg:province":"VT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oJYUE4d1Oy8b5vLiCr2Lm_43.907451_-72.142776@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310823,
+    "wof:geomhash":"d15f1e865abb6d480865f3072f346590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874005729
+        }
+    ],
+    "wof:id":874005729,
+    "wof:lastmodified":1464310823,
+    "wof:name":"Antique Marketplace",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -72.142776,
+    43.907451,
+    -72.142776,
+    43.907451
+],
+  "geometry": {"coordinates":[-72.142776,43.907451],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874243367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.000503,44.526475,-72.000503,44.526475",
+    "geom:latitude":44.526475,
+    "geom:longitude":-72.000503,
+    "iso:country":"US",
+    "sg:address":"412 Broad St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 4366",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FTyjcHgWq7xDSv4K0L0cW_44.526475_-72.000503@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313401,
+    "wof:geomhash":"00254790bf60fc0a16326384974d647d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874243367
+        }
+    ],
+    "wof:id":874243367,
+    "wof:lastmodified":1464313401,
+    "wof:name":"Brooks Pharmacy",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.000503,
+    44.526475,
+    -72.000503,
+    44.526475
+],
+  "geometry": {"coordinates":[-72.00050299999999,44.526475],"type":"Point"}
+}

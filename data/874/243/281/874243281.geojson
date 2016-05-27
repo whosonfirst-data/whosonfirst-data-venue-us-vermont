@@ -1,0 +1,69 @@
+{
+  "id": 874243281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.64331,42.886246,-72.64331,42.886246",
+    "geom:latitude":42.886246,
+    "geom:longitude":-72.64331,
+    "iso:country":"US",
+    "sg:address":"1138 Sunset Lake Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 1024",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wuVRMaUqYcPMG5wAKV0gV_42.886246_-72.643310@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313399,
+    "wof:geomhash":"9bcbc123bb9186af47204a824de1a36c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874243281
+        }
+    ],
+    "wof:id":874243281,
+    "wof:lastmodified":1464313399,
+    "wof:name":"Cox Violins",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.64331,
+    42.886246,
+    -72.64331,
+    42.886246
+],
+  "geometry": {"coordinates":[-72.64331,42.886246],"type":"Point"}
+}

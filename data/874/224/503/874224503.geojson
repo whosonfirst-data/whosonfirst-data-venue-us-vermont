@@ -1,0 +1,69 @@
+{
+  "id": 874224503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.978203,43.613757,-72.978203,43.613757",
+    "geom:latitude":43.613757,
+    "geom:longitude":-72.978203,
+    "iso:country":"US",
+    "sg:address":"48 Roberts Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 0188",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BP1OhZiLJSnsJfVOYDdB6_43.613757_-72.978203@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313107,
+    "wof:geomhash":"08f99639273cebd9caa0d368a9e0bf39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874224503
+        }
+    ],
+    "wof:id":874224503,
+    "wof:lastmodified":1464313107,
+    "wof:name":"F & C Cleaning Svc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.978203,
+    43.613757,
+    -72.978203,
+    43.613757
+],
+  "geometry": {"coordinates":[-72.97820299999999,43.613757],"type":"Point"}
+}

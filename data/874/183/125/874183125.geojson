@@ -1,0 +1,71 @@
+{
+  "id": 874183125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.056168,43.215703,-73.056168,43.215703",
+    "geom:latitude":43.215703,
+    "geom:longitude":-73.056168,
+    "iso:country":"US",
+    "sg:address":"211 Dusty Hollow Ln",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 366 9197",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4czs3OIOYK5RwhHHX4e27D_43.215703_-73.056168@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312661,
+    "wof:geomhash":"985a9d94fcded450784679d3be0038d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874183125
+        }
+    ],
+    "wof:id":874183125,
+    "wof:lastmodified":1464312661,
+    "wof:name":"Jk Contracting Inc",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.056168,
+    43.215703,
+    -73.056168,
+    43.215703
+],
+  "geometry": {"coordinates":[-73.056168,43.215703],"type":"Point"}
+}

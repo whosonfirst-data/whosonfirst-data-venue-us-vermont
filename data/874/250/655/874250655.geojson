@@ -1,0 +1,70 @@
+{
+  "id": 874250655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180476,44.503839,-73.180476,44.503839",
+    "geom:latitude":44.503839,
+    "geom:longitude":-73.180476,
+    "iso:country":"US",
+    "sg:address":"85 S Park Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/colchester/246077-juniors-italian/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 5555",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20OxBXVRdcflajvPgMUpaj_44.503839_-73.180476@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313579,
+    "wof:geomhash":"3242212b70a27f4e19d1906cdee413fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874250655
+        }
+    ],
+    "wof:id":874250655,
+    "wof:lastmodified":1464313579,
+    "wof:name":"Junior's Italian ",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -73.180476,
+    44.503839,
+    -73.180476,
+    44.503839
+],
+  "geometry": {"coordinates":[-73.180476,44.503839],"type":"Point"}
+}

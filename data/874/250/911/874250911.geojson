@@ -1,0 +1,80 @@
+{
+  "id": 874250911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.969886,43.590229,-72.969886,43.590229",
+    "geom:latitude":43.590229,
+    "geom:longitude":-72.969886,
+    "iso:country":"US",
+    "sg:address":"315 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/rutland/222758-99-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 9288",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XlLucHNPPNF7DTyXGYBEg_43.590229_-72.969886@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313584,
+    "wof:geomhash":"f361196f7531a7ca76781bdec0e4bdc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874250911
+        }
+    ],
+    "wof:id":874250911,
+    "wof:lastmodified":1464313584,
+    "wof:name":"99 Restaurant",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -72.969886,
+    43.590229,
+    -72.969886,
+    43.590229
+],
+  "geometry": {"coordinates":[-72.969886,43.590229],"type":"Point"}
+}

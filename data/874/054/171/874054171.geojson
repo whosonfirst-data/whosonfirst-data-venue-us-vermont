@@ -1,0 +1,75 @@
+{
+  "id": 874054171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501542,44.196778,-72.501542,44.196778",
+    "geom:latitude":44.196778,
+    "geom:longitude":-72.501542,
+    "iso:country":"US",
+    "sg:address":"18 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3166",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jCmst2ZcN0YSgHVP30eyw_44.196778_-72.501542@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311280,
+    "wof:geomhash":"88c22609dadd05283d28ebf928c89d23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874054171
+        }
+    ],
+    "wof:id":874054171,
+    "wof:lastmodified":1464311280,
+    "wof:name":"Al-Anon & Al-Ateen",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -72.501542,
+    44.196778,
+    -72.501542,
+    44.196778
+],
+  "geometry": {"coordinates":[-72.501542,44.196778],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874064161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211441,42.941342,-73.211441,42.941342",
+    "geom:latitude":42.941342,
+    "geom:longitude":-73.211441,
+    "iso:country":"US",
+    "sg:address":"89 Cleveland Ave",
+    "sg:city":"Shaftsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 0740",
+    "sg:postcode":"05262",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_788l3emd5LXoRQ98ea1L1N_42.941342_-73.211441@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311372,
+    "wof:geomhash":"28a4069a13a893ef293d05ad648aa9a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874064161
+        }
+    ],
+    "wof:id":874064161,
+    "wof:lastmodified":1464311372,
+    "wof:name":"Magic Electric Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.211441,
+    42.941342,
+    -73.211441,
+    42.941342
+],
+  "geometry": {"coordinates":[-73.21144099999999,42.941342],"type":"Point"}
+}

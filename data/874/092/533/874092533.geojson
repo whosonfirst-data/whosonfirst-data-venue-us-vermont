@@ -1,0 +1,71 @@
+{
+  "id": 874092533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.49607,44.194277,-72.49607,44.194277",
+    "geom:latitude":44.194277,
+    "geom:longitude":-72.49607,
+    "iso:country":"US",
+    "sg:address":"112 Washington St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2751",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cpkLskQlEdGClerdYtErn_44.194277_-72.496070@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311691,
+    "wof:geomhash":"d25406f359a6be339e5ad05a0660f069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874092533
+        }
+    ],
+    "wof:id":874092533,
+    "wof:lastmodified":1464311691,
+    "wof:name":"Lafrance Contracting",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.49607,
+    44.194277,
+    -72.49607,
+    44.194277
+],
+  "geometry": {"coordinates":[-72.49607,44.194277],"type":"Point"}
+}

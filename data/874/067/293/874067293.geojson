@@ -1,0 +1,73 @@
+{
+  "id": 874067293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209466,44.434418,-73.209466,44.434418",
+    "geom:latitude":44.434418,
+    "geom:longitude":-73.209466,
+    "iso:country":"US",
+    "sg:address":"29 Imperial Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 3650",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zR6AFF1vG5yZtnk1bjp5X_44.434418_-73.209466@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311400,
+    "wof:geomhash":"09080337ec90b98050983bd4718a8a6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874067293
+        }
+    ],
+    "wof:id":874067293,
+    "wof:lastmodified":1464311400,
+    "wof:name":"Lamaster Constr Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.209466,
+    44.434418,
+    -73.209466,
+    44.434418
+],
+  "geometry": {"coordinates":[-73.20946600000001,44.434418],"type":"Point"}
+}

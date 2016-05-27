@@ -1,0 +1,69 @@
+{
+  "id": 874221469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.152336,43.905459,-72.152336,43.905459",
+    "geom:latitude":43.905459,
+    "geom:longitude":-72.152336,
+    "iso:country":"US",
+    "sg:address":"179 Lake Morey Rd",
+    "sg:city":"Fairlee",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 4800",
+    "sg:postcode":"05045",
+    "sg:province":"VT",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_393nopkDTJTLsmIUPmgDEG_43.905459_-72.152336@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313078,
+    "wof:geomhash":"fc00b56ecddd256ccfb963847bfd4e5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874221469
+        }
+    ],
+    "wof:id":874221469,
+    "wof:lastmodified":1464313078,
+    "wof:name":"Lake Morey Country Club",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -72.152336,
+    43.905459,
+    -72.152336,
+    43.905459
+],
+  "geometry": {"coordinates":[-72.15233600000001,43.905459],"type":"Point"}
+}

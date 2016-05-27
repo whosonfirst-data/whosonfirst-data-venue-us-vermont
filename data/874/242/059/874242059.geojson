@@ -1,0 +1,71 @@
+{
+  "id": 874242059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.932545,43.528213,-72.932545,43.528213",
+    "geom:latitude":43.528213,
+    "geom:longitude":-72.932545,
+    "iso:country":"US",
+    "sg:address":"46 E Clarendon Rd",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0220",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72NNwY6FW5zJ9BjMLMWVn4_43.528213_-72.932545@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313378,
+    "wof:geomhash":"9631c364b682094b31ddf0b29aaa9916",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874242059
+        }
+    ],
+    "wof:id":874242059,
+    "wof:lastmodified":1464313378,
+    "wof:name":"A 1 Sewer & Drain Svc",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.932545,
+    43.528213,
+    -72.932545,
+    43.528213
+],
+  "geometry": {"coordinates":[-72.932545,43.528213],"type":"Point"}
+}

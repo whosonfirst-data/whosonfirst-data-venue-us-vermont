@@ -1,0 +1,69 @@
+{
+  "id": 873999385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.261372,44.160354,-73.261372,44.160354",
+    "geom:latitude":44.160354,
+    "geom:longitude":-73.261372,
+    "iso:country":"US",
+    "sg:address":"25 Hopkins Rd",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2419",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TnegfEKYbxIvzGRgKPSIB_44.160354_-73.261372@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310756,
+    "wof:geomhash":"4a6f7139c2a332ee99fa34fe8fd1c5e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":873999385
+        }
+    ],
+    "wof:id":873999385,
+    "wof:lastmodified":1464310756,
+    "wof:name":"Vermont Computer Software Inc",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -73.261372,
+    44.160354,
+    -73.261372,
+    44.160354
+],
+  "geometry": {"coordinates":[-73.26137199999999,44.160354],"type":"Point"}
+}

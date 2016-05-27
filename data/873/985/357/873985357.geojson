@@ -1,0 +1,69 @@
+{
+  "id": 873985357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.976531,43.603673,-72.976531,43.603673",
+    "geom:latitude":43.603673,
+    "geom:longitude":-72.976531,
+    "iso:country":"US",
+    "sg:address":"54 Strongs Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 781 341 1208",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "food"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ATtsmWr8TxSsYXaxNviZB_43.603673_-72.976531@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310652,
+    "wof:geomhash":"df1234d667ed937d8f6e4f25a6693e25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":873985357
+        }
+    ],
+    "wof:id":873985357,
+    "wof:lastmodified":1464310652,
+    "wof:name":"Waffle Haus",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food"
+    ]
+},
+  "bbox": [
+    -72.976531,
+    43.603673,
+    -72.976531,
+    43.603673
+],
+  "geometry": {"coordinates":[-72.97653099999999,43.603673],"type":"Point"}
+}

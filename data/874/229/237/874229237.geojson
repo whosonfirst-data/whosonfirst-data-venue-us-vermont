@@ -1,0 +1,75 @@
+{
+  "id": 874229237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.244338,44.126574,-73.244338,44.126574",
+    "geom:latitude":44.126574,
+    "geom:longitude":-73.244338,
+    "iso:country":"US",
+    "sg:address":"2473 Maple St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 8606",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "set",
+        "electric",
+        "generator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T5OxENQLzWSvlzlm8LRUA_44.126574_-73.244338@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313153,
+    "wof:geomhash":"f72afb05d0ab604f39f45db28c9124cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874229237
+        }
+    ],
+    "wof:id":874229237,
+    "wof:lastmodified":1464313153,
+    "wof:name":"Vermont Mega Tek",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "set",
+        "electric",
+        "generator"
+    ]
+},
+  "bbox": [
+    -73.244338,
+    44.126574,
+    -73.244338,
+    44.126574
+],
+  "geometry": {"coordinates":[-73.244338,44.126574],"type":"Point"}
+}

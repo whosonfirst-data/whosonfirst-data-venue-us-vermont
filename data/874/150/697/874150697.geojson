@@ -1,0 +1,70 @@
+{
+  "id": 874150697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.183959,42.879208,-73.183959,42.879208",
+    "geom:latitude":42.879208,
+    "geom:longitude":-73.183959,
+    "iso:country":"US",
+    "sg:address":"736 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 1768",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "printer"
+    ],
+    "sg:website":"www.inkspotpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q3en85t3N6487uNnZ5bLl_42.879208_-73.183959@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312335,
+    "wof:geomhash":"ffd540b379372b81141754d3be1fb3a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874150697
+        }
+    ],
+    "wof:id":874150697,
+    "wof:lastmodified":1464312335,
+    "wof:name":"Inkspot Press",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -73.183959,
+    42.879208,
+    -73.183959,
+    42.879208
+],
+  "geometry": {"coordinates":[-73.183959,42.879208],"type":"Point"}
+}

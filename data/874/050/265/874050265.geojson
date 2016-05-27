@@ -1,0 +1,69 @@
+{
+  "id": 874050265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.108156,44.50203,-73.108156,44.50203",
+    "geom:latitude":44.50203,
+    "geom:longitude":-73.108156,
+    "iso:country":"US",
+    "sg:address":"38 Thasha Ln",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 0320",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gJU7HcUyAGn9DQz8i8uyX_44.502030_-73.108156@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311243,
+    "wof:geomhash":"8001feefd4ced0e123a9b333518511c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874050265
+        }
+    ],
+    "wof:id":874050265,
+    "wof:lastmodified":1464311243,
+    "wof:name":"Green Meadows Apartments",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.108156,
+    44.50203,
+    -73.108156,
+    44.50203
+],
+  "geometry": {"coordinates":[-73.10815599999999,44.50203],"type":"Point"}
+}

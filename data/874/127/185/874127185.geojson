@@ -1,0 +1,69 @@
+{
+  "id": 874127185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.601664,43.26618,-72.601664,43.26618",
+    "geom:latitude":43.26618,
+    "geom:longitude":-72.601664,
+    "iso:country":"US",
+    "sg:address":"126 Church St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 4455",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UpcKnNDruhYNZllVab2v3_43.266180_-72.601664@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312104,
+    "wof:geomhash":"83b6a5f737c46aeedadbf830e25e03d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874127185
+        }
+    ],
+    "wof:id":874127185,
+    "wof:lastmodified":1464312104,
+    "wof:name":"Wilcox Bakery",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -72.601664,
+    43.26618,
+    -72.601664,
+    43.26618
+],
+  "geometry": {"coordinates":[-72.601664,43.26618],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874087769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.595108,44.239787,-72.595108,44.239787",
+    "geom:latitude":44.239787,
+    "geom:longitude":-72.595108,
+    "iso:country":"US",
+    "sg:address":"6451 State Rte 12",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 1615",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MV0XNHO6QtZz1DhnEOpXy_44.239787_-72.595108@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311639,
+    "wof:geomhash":"b913945e50b2316453ec0938220817aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874087769
+        }
+    ],
+    "wof:id":874087769,
+    "wof:lastmodified":1464311639,
+    "wof:name":"Bearhill Transportation Inc",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ]
+},
+  "bbox": [
+    -72.595108,
+    44.239787,
+    -72.595108,
+    44.239787
+],
+  "geometry": {"coordinates":[-72.595108,44.239787],"type":"Point"}
+}

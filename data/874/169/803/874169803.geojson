@@ -1,0 +1,73 @@
+{
+  "id": 874169803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.573459,44.25359,-72.573459,44.25359",
+    "geom:latitude":44.25359,
+    "geom:longitude":-72.573459,
+    "iso:country":"US",
+    "sg:address":"109 Berlin St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 0127",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "public",
+        "relations"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ggig3y37Q8GBIF8Ixn4Pv_44.253590_-72.573459@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312525,
+    "wof:geomhash":"a52de47486bb410aa29d25823dfd14ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874169803
+        }
+    ],
+    "wof:id":874169803,
+    "wof:lastmodified":1464312525,
+    "wof:name":"Vermont Musicians Network LLC",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public",
+        "relations"
+    ]
+},
+  "bbox": [
+    -72.573459,
+    44.25359,
+    -72.573459,
+    44.25359
+],
+  "geometry": {"coordinates":[-72.573459,44.25359],"type":"Point"}
+}

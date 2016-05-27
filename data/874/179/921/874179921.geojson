@@ -1,0 +1,71 @@
+{
+  "id": 874179921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.203751,42.877483,-73.203751,42.877483",
+    "geom:latitude":42.877483,
+    "geom:longitude":-73.203751,
+    "iso:country":"US",
+    "sg:address":"330 Elm St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 2500",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "international",
+        "affairs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AJtXTF5Ur1eKypqlWjvpt_42.877483_-73.203751@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312629,
+    "wof:geomhash":"56d1b9088bb9d5d677e5d52e81c8c656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874179921
+        }
+    ],
+    "wof:id":874179921,
+    "wof:lastmodified":1464312629,
+    "wof:name":"W Birk Co",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "international",
+        "affairs"
+    ]
+},
+  "bbox": [
+    -73.203751,
+    42.877483,
+    -73.203751,
+    42.877483
+],
+  "geometry": {"coordinates":[-73.203751,42.877483],"type":"Point"}
+}

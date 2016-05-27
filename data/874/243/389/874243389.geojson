@@ -1,0 +1,69 @@
+{
+  "id": 874243389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.98582,43.616871,-72.98582,43.616871",
+    "geom:latitude":43.616871,
+    "geom:longitude":-72.98582,
+    "iso:country":"US",
+    "sg:address":"119 Walnut St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0390",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hVRrBRobjm64MqQV9Y4Jm_43.616871_-72.985820@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313401,
+    "wof:geomhash":"a48c81359b6c53e166704f92f391d41e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874243389
+        }
+    ],
+    "wof:id":874243389,
+    "wof:lastmodified":1464313401,
+    "wof:name":"Manchester Building & Rmdlg",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.98582,
+    43.616871,
+    -72.98582,
+    43.616871
+],
+  "geometry": {"coordinates":[-72.98582,43.616871],"type":"Point"}
+}

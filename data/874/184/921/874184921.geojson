@@ -1,0 +1,71 @@
+{
+  "id": 874184921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.181123,44.493505,-73.181123,44.493505",
+    "geom:latitude":44.493505,
+    "geom:longitude":-73.181123,
+    "iso:country":"US",
+    "sg:address":"71 Russell St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 9039",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oBxeAG4b0ojxnD9el37yg_44.493505_-73.181123@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312690,
+    "wof:geomhash":"c8ce70916d199904acc7f353973c9a80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874184921
+        }
+    ],
+    "wof:id":874184921,
+    "wof:lastmodified":1464312690,
+    "wof:name":"Burlington Apartments Network",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.181123,
+    44.493505,
+    -73.181123,
+    44.493505
+],
+  "geometry": {"coordinates":[-73.181123,44.493505],"type":"Point"}
+}

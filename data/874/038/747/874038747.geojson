@@ -1,0 +1,71 @@
+{
+  "id": 874038747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.499306,44.199705,-72.499306,44.199705",
+    "geom:latitude":44.199705,
+    "geom:longitude":-72.499306,
+    "iso:country":"US",
+    "sg:address":"27 Franklin St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 5032",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gxpoZQEXx4zvJ2wyxJHfg_44.199705_-72.499306@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311132,
+    "wof:geomhash":"86ca13bd75ad2f3d00ed7ed9bb0e8f91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874038747
+        }
+    ],
+    "wof:id":874038747,
+    "wof:lastmodified":1464311132,
+    "wof:name":"Stevens Bent Branch",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.499306,
+    44.199705,
+    -72.499306,
+    44.199705
+],
+  "geometry": {"coordinates":[-72.499306,44.199705],"type":"Point"}
+}

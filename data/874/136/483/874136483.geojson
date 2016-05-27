@@ -1,0 +1,73 @@
+{
+  "id": 874136483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.509024,43.381233,-72.509024,43.381233",
+    "geom:latitude":43.381233,
+    "geom:longitude":-72.509024,
+    "iso:country":"US",
+    "sg:address":"4125 State Rte 106",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 9383",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xXWfdJK0qzBxTd2qDruwF_43.381233_-72.509024@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312204,
+    "wof:geomhash":"81eb009c68f0076c1fe27cea63a5b004",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874136483
+        }
+    ],
+    "wof:id":874136483,
+    "wof:lastmodified":1464312204,
+    "wof:name":"Martel's Body Shop",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.509024,
+    43.381233,
+    -72.509024,
+    43.381233
+],
+  "geometry": {"coordinates":[-72.509024,43.381233],"type":"Point"}
+}

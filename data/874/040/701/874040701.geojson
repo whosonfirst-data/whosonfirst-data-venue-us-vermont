@@ -1,0 +1,70 @@
+{
+  "id": 874040701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.687713,44.465775,-72.687713,44.465775",
+    "geom:latitude":44.465775,
+    "geom:longitude":-72.687713,
+    "iso:country":"US",
+    "sg:address":"55 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 4693",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.stowecraft.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UzxkfKDPciqwsdzfkvgfV_44.465775_-72.687713@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311150,
+    "wof:geomhash":"ac64072b65fa88d10fdbcd8af01003ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874040701
+        }
+    ],
+    "wof:id":874040701,
+    "wof:lastmodified":1464311150,
+    "wof:name":"Stowe Craft Gallery",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.687713,
+    44.465775,
+    -72.687713,
+    44.465775
+],
+  "geometry": {"coordinates":[-72.687713,44.465775],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874150255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.559298,44.249505,-72.559298,44.249505",
+    "geom:latitude":44.249505,
+    "geom:longitude":-72.559298,
+    "iso:country":"US",
+    "sg:address":"177 River St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 5110",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jyFoirvISIgqf6igiAUtj_44.249505_-72.559298@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312330,
+    "wof:geomhash":"e3c5640a347d0100de62136410bf7e4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874150255
+        }
+    ],
+    "wof:id":874150255,
+    "wof:lastmodified":1464312330,
+    "wof:name":"Commercial Services Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -72.559298,
+    44.249505,
+    -72.559298,
+    44.249505
+],
+  "geometry": {"coordinates":[-72.559298,44.249505],"type":"Point"}
+}

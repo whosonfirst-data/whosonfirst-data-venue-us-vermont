@@ -1,0 +1,76 @@
+{
+  "id": 874231783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212813,44.475861,-73.212813,44.475861",
+    "geom:latitude":44.475861,
+    "geom:longitude":-73.212813,
+    "iso:country":"US",
+    "sg:address":"139 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 6389",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LEqSuRKc3x2irGeHCF7C8_44.475861_-73.212813@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313183,
+    "wof:geomhash":"232e5a549c49798b9293279e661a4692",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874231783
+        }
+    ],
+    "wof:id":874231783,
+    "wof:lastmodified":1464313183,
+    "wof:name":"J P's Pub Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.212813,
+    44.475861,
+    -73.212813,
+    44.475861
+],
+  "geometry": {"coordinates":[-73.212813,44.475861],"type":"Point"}
+}

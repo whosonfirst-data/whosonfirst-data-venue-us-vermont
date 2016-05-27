@@ -1,0 +1,71 @@
+{
+  "id": 874029093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.662635,44.152297,-72.662635,44.152297",
+    "geom:latitude":44.152297,
+    "geom:longitude":-72.662635,
+    "iso:country":"US",
+    "sg:address":"10 School St",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 6479",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IdFsK5qikwOzGnDDJomgT_44.152297_-72.662635@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311039,
+    "wof:geomhash":"fb2eb4a688353d4f6adcd8ca176addca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874029093
+        }
+    ],
+    "wof:id":874029093,
+    "wof:lastmodified":1464311039,
+    "wof:name":"Frank's Finish",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -72.662635,
+    44.152297,
+    -72.662635,
+    44.152297
+],
+  "geometry": {"coordinates":[-72.66263499999999,44.152297],"type":"Point"}
+}

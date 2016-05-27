@@ -1,0 +1,80 @@
+{
+  "id": 874070677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088545,43.795071,-73.088545,43.795071",
+    "geom:latitude":43.795071,
+    "geom:longitude":-73.088545,
+    "iso:country":"US",
+    "sg:address":"25 Union St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3214",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "educational",
+        "material",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g18g649fbxpTT8nFXFc8F_43.795071_-73.088545@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311438,
+    "wof:geomhash":"4c7710a4443ca771b0ac89824113ecd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874070677
+        }
+    ],
+    "wof:id":874070677,
+    "wof:lastmodified":1464311438,
+    "wof:name":"Visual Learning Company",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "material",
+        "business"
+    ]
+},
+  "bbox": [
+    -73.088545,
+    43.795071,
+    -73.088545,
+    43.795071
+],
+  "geometry": {"coordinates":[-73.088545,43.795071],"type":"Point"}
+}

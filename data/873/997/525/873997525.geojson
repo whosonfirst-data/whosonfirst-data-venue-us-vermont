@@ -1,0 +1,73 @@
+{
+  "id": 873997525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.345634,44.38502,-72.345634,44.38502",
+    "geom:latitude":44.38502,
+    "geom:longitude":-72.345634,
+    "iso:country":"US",
+    "sg:address":"138 Staniford Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 1887",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CLFFtHZAWUcFzVyzPLMg5_44.385020_-72.345634@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310743,
+    "wof:geomhash":"98cd3562a0723295db71bdc72a8d9de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":873997525
+        }
+    ],
+    "wof:id":873997525,
+    "wof:lastmodified":1464310743,
+    "wof:name":"North Baseball Little League",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -72.345634,
+    44.38502,
+    -72.345634,
+    44.38502
+],
+  "geometry": {"coordinates":[-72.345634,44.38502],"type":"Point"}
+}

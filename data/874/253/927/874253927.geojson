@@ -1,0 +1,69 @@
+{
+  "id": 874253927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.251503,44.310799,-73.251503,44.310799",
+    "geom:latitude":44.310799,
+    "geom:longitude":-73.251503,
+    "iso:country":"US",
+    "sg:address":"Inn Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 3335",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85811695,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_161jQzKS3rwk1L441GDlJw_44.310799_-73.251503@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313643,
+    "wof:geomhash":"0833d50502a32021e84d90b02197b7bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85811695,
+            "region_id":85688763,
+            "venue_id":874253927
+        }
+    ],
+    "wof:id":874253927,
+    "wof:lastmodified":1464313643,
+    "wof:name":"Mt Philo Inn",
+    "wof:parent_id":85811695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.251503,
+    44.310799,
+    -73.251503,
+    44.310799
+],
+  "geometry": {"coordinates":[-73.251503,44.310799],"type":"Point"}
+}

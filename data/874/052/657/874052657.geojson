@@ -1,0 +1,75 @@
+{
+  "id": 874052657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.261795,44.511443,-73.261795,44.511443",
+    "geom:latitude":44.511443,
+    "geom:longitude":-73.261795,
+    "iso:country":"US",
+    "sg:address":"146 Cottage Grove Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3220",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850949,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xRb808GNJNiu9fegHii6A_44.511443_-73.261795@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311265,
+    "wof:geomhash":"cfc7856be5a3f7d44cd780e001e5fbde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85850949,
+            "region_id":85688763,
+            "venue_id":874052657
+        }
+    ],
+    "wof:id":874052657,
+    "wof:lastmodified":1464311265,
+    "wof:name":"Larry's Vinyl Repair",
+    "wof:parent_id":85850949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -73.261795,
+    44.511443,
+    -73.261795,
+    44.511443
+],
+  "geometry": {"coordinates":[-73.26179500000001,44.511443],"type":"Point"}
+}

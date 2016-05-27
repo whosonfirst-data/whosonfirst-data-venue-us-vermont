@@ -1,0 +1,74 @@
+{
+  "id": 874143089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214678,44.476834,-73.214678,44.476834",
+    "geom:latitude":44.476834,
+    "geom:longitude":-73.214678,
+    "iso:country":"US",
+    "sg:address":"1 Lawson Ln",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 9466",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consultant",
+        "broker"
+    ],
+    "sg:website":"www.willis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7khF6G7xJDHpDMPlbfwLX2_44.476834_-73.214678@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312262,
+    "wof:geomhash":"bb50295ae3cafdad4e51bfcd7810f321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874143089
+        }
+    ],
+    "wof:id":874143089,
+    "wof:lastmodified":1464312262,
+    "wof:name":"Willis Management Ltd",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "broker"
+    ]
+},
+  "bbox": [
+    -73.214678,
+    44.476834,
+    -73.214678,
+    44.476834
+],
+  "geometry": {"coordinates":[-73.21467800000001,44.476834],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874209885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.115489,44.690087,-73.115489,44.690087",
+    "geom:latitude":44.690087,
+    "geom:longitude":-73.115489,
+    "iso:country":"US",
+    "sg:address":"317 Cedarwood Ter",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 8135",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q4ClSc03Nuiayg6iPIijz_44.690087_-73.115489@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312947,
+    "wof:geomhash":"f83ea02323ecdf987563b228182b4113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874209885
+        }
+    ],
+    "wof:id":874209885,
+    "wof:lastmodified":1464312947,
+    "wof:name":"E&A Painting Services",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.115489,
+    44.690087,
+    -73.115489,
+    44.690087
+],
+  "geometry": {"coordinates":[-73.115489,44.690087],"type":"Point"}
+}

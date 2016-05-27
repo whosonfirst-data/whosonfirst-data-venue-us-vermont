@@ -1,0 +1,89 @@
+{
+  "id": 874255569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.96669,43.611061,-72.96669,43.611061",
+    "geom:latitude":43.611061,
+    "geom:longitude":-72.96669,
+    "iso:country":"US",
+    "sg:address":"66 Edgerton St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 3569",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cleaner",
+        "rug",
+        "maintenance",
+        "carpet",
+        "janitorial",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WeAcRniX5LwkuAcV0uzTE_43.611061_-72.966690@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313687,
+    "wof:geomhash":"46a4066685a31e2ee8f5da6dd7de45b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255569
+        }
+    ],
+    "wof:id":874255569,
+    "wof:lastmodified":1464313687,
+    "wof:name":"Rutland Contract Cleaners Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "rug",
+        "maintenance",
+        "carpet",
+        "janitorial",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -72.96669,
+    43.611061,
+    -72.96669,
+    43.611061
+],
+  "geometry": {"coordinates":[-72.96669,43.611061],"type":"Point"}
+}

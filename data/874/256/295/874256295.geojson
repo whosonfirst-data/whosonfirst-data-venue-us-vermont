@@ -1,0 +1,69 @@
+{
+  "id": 874256295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.01448,43.367474,-73.01448,43.367474",
+    "geom:latitude":43.367474,
+    "geom:longitude":-73.01448,
+    "iso:country":"US",
+    "sg:address":"451 Staples Rd",
+    "sg:city":"Danby",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 293 5130",
+    "sg:postcode":"05739",
+    "sg:province":"VT",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QZqQJiO8F9vUOtsLe7utH_43.367474_-73.014480@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313703,
+    "wof:geomhash":"32f4c4a0270bef336b185f22fbb01195",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874256295
+        }
+    ],
+    "wof:id":874256295,
+    "wof:lastmodified":1464313703,
+    "wof:name":"Heads Up Collaborative",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -73.01448,
+    43.367474,
+    -73.01448,
+    43.367474
+],
+  "geometry": {"coordinates":[-73.01448000000001,43.367474],"type":"Point"}
+}

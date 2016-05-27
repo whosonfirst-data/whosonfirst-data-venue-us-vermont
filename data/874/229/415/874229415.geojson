@@ -1,0 +1,69 @@
+{
+  "id": 874229415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.027312,44.552547,-72.027312,44.552547",
+    "geom:latitude":44.552547,
+    "geom:longitude":-72.027312,
+    "iso:country":"US",
+    "sg:address":"1192 State Rte 122",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 9094",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63KldR6pLRV5b9ScMASHcB_44.552547_-72.027312@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313154,
+    "wof:geomhash":"092f5b7c50150981e1c8bd965d464074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874229415
+        }
+    ],
+    "wof:id":874229415,
+    "wof:lastmodified":1464313154,
+    "wof:name":"Town Clerk",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -72.027312,
+    44.552547,
+    -72.027312,
+    44.552547
+],
+  "geometry": {"coordinates":[-72.02731199999999,44.552547],"type":"Point"}
+}

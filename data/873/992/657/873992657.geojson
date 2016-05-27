@@ -1,0 +1,71 @@
+{
+  "id": 873992657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196928,42.88294,-73.196928,42.88294",
+    "geom:latitude":42.88294,
+    "geom:longitude":-73.196928,
+    "iso:country":"US",
+    "sg:address":"200 North St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 1521",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VN2ArzYdFUYQzXevcoAOC_42.882940_-73.196928@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310709,
+    "wof:geomhash":"563a8a43b52366f5cb2116652beaac4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873992657
+        }
+    ],
+    "wof:id":873992657,
+    "wof:lastmodified":1464310709,
+    "wof:name":"Scot Mazda",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.196928,
+    42.88294,
+    -73.196928,
+    42.88294
+],
+  "geometry": {"coordinates":[-73.196928,42.88294],"type":"Point"}
+}

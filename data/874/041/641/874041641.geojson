@@ -1,0 +1,80 @@
+{
+  "id": 874041641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.004589,44.495823,-72.004589,44.495823",
+    "geom:latitude":44.495823,
+    "geom:longitude":-72.004589,
+    "iso:country":"US",
+    "sg:address":"4581 Memorial Dr",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 4513",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "merchandise",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OsQ2hcmNk5QdjK202fYQQ_44.495823_-72.004589@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311163,
+    "wof:geomhash":"d7cd319dbbf30e86e306c9836ef36934",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874041641
+        }
+    ],
+    "wof:id":874041641,
+    "wof:lastmodified":1464311163,
+    "wof:name":"Appalachian Supply Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "merchandise",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.004589,
+    44.495823,
+    -72.004589,
+    44.495823
+],
+  "geometry": {"coordinates":[-72.004589,44.495823],"type":"Point"}
+}

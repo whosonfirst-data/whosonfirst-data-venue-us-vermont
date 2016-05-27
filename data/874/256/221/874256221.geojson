@@ -1,0 +1,82 @@
+{
+  "id": 874256221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.155158,43.720403,-73.155158,43.720403",
+    "geom:latitude":43.720403,
+    "geom:longitude":-73.155158,
+    "iso:country":"US",
+    "sg:address":"1831 Monument Hill Rd",
+    "sg:city":"Castleton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 273 3171",
+    "sg:postcode":"05735",
+    "sg:province":"VT",
+    "sg:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IGlg03lWTzylQNf9BkOup_43.720403_-73.155158@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313702,
+    "wof:geomhash":"b0c921e4c7dd2a4234dc946ee737e7c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874256221
+        }
+    ],
+    "wof:id":874256221,
+    "wof:lastmodified":1464313702,
+    "wof:name":"Habbardton Town Hall",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -73.155158,
+    43.720403,
+    -73.155158,
+    43.720403
+],
+  "geometry": {"coordinates":[-73.155158,43.720403],"type":"Point"}
+}

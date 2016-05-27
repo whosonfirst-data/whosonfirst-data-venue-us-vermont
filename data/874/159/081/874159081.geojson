@@ -1,0 +1,75 @@
+{
+  "id": 874159081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.470248,44.161647,-72.470248,44.161647",
+    "geom:latitude":44.161647,
+    "geom:longitude":-72.470248,
+    "iso:country":"US",
+    "sg:address":"40 Church Hill Rd",
+    "sg:city":"Websterville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7661",
+    "sg:postcode":"05678",
+    "sg:province":"VT",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853237,
+        102191575,
+        404527421,
+        85633793,
+        101728527,
+        102080779,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xHCj6qkdWRsJ00k8libD0_44.161647_-72.470248@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312423,
+    "wof:geomhash":"ec5b7f2e0a67f4ce26231ec2c411f33d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080779,
+            "localadmin_id":404527421,
+            "locality_id":101728527,
+            "neighbourhood_id":85853237,
+            "region_id":85688763,
+            "venue_id":874159081
+        }
+    ],
+    "wof:id":874159081,
+    "wof:lastmodified":1464312423,
+    "wof:name":"Lawson's Store",
+    "wof:parent_id":85853237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -72.470248,
+    44.161647,
+    -72.470248,
+    44.161647
+],
+  "geometry": {"coordinates":[-72.470248,44.161647],"type":"Point"}
+}

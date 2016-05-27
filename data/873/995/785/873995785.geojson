@@ -1,0 +1,71 @@
+{
+  "id": 873995785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.520987,42.974162,-72.520987,42.974162",
+    "geom:latitude":42.974162,
+    "geom:longitude":-72.520987,
+    "iso:country":"US",
+    "sg:address":"10 Christian Sq",
+    "sg:city":"Putney",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 387 8551",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z8eKVqKWnbddfzd6E6ahb_42.974162_-72.520987@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310731,
+    "wof:geomhash":"e57e67a4b40e4891c8e9b57eb0588bfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":873995785
+        }
+    ],
+    "wof:id":873995785,
+    "wof:lastmodified":1464310731,
+    "wof:name":"Putney Community Ctr",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -72.520987,
+    42.974162,
+    -72.520987,
+    42.974162
+],
+  "geometry": {"coordinates":[-72.52098700000001,42.974162],"type":"Point"}
+}

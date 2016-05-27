@@ -1,0 +1,71 @@
+{
+  "id": 874028989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.162259,44.008631,-73.162259,44.008631",
+    "geom:latitude":44.008631,
+    "geom:longitude":-73.162259,
+    "iso:country":"US",
+    "sg:address":"62 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4026",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_312z8uSofGkeOkvjPUhzJT_44.008631_-73.162259@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311038,
+    "wof:geomhash":"f7e723db8567a1b0bb76746aa709194a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874028989
+        }
+    ],
+    "wof:id":874028989,
+    "wof:lastmodified":1464311038,
+    "wof:name":"Marsh & Wagner",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -73.162259,
+    44.008631,
+    -73.162259,
+    44.008631
+],
+  "geometry": {"coordinates":[-73.16225900000001,44.008631],"type":"Point"}
+}

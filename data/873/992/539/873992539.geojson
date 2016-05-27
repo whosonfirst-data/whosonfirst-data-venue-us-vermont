@@ -1,0 +1,71 @@
+{
+  "id": 873992539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.952009,44.386042,-72.952009,44.386042",
+    "geom:latitude":44.386042,
+    "geom:longitude":-72.952009,
+    "iso:country":"US",
+    "sg:address":"2374 Cochran Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 5343",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V0dBIeFkuE1PJPM9ymYEO_44.386042_-72.952009@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310709,
+    "wof:geomhash":"65d39b6b7a83bcba3a467f2ce99e0681",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":873992539
+        }
+    ],
+    "wof:id":873992539,
+    "wof:lastmodified":1464310709,
+    "wof:name":"Timber Hill Farm",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.952009,
+    44.386042,
+    -72.952009,
+    44.386042
+],
+  "geometry": {"coordinates":[-72.952009,44.386042],"type":"Point"}
+}

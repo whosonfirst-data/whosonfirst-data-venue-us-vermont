@@ -1,0 +1,71 @@
+{
+  "id": 874128535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971643,43.604743,-72.971643,43.604743",
+    "geom:latitude":43.604743,
+    "geom:longitude":-72.971643,
+    "iso:country":"US",
+    "sg:address":"276 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 786 4201",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25ZQcDFd1kdlOs36r2ZAy7_43.604743_-72.971643@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312115,
+    "wof:geomhash":"6015653abe0000d62c2edc8c8dbf6d96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874128535
+        }
+    ],
+    "wof:id":874128535,
+    "wof:lastmodified":1464312115,
+    "wof:name":"Banknorth Vermont",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -72.971643,
+    43.604743,
+    -72.971643,
+    43.604743
+],
+  "geometry": {"coordinates":[-72.971643,43.604743],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874176347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.531348,44.131512,-72.531348,44.131512",
+    "geom:latitude":44.131512,
+    "geom:longitude":-72.531348,
+    "iso:country":"US",
+    "sg:address":"103 Osterberg Ter",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 5405",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ci2c2XBEXtQRc65EJWHde_44.131512_-72.531348@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312590,
+    "wof:geomhash":"e161bd333da7d9466048ece6ab3bb0d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874176347
+        }
+    ],
+    "wof:id":874176347,
+    "wof:lastmodified":1464312590,
+    "wof:name":"Atherton Norma",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.531348,
+    44.131512,
+    -72.531348,
+    44.131512
+],
+  "geometry": {"coordinates":[-72.53134799999999,44.131512],"type":"Point"}
+}

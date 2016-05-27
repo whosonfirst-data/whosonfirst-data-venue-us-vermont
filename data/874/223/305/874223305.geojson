@@ -1,0 +1,71 @@
+{
+  "id": 874223305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.351983,44.351382,-72.351983,44.351382",
+    "geom:latitude":44.351382,
+    "geom:longitude":-72.351983,
+    "iso:country":"US",
+    "sg:address":"1616 US Hwy 2",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3469",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FpinCraO5xOdvlZ28lwk1_44.351382_-72.351983@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313097,
+    "wof:geomhash":"2ae462ffcf442acecf4950c35a6c2f93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874223305
+        }
+    ],
+    "wof:id":874223305,
+    "wof:lastmodified":1464313097,
+    "wof:name":"Marshfield Bakery & Cafe",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -72.351983,
+    44.351382,
+    -72.351983,
+    44.351382
+],
+  "geometry": {"coordinates":[-72.351983,44.351382],"type":"Point"}
+}

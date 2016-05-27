@@ -1,0 +1,73 @@
+{
+  "id": 874155109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.168996,44.018521,-73.168996,44.018521",
+    "geom:latitude":44.018521,
+    "geom:longitude":-73.168996,
+    "iso:country":"US",
+    "sg:address":"3 Elm St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2162",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "meat",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09VuKvaisIYthsGyvj8JOJ_44.018521_-73.168996@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312378,
+    "wof:geomhash":"e56abd08a4c87c913db511d45a9c7d93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874155109
+        }
+    ],
+    "wof:id":874155109,
+    "wof:lastmodified":1464312378,
+    "wof:name":"Greg's Meat Market",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meat",
+        "market"
+    ]
+},
+  "bbox": [
+    -73.168996,
+    44.018521,
+    -73.168996,
+    44.018521
+],
+  "geometry": {"coordinates":[-73.16899600000001,44.018521],"type":"Point"}
+}

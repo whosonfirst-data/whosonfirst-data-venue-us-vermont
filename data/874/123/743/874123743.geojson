@@ -1,0 +1,71 @@
+{
+  "id": 874123743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.246339,44.171211,-73.246339,44.171211",
+    "geom:latitude":44.171211,
+    "geom:longitude":-73.246339,
+    "iso:country":"US",
+    "sg:address":"37 Monkton Rd",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2982",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UdZ97XosLahLxBeVdDtAL_44.171211_-73.246339@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312074,
+    "wof:geomhash":"5975150ee4cf40d1d95ce7066b9cbf4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874123743
+        }
+    ],
+    "wof:id":874123743,
+    "wof:lastmodified":1464312074,
+    "wof:name":"Adjutant General",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -73.246339,
+    44.171211,
+    -73.246339,
+    44.171211
+],
+  "geometry": {"coordinates":[-73.24633900000001,44.171211],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874034315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.056211,43.177086,-73.056211,43.177086",
+    "geom:latitude":43.177086,
+    "geom:longitude":-73.056211,
+    "iso:country":"US",
+    "sg:address":"4943 Main St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 1915",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GlWKEaXSAbJZpXiEnyMOx_43.177086_-73.056211@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311088,
+    "wof:geomhash":"ba4e64b8cd95e5728374eaabe0a86561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874034315
+        }
+    ],
+    "wof:id":874034315,
+    "wof:lastmodified":1464311088,
+    "wof:name":"Nancy's Coffee",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -73.056211,
+    43.177086,
+    -73.056211,
+    43.177086
+],
+  "geometry": {"coordinates":[-73.056211,43.177086],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874136793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.184451,44.500765,-73.184451,44.500765",
+    "geom:latitude":44.500765,
+    "geom:longitude":-73.184451,
+    "iso:country":"US",
+    "sg:address":"397 Weaver St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 3706",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GeViuUH0OnIq1rDRLJ7bv_44.500765_-73.184451@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312206,
+    "wof:geomhash":"aa62613c8b6f1345312c89d444a50245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874136793
+        }
+    ],
+    "wof:id":874136793,
+    "wof:lastmodified":1464312206,
+    "wof:name":"Daughters of Charity",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -73.184451,
+    44.500765,
+    -73.184451,
+    44.500765
+],
+  "geometry": {"coordinates":[-73.184451,44.500765],"type":"Point"}
+}

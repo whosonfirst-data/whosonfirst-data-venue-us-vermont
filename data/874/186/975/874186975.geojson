@@ -1,0 +1,80 @@
+{
+  "id": 874186975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.406992,43.606639,-72.406992,43.606639",
+    "geom:latitude":43.606639,
+    "geom:longitude":-72.406992,
+    "iso:country":"US",
+    "sg:address":"586 Quechee Rd",
+    "sg:city":"Hartland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 3310",
+    "sg:postcode":"05048",
+    "sg:province":"VT",
+    "sg:tags":[
+        "candle",
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TPw1B12ifb0kvvtxBx0FZ_43.606639_-72.406992@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312709,
+    "wof:geomhash":"f5fb55ee889f40c3396b5e3b2be91d3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874186975
+        }
+    ],
+    "wof:id":874186975,
+    "wof:lastmodified":1464312709,
+    "wof:name":"Candle In The Wind",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candle",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.406992,
+    43.606639,
+    -72.406992,
+    43.606639
+],
+  "geometry": {"coordinates":[-72.406992,43.606639],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874082317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.060368,44.501908,-73.060368,44.501908",
+    "geom:latitude":44.501908,
+    "geom:longitude":-73.060368,
+    "iso:country":"US",
+    "sg:address":"12 Linden Ln",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 3482",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nHZeIyAJIh8eHyHO6FPIK_44.501908_-73.060368@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311581,
+    "wof:geomhash":"be2fabf83deb71a92ba79a98f8d0ccc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874082317
+        }
+    ],
+    "wof:id":874082317,
+    "wof:lastmodified":1464311581,
+    "wof:name":"Town-Essex Linden Lane Pump",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump"
+    ]
+},
+  "bbox": [
+    -73.060368,
+    44.501908,
+    -73.060368,
+    44.501908
+],
+  "geometry": {"coordinates":[-73.060368,44.501908],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874140699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.600584,42.85197,-72.600584,42.85197",
+    "geom:latitude":42.85197,
+    "geom:longitude":-72.600584,
+    "iso:country":"US",
+    "sg:address":"85 South St",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 2916",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rS7UtrYdis43RlWoKbYbb_42.851970_-72.600584@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312240,
+    "wof:geomhash":"0cce2c74d06fc97130df7c6312014c9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874140699
+        }
+    ],
+    "wof:id":874140699,
+    "wof:lastmodified":1464312240,
+    "wof:name":"Mdt Landscaping",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation"
+    ]
+},
+  "bbox": [
+    -72.600584,
+    42.85197,
+    -72.600584,
+    42.85197
+],
+  "geometry": {"coordinates":[-72.600584,42.85197],"type":"Point"}
+}

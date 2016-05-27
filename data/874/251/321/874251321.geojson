@@ -1,0 +1,92 @@
+{
+  "id": 874251321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199156,42.876891,-73.199156,42.876891",
+    "geom:latitude":42.876891,
+    "geom:longitude":-73.199156,
+    "iso:country":"US",
+    "sg:address":"126 Elm St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 1219",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "nurses-home",
+        "convalescent",
+        "aged",
+        "homes-institutional",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12Hsdm6M2fnoRIYrhEgGYP_42.876891_-73.199156@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313591,
+    "wof:geomhash":"cab452e17f1466130c3fb2777ea0ebd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251321
+        }
+    ],
+    "wof:id":874251321,
+    "wof:lastmodified":1464313591,
+    "wof:name":"Washington Elms Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurses-home",
+        "convalescent",
+        "aged",
+        "homes-institutional",
+        "rest"
+    ]
+},
+  "bbox": [
+    -73.199156,
+    42.876891,
+    -73.199156,
+    42.876891
+],
+  "geometry": {"coordinates":[-73.199156,42.876891],"type":"Point"}
+}

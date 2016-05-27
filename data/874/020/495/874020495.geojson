@@ -1,0 +1,88 @@
+{
+  "id": 874020495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.027621,43.595282,-73.027621,43.595282",
+    "geom:latitude":43.595282,
+    "geom:longitude":-73.027621,
+    "iso:country":"US",
+    "sg:address":"335 Rutland Rd",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 5722",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drain",
+        "heating",
+        "contractor",
+        "sewer",
+        "cleaning",
+        "drainage",
+        "plumbing",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bDL6sxpcyjlUFWaaCSqAr_43.595282_-73.027621@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310952,
+    "wof:geomhash":"fe1487c0cf96ede113933a871c2b3691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874020495
+        }
+    ],
+    "wof:id":874020495,
+    "wof:lastmodified":1464310952,
+    "wof:name":"A-1 Sewer & Drain Cleaning Svc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drain",
+        "heating",
+        "contractor",
+        "sewer",
+        "cleaning",
+        "drainage",
+        "plumbing",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -73.027621,
+    43.595282,
+    -73.027621,
+    43.595282
+],
+  "geometry": {"coordinates":[-73.027621,43.595282],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874114127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.18929,44.491525,-73.18929,44.491525",
+    "geom:latitude":44.491525,
+    "geom:longitude":-73.18929,
+    "iso:country":"US",
+    "sg:address":"18 Malletts Bay Ave",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 9542",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HGEQVrxYQPd4qI4VtKBJW_44.491525_-73.189290@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311978,
+    "wof:geomhash":"9b5939bff5455f2f7213c6e521a740e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874114127
+        }
+    ],
+    "wof:id":874114127,
+    "wof:lastmodified":1464311978,
+    "wof:name":"Track Side Tavern",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -73.18929,
+    44.491525,
+    -73.18929,
+    44.491525
+],
+  "geometry": {"coordinates":[-73.18929,44.491525],"type":"Point"}
+}

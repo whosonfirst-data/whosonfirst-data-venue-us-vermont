@@ -1,0 +1,69 @@
+{
+  "id": 874197865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.653494,44.486951,-72.653494,44.486951",
+    "geom:latitude":44.486951,
+    "geom:longitude":-72.653494,
+    "iso:country":"US",
+    "sg:address":"1593 Pucker St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 4157",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4scunGI6kgq3r5Trwk09fd_44.486951_-72.653494@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312825,
+    "wof:geomhash":"45d21f0a23e987c36867bd121fbcc419",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874197865
+        }
+    ],
+    "wof:id":874197865,
+    "wof:lastmodified":1464312825,
+    "wof:name":"Stowe Family Dentistry P C",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.653494,
+    44.486951,
+    -72.653494,
+    44.486951
+],
+  "geometry": {"coordinates":[-72.65349399999999,44.486951],"type":"Point"}
+}

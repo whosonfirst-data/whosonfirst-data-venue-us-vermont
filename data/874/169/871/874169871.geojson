@@ -1,0 +1,71 @@
+{
+  "id": 874169871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.165301,44.014548,-73.165301,44.014548",
+    "geom:latitude":44.014548,
+    "geom:longitude":-73.165301,
+    "iso:country":"US",
+    "sg:address":"15 Washington St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 6600",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kCJYkKG8pBUL107VKwJ62_44.014548_-73.165301@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312525,
+    "wof:geomhash":"eba36d92d028a81deb738529069b125e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874169871
+        }
+    ],
+    "wof:id":874169871,
+    "wof:lastmodified":1464312525,
+    "wof:name":"Milne Travel American Express",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -73.165301,
+    44.014548,
+    -73.165301,
+    44.014548
+],
+  "geometry": {"coordinates":[-73.165301,44.014548],"type":"Point"}
+}

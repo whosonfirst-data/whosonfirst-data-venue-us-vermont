@@ -1,0 +1,71 @@
+{
+  "id": 874115695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208904,44.442768,-73.208904,44.442768",
+    "geom:latitude":44.442768,
+    "geom:longitude":-73.208904,
+    "iso:country":"US",
+    "sg:address":"46 Brewer Pkwy",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 7467",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hLTm0FDAyDESDdprDuBEn_44.442768_-73.208904@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311993,
+    "wof:geomhash":"d3672ed3eb23dba066653b17415ea719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874115695
+        }
+    ],
+    "wof:id":874115695,
+    "wof:lastmodified":1464311993,
+    "wof:name":"Cassidy Properties",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -73.208904,
+    44.442768,
+    -73.208904,
+    44.442768
+],
+  "geometry": {"coordinates":[-73.208904,44.442768],"type":"Point"}
+}

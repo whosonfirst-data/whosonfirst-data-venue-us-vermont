@@ -1,0 +1,71 @@
+{
+  "id": 874166473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.498824,44.197189,-72.498824,44.197189",
+    "geom:latitude":44.197189,
+    "geom:longitude":-72.498824,
+    "iso:country":"US",
+    "sg:address":"3 Andrews Ct",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2880",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_213hEZOFhElDcmbfKIwVqG_44.197189_-72.498824@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312494,
+    "wof:geomhash":"07b8f03cea76a1fb67191549ca8d9163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874166473
+        }
+    ],
+    "wof:id":874166473,
+    "wof:lastmodified":1464312494,
+    "wof:name":"Hair After",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.498824,
+    44.197189,
+    -72.498824,
+    44.197189
+],
+  "geometry": {"coordinates":[-72.498824,44.197189],"type":"Point"}
+}

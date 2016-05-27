@@ -1,0 +1,72 @@
+{
+  "id": 874188111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.504494,44.199646,-72.504494,44.199646",
+    "geom:latitude":44.199646,
+    "geom:longitude":-72.504494,
+    "iso:country":"US",
+    "sg:address":"220 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5400",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.aubuchon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3enrYkY1Fo12J1ZtVthBh8_44.199646_-72.504494@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312720,
+    "wof:geomhash":"68569e037e666ea0850f8f8d95e83530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874188111
+        }
+    ],
+    "wof:id":874188111,
+    "wof:lastmodified":1464312720,
+    "wof:name":"Aubuchon Hardware 049",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -72.504494,
+    44.199646,
+    -72.504494,
+    44.199646
+],
+  "geometry": {"coordinates":[-72.50449399999999,44.199646],"type":"Point"}
+}

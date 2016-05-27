@@ -1,0 +1,75 @@
+{
+  "id": 874255799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.98468,43.607342,-72.98468,43.607342",
+    "geom:latitude":43.607342,
+    "geom:longitude":-72.98468,
+    "iso:country":"US",
+    "sg:address":"200 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 7171",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dealers-used",
+        "used",
+        "cars-wholesale",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1elvAR5aVrMEYhoFvGEM5y_43.607342_-72.984680@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313692,
+    "wof:geomhash":"2de6b7f0a81656a5f8bb166cbb147f73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255799
+        }
+    ],
+    "wof:id":874255799,
+    "wof:lastmodified":1464313692,
+    "wof:name":"Rutland Motor Cars",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealers-used",
+        "used",
+        "cars-wholesale",
+        "car"
+    ]
+},
+  "bbox": [
+    -72.98468,
+    43.607342,
+    -72.98468,
+    43.607342
+],
+  "geometry": {"coordinates":[-72.98468,43.607342],"type":"Point"}
+}

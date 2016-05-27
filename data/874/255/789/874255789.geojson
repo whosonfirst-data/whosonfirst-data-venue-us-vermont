@@ -1,0 +1,64 @@
+{
+  "id": 874255789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.986923,43.60688,-72.986923,43.60688",
+    "geom:latitude":43.60688,
+    "geom:longitude":-72.986923,
+    "iso:country":"US",
+    "sg:address":"266 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 236 3133",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70whnPJhEe3WramteLTMxU_43.606880_-72.986923@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313692,
+    "wof:geomhash":"cd4ffebfbc9c9c8ef5f98aa10d5329e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255789
+        }
+    ],
+    "wof:id":874255789,
+    "wof:lastmodified":1464313692,
+    "wof:name":"Rutland Taxi",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.986923,
+    43.60688,
+    -72.986923,
+    43.60688
+],
+  "geometry": {"coordinates":[-72.986923,43.60688],"type":"Point"}
+}

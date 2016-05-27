@@ -1,0 +1,74 @@
+{
+  "id": 874024297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205822,44.489667,-73.205822,44.489667",
+    "geom:latitude":44.489667,
+    "geom:longitude":-73.205822,
+    "iso:country":"US",
+    "sg:address":"299 N Winooski Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 0292",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "sg:website":"www.vanpo.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dd0TrayHqtrfVEL7lz03y_44.489667_-73.205822@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310986,
+    "wof:geomhash":"0e5e5032821d58bec27f5bb681589851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874024297
+        }
+    ],
+    "wof:id":874024297,
+    "wof:lastmodified":1464310986,
+    "wof:name":"Vermont Alliance Of Nonprofit",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -73.205822,
+    44.489667,
+    -73.205822,
+    44.489667
+],
+  "geometry": {"coordinates":[-73.205822,44.489667],"type":"Point"}
+}

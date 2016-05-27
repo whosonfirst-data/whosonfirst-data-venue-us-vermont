@@ -1,0 +1,71 @@
+{
+  "id": 874137635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088807,43.799246,-73.088807,43.799246",
+    "geom:latitude":43.799246,
+    "geom:longitude":-73.088807,
+    "iso:country":"US",
+    "sg:address":"10 Center St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 6059",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p3a29PLYOGo8FjMdji7Q5_43.799246_-73.088807@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312214,
+    "wof:geomhash":"54915fd8367f3fe72d82dc5ea14512a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874137635
+        }
+    ],
+    "wof:id":874137635,
+    "wof:lastmodified":1464312214,
+    "wof:name":"Aubuchon Hardware 046",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -73.088807,
+    43.799246,
+    -73.088807,
+    43.799246
+],
+  "geometry": {"coordinates":[-73.088807,43.799246],"type":"Point"}
+}

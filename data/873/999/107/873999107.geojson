@@ -1,0 +1,75 @@
+{
+  "id": 873999107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.90092,44.676455,-71.90092,44.676455",
+    "geom:latitude":44.676455,
+    "geom:longitude":-71.90092,
+    "iso:country":"US",
+    "sg:address":"1342 E Hill Rd",
+    "sg:city":"West Burke",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 467 8582",
+    "sg:postcode":"05871",
+    "sg:province":"VT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420545825,
+        102191575,
+        404527549,
+        85633793,
+        101728271,
+        102080755,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OqmcVqdkm7aC84kiImXc6_44.676455_-71.900920@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310754,
+    "wof:geomhash":"76b9584921b58a00818a2632bca21b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080755,
+            "localadmin_id":404527549,
+            "locality_id":101728271,
+            "neighbourhood_id":420545825,
+            "region_id":85688763,
+            "venue_id":873999107
+        }
+    ],
+    "wof:id":873999107,
+    "wof:lastmodified":1464310754,
+    "wof:name":"Bram Maintenance Management",
+    "wof:parent_id":420545825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.90092,
+    44.676455,
+    -71.90092,
+    44.676455
+],
+  "geometry": {"coordinates":[-71.90092,44.676455],"type":"Point"}
+}

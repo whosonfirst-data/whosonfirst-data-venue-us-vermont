@@ -1,0 +1,72 @@
+{
+  "id": 874064221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.715356,44.441379,-72.715356,44.441379",
+    "geom:latitude":44.441379,
+    "geom:longitude":-72.715356,
+    "iso:country":"US",
+    "sg:address":"435 Moscow Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 2036",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "sg:website":"www.moscow-mills.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WcePSpQJUUa5llX7wuF10_44.441379_-72.715356@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311373,
+    "wof:geomhash":"30769b4c434e42e2b7bceea2fd133efd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874064221
+        }
+    ],
+    "wof:id":874064221,
+    "wof:lastmodified":1464311373,
+    "wof:name":"Moscow Mills Mfg Svc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.715356,
+    44.441379,
+    -72.715356,
+    44.441379
+],
+  "geometry": {"coordinates":[-72.715356,44.441379],"type":"Point"}
+}

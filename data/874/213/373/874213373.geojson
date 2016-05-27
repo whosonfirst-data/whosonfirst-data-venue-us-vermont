@@ -1,0 +1,69 @@
+{
+  "id": 874213373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.162232,44.550851,-73.162232,44.550851",
+    "geom:latitude":44.550851,
+    "geom:longitude":-73.162232,
+    "iso:country":"US",
+    "sg:address":"84 Pierre Ct",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 4307",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tbNHihBUErKkPthPdoErL_44.550851_-73.162232@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312988,
+    "wof:geomhash":"b965c9412b1b7d02f539d1c9a0e1e57b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":874213373
+        }
+    ],
+    "wof:id":874213373,
+    "wof:lastmodified":1464312988,
+    "wof:name":"New Image Salon",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.162232,
+    44.550851,
+    -73.162232,
+    44.550851
+],
+  "geometry": {"coordinates":[-73.162232,44.550851],"type":"Point"}
+}

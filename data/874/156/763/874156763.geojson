@@ -1,0 +1,71 @@
+{
+  "id": 874156763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.458084,44.237776,-72.458084,44.237776",
+    "geom:latitude":44.237776,
+    "geom:longitude":-72.458084,
+    "iso:country":"US",
+    "sg:address":"2191 Lower Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 0614",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g50iQLx1hkSE3sCQ6Bu0N_44.237776_-72.458084@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312396,
+    "wof:geomhash":"6aac8619d3488df52860a356f8fb5e77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874156763
+        }
+    ],
+    "wof:id":874156763,
+    "wof:lastmodified":1464312396,
+    "wof:name":"Amy Cormier Photography",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -72.458084,
+    44.237776,
+    -72.458084,
+    44.237776
+],
+  "geometry": {"coordinates":[-72.458084,44.237776],"type":"Point"}
+}

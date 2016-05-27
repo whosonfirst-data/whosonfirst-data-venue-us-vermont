@@ -1,0 +1,71 @@
+{
+  "id": 873983699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205179,44.534802,-73.205179,44.534802",
+    "geom:latitude":44.534802,
+    "geom:longitude":-73.205179,
+    "iso:country":"US",
+    "sg:address":"883 Blakely Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 847 2055",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E8vBp7OXWEfEufTYuFjQt_44.534802_-73.205179@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310639,
+    "wof:geomhash":"dfdfd8fe57633516e24805cc5fbca296",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":873983699
+        }
+    ],
+    "wof:id":873983699,
+    "wof:lastmodified":1464310639,
+    "wof:name":"Colchester Family Practice",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.205179,
+    44.534802,
+    -73.205179,
+    44.534802
+],
+  "geometry": {"coordinates":[-73.205179,44.534802],"type":"Point"}
+}

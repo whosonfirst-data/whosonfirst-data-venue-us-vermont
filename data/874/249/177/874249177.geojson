@@ -1,0 +1,74 @@
+{
+  "id": 874249177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215062,44.468377,-73.215062,44.468377",
+    "geom:latitude":44.468377,
+    "geom:longitude":-73.215062,
+    "iso:country":"US",
+    "sg:address":"400 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3968",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer",
+        "eating"
+    ],
+    "sg:website":"http://www.freshmarketvt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N3jVH6VW1OnP9U9ukHfi4_44.468037_-73.214994@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313537,
+    "wof:geomhash":"1a6f2fc0085731fef4c74e99762703fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874249177
+        }
+    ],
+    "wof:id":874249177,
+    "wof:lastmodified":1464313537,
+    "wof:name":"Cheese Outlet/Fresh Market",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.215062,
+    44.468377,
+    -73.215062,
+    44.468377
+],
+  "geometry": {"coordinates":[-73.215062,44.468377],"type":"Point"}
+}

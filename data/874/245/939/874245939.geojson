@@ -1,0 +1,80 @@
+{
+  "id": 874245939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.00444,44.421371,-72.00444,44.421371",
+    "geom:latitude":44.421371,
+    "geom:longitude":-72.00444,
+    "iso:country":"US",
+    "sg:address":"623 Concord Ave",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3803",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "house",
+        "sewing",
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IjM7rkGNRCRQtOao3MGLq_44.421371_-72.004440@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313453,
+    "wof:geomhash":"e11df52c74a0066f7c5959aabb7f81ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874245939
+        }
+    ],
+    "wof:id":874245939,
+    "wof:lastmodified":1464313453,
+    "wof:name":"Sewin' In Vermont",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "house",
+        "sewing",
+        "mail"
+    ]
+},
+  "bbox": [
+    -72.00444,
+    44.421371,
+    -72.00444,
+    44.421371
+],
+  "geometry": {"coordinates":[-72.00444,44.421371],"type":"Point"}
+}

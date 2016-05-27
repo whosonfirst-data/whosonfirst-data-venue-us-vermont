@@ -1,0 +1,71 @@
+{
+  "id": 874231187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208103,44.459913,-73.208103,44.459913",
+    "geom:latitude":44.459913,
+    "geom:longitude":-73.208103,
+    "iso:country":"US",
+    "sg:address":"176 Shelburne Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 3253",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EdYLFRbIOtDLYrrVM6pIL_44.459913_-73.208103@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313176,
+    "wof:geomhash":"89a93a070ef67da845fc8eb1c34f8d0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874231187
+        }
+    ],
+    "wof:id":874231187,
+    "wof:lastmodified":1464313176,
+    "wof:name":"Artful Chimney Service Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chimney"
+    ]
+},
+  "bbox": [
+    -73.208103,
+    44.459913,
+    -73.208103,
+    44.459913
+],
+  "geometry": {"coordinates":[-73.20810299999999,44.459913],"type":"Point"}
+}

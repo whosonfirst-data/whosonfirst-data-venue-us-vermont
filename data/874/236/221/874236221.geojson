@@ -1,0 +1,73 @@
+{
+  "id": 874236221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.656756,44.148766,-72.656756,44.148766",
+    "geom:latitude":44.148766,
+    "geom:longitude":-72.656756,
+    "iso:country":"US",
+    "sg:address":"70 Depot Sq",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 5311",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05GopQI48QCUhPra0oD8NK_44.148766_-72.656756@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313267,
+    "wof:geomhash":"f225ea77b1b07b3155d1fe7e715fcfa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874236221
+        }
+    ],
+    "wof:id":874236221,
+    "wof:lastmodified":1464313267,
+    "wof:name":"Merchant's Bank",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -72.656756,
+    44.148766,
+    -72.656756,
+    44.148766
+],
+  "geometry": {"coordinates":[-72.656756,44.148766],"type":"Point"}
+}

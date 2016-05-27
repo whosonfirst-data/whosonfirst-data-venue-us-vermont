@@ -1,0 +1,71 @@
+{
+  "id": 874139879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.250928,43.966337,-73.250928,43.966337",
+    "geom:latitude":43.966337,
+    "geom:longitude":-73.250928,
+    "iso:country":"US",
+    "sg:address":"1684 West St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 3990",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "breeder",
+        "horse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bxq5KJhFCdigX8TnKY1N4_43.966337_-73.250928@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312234,
+    "wof:geomhash":"7fb4ed7e82fb048d7cfe833d9f4c5f63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":874139879
+        }
+    ],
+    "wof:id":874139879,
+    "wof:lastmodified":1464312234,
+    "wof:name":"West Morgan Horse Farm",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "horse"
+    ]
+},
+  "bbox": [
+    -73.250928,
+    43.966337,
+    -73.250928,
+    43.966337
+],
+  "geometry": {"coordinates":[-73.250928,43.966337],"type":"Point"}
+}

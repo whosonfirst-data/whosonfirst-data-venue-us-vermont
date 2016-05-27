@@ -1,0 +1,87 @@
+{
+  "id": 874255607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.991881,43.605787,-72.991881,43.605787",
+    "geom:latitude":43.605787,
+    "geom:longitude":-72.991881,
+    "iso:country":"US",
+    "sg:address":"312 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 7566",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrician",
+        "electric",
+        "automobile",
+        "accessory",
+        "part"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eNGT2xyqJ6fl3ZyfPrkaU_43.605787_-72.991881@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313688,
+    "wof:geomhash":"10fc6bd5986056972717cd005cdda7cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255607
+        }
+    ],
+    "wof:id":874255607,
+    "wof:lastmodified":1464313688,
+    "wof:name":"Carpenters Electric Company",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "electric",
+        "automobile",
+        "accessory",
+        "part"
+    ]
+},
+  "bbox": [
+    -72.991881,
+    43.605787,
+    -72.991881,
+    43.605787
+],
+  "geometry": {"coordinates":[-72.99188100000001,43.605787],"type":"Point"}
+}

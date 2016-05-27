@@ -1,0 +1,72 @@
+{
+  "id": 874250407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.557716,42.88211,-72.557716,42.88211",
+    "geom:latitude":42.88211,
+    "geom:longitude":-72.557716,
+    "iso:country":"US",
+    "sg:address":"1027 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/brattleboro/212982-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 8528",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lPB4N0QCT06y7sS2my46M_42.882110_-72.557716@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313575,
+    "wof:geomhash":"4b6457b47b5439f0bad51a5524a50dab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874250407
+        }
+    ],
+    "wof:id":874250407,
+    "wof:lastmodified":1464313575,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.557716,
+    42.88211,
+    -72.557716,
+    42.88211
+],
+  "geometry": {"coordinates":[-72.557716,42.88211],"type":"Point"}
+}

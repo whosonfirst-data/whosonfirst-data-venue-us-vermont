@@ -1,0 +1,73 @@
+{
+  "id": 874220347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.773387,44.907853,-72.773387,44.907853",
+    "geom:latitude":44.907853,
+    "geom:longitude":-72.773387,
+    "iso:country":"US",
+    "sg:address":"1626 Davis Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 2254",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vtpLKPqaNdj5Mb0Iw5l4N_44.907853_-72.773387@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313067,
+    "wof:geomhash":"c0fff73813d0b985d3b17f6a7c3dd152",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874220347
+        }
+    ],
+    "wof:id":874220347,
+    "wof:lastmodified":1464313067,
+    "wof:name":"St Cyr Plumbing & Heating Inc",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.773387,
+    44.907853,
+    -72.773387,
+    44.907853
+],
+  "geometry": {"coordinates":[-72.773387,44.907853],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874182983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.592609,44.575607,-72.592609,44.575607",
+    "geom:latitude":44.575607,
+    "geom:longitude":-72.592609,
+    "iso:country":"US",
+    "sg:address":"925 Brooklyn St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 2800",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AL7aCiPvWx42VXbaNdsDd_44.575607_-72.592609@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312660,
+    "wof:geomhash":"31e8fc99d2d7130def90c44e72c83dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874182983
+        }
+    ],
+    "wof:id":874182983,
+    "wof:lastmodified":1464312660,
+    "wof:name":"Aubuchon Hardware 057",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -72.592609,
+    44.575607,
+    -72.592609,
+    44.575607
+],
+  "geometry": {"coordinates":[-72.592609,44.575607],"type":"Point"}
+}

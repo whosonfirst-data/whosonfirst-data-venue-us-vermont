@@ -1,0 +1,73 @@
+{
+  "id": 874248431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.18983,44.49399,-73.18983,44.49399",
+    "geom:latitude":44.49399,
+    "geom:longitude":-73.18983,
+    "iso:country":"US",
+    "sg:address":"4 North St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 7785",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "personal",
+        "financing",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CL8vI1pe7WSDAUJpFrlzt_44.493990_-73.189830@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313509,
+    "wof:geomhash":"cf21f5b000fdb73f0ea996f34415d085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874248431
+        }
+    ],
+    "wof:id":874248431,
+    "wof:lastmodified":1464313509,
+    "wof:name":"Haven Financial Associates",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "financing",
+        "institution"
+    ]
+},
+  "bbox": [
+    -73.18983,
+    44.49399,
+    -73.18983,
+    44.49399
+],
+  "geometry": {"coordinates":[-73.18983,44.49399],"type":"Point"}
+}

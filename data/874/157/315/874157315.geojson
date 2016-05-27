@@ -1,0 +1,76 @@
+{
+  "id": 874157315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.198897,44.482081,-73.198897,44.482081",
+    "geom:latitude":44.482081,
+    "geom:longitude":-73.198897,
+    "iso:country":"US",
+    "sg:address":"50 Mansfield Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 3992",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "child",
+        "day",
+        "care"
+    ],
+    "sg:website":"www.mcschool.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vJ9rwFHo6IuChwXIig8rG_44.482081_-73.198897@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312402,
+    "wof:geomhash":"cc2a3409b8ab4bbaec529a5a3c43a73a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874157315
+        }
+    ],
+    "wof:id":874157315,
+    "wof:lastmodified":1464312402,
+    "wof:name":"Mater Christi School",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "child",
+        "day",
+        "care"
+    ]
+},
+  "bbox": [
+    -73.198897,
+    44.482081,
+    -73.198897,
+    44.482081
+],
+  "geometry": {"coordinates":[-73.198897,44.482081],"type":"Point"}
+}

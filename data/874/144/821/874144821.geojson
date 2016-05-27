@@ -1,0 +1,71 @@
+{
+  "id": 874144821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.59819,43.259363,-72.59819,43.259363",
+    "geom:latitude":43.259363,
+    "geom:longitude":-72.59819,
+    "iso:country":"US",
+    "sg:address":"8 High St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 2016",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2flJFsqIbx0fqjwaiVC0ki_43.259363_-72.598190@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312279,
+    "wof:geomhash":"dcb493b2e0fe09b60df3bf597f27b2fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874144821
+        }
+    ],
+    "wof:id":874144821,
+    "wof:lastmodified":1464312279,
+    "wof:name":"Chester Microchips",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.59819,
+    43.259363,
+    -72.59819,
+    43.259363
+],
+  "geometry": {"coordinates":[-72.59819,43.259363],"type":"Point"}
+}

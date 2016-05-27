@@ -1,0 +1,71 @@
+{
+  "id": 874017957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.542665,43.743866,-72.542665,43.743866",
+    "geom:latitude":43.743866,
+    "geom:longitude":-72.542665,
+    "iso:country":"US",
+    "sg:address":"5458 Broad Brook Rd",
+    "sg:city":"Barnard",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 7074",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_029mmhQBUh9ErnEKYaSYZa_43.743866_-72.542665@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310925,
+    "wof:geomhash":"b4240ba2feb48a1990c3bfe62253f9d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874017957
+        }
+    ],
+    "wof:id":874017957,
+    "wof:lastmodified":1464310925,
+    "wof:name":"Brook Broad Volunteer Fire",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -72.542665,
+    43.743866,
+    -72.542665,
+    43.743866
+],
+  "geometry": {"coordinates":[-72.542665,43.743866],"type":"Point"}
+}

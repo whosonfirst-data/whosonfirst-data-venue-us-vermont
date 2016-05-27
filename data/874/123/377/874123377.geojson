@@ -1,0 +1,69 @@
+{
+  "id": 874123377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.044812,43.593166,-73.044812,43.593166",
+    "geom:latitude":43.593166,
+    "geom:longitude":-73.044812,
+    "iso:country":"US",
+    "sg:address":"355 Main St",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 2571",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pNrsXxuOSyiNBFGqvd1Yt_43.593166_-73.044812@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312071,
+    "wof:geomhash":"55b1a140ff8e642adc553750129a6043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874123377
+        }
+    ],
+    "wof:id":874123377,
+    "wof:lastmodified":1464312071,
+    "wof:name":"Mc Gann's Mobil Station",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -73.044812,
+    43.593166,
+    -73.044812,
+    43.593166
+],
+  "geometry": {"coordinates":[-73.04481199999999,43.593166],"type":"Point"}
+}

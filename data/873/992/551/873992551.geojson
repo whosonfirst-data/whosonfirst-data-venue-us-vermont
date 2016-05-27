@@ -1,0 +1,71 @@
+{
+  "id": 873992551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.55163,44.226191,-72.55163,44.226191",
+    "geom:latitude":44.226191,
+    "geom:longitude":-72.55163,
+    "iso:country":"US",
+    "sg:address":"1284 US Hwy 302",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 2323",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BJ3tuatGDGxNt5P74T9eK_44.226191_-72.551630@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310709,
+    "wof:geomhash":"9b9f29ebee2f80591d88b67538c16085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873992551
+        }
+    ],
+    "wof:id":873992551,
+    "wof:lastmodified":1464310709,
+    "wof:name":"Edward Jones 16970",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -72.55163,
+    44.226191,
+    -72.55163,
+    44.226191
+],
+  "geometry": {"coordinates":[-72.55163,44.226191],"type":"Point"}
+}

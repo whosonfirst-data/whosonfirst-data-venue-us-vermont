@@ -1,0 +1,71 @@
+{
+  "id": 874175303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.105695,44.427975,-73.105695,44.427975",
+    "geom:latitude":44.427975,
+    "geom:longitude":-73.105695,
+    "iso:country":"US",
+    "sg:address":"191 Rabbits Run",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 9999",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BUfeupdmuvxZpxS9ICFFI_44.427975_-73.105695@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312581,
+    "wof:geomhash":"49dfdbe228a0f441ac22d17a4f8dfe82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874175303
+        }
+    ],
+    "wof:id":874175303,
+    "wof:lastmodified":1464312581,
+    "wof:name":"Valley Roofing",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.105695,
+    44.427975,
+    -73.105695,
+    44.427975
+],
+  "geometry": {"coordinates":[-73.105695,44.427975],"type":"Point"}
+}

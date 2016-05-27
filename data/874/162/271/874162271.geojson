@@ -1,0 +1,73 @@
+{
+  "id": 874162271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167236,44.453766,-73.167236,44.453766",
+    "geom:latitude":44.453766,
+    "geom:longitude":-73.167236,
+    "iso:country":"US",
+    "sg:address":"43 Timber Ln",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 3993",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41q6Y34asNk0lL3OYfap3t_44.453766_-73.167236@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312453,
+    "wof:geomhash":"32e4d9f4e67558a16d3343c2ca5829d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874162271
+        }
+    ],
+    "wof:id":874162271,
+    "wof:lastmodified":1464312453,
+    "wof:name":"Vermont Hand Therapy Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.167236,
+    44.453766,
+    -73.167236,
+    44.453766
+],
+  "geometry": {"coordinates":[-73.167236,44.453766],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874152815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.500748,44.197106,-72.500748,44.197106",
+    "geom:latitude":44.197106,
+    "geom:longitude":-72.500748,
+    "iso:country":"US",
+    "sg:address":"14 Washington St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9175",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vBw95X4VUHmkbB8PMhYKV_44.197106_-72.500748@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312354,
+    "wof:geomhash":"5e376a0cd6ef14c36c450adda69bfee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874152815
+        }
+    ],
+    "wof:id":874152815,
+    "wof:lastmodified":1464312354,
+    "wof:name":"Galley Senior Meals",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -72.500748,
+    44.197106,
+    -72.500748,
+    44.197106
+],
+  "geometry": {"coordinates":[-72.500748,44.197106],"type":"Point"}
+}

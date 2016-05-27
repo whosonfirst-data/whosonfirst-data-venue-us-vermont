@@ -1,0 +1,69 @@
+{
+  "id": 874140245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.829785,43.711106,-72.829785,43.711106",
+    "geom:latitude":43.711106,
+    "geom:longitude":-72.829785,
+    "iso:country":"US",
+    "sg:address":"171 Estabrook Rd",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 236 5030",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838027,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hlQ0vTSsVouiHZ7cn8hZY_43.711106_-72.829785@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312237,
+    "wof:geomhash":"1f1a580a1697876afbd844fc77675257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85838027,
+            "region_id":85688763,
+            "venue_id":874140245
+        }
+    ],
+    "wof:id":874140245,
+    "wof:lastmodified":1464312237,
+    "wof:name":"Cleaning Crew",
+    "wof:parent_id":85838027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -72.829785,
+    43.711106,
+    -72.829785,
+    43.711106
+],
+  "geometry": {"coordinates":[-72.829785,43.711106],"type":"Point"}
+}

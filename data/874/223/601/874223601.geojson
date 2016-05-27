@@ -1,0 +1,71 @@
+{
+  "id": 874223601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.182794,44.501513,-73.182794,44.501513",
+    "geom:latitude":44.501513,
+    "geom:longitude":-73.182794,
+    "iso:country":"US",
+    "sg:address":"486 Main St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 9013",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HBLxh8He6zwWsqbStlPNw_44.501513_-73.182794@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313099,
+    "wof:geomhash":"e7ff291fcb8c5f7d46f1a7beba61adbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874223601
+        }
+    ],
+    "wof:id":874223601,
+    "wof:lastmodified":1464313099,
+    "wof:name":"Northeastern Family Institute",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.182794,
+    44.501513,
+    -73.182794,
+    44.501513
+],
+  "geometry": {"coordinates":[-73.182794,44.501513],"type":"Point"}
+}

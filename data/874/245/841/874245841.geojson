@@ -1,0 +1,73 @@
+{
+  "id": 874245841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.004176,44.534917,-72.004176,44.534917",
+    "geom:latitude":44.534917,
+    "geom:longitude":-72.004176,
+    "iso:country":"US",
+    "sg:address":"40 Depot St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8235",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Jt24U1Yg9BBCPWSwFmGD_44.534917_-72.004176@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313450,
+    "wof:geomhash":"d8161065b496efc77ca263d2b0e28a6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874245841
+        }
+    ],
+    "wof:id":874245841,
+    "wof:lastmodified":1464313450,
+    "wof:name":"Darling Inn",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -72.004176,
+    44.534917,
+    -72.004176,
+    44.534917
+],
+  "geometry": {"coordinates":[-72.004176,44.534917],"type":"Point"}
+}

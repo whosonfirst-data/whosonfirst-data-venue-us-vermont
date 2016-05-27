@@ -1,0 +1,71 @@
+{
+  "id": 874066805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.710918,44.473554,-72.710918,44.473554",
+    "geom:latitude":44.473554,
+    "geom:longitude":-72.710918,
+    "iso:country":"US",
+    "sg:address":"1878 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 4853",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qK66KT9DaUoPzqTEfRXeW_44.473554_-72.710918@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311395,
+    "wof:geomhash":"77c583944c8a0228383da66b891c50cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874066805
+        }
+    ],
+    "wof:id":874066805,
+    "wof:lastmodified":1464311395,
+    "wof:name":"Stowe Family Practice",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.710918,
+    44.473554,
+    -72.710918,
+    44.473554
+],
+  "geometry": {"coordinates":[-72.71091800000001,44.473554],"type":"Point"}
+}

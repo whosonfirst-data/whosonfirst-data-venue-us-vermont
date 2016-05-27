@@ -1,0 +1,69 @@
+{
+  "id": 874013573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.013388,44.419654,-72.013388,44.419654",
+    "geom:latitude":44.419654,
+    "geom:longitude":-72.013388,
+    "iso:country":"US",
+    "sg:address":"148 Portland St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 6277",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SRQfUoIUwh8aCcVFGciPu_44.419654_-72.013388@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310880,
+    "wof:geomhash":"ff67a1a79c8f0e40298a817703d1ddc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874013573
+        }
+    ],
+    "wof:id":874013573,
+    "wof:lastmodified":1464310880,
+    "wof:name":"Broome Power Equipment",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.013388,
+    44.419654,
+    -72.013388,
+    44.419654
+],
+  "geometry": {"coordinates":[-72.01338800000001,44.419654],"type":"Point"}
+}

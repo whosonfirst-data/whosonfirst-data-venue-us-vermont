@@ -1,0 +1,71 @@
+{
+  "id": 874247209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.161662,44.008031,-73.161662,44.008031",
+    "geom:latitude":44.008031,
+    "geom:longitude":-73.161662,
+    "iso:country":"US",
+    "sg:address":"66 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 288 9088",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pwkOF5oMVhuyy2MtTNaPw_44.008031_-73.161662@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313475,
+    "wof:geomhash":"15f593049abe014d7bd24c591a270017",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874247209
+        }
+    ],
+    "wof:id":874247209,
+    "wof:lastmodified":1464313475,
+    "wof:name":"Norman C Smith",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -73.161662,
+    44.008031,
+    -73.161662,
+    44.008031
+],
+  "geometry": {"coordinates":[-73.16166200000001,44.008031],"type":"Point"}
+}

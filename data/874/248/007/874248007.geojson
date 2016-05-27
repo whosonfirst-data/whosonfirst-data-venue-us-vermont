@@ -1,0 +1,72 @@
+{
+  "id": 874248007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.002487,43.601055,-73.002487,43.601055",
+    "geom:latitude":43.601055,
+    "geom:longitude":-73.002487,
+    "iso:country":"US",
+    "sg:address":"71 Clement Rd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 5900",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.csj.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35sRRKtEcOJXcR1iRQ56r8_43.601055_-73.002487@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313495,
+    "wof:geomhash":"cd7062130edb7caac4c2825cbf3eefd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874248007
+        }
+    ],
+    "wof:id":874248007,
+    "wof:lastmodified":1464313495,
+    "wof:name":"COLLEGE Of St Joseph",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -73.002487,
+    43.601055,
+    -73.002487,
+    43.601055
+],
+  "geometry": {"coordinates":[-73.002487,43.601055],"type":"Point"}
+}

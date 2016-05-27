@@ -1,0 +1,71 @@
+{
+  "id": 874158135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.06009,43.215737,-73.06009,43.215737",
+    "geom:latitude":43.215737,
+    "geom:longitude":-73.06009,
+    "iso:country":"US",
+    "sg:address":"7 Dusty Hollow Ln",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 3453",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hpJMUBmXFAs7sGcyAD8bp_43.215737_-73.060090@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312409,
+    "wof:geomhash":"513639ab845072d69a0bc8744bb188d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874158135
+        }
+    ],
+    "wof:id":874158135,
+    "wof:lastmodified":1464312409,
+    "wof:name":"Bar-B Ranch",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equine"
+    ]
+},
+  "bbox": [
+    -73.06009,
+    43.215737,
+    -73.06009,
+    43.215737
+],
+  "geometry": {"coordinates":[-73.06009,43.215737],"type":"Point"}
+}

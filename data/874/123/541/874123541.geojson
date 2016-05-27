@@ -1,0 +1,71 @@
+{
+  "id": 874123541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212672,44.479782,-73.212672,44.479782",
+    "geom:latitude":44.479782,
+    "geom:longitude":-73.212672,
+    "iso:country":"US",
+    "sg:address":"22 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 8148",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Oj7dgFG8ff52k7DaDhb22_44.479782_-73.212672@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312073,
+    "wof:geomhash":"5d8dc1d8f3cb5f6c0f071de3c6540e32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874123541
+        }
+    ],
+    "wof:id":874123541,
+    "wof:lastmodified":1464312073,
+    "wof:name":"Upstreet Hair",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.212672,
+    44.479782,
+    -73.212672,
+    44.479782
+],
+  "geometry": {"coordinates":[-73.212672,44.479782],"type":"Point"}
+}

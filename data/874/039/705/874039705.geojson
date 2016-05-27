@@ -1,0 +1,71 @@
+{
+  "id": 874039705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.119163,44.696787,-73.119163,44.696787",
+    "geom:latitude":44.696787,
+    "geom:longitude":-73.119163,
+    "iso:country":"US",
+    "sg:address":"330 Fontaine Dr",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 0399",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37UAjWrsFTOsyKiKO31TOu_44.696787_-73.119163@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311140,
+    "wof:geomhash":"ae51918d506b992638b5fba33796e644",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874039705
+        }
+    ],
+    "wof:id":874039705,
+    "wof:lastmodified":1464311140,
+    "wof:name":"Premier Paving",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.119163,
+    44.696787,
+    -73.119163,
+    44.696787
+],
+  "geometry": {"coordinates":[-73.119163,44.696787],"type":"Point"}
+}

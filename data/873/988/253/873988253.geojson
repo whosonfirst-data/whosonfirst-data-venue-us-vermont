@@ -1,0 +1,71 @@
+{
+  "id": 873988253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.182509,44.413794,-73.182509,44.413794",
+    "geom:latitude":44.413794,
+    "geom:longitude":-73.182509,
+    "iso:country":"US",
+    "sg:address":"95 Catkin Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 951 9663",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42ooDDORk2b9Sy8IJXq5Qq_44.413794_-73.182509@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310677,
+    "wof:geomhash":"1c57259fa0244c3cd6119817a47bf7bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873988253
+        }
+    ],
+    "wof:id":873988253,
+    "wof:lastmodified":1464310677,
+    "wof:name":"Creative Woodworks",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.182509,
+    44.413794,
+    -73.182509,
+    44.413794
+],
+  "geometry": {"coordinates":[-73.182509,44.413794],"type":"Point"}
+}

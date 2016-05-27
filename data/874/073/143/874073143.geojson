@@ -1,0 +1,75 @@
+{
+  "id": 874073143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.896315,44.64664,-72.896315,44.64664",
+    "geom:latitude":44.64664,
+    "geom:longitude":-72.896315,
+    "iso:country":"US",
+    "sg:address":"445 State Rte 104",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 6725",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rLpJ9by7eb3ahCQdps66D_44.646640_-72.896315@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311480,
+    "wof:geomhash":"ba0d0deba02696010f307803931f0570",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874073143
+        }
+    ],
+    "wof:id":874073143,
+    "wof:lastmodified":1464311480,
+    "wof:name":"Hillside Collision Cars",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.896315,
+    44.64664,
+    -72.896315,
+    44.64664
+],
+  "geometry": {"coordinates":[-72.896315,44.64664],"type":"Point"}
+}

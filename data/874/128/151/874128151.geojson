@@ -1,0 +1,69 @@
+{
+  "id": 874128151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.194926,44.530294,-73.194926,44.530294",
+    "geom:latitude":44.530294,
+    "geom:longitude":-73.194926,
+    "iso:country":"US",
+    "sg:address":"1348 Blakely Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 3883",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MJNFLXs9GTec8zhv9WPmc_44.530294_-73.194926@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312112,
+    "wof:geomhash":"8dc7e49dfc496d177235fe964b1330c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874128151
+        }
+    ],
+    "wof:id":874128151,
+    "wof:lastmodified":1464312112,
+    "wof:name":"Champlain Trolly Co",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -73.194926,
+    44.530294,
+    -73.194926,
+    44.530294
+],
+  "geometry": {"coordinates":[-73.194926,44.530294],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874243673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.559745,42.87411,-72.559745,42.87411",
+    "geom:latitude":42.87411,
+    "geom:longitude":-72.559745,
+    "iso:country":"US",
+    "sg:address":"735 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 5030",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40hro2ldFfUQr4PGZqArjQ_42.874110_-72.559745@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313406,
+    "wof:geomhash":"d010fc812820e424d086a5e3a554bd46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874243673
+        }
+    ],
+    "wof:id":874243673,
+    "wof:lastmodified":1464313406,
+    "wof:name":"Shear Designs Hair Studio",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.559745,
+    42.87411,
+    -72.559745,
+    42.87411
+],
+  "geometry": {"coordinates":[-72.55974500000001,42.87411],"type":"Point"}
+}

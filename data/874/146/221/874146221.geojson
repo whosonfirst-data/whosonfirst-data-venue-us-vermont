@@ -1,0 +1,73 @@
+{
+  "id": 874146221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.046649,43.181407,-73.046649,43.181407",
+    "geom:latitude":43.181407,
+    "geom:longitude":-73.046649,
+    "iso:country":"US",
+    "sg:address":"5468 Main St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 2126",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xbIRP5wujFja7PDqWpKgd_43.181407_-73.046649@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312295,
+    "wof:geomhash":"052c9d246ecfd905badd2e9a2280c029",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874146221
+        }
+    ],
+    "wof:id":874146221,
+    "wof:lastmodified":1464312295,
+    "wof:name":"Manchester Health Svc",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -73.046649,
+    43.181407,
+    -73.046649,
+    43.181407
+],
+  "geometry": {"coordinates":[-73.046649,43.181407],"type":"Point"}
+}

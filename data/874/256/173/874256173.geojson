@@ -1,0 +1,96 @@
+{
+  "id": 874256173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.185117,43.743211,-73.185117,43.743211",
+    "geom:latitude":43.743211,
+    "geom:longitude":-73.185117,
+    "iso:country":"US",
+    "sg:address":"4597 Route 30 Hubbardon",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Dog Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 273 2941",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "breeder",
+        "training",
+        "grooming",
+        "kennel"
+    ],
+    "sg:website":"http://www.diamondbrook.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xalrex9h1E8XigNp30KVe_43.743211_-73.185117@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313701,
+    "wof:geomhash":"13a53ab50496efee118e2e09bd17ce15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874256173
+        }
+    ],
+    "wof:id":874256173,
+    "wof:lastmodified":1464313701,
+    "wof:name":"Diamond Brook Kennel",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "training",
+        "grooming",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -73.185117,
+    43.743211,
+    -73.185117,
+    43.743211
+],
+  "geometry": {"coordinates":[-73.18511700000001,43.743211],"type":"Point"}
+}

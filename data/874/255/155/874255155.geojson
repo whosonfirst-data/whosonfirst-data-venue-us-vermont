@@ -1,0 +1,79 @@
+{
+  "id": 874255155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.909087,44.636893,-72.909087,44.636893",
+    "geom:latitude":44.636893,
+    "geom:longitude":-72.909087,
+    "iso:country":"US",
+    "sg:address":"419 VT Rt 15",
+    "sg:city":"Underhill",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 1399",
+    "sg:postcode":"05489",
+    "sg:province":"VT",
+    "sg:tags":[
+        "brunch",
+        "breakfast"
+    ],
+    "sg:website":"www.theflourshopvt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57uKxnoicp3IMAg8wH1mP6_44.636893_-72.909087@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313679,
+    "wof:geomhash":"68b4558c3745457b286f4a52ef6c9679",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874255155
+        }
+    ],
+    "wof:id":874255155,
+    "wof:lastmodified":1464313679,
+    "wof:name":"Flour Shop",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -72.909087,
+    44.636893,
+    -72.909087,
+    44.636893
+],
+  "geometry": {"coordinates":[-72.909087,44.636893],"type":"Point"}
+}

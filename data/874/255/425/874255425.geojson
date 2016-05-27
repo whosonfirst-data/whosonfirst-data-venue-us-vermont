@@ -1,0 +1,69 @@
+{
+  "id": 874255425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.103614,44.447507,-73.103614,44.447507",
+    "geom:latitude":44.447507,
+    "geom:longitude":-73.103614,
+    "iso:country":"US",
+    "sg:address":"201 Cornerstone Dr",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 5556",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CPZ5J34q1I87hk8B0ZTTH_44.447507_-73.103614@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313685,
+    "wof:geomhash":"bb757d08962ac8e7aecee9707308d094",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874255425
+        }
+    ],
+    "wof:id":874255425,
+    "wof:lastmodified":1464313685,
+    "wof:name":"Rocky's Ny Pizza & Catering",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.103614,
+    44.447507,
+    -73.103614,
+    44.447507
+],
+  "geometry": {"coordinates":[-73.10361399999999,44.447507],"type":"Point"}
+}

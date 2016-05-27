@@ -1,0 +1,69 @@
+{
+  "id": 874115245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.797355,44.913966,-72.797355,44.913966",
+    "geom:latitude":44.913966,
+    "geom:longitude":-72.797355,
+    "iso:country":"US",
+    "sg:address":"169 Water Tower Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 4533",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bzaPwp2uncoFh4u7KplBQ_44.913966_-72.797355@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311989,
+    "wof:geomhash":"41f7bb265eaec47adb5e3affcf6feccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874115245
+        }
+    ],
+    "wof:id":874115245,
+    "wof:lastmodified":1464311989,
+    "wof:name":"Animal Doctor",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.797355,
+    44.913966,
+    -72.797355,
+    44.913966
+],
+  "geometry": {"coordinates":[-72.797355,44.913966],"type":"Point"}
+}

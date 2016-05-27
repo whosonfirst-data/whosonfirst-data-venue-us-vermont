@@ -1,0 +1,71 @@
+{
+  "id": 874056291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.563606,44.213775,-72.563606,44.213775",
+    "geom:latitude":44.213775,
+    "geom:longitude":-72.563606,
+    "iso:country":"US",
+    "sg:address":"654 Granger Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 7499",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SbEdFvLU4R51O669fL0GE_44.213775_-72.563606@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311303,
+    "wof:geomhash":"b35e7c34b0c8b2b894b05a1074b168bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874056291
+        }
+    ],
+    "wof:id":874056291,
+    "wof:lastmodified":1464311303,
+    "wof:name":"Ohp VT",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.563606,
+    44.213775,
+    -72.563606,
+    44.213775
+],
+  "geometry": {"coordinates":[-72.56360599999999,44.213775],"type":"Point"}
+}

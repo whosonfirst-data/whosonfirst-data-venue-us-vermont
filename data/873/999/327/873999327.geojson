@@ -1,0 +1,69 @@
+{
+  "id": 873999327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.112344,44.451229,-73.112344,44.451229",
+    "geom:latitude":44.451229,
+    "geom:longitude":-73.112344,
+    "iso:country":"US",
+    "sg:address":"72 Helena Dr",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 6413",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Pfqpu36sHMyYEMsBjAsCA_44.451229_-73.112344@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310756,
+    "wof:geomhash":"d56ada0b4c2a4001eff0bf57968eb4c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":873999327
+        }
+    ],
+    "wof:id":873999327,
+    "wof:lastmodified":1464310756,
+    "wof:name":"Stephens & Burns Salon & Spa",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.112344,
+    44.451229,
+    -73.112344,
+    44.451229
+],
+  "geometry": {"coordinates":[-73.11234399999999,44.451229],"type":"Point"}
+}

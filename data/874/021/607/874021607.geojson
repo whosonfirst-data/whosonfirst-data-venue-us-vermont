@@ -1,0 +1,73 @@
+{
+  "id": 874021607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.567939,44.251368,-72.567939,44.251368",
+    "geom:latitude":44.251368,
+    "geom:longitude":-72.567939,
+    "iso:country":"US",
+    "sg:address":"85 Granite Shed Ln",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 1664",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "architectural",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UFwMCWvsZuRzimqxtY1tc_44.251368_-72.567939@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310961,
+    "wof:geomhash":"1a74a88e1276b9daf6abb021a2fce6be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874021607
+        }
+    ],
+    "wof:id":874021607,
+    "wof:lastmodified":1464310961,
+    "wof:name":"Gossens Bachman Architects",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural",
+        "business"
+    ]
+},
+  "bbox": [
+    -72.567939,
+    44.251368,
+    -72.567939,
+    44.251368
+],
+  "geometry": {"coordinates":[-72.567939,44.251368],"type":"Point"}
+}

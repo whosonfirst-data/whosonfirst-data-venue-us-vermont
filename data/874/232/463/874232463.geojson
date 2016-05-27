@@ -1,0 +1,71 @@
+{
+  "id": 874232463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.164655,44.715956,-73.164655,44.715956",
+    "geom:latitude":44.715956,
+    "geom:longitude":-73.164655,
+    "iso:country":"US",
+    "sg:address":"1119 Sand Hill Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 527 2103",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79XkSMAbT7v26ZG8joRnXX_44.715956_-73.164655@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313192,
+    "wof:geomhash":"52b52ee89aa00b3a0ec9d889aca56123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874232463
+        }
+    ],
+    "wof:id":874232463,
+    "wof:lastmodified":1464313192,
+    "wof:name":"G & M Lawncare & Landscaping",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.164655,
+    44.715956,
+    -73.164655,
+    44.715956
+],
+  "geometry": {"coordinates":[-73.164655,44.715956],"type":"Point"}
+}

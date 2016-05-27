@@ -1,0 +1,69 @@
+{
+  "id": 874065401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.149679,44.369256,-72.149679,44.369256",
+    "geom:latitude":44.369256,
+    "geom:longitude":-72.149679,
+    "iso:country":"US",
+    "sg:address":"122 Evergreen Ln",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 1068",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1deAbLz5ic0ppt3dnI4pOW_44.369256_-72.149679@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311383,
+    "wof:geomhash":"df38b7ee5ec0f81b67133b4a536f9a7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874065401
+        }
+    ],
+    "wof:id":874065401,
+    "wof:lastmodified":1464311383,
+    "wof:name":"Troy Cochran Custom Services",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.149679,
+    44.369256,
+    -72.149679,
+    44.369256
+],
+  "geometry": {"coordinates":[-72.14967900000001,44.369256],"type":"Point"}
+}

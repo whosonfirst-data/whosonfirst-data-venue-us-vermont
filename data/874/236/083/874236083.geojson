@@ -1,0 +1,71 @@
+{
+  "id": 874236083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.065722,43.604297,-73.065722,43.604297",
+    "geom:latitude":43.604297,
+    "geom:longitude":-73.065722,
+    "iso:country":"US",
+    "sg:address":"67 State Rte 4a",
+    "sg:city":"Bomoseen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 468 8855",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uKKJTDOXeTgr8irnnM2ZE_43.604297_-73.065722@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313263,
+    "wof:geomhash":"4a1fd100055a2d69c3946e14a3d15a91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874236083
+        }
+    ],
+    "wof:id":874236083,
+    "wof:lastmodified":1464313263,
+    "wof:name":"Thomas Transportation",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.065722,
+    43.604297,
+    -73.065722,
+    43.604297
+],
+  "geometry": {"coordinates":[-73.06572199999999,43.604297],"type":"Point"}
+}

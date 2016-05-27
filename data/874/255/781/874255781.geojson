@@ -1,0 +1,74 @@
+{
+  "id": 874255781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.954341,43.600727,-72.954341,43.600727",
+    "geom:latitude":43.600727,
+    "geom:longitude":-72.954341,
+    "iso:country":"US",
+    "sg:address":"38 Freeman Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4114",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IUUrKkBwRiokU4dvPkFa4_43.600727_-72.954341@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313692,
+    "wof:geomhash":"f684a8083bbfa00024668c2a58cbcf05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255781
+        }
+    ],
+    "wof:id":874255781,
+    "wof:lastmodified":1464313692,
+    "wof:name":"United Commercial Traveler",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group"
+    ]
+},
+  "bbox": [
+    -72.954341,
+    43.600727,
+    -72.954341,
+    43.600727
+],
+  "geometry": {"coordinates":[-72.954341,43.600727],"type":"Point"}
+}

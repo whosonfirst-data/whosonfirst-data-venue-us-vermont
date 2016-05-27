@@ -1,0 +1,74 @@
+{
+  "id": 874238095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.207381,44.528859,-73.207381,44.528859",
+    "geom:latitude":44.528859,
+    "geom:longitude":-73.207381,
+    "iso:country":"US",
+    "sg:address":"682 Malletts Bay Ave",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 0187",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PBAVGHT6Iqm3LY5C753be_44.528859_-73.207381@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313303,
+    "wof:geomhash":"ea889854bbdea142bde8209516ca805f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874238095
+        }
+    ],
+    "wof:id":874238095,
+    "wof:lastmodified":1464313303,
+    "wof:name":"Brigante's Farm Stand",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -73.207381,
+    44.528859,
+    -73.207381,
+    44.528859
+],
+  "geometry": {"coordinates":[-73.207381,44.528859],"type":"Point"}
+}

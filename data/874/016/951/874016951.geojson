@@ -1,0 +1,73 @@
+{
+  "id": 874016951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.160003,44.004432,-73.160003,44.004432",
+    "geom:latitude":44.004432,
+    "geom:longitude":-73.160003,
+    "iso:country":"US",
+    "sg:address":"54 Creek Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4500",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2deXBzypnlCHM7OlA8XJ34_44.004432_-73.160003@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310912,
+    "wof:geomhash":"07cf84810a3dd74729203a6d4e8c21d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874016951
+        }
+    ],
+    "wof:id":874016951,
+    "wof:lastmodified":1464310912,
+    "wof:name":"Aarons Sales & Lease Ownership",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -73.160003,
+    44.004432,
+    -73.160003,
+    44.004432
+],
+  "geometry": {"coordinates":[-73.160003,44.004432],"type":"Point"}
+}

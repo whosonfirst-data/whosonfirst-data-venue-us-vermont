@@ -1,0 +1,71 @@
+{
+  "id": 873989563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.963514,43.603578,-72.963514,43.603578",
+    "geom:latitude":43.603578,
+    "geom:longitude":-72.963514,
+    "iso:country":"US",
+    "sg:address":"84 Jackson Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 3735",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "bookkeeping",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jP2Guhr6or51yDTa360tQ_43.603578_-72.963514@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310687,
+    "wof:geomhash":"263ed5e2560ea784ebe187279c166bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":873989563
+        }
+    ],
+    "wof:id":873989563,
+    "wof:lastmodified":1464310687,
+    "wof:name":"Rutland Accounting Svc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeping",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.963514,
+    43.603578,
+    -72.963514,
+    43.603578
+],
+  "geometry": {"coordinates":[-72.963514,43.603578],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874081175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.498736,44.190785,-72.498736,44.190785",
+    "geom:latitude":44.190785,
+    "geom:longitude":-72.498736,
+    "iso:country":"US",
+    "sg:address":"109 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 2398",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ehXEd0jeVC7pQ94DE7y1u_44.190785_-72.498736@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311565,
+    "wof:geomhash":"40ffdfd2c46282e3f46e2d6c8b642989",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874081175
+        }
+    ],
+    "wof:id":874081175,
+    "wof:lastmodified":1464311565,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -72.498736,
+    44.190785,
+    -72.498736,
+    44.190785
+],
+  "geometry": {"coordinates":[-72.49873599999999,44.190785],"type":"Point"}
+}

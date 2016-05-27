@@ -1,0 +1,71 @@
+{
+  "id": 874059109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.107571,44.487528,-73.107571,44.487528",
+    "geom:latitude":44.487528,
+    "geom:longitude":-73.107571,
+    "iso:country":"US",
+    "sg:address":"20 Jackson St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 3232",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jqNHOfEl1kHke6AQdk44n_44.487528_-73.107571@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311327,
+    "wof:geomhash":"86790925251879b4b094d64938f35306",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874059109
+        }
+    ],
+    "wof:id":874059109,
+    "wof:lastmodified":1464311327,
+    "wof:name":"Barnier Waste",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.107571,
+    44.487528,
+    -73.107571,
+    44.487528
+],
+  "geometry": {"coordinates":[-73.10757099999999,44.487528],"type":"Point"}
+}

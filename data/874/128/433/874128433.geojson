@@ -1,0 +1,76 @@
+{
+  "id": 874128433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169571,44.014979,-73.169571,44.014979",
+    "geom:latitude":44.014979,
+    "geom:longitude":-73.169571,
+    "iso:country":"US",
+    "sg:address":"137 Maple St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 0014",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TSHmLBJRe4xIJS9li8cRm_44.014979_-73.169571@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312115,
+    "wof:geomhash":"16c9442e72fe0e90807f8e9a3e5b2935",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874128433
+        }
+    ],
+    "wof:id":874128433,
+    "wof:lastmodified":1464312115,
+    "wof:name":"J M Noonie",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -73.169571,
+    44.014979,
+    -73.169571,
+    44.014979
+],
+  "geometry": {"coordinates":[-73.169571,44.014979],"type":"Point"}
+}

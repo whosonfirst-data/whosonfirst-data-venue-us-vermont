@@ -1,0 +1,71 @@
+{
+  "id": 873988563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.972837,43.596375,-72.972837,43.596375",
+    "geom:latitude":43.596375,
+    "geom:longitude":-72.972837,
+    "iso:country":"US",
+    "sg:address":"31 Park St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 5661",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cWiWWcvDmm3yDJeGYjcBp_43.596375_-72.972837@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310679,
+    "wof:geomhash":"066fa381ce4bf8eb0ed229609670e2f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":873988563
+        }
+    ],
+    "wof:id":873988563,
+    "wof:lastmodified":1464310679,
+    "wof:name":"Open Door Mission",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -72.972837,
+    43.596375,
+    -72.972837,
+    43.596375
+],
+  "geometry": {"coordinates":[-72.972837,43.596375],"type":"Point"}
+}

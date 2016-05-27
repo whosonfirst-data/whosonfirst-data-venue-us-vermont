@@ -1,0 +1,71 @@
+{
+  "id": 874187677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.152797,44.033563,-73.152797,44.033563",
+    "geom:latitude":44.033563,
+    "geom:longitude":-73.152797,
+    "iso:country":"US",
+    "sg:address":"567 Happy Valley Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7085",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ADi7ff0stdz0OJtzWHLht_44.033563_-73.152797@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312716,
+    "wof:geomhash":"9f79c4b92333175de8de4b6f2e964f89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874187677
+        }
+    ],
+    "wof:id":874187677,
+    "wof:lastmodified":1464312716,
+    "wof:name":"Deeble Glass Co",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.152797,
+    44.033563,
+    -73.152797,
+    44.033563
+],
+  "geometry": {"coordinates":[-73.15279700000001,44.033563],"type":"Point"}
+}

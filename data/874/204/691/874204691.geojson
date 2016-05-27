@@ -1,0 +1,73 @@
+{
+  "id": 874204691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21916,44.482046,-73.21916,44.482046",
+    "geom:latitude":44.482046,
+    "geom:longitude":-73.21916,
+    "iso:country":"US",
+    "sg:address":"112 Park St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 8988",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CE5YIQo30hRqUtD0F5CEY_44.482046_-73.219160@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312891,
+    "wof:geomhash":"b05ced925b3a88e053ecc065df42c8b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874204691
+        }
+    ],
+    "wof:id":874204691,
+    "wof:lastmodified":1464312891,
+    "wof:name":"SEH Plowing & Landscaping",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.21916,
+    44.482046,
+    -73.21916,
+    44.482046
+],
+  "geometry": {"coordinates":[-73.21916,44.482046],"type":"Point"}
+}

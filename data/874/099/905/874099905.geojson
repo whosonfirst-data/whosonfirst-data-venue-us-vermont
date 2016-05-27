@@ -1,0 +1,75 @@
+{
+  "id": 874099905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213714,44.481223,-73.213714,44.481223",
+    "geom:latitude":44.481223,
+    "geom:longitude":-73.213714,
+    "iso:country":"US",
+    "sg:address":"37 Elmwood Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 1358",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "blind",
+        "association",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C6JjRn5Xi0UzfNdfZcOiN_44.481223_-73.213714@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311791,
+    "wof:geomhash":"88d0dd9b09f5194ad3e75b558c05e860",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874099905
+        }
+    ],
+    "wof:id":874099905,
+    "wof:lastmodified":1464311791,
+    "wof:name":"Vermont Assoc For The Blind &",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blind",
+        "association",
+        "for"
+    ]
+},
+  "bbox": [
+    -73.213714,
+    44.481223,
+    -73.213714,
+    44.481223
+],
+  "geometry": {"coordinates":[-73.213714,44.481223],"type":"Point"}
+}

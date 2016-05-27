@@ -1,0 +1,71 @@
+{
+  "id": 874056019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.179543,44.026205,-73.179543,44.026205",
+    "geom:latitude":44.026205,
+    "geom:longitude":-73.179543,
+    "iso:country":"US",
+    "sg:address":"57 Morgan Horse Farm Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 2427",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J4Awg1KefZ70hkSqDVvMn_44.026205_-73.179543@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311301,
+    "wof:geomhash":"e1e4bf348828b7e9591ea6f4b8904de5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874056019
+        }
+    ],
+    "wof:id":874056019,
+    "wof:lastmodified":1464311301,
+    "wof:name":"James Bolton",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -73.179543,
+    44.026205,
+    -73.179543,
+    44.026205
+],
+  "geometry": {"coordinates":[-73.179543,44.026205],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874055073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.621655,43.825661,-72.621655,43.825661",
+    "geom:latitude":43.825661,
+    "geom:longitude":-72.621655,
+    "iso:country":"US",
+    "sg:address":"167 S Main St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 234 9330",
+    "sg:postcode":"05032",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yNBBEh1Po5L3w63gCH0HI_43.825661_-72.621655@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311293,
+    "wof:geomhash":"2ea1461c7befa4fb7edbf5a982ce610c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874055073
+        }
+    ],
+    "wof:id":874055073,
+    "wof:lastmodified":1464311293,
+    "wof:name":"Bond Auto Parts",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -72.621655,
+    43.825661,
+    -72.621655,
+    43.825661
+],
+  "geometry": {"coordinates":[-72.621655,43.825661],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874150485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.575022,42.878284,-72.575022,42.878284",
+    "geom:latitude":42.878284,
+    "geom:longitude":-72.575022,
+    "iso:country":"US",
+    "sg:address":"441 W River Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 5600",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Idn9mJU89pujdmAB8qroy_42.878284_-72.575022@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312333,
+    "wof:geomhash":"7f0214a61288e835465ccd401d5d4da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874150485
+        }
+    ],
+    "wof:id":874150485,
+    "wof:lastmodified":1464312333,
+    "wof:name":"Orthotics & Prosthetics Lab",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.575022,
+    42.878284,
+    -72.575022,
+    42.878284
+],
+  "geometry": {"coordinates":[-72.575022,42.878284],"type":"Point"}
+}

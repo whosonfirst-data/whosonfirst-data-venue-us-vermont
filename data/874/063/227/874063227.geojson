@@ -1,0 +1,71 @@
+{
+  "id": 874063227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.227972,42.926368,-73.227972,42.926368",
+    "geom:latitude":42.926368,
+    "geom:longitude":-73.227972,
+    "iso:country":"US",
+    "sg:address":"108 Mechanic St",
+    "sg:city":"North Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 4067",
+    "sg:postcode":"05257",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZZXFe2Ro7Do6C3C9TyLpK_42.926368_-73.227972@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311364,
+    "wof:geomhash":"ebe25caf4122c245f7357ea1f9bcf5cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874063227
+        }
+    ],
+    "wof:id":874063227,
+    "wof:lastmodified":1464311364,
+    "wof:name":"Fairwinds Residential Care",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -73.227972,
+    42.926368,
+    -73.227972,
+    42.926368
+],
+  "geometry": {"coordinates":[-73.22797199999999,42.926368],"type":"Point"}
+}

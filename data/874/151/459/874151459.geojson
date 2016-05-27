@@ -1,0 +1,69 @@
+{
+  "id": 874151459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.084881,44.345321,-73.084881,44.345321",
+    "geom:latitude":44.345321,
+    "geom:longitude":-73.084881,
+    "iso:country":"US",
+    "sg:address":"20 Mountain Spring Ct",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 4814",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844363,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n2RYMgQSoRB3HVUEcbeUJ_44.345321_-73.084881@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312341,
+    "wof:geomhash":"8d3af62bdf0929228e1e00284ac9b685",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85844363,
+            "region_id":85688763,
+            "venue_id":874151459
+        }
+    ],
+    "wof:id":874151459,
+    "wof:lastmodified":1464312341,
+    "wof:name":"Integrated Printing",
+    "wof:parent_id":85844363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -73.084881,
+    44.345321,
+    -73.084881,
+    44.345321
+],
+  "geometry": {"coordinates":[-73.084881,44.345321],"type":"Point"}
+}

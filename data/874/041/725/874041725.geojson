@@ -1,0 +1,69 @@
+{
+  "id": 874041725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.779521,42.864688,-72.779521,42.864688",
+    "geom:latitude":42.864688,
+    "geom:longitude":-72.779521,
+    "iso:country":"US",
+    "sg:address":"370 Butterfield Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 464 3974",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Swcu5428Ptj7D2hgzNs4X_42.864688_-72.779521@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311164,
+    "wof:geomhash":"efc672ed865c93959ced4aa9c3ab52c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874041725
+        }
+    ],
+    "wof:id":874041725,
+    "wof:lastmodified":1464311164,
+    "wof:name":"Brown & Son Logging",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -72.779521,
+    42.864688,
+    -72.779521,
+    42.864688
+],
+  "geometry": {"coordinates":[-72.779521,42.864688],"type":"Point"}
+}

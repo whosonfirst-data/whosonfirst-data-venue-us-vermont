@@ -1,0 +1,71 @@
+{
+  "id": 874085403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.507688,43.366671,-72.507688,43.366671",
+    "geom:latitude":43.366671,
+    "geom:longitude":-72.507688,
+    "iso:country":"US",
+    "sg:address":"529 Maple St",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 5652",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xn94SPWYB1LBFGLbPIO8h_43.366671_-72.507688@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311614,
+    "wof:geomhash":"69281150951c9075c3c569d5132bd0e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874085403
+        }
+    ],
+    "wof:id":874085403,
+    "wof:lastmodified":1464311614,
+    "wof:name":"Mt Ascutney View Farm",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.507688,
+    43.366671,
+    -72.507688,
+    43.366671
+],
+  "geometry": {"coordinates":[-72.507688,43.366671],"type":"Point"}
+}

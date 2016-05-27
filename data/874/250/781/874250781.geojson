@@ -1,0 +1,78 @@
+{
+  "id": 874250781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111968,44.444557,-73.111968,44.444557",
+    "geom:latitude":44.444557,
+    "geom:longitude":-73.111968,
+    "iso:country":"US",
+    "sg:address":"125 Cypress St",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/williston/115099-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 288 9995",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cJAs7171rc8FAojCwJgi4_44.444557_-73.111968@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313582,
+    "wof:geomhash":"25cb69513de3569f519d523de6ad8a6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874250781
+        }
+    ],
+    "wof:id":874250781,
+    "wof:lastmodified":1464313582,
+    "wof:name":"Chili's",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -73.111968,
+    44.444557,
+    -73.111968,
+    44.444557
+],
+  "geometry": {"coordinates":[-73.111968,44.444557],"type":"Point"}
+}

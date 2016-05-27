@@ -1,0 +1,71 @@
+{
+  "id": 874245395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.511994,44.162411,-72.511994,44.162411",
+    "geom:latitude":44.162411,
+    "geom:longitude":-72.511994,
+    "iso:country":"US",
+    "sg:address":"678 S Barre Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4151",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HPqIQ3z1aAOlivxE7nZWZ_44.162411_-72.511994@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313441,
+    "wof:geomhash":"67144e4735d54e751585f814ecfc4f38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874245395
+        }
+    ],
+    "wof:id":874245395,
+    "wof:lastmodified":1464313441,
+    "wof:name":"Barre Animal Hospital",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.511994,
+    44.162411,
+    -72.511994,
+    44.162411
+],
+  "geometry": {"coordinates":[-72.511994,44.162411],"type":"Point"}
+}

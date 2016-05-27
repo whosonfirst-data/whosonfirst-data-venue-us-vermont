@@ -1,0 +1,69 @@
+{
+  "id": 874129763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.636034,44.494352,-72.636034,44.494352",
+    "geom:latitude":44.494352,
+    "geom:longitude":-72.636034,
+    "iso:country":"US",
+    "sg:address":"3283 Pucker St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 8214",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wJeWLoiD9vPD1lvcoIwor_44.494352_-72.636034@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312133,
+    "wof:geomhash":"93324e6c7bf9a285543afb6d1f11d11b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874129763
+        }
+    ],
+    "wof:id":874129763,
+    "wof:lastmodified":1464312133,
+    "wof:name":"Little River Surveying",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -72.636034,
+    44.494352,
+    -72.636034,
+    44.494352
+],
+  "geometry": {"coordinates":[-72.636034,44.494352],"type":"Point"}
+}

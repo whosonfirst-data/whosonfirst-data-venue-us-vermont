@@ -1,0 +1,71 @@
+{
+  "id": 874052771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.476814,44.277718,-72.476814,44.277718",
+    "geom:latitude":44.277718,
+    "geom:longitude":-72.476814,
+    "iso:country":"US",
+    "sg:address":"920 State Rte 14",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 5489",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49ZzbrGounnK9zMjj2Eenw_44.277718_-72.476814@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311266,
+    "wof:geomhash":"7c5d384efdbe83151a4c22f9396c46f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874052771
+        }
+    ],
+    "wof:id":874052771,
+    "wof:lastmodified":1464311266,
+    "wof:name":"Bigelow Garage Door Repair",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -72.476814,
+    44.277718,
+    -72.476814,
+    44.277718
+],
+  "geometry": {"coordinates":[-72.476814,44.277718],"type":"Point"}
+}

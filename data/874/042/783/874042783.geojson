@@ -1,0 +1,71 @@
+{
+  "id": 874042783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196938,42.878238,-73.196938,42.878238",
+    "geom:latitude":42.878238,
+    "geom:longitude":-73.196938,
+    "iso:country":"US",
+    "sg:address":"409 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 5446",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79akZ6tSSwFLGqHjr86EWn_42.878238_-73.196938@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311173,
+    "wof:geomhash":"17d18277483afb6cd4f43e536d38f099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874042783
+        }
+    ],
+    "wof:id":874042783,
+    "wof:lastmodified":1464311173,
+    "wof:name":"WZEC",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -73.196938,
+    42.878238,
+    -73.196938,
+    42.878238
+],
+  "geometry": {"coordinates":[-73.196938,42.878238],"type":"Point"}
+}

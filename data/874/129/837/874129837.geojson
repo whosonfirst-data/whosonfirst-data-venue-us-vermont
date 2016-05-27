@@ -1,0 +1,71 @@
+{
+  "id": 874129837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.171145,44.453638,-73.171145,44.453638",
+    "geom:latitude":44.453638,
+    "geom:longitude":-73.171145,
+    "iso:country":"US",
+    "sg:address":"100 Kennedy Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 1050",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EWTAbF9sif87PvuVrLRZj_44.453638_-73.171145@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312134,
+    "wof:geomhash":"c2ebdde7e0d20a5a5686b302c2bdedf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874129837
+        }
+    ],
+    "wof:id":874129837,
+    "wof:lastmodified":1464312134,
+    "wof:name":"Franks Quality Maintenance",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.171145,
+    44.453638,
+    -73.171145,
+    44.453638
+],
+  "geometry": {"coordinates":[-73.171145,44.453638],"type":"Point"}
+}

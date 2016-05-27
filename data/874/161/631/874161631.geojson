@@ -1,0 +1,71 @@
+{
+  "id": 874161631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.406728,43.584471,-72.406728,43.584471",
+    "geom:latitude":43.584471,
+    "geom:longitude":-72.406728,
+    "iso:country":"US",
+    "sg:address":"58 Webster Rd",
+    "sg:city":"Hartland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 436 3028",
+    "sg:postcode":"05048",
+    "sg:province":"VT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09mx03I7xgBJ5JaX3na70R_43.584471_-72.406728@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312448,
+    "wof:geomhash":"743ff48be4a71a28a374c4b9758cb481",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874161631
+        }
+    ],
+    "wof:id":874161631,
+    "wof:lastmodified":1464312448,
+    "wof:name":"Vermont Property Maintenance",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.406728,
+    43.584471,
+    -72.406728,
+    43.584471
+],
+  "geometry": {"coordinates":[-72.406728,43.584471],"type":"Point"}
+}

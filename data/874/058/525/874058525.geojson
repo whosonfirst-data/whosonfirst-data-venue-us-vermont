@@ -1,0 +1,75 @@
+{
+  "id": 874058525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.104046,44.705555,-73.104046,44.705555",
+    "geom:latitude":44.705555,
+    "geom:longitude":-73.104046,
+    "iso:country":"US",
+    "sg:address":"1915 Ethan Allen Hwy",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 6063",
+    "sg:postcode":"05454",
+    "sg:province":"VT",
+    "sg:tags":[
+        "small",
+        "veterinarian",
+        "for",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OiPdgV0aERkS60Q8sUiLM_44.705555_-73.104046@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311322,
+    "wof:geomhash":"4558cd01e85a378b9925c8c1a71aa89f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874058525
+        }
+    ],
+    "wof:id":874058525,
+    "wof:lastmodified":1464311322,
+    "wof:name":"Arrowhead Veterinary Clinic",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "small",
+        "veterinarian",
+        "for",
+        "animal"
+    ]
+},
+  "bbox": [
+    -73.104046,
+    44.705555,
+    -73.104046,
+    44.705555
+],
+  "geometry": {"coordinates":[-73.104046,44.705555],"type":"Point"}
+}

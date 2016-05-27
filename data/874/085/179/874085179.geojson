@@ -1,0 +1,71 @@
+{
+  "id": 874085179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.171374,44.466749,-73.171374,44.466749",
+    "geom:latitude":44.466749,
+    "geom:longitude":-73.171374,
+    "iso:country":"US",
+    "sg:address":"41 Hinesburg Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 9176",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jwHkt3amGNwETwX183nYi_44.466749_-73.171374@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311611,
+    "wof:geomhash":"56d529c4e59d186262ed50c4c5043cba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874085179
+        }
+    ],
+    "wof:id":874085179,
+    "wof:lastmodified":1464311611,
+    "wof:name":"Grand Union",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.171374,
+    44.466749,
+    -73.171374,
+    44.466749
+],
+  "geometry": {"coordinates":[-73.171374,44.466749],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873991839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.5733,44.253378,-72.5733,44.253378",
+    "geom:latitude":44.253378,
+    "geom:longitude":-72.5733,
+    "iso:country":"US",
+    "sg:address":"119 Berlin St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 4947",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kbs3SvPnU5kksSjJGqjRX_44.253378_-72.573300@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310704,
+    "wof:geomhash":"7e977503b747c0bc00c039584e9cc412",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873991839
+        }
+    ],
+    "wof:id":873991839,
+    "wof:lastmodified":1464310704,
+    "wof:name":"New Look Builders Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.5733,
+    44.253378,
+    -72.5733,
+    44.253378
+],
+  "geometry": {"coordinates":[-72.5733,44.253378],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874025859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167496,44.483668,-73.167496,44.483668",
+    "geom:latitude":44.483668,
+    "geom:longitude":-73.167496,
+    "iso:country":"US",
+    "sg:address":"8 Berard Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 5579",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "print",
+        "photocopying",
+        "lithographic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tx38zfRhvzfO8hwhicBQn_44.483668_-73.167496@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311005,
+    "wof:geomhash":"d23c74281215b5e1981cd2ed063249ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874025859
+        }
+    ],
+    "wof:id":874025859,
+    "wof:lastmodified":1464311005,
+    "wof:name":"Print Tech",
+    "wof:parent_id":85828531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "photocopying",
+        "lithographic"
+    ]
+},
+  "bbox": [
+    -73.167496,
+    44.483668,
+    -73.167496,
+    44.483668
+],
+  "geometry": {"coordinates":[-73.167496,44.483668],"type":"Point"}
+}

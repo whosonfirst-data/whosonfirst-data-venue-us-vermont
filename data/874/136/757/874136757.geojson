@@ -1,0 +1,69 @@
+{
+  "id": 874136757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.34917,43.634161,-72.34917,43.634161",
+    "geom:latitude":43.634161,
+    "geom:longitude":-72.34917,
+    "iso:country":"US",
+    "sg:address":"1328 N Hartland Rd",
+    "sg:city":"White River Jct",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 3068",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810161,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V3RRBYCoSRKVCdMD94Erj_43.634161_-72.349170@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312206,
+    "wof:geomhash":"fed45239813a2ccea465808f45ef9ef6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85810161,
+            "region_id":85688763,
+            "venue_id":874136757
+        }
+    ],
+    "wof:id":874136757,
+    "wof:lastmodified":1464312206,
+    "wof:name":"Valley Tire Co",
+    "wof:parent_id":85810161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -72.34917,
+    43.634161,
+    -72.34917,
+    43.634161
+],
+  "geometry": {"coordinates":[-72.34917,43.634161],"type":"Point"}
+}

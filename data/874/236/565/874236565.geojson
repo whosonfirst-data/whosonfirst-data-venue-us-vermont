@@ -1,0 +1,73 @@
+{
+  "id": 874236565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.194691,44.065382,-73.194691,44.065382",
+    "geom:latitude":44.065382,
+    "geom:longitude":-73.194691,
+    "iso:country":"US",
+    "sg:address":"3031 Morgan Horse Farm Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2644",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JT7zDcI4wW5FSp7t7wifH_44.065382_-73.194691@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313273,
+    "wof:geomhash":"7c096f0e865557424c840764154b98fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874236565
+        }
+    ],
+    "wof:id":874236565,
+    "wof:lastmodified":1464313273,
+    "wof:name":"Perfect Pitch Roofing",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.194691,
+    44.065382,
+    -73.194691,
+    44.065382
+],
+  "geometry": {"coordinates":[-73.19469100000001,44.065382],"type":"Point"}
+}

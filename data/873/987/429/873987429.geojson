@@ -1,0 +1,71 @@
+{
+  "id": 873987429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.158916,44.015622,-73.158916,44.015622",
+    "geom:latitude":44.015622,
+    "geom:longitude":-73.158916,
+    "iso:country":"US",
+    "sg:address":"89 Old College Farm Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 6610",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o98YrgLIkaOrXPORPHVaB_44.015622_-73.158916@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310672,
+    "wof:geomhash":"71b111b2dcba53c01e79e7d9f7c54f36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":873987429
+        }
+    ],
+    "wof:id":873987429,
+    "wof:lastmodified":1464310672,
+    "wof:name":"Russ Sholes Senior Center",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -73.158916,
+    44.015622,
+    -73.158916,
+    44.015622
+],
+  "geometry": {"coordinates":[-73.158916,44.015622],"type":"Point"}
+}

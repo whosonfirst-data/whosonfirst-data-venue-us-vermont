@@ -1,0 +1,78 @@
+{
+  "id": 874095479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.218333,44.475663,-73.218333,44.475663",
+    "geom:latitude":44.475663,
+    "geom:longitude":-73.218333,
+    "iso:country":"US",
+    "sg:address":"53 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 5011",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "antique",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jSgH8lTzo4lrPpoYYM2nl_44.475663_-73.218333@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311718,
+    "wof:geomhash":"d3a29689de9208975b8157b49b4a10ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874095479
+        }
+    ],
+    "wof:id":874095479,
+    "wof:lastmodified":1464311718,
+    "wof:name":"Architectural Salvage Wrhse",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.218333,
+    44.475663,
+    -73.218333,
+    44.475663
+],
+  "geometry": {"coordinates":[-73.218333,44.475663],"type":"Point"}
+}

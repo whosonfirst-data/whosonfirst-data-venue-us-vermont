@@ -1,0 +1,73 @@
+{
+  "id": 874233533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.514249,43.396015,-72.514249,43.396015",
+    "geom:latitude":43.396015,
+    "geom:longitude":-72.514249,
+    "iso:country":"US",
+    "sg:address":"4159 State Rte 106",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 5459",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_519KiU2ZQd3WzfxdAVmtD6_43.396015_-72.514249@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313210,
+    "wof:geomhash":"2a5ef74fd530c6c019a4afd672c587c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874233533
+        }
+    ],
+    "wof:id":874233533,
+    "wof:lastmodified":1464313210,
+    "wof:name":"Spurr's Repair",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.514249,
+    43.396015,
+    -72.514249,
+    43.396015
+],
+  "geometry": {"coordinates":[-72.51424900000001,43.396015],"type":"Point"}
+}

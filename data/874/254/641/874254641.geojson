@@ -1,0 +1,65 @@
+{
+  "id": 874254641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.225288,44.378715,-73.225288,44.378715",
+    "geom:latitude":44.378715,
+    "geom:longitude":-73.225288,
+    "iso:country":"US",
+    "sg:address":"20 Shelburne Shopping Park",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 8520",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:website":"www.shelburnesupermarket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Rs43Xc8w75XQgH1zkRGGA_44.378715_-73.225288@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313662,
+    "wof:geomhash":"17081bca2d05e0fc0f2db7e6b91f41e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874254641
+        }
+    ],
+    "wof:id":874254641,
+    "wof:lastmodified":1464313662,
+    "wof:name":"Shelburne Supermarket",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.225288,
+    44.378715,
+    -73.225288,
+    44.378715
+],
+  "geometry": {"coordinates":[-73.22528800000001,44.378715],"type":"Point"}
+}

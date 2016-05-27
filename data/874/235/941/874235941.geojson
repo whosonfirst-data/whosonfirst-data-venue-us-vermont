@@ -1,0 +1,73 @@
+{
+  "id": 874235941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.178585,44.514307,-73.178585,44.514307",
+    "geom:latitude":44.514307,
+    "geom:longitude":-73.178585,
+    "iso:country":"US",
+    "sg:address":"30 Champlain Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 7090",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cYWzYLi5MDzyn8h8FO2ZN_44.514307_-73.178585@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313260,
+    "wof:geomhash":"af6b73db9758410133f3fd0d9c0a9ea3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874235941
+        }
+    ],
+    "wof:id":874235941,
+    "wof:lastmodified":1464313260,
+    "wof:name":"Walsh Electric Supply Co",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [
+    -73.178585,
+    44.514307,
+    -73.178585,
+    44.514307
+],
+  "geometry": {"coordinates":[-73.178585,44.514307],"type":"Point"}
+}

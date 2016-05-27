@@ -1,0 +1,71 @@
+{
+  "id": 874197025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015802,44.449007,-72.015802,44.449007",
+    "geom:latitude":44.449007,
+    "geom:longitude":-72.015802,
+    "iso:country":"US",
+    "sg:address":"1128 Memorial Dr",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 4527",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZRkafxAqSc99sNtaQ3eAr_44.449007_-72.015802@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312815,
+    "wof:geomhash":"57c7147852210c3474830a87bf158cc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874197025
+        }
+    ],
+    "wof:id":874197025,
+    "wof:lastmodified":1464312815,
+    "wof:name":"Maple Center Motors",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.015802,
+    44.449007,
+    -72.015802,
+    44.449007
+],
+  "geometry": {"coordinates":[-72.01580199999999,44.449007],"type":"Point"}
+}

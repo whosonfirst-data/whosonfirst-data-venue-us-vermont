@@ -1,0 +1,69 @@
+{
+  "id": 874158855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.596468,43.263502,-72.596468,43.263502",
+    "geom:latitude":43.263502,
+    "geom:longitude":-72.596468,
+    "iso:country":"US",
+    "sg:address":"55 State Rte 11",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 2878",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kA1CS3XAjoMfSifc4bhOl_43.263502_-72.596468@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312420,
+    "wof:geomhash":"171b74663a9ff70a2c0dc32d26cc3c23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874158855
+        }
+    ],
+    "wof:id":874158855,
+    "wof:lastmodified":1464312420,
+    "wof:name":"Stephen A Saunders DDS",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.596468,
+    43.263502,
+    -72.596468,
+    43.263502
+],
+  "geometry": {"coordinates":[-72.596468,43.263502],"type":"Point"}
+}

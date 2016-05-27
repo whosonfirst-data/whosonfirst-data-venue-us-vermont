@@ -1,0 +1,69 @@
+{
+  "id": 874038399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.315545,43.669959,-73.315545,43.669959",
+    "geom:latitude":43.669959,
+    "geom:longitude":-73.315545,
+    "iso:country":"US",
+    "sg:address":"502 Stage Rd",
+    "sg:city":"Fair Haven",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 537 2811",
+    "sg:postcode":"05743",
+    "sg:province":"VT",
+    "sg:tags":[
+        "packer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XHdHB5izmLZt5QzcBcGaO_43.669959_-73.315545@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311129,
+    "wof:geomhash":"e28d489effbbcaf5c3c03385fc1532e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874038399
+        }
+    ],
+    "wof:id":874038399,
+    "wof:lastmodified":1464311129,
+    "wof:name":"Over The Hill Farm",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packer"
+    ]
+},
+  "bbox": [
+    -73.315545,
+    43.669959,
+    -73.315545,
+    43.669959
+],
+  "geometry": {"coordinates":[-73.315545,43.669959],"type":"Point"}
+}

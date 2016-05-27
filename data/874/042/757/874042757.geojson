@@ -1,0 +1,69 @@
+{
+  "id": 874042757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.9382,44.522071,-71.9382,44.522071",
+    "geom:latitude":44.522071,
+    "geom:longitude":-71.9382,
+    "iso:country":"US",
+    "sg:address":"346 Town Hall Rd",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 9386",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JokFmIVNL3VcZ8oo8NYtO_44.522071_-71.938200@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311172,
+    "wof:geomhash":"0f060244b38c17270a3c6d209b4f2ef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874042757
+        }
+    ],
+    "wof:id":874042757,
+    "wof:lastmodified":1464311172,
+    "wof:name":"Town of Kirby",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -71.9382,
+    44.522071,
+    -71.9382,
+    44.522071
+],
+  "geometry": {"coordinates":[-71.93819999999999,44.522071],"type":"Point"}
+}

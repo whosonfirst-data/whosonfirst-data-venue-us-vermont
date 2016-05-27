@@ -1,0 +1,75 @@
+{
+  "id": 874157179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.548165,44.222432,-72.548165,44.222432",
+    "geom:latitude":44.222432,
+    "geom:longitude":-72.548165,
+    "iso:country":"US",
+    "sg:address":"856 Barre-Montpelier Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7394",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AFM8ih0wNEwQqcZOzqqUh_44.222432_-72.548165@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312400,
+    "wof:geomhash":"824d7dc1211cc85ca40550cbaaba2996",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874157179
+        }
+    ],
+    "wof:id":874157179,
+    "wof:lastmodified":1464312400,
+    "wof:name":"Barre Electric & Lighting Sply",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.548165,
+    44.222432,
+    -72.548165,
+    44.222432
+],
+  "geometry": {"coordinates":[-72.548165,44.222432],"type":"Point"}
+}

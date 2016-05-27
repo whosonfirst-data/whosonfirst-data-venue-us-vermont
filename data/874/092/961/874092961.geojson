@@ -1,0 +1,71 @@
+{
+  "id": 874092961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.613414,44.58103,-72.613414,44.58103",
+    "geom:latitude":44.58103,
+    "geom:longitude":-72.613414,
+    "iso:country":"US",
+    "sg:address":"1844 Cadys Falls Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 1512",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CnLHCoyODwq4t2wieE7qE_44.581030_-72.613414@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311694,
+    "wof:geomhash":"8a5801dc12611f53d702e178f7ba27b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874092961
+        }
+    ],
+    "wof:id":874092961,
+    "wof:lastmodified":1464311694,
+    "wof:name":"Audet Electric Inc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.613414,
+    44.58103,
+    -72.613414,
+    44.58103
+],
+  "geometry": {"coordinates":[-72.61341400000001,44.58103],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874182179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.202143,43.666855,-73.202143,43.666855",
+    "geom:latitude":43.666855,
+    "geom:longitude":-73.202143,
+    "iso:country":"US",
+    "sg:address":"21 Prices Ln",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 5901",
+    "sg:postcode":"05735",
+    "sg:province":"VT",
+    "sg:tags":[
+        "passenger",
+        "rental",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kuL5Cu5cbhdAGqqRcNLDw_43.666855_-73.202143@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312652,
+    "wof:geomhash":"9b69e614bcb403bd38bfbef9f9c8df30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874182179
+        }
+    ],
+    "wof:id":874182179,
+    "wof:lastmodified":1464312652,
+    "wof:name":"Thrifty Car Rental",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "rental",
+        "car"
+    ]
+},
+  "bbox": [
+    -73.202143,
+    43.666855,
+    -73.202143,
+    43.666855
+],
+  "geometry": {"coordinates":[-73.20214300000001,43.666855],"type":"Point"}
+}

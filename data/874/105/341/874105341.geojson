@@ -1,0 +1,71 @@
+{
+  "id": 874105341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.474508,44.189253,-72.474508,44.189253",
+    "geom:latitude":44.189253,
+    "geom:longitude":-72.474508,
+    "iso:country":"US",
+    "sg:address":"4 Philbrook St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 5775",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FlkargCIIelpvW0DKIbO9_44.189253_-72.474508@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311861,
+    "wof:geomhash":"bf79792a98dc111fa0dd540cf2a75bc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874105341
+        }
+    ],
+    "wof:id":874105341,
+    "wof:lastmodified":1464311861,
+    "wof:name":"Church Of The Good Shepherd",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.474508,
+    44.189253,
+    -72.474508,
+    44.189253
+],
+  "geometry": {"coordinates":[-72.474508,44.189253],"type":"Point"}
+}

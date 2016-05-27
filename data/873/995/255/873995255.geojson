@@ -1,0 +1,73 @@
+{
+  "id": 873995255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211481,43.944552,-73.211481,43.944552",
+    "geom:latitude":43.944552,
+    "geom:longitude":-73.211481,
+    "iso:country":"US",
+    "sg:address":"3697 State Rte 30",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 2917",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house",
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rA2O8UdsFMKUJ8DA14CU2_43.944552_-73.211481@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310727,
+    "wof:geomhash":"5276dfae204b41c188719527ea6dd943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":873995255
+        }
+    ],
+    "wof:id":873995255,
+    "wof:lastmodified":1464310727,
+    "wof:name":"Bilt Well Builders Inc",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.211481,
+    43.944552,
+    -73.211481,
+    43.944552
+],
+  "geometry": {"coordinates":[-73.21148100000001,43.944552],"type":"Point"}
+}

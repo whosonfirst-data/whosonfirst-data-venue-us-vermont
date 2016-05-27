@@ -1,0 +1,75 @@
+{
+  "id": 874140499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.202046,44.095833,-73.202046,44.095833",
+    "geom:latitude":44.095833,
+    "geom:longitude":-73.202046,
+    "iso:country":"US",
+    "sg:address":"1693 Pearson Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2276",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "corn",
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FKk8CxJS3FpoLR61chDuy_44.095833_-73.202046@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312239,
+    "wof:geomhash":"aeddfa80c6804827bad8ddae27d1d35f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874140499
+        }
+    ],
+    "wof:id":874140499,
+    "wof:lastmodified":1464312239,
+    "wof:name":"Andy Dykstra",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -73.202046,
+    44.095833,
+    -73.202046,
+    44.095833
+],
+  "geometry": {"coordinates":[-73.202046,44.095833],"type":"Point"}
+}

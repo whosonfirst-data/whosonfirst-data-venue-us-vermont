@@ -1,0 +1,71 @@
+{
+  "id": 874144945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971728,43.605319,-72.971728,43.605319",
+    "geom:latitude":43.605319,
+    "geom:longitude":-72.971728,
+    "iso:country":"US",
+    "sg:address":"228 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2960",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K8PqGrkbDVhnRs5ujWHm8_43.605319_-72.971728@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312280,
+    "wof:geomhash":"ebb7a0cdb6ecaf68a2f00f57f5ee2f11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874144945
+        }
+    ],
+    "wof:id":874144945,
+    "wof:lastmodified":1464312280,
+    "wof:name":"Security Self Storage Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -72.971728,
+    43.605319,
+    -72.971728,
+    43.605319
+],
+  "geometry": {"coordinates":[-72.971728,43.605319],"type":"Point"}
+}

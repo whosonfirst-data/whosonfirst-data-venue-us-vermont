@@ -1,0 +1,69 @@
+{
+  "id": 874245309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.019956,44.418848,-72.019956,44.418848",
+    "geom:latitude":44.418848,
+    "geom:longitude":-72.019956,
+    "iso:country":"US",
+    "sg:address":"204 Eastern Ave",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 9065",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s2VInCAAY7peNZsQ6dGU9_44.418848_-72.019956@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313440,
+    "wof:geomhash":"5e0aa32c9e211edf0c2ae6b0f6302d0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874245309
+        }
+    ],
+    "wof:id":874245309,
+    "wof:lastmodified":1464313440,
+    "wof:name":"Veterans of Foreign Wars",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -72.019956,
+    44.418848,
+    -72.019956,
+    44.418848
+],
+  "geometry": {"coordinates":[-72.01995599999999,44.418848],"type":"Point"}
+}

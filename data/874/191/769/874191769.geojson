@@ -1,0 +1,71 @@
+{
+  "id": 874191769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.174483,44.33818,-72.174483,44.33818",
+    "geom:latitude":44.33818,
+    "geom:longitude":-72.174483,
+    "iso:country":"US",
+    "sg:address":"641 Bayley-Hazen Rd",
+    "sg:city":"Peacham",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 592 3310",
+    "sg:postcode":"05862",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s2GFJxkYk34ELRQjleLkw_44.338180_-72.174483@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312756,
+    "wof:geomhash":"a8bd12665621930370c10e7ec41143f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874191769
+        }
+    ],
+    "wof:id":874191769,
+    "wof:lastmodified":1464312756,
+    "wof:name":"Peacham Store",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.174483,
+    44.33818,
+    -72.174483,
+    44.33818
+],
+  "geometry": {"coordinates":[-72.174483,44.33818],"type":"Point"}
+}

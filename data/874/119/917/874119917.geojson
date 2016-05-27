@@ -1,0 +1,73 @@
+{
+  "id": 874119917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.649397,44.085963,-72.649397,44.085963",
+    "geom:latitude":44.085963,
+    "geom:longitude":-72.649397,
+    "iso:country":"US",
+    "sg:address":"809 State Rte 12",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 3030",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C2j1xpjdXIeOz3YGVpsEq_44.085963_-72.649397@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312035,
+    "wof:geomhash":"6ba7edf2784c77fc021d8c7aff4d78ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874119917
+        }
+    ],
+    "wof:id":874119917,
+    "wof:lastmodified":1464312035,
+    "wof:name":"Mel's Electric Svc",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.649397,
+    44.085963,
+    -72.649397,
+    44.085963
+],
+  "geometry": {"coordinates":[-72.64939699999999,44.085963],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874183033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.193255,44.490663,-73.193255,44.490663",
+    "geom:latitude":44.490663,
+    "geom:longitude":-73.193255,
+    "iso:country":"US",
+    "sg:address":"150 W Canal St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 654 7445",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "textile",
+        "dyer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Jmw6FXxHZrKVqKb7eKW3N_44.490663_-73.193255@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312660,
+    "wof:geomhash":"68de125de403f4618fcd4438b45fecbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874183033
+        }
+    ],
+    "wof:id":874183033,
+    "wof:lastmodified":1464312660,
+    "wof:name":"New Dye-Mensions",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "textile",
+        "dyer"
+    ]
+},
+  "bbox": [
+    -73.193255,
+    44.490663,
+    -73.193255,
+    44.490663
+],
+  "geometry": {"coordinates":[-73.19325499999999,44.490663],"type":"Point"}
+}

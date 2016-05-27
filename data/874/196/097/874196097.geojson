@@ -1,0 +1,72 @@
+{
+  "id": 874196097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.651469,44.480735,-72.651469,44.480735",
+    "geom:latitude":44.480735,
+    "geom:longitude":-72.651469,
+    "iso:country":"US",
+    "sg:address":"71 Worcester Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 2081",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "holistic",
+        "practitioner"
+    ],
+    "sg:website":"www.northwindsprod.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48qibxT124rq9SgVk7blju_44.480735_-72.651469@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312806,
+    "wof:geomhash":"762accc6d2302cb1727ef7ad1badf208",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874196097
+        }
+    ],
+    "wof:id":874196097,
+    "wof:lastmodified":1464312806,
+    "wof:name":"Northwinds Production",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "holistic",
+        "practitioner"
+    ]
+},
+  "bbox": [
+    -72.651469,
+    44.480735,
+    -72.651469,
+    44.480735
+],
+  "geometry": {"coordinates":[-72.65146900000001,44.480735],"type":"Point"}
+}

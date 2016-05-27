@@ -1,0 +1,73 @@
+{
+  "id": 874170437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.593731,44.574049,-72.593731,44.574049",
+    "geom:latitude":44.574049,
+    "geom:longitude":-72.593731,
+    "iso:country":"US",
+    "sg:address":"897 Brooklyn St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 4565",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33I0WuHWt14UGHuTUUCpCw_44.574049_-72.593731@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312531,
+    "wof:geomhash":"a019658ce7a6472ff3a6273e982087c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874170437
+        }
+    ],
+    "wof:id":874170437,
+    "wof:lastmodified":1464312531,
+    "wof:name":"Xtreme Collision Ctr",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.593731,
+    44.574049,
+    -72.593731,
+    44.574049
+],
+  "geometry": {"coordinates":[-72.59373100000001,44.574049],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 873990473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.162425,44.010836,-73.162425,44.010836",
+    "geom:latitude":44.010836,
+    "geom:longitude":-73.162425,
+    "iso:country":"US",
+    "sg:address":"201 Mary Hogan Dr",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4421",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:website":"www.acsu.k12.vt.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q3NUXBfpXY83dwsQUHLrY_44.010836_-73.162425@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310693,
+    "wof:geomhash":"a3ad416341c566b68f1a3d0780edad76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":873990473
+        }
+    ],
+    "wof:id":873990473,
+    "wof:lastmodified":1464310693,
+    "wof:name":"Mary Hogan Elementary School",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.162425,
+    44.010836,
+    -73.162425,
+    44.010836
+],
+  "geometry": {"coordinates":[-73.162425,44.010836],"type":"Point"}
+}

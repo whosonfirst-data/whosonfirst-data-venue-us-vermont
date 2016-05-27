@@ -1,0 +1,73 @@
+{
+  "id": 874171911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.052655,43.77341,-73.052655,43.77341",
+    "geom:latitude":43.77341,
+    "geom:longitude":-73.052655,
+    "iso:country":"US",
+    "sg:address":"2997 Franklin St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 6833",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "high",
+        "senior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AzgCPS35AASXRrcvraJiB_43.773410_-73.052655@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312549,
+    "wof:geomhash":"0c1f2c1fc23e1c3a4e9a197a9ac0e94a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874171911
+        }
+    ],
+    "wof:id":874171911,
+    "wof:lastmodified":1464312549,
+    "wof:name":"Otter Valley District",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "senior"
+    ]
+},
+  "bbox": [
+    -73.052655,
+    43.77341,
+    -73.052655,
+    43.77341
+],
+  "geometry": {"coordinates":[-73.052655,43.77341],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874095487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.126803,44.510435,-73.126803,44.510435",
+    "geom:latitude":44.510435,
+    "geom:longitude":-73.126803,
+    "iso:country":"US",
+    "sg:address":"40 Pioneer St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 5088",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QSUtMo5heodTkIL8VqCZh_44.510435_-73.126803@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311718,
+    "wof:geomhash":"229b5f08e8c8ef93cc2bdfee7d962518",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874095487
+        }
+    ],
+    "wof:id":874095487,
+    "wof:lastmodified":1464311718,
+    "wof:name":"Kevin Murdough Property M",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.126803,
+    44.510435,
+    -73.126803,
+    44.510435
+],
+  "geometry": {"coordinates":[-73.126803,44.510435],"type":"Point"}
+}

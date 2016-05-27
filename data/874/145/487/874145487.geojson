@@ -1,0 +1,69 @@
+{
+  "id": 874145487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.016327,44.41607,-72.016327,44.41607",
+    "geom:latitude":44.41607,
+    "geom:longitude":-72.016327,
+    "iso:country":"US",
+    "sg:address":"69 Railroad St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 7121",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q0RpSC12JGXGQJbvkfoYc_44.416070_-72.016327@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312284,
+    "wof:geomhash":"f64a1daa42093afa283909d2a33a1b45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874145487
+        }
+    ],
+    "wof:id":874145487,
+    "wof:lastmodified":1464312284,
+    "wof:name":"St Johnsbury Downtown Crdntr",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.016327,
+    44.41607,
+    -72.016327,
+    44.41607
+],
+  "geometry": {"coordinates":[-72.016327,44.41607],"type":"Point"}
+}

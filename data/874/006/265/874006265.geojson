@@ -1,0 +1,71 @@
+{
+  "id": 874006265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.184502,44.498059,-73.184502,44.498059",
+    "geom:latitude":44.498059,
+    "geom:longitude":-73.184502,
+    "iso:country":"US",
+    "sg:address":"364 Main St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 1111",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZvqTNbf39AUEnIhaXn2na_44.498059_-73.184502@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310827,
+    "wof:geomhash":"398e6082cbf1c74ff62b756791372f3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874006265
+        }
+    ],
+    "wof:id":874006265,
+    "wof:lastmodified":1464310827,
+    "wof:name":"Merchant's Bank",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -73.184502,
+    44.498059,
+    -73.184502,
+    44.498059
+],
+  "geometry": {"coordinates":[-73.18450199999999,44.498059],"type":"Point"}
+}

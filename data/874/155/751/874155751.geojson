@@ -1,0 +1,69 @@
+{
+  "id": 874155751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180219,44.492205,-73.180219,44.492205",
+    "geom:latitude":44.492205,
+    "geom:longitude":-73.180219,
+    "iso:country":"US",
+    "sg:address":"165 E Allen St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 0290",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79xpp7qnSZ3UtEUMW7P9Yj_44.492205_-73.180219@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312386,
+    "wof:geomhash":"e34236346b11b8601cc6108cc18aa8c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874155751
+        }
+    ],
+    "wof:id":874155751,
+    "wof:lastmodified":1464312386,
+    "wof:name":"Waf's Westside Deli-Pizza",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -73.180219,
+    44.492205,
+    -73.180219,
+    44.492205
+],
+  "geometry": {"coordinates":[-73.18021899999999,44.492205],"type":"Point"}
+}

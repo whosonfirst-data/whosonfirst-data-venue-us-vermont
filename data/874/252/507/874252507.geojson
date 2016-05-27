@@ -1,0 +1,100 @@
+{
+  "id": 874252507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.471442,42.739905,-72.471442,42.739905",
+    "geom:latitude":42.739905,
+    "geom:longitude":-72.471442,
+    "iso:country":"US",
+    "sg:address":"4106 Fort Bridgman Rd",
+    "sg:city":"Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 579 1525",
+    "sg:postcode":"05354",
+    "sg:province":"VT",
+    "sg:tags":[
+        "heater",
+        "plumber",
+        "supply",
+        "heating",
+        "specialty",
+        "water",
+        "part",
+        "fixtures",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85850169,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FJDjL1RgNjYmbpPBExc8H_42.739905_-72.471442@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313615,
+    "wof:geomhash":"7f9bdaf38feb16fa6e27eeea876b4335",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85850169,
+            "region_id":85688763,
+            "venue_id":874252507
+        }
+    ],
+    "wof:id":874252507,
+    "wof:lastmodified":1464313615,
+    "wof:name":"Harvey Plumbing and Heating",
+    "wof:parent_id":85850169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heater",
+        "plumber",
+        "supply",
+        "heating",
+        "specialty",
+        "water",
+        "part",
+        "fixtures",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.471442,
+    42.739905,
+    -72.471442,
+    42.739905
+],
+  "geometry": {"coordinates":[-72.471442,42.739905],"type":"Point"}
+}

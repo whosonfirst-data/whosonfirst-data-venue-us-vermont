@@ -1,0 +1,69 @@
+{
+  "id": 874219589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.048071,44.515422,-73.048071,44.515422",
+    "geom:latitude":44.515422,
+    "geom:longitude":-73.048071,
+    "iso:country":"US",
+    "sg:address":"36 Thomas Ln",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 7493",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tD0ig9HjyaXbArOXyWKaG_44.515422_-73.048071@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313053,
+    "wof:geomhash":"faaca7fb5bdfe7bf962755660b4aeb2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874219589
+        }
+    ],
+    "wof:id":874219589,
+    "wof:lastmodified":1464313053,
+    "wof:name":"Snowflake Coffee",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.048071,
+    44.515422,
+    -73.048071,
+    44.515422
+],
+  "geometry": {"coordinates":[-73.04807099999999,44.515422],"type":"Point"}
+}

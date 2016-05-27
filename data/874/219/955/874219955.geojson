@@ -1,0 +1,69 @@
+{
+  "id": 874219955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.97855,43.597305,-72.97855,43.597305",
+    "geom:latitude":43.597305,
+    "geom:longitude":-72.97855,
+    "iso:country":"US",
+    "sg:address":"172 Granger St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 9898",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y0n6m5EJtIzhlKRwmxQU0_43.597305_-72.978550@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313059,
+    "wof:geomhash":"d11e7a8b7692576c872592c592d1b35d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874219955
+        }
+    ],
+    "wof:id":874219955,
+    "wof:lastmodified":1464313059,
+    "wof:name":"Granger Street Market & Deli",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -72.97855,
+    43.597305,
+    -72.97855,
+    43.597305
+],
+  "geometry": {"coordinates":[-72.97855,43.597305],"type":"Point"}
+}

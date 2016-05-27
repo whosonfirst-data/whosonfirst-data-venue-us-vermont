@@ -1,0 +1,70 @@
+{
+  "id": 874003539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.703439,44.477621,-72.703439,44.477621",
+    "geom:latitude":44.477621,
+    "geom:longitude":-72.703439,
+    "iso:country":"US",
+    "sg:address":"744 Cape Cod Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 4893",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "course"
+    ],
+    "sg:website":"www.stowe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y2Bzwu0bR35LQEvfon9PL_44.477621_-72.703439@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310798,
+    "wof:geomhash":"f28a2df887048618d1798498d6c1c70a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874003539
+        }
+    ],
+    "wof:id":874003539,
+    "wof:lastmodified":1464310798,
+    "wof:name":"Stowe Country Club",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -72.703439,
+    44.477621,
+    -72.703439,
+    44.477621
+],
+  "geometry": {"coordinates":[-72.703439,44.477621],"type":"Point"}
+}

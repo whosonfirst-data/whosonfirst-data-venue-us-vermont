@@ -1,0 +1,77 @@
+{
+  "id": 874102751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.828905,44.657292,-72.828905,44.657292",
+    "geom:latitude":44.657292,
+    "geom:longitude":-72.828905,
+    "iso:country":"US",
+    "sg:address":"916 State Rte 108",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8321",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "canoe"
+    ],
+    "sg:website":"www.mannsview.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gjUtEZKIVTAIdRrUtOxhF_44.657292_-72.828905@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311828,
+    "wof:geomhash":"7b82dfc89f9e6a7299d4ce4c3a515ee7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874102751
+        }
+    ],
+    "wof:id":874102751,
+    "wof:lastmodified":1464311828,
+    "wof:name":"Mannsview Inn",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "canoe"
+    ]
+},
+  "bbox": [
+    -72.828905,
+    44.657292,
+    -72.828905,
+    44.657292
+],
+  "geometry": {"coordinates":[-72.82890500000001,44.657292],"type":"Point"}
+}

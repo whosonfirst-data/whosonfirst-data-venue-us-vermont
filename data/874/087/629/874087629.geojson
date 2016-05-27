@@ -1,0 +1,75 @@
+{
+  "id": 874087629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.508864,44.21066,-72.508864,44.21066",
+    "geom:latitude":44.21066,
+    "geom:longitude":-72.508864,
+    "iso:country":"US",
+    "sg:address":"1193 North Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 7561",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QFX2YH5mKIFjTri8Jw6IR_44.210660_-72.508864@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311637,
+    "wof:geomhash":"15d8cef96e1c1c244296d380eff20f9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874087629
+        }
+    ],
+    "wof:id":874087629,
+    "wof:lastmodified":1464311637,
+    "wof:name":"Alcohol & Drug Abuse Office",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -72.508864,
+    44.21066,
+    -72.508864,
+    44.21066
+],
+  "geometry": {"coordinates":[-72.508864,44.21066],"type":"Point"}
+}

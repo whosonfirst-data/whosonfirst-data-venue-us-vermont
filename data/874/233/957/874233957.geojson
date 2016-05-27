@@ -1,0 +1,71 @@
+{
+  "id": 874233957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.627961,44.504494,-72.627961,44.504494",
+    "geom:latitude":44.504494,
+    "geom:longitude":-72.627961,
+    "iso:country":"US",
+    "sg:address":"158 Vanesse Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 9338",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VeTDKj5lbuiSAPEDfLsx0_44.504494_-72.627961@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313220,
+    "wof:geomhash":"8d1c6988a74591dae9f382cf211de933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874233957
+        }
+    ],
+    "wof:id":874233957,
+    "wof:lastmodified":1464313220,
+    "wof:name":"Northern Exposure Constr LLC",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.627961,
+    44.504494,
+    -72.627961,
+    44.504494
+],
+  "geometry": {"coordinates":[-72.627961,44.504494],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874024743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.591338,42.850674,-72.591338,42.850674",
+    "geom:latitude":42.850674,
+    "geom:longitude":-72.591338,
+    "iso:country":"US",
+    "sg:address":"158 Western Ave",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 4155",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential"
+    ],
+    "sg:website":"www.holtonhome.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28JkMTdM0nZwSyWuiG7EkA_42.850674_-72.591338@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310993,
+    "wof:geomhash":"94b64903377fa5e8eebde2aba8abf399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874024743
+        }
+    ],
+    "wof:id":874024743,
+    "wof:lastmodified":1464310993,
+    "wof:name":"Holton Home",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -72.591338,
+    42.850674,
+    -72.591338,
+    42.850674
+],
+  "geometry": {"coordinates":[-72.59133799999999,42.850674],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874234363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.230872,44.495112,-73.230872,44.495112",
+    "geom:latitude":44.495112,
+    "geom:longitude":-73.230872,
+    "iso:country":"US",
+    "sg:address":"351 North Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 6110",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850949,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ml7QR3GQbXUoG7k6bc7BB_44.495112_-73.230872@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313227,
+    "wof:geomhash":"26e12f9dcc705df305a238ab096ee867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85850949,
+            "region_id":85688763,
+            "venue_id":874234363
+        }
+    ],
+    "wof:id":874234363,
+    "wof:lastmodified":1464313227,
+    "wof:name":"Catholic Diocese Of Burlington",
+    "wof:parent_id":85850949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.230872,
+    44.495112,
+    -73.230872,
+    44.495112
+],
+  "geometry": {"coordinates":[-73.23087200000001,44.495112],"type":"Point"}
+}

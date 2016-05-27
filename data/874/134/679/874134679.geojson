@@ -1,0 +1,69 @@
+{
+  "id": 874134679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.97671,43.473985,-72.97671,43.473985",
+    "geom:latitude":43.473985,
+    "geom:longitude":-72.97671,
+    "iso:country":"US",
+    "sg:address":"14 Hull Ave",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 2234",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GGGgMvuDbDy5BK3WJMBws_43.473985_-72.976710@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312188,
+    "wof:geomhash":"5599c537eea16fc71e324e6496b30cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874134679
+        }
+    ],
+    "wof:id":874134679,
+    "wof:lastmodified":1464312188,
+    "wof:name":"Clean Sweep",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -72.97671,
+    43.473985,
+    -72.97671,
+    43.473985
+],
+  "geometry": {"coordinates":[-72.97671,43.473985],"type":"Point"}
+}

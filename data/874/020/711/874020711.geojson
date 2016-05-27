@@ -1,0 +1,82 @@
+{
+  "id": 874020711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.560932,44.210885,-72.560932,44.210885",
+    "geom:latitude":44.210885,
+    "geom:longitude":-72.560932,
+    "iso:country":"US",
+    "sg:address":"115 Industrial Ln",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 8948",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "communications",
+        "signal",
+        "mfg",
+        "sign",
+        "equipment",
+        "traffic"
+    ],
+    "sg:website":"www.worksafetci.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41Iyqd1TpMpR5CJHiGIwNV_44.210885_-72.560932@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310954,
+    "wof:geomhash":"1035358a812e9b7ec13ab04b6a24aab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874020711
+        }
+    ],
+    "wof:id":874020711,
+    "wof:lastmodified":1464310954,
+    "wof:name":"Worksafe Traffic Control Inds",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "signal",
+        "mfg",
+        "sign",
+        "equipment",
+        "traffic"
+    ]
+},
+  "bbox": [
+    -72.560932,
+    44.210885,
+    -72.560932,
+    44.210885
+],
+  "geometry": {"coordinates":[-72.56093199999999,44.210885],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874160007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.487968,43.297672,-72.487968,43.297672",
+    "geom:latitude":43.297672,
+    "geom:longitude":-72.487968,
+    "iso:country":"US",
+    "sg:address":"114 Park St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 9177",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jmHMsvN7MwEST1XrY3SaK_43.297672_-72.487968@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312432,
+    "wof:geomhash":"bc21c40588ca3196c2e0743a9007b274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874160007
+        }
+    ],
+    "wof:id":874160007,
+    "wof:lastmodified":1464312432,
+    "wof:name":"Jake's Park Street Market",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -72.487968,
+    43.297672,
+    -72.487968,
+    43.297672
+],
+  "geometry": {"coordinates":[-72.487968,43.297672],"type":"Point"}
+}

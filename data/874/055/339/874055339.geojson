@@ -1,0 +1,71 @@
+{
+  "id": 874055339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.10991,44.687277,-73.10991,44.687277",
+    "geom:latitude":44.687277,
+    "geom:longitude":-73.10991,
+    "iso:country":"US",
+    "sg:address":"582 US Hwy 7",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 7376",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2obpBjvJhmROnMQykI0VhO_44.687277_-73.109910@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311295,
+    "wof:geomhash":"68d62c755aa067a8d8f89becaa59b1f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874055339
+        }
+    ],
+    "wof:id":874055339,
+    "wof:lastmodified":1464311295,
+    "wof:name":"Arrowhead Used Cars",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.10991,
+    44.687277,
+    -73.10991,
+    44.687277
+],
+  "geometry": {"coordinates":[-73.10991,44.687277],"type":"Point"}
+}

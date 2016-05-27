@@ -1,0 +1,69 @@
+{
+  "id": 874000727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.613732,42.939901,-72.613732,42.939901",
+    "geom:latitude":42.939901,
+    "geom:longitude":-72.613732,
+    "iso:country":"US",
+    "sg:address":"116 Camp Arden Rd",
+    "sg:city":"Dummerston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 4468",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S3EiMA6FpkBItUPiC4fCC_42.939901_-72.613732@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310765,
+    "wof:geomhash":"e9a8df355eac631c63223c7db3a6496e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874000727
+        }
+    ],
+    "wof:id":874000727,
+    "wof:lastmodified":1464310765,
+    "wof:name":"West River Woodworking",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -72.613732,
+    42.939901,
+    -72.613732,
+    42.939901
+],
+  "geometry": {"coordinates":[-72.613732,42.939901],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874092859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.657845,44.155589,-72.657845,44.155589",
+    "geom:latitude":44.155589,
+    "geom:longitude":-72.657845,
+    "iso:country":"US",
+    "sg:address":"233 N Main St",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 6683",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FpLzELww1lyvjqtVPnoEu_44.155589_-72.657845@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311693,
+    "wof:geomhash":"0e29ede4d65b0bb70ca51a100df49023",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874092859
+        }
+    ],
+    "wof:id":874092859,
+    "wof:lastmodified":1464311693,
+    "wof:name":"A Plus Touch Custodial Inc",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -72.657845,
+    44.155589,
+    -72.657845,
+    44.155589
+],
+  "geometry": {"coordinates":[-72.65784499999999,44.155589],"type":"Point"}
+}

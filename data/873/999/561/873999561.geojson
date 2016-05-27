@@ -1,0 +1,71 @@
+{
+  "id": 873999561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.133698,44.507875,-73.133698,44.507875",
+    "geom:latitude":44.507875,
+    "geom:longitude":-73.133698,
+    "iso:country":"US",
+    "sg:address":"1 Market Pl",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 288 8164",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OLfr2amNNaSkL81BSuo1q_44.507875_-73.133698@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310757,
+    "wof:geomhash":"bbdff3ab6ffa79b4e86bcfb783b4194d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":873999561
+        }
+    ],
+    "wof:id":873999561,
+    "wof:lastmodified":1464310757,
+    "wof:name":"Perfect Nails By Thu",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -73.133698,
+    44.507875,
+    -73.133698,
+    44.507875
+],
+  "geometry": {"coordinates":[-73.133698,44.507875],"type":"Point"}
+}

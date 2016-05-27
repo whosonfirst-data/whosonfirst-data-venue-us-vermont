@@ -1,0 +1,71 @@
+{
+  "id": 874045977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.986919,43.610357,-72.986919,43.610357",
+    "geom:latitude":43.610357,
+    "geom:longitude":-72.986919,
+    "iso:country":"US",
+    "sg:address":"53 Baxter St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 2935",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "organs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ljCDfoT8SR0aNdGjL8m8w_43.610357_-72.986919@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311206,
+    "wof:geomhash":"119df91e28f9ed667f4af907252a5ec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874045977
+        }
+    ],
+    "wof:id":874045977,
+    "wof:lastmodified":1464311206,
+    "wof:name":"Harmony House",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "organs"
+    ]
+},
+  "bbox": [
+    -72.986919,
+    43.610357,
+    -72.986919,
+    43.610357
+],
+  "geometry": {"coordinates":[-72.986919,43.610357],"type":"Point"}
+}

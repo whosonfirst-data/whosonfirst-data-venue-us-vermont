@@ -1,0 +1,69 @@
+{
+  "id": 874060987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206198,42.897141,-73.206198,42.897141",
+    "geom:latitude":42.897141,
+    "geom:longitude":-73.206198,
+    "iso:country":"US",
+    "sg:address":"137 Northside Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 0654",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39jZWPpKVlPVBpPbTeFCwe_42.897141_-73.206198@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311344,
+    "wof:geomhash":"6a095139ee7829a9d292ef8a282fa7d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874060987
+        }
+    ],
+    "wof:id":874060987,
+    "wof:lastmodified":1464311344,
+    "wof:name":"Automaster Foreign Car Repair",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -73.206198,
+    42.897141,
+    -73.206198,
+    42.897141
+],
+  "geometry": {"coordinates":[-73.206198,42.897141],"type":"Point"}
+}

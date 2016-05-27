@@ -1,0 +1,71 @@
+{
+  "id": 874014809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.221753,44.483414,-73.221753,44.483414",
+    "geom:latitude":44.483414,
+    "geom:longitude":-73.221753,
+    "iso:country":"US",
+    "sg:address":"33 North Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 4440",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2etYaOJumrbAfJ7oILbQY9_44.483414_-73.221753@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310889,
+    "wof:geomhash":"2019d538d288fdbc7b2f0847edd2d2e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874014809
+        }
+    ],
+    "wof:id":874014809,
+    "wof:lastmodified":1464310889,
+    "wof:name":"Imagen Photography",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -73.221753,
+    44.483414,
+    -73.221753,
+    44.483414
+],
+  "geometry": {"coordinates":[-73.22175300000001,44.483414],"type":"Point"}
+}

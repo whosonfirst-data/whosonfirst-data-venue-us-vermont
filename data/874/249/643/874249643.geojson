@@ -1,0 +1,67 @@
+{
+  "id": 874249643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209897,44.477217,-73.209897,44.477217",
+    "geom:latitude":44.477217,
+    "geom:longitude":-73.209897,
+    "iso:country":"US",
+    "sg:address":"252 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 4200",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:website":"http://www.allenvt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44W1XDmXfl3j1ebTY3h89z_44.477266_-73.210346@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313556,
+    "wof:geomhash":"9d9ce73da5ce4c2ea98a88096242c101",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874249643
+        }
+    ],
+    "wof:id":874249643,
+    "wof:lastmodified":1464313556,
+    "wof:name":"Allen Agency Real Estate, The Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.209897,
+    44.477217,
+    -73.209897,
+    44.477217
+],
+  "geometry": {"coordinates":[-73.209897,44.477217],"type":"Point"}
+}

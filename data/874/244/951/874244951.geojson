@@ -1,0 +1,69 @@
+{
+  "id": 874244951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.052188,44.428274,-72.052188,44.428274",
+    "geom:latitude":44.428274,
+    "geom:longitude":-72.052188,
+    "iso:country":"US",
+    "sg:address":"23 Tilton Rd",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3428",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YDi5ngL5LjL7pUjIkTY4j_44.428274_-72.052188@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313433,
+    "wof:geomhash":"a07e0294a33e0d0ede56e6172a8fbb59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874244951
+        }
+    ],
+    "wof:id":874244951,
+    "wof:lastmodified":1464313433,
+    "wof:name":"Northeast Regional Library",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -72.052188,
+    44.428274,
+    -72.052188,
+    44.428274
+],
+  "geometry": {"coordinates":[-72.052188,44.428274],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873988633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.412372,43.699924,-72.412372,43.699924",
+    "geom:latitude":43.699924,
+    "geom:longitude":-72.412372,
+    "iso:country":"US",
+    "sg:address":"1126 Old River Rd",
+    "sg:city":"White River Jct",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 9395",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810215,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WEPodruMU9VT3DTO9K6Z2_43.699924_-72.412372@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310680,
+    "wof:geomhash":"c734f0ccaf6464a57829a282ec807933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85810215,
+            "region_id":85688763,
+            "venue_id":873988633
+        }
+    ],
+    "wof:id":873988633,
+    "wof:lastmodified":1464310680,
+    "wof:name":"Mjk Plumbing & Heating",
+    "wof:parent_id":85810215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.412372,
+    43.699924,
+    -72.412372,
+    43.699924
+],
+  "geometry": {"coordinates":[-72.412372,43.699924],"type":"Point"}
+}

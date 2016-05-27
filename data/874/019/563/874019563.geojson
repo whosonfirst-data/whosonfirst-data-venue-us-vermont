@@ -1,0 +1,73 @@
+{
+  "id": 874019563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.174714,44.035226,-73.174714,44.035226",
+    "geom:latitude":44.035226,
+    "geom:longitude":-73.174714,
+    "iso:country":"US",
+    "sg:address":"226 Pond Ln",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3401",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rOJtL84QZvkIjzApmTH2y_44.035226_-73.174714@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310943,
+    "wof:geomhash":"225fce56b0c2b1a1768ea8234e782838",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874019563
+        }
+    ],
+    "wof:id":874019563,
+    "wof:lastmodified":1464310943,
+    "wof:name":"Addison County Asphalt Product",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -73.174714,
+    44.035226,
+    -73.174714,
+    44.035226
+],
+  "geometry": {"coordinates":[-73.17471399999999,44.035226],"type":"Point"}
+}

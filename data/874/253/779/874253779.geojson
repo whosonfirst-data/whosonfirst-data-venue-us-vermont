@@ -1,0 +1,79 @@
+{
+  "id": 874253779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.237198,44.329899,-73.237198,44.329899",
+    "geom:latitude":44.329899,
+    "geom:longitude":-73.237198,
+    "iso:country":"US",
+    "sg:address":"1689 Church Hill Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 6369",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.affectionatelycats.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85811695,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xh8pAooIPhkbD5csLxXgE_44.329899_-73.237198@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313641,
+    "wof:geomhash":"c6f781c7f5a720e221883754dce1e696",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85811695,
+            "region_id":85688763,
+            "venue_id":874253779
+        }
+    ],
+    "wof:id":874253779,
+    "wof:lastmodified":1464313641,
+    "wof:name":"Affectionately Cats",
+    "wof:parent_id":85811695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -73.237198,
+    44.329899,
+    -73.237198,
+    44.329899
+],
+  "geometry": {"coordinates":[-73.23719800000001,44.329899],"type":"Point"}
+}

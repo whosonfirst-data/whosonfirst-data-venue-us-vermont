@@ -1,0 +1,71 @@
+{
+  "id": 874208867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210344,44.476073,-73.210344,44.476073",
+    "geom:latitude":44.476073,
+    "geom:longitude":-73.210344,
+    "iso:country":"US",
+    "sg:address":"250 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 7474",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "craft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1il9kekWifH0xzs6J6U18k_44.476073_-73.210344@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312937,
+    "wof:geomhash":"af722c1642f8a8cd022f66547fe7e7da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874208867
+        }
+    ],
+    "wof:id":874208867,
+    "wof:lastmodified":1464312937,
+    "wof:name":"Frog Hollow Vt State Craft Ctr",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "craft"
+    ]
+},
+  "bbox": [
+    -73.210344,
+    44.476073,
+    -73.210344,
+    44.476073
+],
+  "geometry": {"coordinates":[-73.21034400000001,44.476073],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874239197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.975355,43.624515,-72.975355,43.624515",
+    "geom:latitude":43.624515,
+    "geom:longitude":-72.975355,
+    "iso:country":"US",
+    "sg:address":"256 N Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 5213",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "convention",
+        "meeting",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X6DT8DI3Yjj7EbEwfP6bG_43.624515_-72.975355@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313325,
+    "wof:geomhash":"793f41208ca932c5b8bff1ea157531ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874239197
+        }
+    ],
+    "wof:id":874239197,
+    "wof:lastmodified":1464313325,
+    "wof:name":"Vermont Convention Bureau",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "meeting",
+        "facility"
+    ]
+},
+  "bbox": [
+    -72.975355,
+    43.624515,
+    -72.975355,
+    43.624515
+],
+  "geometry": {"coordinates":[-72.97535499999999,43.624515],"type":"Point"}
+}

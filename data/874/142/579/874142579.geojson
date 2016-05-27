@@ -1,0 +1,73 @@
+{
+  "id": 874142579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.566424,44.249425,-72.566424,44.249425",
+    "geom:latitude":44.249425,
+    "geom:longitude":-72.566424,
+    "iso:country":"US",
+    "sg:address":"62 River St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9723",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DuMOpjHkUr8pDTIFDn6Iz_44.249425_-72.566424@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312258,
+    "wof:geomhash":"57f9d7aa7fecc1b9852f4c32e90264f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874142579
+        }
+    ],
+    "wof:id":874142579,
+    "wof:lastmodified":1464312258,
+    "wof:name":"Florida Auto Sales",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.566424,
+    44.249425,
+    -72.566424,
+    44.249425
+],
+  "geometry": {"coordinates":[-72.566424,44.249425],"type":"Point"}
+}

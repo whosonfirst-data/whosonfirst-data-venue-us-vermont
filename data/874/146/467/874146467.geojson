@@ -1,0 +1,71 @@
+{
+  "id": 874146467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.98269,43.609079,-72.98269,43.609079",
+    "geom:latitude":43.609079,
+    "geom:longitude":-72.98269,
+    "iso:country":"US",
+    "sg:address":"167 State St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 786 5830",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "correctional",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kvOYprhsQqlMGfZMjZXYm_43.609079_-72.982690@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312297,
+    "wof:geomhash":"61bc6d1464d63aafa03d230e867918df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874146467
+        }
+    ],
+    "wof:id":874146467,
+    "wof:lastmodified":1464312297,
+    "wof:name":"Marble Valley Reg Correctional",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "facility"
+    ]
+},
+  "bbox": [
+    -72.98269,
+    43.609079,
+    -72.98269,
+    43.609079
+],
+  "geometry": {"coordinates":[-72.98269000000001,43.609079],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874170489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.243919,43.826825,-72.243919,43.826825",
+    "geom:latitude":43.826825,
+    "geom:longitude":-72.243919,
+    "iso:country":"US",
+    "sg:address":"3415 State Rte 113",
+    "sg:city":"West Fairlee",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 9160",
+    "sg:postcode":"05075",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mEUn0v7tTiq9xeaRtkI0w_43.826825_-72.243919@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312531,
+    "wof:geomhash":"9d177e6282502a0b1a9ea20260ed6229",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874170489
+        }
+    ],
+    "wof:id":874170489,
+    "wof:lastmodified":1464312531,
+    "wof:name":"Bob's Small Engine Repair Shop",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -72.243919,
+    43.826825,
+    -72.243919,
+    43.826825
+],
+  "geometry": {"coordinates":[-72.24391900000001,43.826825],"type":"Point"}
+}

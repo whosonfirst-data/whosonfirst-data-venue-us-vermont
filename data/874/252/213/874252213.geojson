@@ -1,0 +1,75 @@
+{
+  "id": 874252213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.537298,42.896966,-72.537298,42.896966",
+    "geom:latitude":42.896966,
+    "geom:longitude":-72.537298,
+    "iso:country":"US",
+    "sg:address":"226 Old Ferry Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 251 0126",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumber",
+        "plumbing-drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q7psHDWb1MMUR81ZjfmbC_42.896966_-72.537298@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313609,
+    "wof:geomhash":"3f385469580b53ef9fe6883097ab5a6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874252213
+        }
+    ],
+    "wof:id":874252213,
+    "wof:lastmodified":1464313609,
+    "wof:name":"Roto-Rooter Plumbing & Drain",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "plumbing-drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -72.537298,
+    42.896966,
+    -72.537298,
+    42.896966
+],
+  "geometry": {"coordinates":[-72.53729800000001,42.896966],"type":"Point"}
+}

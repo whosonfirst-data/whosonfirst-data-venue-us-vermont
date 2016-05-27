@@ -1,0 +1,71 @@
+{
+  "id": 874077199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.197273,43.987666,-73.197273,43.987666",
+    "geom:latitude":43.987666,
+    "geom:longitude":-73.197273,
+    "iso:country":"US",
+    "sg:address":"652 State Rte 30",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 3229",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kpqS7COpTbY5g0LCByLhl_43.987666_-73.197273@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311521,
+    "wof:geomhash":"042e0999f043d1a3e30b897825bfbf7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874077199
+        }
+    ],
+    "wof:id":874077199,
+    "wof:lastmodified":1464311521,
+    "wof:name":"Visser Automotive",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -73.197273,
+    43.987666,
+    -73.197273,
+    43.987666
+],
+  "geometry": {"coordinates":[-73.197273,43.987666],"type":"Point"}
+}

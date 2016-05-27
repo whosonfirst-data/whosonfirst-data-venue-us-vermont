@@ -1,0 +1,73 @@
+{
+  "id": 874151699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.127478,44.509688,-73.127478,44.509688",
+    "geom:latitude":44.509688,
+    "geom:longitude":-73.127478,
+    "iso:country":"US",
+    "sg:address":"33 Pioneer St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 9784",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_335uhFMFPgIF47dl5eL0lT_44.509688_-73.127478@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312344,
+    "wof:geomhash":"9d595c178a3f4939992df93b24fa0922",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874151699
+        }
+    ],
+    "wof:id":874151699,
+    "wof:lastmodified":1464312344,
+    "wof:name":"Are A Real Electrician",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.127478,
+    44.509688,
+    -73.127478,
+    44.509688
+],
+  "geometry": {"coordinates":[-73.127478,44.509688],"type":"Point"}
+}

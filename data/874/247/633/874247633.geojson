@@ -1,0 +1,71 @@
+{
+  "id": 874247633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.231611,44.323661,-73.231611,44.323661",
+    "geom:latitude":44.323661,
+    "geom:longitude":-73.231611,
+    "iso:country":"US",
+    "sg:address":"425 Mutton Hill Dr",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 2254",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "wood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85811695,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66ZL028vmdzQsuQqrZRl4c_44.323661_-73.231611@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313486,
+    "wof:geomhash":"1e3c621294151daede1f770171f136a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85811695,
+            "region_id":85688763,
+            "venue_id":874247633
+        }
+    ],
+    "wof:id":874247633,
+    "wof:lastmodified":1464313486,
+    "wof:name":"Loon Lake Enterprises",
+    "wof:parent_id":85811695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "wood"
+    ]
+},
+  "bbox": [
+    -73.231611,
+    44.323661,
+    -73.231611,
+    44.323661
+],
+  "geometry": {"coordinates":[-73.231611,44.323661],"type":"Point"}
+}

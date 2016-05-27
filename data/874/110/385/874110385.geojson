@@ -1,0 +1,73 @@
+{
+  "id": 874110385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.109626,44.684974,-73.109626,44.684974",
+    "geom:latitude":44.684974,
+    "geom:longitude":-73.109626,
+    "iso:country":"US",
+    "sg:address":"82 Sunset Cir",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 4928",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cOJzX3yoxQbOEBOEtxHnP_44.684974_-73.109626@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311927,
+    "wof:geomhash":"b34cd0cf79f2a344fefb56bdde3249fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874110385
+        }
+    ],
+    "wof:id":874110385,
+    "wof:lastmodified":1464311927,
+    "wof:name":"Extreme Delivery",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.109626,
+    44.684974,
+    -73.109626,
+    44.684974
+],
+  "geometry": {"coordinates":[-73.10962600000001,44.684974],"type":"Point"}
+}

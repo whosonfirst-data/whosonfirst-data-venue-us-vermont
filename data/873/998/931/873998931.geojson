@@ -1,0 +1,73 @@
+{
+  "id": 873998931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.243685,44.103706,-73.243685,44.103706",
+    "geom:latitude":44.103706,
+    "geom:longitude":-73.243685,
+    "iso:country":"US",
+    "sg:address":"974 Hallock Rd",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2004",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lAhHk9S8HqnTUWz9EI5oF_44.103706_-73.243685@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310753,
+    "wof:geomhash":"d4a07315ec6f9a173a2ad8d448d568c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":873998931
+        }
+    ],
+    "wof:id":873998931,
+    "wof:lastmodified":1464310753,
+    "wof:name":"Mahan Farms",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.243685,
+    44.103706,
+    -73.243685,
+    44.103706
+],
+  "geometry": {"coordinates":[-73.243685,44.103706],"type":"Point"}
+}

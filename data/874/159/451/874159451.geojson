@@ -1,0 +1,75 @@
+{
+  "id": 874159451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212169,44.478147,-73.212169,44.478147",
+    "geom:latitude":44.478147,
+    "geom:longitude":-73.212169,
+    "iso:country":"US",
+    "sg:address":"185 Bank St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 3042",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair",
+        "watch",
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a3y5BERDE5cY0Y46iFHzG_44.478147_-73.212169@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312426,
+    "wof:geomhash":"b991d27cd2680dbcedb8af152d53ff92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874159451
+        }
+    ],
+    "wof:id":874159451,
+    "wof:lastmodified":1464312426,
+    "wof:name":"Tick Tock Jewelers Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "watch",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -73.212169,
+    44.478147,
+    -73.212169,
+    44.478147
+],
+  "geometry": {"coordinates":[-73.212169,44.478147],"type":"Point"}
+}

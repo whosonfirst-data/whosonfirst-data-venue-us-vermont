@@ -1,0 +1,69 @@
+{
+  "id": 874056901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.750363,44.501018,-72.750363,44.501018",
+    "geom:latitude":44.501018,
+    "geom:longitude":-72.750363,
+    "iso:country":"US",
+    "sg:address":"4969 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 2085",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85851219,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23SY11rzEBdDKMwpbvEGre_44.501018_-72.750363@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311308,
+    "wof:geomhash":"09b1be004371b7eaa25a3ac7815eca7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85851219,
+            "region_id":85688763,
+            "venue_id":874056901
+        }
+    ],
+    "wof:id":874056901,
+    "wof:lastmodified":1464311308,
+    "wof:name":"John & Charlie Inc",
+    "wof:parent_id":85851219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.750363,
+    44.501018,
+    -72.750363,
+    44.501018
+],
+  "geometry": {"coordinates":[-72.75036299999999,44.501018],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874005521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.49183,43.347561,-72.49183,43.347561",
+    "geom:latitude":43.347561,
+    "geom:longitude":-72.49183,
+    "iso:country":"US",
+    "sg:address":"1395 Wellwood Orchard Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 8178",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xyAxUAnyfLR2PO1VzbB0y_43.347561_-72.491830@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310820,
+    "wof:geomhash":"9bc7df15b566ee45776b0367abe32af7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874005521
+        }
+    ],
+    "wof:id":874005521,
+    "wof:lastmodified":1464310820,
+    "wof:name":"Tim Snide",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.49183,
+    43.347561,
+    -72.49183,
+    43.347561
+],
+  "geometry": {"coordinates":[-72.49182999999999,43.347561],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874091841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.253242,44.43125,-72.253242,44.43125",
+    "geom:latitude":44.43125,
+    "geom:longitude":-72.253242,
+    "iso:country":"US",
+    "sg:address":"149 McQueeny Rd",
+    "sg:city":"West Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 563 2912",
+    "sg:postcode":"05873",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g2sevBgAEon2imvZsEoTh_44.431250_-72.253242@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311685,
+    "wof:geomhash":"511c00128048c37b6382094795ad70d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874091841
+        }
+    ],
+    "wof:id":874091841,
+    "wof:lastmodified":1464311685,
+    "wof:name":"Willow Creek Farm",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -72.253242,
+    44.43125,
+    -72.253242,
+    44.43125
+],
+  "geometry": {"coordinates":[-72.253242,44.43125],"type":"Point"}
+}

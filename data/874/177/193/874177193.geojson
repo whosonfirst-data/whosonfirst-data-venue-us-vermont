@@ -1,0 +1,72 @@
+{
+  "id": 874177193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215221,44.476916,-73.215221,44.476916",
+    "geom:latitude":44.476916,
+    "geom:longitude":-73.215221,
+    "iso:country":"US",
+    "sg:address":"135 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 0400",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.servidio-engineering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kCe6Dz1AyU72eRHR8CY9Z_44.476916_-73.215221@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312598,
+    "wof:geomhash":"a22b44a91989fa668dd8928eddda3b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874177193
+        }
+    ],
+    "wof:id":874177193,
+    "wof:lastmodified":1464312598,
+    "wof:name":"Servidio Engineering Cons",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -73.215221,
+    44.476916,
+    -73.215221,
+    44.476916
+],
+  "geometry": {"coordinates":[-73.215221,44.476916],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874008159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.178075,44.514055,-73.178075,44.514055",
+    "geom:latitude":44.514055,
+    "geom:longitude":-73.178075,
+    "iso:country":"US",
+    "sg:address":"67 Champlain Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 4456",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tour",
+        "coach"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BEpOsYMQPlfvPvAyCM7XU_44.514055_-73.178075@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310842,
+    "wof:geomhash":"4bb3a753bdd394a93626fe18b2ad343f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874008159
+        }
+    ],
+    "wof:id":874008159,
+    "wof:lastmodified":1464310842,
+    "wof:name":"Premier Coach Co Inc",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour",
+        "coach"
+    ]
+},
+  "bbox": [
+    -73.178075,
+    44.514055,
+    -73.178075,
+    44.514055
+],
+  "geometry": {"coordinates":[-73.17807500000001,44.514055],"type":"Point"}
+}

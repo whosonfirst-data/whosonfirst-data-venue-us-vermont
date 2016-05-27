@@ -1,0 +1,73 @@
+{
+  "id": 873997093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.993569,43.60512,-72.993569,43.60512",
+    "geom:latitude":43.60512,
+    "geom:longitude":-72.993569,
+    "iso:country":"US",
+    "sg:address":"25 Green Hill Ln",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0325",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "management",
+        "recycling",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WDFs6vClYGdSRbFazV9Fn_43.605120_-72.993569@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310740,
+    "wof:geomhash":"c1244eba70e3bdb8afcef2d37defa2c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":873997093
+        }
+    ],
+    "wof:id":873997093,
+    "wof:lastmodified":1464310740,
+    "wof:name":"Casella Waste Systems Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "recycling",
+        "waste"
+    ]
+},
+  "bbox": [
+    -72.993569,
+    43.60512,
+    -72.993569,
+    43.60512
+],
+  "geometry": {"coordinates":[-72.99356899999999,43.60512],"type":"Point"}
+}

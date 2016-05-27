@@ -1,0 +1,71 @@
+{
+  "id": 874145779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213696,44.415104,-73.213696,44.415104",
+    "geom:latitude":44.415104,
+    "geom:longitude":-73.213696,
+    "iso:country":"US",
+    "sg:address":"2785 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 5023",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15Olusa4a5T89teFR6jIql_44.415104_-73.213696@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312291,
+    "wof:geomhash":"8877dd42c97de3813ea2029bab3d3d90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874145779
+        }
+    ],
+    "wof:id":874145779,
+    "wof:lastmodified":1464312291,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -73.213696,
+    44.415104,
+    -73.213696,
+    44.415104
+],
+  "geometry": {"coordinates":[-73.213696,44.415104],"type":"Point"}
+}

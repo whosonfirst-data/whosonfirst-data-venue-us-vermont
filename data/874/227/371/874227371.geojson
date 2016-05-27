@@ -1,0 +1,75 @@
+{
+  "id": 874227371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.096123,44.116386,-73.096123,44.116386",
+    "geom:latitude":44.116386,
+    "geom:longitude":-73.096123,
+    "iso:country":"US",
+    "sg:address":"906 State Rte 116",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3620",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EmodWRx0DfBfoL31B2IYA_44.116386_-73.096123@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313134,
+    "wof:geomhash":"be95368bb28fb2785ff8df6d1b2a0178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874227371
+        }
+    ],
+    "wof:id":874227371,
+    "wof:lastmodified":1464313134,
+    "wof:name":"Skidmore Service Center",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.096123,
+    44.116386,
+    -73.096123,
+    44.116386
+],
+  "geometry": {"coordinates":[-73.09612300000001,44.116386],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874018263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212227,44.541318,-73.212227,44.541318",
+    "geom:latitude":44.541318,
+    "geom:longitude":-73.212227,
+    "iso:country":"US",
+    "sg:address":"308 Blakely Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 5100",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iKMSQewXWetTh7qGiCmuO_44.541318_-73.212227@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310930,
+    "wof:geomhash":"70e3323153902383ccf90b2971c6643e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874018263
+        }
+    ],
+    "wof:id":874018263,
+    "wof:lastmodified":1464310930,
+    "wof:name":"Champlain Orthodontic Assoc",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.212227,
+    44.541318,
+    -73.212227,
+    44.541318
+],
+  "geometry": {"coordinates":[-73.212227,44.541318],"type":"Point"}
+}

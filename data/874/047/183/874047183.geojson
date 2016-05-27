@@ -1,0 +1,71 @@
+{
+  "id": 874047183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.238934,44.376886,-73.238934,44.376886",
+    "geom:latitude":44.376886,
+    "geom:longitude":-73.238934,
+    "iso:country":"US",
+    "sg:address":"75 Heritage Ln",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 5018",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e4vB4SC6s7P6haCPIfxfB_44.376886_-73.238934@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311216,
+    "wof:geomhash":"2d8e26e26a0252da8a441a287e7dff5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874047183
+        }
+    ],
+    "wof:id":874047183,
+    "wof:lastmodified":1464311216,
+    "wof:name":"Transworld Properties Inc",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.238934,
+    44.376886,
+    -73.238934,
+    44.376886
+],
+  "geometry": {"coordinates":[-73.238934,44.376886],"type":"Point"}
+}

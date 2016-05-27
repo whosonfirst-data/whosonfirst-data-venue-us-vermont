@@ -1,0 +1,80 @@
+{
+  "id": 874252291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.606464,42.861233,-72.606464,42.861233",
+    "geom:latitude":42.861233,
+    "geom:longitude":-72.606464,
+    "iso:country":"US",
+    "sg:address":"55 Marlboro Rd Ste 6",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 0369",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "builder",
+        "designer",
+        "store",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fAyhcybRY66iBZU8aTFJk_42.861233_-72.606464@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313611,
+    "wof:geomhash":"da2ad74e6f39e90001b48f7de840e89d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874252291
+        }
+    ],
+    "wof:id":874252291,
+    "wof:lastmodified":1464313611,
+    "wof:name":"Brookside Furniture",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "designer",
+        "store",
+        "custom"
+    ]
+},
+  "bbox": [
+    -72.606464,
+    42.861233,
+    -72.606464,
+    42.861233
+],
+  "geometry": {"coordinates":[-72.606464,42.861233],"type":"Point"}
+}

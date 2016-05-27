@@ -1,0 +1,72 @@
+{
+  "id": 874253735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.877677,44.644615,-72.877677,44.644615",
+    "geom:latitude":44.644615,
+    "geom:longitude":-72.877677,
+    "iso:country":"US",
+    "sg:address":"155 S Main St",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8811",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.kinneydrugs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ohe7eJZkaAkjiaWHF9ive_44.644615_-72.877677@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313640,
+    "wof:geomhash":"e9f7b51cc95b1a096d21f698720f9d4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874253735
+        }
+    ],
+    "wof:id":874253735,
+    "wof:lastmodified":1464313640,
+    "wof:name":"Kinney Drugs Inc",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -72.877677,
+    44.644615,
+    -72.877677,
+    44.644615
+],
+  "geometry": {"coordinates":[-72.87767700000001,44.644615],"type":"Point"}
+}

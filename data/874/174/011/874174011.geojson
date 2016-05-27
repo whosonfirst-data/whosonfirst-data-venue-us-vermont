@@ -1,0 +1,73 @@
+{
+  "id": 874174011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.849705,43.270641,-72.849705,43.270641",
+    "geom:latitude":43.270641,
+    "geom:longitude":-72.849705,
+    "iso:country":"US",
+    "sg:address":"1 Tarpley Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 4775",
+    "sg:postcode":"05152",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85852047,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J42qayULnpTLRW1CU0YOA_43.270641_-72.849705@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312568,
+    "wof:geomhash":"5d80e57c64d979c8f9ac3a0d9955df5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85852047,
+            "region_id":85688763,
+            "venue_id":874174011
+        }
+    ],
+    "wof:id":874174011,
+    "wof:lastmodified":1464312568,
+    "wof:name":"Dibble Painters Inc",
+    "wof:parent_id":85852047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.849705,
+    43.270641,
+    -72.849705,
+    43.270641
+],
+  "geometry": {"coordinates":[-72.849705,43.270641],"type":"Point"}
+}

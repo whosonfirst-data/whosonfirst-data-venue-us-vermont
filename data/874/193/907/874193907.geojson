@@ -1,0 +1,73 @@
+{
+  "id": 874193907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.598558,42.852602,-72.598558,42.852602",
+    "geom:latitude":42.852602,
+    "geom:longitude":-72.598558,
+    "iso:country":"US",
+    "sg:address":"200 Western Ave",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 4039",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "optical",
+        "component",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xG6LQrKR90T3qcE6fpUyT_42.852602_-72.598558@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312779,
+    "wof:geomhash":"267846451ff34ecc7c052177a2b3345b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874193907
+        }
+    ],
+    "wof:id":874193907,
+    "wof:lastmodified":1464312779,
+    "wof:name":"Teralum",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optical",
+        "component",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.598558,
+    42.852602,
+    -72.598558,
+    42.852602
+],
+  "geometry": {"coordinates":[-72.598558,42.852602],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874005009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213378,44.475822,-73.213378,44.475822",
+    "geom:latitude":44.475822,
+    "geom:longitude":-73.213378,
+    "iso:country":"US",
+    "sg:address":"163 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 5752",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75AaaVpBb6A23P3CF4Aj4x_44.475822_-73.213378@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310814,
+    "wof:geomhash":"090bc0d2d9752a41b76ef73d62008705",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874005009
+        }
+    ],
+    "wof:id":874005009,
+    "wof:lastmodified":1464310814,
+    "wof:name":"Ahli Baba's Kabob Shop",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.213378,
+    44.475822,
+    -73.213378,
+    44.475822
+],
+  "geometry": {"coordinates":[-73.21337800000001,44.475822],"type":"Point"}
+}

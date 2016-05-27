@@ -1,0 +1,71 @@
+{
+  "id": 874232427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.518662,44.21023,-72.518662,44.21023",
+    "geom:latitude":44.21023,
+    "geom:longitude":-72.518662,
+    "iso:country":"US",
+    "sg:address":"69 Treatment Plant Dr",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 0261",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wiBDwqjVTUqmseMY72aa0_44.210230_-72.518662@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313192,
+    "wof:geomhash":"a1ddb7bad37fc4835b79826c3645ac9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874232427
+        }
+    ],
+    "wof:id":874232427,
+    "wof:lastmodified":1464313192,
+    "wof:name":"Barre Sewage Treatment Plant",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.518662,
+    44.21023,
+    -72.518662,
+    44.21023
+],
+  "geometry": {"coordinates":[-72.51866200000001,44.21023],"type":"Point"}
+}

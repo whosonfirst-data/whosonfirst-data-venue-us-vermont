@@ -1,0 +1,71 @@
+{
+  "id": 874120543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.336324,44.158237,-73.336324,44.158237",
+    "geom:latitude":44.158237,
+    "geom:longitude":-73.336324,
+    "iso:country":"US",
+    "sg:address":"2357 Jersey St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 475 2583",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e9v6tN6AEWQW2aBmx6SB8_44.158237_-73.336324@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312046,
+    "wof:geomhash":"c6f72b95be9ce611fa531db7eb929508",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874120543
+        }
+    ],
+    "wof:id":874120543,
+    "wof:lastmodified":1464312046,
+    "wof:name":"Allendale Farm",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.336324,
+    44.158237,
+    -73.336324,
+    44.158237
+],
+  "geometry": {"coordinates":[-73.336324,44.158237],"type":"Point"}
+}

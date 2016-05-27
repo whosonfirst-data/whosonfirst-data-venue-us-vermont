@@ -1,0 +1,73 @@
+{
+  "id": 874244515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.000302,44.398942,-73.000302,44.398942",
+    "geom:latitude":44.398942,
+    "geom:longitude":-73.000302,
+    "iso:country":"US",
+    "sg:address":"400 Huntington Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 2151",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "farm",
+        "equipment",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NaD2XM8eeKRPjdZhUMEmo_44.398942_-73.000302@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313426,
+    "wof:geomhash":"e8aaa011e2f9df764df83f267a079b36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874244515
+        }
+    ],
+    "wof:id":874244515,
+    "wof:lastmodified":1464313426,
+    "wof:name":"Farr Family Machine Repair Svc",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment",
+        "parts"
+    ]
+},
+  "bbox": [
+    -73.000302,
+    44.398942,
+    -73.000302,
+    44.398942
+],
+  "geometry": {"coordinates":[-73.000302,44.398942],"type":"Point"}
+}

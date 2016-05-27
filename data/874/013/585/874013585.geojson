@@ -1,0 +1,69 @@
+{
+  "id": 874013585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.19706,42.878302,-73.19706,42.878302",
+    "geom:latitude":42.878302,
+    "geom:longitude":-73.19706,
+    "iso:country":"US",
+    "sg:address":"10 US Hwy 7",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 9553",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4skBK5xuWt9feqGvhjGwp2_42.878302_-73.197060@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310880,
+    "wof:geomhash":"fd708cd3f247bbf72b7df75cacde6b11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874013585
+        }
+    ],
+    "wof:id":874013585,
+    "wof:lastmodified":1464310880,
+    "wof:name":"Bennington Park Lawn Cemetery",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -73.19706,
+    42.878302,
+    -73.19706,
+    42.878302
+],
+  "geometry": {"coordinates":[-73.19705999999999,42.878302],"type":"Point"}
+}

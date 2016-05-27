@@ -1,0 +1,73 @@
+{
+  "id": 873986943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.261072,42.869227,-73.261072,42.869227",
+    "geom:latitude":42.869227,
+    "geom:longitude":-73.261072,
+    "iso:country":"US",
+    "sg:address":"569 Pleasant Valley Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 0660",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation",
+        "timber",
+        "tract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qBciO8Q7NamavmuZ4pWNp_42.869227_-73.261072@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310668,
+    "wof:geomhash":"43b62593a4a66ac274c80dd75349e91c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873986943
+        }
+    ],
+    "wof:id":873986943,
+    "wof:lastmodified":1464310668,
+    "wof:name":"Mount Anthony Farms",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "timber",
+        "tract"
+    ]
+},
+  "bbox": [
+    -73.261072,
+    42.869227,
+    -73.261072,
+    42.869227
+],
+  "geometry": {"coordinates":[-73.261072,42.869227],"type":"Point"}
+}

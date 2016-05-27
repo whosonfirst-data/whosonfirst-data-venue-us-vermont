@@ -1,0 +1,69 @@
+{
+  "id": 874011235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.972736,43.611274,-72.972736,43.611274",
+    "geom:latitude":43.611274,
+    "geom:longitude":-72.972736,
+    "iso:country":"US",
+    "sg:address":"58 N Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3130",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "orthodontist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5alRx50Axj9RKS35P5rrBo_43.611274_-72.972736@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310864,
+    "wof:geomhash":"3ef2daae6f2595d46a351b323ccddb32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874011235
+        }
+    ],
+    "wof:id":874011235,
+    "wof:lastmodified":1464310864,
+    "wof:name":"Price Mark A",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthodontist"
+    ]
+},
+  "bbox": [
+    -72.972736,
+    43.611274,
+    -72.972736,
+    43.611274
+],
+  "geometry": {"coordinates":[-72.972736,43.611274],"type":"Point"}
+}

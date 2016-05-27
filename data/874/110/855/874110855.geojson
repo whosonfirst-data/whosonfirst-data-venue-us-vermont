@@ -1,0 +1,77 @@
+{
+  "id": 874110855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.047025,43.180444,-73.047025,43.180444",
+    "geom:latitude":43.180444,
+    "geom:longitude":-73.047025,
+    "iso:country":"US",
+    "sg:address":"5768 Main St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 2605",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04zLmwiN0JbNrfxT1T50LR_43.180444_-73.047025@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311938,
+    "wof:geomhash":"509502dfc3c798884dddd77b9cf782eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874110855
+        }
+    ],
+    "wof:id":874110855,
+    "wof:lastmodified":1464311938,
+    "wof:name":"Manchester Auto Body",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.047025,
+    43.180444,
+    -73.047025,
+    43.180444
+],
+  "geometry": {"coordinates":[-73.047025,43.180444],"type":"Point"}
+}

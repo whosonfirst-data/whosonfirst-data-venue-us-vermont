@@ -1,0 +1,69 @@
+{
+  "id": 874071763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.623145,44.63424,-72.623145,44.63424",
+    "geom:latitude":44.63424,
+    "geom:longitude":-72.623145,
+    "iso:country":"US",
+    "sg:address":"139 Whitcomb Island Rd",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5311",
+    "sg:postcode":"05655",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pgp8FdiBzXCYZJkvmjanJ_44.634240_-72.623145@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311457,
+    "wof:geomhash":"cce3735d2e80b813ca2131565f36666e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874071763
+        }
+    ],
+    "wof:id":874071763,
+    "wof:lastmodified":1464311457,
+    "wof:name":"Vt Pepper Works",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -72.623145,
+    44.63424,
+    -72.623145,
+    44.63424
+],
+  "geometry": {"coordinates":[-72.62314499999999,44.63424],"type":"Point"}
+}

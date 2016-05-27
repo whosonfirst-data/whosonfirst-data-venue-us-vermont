@@ -1,0 +1,71 @@
+{
+  "id": 874189469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.615557,44.55091,-72.615557,44.55091",
+    "geom:latitude":44.55091,
+    "geom:longitude":-72.615557,
+    "iso:country":"US",
+    "sg:address":"1126 Laporte Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 2606",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hZaGsi6W8QRfjCKFy83Pz_44.550910_-72.615557@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312735,
+    "wof:geomhash":"021f1ca516b2e09f702eb5138165332d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874189469
+        }
+    ],
+    "wof:id":874189469,
+    "wof:lastmodified":1464312735,
+    "wof:name":"Ryder Brook Pediatrics",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.615557,
+    44.55091,
+    -72.615557,
+    44.55091
+],
+  "geometry": {"coordinates":[-72.615557,44.55091],"type":"Point"}
+}

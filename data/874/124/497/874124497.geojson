@@ -1,0 +1,71 @@
+{
+  "id": 874124497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.704312,44.152964,-72.704312,44.152964",
+    "geom:latitude":44.152964,
+    "geom:longitude":-72.704312,
+    "iso:country":"US",
+    "sg:address":"57 Old Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 2955",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n5uLE3tNlP8mxlcj4o53q_44.152964_-72.704312@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312080,
+    "wof:geomhash":"9adaa6012bd221299eaf53c72208e2aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874124497
+        }
+    ],
+    "wof:id":874124497,
+    "wof:lastmodified":1464312080,
+    "wof:name":"Kersarge Telephone Co Inc",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -72.704312,
+    44.152964,
+    -72.704312,
+    44.152964
+],
+  "geometry": {"coordinates":[-72.704312,44.152964],"type":"Point"}
+}

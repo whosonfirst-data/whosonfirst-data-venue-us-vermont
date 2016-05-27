@@ -1,0 +1,71 @@
+{
+  "id": 874143265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.684646,44.636528,-72.684646,44.636528",
+    "geom:latitude":44.636528,
+    "geom:longitude":-72.684646,
+    "iso:country":"US",
+    "sg:address":"384 Lower Main St W",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 6689",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70O9iNcawXyNRKQohgRj5v_44.636528_-72.684646@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312264,
+    "wof:geomhash":"0a4f45ee13aac6d3166d41b309676c47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874143265
+        }
+    ],
+    "wof:id":874143265,
+    "wof:lastmodified":1464312264,
+    "wof:name":"Johnson Health Clinic",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.684646,
+    44.636528,
+    -72.684646,
+    44.636528
+],
+  "geometry": {"coordinates":[-72.684646,44.636528],"type":"Point"}
+}

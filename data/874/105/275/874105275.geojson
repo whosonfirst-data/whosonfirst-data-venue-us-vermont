@@ -1,0 +1,71 @@
+{
+  "id": 874105275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.101957,43.915584,-73.101957,43.915584",
+    "geom:latitude":43.915584,
+    "geom:longitude":-73.101957,
+    "iso:country":"US",
+    "sg:address":"766 Smead Rd",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 352 1033",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ezwaIvkLWSlfwkGTwWj8S_43.915584_-73.101957@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311860,
+    "wof:geomhash":"6db501e6bb689c917f0181059daf5ef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874105275
+        }
+    ],
+    "wof:id":874105275,
+    "wof:lastmodified":1464311860,
+    "wof:name":"Glen Raven Inc",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -73.101957,
+    43.915584,
+    -73.101957,
+    43.915584
+],
+  "geometry": {"coordinates":[-73.101957,43.915584],"type":"Point"}
+}

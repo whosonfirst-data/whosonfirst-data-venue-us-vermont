@@ -1,0 +1,71 @@
+{
+  "id": 874209273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.078799,44.432054,-72.078799,44.432054",
+    "geom:latitude":44.432054,
+    "geom:longitude":-72.078799,
+    "iso:country":"US",
+    "sg:address":"1632 State Rte 2b",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 3353",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vqKCxn0a0T1xwx11YgmpP_44.432054_-72.078799@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312942,
+    "wof:geomhash":"8ef3830ec9e6a106a58624ba848bc663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874209273
+        }
+    ],
+    "wof:id":874209273,
+    "wof:lastmodified":1464312942,
+    "wof:name":"KIRK Fenoff Excavating",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.078799,
+    44.432054,
+    -72.078799,
+    44.432054
+],
+  "geometry": {"coordinates":[-72.078799,44.432054],"type":"Point"}
+}

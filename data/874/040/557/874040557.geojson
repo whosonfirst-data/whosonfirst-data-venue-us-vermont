@@ -1,0 +1,77 @@
+{
+  "id": 874040557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.160902,44.006944,-73.160902,44.006944",
+    "geom:latitude":44.006944,
+    "geom:longitude":-73.160902,
+    "iso:country":"US",
+    "sg:address":"102 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2765",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "information",
+        "planning",
+        "center",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wPoQRuBuZvq7ud01cVer1_44.006944_-73.160902@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311149,
+    "wof:geomhash":"8a245cf42fde1e32f76a0cdbe6730eb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874040557
+        }
+    ],
+    "wof:id":874040557,
+    "wof:lastmodified":1464311149,
+    "wof:name":"Planned Parenthood",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "planning",
+        "center",
+        "family"
+    ]
+},
+  "bbox": [
+    -73.160902,
+    44.006944,
+    -73.160902,
+    44.006944
+],
+  "geometry": {"coordinates":[-73.16090199999999,44.006944],"type":"Point"}
+}

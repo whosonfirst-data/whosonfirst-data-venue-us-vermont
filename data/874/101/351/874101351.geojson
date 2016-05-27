@@ -1,0 +1,73 @@
+{
+  "id": 874101351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.460102,44.254395,-72.460102,44.254395",
+    "geom:latitude":44.254395,
+    "geom:longitude":-72.460102,
+    "iso:country":"US",
+    "sg:address":"1585 Country Club Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 5361",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YJvSOEAtUHgrEyyWPFvjh_44.254395_-72.460102@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311810,
+    "wof:geomhash":"44b2e35381938e5a88fe553aa6559fe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874101351
+        }
+    ],
+    "wof:id":874101351,
+    "wof:lastmodified":1464311810,
+    "wof:name":"Mountain View Security Systems",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.460102,
+    44.254395,
+    -72.460102,
+    44.254395
+],
+  "geometry": {"coordinates":[-72.46010200000001,44.254395],"type":"Point"}
+}

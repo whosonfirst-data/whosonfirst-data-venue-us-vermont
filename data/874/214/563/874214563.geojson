@@ -1,0 +1,71 @@
+{
+  "id": 874214563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.987401,44.501828,-72.987401,44.501828",
+    "geom:latitude":44.501828,
+    "geom:longitude":-72.987401,
+    "iso:country":"US",
+    "sg:address":"14 Sunny View Dr",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 3510",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OlwnQXyedX0CqZjQmXTzK_44.501828_-72.987401@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313000,
+    "wof:geomhash":"34362b65c09aec47fa5b33fec12c2898",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874214563
+        }
+    ],
+    "wof:id":874214563,
+    "wof:lastmodified":1464313000,
+    "wof:name":"Maheux Heating & Refrigeration",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.987401,
+    44.501828,
+    -72.987401,
+    44.501828
+],
+  "geometry": {"coordinates":[-72.98740100000001,44.501828],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874192109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212413,44.47481,-73.212413,44.47481",
+    "geom:latitude":44.47481,
+    "geom:longitude":-73.212413,
+    "iso:country":"US",
+    "sg:address":"225 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3880",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "blown"
+    ],
+    "sg:website":"www.churchandmaple.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NJ91we2fUJErFDDMwFgR5_44.474810_-73.212413@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312760,
+    "wof:geomhash":"b4ef7e0487c432a820a4bcf655ef30be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874192109
+        }
+    ],
+    "wof:id":874192109,
+    "wof:lastmodified":1464312760,
+    "wof:name":"Church & Maple Glass Studio",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blown"
+    ]
+},
+  "bbox": [
+    -73.212413,
+    44.47481,
+    -73.212413,
+    44.47481
+],
+  "geometry": {"coordinates":[-73.212413,44.47481],"type":"Point"}
+}

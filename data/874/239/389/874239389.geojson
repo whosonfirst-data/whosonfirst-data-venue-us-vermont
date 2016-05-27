@@ -1,0 +1,73 @@
+{
+  "id": 874239389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.25,44.169419,-73.25,44.169419",
+    "geom:latitude":44.169419,
+    "geom:longitude":-73.25,
+    "iso:country":"US",
+    "sg:address":"34 Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 8308",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i7EUlvQeGbvqt2L7bYOCy_44.169419_-73.250000@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313329,
+    "wof:geomhash":"260940b8623dcbebcac7e7e4f9921089",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874239389
+        }
+    ],
+    "wof:id":874239389,
+    "wof:lastmodified":1464313329,
+    "wof:name":"Hair Of The Dog",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -73.25,
+    44.169419,
+    -73.25,
+    44.169419
+],
+  "geometry": {"coordinates":[-73.25,44.169419],"type":"Point"}
+}

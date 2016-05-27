@@ -1,0 +1,69 @@
+{
+  "id": 874138159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.082228,44.344178,-73.082228,44.344178",
+    "geom:latitude":44.344178,
+    "geom:longitude":-73.082228,
+    "iso:country":"US",
+    "sg:address":"45 Hillview Ter",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 2904",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844363,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rH7ueNU9pklexylUYbERv_44.344178_-73.082228@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312219,
+    "wof:geomhash":"4d1ea85b78087314018e40727d032283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85844363,
+            "region_id":85688763,
+            "venue_id":874138159
+        }
+    ],
+    "wof:id":874138159,
+    "wof:lastmodified":1464312219,
+    "wof:name":"For The People Appliance Rpr",
+    "wof:parent_id":85844363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -73.082228,
+    44.344178,
+    -73.082228,
+    44.344178
+],
+  "geometry": {"coordinates":[-73.082228,44.344178],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874125899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214794,44.478044,-73.214794,44.478044",
+    "geom:latitude":44.478044,
+    "geom:longitude":-73.214794,
+    "iso:country":"US",
+    "sg:address":"125 Bank St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 8844",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w5DlxqBMV5wF2rcXlEPbJ_44.478044_-73.214794@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312093,
+    "wof:geomhash":"fb1a64466897ba9fa0a7424c5a9f07d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874125899
+        }
+    ],
+    "wof:id":874125899,
+    "wof:lastmodified":1464312093,
+    "wof:name":"Chrysalis Design",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -73.214794,
+    44.478044,
+    -73.214794,
+    44.478044
+],
+  "geometry": {"coordinates":[-73.214794,44.478044],"type":"Point"}
+}

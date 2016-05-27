@@ -1,0 +1,70 @@
+{
+  "id": 874242461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.494492,43.306549,-72.494492,43.306549",
+    "geom:latitude":43.306549,
+    "geom:longitude":-72.494492,
+    "iso:country":"US",
+    "sg:address":"269 River St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 4261",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.sagvt.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44uFrxNYD9btnXDjqJd0Xc_43.306549_-72.494492@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313385,
+    "wof:geomhash":"b587692cee0c9c99490aceb98cbb79ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874242461
+        }
+    ],
+    "wof:id":874242461,
+    "wof:lastmodified":1464313385,
+    "wof:name":"Springfield Assembly Of God",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.494492,
+    43.306549,
+    -72.494492,
+    43.306549
+],
+  "geometry": {"coordinates":[-72.49449199999999,43.306549],"type":"Point"}
+}

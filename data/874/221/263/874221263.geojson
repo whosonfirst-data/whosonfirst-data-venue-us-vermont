@@ -1,0 +1,69 @@
+{
+  "id": 874221263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.596468,43.723228,-72.596468,43.723228",
+    "geom:latitude":43.723228,
+    "geom:longitude":-72.596468,
+    "iso:country":"US",
+    "sg:address":"221 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 2232",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wlMum6W0CiHqiInnKxhxO_43.723228_-72.596468@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313077,
+    "wof:geomhash":"5ff9e100d91e3c4428bff1b7694f641f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874221263
+        }
+    ],
+    "wof:id":874221263,
+    "wof:lastmodified":1464313077,
+    "wof:name":"Bethel-Royalton Land Fill",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -72.596468,
+    43.723228,
+    -72.596468,
+    43.723228
+],
+  "geometry": {"coordinates":[-72.596468,43.723228],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874152979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.67764,44.483106,-72.67764,44.483106",
+    "geom:latitude":44.483106,
+    "geom:longitude":-72.67764,
+    "iso:country":"US",
+    "sg:address":"56 Parker Ln",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 4572",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tU4XiapjGLKiBlP7DHR7D_44.483106_-72.677640@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312355,
+    "wof:geomhash":"5fb57f93600f4ee09a28eb28b6f5f370",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874152979
+        }
+    ],
+    "wof:id":874152979,
+    "wof:lastmodified":1464312355,
+    "wof:name":"Steel Construction",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.67764,
+    44.483106,
+    -72.67764,
+    44.483106
+],
+  "geometry": {"coordinates":[-72.67764,44.483106],"type":"Point"}
+}

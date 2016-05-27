@@ -1,0 +1,75 @@
+{
+  "id": 874028525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.499263,44.191177,-72.499263,44.191177",
+    "geom:latitude":44.191177,
+    "geom:longitude":-72.499263,
+    "iso:country":"US",
+    "sg:address":"103 S Main St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 241 2288",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vx0AV3rbut7YOTQgjVfyU_44.191177_-72.499263@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311029,
+    "wof:geomhash":"fc5c22c4b8a1c1b6155efe6e3e7fd218",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874028525
+        }
+    ],
+    "wof:id":874028525,
+    "wof:lastmodified":1464311029,
+    "wof:name":"Corrections Dept Legal Div",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -72.499263,
+    44.191177,
+    -72.499263,
+    44.191177
+],
+  "geometry": {"coordinates":[-72.499263,44.191177],"type":"Point"}
+}

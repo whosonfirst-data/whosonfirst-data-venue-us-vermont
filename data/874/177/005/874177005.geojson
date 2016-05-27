@@ -1,0 +1,69 @@
+{
+  "id": 874177005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.069194,44.366686,-72.069194,44.366686",
+    "geom:latitude":44.366686,
+    "geom:longitude":-72.069194,
+    "iso:country":"US",
+    "sg:address":"1347 Kitchel Hill",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3667",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bhWj6MFDJkjAXC49lw8nG_44.366686_-72.069194@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312596,
+    "wof:geomhash":"5bed86914b0f051f3c401396328dfa8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874177005
+        }
+    ],
+    "wof:id":874177005,
+    "wof:lastmodified":1464312596,
+    "wof:name":"Sun Do Retreat Ctr",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -72.069194,
+    44.366686,
+    -72.069194,
+    44.366686
+],
+  "geometry": {"coordinates":[-72.069194,44.366686],"type":"Point"}
+}

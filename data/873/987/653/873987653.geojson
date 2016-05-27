@@ -1,0 +1,69 @@
+{
+  "id": 873987653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.193548,42.878119,-73.193548,42.878119",
+    "geom:latitude":42.878119,
+    "geom:longitude":-73.193548,
+    "iso:country":"US",
+    "sg:address":"544 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 0307",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hospice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WMeLh1D13R7njXkmpgqLu_42.878119_-73.193548@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310673,
+    "wof:geomhash":"04e638528300ada264390930d1b4f852",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873987653
+        }
+    ],
+    "wof:id":873987653,
+    "wof:lastmodified":1464310673,
+    "wof:name":"Hospice Of Bennington County",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -73.193548,
+    42.878119,
+    -73.193548,
+    42.878119
+],
+  "geometry": {"coordinates":[-73.19354800000001,42.878119],"type":"Point"}
+}

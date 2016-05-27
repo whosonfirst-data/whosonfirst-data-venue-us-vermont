@@ -1,0 +1,75 @@
+{
+  "id": 874090837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.218736,44.484627,-73.218736,44.484627",
+    "geom:latitude":44.484627,
+    "geom:longitude":-73.218736,
+    "iso:country":"US",
+    "sg:address":"100 North St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 8827",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "canned",
+        "specialty",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UekCp0VAVbC0nsibHVP0i_44.484627_-73.218736@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311671,
+    "wof:geomhash":"4fdbac2446b2564835fddb0f51c98e20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874090837
+        }
+    ],
+    "wof:id":874090837,
+    "wof:lastmodified":1464311671,
+    "wof:name":"Phat Thai",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "canned",
+        "specialty",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.218736,
+    44.484627,
+    -73.218736,
+    44.484627
+],
+  "geometry": {"coordinates":[-73.21873600000001,44.484627],"type":"Point"}
+}

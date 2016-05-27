@@ -1,0 +1,71 @@
+{
+  "id": 874167107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.652559,44.482678,-72.652559,44.482678",
+    "geom:latitude":44.482678,
+    "geom:longitude":-72.652559,
+    "iso:country":"US",
+    "sg:address":"545 Worcester Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 4787",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wq8K47MgsvD4eWunIjDGD_44.482678_-72.652559@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312499,
+    "wof:geomhash":"c24495b0f8145be87bcb17474b2b2aab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874167107
+        }
+    ],
+    "wof:id":874167107,
+    "wof:lastmodified":1464312499,
+    "wof:name":"Ingersoll Electric",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.652559,
+    44.482678,
+    -72.652559,
+    44.482678
+],
+  "geometry": {"coordinates":[-72.652559,44.482678],"type":"Point"}
+}

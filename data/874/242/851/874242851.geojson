@@ -1,0 +1,66 @@
+{
+  "id": 874242851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078679,44.133118,-73.078679,44.133118",
+    "geom:latitude":44.133118,
+    "geom:longitude":-73.078679,
+    "iso:country":"US",
+    "sg:address":"3 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2565",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KVmaVj8Ka2ZMjaZ4kd0Yl_44.133118_-73.078679@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313392,
+    "wof:geomhash":"d96c213b6c08f3a102c50a11b790b8ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874242851
+        }
+    ],
+    "wof:id":874242851,
+    "wof:lastmodified":1464313392,
+    "wof:name":"Sip-N-Suds Laundromat",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.078679,
+    44.133118,
+    -73.078679,
+    44.133118
+],
+  "geometry": {"coordinates":[-73.07867899999999,44.133118],"type":"Point"}
+}

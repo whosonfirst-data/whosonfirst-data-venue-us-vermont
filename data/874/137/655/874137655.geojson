@@ -1,0 +1,73 @@
+{
+  "id": 874137655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.497881,44.172511,-72.497881,44.172511",
+    "geom:latitude":44.172511,
+    "geom:longitude":-72.497881,
+    "iso:country":"US",
+    "sg:address":"126 Stirling Pl",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 0821",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UodmdpaYTeeABkDkQjg24_44.172511_-72.497881@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312214,
+    "wof:geomhash":"fd78630bfc7c0e06ee7b2e3dd57fe54d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874137655
+        }
+    ],
+    "wof:id":874137655,
+    "wof:lastmodified":1464312214,
+    "wof:name":"Soutiere Electrical Svc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.497881,
+    44.172511,
+    -72.497881,
+    44.172511
+],
+  "geometry": {"coordinates":[-72.49788100000001,44.172511],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874186323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.688886,44.676813,-72.688886,44.676813",
+    "geom:latitude":44.676813,
+    "geom:longitude":-72.688886,
+    "iso:country":"US",
+    "sg:address":"268 Codding Hollow Rd",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 7618",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AR545FjI739GWakRpy6bL_44.676813_-72.688886@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312703,
+    "wof:geomhash":"f7184b2a38ea36fb61831da8f9d6a2a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874186323
+        }
+    ],
+    "wof:id":874186323,
+    "wof:lastmodified":1464312703,
+    "wof:name":"Bradely Construction",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.688886,
+    44.676813,
+    -72.688886,
+    44.676813
+],
+  "geometry": {"coordinates":[-72.688886,44.676813],"type":"Point"}
+}

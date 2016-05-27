@@ -1,0 +1,71 @@
+{
+  "id": 874086307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.485572,44.273029,-72.485572,44.273029",
+    "geom:latitude":44.273029,
+    "geom:longitude":-72.485572,
+    "iso:country":"US",
+    "sg:address":"40 Kelton Rd",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 3313",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VkWA2i9RBeigElJIJI128_44.273029_-72.485572@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311623,
+    "wof:geomhash":"df4c55288ce4d40fbe83cc5239a1fd41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874086307
+        }
+    ],
+    "wof:id":874086307,
+    "wof:lastmodified":1464311623,
+    "wof:name":"East Montpelier Town Clerk",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -72.485572,
+    44.273029,
+    -72.485572,
+    44.273029
+],
+  "geometry": {"coordinates":[-72.485572,44.273029],"type":"Point"}
+}

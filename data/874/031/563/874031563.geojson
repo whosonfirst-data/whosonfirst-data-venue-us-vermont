@@ -1,0 +1,73 @@
+{
+  "id": 874031563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.621274,42.86339,-72.621274,42.86339",
+    "geom:latitude":42.86339,
+    "geom:longitude":-72.621274,
+    "iso:country":"US",
+    "sg:address":"140 Sherwood Cir",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Tobacco Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 7646",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39rjQ5NfiWj6WZ08z7I9iY_42.863390_-72.621274@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311062,
+    "wof:geomhash":"f0fa043b3fe59399f5c02d767e40666e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874031563
+        }
+    ],
+    "wof:id":874031563,
+    "wof:lastmodified":1464311062,
+    "wof:name":"Specialty Cigar",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.621274,
+    42.86339,
+    -72.621274,
+    42.86339
+],
+  "geometry": {"coordinates":[-72.621274,42.86339],"type":"Point"}
+}

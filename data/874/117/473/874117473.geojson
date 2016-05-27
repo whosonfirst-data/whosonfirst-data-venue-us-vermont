@@ -1,0 +1,71 @@
+{
+  "id": 874117473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.601933,42.873734,-72.601933,42.873734",
+    "geom:latitude":42.873734,
+    "geom:longitude":-72.601933,
+    "iso:country":"US",
+    "sg:address":"416 Pleasant Valley Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 2320",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jxQY414egR9LNpt1J0Ti2_42.873734_-72.601933@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312010,
+    "wof:geomhash":"92029d7cbb2d5752da80ae2e3819dc31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874117473
+        }
+    ],
+    "wof:id":874117473,
+    "wof:lastmodified":1464312010,
+    "wof:name":"Brattleboro Water Treatment",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -72.601933,
+    42.873734,
+    -72.601933,
+    42.873734
+],
+  "geometry": {"coordinates":[-72.601933,42.873734],"type":"Point"}
+}

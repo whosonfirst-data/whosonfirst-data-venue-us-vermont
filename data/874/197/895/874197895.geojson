@@ -1,0 +1,71 @@
+{
+  "id": 874197895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.197558,44.474586,-73.197558,44.474586",
+    "geom:latitude":44.474586,
+    "geom:longitude":-73.197558,
+    "iso:country":"US",
+    "sg:address":"32 University Ter",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 651 6856",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FqLbAY86o8StU05gq8hk8_44.474586_-73.197558@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312825,
+    "wof:geomhash":"46c0fb49ff5f85728bc5b4b2a0f0d247",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874197895
+        }
+    ],
+    "wof:id":874197895,
+    "wof:lastmodified":1464312825,
+    "wof:name":"Nick Lavecchia Photography",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -73.197558,
+    44.474586,
+    -73.197558,
+    44.474586
+],
+  "geometry": {"coordinates":[-73.197558,44.474586],"type":"Point"}
+}

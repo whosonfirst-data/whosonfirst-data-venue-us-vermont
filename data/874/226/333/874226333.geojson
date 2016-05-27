@@ -1,0 +1,72 @@
+{
+  "id": 874226333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.753452,44.501651,-72.753452,44.501651",
+    "geom:latitude":44.501651,
+    "geom:longitude":-72.753452,
+    "iso:country":"US",
+    "sg:address":"4856 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 4810",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "instrument",
+        "surgical"
+    ],
+    "sg:website":"www.pierceinstruments.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849535,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29Jleki8OsKBj81IRfxuV8_44.501651_-72.753452@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313124,
+    "wof:geomhash":"f8b7f36fe2c8ec0cb3841dddbdd47293",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85849535,
+            "region_id":85688763,
+            "venue_id":874226333
+        }
+    ],
+    "wof:id":874226333,
+    "wof:lastmodified":1464313124,
+    "wof:name":"Pierce Instruments",
+    "wof:parent_id":85849535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -72.753452,
+    44.501651,
+    -72.753452,
+    44.501651
+],
+  "geometry": {"coordinates":[-72.753452,44.501651],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874247845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.12277,44.448123,-73.12277,44.448123",
+    "geom:latitude":44.448123,
+    "geom:longitude":-73.12277,
+    "iso:country":"US",
+    "sg:address":"23 Commerce St",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 4537",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "asbestos",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29JcZ7QH8RXn2ounGyT3gO_44.448123_-73.122770@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313491,
+    "wof:geomhash":"9f75eb678ebb253d24f71591c82c9564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874247845
+        }
+    ],
+    "wof:id":874247845,
+    "wof:lastmodified":1464313491,
+    "wof:name":"Environmental Hazards Mgmt Inc",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asbestos",
+        "removal"
+    ]
+},
+  "bbox": [
+    -73.12277,
+    44.448123,
+    -73.12277,
+    44.448123
+],
+  "geometry": {"coordinates":[-73.12277,44.448123],"type":"Point"}
+}

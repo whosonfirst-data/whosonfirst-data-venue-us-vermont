@@ -1,0 +1,73 @@
+{
+  "id": 874065891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21097,44.432966,-73.21097,44.432966",
+    "geom:latitude":44.432966,
+    "geom:longitude":-73.21097,
+    "iso:country":"US",
+    "sg:address":"1830 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 2965",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x8Opz5qCMf35sStWTHGXX_44.432966_-73.210970@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311387,
+    "wof:geomhash":"b533444bb076721e5a97e95a5a5bc800",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874065891
+        }
+    ],
+    "wof:id":874065891,
+    "wof:lastmodified":1464311387,
+    "wof:name":"Mobile Shortstop",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -73.21097,
+    44.432966,
+    -73.21097,
+    44.432966
+],
+  "geometry": {"coordinates":[-73.21097,44.432966],"type":"Point"}
+}

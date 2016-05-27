@@ -1,0 +1,71 @@
+{
+  "id": 874099373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.812714,44.610529,-72.812714,44.610529",
+    "geom:latitude":44.610529,
+    "geom:longitude":-72.812714,
+    "iso:country":"US",
+    "sg:address":"62 Burnor Rd",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5044",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_642XjwoYR9RIQ4b76Q7KiT_44.610529_-72.812714@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311777,
+    "wof:geomhash":"ae61ad5da6be97088d0cf2cce5d6b779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874099373
+        }
+    ],
+    "wof:id":874099373,
+    "wof:lastmodified":1464311777,
+    "wof:name":"Albright Forest Lawn",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -72.812714,
+    44.610529,
+    -72.812714,
+    44.610529
+],
+  "geometry": {"coordinates":[-72.812714,44.610529],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 874252005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.557337,42.883476,-72.557337,42.883476",
+    "geom:latitude":42.883476,
+    "geom:longitude":-72.557337,
+    "iso:country":"US",
+    "sg:address":"30 Bradford Dr",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 9253",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "welder",
+        "machinery-rebuild"
+    ],
+    "sg:website":"http://www.bradfordmachine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lCzzQDaW81tetgElcBbaw_42.883476_-72.557337@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313605,
+    "wof:geomhash":"412d3c2a959ca131e54c15d7357d6ea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874252005
+        }
+    ],
+    "wof:id":874252005,
+    "wof:lastmodified":1464313605,
+    "wof:name":"Bradford Machine",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "welder",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -72.557337,
+    42.883476,
+    -72.557337,
+    42.883476
+],
+  "geometry": {"coordinates":[-72.557337,42.883476],"type":"Point"}
+}

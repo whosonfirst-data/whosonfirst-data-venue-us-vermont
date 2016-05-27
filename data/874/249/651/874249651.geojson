@@ -1,0 +1,71 @@
+{
+  "id": 874249651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215775,44.480341,-73.215775,44.480341",
+    "geom:latitude":44.480341,
+    "geom:longitude":-73.215775,
+    "iso:country":"US",
+    "sg:address":"77 Pearl St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 2288",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_450vgg6QES95mV1STWqMa6_44.480293_-73.215099@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313556,
+    "wof:geomhash":"67e8ae4c44dbca9b70df26b80f839ad5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874249651
+        }
+    ],
+    "wof:id":874249651,
+    "wof:lastmodified":1464313556,
+    "wof:name":"Radio Deli And Grocery",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -73.215775,
+    44.480341,
+    -73.215775,
+    44.480341
+],
+  "geometry": {"coordinates":[-73.21577499999999,44.480341],"type":"Point"}
+}

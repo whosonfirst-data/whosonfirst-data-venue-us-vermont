@@ -1,0 +1,73 @@
+{
+  "id": 874200491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205119,44.534685,-73.205119,44.534685",
+    "geom:latitude":44.534685,
+    "geom:longitude":-73.205119,
+    "iso:country":"US",
+    "sg:address":"11 Thomas Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 4416",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H6zrpSf8s7Sit82q5wnj6_44.534685_-73.205119@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312848,
+    "wof:geomhash":"79cd3d01e548fd54dd03485ff2df2184",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874200491
+        }
+    ],
+    "wof:id":874200491,
+    "wof:lastmodified":1464312848,
+    "wof:name":"Don Gratton Carpet Cleaning",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -73.205119,
+    44.534685,
+    -73.205119,
+    44.534685
+],
+  "geometry": {"coordinates":[-73.205119,44.534685],"type":"Point"}
+}

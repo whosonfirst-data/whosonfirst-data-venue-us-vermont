@@ -1,0 +1,71 @@
+{
+  "id": 874244391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.960569,43.597016,-72.960569,43.597016",
+    "geom:latitude":43.597016,
+    "geom:longitude":-72.960569,
+    "iso:country":"US",
+    "sg:address":"3 Mahoney Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 9131",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dWQbidUjQ5SrHXze2i5Is_43.597016_-72.960569@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313424,
+    "wof:geomhash":"975bb7f5151c3f7806cb02abb7208da7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874244391
+        }
+    ],
+    "wof:id":874244391,
+    "wof:lastmodified":1464313424,
+    "wof:name":"Pediatric Associates",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.960569,
+    43.597016,
+    -72.960569,
+    43.597016
+],
+  "geometry": {"coordinates":[-72.96056900000001,43.597016],"type":"Point"}
+}

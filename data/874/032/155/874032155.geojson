@@ -1,0 +1,69 @@
+{
+  "id": 874032155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.003439,44.53227,-72.003439,44.53227",
+    "geom:latitude":44.53227,
+    "geom:longitude":-72.003439,
+    "iso:country":"US",
+    "sg:address":"125 South St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 8789",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WFbvoihsz0XqMDeON3UTy_44.532270_-72.003439@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311067,
+    "wof:geomhash":"a5beb25d17e6f1ed3d0cc4ba2879c98f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874032155
+        }
+    ],
+    "wof:id":874032155,
+    "wof:lastmodified":1464311067,
+    "wof:name":"Its A Blast",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -72.003439,
+    44.53227,
+    -72.003439,
+    44.53227
+],
+  "geometry": {"coordinates":[-72.003439,44.53227],"type":"Point"}
+}

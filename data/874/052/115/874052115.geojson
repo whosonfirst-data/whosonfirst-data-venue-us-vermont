@@ -1,0 +1,71 @@
+{
+  "id": 874052115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215271,44.472707,-73.215271,44.472707",
+    "geom:latitude":44.472707,
+    "geom:longitude":-73.215271,
+    "iso:country":"US",
+    "sg:address":"266 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 2302",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "screen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ToL3dAfCUGAKgsgLdypMu_44.472707_-73.215271@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311260,
+    "wof:geomhash":"4edb45a9ca52fac2debed237dc63a4ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874052115
+        }
+    ],
+    "wof:id":874052115,
+    "wof:lastmodified":1464311260,
+    "wof:name":"Only Once Graphics",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "screen"
+    ]
+},
+  "bbox": [
+    -73.215271,
+    44.472707,
+    -73.215271,
+    44.472707
+],
+  "geometry": {"coordinates":[-73.215271,44.472707],"type":"Point"}
+}

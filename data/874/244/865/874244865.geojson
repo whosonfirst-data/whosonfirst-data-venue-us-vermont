@@ -1,0 +1,71 @@
+{
+  "id": 874244865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.689771,44.476041,-72.689771,44.476041",
+    "geom:latitude":44.476041,
+    "geom:longitude":-72.689771,
+    "iso:country":"US",
+    "sg:address":"101 Weeks Hill Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 9598",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YLqfseVKejwk8RGnTT6e2_44.476041_-72.689771@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313432,
+    "wof:geomhash":"1cd0754ed4ebd3227845d31e7ac128ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874244865
+        }
+    ],
+    "wof:id":874244865,
+    "wof:lastmodified":1464313432,
+    "wof:name":"Mountain Road Storage",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -72.689771,
+    44.476041,
+    -72.689771,
+    44.476041
+],
+  "geometry": {"coordinates":[-72.68977099999999,44.476041],"type":"Point"}
+}

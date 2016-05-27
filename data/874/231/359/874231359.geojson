@@ -1,0 +1,71 @@
+{
+  "id": 874231359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.125139,44.52441,-73.125139,44.52441",
+    "geom:latitude":44.52441,
+    "geom:longitude":-73.125139,
+    "iso:country":"US",
+    "sg:address":"264 Colchester Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 288 9096",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QYW0qdoIHfcZK5Lmb0MVM_44.524410_-73.125139@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313179,
+    "wof:geomhash":"e4375875551a919a3f7dca62ecd505ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874231359
+        }
+    ],
+    "wof:id":874231359,
+    "wof:lastmodified":1464313179,
+    "wof:name":"Paya's North Auto Sales",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -73.125139,
+    44.52441,
+    -73.125139,
+    44.52441
+],
+  "geometry": {"coordinates":[-73.125139,44.52441],"type":"Point"}
+}

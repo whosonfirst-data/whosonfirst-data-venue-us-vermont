@@ -1,0 +1,71 @@
+{
+  "id": 873987763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.155879,44.546376,-73.155879,44.546376",
+    "geom:latitude":44.546376,
+    "geom:longitude":-73.155879,
+    "iso:country":"US",
+    "sg:address":"568 Main St",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 0244",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wTxnHxpHRRsEu3ehAMtTg_44.546376_-73.155879@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310674,
+    "wof:geomhash":"9a6efb0b1acae5344d84ce5c775d56f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":873987763
+        }
+    ],
+    "wof:id":873987763,
+    "wof:lastmodified":1464310674,
+    "wof:name":"Pratt & Smith Inc",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.155879,
+    44.546376,
+    -73.155879,
+    44.546376
+],
+  "geometry": {"coordinates":[-73.155879,44.546376],"type":"Point"}
+}

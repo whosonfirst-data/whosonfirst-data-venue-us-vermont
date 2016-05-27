@@ -1,0 +1,71 @@
+{
+  "id": 874041667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.537016,44.117702,-72.537016,44.117702",
+    "geom:latitude":44.117702,
+    "geom:longitude":-72.537016,
+    "iso:country":"US",
+    "sg:address":"261 Bus Center Rd",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 6283",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wFywLVTcNoGqoZH3Hd8h2_44.117702_-72.537016@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311163,
+    "wof:geomhash":"7cdc12c45dc1c209ef2fec55e654780b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874041667
+        }
+    ],
+    "wof:id":874041667,
+    "wof:lastmodified":1464311163,
+    "wof:name":"Hebert Excavation Corp",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.537016,
+    44.117702,
+    -72.537016,
+    44.117702
+],
+  "geometry": {"coordinates":[-72.53701599999999,44.117702],"type":"Point"}
+}

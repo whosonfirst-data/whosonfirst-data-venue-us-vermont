@@ -1,0 +1,71 @@
+{
+  "id": 874157659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.201445,42.891641,-73.201445,42.891641",
+    "geom:latitude":42.891641,
+    "geom:longitude":-73.201445,
+    "iso:country":"US",
+    "sg:address":"219 Benmont Ave",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 5563",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "paint",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xo24UKfjocamGqPD3yOk4_42.891641_-73.201445@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312405,
+    "wof:geomhash":"762dbcabbccb6b30e2117c7b513184f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874157659
+        }
+    ],
+    "wof:id":874157659,
+    "wof:lastmodified":1464312405,
+    "wof:name":"Different Strokes Paints Dctg",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "store"
+    ]
+},
+  "bbox": [
+    -73.201445,
+    42.891641,
+    -73.201445,
+    42.891641
+],
+  "geometry": {"coordinates":[-73.20144500000001,42.891641],"type":"Point"}
+}

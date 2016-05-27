@@ -1,0 +1,74 @@
+{
+  "id": 874225301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.980611,43.608406,-72.980611,43.608406",
+    "geom:latitude":43.608406,
+    "geom:longitude":-72.980611,
+    "iso:country":"US",
+    "sg:address":"58 Merchants Row",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 9050",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "loan",
+        "mortgage",
+        "real estate"
+    ],
+    "sg:website":"www.homeandloancenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qrbZoHSlauFFo808eOHt2_43.608406_-72.980611@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313114,
+    "wof:geomhash":"37d2fc3e0eaa05e256fcfa65b06dcbde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874225301
+        }
+    ],
+    "wof:id":874225301,
+    "wof:lastmodified":1464313114,
+    "wof:name":"Home & Loan Center",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "mortgage",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -72.980611,
+    43.608406,
+    -72.980611,
+    43.608406
+],
+  "geometry": {"coordinates":[-72.980611,43.608406],"type":"Point"}
+}

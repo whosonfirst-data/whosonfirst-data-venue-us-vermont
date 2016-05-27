@@ -1,0 +1,71 @@
+{
+  "id": 874101135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.804424,44.913023,-72.804424,44.913023",
+    "geom:latitude":44.913023,
+    "geom:longitude":-72.804424,
+    "iso:country":"US",
+    "sg:address":"47 W Berkshire Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 6504",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TonkUS4GkBsJWvg4KO1w5_44.913023_-72.804424@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311807,
+    "wof:geomhash":"69b74fa940300c9b05386af791690202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874101135
+        }
+    ],
+    "wof:id":874101135,
+    "wof:lastmodified":1464311807,
+    "wof:name":"Tim Columb's Auto Repair",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.804424,
+    44.913023,
+    -72.804424,
+    44.913023
+],
+  "geometry": {"coordinates":[-72.804424,44.913023],"type":"Point"}
+}

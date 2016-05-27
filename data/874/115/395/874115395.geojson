@@ -1,0 +1,78 @@
+{
+  "id": 874115395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.752524,44.88346,-72.752524,44.88346",
+    "geom:latitude":44.88346,
+    "geom:longitude":-72.752524,
+    "iso:country":"US",
+    "sg:address":"96 Nichols Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 5202",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c1wuS1lyHQIZVh5E2pHb5_44.883460_-72.752524@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311990,
+    "wof:geomhash":"f3cce7f2fc0e5f0598b179f16b60c9ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874115395
+        }
+    ],
+    "wof:id":874115395,
+    "wof:lastmodified":1464311990,
+    "wof:name":"Alpine Carpet & Upholstery Cln",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -72.752524,
+    44.88346,
+    -72.752524,
+    44.88346
+],
+  "geometry": {"coordinates":[-72.75252399999999,44.88346],"type":"Point"}
+}

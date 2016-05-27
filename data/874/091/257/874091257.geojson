@@ -1,0 +1,71 @@
+{
+  "id": 874091257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.024161,43.596708,-73.024161,43.596708",
+    "geom:latitude":43.596708,
+    "geom:longitude":-73.024161,
+    "iso:country":"US",
+    "sg:address":"68 Rutland Rd",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 2975",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "stucco",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34e2X73Y2j60OLEEdAaMaS_43.596708_-73.024161@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311678,
+    "wof:geomhash":"584cd3c0108bffa89d6ef45f9377803e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874091257
+        }
+    ],
+    "wof:id":874091257,
+    "wof:lastmodified":1464311678,
+    "wof:name":"Vermont Exteriors",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stucco",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.024161,
+    43.596708,
+    -73.024161,
+    43.596708
+],
+  "geometry": {"coordinates":[-73.02416100000001,43.596708],"type":"Point"}
+}

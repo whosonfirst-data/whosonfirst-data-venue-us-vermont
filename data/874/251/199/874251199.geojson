@@ -1,0 +1,75 @@
+{
+  "id": 874251199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200363,42.891016,-73.200363,42.891016",
+    "geom:latitude":42.891016,
+    "geom:longitude":-73.200363,
+    "iso:country":"US",
+    "sg:address":"198 North St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 6252",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XDHYyn2bHbM1TjGlajPHW_42.891016_-73.200363@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313589,
+    "wof:geomhash":"d6d33eaea80b00b40e17d86387996f68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251199
+        }
+    ],
+    "wof:id":874251199,
+    "wof:lastmodified":1464313589,
+    "wof:name":"Knapp's Pets, Hobbies & Music",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ]
+},
+  "bbox": [
+    -73.200363,
+    42.891016,
+    -73.200363,
+    42.891016
+],
+  "geometry": {"coordinates":[-73.200363,42.891016],"type":"Point"}
+}

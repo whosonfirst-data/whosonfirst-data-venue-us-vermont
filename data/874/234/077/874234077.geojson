@@ -1,0 +1,73 @@
+{
+  "id": 874234077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501459,44.196519,-72.501459,44.196519",
+    "geom:latitude":44.196519,
+    "geom:longitude":-72.501459,
+    "iso:country":"US",
+    "sg:address":"3 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9334",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XFhWvOYZz3yC6ce4DXBUL_44.196519_-72.501459@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313222,
+    "wof:geomhash":"a4b6aeda088ff3bc5491feb1519df1f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874234077
+        }
+    ],
+    "wof:id":874234077,
+    "wof:lastmodified":1464313222,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -72.501459,
+    44.196519,
+    -72.501459,
+    44.196519
+],
+  "geometry": {"coordinates":[-72.501459,44.196519],"type":"Point"}
+}

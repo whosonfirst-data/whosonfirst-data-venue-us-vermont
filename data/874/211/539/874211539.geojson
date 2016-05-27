@@ -1,0 +1,71 @@
+{
+  "id": 874211539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.449587,44.273913,-72.449587,44.273913",
+    "geom:latitude":44.273913,
+    "geom:longitude":-72.449587,
+    "iso:country":"US",
+    "sg:address":"4723 US Hwy 2",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 454 1000",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NZh6UdjSuBczzxbU62UCr_44.273913_-72.449587@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312969,
+    "wof:geomhash":"4e2979b79e77dc2b93f19ec618ae5688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874211539
+        }
+    ],
+    "wof:id":874211539,
+    "wof:lastmodified":1464312969,
+    "wof:name":"Legare Farm Market",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -72.449587,
+    44.273913,
+    -72.449587,
+    44.273913
+],
+  "geometry": {"coordinates":[-72.44958699999999,44.273913],"type":"Point"}
+}

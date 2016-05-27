@@ -1,0 +1,73 @@
+{
+  "id": 874237803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.980633,43.608608,-72.980633,43.608608",
+    "geom:latitude":43.608608,
+    "geom:longitude":-72.980633,
+    "iso:country":"US",
+    "sg:address":"30 Merchants Row",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 5333",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cwF6mz6Zf1zNaVng1BoSV_43.608608_-72.980633@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313298,
+    "wof:geomhash":"06815dbc4fe093a145b94b25397c6929",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874237803
+        }
+    ],
+    "wof:id":874237803,
+    "wof:lastmodified":1464313298,
+    "wof:name":"Gymnasium",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -72.980633,
+    43.608608,
+    -72.980633,
+    43.608608
+],
+  "geometry": {"coordinates":[-72.980633,43.608608],"type":"Point"}
+}

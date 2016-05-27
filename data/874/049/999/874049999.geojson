@@ -1,0 +1,69 @@
+{
+  "id": 874049999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.011326,44.413467,-72.011326,44.413467",
+    "geom:latitude":44.413467,
+    "geom:longitude":-72.011326,
+    "iso:country":"US",
+    "sg:address":"21 Sunset Dr",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 9168",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "refrigerating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LmmqtlZdBzpT9mRLH7R2K_44.413467_-72.011326@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311240,
+    "wof:geomhash":"1206646b8fd3b8ba89f546265ca7f46b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874049999
+        }
+    ],
+    "wof:id":874049999,
+    "wof:lastmodified":1464311240,
+    "wof:name":"Eastern VT Refrigeration Svc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigerating"
+    ]
+},
+  "bbox": [
+    -72.011326,
+    44.413467,
+    -72.011326,
+    44.413467
+],
+  "geometry": {"coordinates":[-72.011326,44.413467],"type":"Point"}
+}

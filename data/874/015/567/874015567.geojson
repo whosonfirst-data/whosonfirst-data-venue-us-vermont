@@ -1,0 +1,71 @@
+{
+  "id": 874015567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.509391,44.20418,-72.509391,44.20418",
+    "geom:latitude":44.20418,
+    "geom:longitude":-72.509391,
+    "iso:country":"US",
+    "sg:address":"417 US Hwy 302",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3243",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E5o5leIg6466wbGQa00H6_44.204180_-72.509391@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310895,
+    "wof:geomhash":"d131883dd284ca543429491d92526278",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874015567
+        }
+    ],
+    "wof:id":874015567,
+    "wof:lastmodified":1464310895,
+    "wof:name":"Jim L Culver DDS",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.509391,
+    44.20418,
+    -72.509391,
+    44.20418
+],
+  "geometry": {"coordinates":[-72.50939099999999,44.20418],"type":"Point"}
+}

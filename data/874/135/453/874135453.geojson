@@ -1,0 +1,73 @@
+{
+  "id": 874135453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.772165,44.692999,-72.772165,44.692999",
+    "geom:latitude":44.692999,
+    "geom:longitude":-72.772165,
+    "iso:country":"US",
+    "sg:address":"210 High Meadows Rd",
+    "sg:city":"Waterville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5637",
+    "sg:postcode":"05492",
+    "sg:province":"VT",
+    "sg:tags":[
+        "farm",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61GeJnfMKa55Rv758xHp2q_44.692999_-72.772165@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312195,
+    "wof:geomhash":"aec53809839ecbca46b18023d5195b9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874135453
+        }
+    ],
+    "wof:id":874135453,
+    "wof:lastmodified":1464312195,
+    "wof:name":"David Mann Farm Equipment",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -72.772165,
+    44.692999,
+    -72.772165,
+    44.692999
+],
+  "geometry": {"coordinates":[-72.772165,44.692999],"type":"Point"}
+}

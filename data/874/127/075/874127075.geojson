@@ -1,0 +1,71 @@
+{
+  "id": 874127075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.819138,44.895953,-72.819138,44.895953",
+    "geom:latitude":44.895953,
+    "geom:longitude":-72.819138,
+    "iso:country":"US",
+    "sg:address":"902 Duffy Hill Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 6383",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30ywv3yzgCIgPUJIxPnp3u_44.895953_-72.819138@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312103,
+    "wof:geomhash":"49d401e785a6b6253cfaae9c63494907",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874127075
+        }
+    ],
+    "wof:id":874127075,
+    "wof:lastmodified":1464312103,
+    "wof:name":"Rondeau's Concrete",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.819138,
+    44.895953,
+    -72.819138,
+    44.895953
+],
+  "geometry": {"coordinates":[-72.819138,44.895953],"type":"Point"}
+}

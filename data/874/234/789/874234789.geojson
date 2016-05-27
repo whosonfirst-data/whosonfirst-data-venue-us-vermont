@@ -1,0 +1,73 @@
+{
+  "id": 874234789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.496989,44.192442,-72.496989,44.192442",
+    "geom:latitude":44.192442,
+    "geom:longitude":-72.496989,
+    "iso:country":"US",
+    "sg:address":"18 Hilltop Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4066",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "theatrical",
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S2GJDNl65nXS3DH8hIF6r_44.192442_-72.496989@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313235,
+    "wof:geomhash":"42d9a2769093ab9e3b495c057a6a980d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874234789
+        }
+    ],
+    "wof:id":874234789,
+    "wof:lastmodified":1464313235,
+    "wof:name":"Show Works Entertainment Svcs",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "theatrical",
+        "installation"
+    ]
+},
+  "bbox": [
+    -72.496989,
+    44.192442,
+    -72.496989,
+    44.192442
+],
+  "geometry": {"coordinates":[-72.496989,44.192442],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874178439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.642849,43.810778,-72.642849,43.810778",
+    "geom:latitude":43.810778,
+    "geom:longitude":-72.642849,
+    "iso:country":"US",
+    "sg:address":"1533 State Rte 107",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 234 5999",
+    "sg:postcode":"05032",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.countryanimalhospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BrbGFQtGwaqG4IaDgBfLD_43.810778_-72.642849@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312612,
+    "wof:geomhash":"e1e101a7cb9a3b1c988a41ce5f06df64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874178439
+        }
+    ],
+    "wof:id":874178439,
+    "wof:lastmodified":1464312612,
+    "wof:name":"Country Animal Hospital",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.642849,
+    43.810778,
+    -72.642849,
+    43.810778
+],
+  "geometry": {"coordinates":[-72.642849,43.810778],"type":"Point"}
+}

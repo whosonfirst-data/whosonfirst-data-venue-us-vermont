@@ -1,0 +1,71 @@
+{
+  "id": 874163291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.085787,43.796836,-73.085787,43.796836",
+    "geom:latitude":43.796836,
+    "geom:longitude":-73.085787,
+    "iso:country":"US",
+    "sg:address":"13 Carver St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3883",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "m"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yiKSKfc2JB1jVaJ8kqLZI_43.796836_-73.085787@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312463,
+    "wof:geomhash":"4273c5fe1865ee0b5665011748ef4458",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874163291
+        }
+    ],
+    "wof:id":874163291,
+    "wof:lastmodified":1464312463,
+    "wof:name":"Vermont Shade & Blind",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "m"
+    ]
+},
+  "bbox": [
+    -73.085787,
+    43.796836,
+    -73.085787,
+    43.796836
+],
+  "geometry": {"coordinates":[-73.085787,43.796836],"type":"Point"}
+}

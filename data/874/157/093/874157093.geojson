@@ -1,0 +1,71 @@
+{
+  "id": 874157093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.198905,44.54585,-73.198905,44.54585",
+    "geom:latitude":44.54585,
+    "geom:longitude":-73.198905,
+    "iso:country":"US",
+    "sg:address":"478 Williams Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 0031",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3seSSd981PAR84dLMMCSVl_44.545850_-73.198905@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312400,
+    "wof:geomhash":"19d8e6ee3f7b42bb6c1bf43561f0d5c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874157093
+        }
+    ],
+    "wof:id":874157093,
+    "wof:lastmodified":1464312400,
+    "wof:name":"Chicks Concrete",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.198905,
+    44.54585,
+    -73.198905,
+    44.54585
+],
+  "geometry": {"coordinates":[-73.198905,44.54585],"type":"Point"}
+}

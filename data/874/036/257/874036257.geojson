@@ -1,0 +1,71 @@
+{
+  "id": 874036257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.02735,43.595421,-73.02735,43.595421",
+    "geom:latitude":43.595421,
+    "geom:longitude":-73.02735,
+    "iso:country":"US",
+    "sg:address":"308 Rutland Rd",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 5506",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CBdP6zC4BryKBIiUZLUzB_43.595421_-73.027350@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311108,
+    "wof:geomhash":"bf7dd0654266e575897d42fcce82ffcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874036257
+        }
+    ],
+    "wof:id":874036257,
+    "wof:lastmodified":1464311108,
+    "wof:name":"Concrete Finishers Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.02735,
+    43.595421,
+    -73.02735,
+    43.595421
+],
+  "geometry": {"coordinates":[-73.02735,43.595421],"type":"Point"}
+}

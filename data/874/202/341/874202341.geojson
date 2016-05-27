@@ -1,0 +1,71 @@
+{
+  "id": 874202341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205712,44.445656,-73.205712,44.445656",
+    "geom:latitude":44.445656,
+    "geom:longitude":-73.205712,
+    "iso:country":"US",
+    "sg:address":"69 Swift St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 5672",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CY6aw7PPDkuASt5Nu0a6R_44.445656_-73.205712@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312867,
+    "wof:geomhash":"395f6ce5af85fbb576b9389ba9b5383d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874202341
+        }
+    ],
+    "wof:id":874202341,
+    "wof:lastmodified":1464312867,
+    "wof:name":"C U Services Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -73.205712,
+    44.445656,
+    -73.205712,
+    44.445656
+],
+  "geometry": {"coordinates":[-73.20571200000001,44.445656],"type":"Point"}
+}

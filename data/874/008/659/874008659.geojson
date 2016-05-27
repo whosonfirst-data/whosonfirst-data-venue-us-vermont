@@ -1,0 +1,77 @@
+{
+  "id": 874008659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.230494,44.450459,-73.230494,44.450459",
+    "geom:latitude":44.450459,
+    "geom:longitude":-73.230494,
+    "iso:country":"US",
+    "sg:address":"341 S Cove Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 9586",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "throat",
+        "physician",
+        "ear",
+        "nose"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53RhnhyzffibFCH6NB0TrI_44.450459_-73.230494@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310846,
+    "wof:geomhash":"33762c0f158526adae9f1cea9572a678",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874008659
+        }
+    ],
+    "wof:id":874008659,
+    "wof:lastmodified":1464310846,
+    "wof:name":"Ear Clinic",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "throat",
+        "physician",
+        "ear",
+        "nose"
+    ]
+},
+  "bbox": [
+    -73.230494,
+    44.450459,
+    -73.230494,
+    44.450459
+],
+  "geometry": {"coordinates":[-73.23049399999999,44.450459],"type":"Point"}
+}

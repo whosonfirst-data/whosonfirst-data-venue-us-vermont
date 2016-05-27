@@ -1,0 +1,69 @@
+{
+  "id": 874063633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.965715,43.615333,-72.965715,43.615333",
+    "geom:latitude":43.615333,
+    "geom:longitude":-72.965715,
+    "iso:country":"US",
+    "sg:address":"79 Temple St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 6436",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GfZUbwA0vN31zX7RINRQU_43.615333_-72.965715@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311368,
+    "wof:geomhash":"0d890cffed8d2d2a0371a8dd311daa84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874063633
+        }
+    ],
+    "wof:id":874063633,
+    "wof:lastmodified":1464311368,
+    "wof:name":"Boudreaus Bldng & Rmlng",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.965715,
+    43.615333,
+    -72.965715,
+    43.615333
+],
+  "geometry": {"coordinates":[-72.965715,43.615333],"type":"Point"}
+}

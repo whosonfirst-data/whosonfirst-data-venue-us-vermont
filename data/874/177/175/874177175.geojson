@@ -1,0 +1,73 @@
+{
+  "id": 874177175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205564,44.479088,-73.205564,44.479088",
+    "geom:latitude":44.479088,
+    "geom:longitude":-73.205564,
+    "iso:country":"US",
+    "sg:address":"68 S Willard St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 4664",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NSy60jTKAf5vx5o3BN9z1_44.479088_-73.205564@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312598,
+    "wof:geomhash":"6ffa9f69c60fc7f05fe654fc92d9b623",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874177175
+        }
+    ],
+    "wof:id":874177175,
+    "wof:lastmodified":1464312598,
+    "wof:name":"Flagstar Bank Home Loan Ctr",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -73.205564,
+    44.479088,
+    -73.205564,
+    44.479088
+],
+  "geometry": {"coordinates":[-73.205564,44.479088],"type":"Point"}
+}

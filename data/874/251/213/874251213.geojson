@@ -1,0 +1,84 @@
+{
+  "id": 874251213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210479,42.922093,-73.210479,42.922093",
+    "geom:latitude":42.922093,
+    "geom:longitude":-73.210479,
+    "iso:country":"US",
+    "sg:address":"1506 Harwood Hill Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 7224",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "god",
+        "god-independent",
+        "churches-assemblies"
+    ],
+    "sg:website":"http://www.ag.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FqZKmZtYAsMuPRJHJovpm_42.922093_-73.210479@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313589,
+    "wof:geomhash":"9d4b362677ed23d597c514b255e9f540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251213
+        }
+    ],
+    "wof:id":874251213,
+    "wof:lastmodified":1464313589,
+    "wof:name":"Green Mountain Christian Ctr",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "god",
+        "god-independent",
+        "churches-assemblies"
+    ]
+},
+  "bbox": [
+    -73.210479,
+    42.922093,
+    -73.210479,
+    42.922093
+],
+  "geometry": {"coordinates":[-73.21047900000001,42.922093],"type":"Point"}
+}

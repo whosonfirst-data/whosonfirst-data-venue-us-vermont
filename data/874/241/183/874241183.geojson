@@ -1,0 +1,71 @@
+{
+  "id": 874241183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.67131,44.452964,-72.67131,44.452964",
+    "geom:latitude":44.452964,
+    "geom:longitude":-72.67131,
+    "iso:country":"US",
+    "sg:address":"370 Hollow View Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 9437",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trade",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76pAjFXHgWdv5gRZaAzaHK_44.452964_-72.671310@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313362,
+    "wof:geomhash":"82c402a68b8f1f2aa21cc243aaf19790",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874241183
+        }
+    ],
+    "wof:id":874241183,
+    "wof:lastmodified":1464313362,
+    "wof:name":"Peter Monsen",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.67131,
+    44.452964,
+    -72.67131,
+    44.452964
+],
+  "geometry": {"coordinates":[-72.67131000000001,44.452964],"type":"Point"}
+}

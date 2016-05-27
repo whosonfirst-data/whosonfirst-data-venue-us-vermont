@@ -1,0 +1,72 @@
+{
+  "id": 874082441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.17197,44.501977,-73.17197,44.501977",
+    "geom:latitude":44.501977,
+    "geom:longitude":-73.17197,
+    "iso:country":"US",
+    "sg:address":"808 Hercules Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 2644",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "sg:website":"www.rcc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wi5pNV6kfxO5PgZUqVtbd_44.501977_-73.171970@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311582,
+    "wof:geomhash":"68f255ba68a01b3dec8162d20a0fe830",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874082441
+        }
+    ],
+    "wof:id":874082441,
+    "wof:lastmodified":1464311582,
+    "wof:name":"RCC Atlantic Cellular",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -73.17197,
+    44.501977,
+    -73.17197,
+    44.501977
+],
+  "geometry": {"coordinates":[-73.17197,44.501977],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874250123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196834,42.878286,-73.196834,42.878286",
+    "geom:latitude":42.878286,
+    "geom:longitude":-73.196834,
+    "iso:country":"US",
+    "sg:address":"418 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 7826",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "salon",
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QfTHXyfvHTsyphQiUMTf1_42.878370_-73.196731@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313568,
+    "wof:geomhash":"41de99f379fcb9759f88372730fb6583",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874250123
+        }
+    ],
+    "wof:id":874250123,
+    "wof:lastmodified":1464313568,
+    "wof:name":"Tropical Rayz",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon",
+        "livestock"
+    ]
+},
+  "bbox": [
+    -73.196834,
+    42.878286,
+    -73.196834,
+    42.878286
+],
+  "geometry": {"coordinates":[-73.196834,42.878286],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874234529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.092812,43.248798,-73.092812,43.248798",
+    "geom:latitude":43.248798,
+    "geom:longitude":-73.092812,
+    "iso:country":"US",
+    "sg:address":"2844 State Rte 30",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 867 4406",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "assistance",
+        "victim"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hov6W87mIjgTlmQ5wBMCS_43.248798_-73.092812@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313230,
+    "wof:geomhash":"2906e841149a0d52837901699520f5a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874234529
+        }
+    ],
+    "wof:id":874234529,
+    "wof:lastmodified":1464313230,
+    "wof:name":"Clear Path International",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assistance",
+        "victim"
+    ]
+},
+  "bbox": [
+    -73.092812,
+    43.248798,
+    -73.092812,
+    43.248798
+],
+  "geometry": {"coordinates":[-73.092812,43.248798],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874239503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015159,44.420376,-72.015159,44.420376",
+    "geom:latitude":44.420376,
+    "geom:longitude":-72.015159,
+    "iso:country":"US",
+    "sg:address":"590 Railroad St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 2699",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AZh7x6rJs7DFuAyZVem0i_44.420376_-72.015159@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313330,
+    "wof:geomhash":"a212a0bffb76d6e1d5c75d32ea67c285",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874239503
+        }
+    ],
+    "wof:id":874239503,
+    "wof:lastmodified":1464313330,
+    "wof:name":"Sorrell's Plumbing & Heating",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.015159,
+    44.420376,
+    -72.015159,
+    44.420376
+],
+  "geometry": {"coordinates":[-72.015159,44.420376],"type":"Point"}
+}

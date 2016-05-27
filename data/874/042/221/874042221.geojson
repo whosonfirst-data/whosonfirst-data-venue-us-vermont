@@ -1,0 +1,71 @@
+{
+  "id": 874042221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.693279,44.458996,-72.693279,44.458996",
+    "geom:latitude":44.458996,
+    "geom:longitude":-72.693279,
+    "iso:country":"US",
+    "sg:address":"591 S Main St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7970",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UWN1dulNYXkyPssLKPFAJ_44.458996_-72.693279@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311168,
+    "wof:geomhash":"421dba19f36db06df62c41922b67ef55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874042221
+        }
+    ],
+    "wof:id":874042221,
+    "wof:lastmodified":1464311168,
+    "wof:name":"Northeast Wilderness Trust",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "org"
+    ]
+},
+  "bbox": [
+    -72.693279,
+    44.458996,
+    -72.693279,
+    44.458996
+],
+  "geometry": {"coordinates":[-72.693279,44.458996],"type":"Point"}
+}

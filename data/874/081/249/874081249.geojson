@@ -1,0 +1,69 @@
+{
+  "id": 874081249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.67724,44.483284,-72.67724,44.483284",
+    "geom:latitude":44.483284,
+    "geom:longitude":-72.67724,
+    "iso:country":"US",
+    "sg:address":"2 Parker Ln",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 9300",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53c1ofScQoDj3nxaGCi9RO_44.483284_-72.677240@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311566,
+    "wof:geomhash":"7e5b92abf1c3185b0c433491f1992a9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874081249
+        }
+    ],
+    "wof:id":874081249,
+    "wof:lastmodified":1464311566,
+    "wof:name":"Stowe Education Fund",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -72.67724,
+    44.483284,
+    -72.67724,
+    44.483284
+],
+  "geometry": {"coordinates":[-72.67724,44.483284],"type":"Point"}
+}

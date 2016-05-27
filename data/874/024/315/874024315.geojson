@@ -1,0 +1,73 @@
+{
+  "id": 874024315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.491377,44.190534,-72.491377,44.190534",
+    "geom:latitude":44.190534,
+    "geom:longitude":-72.491377,
+    "iso:country":"US",
+    "sg:address":"129 Orange St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2005",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FJP06ckmLJe3Hweff8OAd_44.190534_-72.491377@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310987,
+    "wof:geomhash":"f563d3fcc7a8a7a94feb8bd5f54aef16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874024315
+        }
+    ],
+    "wof:id":874024315,
+    "wof:lastmodified":1464310987,
+    "wof:name":"Mattote's Mobile Home",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -72.491377,
+    44.190534,
+    -72.491377,
+    44.190534
+],
+  "geometry": {"coordinates":[-72.491377,44.190534],"type":"Point"}
+}

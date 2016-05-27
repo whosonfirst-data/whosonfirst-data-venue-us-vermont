@@ -1,0 +1,71 @@
+{
+  "id": 874005163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.659087,44.136719,-72.659087,44.136719",
+    "geom:latitude":44.136719,
+    "geom:longitude":-72.659087,
+    "iso:country":"US",
+    "sg:address":"152 S Main St",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 3981",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iyjcbjfvCfcIftMOOC35O_44.136719_-72.659087@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310816,
+    "wof:geomhash":"ffb4157cf3974158f048d0d2b123f953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874005163
+        }
+    ],
+    "wof:id":874005163,
+    "wof:lastmodified":1464310816,
+    "wof:name":"Methodist Church",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.659087,
+    44.136719,
+    -72.659087,
+    44.136719
+],
+  "geometry": {"coordinates":[-72.659087,44.136719],"type":"Point"}
+}

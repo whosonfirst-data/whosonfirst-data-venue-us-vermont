@@ -1,0 +1,69 @@
+{
+  "id": 874147405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.995321,44.395534,-71.995321,44.395534",
+    "geom:latitude":44.395534,
+    "geom:longitude":-71.995321,
+    "iso:country":"US",
+    "sg:address":"205 Hastings Rd",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 1428",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H0nur0Uk6epSVE6siPCyW_44.395534_-71.995321@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312306,
+    "wof:geomhash":"ed30a62dea63f41c1cd52bb429cfe543",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874147405
+        }
+    ],
+    "wof:id":874147405,
+    "wof:lastmodified":1464312306,
+    "wof:name":"Black Bear Tavern & Grille",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.995321,
+    44.395534,
+    -71.995321,
+    44.395534
+],
+  "geometry": {"coordinates":[-71.995321,44.395534],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874238621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.087196,44.667567,-73.087196,44.667567",
+    "geom:latitude":44.667567,
+    "geom:longitude":-73.087196,
+    "iso:country":"US",
+    "sg:address":"542 North Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 8013",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816349,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zQHPTmfMfCyoJmCjHotbD_44.667567_-73.087196@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313314,
+    "wof:geomhash":"8f80d660497565d6798703c7505fc40f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85816349,
+            "region_id":85688763,
+            "venue_id":874238621
+        }
+    ],
+    "wof:id":874238621,
+    "wof:lastmodified":1464313314,
+    "wof:name":"Graham Electric",
+    "wof:parent_id":85816349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.087196,
+    44.667567,
+    -73.087196,
+    44.667567
+],
+  "geometry": {"coordinates":[-73.08719600000001,44.667567],"type":"Point"}
+}

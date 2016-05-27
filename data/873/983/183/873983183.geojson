@@ -1,0 +1,69 @@
+{
+  "id": 873983183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.198367,42.878882,-73.198367,42.878882",
+    "geom:latitude":42.878882,
+    "geom:longitude":-73.198367,
+    "iso:country":"US",
+    "sg:address":"341 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 440 8188",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55X9rxrbbN5B8Oe7iRsRJ7_42.878882_-73.198367@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310634,
+    "wof:geomhash":"e81d5c2d6268f058eb3d4bdf2c9eee50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873983183
+        }
+    ],
+    "wof:id":873983183,
+    "wof:lastmodified":1464310634,
+    "wof:name":"Top Nails",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -73.198367,
+    42.878882,
+    -73.198367,
+    42.878882
+],
+  "geometry": {"coordinates":[-73.198367,42.878882],"type":"Point"}
+}

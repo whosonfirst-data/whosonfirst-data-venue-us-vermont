@@ -1,0 +1,71 @@
+{
+  "id": 874128475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.620035,44.605202,-72.620035,44.605202",
+    "geom:latitude":44.605202,
+    "geom:longitude":-72.620035,
+    "iso:country":"US",
+    "sg:address":"95 Battle Row Rd",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 2555",
+    "sg:postcode":"05655",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y8gziAqlSmFkTWmfN05yw_44.605202_-72.620035@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312115,
+    "wof:geomhash":"ade328f5791ba04150fc08b93d1e8a15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874128475
+        }
+    ],
+    "wof:id":874128475,
+    "wof:lastmodified":1464312115,
+    "wof:name":"Tile Man",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.620035,
+    44.605202,
+    -72.620035,
+    44.605202
+],
+  "geometry": {"coordinates":[-72.620035,44.605202],"type":"Point"}
+}

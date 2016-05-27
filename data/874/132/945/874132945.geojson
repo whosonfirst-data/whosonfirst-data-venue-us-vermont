@@ -1,0 +1,65 @@
+{
+  "id": 874132945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.638492,43.382642,-72.638492,43.382642",
+    "geom:latitude":43.382642,
+    "geom:longitude":-72.638492,
+    "iso:country":"US",
+    "sg:address":"630 Main St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 824 6789",
+    "sg:postcode":"05153",
+    "sg:province":"VT",
+    "sg:website":"www.innweston.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W96eraBorWa8jLDKNbDb0_43.382642_-72.638492@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312172,
+    "wof:geomhash":"0e20bb2b91662d0af5c07b361024829e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874132945
+        }
+    ],
+    "wof:id":874132945,
+    "wof:lastmodified":1464312172,
+    "wof:name":"Inn At Weston",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.638492,
+    43.382642,
+    -72.638492,
+    43.382642
+],
+  "geometry": {"coordinates":[-72.638492,43.382642],"type":"Point"}
+}

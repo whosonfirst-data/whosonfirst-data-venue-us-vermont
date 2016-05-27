@@ -1,0 +1,71 @@
+{
+  "id": 874076779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.26753,44.286277,-72.26753,44.286277",
+    "geom:latitude":44.286277,
+    "geom:longitude":-72.26753,
+    "iso:country":"US",
+    "sg:address":"303 Boulder Beach Rd",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 584 3822",
+    "sg:postcode":"05046",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85829377,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P6UI3Bv56fKl846gvGnSm_44.286277_-72.267530@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311518,
+    "wof:geomhash":"12873a0ab2df9172ee4973f615b2a8d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85829377,
+            "region_id":85688763,
+            "venue_id":874076779
+        }
+    ],
+    "wof:id":874076779,
+    "wof:lastmodified":1464311518,
+    "wof:name":"Big Deer State Park",
+    "wof:parent_id":85829377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "park"
+    ]
+},
+  "bbox": [
+    -72.26753,
+    44.286277,
+    -72.26753,
+    44.286277
+],
+  "geometry": {"coordinates":[-72.26752999999999,44.286277],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874179113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.48436,44.193807,-72.48436,44.193807",
+    "geom:latitude":44.193807,
+    "geom:longitude":-72.48436,
+    "iso:country":"US",
+    "sg:address":"4 W Skylark Ter",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5099",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xDcBZeAGoDU0n9k8LJLVN_44.193807_-72.484360@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312621,
+    "wof:geomhash":"b198f94569e5edfded9c1fb11530d2b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874179113
+        }
+    ],
+    "wof:id":874179113,
+    "wof:lastmodified":1464312621,
+    "wof:name":"Rouleau Roofing",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.48436,
+    44.193807,
+    -72.48436,
+    44.193807
+],
+  "geometry": {"coordinates":[-72.48436,44.193807],"type":"Point"}
+}

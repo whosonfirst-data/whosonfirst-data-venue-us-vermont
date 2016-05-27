@@ -1,0 +1,73 @@
+{
+  "id": 874013561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.293456,44.03673,-73.293456,44.03673",
+    "geom:latitude":44.03673,
+    "geom:longitude":-73.293456,
+    "iso:country":"US",
+    "sg:address":"3395 Mountain Rd",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 758 2000",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a0FL88B7QVyTfuJQ35Yop_44.036730_-73.293456@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310880,
+    "wof:geomhash":"7b8af8ad40083ae545bc8c6a62546582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874013561
+        }
+    ],
+    "wof:id":874013561,
+    "wof:lastmodified":1464310880,
+    "wof:name":"CTPA Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -73.293456,
+    44.03673,
+    -73.293456,
+    44.03673
+],
+  "geometry": {"coordinates":[-73.29345600000001,44.03673],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874053753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.503519,44.199013,-72.503519,44.199013",
+    "geom:latitude":44.199013,
+    "geom:longitude":-72.503519,
+    "iso:country":"US",
+    "sg:address":"191 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2295",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q5IbyELyGnGpJi4i0vpGh_44.199013_-72.503519@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311276,
+    "wof:geomhash":"696503f350200e2b985c6d1f7039af41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874053753
+        }
+    ],
+    "wof:id":874053753,
+    "wof:lastmodified":1464311276,
+    "wof:name":"Dente's Furniture",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [
+    -72.503519,
+    44.199013,
+    -72.503519,
+    44.199013
+],
+  "geometry": {"coordinates":[-72.503519,44.199013],"type":"Point"}
+}

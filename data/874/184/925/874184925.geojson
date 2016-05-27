@@ -1,0 +1,71 @@
+{
+  "id": 874184925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.566739,44.249497,-72.566739,44.249497",
+    "geom:latitude":44.249497,
+    "geom:longitude":-72.566739,
+    "iso:country":"US",
+    "sg:address":"56 River St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 9311",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2quWfZZ5Lv5pPiYHS5Pqmq_44.249497_-72.566739@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312690,
+    "wof:geomhash":"f5ac273b20f919aaefb8c432a32299e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874184925
+        }
+    ],
+    "wof:id":874184925,
+    "wof:lastmodified":1464312690,
+    "wof:name":"D J's Convenience Store",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.566739,
+    44.249497,
+    -72.566739,
+    44.249497
+],
+  "geometry": {"coordinates":[-72.566739,44.249497],"type":"Point"}
+}

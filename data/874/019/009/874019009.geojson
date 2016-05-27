@@ -1,0 +1,71 @@
+{
+  "id": 874019009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.099757,44.45567,-73.099757,44.45567",
+    "geom:latitude":44.45567,
+    "geom:longitude":-73.099757,
+    "iso:country":"US",
+    "sg:address":"148 Barrett Ln",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 6854",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aLPTL1dwFqnIRRzAtlAjp_44.455670_-73.099757@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310937,
+    "wof:geomhash":"12e0617c4ac2964b5c5352b82e410302",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874019009
+        }
+    ],
+    "wof:id":874019009,
+    "wof:lastmodified":1464310937,
+    "wof:name":"Timberline Electric",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.099757,
+    44.45567,
+    -73.099757,
+    44.45567
+],
+  "geometry": {"coordinates":[-73.099757,44.45567],"type":"Point"}
+}

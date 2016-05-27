@@ -1,0 +1,69 @@
+{
+  "id": 874072365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.599271,44.562689,-72.599271,44.562689",
+    "geom:latitude":44.562689,
+    "geom:longitude":-72.599271,
+    "iso:country":"US",
+    "sg:address":"58 Brigham St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5685",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aaiP8lwSBbA0apDiXOBMY_44.562689_-72.599271@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311467,
+    "wof:geomhash":"bb8f05227b54a347e6d756b7254ba9e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874072365
+        }
+    ],
+    "wof:id":874072365,
+    "wof:lastmodified":1464311467,
+    "wof:name":"Brigham Dental Care",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.599271,
+    44.562689,
+    -72.599271,
+    44.562689
+],
+  "geometry": {"coordinates":[-72.599271,44.562689],"type":"Point"}
+}

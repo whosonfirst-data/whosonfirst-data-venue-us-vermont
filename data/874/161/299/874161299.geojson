@@ -1,0 +1,71 @@
+{
+  "id": 874161299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.729511,44.711008,-72.729511,44.711008",
+    "geom:latitude":44.711008,
+    "geom:longitude":-72.729511,
+    "iso:country":"US",
+    "sg:address":"1500 Codding Hollow Rd",
+    "sg:city":"Waterville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 6530",
+    "sg:postcode":"05492",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hiCTPAQpf8jIdLK281q0f_44.711008_-72.729511@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312445,
+    "wof:geomhash":"120edc16f7622b8ffc8aba13f97a4157",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874161299
+        }
+    ],
+    "wof:id":874161299,
+    "wof:lastmodified":1464312445,
+    "wof:name":"Lockes Wild Game Processing",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -72.729511,
+    44.711008,
+    -72.729511,
+    44.711008
+],
+  "geometry": {"coordinates":[-72.729511,44.711008],"type":"Point"}
+}

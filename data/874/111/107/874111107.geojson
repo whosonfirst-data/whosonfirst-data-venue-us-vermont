@@ -1,0 +1,71 @@
+{
+  "id": 874111107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.555242,43.334568,-72.555242,43.334568",
+    "geom:latitude":43.334568,
+    "geom:longitude":-72.555242,
+    "iso:country":"US",
+    "sg:address":"3074 State Rte 10",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 2361",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dW7JFhWFbifOfCWa3eUYA_43.334568_-72.555242@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311942,
+    "wof:geomhash":"9ca8fb00d5307f8c239163216e4f1e45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874111107
+        }
+    ],
+    "wof:id":874111107,
+    "wof:lastmodified":1464311942,
+    "wof:name":"Interacoustic Corp",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -72.555242,
+    43.334568,
+    -72.555242,
+    43.334568
+],
+  "geometry": {"coordinates":[-72.55524200000001,43.334568],"type":"Point"}
+}

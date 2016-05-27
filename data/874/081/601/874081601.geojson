@@ -1,0 +1,83 @@
+{
+  "id": 874081601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.787979,43.657741,-72.787979,43.657741",
+    "geom:latitude":43.657741,
+    "geom:longitude":-72.787979,
+    "iso:country":"US",
+    "sg:address":"80 Weathervane Dr",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 422 8680",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "water",
+        "industry",
+        "electrical",
+        "treatment",
+        "mfg"
+    ],
+    "sg:website":"www.sunraytech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848249,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KXv39yJNezOFte7TXhnzD_43.657741_-72.787979@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311570,
+    "wof:geomhash":"873d9d8005a693f46242f14112af4332",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":874081601
+        }
+    ],
+    "wof:id":874081601,
+    "wof:lastmodified":1464311570,
+    "wof:name":"Sun Ray Technologies Inc",
+    "wof:parent_id":85848249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "industry",
+        "electrical",
+        "treatment",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.787979,
+    43.657741,
+    -72.787979,
+    43.657741
+],
+  "geometry": {"coordinates":[-72.78797900000001,43.657741],"type":"Point"}
+}

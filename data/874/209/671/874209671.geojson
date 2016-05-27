@@ -1,0 +1,71 @@
+{
+  "id": 874209671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.254782,43.789175,-72.254782,43.789175",
+    "geom:latitude":43.789175,
+    "geom:longitude":-72.254782,
+    "iso:country":"US",
+    "sg:address":"61 Main St",
+    "sg:city":"East Thetford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 649 5131",
+    "sg:postcode":"05043",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EB4t2e3eVIMLpc3k6RgZv_43.789175_-72.254782@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312945,
+    "wof:geomhash":"fece336c7599ad6d7c5718c54c37f515",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874209671
+        }
+    ],
+    "wof:id":874209671,
+    "wof:lastmodified":1464312945,
+    "wof:name":"Window Washing",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.254782,
+    43.789175,
+    -72.254782,
+    43.789175
+],
+  "geometry": {"coordinates":[-72.25478200000001,43.789175],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874237189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.703148,43.470418,-72.703148,43.470418",
+    "geom:latitude":43.470418,
+    "geom:longitude":-72.703148,
+    "iso:country":"US",
+    "sg:address":"352 State Rte 100",
+    "sg:city":"Ludlow",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 228 2410",
+    "sg:postcode":"05149",
+    "sg:province":"VT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KH6GvCfI1iFlkhAXv8csB_43.470418_-72.703148@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313284,
+    "wof:geomhash":"b16eda1cbc926b2fba908b0d0e7eceb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874237189
+        }
+    ],
+    "wof:id":874237189,
+    "wof:lastmodified":1464313284,
+    "wof:name":"G & S Connection",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -72.703148,
+    43.470418,
+    -72.703148,
+    43.470418
+],
+  "geometry": {"coordinates":[-72.703148,43.470418],"type":"Point"}
+}

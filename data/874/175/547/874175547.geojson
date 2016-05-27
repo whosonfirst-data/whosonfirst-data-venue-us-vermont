@@ -1,0 +1,73 @@
+{
+  "id": 874175547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213651,44.478098,-73.213651,44.478098",
+    "geom:latitude":44.478098,
+    "geom:longitude":-73.213651,
+    "iso:country":"US",
+    "sg:address":"159 Bank St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 951 6290",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "federal",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zAXmAbnjNS17HINa4papj_44.478098_-73.213651@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312583,
+    "wof:geomhash":"cff4c8fc4462db40130b5bfbde32319d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874175547
+        }
+    ],
+    "wof:id":874175547,
+    "wof:lastmodified":1464312583,
+    "wof:name":"US Housing & Urban Dev Dept",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "program"
+    ]
+},
+  "bbox": [
+    -73.213651,
+    44.478098,
+    -73.213651,
+    44.478098
+],
+  "geometry": {"coordinates":[-73.213651,44.478098],"type":"Point"}
+}

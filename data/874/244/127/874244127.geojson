@@ -1,0 +1,73 @@
+{
+  "id": 874244127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.494622,43.306475,-72.494622,43.306475",
+    "geom:latitude":43.306475,
+    "geom:longitude":-72.494622,
+    "iso:country":"US",
+    "sg:address":"268 River St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 1900",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Lo0n322aKF41dLjO0xNJO_43.306475_-72.494622@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313414,
+    "wof:geomhash":"f875267c2e0ee80556dcca220eec9a42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874244127
+        }
+    ],
+    "wof:id":874244127,
+    "wof:lastmodified":1464313414,
+    "wof:name":"James D Cahill MD",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.494622,
+    43.306475,
+    -72.494622,
+    43.306475
+],
+  "geometry": {"coordinates":[-72.49462200000001,43.306475],"type":"Point"}
+}

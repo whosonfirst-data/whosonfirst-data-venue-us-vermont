@@ -1,0 +1,67 @@
+{
+  "id": 874240377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50274,44.19842,-72.50274,44.19842",
+    "geom:latitude":44.19842,
+    "geom:longitude":-72.50274,
+    "iso:country":"US",
+    "sg:address":"159 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3144",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:website":"www.homerfitts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dNvEbXpQbu1opgvMGbMSX_44.198420_-72.502740@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313347,
+    "wof:geomhash":"4b94b05504c648041db7777d873fc9cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874240377
+        }
+    ],
+    "wof:id":874240377,
+    "wof:lastmodified":1464313347,
+    "wof:name":"Homer Fitts Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.50274,
+    44.19842,
+    -72.50274,
+    44.19842
+],
+  "geometry": {"coordinates":[-72.50274,44.19842],"type":"Point"}
+}

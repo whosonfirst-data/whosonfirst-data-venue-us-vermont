@@ -1,0 +1,73 @@
+{
+  "id": 874139995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169354,44.012996,-73.169354,44.012996",
+    "geom:latitude":44.012996,
+    "geom:longitude":-73.169354,
+    "iso:country":"US",
+    "sg:address":"3 Park St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2370",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74jshYSbizBfr4wrsgtGpB_44.012996_-73.169354@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312235,
+    "wof:geomhash":"6517053f9c1d26d171ddbf2d4557e1f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874139995
+        }
+    ],
+    "wof:id":874139995,
+    "wof:lastmodified":1464312235,
+    "wof:name":"Frog Hollow Artist Materials",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -73.169354,
+    44.012996,
+    -73.169354,
+    44.012996
+],
+  "geometry": {"coordinates":[-73.169354,44.012996],"type":"Point"}
+}

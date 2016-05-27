@@ -1,0 +1,73 @@
+{
+  "id": 873986221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.509752,44.204657,-72.509752,44.204657",
+    "geom:latitude":44.204657,
+    "geom:longitude":-72.509752,
+    "iso:country":"US",
+    "sg:address":"435 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3639",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41wwRgh3EIhGk7SGOxGwyD_44.204657_-72.509752@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310663,
+    "wof:geomhash":"a5b7d06ef1a2324e33b19f3deedeeb27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873986221
+        }
+    ],
+    "wof:id":873986221,
+    "wof:lastmodified":1464310663,
+    "wof:name":"Dragon & Phoenix Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.509752,
+    44.204657,
+    -72.509752,
+    44.204657
+],
+  "geometry": {"coordinates":[-72.50975200000001,44.204657],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874060521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.084103,44.495106,-73.084103,44.495106",
+    "geom:latitude":44.495106,
+    "geom:longitude":-73.084103,
+    "iso:country":"US",
+    "sg:address":"70 Beech St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 4154",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_477CqCByGNHjISzhKVlJaN_44.495106_-73.084103@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311339,
+    "wof:geomhash":"e6b206d14aff1f2f274cf3f77ff57b09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874060521
+        }
+    ],
+    "wof:id":874060521,
+    "wof:lastmodified":1464311339,
+    "wof:name":"John Slatter Investment",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -73.084103,
+    44.495106,
+    -73.084103,
+    44.495106
+],
+  "geometry": {"coordinates":[-73.084103,44.495106],"type":"Point"}
+}

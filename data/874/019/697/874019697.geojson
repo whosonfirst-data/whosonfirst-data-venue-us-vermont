@@ -1,0 +1,71 @@
+{
+  "id": 874019697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.976987,43.604064,-72.976987,43.604064",
+    "geom:latitude":43.604064,
+    "geom:longitude":-72.976987,
+    "iso:country":"US",
+    "sg:address":"50 Strongs Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 9001",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t5CtLA2bAH5ekJh4MjKit_43.604064_-72.976987@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310945,
+    "wof:geomhash":"2648413cd8345fa26b0cc263264fbad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874019697
+        }
+    ],
+    "wof:id":874019697,
+    "wof:lastmodified":1464310945,
+    "wof:name":"Cara Mia's",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.976987,
+    43.604064,
+    -72.976987,
+    43.604064
+],
+  "geometry": {"coordinates":[-72.97698699999999,43.604064],"type":"Point"}
+}

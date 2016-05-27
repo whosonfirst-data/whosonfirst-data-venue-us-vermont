@@ -1,0 +1,71 @@
+{
+  "id": 874034605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.538086,44.589605,-72.538086,44.589605",
+    "geom:latitude":44.589605,
+    "geom:longitude":-72.538086,
+    "iso:country":"US",
+    "sg:address":"1560 Garfield Rd",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5864",
+    "sg:postcode":"05655",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y1A3eRnfZDGKF32fTr8KH_44.589605_-72.538086@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311090,
+    "wof:geomhash":"f87bd3ede96da8471af7dac5f40749c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874034605
+        }
+    ],
+    "wof:id":874034605,
+    "wof:lastmodified":1464311090,
+    "wof:name":"Sawyer Apts",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.538086,
+    44.589605,
+    -72.538086,
+    44.589605
+],
+  "geometry": {"coordinates":[-72.53808600000001,44.589605],"type":"Point"}
+}

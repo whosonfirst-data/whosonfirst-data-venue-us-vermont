@@ -1,0 +1,71 @@
+{
+  "id": 874173495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971637,43.604698,-72.971637,43.604698",
+    "geom:latitude":43.604698,
+    "geom:longitude":-72.971637,
+    "iso:country":"US",
+    "sg:address":"279 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 9231",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qdR5wzlsWtlxqbzs7C1HA_43.604698_-72.971637@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312562,
+    "wof:geomhash":"1b43b927e994df353306d2b5cd506590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874173495
+        }
+    ],
+    "wof:id":874173495,
+    "wof:lastmodified":1464312562,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.971637,
+    43.604698,
+    -72.971637,
+    43.604698
+],
+  "geometry": {"coordinates":[-72.971637,43.604698],"type":"Point"}
+}

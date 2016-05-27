@@ -1,0 +1,72 @@
+{
+  "id": 874069213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.145453,43.996567,-73.145453,43.996567",
+    "geom:latitude":43.996567,
+    "geom:longitude":-73.145453,
+    "iso:country":"US",
+    "sg:address":"510 US Hwy 7",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4932",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.sheamotorco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YYMG2zcvTaPKwf4n7E194_43.996567_-73.145453@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311425,
+    "wof:geomhash":"aa00ea6790d7f39989e271932d49148a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874069213
+        }
+    ],
+    "wof:id":874069213,
+    "wof:lastmodified":1464311425,
+    "wof:name":"Shea Motor Co",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.145453,
+    43.996567,
+    -73.145453,
+    43.996567
+],
+  "geometry": {"coordinates":[-73.145453,43.996567],"type":"Point"}
+}

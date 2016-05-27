@@ -1,0 +1,71 @@
+{
+  "id": 874152629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.246961,44.0859,-73.246961,44.0859",
+    "geom:latitude":44.0859,
+    "geom:longitude":-73.246961,
+    "iso:country":"US",
+    "sg:address":"17 State Rte 17",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 759 2152",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k7Y9GuUeLAJb8WvsgkbXf_44.085900_-73.246961@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312352,
+    "wof:geomhash":"7395b84ad052794fee1eba67e5c7c1de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874152629
+        }
+    ],
+    "wof:id":874152629,
+    "wof:lastmodified":1464312352,
+    "wof:name":"Bridge Family Restaurant",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.246961,
+    44.0859,
+    -73.246961,
+    44.0859
+],
+  "geometry": {"coordinates":[-73.246961,44.0859],"type":"Point"}
+}

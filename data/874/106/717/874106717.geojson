@@ -1,0 +1,71 @@
+{
+  "id": 874106717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.06336,43.818701,-73.06336,43.818701",
+    "geom:latitude":43.818701,
+    "geom:longitude":-73.06336,
+    "iso:country":"US",
+    "sg:address":"16 Morning Dove Ln",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 4411",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RhMwK9XuubylzHQpnAFS5_43.818701_-73.063360@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311880,
+    "wof:geomhash":"8b282ef8bc8e0b547686896b537735e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874106717
+        }
+    ],
+    "wof:id":874106717,
+    "wof:lastmodified":1464311880,
+    "wof:name":"Family Heat & Appliance",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -73.06336,
+    43.818701,
+    -73.06336,
+    43.818701
+],
+  "geometry": {"coordinates":[-73.06336,43.818701],"type":"Point"}
+}

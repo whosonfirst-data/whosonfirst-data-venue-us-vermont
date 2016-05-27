@@ -1,0 +1,69 @@
+{
+  "id": 874000561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.198553,42.87688,-73.198553,42.87688",
+    "geom:latitude":42.87688,
+    "geom:longitude":-73.198553,
+    "iso:country":"US",
+    "sg:address":"111 Elm St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 3090",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1spwwwlZqosvZPF4LNpV3w_42.876880_-73.198553@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310764,
+    "wof:geomhash":"5832858a84c4c8ce248c9456e1fc28c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874000561
+        }
+    ],
+    "wof:id":874000561,
+    "wof:lastmodified":1464310764,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -73.198553,
+    42.87688,
+    -73.198553,
+    42.87688
+],
+  "geometry": {"coordinates":[-73.198553,42.87688],"type":"Point"}
+}

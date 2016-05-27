@@ -1,0 +1,73 @@
+{
+  "id": 874245527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.401852,44.156869,-72.401852,44.156869",
+    "geom:latitude":44.156869,
+    "geom:longitude":-72.401852,
+    "iso:country":"US",
+    "sg:address":"244 George St",
+    "sg:city":"Orange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0466",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rwUzEz314XG7EVjReuhKV_44.156869_-72.401852@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313444,
+    "wof:geomhash":"ff9b2110e8ef8417472fa2db375728fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874245527
+        }
+    ],
+    "wof:id":874245527,
+    "wof:lastmodified":1464313444,
+    "wof:name":"Brook Side Boarding",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -72.401852,
+    44.156869,
+    -72.401852,
+    44.156869
+],
+  "geometry": {"coordinates":[-72.40185200000001,44.156869],"type":"Point"}
+}

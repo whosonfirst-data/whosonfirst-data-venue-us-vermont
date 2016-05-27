@@ -1,0 +1,75 @@
+{
+  "id": 874191319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.488679,44.18983,-72.488679,44.18983",
+    "geom:latitude":44.18983,
+    "geom:longitude":-72.488679,
+    "iso:country":"US",
+    "sg:address":"320 Washington St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 9737",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XE6LAk9pqIaAgBzn5I5lC_44.189830_-72.488679@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312752,
+    "wof:geomhash":"6bcda2e949ce5379dfd54ea299d4da3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874191319
+        }
+    ],
+    "wof:id":874191319,
+    "wof:lastmodified":1464312752,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -72.488679,
+    44.18983,
+    -72.488679,
+    44.18983
+],
+  "geometry": {"coordinates":[-72.488679,44.18983],"type":"Point"}
+}

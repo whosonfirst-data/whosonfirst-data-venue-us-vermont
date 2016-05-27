@@ -1,0 +1,75 @@
+{
+  "id": 874195433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.465703,43.590141,-72.465703,43.590141",
+    "geom:latitude":43.590141,
+    "geom:longitude":-72.465703,
+    "iso:country":"US",
+    "sg:address":"18 Richardson Farm Rd",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 457 2674",
+    "sg:postcode":"05091",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "forest",
+        "gathering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LpOZkzZRgPHBRBsqOnyyc_43.590141_-72.465703@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312799,
+    "wof:geomhash":"6b36e5f920d9d0acc1e3fd455ee72d10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874195433
+        }
+    ],
+    "wof:id":874195433,
+    "wof:lastmodified":1464312799,
+    "wof:name":"Richardson Farms",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "forest",
+        "gathering"
+    ]
+},
+  "bbox": [
+    -72.465703,
+    43.590141,
+    -72.465703,
+    43.590141
+],
+  "geometry": {"coordinates":[-72.465703,43.590141],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874199227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.254906,44.30543,-73.254906,44.30543",
+    "geom:latitude":44.30543,
+    "geom:longitude":-73.254906,
+    "iso:country":"US",
+    "sg:address":"3205 Greenbush Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 7077",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85811695,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fWs3e21Rd5HIStvZ2gH0r_44.305430_-73.254906@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312836,
+    "wof:geomhash":"82bbb2ef1eadaaac8d8c8eca0e112716",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85811695,
+            "region_id":85688763,
+            "venue_id":874199227
+        }
+    ],
+    "wof:id":874199227,
+    "wof:lastmodified":1464312836,
+    "wof:name":"John Wright & Sons",
+    "wof:parent_id":85811695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.254906,
+    44.30543,
+    -73.254906,
+    44.30543
+],
+  "geometry": {"coordinates":[-73.25490600000001,44.30543],"type":"Point"}
+}

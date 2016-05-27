@@ -1,0 +1,71 @@
+{
+  "id": 874111795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206573,42.897253,-73.206573,42.897253",
+    "geom:latitude":42.897253,
+    "geom:longitude":-73.206573,
+    "iso:country":"US",
+    "sg:address":"133 Northside Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 6480",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tvpt1Yeeux4hZu5kqAaSO_42.897253_-73.206573@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311954,
+    "wof:geomhash":"c4f6c1973142280c9b3d94d975c733f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874111795
+        }
+    ],
+    "wof:id":874111795,
+    "wof:lastmodified":1464311954,
+    "wof:name":"Matt Morse Excavating",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.206573,
+    42.897253,
+    -73.206573,
+    42.897253
+],
+  "geometry": {"coordinates":[-73.20657300000001,42.897253],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874085925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.236097,42.913827,-73.236097,42.913827",
+    "geom:latitude":42.913827,
+    "geom:longitude":-73.236097,
+    "iso:country":"US",
+    "sg:address":"16 Wilkie Way",
+    "sg:city":"North Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 2503",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jweNzFeSNA6Uywxaoxzs1_42.913827_-73.236097@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311620,
+    "wof:geomhash":"7deb5bc02042e8ab76455fa25b1743b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874085925
+        }
+    ],
+    "wof:id":874085925,
+    "wof:lastmodified":1464311620,
+    "wof:name":"K & D Auto Body & Repair",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -73.236097,
+    42.913827,
+    -73.236097,
+    42.913827
+],
+  "geometry": {"coordinates":[-73.236097,42.913827],"type":"Point"}
+}

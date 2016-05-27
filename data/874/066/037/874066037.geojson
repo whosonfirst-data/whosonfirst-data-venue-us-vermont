@@ -1,0 +1,69 @@
+{
+  "id": 874066037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.051862,43.597538,-73.051862,43.597538",
+    "geom:latitude":43.597538,
+    "geom:longitude":-73.051862,
+    "iso:country":"US",
+    "sg:address":"95 Smith St",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 2988",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kEvvZT4t9PKFyPEMT64sy_43.597538_-73.051862@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311389,
+    "wof:geomhash":"7abe9f53d15c5782d4eff0d2817de02d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874066037
+        }
+    ],
+    "wof:id":874066037,
+    "wof:lastmodified":1464311389,
+    "wof:name":"Mullin-Clifford Funeral Home",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -73.051862,
+    43.597538,
+    -73.051862,
+    43.597538
+],
+  "geometry": {"coordinates":[-73.051862,43.597538],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874181535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209022,44.434416,-73.209022,44.434416",
+    "geom:latitude":44.434416,
+    "geom:longitude":-73.209022,
+    "iso:country":"US",
+    "sg:address":"25 Imperial Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 5243",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JulfU4t7fp8Cy6OGHeqFN_44.434416_-73.209022@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312646,
+    "wof:geomhash":"5f891aa92f306bccecc3dca463451500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874181535
+        }
+    ],
+    "wof:id":874181535,
+    "wof:lastmodified":1464312646,
+    "wof:name":"Barone BJ Builders Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.209022,
+    44.434416,
+    -73.209022,
+    44.434416
+],
+  "geometry": {"coordinates":[-73.209022,44.434416],"type":"Point"}
+}

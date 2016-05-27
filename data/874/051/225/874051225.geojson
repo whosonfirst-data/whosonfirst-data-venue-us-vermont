@@ -1,0 +1,69 @@
+{
+  "id": 874051225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.976734,43.606847,-72.976734,43.606847",
+    "geom:latitude":43.606847,
+    "geom:longitude":-72.976734,
+    "iso:country":"US",
+    "sg:address":"67 Center St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 1377",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qVO0EDCEeyRVUILKoPguW_43.606847_-72.976734@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311252,
+    "wof:geomhash":"96b0a548a922fbcd590c4c6b055eeb22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874051225
+        }
+    ],
+    "wof:id":874051225,
+    "wof:lastmodified":1464311252,
+    "wof:name":"Teacher's Closet",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [
+    -72.976734,
+    43.606847,
+    -72.976734,
+    43.606847
+],
+  "geometry": {"coordinates":[-72.97673399999999,43.606847],"type":"Point"}
+}

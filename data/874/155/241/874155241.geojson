@@ -1,0 +1,69 @@
+{
+  "id": 874155241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.108556,43.90349,-73.108556,43.90349",
+    "geom:latitude":43.90349,
+    "geom:longitude":-73.108556,
+    "iso:country":"US",
+    "sg:address":"213 Maple St",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 352 4792",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45tqz7Gjo5sglThrdzdzj0_43.903490_-73.108556@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312379,
+    "wof:geomhash":"5fbc71a9246a91174e76f755b77075b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874155241
+        }
+    ],
+    "wof:id":874155241,
+    "wof:lastmodified":1464312379,
+    "wof:name":"Jones Construction",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.108556,
+    43.90349,
+    -73.108556,
+    43.90349
+],
+  "geometry": {"coordinates":[-73.10855599999999,43.90349],"type":"Point"}
+}

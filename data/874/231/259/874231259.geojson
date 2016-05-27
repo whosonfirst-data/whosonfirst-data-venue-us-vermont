@@ -1,0 +1,69 @@
+{
+  "id": 874231259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.160098,44.003183,-73.160098,44.003183",
+    "geom:latitude":44.003183,
+    "geom:longitude":-73.160098,
+    "iso:country":"US",
+    "sg:address":"135 Creek Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 9600",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GoI97K4Z1dQhbziVucf82_44.003183_-73.160098@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313177,
+    "wof:geomhash":"a8b19e94c5d7260786fdae61f7972afa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874231259
+        }
+    ],
+    "wof:id":874231259,
+    "wof:lastmodified":1464313177,
+    "wof:name":"Molly Fleming",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture"
+    ]
+},
+  "bbox": [
+    -73.160098,
+    44.003183,
+    -73.160098,
+    44.003183
+],
+  "geometry": {"coordinates":[-73.160098,44.003183],"type":"Point"}
+}

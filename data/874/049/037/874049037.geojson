@@ -1,0 +1,75 @@
+{
+  "id": 874049037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501954,44.256771,-72.501954,44.256771",
+    "geom:latitude":44.256771,
+    "geom:longitude":-72.501954,
+    "iso:country":"US",
+    "sg:address":"1548 US Hwy 2",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 1010",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "truck",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aCHlp3w7FofLCWfzsHe2o_44.256771_-72.501954@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311232,
+    "wof:geomhash":"032f23bdd75965b8508cf02a260ca6da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874049037
+        }
+    ],
+    "wof:id":874049037,
+    "wof:lastmodified":1464311232,
+    "wof:name":"Austin Auto Brokers",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "truck",
+        "broker"
+    ]
+},
+  "bbox": [
+    -72.501954,
+    44.256771,
+    -72.501954,
+    44.256771
+],
+  "geometry": {"coordinates":[-72.501954,44.256771],"type":"Point"}
+}

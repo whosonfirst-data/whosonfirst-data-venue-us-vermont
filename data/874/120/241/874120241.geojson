@@ -1,0 +1,71 @@
+{
+  "id": 874120241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.247981,44.158474,-73.247981,44.158474",
+    "geom:latitude":44.158474,
+    "geom:longitude":-73.247981,
+    "iso:country":"US",
+    "sg:address":"7 Maple Manor",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2513",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mwTLDolTosP3BwmNMR764_44.158474_-73.247981@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312043,
+    "wof:geomhash":"01e72b69a72f45553c6f527a1742b5b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874120241
+        }
+    ],
+    "wof:id":874120241,
+    "wof:lastmodified":1464312043,
+    "wof:name":"Brassard Community Care Home",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -73.247981,
+    44.158474,
+    -73.247981,
+    44.158474
+],
+  "geometry": {"coordinates":[-73.247981,44.158474],"type":"Point"}
+}

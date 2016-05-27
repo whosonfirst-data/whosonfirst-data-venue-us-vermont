@@ -1,0 +1,69 @@
+{
+  "id": 874238713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.743609,44.655143,-72.743609,44.655143",
+    "geom:latitude":44.655143,
+    "geom:longitude":-72.743609,
+    "iso:country":"US",
+    "sg:address":"2621 Hog Back Rd",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 9288",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dkz4FR6b1ZpEl4EhivvkB_44.655143_-72.743609@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313316,
+    "wof:geomhash":"49e0655278e5f7b25c5a9d4e8cacbc9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874238713
+        }
+    ],
+    "wof:id":874238713,
+    "wof:lastmodified":1464313316,
+    "wof:name":"Vermont Cribbage Board",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.743609,
+    44.655143,
+    -72.743609,
+    44.655143
+],
+  "geometry": {"coordinates":[-72.74360900000001,44.655143],"type":"Point"}
+}

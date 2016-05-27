@@ -1,0 +1,71 @@
+{
+  "id": 874107609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.239592,44.542517,-73.239592,44.542517",
+    "geom:latitude":44.542517,
+    "geom:longitude":-73.239592,
+    "iso:country":"US",
+    "sg:address":"53 Prim Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 859 1894",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SIPRTfTQMgUOQqUOYI8bM_44.542517_-73.239592@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311889,
+    "wof:geomhash":"7b068585c4cd346a2be710454fb58b55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874107609
+        }
+    ],
+    "wof:id":874107609,
+    "wof:lastmodified":1464311889,
+    "wof:name":"Hydro Precision",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.239592,
+    44.542517,
+    -73.239592,
+    44.542517
+],
+  "geometry": {"coordinates":[-73.239592,44.542517],"type":"Point"}
+}

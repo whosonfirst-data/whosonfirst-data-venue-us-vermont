@@ -1,0 +1,79 @@
+{
+  "id": 874029783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.508864,44.21066,-72.508864,44.21066",
+    "geom:latitude":44.21066,
+    "geom:longitude":-72.508864,
+    "iso:country":"US",
+    "sg:address":"996 North Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 9450",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OJMRv6FoPI6A8zBMpeAvD_44.210660_-72.508864@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311047,
+    "wof:geomhash":"15d8cef96e1c1c244296d380eff20f9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874029783
+        }
+    ],
+    "wof:id":874029783,
+    "wof:lastmodified":1464311047,
+    "wof:name":"Mobil",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.508864,
+    44.21066,
+    -72.508864,
+    44.21066
+],
+  "geometry": {"coordinates":[-72.508864,44.21066],"type":"Point"}
+}

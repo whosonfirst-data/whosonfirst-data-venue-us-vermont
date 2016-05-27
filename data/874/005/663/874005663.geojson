@@ -1,0 +1,69 @@
+{
+  "id": 874005663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.957908,43.624729,-72.957908,43.624729",
+    "geom:latitude":43.624729,
+    "geom:longitude":-72.957908,
+    "iso:country":"US",
+    "sg:address":"26 Laverne Dr",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 9070",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UJYNcNSBEXYiz2teZWbk2_43.624729_-72.957908@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310822,
+    "wof:geomhash":"09649377eba7fbd1971ecf886d7533cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874005663
+        }
+    ],
+    "wof:id":874005663,
+    "wof:lastmodified":1464310822,
+    "wof:name":"Balestra Mark Biulding & Rmdlg",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -72.957908,
+    43.624729,
+    -72.957908,
+    43.624729
+],
+  "geometry": {"coordinates":[-72.957908,43.624729],"type":"Point"}
+}

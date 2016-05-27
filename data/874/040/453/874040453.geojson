@@ -1,0 +1,71 @@
+{
+  "id": 874040453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.218559,44.484485,-73.218559,44.484485",
+    "geom:latitude":44.484485,
+    "geom:longitude":-73.218559,
+    "iso:country":"US",
+    "sg:address":"97 North St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 3669",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YdXoS0UBpcLI4RGozqZjb_44.484485_-73.218559@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311148,
+    "wof:geomhash":"901d631226216ef3024b2e94469e9bc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874040453
+        }
+    ],
+    "wof:id":874040453,
+    "wof:lastmodified":1464311148,
+    "wof:name":"Bushey's New & Used Furniture",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    -73.218559,
+    44.484485,
+    -73.218559,
+    44.484485
+],
+  "geometry": {"coordinates":[-73.218559,44.484485],"type":"Point"}
+}

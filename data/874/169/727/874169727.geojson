@@ -1,0 +1,71 @@
+{
+  "id": 874169727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.097679,43.804168,-73.097679,43.804168",
+    "geom:latitude":43.804168,
+    "geom:longitude":-73.097679,
+    "iso:country":"US",
+    "sg:address":"36 Grove St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 0024",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26hW5DRCG6icOq5FLIh0Tr_43.804168_-73.097679@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312524,
+    "wof:geomhash":"7c934d427065da8bf40d4ffb703a08c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874169727
+        }
+    ],
+    "wof:id":874169727,
+    "wof:lastmodified":1464312524,
+    "wof:name":"Jiffy Mart",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -73.097679,
+    43.804168,
+    -73.097679,
+    43.804168
+],
+  "geometry": {"coordinates":[-73.097679,43.804168],"type":"Point"}
+}

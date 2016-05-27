@@ -1,0 +1,69 @@
+{
+  "id": 874066755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.577475,42.73327,-72.577475,42.73327",
+    "geom:latitude":42.73327,
+    "geom:longitude":-72.577475,
+    "iso:country":"US",
+    "sg:address":"22 E Mountain Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 4957",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837349,
+        102084457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ljiHtVF6N8nCQClFugQ8S_42.733270_-72.577475@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311395,
+    "wof:geomhash":"2e3a44c945a910dcada8280a7e3d8c9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084457,
+            "neighbourhood_id":85837349,
+            "region_id":85688645,
+            "venue_id":874066755
+        }
+    ],
+    "wof:id":874066755,
+    "wof:lastmodified":1464311395,
+    "wof:name":"West Village Beauty Shop",
+    "wof:parent_id":85837349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.577475,
+    42.73327,
+    -72.577475,
+    42.73327
+],
+  "geometry": {"coordinates":[-72.57747500000001,42.73327],"type":"Point"}
+}

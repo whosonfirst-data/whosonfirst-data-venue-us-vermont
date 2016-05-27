@@ -1,0 +1,71 @@
+{
+  "id": 874170811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213629,44.542804,-73.213629,44.542804",
+    "geom:latitude":44.542804,
+    "geom:longitude":-73.213629,
+    "iso:country":"US",
+    "sg:address":"187 Blakely Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 654 0713",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RECnoiyAZiFenjFGwMaJc_44.542804_-73.213629@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312535,
+    "wof:geomhash":"15af056e34c0b5857f6e8d5ad7ba284d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874170811
+        }
+    ],
+    "wof:id":874170811,
+    "wof:lastmodified":1464312535,
+    "wof:name":"Colchester Finance Dept",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -73.213629,
+    44.542804,
+    -73.213629,
+    44.542804
+],
+  "geometry": {"coordinates":[-73.213629,44.542804],"type":"Point"}
+}

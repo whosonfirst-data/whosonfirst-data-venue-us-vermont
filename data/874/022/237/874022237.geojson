@@ -1,0 +1,76 @@
+{
+  "id": 874022237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.979725,43.60637,-72.979725,43.60637",
+    "geom:latitude":43.60637,
+    "geom:longitude":-72.979725,
+    "iso:country":"US",
+    "sg:address":"52 Center St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4754",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house",
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37eCVPVvConOWLaOvkfngH_43.606370_-72.979725@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310967,
+    "wof:geomhash":"401c3df7ac7da91b1cf18ca22a0daf62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874022237
+        }
+    ],
+    "wof:id":874022237,
+    "wof:lastmodified":1464310967,
+    "wof:name":"Sound Barrier Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "mail"
+    ]
+},
+  "bbox": [
+    -72.979725,
+    43.60637,
+    -72.979725,
+    43.60637
+],
+  "geometry": {"coordinates":[-72.979725,43.60637],"type":"Point"}
+}

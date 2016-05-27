@@ -1,0 +1,71 @@
+{
+  "id": 874187929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.173581,44.550039,-73.173581,44.550039",
+    "geom:latitude":44.550039,
+    "geom:longitude":-73.173581,
+    "iso:country":"US",
+    "sg:address":"899 Bay Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 6371",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qa6LkfuSEODJjbQLv3xSt_44.550039_-73.173581@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312719,
+    "wof:geomhash":"a4036f695ee75135b25e201056c1eadf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874187929
+        }
+    ],
+    "wof:id":874187929,
+    "wof:lastmodified":1464312719,
+    "wof:name":"White's Sewer & Drain Svc",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.173581,
+    44.550039,
+    -73.173581,
+    44.550039
+],
+  "geometry": {"coordinates":[-73.173581,44.550039],"type":"Point"}
+}

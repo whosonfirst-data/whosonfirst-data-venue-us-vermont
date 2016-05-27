@@ -1,0 +1,71 @@
+{
+  "id": 874027649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.172259,44.471772,-73.172259,44.471772",
+    "geom:latitude":44.471772,
+    "geom:longitude":-73.172259,
+    "iso:country":"US",
+    "sg:address":"16 Richard Ter",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 6950",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iqx3i1LRwi4GmtZmra4VU_44.471772_-73.172259@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311022,
+    "wof:geomhash":"e0405f029cdfb434887f4fd4ce26bb04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874027649
+        }
+    ],
+    "wof:id":874027649,
+    "wof:lastmodified":1464311022,
+    "wof:name":"Red Carpet Beauty Salon",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.172259,
+    44.471772,
+    -73.172259,
+    44.471772
+],
+  "geometry": {"coordinates":[-73.172259,44.471772],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874246955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211526,44.477139,-73.211526,44.477139",
+    "geom:latitude":44.477139,
+    "geom:longitude":-73.211526,
+    "iso:country":"US",
+    "sg:address":"217 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 8800",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25FU9sga31cuj1Ek6N6ld6_44.477139_-73.211526@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313470,
+    "wof:geomhash":"d0d431b300c9e31ee340edc86a44352b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874246955
+        }
+    ],
+    "wof:id":874246955,
+    "wof:lastmodified":1464313470,
+    "wof:name":"H & R Block Tax Svc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -73.211526,
+    44.477139,
+    -73.211526,
+    44.477139
+],
+  "geometry": {"coordinates":[-73.21152600000001,44.477139],"type":"Point"}
+}

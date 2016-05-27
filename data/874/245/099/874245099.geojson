@@ -1,0 +1,71 @@
+{
+  "id": 874245099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.966679,43.585477,-72.966679,43.585477",
+    "geom:latitude":43.585477,
+    "geom:longitude":-72.966679,
+    "iso:country":"US",
+    "sg:address":"194 Seward Rd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 9880",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IUEkMnXtHgDMH5S2vMRES_43.585477_-72.966679@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313436,
+    "wof:geomhash":"bb6a6b5eda59714c3f637e067f63c04b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874245099
+        }
+    ],
+    "wof:id":874245099,
+    "wof:lastmodified":1464313436,
+    "wof:name":"Progressive Products Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.966679,
+    43.585477,
+    -72.966679,
+    43.585477
+],
+  "geometry": {"coordinates":[-72.966679,43.585477],"type":"Point"}
+}

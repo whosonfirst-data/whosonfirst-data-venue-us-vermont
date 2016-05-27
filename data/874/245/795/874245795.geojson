@@ -1,0 +1,66 @@
+{
+  "id": 874245795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169107,44.013393,-73.169107,44.013393",
+    "geom:latitude":44.013393,
+    "geom:longitude":-73.169107,
+    "iso:country":"US",
+    "sg:address":"1 Frog Hollow Aly",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 382 9474",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MKrhnmvmWABHVoH85X4nQ_44.013393_-73.169107@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313450,
+    "wof:geomhash":"75b2ff5715d877f0462e77e6f69e8d63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874245795
+        }
+    ],
+    "wof:id":874245795,
+    "wof:lastmodified":1464313450,
+    "wof:name":"4 Dogs & A Wish",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.169107,
+    44.013393,
+    -73.169107,
+    44.013393
+],
+  "geometry": {"coordinates":[-73.169107,44.013393],"type":"Point"}
+}

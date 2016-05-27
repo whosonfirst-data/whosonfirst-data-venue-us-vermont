@@ -1,0 +1,72 @@
+{
+  "id": 874229135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.187939,44.492161,-73.187939,44.492161",
+    "geom:latitude":44.492161,
+    "geom:longitude":-73.187939,
+    "iso:country":"US",
+    "sg:address":"79 Weaver St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 0006",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "agency",
+        "adoption"
+    ],
+    "sg:website":"www.vtcas.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Obqws25IcOhYI6zev8A04_44.492161_-73.187939@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313152,
+    "wof:geomhash":"e3823f8dd7c027fe05518c27e8acdfa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874229135
+        }
+    ],
+    "wof:id":874229135,
+    "wof:lastmodified":1464313152,
+    "wof:name":"Vermont Children's Aid Society",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "adoption"
+    ]
+},
+  "bbox": [
+    -73.187939,
+    44.492161,
+    -73.187939,
+    44.492161
+],
+  "geometry": {"coordinates":[-73.187939,44.492161],"type":"Point"}
+}

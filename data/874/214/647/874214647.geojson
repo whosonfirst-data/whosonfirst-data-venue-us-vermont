@@ -1,0 +1,69 @@
+{
+  "id": 874214647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.195052,43.759614,-73.195052,43.759614",
+    "geom:latitude":43.759614,
+    "geom:longitude":-73.195052,
+    "iso:country":"US",
+    "sg:address":"5672 State Rte 30",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 273 2582",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78quk3BrzfEz6FdFVPJkAP_43.759614_-73.195052@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313001,
+    "wof:geomhash":"c07897b621c7aa6c592e1b89be303f18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874214647
+        }
+    ],
+    "wof:id":874214647,
+    "wof:lastmodified":1464313001,
+    "wof:name":"Lakeside Beauty & Image Salon",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.195052,
+    43.759614,
+    -73.195052,
+    43.759614
+],
+  "geometry": {"coordinates":[-73.195052,43.759614],"type":"Point"}
+}

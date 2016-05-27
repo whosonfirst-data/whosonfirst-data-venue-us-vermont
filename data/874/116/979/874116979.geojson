@@ -1,0 +1,71 @@
+{
+  "id": 874116979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.5571,42.868338,-72.5571,42.868338",
+    "geom:latitude":42.868338,
+    "geom:longitude":-72.5571,
+    "iso:country":"US",
+    "sg:address":"698 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 5400",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "garment",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MQyG67klS0E3gfZxlFy4n_42.868338_-72.557100@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312006,
+    "wof:geomhash":"10b32cb9371811d2d6378c12f1382d86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874116979
+        }
+    ],
+    "wof:id":874116979,
+    "wof:lastmodified":1464312006,
+    "wof:name":"Fabricare",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent"
+    ]
+},
+  "bbox": [
+    -72.5571,
+    42.868338,
+    -72.5571,
+    42.868338
+],
+  "geometry": {"coordinates":[-72.55710000000001,42.868338],"type":"Point"}
+}

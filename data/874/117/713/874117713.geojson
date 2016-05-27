@@ -1,0 +1,71 @@
+{
+  "id": 874117713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.207493,44.458523,-73.207493,44.458523",
+    "geom:latitude":44.458523,
+    "geom:longitude":-73.207493,
+    "iso:country":"US",
+    "sg:address":"45 Clymer St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 4812",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "publisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75nlDlVwK5Zmxb42SA1EPW_44.458523_-73.207493@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312013,
+    "wof:geomhash":"4460e6d0b21391e85eccf995f03f70d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874117713
+        }
+    ],
+    "wof:id":874117713,
+    "wof:lastmodified":1464312013,
+    "wof:name":"Evergreen Press",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher"
+    ]
+},
+  "bbox": [
+    -73.207493,
+    44.458523,
+    -73.207493,
+    44.458523
+],
+  "geometry": {"coordinates":[-73.207493,44.458523],"type":"Point"}
+}

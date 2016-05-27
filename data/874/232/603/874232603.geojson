@@ -1,0 +1,71 @@
+{
+  "id": 874232603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.10661,44.427402,-72.10661,44.427402",
+    "geom:latitude":44.427402,
+    "geom:longitude":-72.10661,
+    "iso:country":"US",
+    "sg:address":"12 State Rte 2b",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 3300",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mqZzlvqYQJRD3Mbe2t6GA_44.427402_-72.106610@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313194,
+    "wof:geomhash":"4ab5f3ebcf4b662d49f700dca6bc3da8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874232603
+        }
+    ],
+    "wof:id":874232603,
+    "wof:lastmodified":1464313194,
+    "wof:name":"Danville Variety",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.10661,
+    44.427402,
+    -72.10661,
+    44.427402
+],
+  "geometry": {"coordinates":[-72.10661,44.427402],"type":"Point"}
+}

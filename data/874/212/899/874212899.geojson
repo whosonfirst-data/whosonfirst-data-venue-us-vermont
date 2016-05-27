@@ -1,0 +1,79 @@
+{
+  "id": 874212899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.060669,43.173708,-73.060669,43.173708",
+    "geom:latitude":43.173708,
+    "geom:longitude":-73.060669,
+    "iso:country":"US",
+    "sg:address":"4574 Main St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 0233",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832067,
+        102191575,
+        404527469,
+        85633793,
+        101728291,
+        102087439,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y8hBcZpNNFPreHGPsZzld_43.173708_-73.060669@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312983,
+    "wof:geomhash":"249c4d7f48850d3f6fc4ec4d7e6de7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087439,
+            "localadmin_id":404527469,
+            "locality_id":101728291,
+            "neighbourhood_id":85832067,
+            "region_id":85688763,
+            "venue_id":874212899
+        }
+    ],
+    "wof:id":874212899,
+    "wof:lastmodified":1464312983,
+    "wof:name":"Women's Golf Shop",
+    "wof:parent_id":85832067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ]
+},
+  "bbox": [
+    -73.060669,
+    43.173708,
+    -73.060669,
+    43.173708
+],
+  "geometry": {"coordinates":[-73.060669,43.173708],"type":"Point"}
+}

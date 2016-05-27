@@ -1,0 +1,69 @@
+{
+  "id": 874198549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.25088,44.168326,-73.25088,44.168326",
+    "geom:latitude":44.168326,
+    "geom:longitude":-73.25088,
+    "iso:country":"US",
+    "sg:address":"141 Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 6873",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LJrCmGx578BySCaHnNlAK_44.168326_-73.250880@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312830,
+    "wof:geomhash":"e6154d6b4c8341d77f0662cc25618fce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874198549
+        }
+    ],
+    "wof:id":874198549,
+    "wof:lastmodified":1464312830,
+    "wof:name":"Luigi's Italian Specialties",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.25088,
+    44.168326,
+    -73.25088,
+    44.168326
+],
+  "geometry": {"coordinates":[-73.25088,44.168326],"type":"Point"}
+}

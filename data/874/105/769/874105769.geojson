@@ -1,0 +1,71 @@
+{
+  "id": 874105769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.115223,43.952121,-73.115223,43.952121",
+    "geom:latitude":43.952121,
+    "geom:longitude":-73.115223,
+    "iso:country":"US",
+    "sg:address":"293 US Hwy 7",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7070",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69X8kN7PYrj99BFEYdTMiy_43.952121_-73.115223@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311866,
+    "wof:geomhash":"801f91a568e3fe7ddf01f29e517093bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874105769
+        }
+    ],
+    "wof:id":874105769,
+    "wof:lastmodified":1464311866,
+    "wof:name":"Renfrew's Automotive",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.115223,
+    43.952121,
+    -73.115223,
+    43.952121
+],
+  "geometry": {"coordinates":[-73.115223,43.952121],"type":"Point"}
+}

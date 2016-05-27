@@ -1,0 +1,73 @@
+{
+  "id": 874099983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.160433,44.006284,-73.160433,44.006284",
+    "geom:latitude":44.006284,
+    "geom:longitude":-73.160433,
+    "iso:country":"US",
+    "sg:address":"318 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7524",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N0AdJ3LFqLlWPOxetEIK3_44.006284_-73.160433@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311792,
+    "wof:geomhash":"f95fafe8a9a4dfcd4629ae9e07e65a3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874099983
+        }
+    ],
+    "wof:id":874099983,
+    "wof:lastmodified":1464311792,
+    "wof:name":"Route 7 Car Wash",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -73.160433,
+    44.006284,
+    -73.160433,
+    44.006284
+],
+  "geometry": {"coordinates":[-73.160433,44.006284],"type":"Point"}
+}

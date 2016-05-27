@@ -1,0 +1,71 @@
+{
+  "id": 874040671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.168157,44.013735,-73.168157,44.013735",
+    "geom:latitude":44.013735,
+    "geom:longitude":-73.168157,
+    "iso:country":"US",
+    "sg:address":"11 Merchants Row",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 6776",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lnfv01kGSw34AB1kFPfPL_44.013735_-73.168157@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311150,
+    "wof:geomhash":"747f652373fd7b0eb5849c78d139629c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874040671
+        }
+    ],
+    "wof:id":874040671,
+    "wof:lastmodified":1464311150,
+    "wof:name":"Pizza Cellar Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.168157,
+    44.013735,
+    -73.168157,
+    44.013735
+],
+  "geometry": {"coordinates":[-73.16815699999999,44.013735],"type":"Point"}
+}

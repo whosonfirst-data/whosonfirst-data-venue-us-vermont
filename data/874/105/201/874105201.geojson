@@ -1,0 +1,77 @@
+{
+  "id": 874105201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.793666,44.94987,-72.793666,44.94987",
+    "geom:latitude":44.94987,
+    "geom:longitude":-72.793666,
+    "iso:country":"US",
+    "sg:address":"2437 Water Tower Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 2560",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "shop",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EONCK7ubMppjVLSdmsS0z_44.949870_-72.793666@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311859,
+    "wof:geomhash":"26f873aeb22e697df710f7f0d6c57210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874105201
+        }
+    ],
+    "wof:id":874105201,
+    "wof:lastmodified":1464311859,
+    "wof:name":"Dulude's Body Shop",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "shop",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.793666,
+    44.94987,
+    -72.793666,
+    44.94987
+],
+  "geometry": {"coordinates":[-72.793666,44.94987],"type":"Point"}
+}

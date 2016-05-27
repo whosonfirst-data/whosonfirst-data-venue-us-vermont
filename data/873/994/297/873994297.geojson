@@ -1,0 +1,71 @@
+{
+  "id": 873994297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204524,44.401032,-73.204524,44.401032",
+    "geom:latitude":44.401032,
+    "geom:longitude":-73.204524,
+    "iso:country":"US",
+    "sg:address":"70 Pierson Dr",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 734 1386",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OmfheXX5vHmmNfQ77PiAt_44.401032_-73.204524@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310721,
+    "wof:geomhash":"bd1029a8f4f19a5e94e721f712ec2c02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873994297
+        }
+    ],
+    "wof:id":873994297,
+    "wof:lastmodified":1464310721,
+    "wof:name":"Shelburne Vineyard",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -73.204524,
+    44.401032,
+    -73.204524,
+    44.401032
+],
+  "geometry": {"coordinates":[-73.20452400000001,44.401032],"type":"Point"}
+}

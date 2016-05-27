@@ -1,0 +1,69 @@
+{
+  "id": 874113217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.979771,43.606517,-72.979771,43.606517",
+    "geom:latitude":43.606517,
+    "geom:longitude":-72.979771,
+    "iso:country":"US",
+    "sg:address":"37 Center St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 8560",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5euYzUUUdqwi4CdUtWuyk5_43.606517_-72.979771@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311969,
+    "wof:geomhash":"dd027a38d516a6639f1d2edec52c4e1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874113217
+        }
+    ],
+    "wof:id":874113217,
+    "wof:lastmodified":1464311969,
+    "wof:name":"Something Sweet",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [
+    -72.979771,
+    43.606517,
+    -72.979771,
+    43.606517
+],
+  "geometry": {"coordinates":[-72.979771,43.606517],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874185457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.486414,44.172411,-72.486414,44.172411",
+    "geom:latitude":44.172411,
+    "geom:longitude":-72.486414,
+    "iso:country":"US",
+    "sg:address":"69 Pitman Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3341",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bD2ZNG8HIb6lS0o4JbBYV_44.172411_-72.486414@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312695,
+    "wof:geomhash":"a102f15561876641940f246946945b30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874185457
+        }
+    ],
+    "wof:id":874185457,
+    "wof:lastmodified":1464312695,
+    "wof:name":"Maine Drilling & Blasting Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.486414,
+    44.172411,
+    -72.486414,
+    44.172411
+],
+  "geometry": {"coordinates":[-72.486414,44.172411],"type":"Point"}
+}

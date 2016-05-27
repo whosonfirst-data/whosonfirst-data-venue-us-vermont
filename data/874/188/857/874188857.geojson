@@ -1,0 +1,75 @@
+{
+  "id": 874188857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205142,44.473252,-73.205142,44.473252",
+    "geom:latitude":44.473252,
+    "geom:longitude":-73.205142,
+    "iso:country":"US",
+    "sg:address":"270 S Willard St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 4397",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mhbTx2puKDS1GpNJ3h2la_44.473252_-73.205142@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312730,
+    "wof:geomhash":"7263a85718d7f6c704dab664a9e40563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874188857
+        }
+    ],
+    "wof:id":874188857,
+    "wof:lastmodified":1464312730,
+    "wof:name":"Bygone Books",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.205142,
+    44.473252,
+    -73.205142,
+    44.473252
+],
+  "geometry": {"coordinates":[-73.205142,44.473252],"type":"Point"}
+}

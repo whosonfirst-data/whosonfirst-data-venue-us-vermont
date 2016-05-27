@@ -1,0 +1,71 @@
+{
+  "id": 874147305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.544593,44.242617,-72.544593,44.242617",
+    "geom:latitude":44.242617,
+    "geom:longitude":-72.544593,
+    "iso:country":"US",
+    "sg:address":"456 E Montpelier Rd",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 2801",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "furnace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qvpO4ErcO87u3EpF9DtcY_44.242617_-72.544593@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312305,
+    "wof:geomhash":"9510011d47be08f3eddb766446142bba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874147305
+        }
+    ],
+    "wof:id":874147305,
+    "wof:lastmodified":1464312305,
+    "wof:name":"Sam Daniels Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnace"
+    ]
+},
+  "bbox": [
+    -72.544593,
+    44.242617,
+    -72.544593,
+    44.242617
+],
+  "geometry": {"coordinates":[-72.54459300000001,44.242617],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874046105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08267,43.794534,-73.08267,43.794534",
+    "geom:latitude":43.794534,
+    "geom:longitude":-73.08267,
+    "iso:country":"US",
+    "sg:address":"39 Carver St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 8188",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A2vpIedZ8GzljqvEAvVOZ_43.794534_-73.082670@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311208,
+    "wof:geomhash":"950223de7fc7c3b7ccbccb03c7b54dcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874046105
+        }
+    ],
+    "wof:id":874046105,
+    "wof:lastmodified":1464311208,
+    "wof:name":"Daily Bread Delivery Services",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.08267,
+    43.794534,
+    -73.08267,
+    43.794534
+],
+  "geometry": {"coordinates":[-73.08266999999999,43.794534],"type":"Point"}
+}

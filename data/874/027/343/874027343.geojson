@@ -1,0 +1,73 @@
+{
+  "id": 874027343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.493244,44.201148,-72.493244,44.201148",
+    "geom:latitude":44.201148,
+    "geom:longitude":-72.493244,
+    "iso:country":"US",
+    "sg:address":"15 Onward St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6974",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TIifcGl78GDT9iEAZLt3g_44.201148_-72.493244@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311019,
+    "wof:geomhash":"66ff00c6dc6850704d4b1a54821a5e59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874027343
+        }
+    ],
+    "wof:id":874027343,
+    "wof:lastmodified":1464311019,
+    "wof:name":"Bert Fuller Plumbing & Htg Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.493244,
+    44.201148,
+    -72.493244,
+    44.201148
+],
+  "geometry": {"coordinates":[-72.493244,44.201148],"type":"Point"}
+}

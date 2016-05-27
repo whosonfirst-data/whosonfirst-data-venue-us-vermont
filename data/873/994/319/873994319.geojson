@@ -1,0 +1,73 @@
+{
+  "id": 873994319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.136447,44.790747,-73.136447,44.790747",
+    "geom:latitude":44.790747,
+    "geom:longitude":-73.136447,
+    "iso:country":"US",
+    "sg:address":"6662 Georgia Shore Rd",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 6885",
+    "sg:postcode":"05478",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85833735,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_034efHmNHWyyHxKrahr5dv_44.790747_-73.136447@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310721,
+    "wof:geomhash":"bb8f68077e0e97bf56aa17d90958d7b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85833735,
+            "region_id":85688763,
+            "venue_id":873994319
+        }
+    ],
+    "wof:id":873994319,
+    "wof:lastmodified":1464310721,
+    "wof:name":"Pelletier's Body Shop",
+    "wof:parent_id":85833735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -73.136447,
+    44.790747,
+    -73.136447,
+    44.790747
+],
+  "geometry": {"coordinates":[-73.136447,44.790747],"type":"Point"}
+}

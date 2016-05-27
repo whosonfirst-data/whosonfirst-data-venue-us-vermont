@@ -1,0 +1,76 @@
+{
+  "id": 874254359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.832802,44.6441,-72.832802,44.6441",
+    "geom:latitude":44.6441,
+    "geom:longitude":-72.832802,
+    "iso:country":"US",
+    "sg:address":"134 Church St # 101",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bicycle Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8182",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JxZ7D4Jl4cNszgUElW833_44.644100_-72.832802@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313654,
+    "wof:geomhash":"6b661e538b4a0326e5f721675d36e378",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874254359
+        }
+    ],
+    "wof:id":874254359,
+    "wof:lastmodified":1464313654,
+    "wof:name":"Foot of the Notch Bicycles",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -72.832802,
+    44.6441,
+    -72.832802,
+    44.6441
+],
+  "geometry": {"coordinates":[-72.832802,44.6441],"type":"Point"}
+}

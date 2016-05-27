@@ -1,0 +1,73 @@
+{
+  "id": 874241605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.502785,44.175133,-72.502785,44.175133",
+    "geom:latitude":44.175133,
+    "geom:longitude":-72.502785,
+    "iso:country":"US",
+    "sg:address":"3 Sterling Hill Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2045",
+    "sg:postcode":"05670",
+    "sg:province":"VT",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cCPpIcimzewN1UBu3gIQS_44.175133_-72.502785@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313370,
+    "wof:geomhash":"1775146910b038111f9b33322864d54b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874241605
+        }
+    ],
+    "wof:id":874241605,
+    "wof:lastmodified":1464313370,
+    "wof:name":"M & M Beverage Ctr",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -72.502785,
+    44.175133,
+    -72.502785,
+    44.175133
+],
+  "geometry": {"coordinates":[-72.502785,44.175133],"type":"Point"}
+}

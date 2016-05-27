@@ -1,0 +1,69 @@
+{
+  "id": 874124435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.002659,44.427873,-72.002659,44.427873",
+    "geom:latitude":44.427873,
+    "geom:longitude":-72.002659,
+    "iso:country":"US",
+    "sg:address":"5 Morgan Cir",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 6588",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rpkHRO9Ayk6rt2zw8XAZS_44.427873_-72.002659@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312080,
+    "wof:geomhash":"6f2d7c96a4674c192fc63a9c96f039c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874124435
+        }
+    ],
+    "wof:id":874124435,
+    "wof:lastmodified":1464312080,
+    "wof:name":"Murphy Construction",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.002659,
+    44.427873,
+    -72.002659,
+    44.427873
+],
+  "geometry": {"coordinates":[-72.00265899999999,44.427873],"type":"Point"}
+}

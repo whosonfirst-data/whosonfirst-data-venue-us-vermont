@@ -1,0 +1,73 @@
+{
+  "id": 874147605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212627,44.479125,-73.212627,44.479125",
+    "geom:latitude":44.479125,
+    "geom:longitude":-73.212627,
+    "iso:country":"US",
+    "sg:address":"70 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 846 2550",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pXAbHn45vyocX6ZlbhfwR_44.479125_-73.212627@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312307,
+    "wof:geomhash":"a5d02f0603d045e3e4104f03a90e7a49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874147605
+        }
+    ],
+    "wof:id":874147605,
+    "wof:lastmodified":1464312307,
+    "wof:name":"Global Works Systems",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -73.212627,
+    44.479125,
+    -73.212627,
+    44.479125
+],
+  "geometry": {"coordinates":[-73.212627,44.479125],"type":"Point"}
+}

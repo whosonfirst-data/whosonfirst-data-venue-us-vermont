@@ -1,0 +1,71 @@
+{
+  "id": 874130863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.494245,44.192353,-72.494245,44.192353",
+    "geom:latitude":44.192353,
+    "geom:longitude":-72.494245,
+    "iso:country":"US",
+    "sg:address":"58 Webster St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 9878",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KCPaUXOfXvheeb4gmdxfz_44.192353_-72.494245@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312148,
+    "wof:geomhash":"728aa20c3bc67b012e66470ea5c80d40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874130863
+        }
+    ],
+    "wof:id":874130863,
+    "wof:lastmodified":1464312148,
+    "wof:name":"Deborah Alicen PHD",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -72.494245,
+    44.192353,
+    -72.494245,
+    44.192353
+],
+  "geometry": {"coordinates":[-72.49424500000001,44.192353],"type":"Point"}
+}

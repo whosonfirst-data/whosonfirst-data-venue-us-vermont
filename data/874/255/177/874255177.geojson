@@ -1,0 +1,74 @@
+{
+  "id": 874255177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.253983,44.167049,-73.253983,44.167049",
+    "geom:latitude":44.167049,
+    "geom:longitude":-73.253983,
+    "iso:country":"US",
+    "sg:address":"2 S Water St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2416",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "super"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GOrdY5jsXK3arypmj682y_44.167049_-73.253983@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313679,
+    "wof:geomhash":"7d7eb2650443ae16a60cb4c1cd71057c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874255177
+        }
+    ],
+    "wof:id":874255177,
+    "wof:lastmodified":1464313679,
+    "wof:name":"Small City Market",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super"
+    ]
+},
+  "bbox": [
+    -73.253983,
+    44.167049,
+    -73.253983,
+    44.167049
+],
+  "geometry": {"coordinates":[-73.25398300000001,44.167049],"type":"Point"}
+}

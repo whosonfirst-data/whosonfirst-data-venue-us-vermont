@@ -1,0 +1,71 @@
+{
+  "id": 874169957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213282,44.479354,-73.213282,44.479354",
+    "geom:latitude":44.479354,
+    "geom:longitude":-73.213282,
+    "iso:country":"US",
+    "sg:address":"108 Cherry St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 652 4180",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nH9tjNhlrd4N0irlTY3hE_44.479354_-73.213282@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312526,
+    "wof:geomhash":"2303d685eb8b67f60c740427efe12ea4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874169957
+        }
+    ],
+    "wof:id":874169957,
+    "wof:lastmodified":1464312526,
+    "wof:name":"VT Dept of Health Cph",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -73.213282,
+    44.479354,
+    -73.213282,
+    44.479354
+],
+  "geometry": {"coordinates":[-73.21328200000001,44.479354],"type":"Point"}
+}

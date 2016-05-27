@@ -1,0 +1,73 @@
+{
+  "id": 874241553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.140599,44.410984,-72.140599,44.410984",
+    "geom:latitude":44.410984,
+    "geom:longitude":-72.140599,
+    "iso:country":"US",
+    "sg:address":"84 Park St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 3903",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dsUBxqaWLuhMJgc6X5NP2_44.410984_-72.140599@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313369,
+    "wof:geomhash":"be9a37693b9b8356e29746e9735a25f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874241553
+        }
+    ],
+    "wof:id":874241553,
+    "wof:lastmodified":1464313369,
+    "wof:name":"Danville Senior Citizens Meal",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -72.140599,
+    44.410984,
+    -72.140599,
+    44.410984
+],
+  "geometry": {"coordinates":[-72.14059899999999,44.410984],"type":"Point"}
+}

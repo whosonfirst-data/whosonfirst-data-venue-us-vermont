@@ -1,0 +1,69 @@
+{
+  "id": 874229189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.941301,44.436278,-71.941301,44.436278",
+    "geom:latitude":44.436278,
+    "geom:longitude":-71.941301,
+    "iso:country":"US",
+    "sg:address":"121 E Village Rd",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 334 5929",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LyiQcgIg6TiGGE12QAiFw_44.436278_-71.941301@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313152,
+    "wof:geomhash":"7c8ef10aaa8dc4f94537dec95f9148fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874229189
+        }
+    ],
+    "wof:id":874229189,
+    "wof:lastmodified":1464313152,
+    "wof:name":"Newport Pediatrics & Adolescen",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.941301,
+    44.436278,
+    -71.941301,
+    44.436278
+],
+  "geometry": {"coordinates":[-71.941301,44.436278],"type":"Point"}
+}

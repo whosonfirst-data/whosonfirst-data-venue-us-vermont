@@ -1,0 +1,67 @@
+{
+  "id": 874107123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.42931,43.655446,-72.42931,43.655446",
+    "geom:latitude":43.655446,
+    "geom:longitude":-72.42931,
+    "iso:country":"US",
+    "sg:address":"1996 Quechee Main St",
+    "sg:city":"Quechee",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 1160",
+    "sg:postcode":"05059",
+    "sg:province":"VT",
+    "sg:website":"www.cbredpath.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kGrC7MHHYnpucdPpGxzHZ_43.655446_-72.429310@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311884,
+    "wof:geomhash":"db815ed4f2de84ee657121304f420eeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874107123
+        }
+    ],
+    "wof:id":874107123,
+    "wof:lastmodified":1464311884,
+    "wof:name":"Coldwell Banker Redpath & Co",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.42931,
+    43.655446,
+    -72.42931,
+    43.655446
+],
+  "geometry": {"coordinates":[-72.42931,43.655446],"type":"Point"}
+}

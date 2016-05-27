@@ -1,0 +1,71 @@
+{
+  "id": 874002707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.629211,44.546323,-72.629211,44.546323",
+    "geom:latitude":44.546323,
+    "geom:longitude":-72.629211,
+    "iso:country":"US",
+    "sg:address":"2103 Stagecoach Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 6576",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "property",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WLzrz0Tf2nv6GZq30PJnn_44.546323_-72.629211@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310788,
+    "wof:geomhash":"ae0a30d0752cf249de6ebb2082a3aa5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874002707
+        }
+    ],
+    "wof:id":874002707,
+    "wof:lastmodified":1464310788,
+    "wof:name":"Martin Werth Property Mntnc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.629211,
+    44.546323,
+    -72.629211,
+    44.546323
+],
+  "geometry": {"coordinates":[-72.629211,44.546323],"type":"Point"}
+}

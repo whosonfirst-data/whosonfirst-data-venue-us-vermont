@@ -1,0 +1,73 @@
+{
+  "id": 874230077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.12607,44.432245,-73.12607,44.432245",
+    "geom:latitude":44.432245,
+    "geom:longitude":-73.12607,
+    "iso:country":"US",
+    "sg:address":"74 Lacasse Ln",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 8390",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sNL7WlidWACCXSDFMuOW5_44.432245_-73.126070@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313161,
+    "wof:geomhash":"d016656086fc757954e7856c42209ab9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874230077
+        }
+    ],
+    "wof:id":874230077,
+    "wof:lastmodified":1464313161,
+    "wof:name":"Garys Dlvry Anything Anywhere",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.12607,
+    44.432245,
+    -73.12607,
+    44.432245
+],
+  "geometry": {"coordinates":[-73.12607,44.432245],"type":"Point"}
+}

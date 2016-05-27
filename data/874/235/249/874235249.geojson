@@ -1,0 +1,69 @@
+{
+  "id": 874235249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.226574,44.383113,-73.226574,44.383113",
+    "geom:latitude":44.383113,
+    "geom:longitude":-73.226574,
+    "iso:country":"US",
+    "sg:address":"5138 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 3170",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yg3NCMuvcScf6OSEZSPSC_44.383113_-73.226574@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313245,
+    "wof:geomhash":"c9e60535256825ace15e7fdbb2be837d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874235249
+        }
+    ],
+    "wof:id":874235249,
+    "wof:lastmodified":1464313245,
+    "wof:name":"BTV Destination Press",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -73.226574,
+    44.383113,
+    -73.226574,
+    44.383113
+],
+  "geometry": {"coordinates":[-73.226574,44.383113],"type":"Point"}
+}

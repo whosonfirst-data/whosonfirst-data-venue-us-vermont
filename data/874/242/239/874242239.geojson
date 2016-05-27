@@ -1,0 +1,73 @@
+{
+  "id": 874242239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.505048,44.2002,-72.505048,44.2002",
+    "geom:latitude":44.2002,
+    "geom:longitude":-72.505048,
+    "iso:country":"US",
+    "sg:address":"241 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9621",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ccpP304mEtCOmlzMmbIpy_44.200200_-72.505048@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313381,
+    "wof:geomhash":"da5f53496d167de1e303b67a417b0fe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874242239
+        }
+    ],
+    "wof:id":874242239,
+    "wof:lastmodified":1464313381,
+    "wof:name":"Paramount Theater",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -72.505048,
+    44.2002,
+    -72.505048,
+    44.2002
+],
+  "geometry": {"coordinates":[-72.505048,44.2002],"type":"Point"}
+}

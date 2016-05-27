@@ -1,0 +1,77 @@
+{
+  "id": 874256035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.981951,43.607347,-72.981951,43.607347",
+    "geom:latitude":43.607347,
+    "geom:longitude":-72.981951,
+    "iso:country":"US",
+    "sg:address":"25 Evelyn St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 786 2151",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "agency",
+        "railroads-ticket"
+    ],
+    "sg:website":"http://www.amtrak.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aBVRIHNytPnUtXu9REbj6_43.607347_-72.981951@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313697,
+    "wof:geomhash":"04211d2790f1b795f2dd2aec49fc93ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874256035
+        }
+    ],
+    "wof:id":874256035,
+    "wof:lastmodified":1464313697,
+    "wof:name":"Amtrak",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "railroads-ticket"
+    ]
+},
+  "bbox": [
+    -72.981951,
+    43.607347,
+    -72.981951,
+    43.607347
+],
+  "geometry": {"coordinates":[-72.981951,43.607347],"type":"Point"}
+}

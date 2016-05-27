@@ -1,0 +1,73 @@
+{
+  "id": 873985667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.183425,44.487562,-73.183425,44.487562",
+    "geom:latitude":44.487562,
+    "geom:longitude":-73.183425,
+    "iso:country":"US",
+    "sg:address":"69 Chase St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 6571",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZiNGJv7D22GS2pQadZqxO_44.487562_-73.183425@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310654,
+    "wof:geomhash":"78232da21c767645947a1adebeda134e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873985667
+        }
+    ],
+    "wof:id":873985667,
+    "wof:lastmodified":1464310654,
+    "wof:name":"Burlington Mortgage",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -73.183425,
+    44.487562,
+    -73.183425,
+    44.487562
+],
+  "geometry": {"coordinates":[-73.183425,44.487562],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874107241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.972286,43.608728,-72.972286,43.608728",
+    "geom:latitude":43.608728,
+    "geom:longitude":-72.972286,
+    "iso:country":"US",
+    "sg:address":"2 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 6000",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AKCUVGZvyaT1gMw3mA0hm_43.608728_-72.972286@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311885,
+    "wof:geomhash":"42d4037bd5a8e460e889993216be434c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874107241
+        }
+    ],
+    "wof:id":874107241,
+    "wof:lastmodified":1464311885,
+    "wof:name":"Lindholm Sport Center Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -72.972286,
+    43.608728,
+    -72.972286,
+    43.608728
+],
+  "geometry": {"coordinates":[-72.972286,43.608728],"type":"Point"}
+}

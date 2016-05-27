@@ -1,0 +1,69 @@
+{
+  "id": 874019999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.007378,44.428847,-72.007378,44.428847",
+    "geom:latitude":44.428847,
+    "geom:longitude":-72.007378,
+    "iso:country":"US",
+    "sg:address":"64 Farmer Dr",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 0142",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q1EBiBwIYXz1pPVrmtU0a_44.428847_-72.007378@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310948,
+    "wof:geomhash":"d9a96e6a2a12eddb8d171faf52163734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874019999
+        }
+    ],
+    "wof:id":874019999,
+    "wof:lastmodified":1464310948,
+    "wof:name":"Gracies Beauty Shop",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.007378,
+    44.428847,
+    -72.007378,
+    44.428847
+],
+  "geometry": {"coordinates":[-72.007378,44.428847],"type":"Point"}
+}

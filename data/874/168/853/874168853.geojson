@@ -1,0 +1,71 @@
+{
+  "id": 874168853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.2587,44.165997,-73.2587,44.165997",
+    "geom:latitude":44.165997,
+    "geom:longitude":-73.2587,
+    "iso:country":"US",
+    "sg:address":"22 West St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3858",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TO8xapgNtE3oVDNEb4vr3_44.165997_-73.258700@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312516,
+    "wof:geomhash":"c588c1ac35aac0417ca9daab5d1151dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874168853
+        }
+    ],
+    "wof:id":874168853,
+    "wof:lastmodified":1464312516,
+    "wof:name":"Auto Creek Inc",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.2587,
+    44.165997,
+    -73.2587,
+    44.165997
+],
+  "geometry": {"coordinates":[-73.2587,44.165997],"type":"Point"}
+}

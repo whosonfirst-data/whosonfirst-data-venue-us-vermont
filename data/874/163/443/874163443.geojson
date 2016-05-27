@@ -1,0 +1,73 @@
+{
+  "id": 874163443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209662,44.483647,-73.209662,44.483647",
+    "geom:latitude":44.483647,
+    "geom:longitude":-73.209662,
+    "iso:country":"US",
+    "sg:address":"137 N Union St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 0643",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NfsxHdUD3jbXV1CZ5iBSB_44.483647_-73.209662@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312464,
+    "wof:geomhash":"2dc2e59ddb8079126044b286ec37ee4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874163443
+        }
+    ],
+    "wof:id":874163443,
+    "wof:lastmodified":1464312464,
+    "wof:name":"G Dinkel Carpentry",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.209662,
+    44.483647,
+    -73.209662,
+    44.483647
+],
+  "geometry": {"coordinates":[-73.20966199999999,44.483647],"type":"Point"}
+}

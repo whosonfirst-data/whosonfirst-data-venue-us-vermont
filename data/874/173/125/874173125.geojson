@@ -1,0 +1,71 @@
+{
+  "id": 874173125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.016841,44.335437,-73.016841,44.335437",
+    "geom:latitude":44.335437,
+    "geom:longitude":-73.016841,
+    "iso:country":"US",
+    "sg:address":"850 Texas Hill Cir",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 8104",
+    "sg:postcode":"05462",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sewing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Fgup96ceTVkqxbQoIoU2K_44.335437_-73.016841@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312559,
+    "wof:geomhash":"13e19396a4c288d6059a34e2b59b6c52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874173125
+        }
+    ],
+    "wof:id":874173125,
+    "wof:lastmodified":1464312559,
+    "wof:name":"Texas Hill Sewing",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.016841,
+    44.335437,
+    -73.016841,
+    44.335437
+],
+  "geometry": {"coordinates":[-73.016841,44.335437],"type":"Point"}
+}

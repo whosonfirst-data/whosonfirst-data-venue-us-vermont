@@ -1,0 +1,71 @@
+{
+  "id": 874034287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.951337,43.610651,-72.951337,43.610651",
+    "geom:latitude":43.610651,
+    "geom:longitude":-72.951337,
+    "iso:country":"US",
+    "sg:address":"18 Catherine Dr",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 8836",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "marketing",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HlVVCleLq5zeF8nGS42lX_43.610651_-72.951337@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311088,
+    "wof:geomhash":"1a4d16d2065ca36555eb28845105c500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874034287
+        }
+    ],
+    "wof:id":874034287,
+    "wof:lastmodified":1464311088,
+    "wof:name":"Beyond Marketing",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -72.951337,
+    43.610651,
+    -72.951337,
+    43.610651
+],
+  "geometry": {"coordinates":[-72.951337,43.610651],"type":"Point"}
+}

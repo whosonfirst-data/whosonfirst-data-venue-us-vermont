@@ -1,0 +1,71 @@
+{
+  "id": 874176645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.778378,44.684017,-72.778378,44.684017",
+    "geom:latitude":44.684017,
+    "geom:longitude":-72.778378,
+    "iso:country":"US",
+    "sg:address":"97 Marsh Rd",
+    "sg:city":"Waterville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8831",
+    "sg:postcode":"05492",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BJREzeMjH1ZJoR0DFicll_44.684017_-72.778378@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312593,
+    "wof:geomhash":"a182cec08ed1fff0606bc2c20158b74e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874176645
+        }
+    ],
+    "wof:id":874176645,
+    "wof:lastmodified":1464312593,
+    "wof:name":"Dans Plumbing & Heating",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.778378,
+    44.684017,
+    -72.778378,
+    44.684017
+],
+  "geometry": {"coordinates":[-72.778378,44.684017],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874017043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.987427,43.314576,-72.987427,43.314576",
+    "geom:latitude":43.314576,
+    "geom:longitude":-72.987427,
+    "iso:country":"US",
+    "sg:address":"352 S End Rd",
+    "sg:city":"Danby",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 293 5378",
+    "sg:postcode":"05739",
+    "sg:province":"VT",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MeMdlc06N4Sici3w80UnM_43.314576_-72.987427@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310913,
+    "wof:geomhash":"8d3f1ca1047ac3439a411045ce4ddb6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874017043
+        }
+    ],
+    "wof:id":874017043,
+    "wof:lastmodified":1464310913,
+    "wof:name":"Blow Hill Maple Products",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.987427,
+    43.314576,
+    -72.987427,
+    43.314576
+],
+  "geometry": {"coordinates":[-72.987427,43.314576],"type":"Point"}
+}

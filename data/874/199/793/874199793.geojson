@@ -1,0 +1,71 @@
+{
+  "id": 874199793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167927,44.014435,-73.167927,44.014435",
+    "geom:latitude":44.014435,
+    "geom:longitude":-73.167927,
+    "iso:country":"US",
+    "sg:address":"38 Main St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2061",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RJ4uwehx1qPFcXC5qEFal_44.014435_-73.167927@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312841,
+    "wof:geomhash":"f1f897d0a27d7a73504bfdeea6b91838",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874199793
+        }
+    ],
+    "wof:id":874199793,
+    "wof:lastmodified":1464312841,
+    "wof:name":"Vermont Book Shop Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.167927,
+    44.014435,
+    -73.167927,
+    44.014435
+],
+  "geometry": {"coordinates":[-73.16792700000001,44.014435],"type":"Point"}
+}

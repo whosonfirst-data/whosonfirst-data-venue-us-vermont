@@ -1,0 +1,69 @@
+{
+  "id": 874211925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.028459,43.595027,-73.028459,43.595027",
+    "geom:latitude":43.595027,
+    "geom:longitude":-73.028459,
+    "iso:country":"US",
+    "sg:address":"385 Rutland Rd",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 2961",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34JksLr6CKu0X4smn2ocN0_43.595027_-73.028459@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312973,
+    "wof:geomhash":"d76758d65240ac37fa8199bae807a07e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874211925
+        }
+    ],
+    "wof:id":874211925,
+    "wof:lastmodified":1464312973,
+    "wof:name":"Town-West Rutland Pump Station",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -73.028459,
+    43.595027,
+    -73.028459,
+    43.595027
+],
+  "geometry": {"coordinates":[-73.028459,43.595027],"type":"Point"}
+}

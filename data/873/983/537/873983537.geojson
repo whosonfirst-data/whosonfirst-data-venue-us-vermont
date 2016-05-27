@@ -1,0 +1,75 @@
+{
+  "id": 873983537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.091416,44.580751,-73.091416,44.580751",
+    "geom:latitude":44.580751,
+    "geom:longitude":-73.091416,
+    "iso:country":"US",
+    "sg:address":"78 Rollin Irish Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 1106",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420545841,
+        102191575,
+        404527495,
+        85633793,
+        101728445,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ld6VMmX3xw2In1gW1x8v8_44.580751_-73.091416@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310638,
+    "wof:geomhash":"d27006d739a374a4f3d2168b6c44ef60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527495,
+            "locality_id":101728445,
+            "neighbourhood_id":420545841,
+            "region_id":85688763,
+            "venue_id":873983537
+        }
+    ],
+    "wof:id":873983537,
+    "wof:lastmodified":1464310638,
+    "wof:name":"Dave's Contractor Sales Inc",
+    "wof:parent_id":420545841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.091416,
+    44.580751,
+    -73.091416,
+    44.580751
+],
+  "geometry": {"coordinates":[-73.091416,44.580751],"type":"Point"}
+}

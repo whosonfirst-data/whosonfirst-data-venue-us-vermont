@@ -1,0 +1,71 @@
+{
+  "id": 874013873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.427294,44.023745,-72.427294,44.023745",
+    "geom:latitude":44.023745,
+    "geom:longitude":-72.427294,
+    "iso:country":"US",
+    "sg:address":"16 Taylor Dr",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 685 4690",
+    "sg:postcode":"05675",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jsc4XL9saFhchehZk3l3s_44.023745_-72.427294@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310882,
+    "wof:geomhash":"d817af201f9a7fef98a4c7b2f9a9eb75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874013873
+        }
+    ],
+    "wof:id":874013873,
+    "wof:lastmodified":1464310882,
+    "wof:name":"Taylor Valley View Farm",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.427294,
+    44.023745,
+    -72.427294,
+    44.023745
+],
+  "geometry": {"coordinates":[-72.427294,44.023745],"type":"Point"}
+}

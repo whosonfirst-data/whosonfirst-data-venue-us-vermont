@@ -1,0 +1,79 @@
+{
+  "id": 874095205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.179508,44.492373,-73.179508,44.492373",
+    "geom:latitude":44.492373,
+    "geom:longitude":-73.179508,
+    "iso:country":"US",
+    "sg:address":"147 E Allen St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 2070",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "made",
+        "for",
+        "home",
+        "mail",
+        "order",
+        "ingredient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GeJE4k3lOw2JJx1p2Qe5Q_44.492373_-73.179508@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311715,
+    "wof:geomhash":"2ed2e7915c0524e365889cf414186f24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874095205
+        }
+    ],
+    "wof:id":874095205,
+    "wof:lastmodified":1464311715,
+    "wof:name":"Vermont Homebrew Supply",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "made",
+        "for",
+        "home",
+        "mail",
+        "order",
+        "ingredient"
+    ]
+},
+  "bbox": [
+    -73.179508,
+    44.492373,
+    -73.179508,
+    44.492373
+],
+  "geometry": {"coordinates":[-73.179508,44.492373],"type":"Point"}
+}

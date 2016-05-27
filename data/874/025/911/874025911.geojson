@@ -1,0 +1,73 @@
+{
+  "id": 874025911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.092835,44.547769,-72.092835,44.547769",
+    "geom:latitude":44.547769,
+    "geom:longitude":-72.092835,
+    "iso:country":"US",
+    "sg:address":"5019 S Wheelock Rd",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 9692",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MGkKJRJJv9mYrhKUZ4HGk_44.547769_-72.092835@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311006,
+    "wof:geomhash":"3af2ae0a2b9aca0b09ae62e0cb17487e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874025911
+        }
+    ],
+    "wof:id":874025911,
+    "wof:lastmodified":1464311006,
+    "wof:name":"Stephan Auto Body",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.092835,
+    44.547769,
+    -72.092835,
+    44.547769
+],
+  "geometry": {"coordinates":[-72.09283499999999,44.547769],"type":"Point"}
+}

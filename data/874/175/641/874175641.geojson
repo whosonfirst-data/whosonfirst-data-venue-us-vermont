@@ -1,0 +1,84 @@
+{
+  "id": 874175641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.226027,44.489195,-73.226027,44.489195",
+    "geom:latitude":44.489195,
+    "geom:longitude":-73.226027,
+    "iso:country":"US",
+    "sg:address":"276 North Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 4591",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "mfg",
+        "appliance",
+        "surgical",
+        "surgeon",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iLiNFUlJfH0LGphHKwbzH_44.489195_-73.226027@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312584,
+    "wof:geomhash":"a54540313a8d1a6add57c191f9dd45a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874175641
+        }
+    ],
+    "wof:id":874175641,
+    "wof:lastmodified":1464312584,
+    "wof:name":"Yankee Medical Inc",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "mfg",
+        "appliance",
+        "surgical",
+        "surgeon",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -73.226027,
+    44.489195,
+    -73.226027,
+    44.489195
+],
+  "geometry": {"coordinates":[-73.226027,44.489195],"type":"Point"}
+}

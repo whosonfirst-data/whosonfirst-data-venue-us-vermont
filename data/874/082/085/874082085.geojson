@@ -1,0 +1,72 @@
+{
+  "id": 874082085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.994985,44.404219,-72.994985,44.404219",
+    "geom:latitude":44.404219,
+    "geom:longitude":-72.994985,
+    "iso:country":"US",
+    "sg:address":"31 Railroad St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 5404",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "boiler",
+        "cleaning"
+    ],
+    "sg:website":"www.vermontboilers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wCvUMHiVIKOwWvoKaHlpy_44.404219_-72.994985@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311577,
+    "wof:geomhash":"cf489850ca6d77b9a20560afdfad49ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874082085
+        }
+    ],
+    "wof:id":874082085,
+    "wof:lastmodified":1464311577,
+    "wof:name":"D & T Mechanical Contractors",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -72.994985,
+    44.404219,
+    -72.994985,
+    44.404219
+],
+  "geometry": {"coordinates":[-72.994985,44.404219],"type":"Point"}
+}

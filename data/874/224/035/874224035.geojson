@@ -1,0 +1,71 @@
+{
+  "id": 874224035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.983605,43.607583,-72.983605,43.607583",
+    "geom:latitude":43.607583,
+    "geom:longitude":-72.983605,
+    "iso:country":"US",
+    "sg:address":"151 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 0265",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "enforcement",
+        "law"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05IDbanPSu6HDxf8Kwwk0S_43.607583_-72.983605@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313103,
+    "wof:geomhash":"31bdf1db24cd96cd61aab55cf4e09c1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874224035
+        }
+    ],
+    "wof:id":874224035,
+    "wof:lastmodified":1464313103,
+    "wof:name":"Marshals Service United States",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enforcement",
+        "law"
+    ]
+},
+  "bbox": [
+    -72.983605,
+    43.607583,
+    -72.983605,
+    43.607583
+],
+  "geometry": {"coordinates":[-72.983605,43.607583],"type":"Point"}
+}

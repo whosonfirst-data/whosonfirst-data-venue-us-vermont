@@ -1,0 +1,73 @@
+{
+  "id": 874121675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.681624,44.487535,-72.681624,44.487535",
+    "geom:latitude":44.487535,
+    "geom:longitude":-72.681624,
+    "iso:country":"US",
+    "sg:address":"123 Baird Rd",
+    "sg:city":"Waitsfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 496 3974",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xZrX5ZNdkoP2ME7piD7v2_44.487535_-72.681624@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312056,
+    "wof:geomhash":"b93720d3ecd5d21fa1994dc26709a4bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874121675
+        }
+    ],
+    "wof:id":874121675,
+    "wof:lastmodified":1464312056,
+    "wof:name":"Tiger's Auto Repair",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.681624,
+    44.487535,
+    -72.681624,
+    44.487535
+],
+  "geometry": {"coordinates":[-72.681624,44.487535],"type":"Point"}
+}

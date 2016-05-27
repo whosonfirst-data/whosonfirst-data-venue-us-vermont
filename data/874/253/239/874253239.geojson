@@ -1,0 +1,78 @@
+{
+  "id": 874253239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208946,44.476059,-73.208946,44.476059",
+    "geom:latitude":44.476059,
+    "geom:longitude":-73.208946,
+    "iso:country":"US",
+    "sg:address":"266 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 4343",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E9czGialHWFBMuDMNsDXR_44.476059_-73.208946@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313631,
+    "wof:geomhash":"5b4dda6dc0d4fcdfcfb98a455198e1be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874253239
+        }
+    ],
+    "wof:id":874253239,
+    "wof:lastmodified":1464313631,
+    "wof:name":"Champagne Real Estate",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -73.208946,
+    44.476059,
+    -73.208946,
+    44.476059
+],
+  "geometry": {"coordinates":[-73.208946,44.476059],"type":"Point"}
+}

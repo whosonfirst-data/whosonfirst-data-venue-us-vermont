@@ -1,0 +1,71 @@
+{
+  "id": 874043241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212304,44.420325,-73.212304,44.420325",
+    "geom:latitude":44.420325,
+    "geom:longitude":-73.212304,
+    "iso:country":"US",
+    "sg:address":"2427 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3421",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xQNCIiy08qUOC5MYUfuF9_44.420325_-73.212304@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311178,
+    "wof:geomhash":"3d19920974d2fc576f6a2e19859fe9d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874043241
+        }
+    ],
+    "wof:id":874043241,
+    "wof:lastmodified":1464311178,
+    "wof:name":"North Star Motel",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -73.212304,
+    44.420325,
+    -73.212304,
+    44.420325
+],
+  "geometry": {"coordinates":[-73.212304,44.420325],"type":"Point"}
+}

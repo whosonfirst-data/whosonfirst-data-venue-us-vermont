@@ -1,0 +1,73 @@
+{
+  "id": 874004431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.662106,44.508891,-72.662106,44.508891",
+    "geom:latitude":44.508891,
+    "geom:longitude":-72.662106,
+    "iso:country":"US",
+    "sg:address":"525 Sterling Valley Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5680",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xzwG3Ccyit5KPozhrqPrA_44.508891_-72.662106@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310808,
+    "wof:geomhash":"2b46d8f32527fc1eee2b5728422d8efd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874004431
+        }
+    ],
+    "wof:id":874004431,
+    "wof:lastmodified":1464310808,
+    "wof:name":"Dan's Auto Body",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.662106,
+    44.508891,
+    -72.662106,
+    44.508891
+],
+  "geometry": {"coordinates":[-72.66210599999999,44.508891],"type":"Point"}
+}

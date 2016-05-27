@@ -1,0 +1,66 @@
+{
+  "id": 874111343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.171372,44.466731,-73.171372,44.466731",
+    "geom:latitude":44.466731,
+    "geom:longitude":-73.171372,
+    "iso:country":"US",
+    "sg:address":"39 Hinesburg Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 657 3806",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k7umw1vtF9B7brof3iFXC_44.466731_-73.171372@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311946,
+    "wof:geomhash":"2b1486606b693d6057f68762c2f5e715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874111343
+        }
+    ],
+    "wof:id":874111343,
+    "wof:lastmodified":1464311946,
+    "wof:name":"Brooks Pharmacy",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.171372,
+    44.466731,
+    -73.171372,
+    44.466731
+],
+  "geometry": {"coordinates":[-73.17137200000001,44.466731],"type":"Point"}
+}

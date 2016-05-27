@@ -1,0 +1,71 @@
+{
+  "id": 874165337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.489321,44.186928,-72.489321,44.186928",
+    "geom:latitude":44.186928,
+    "geom:longitude":-72.489321,
+    "iso:country":"US",
+    "sg:address":"10 Lewis St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2247",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "granite"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_480JukCDDUa6IsXs3QU52a_44.186928_-72.489321@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312483,
+    "wof:geomhash":"8a08cf05efe23e45be1ae953b699b8e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874165337
+        }
+    ],
+    "wof:id":874165337,
+    "wof:lastmodified":1464312483,
+    "wof:name":"Northern Granite Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "granite"
+    ]
+},
+  "bbox": [
+    -72.489321,
+    44.186928,
+    -72.489321,
+    44.186928
+],
+  "geometry": {"coordinates":[-72.489321,44.186928],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874149017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.663872,44.120941,-72.663872,44.120941",
+    "geom:latitude":44.120941,
+    "geom:longitude":-72.663872,
+    "iso:country":"US",
+    "sg:address":"126 Winch Hill Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 3621",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NWPrQh9mQpJbiklqb1c1b_44.120941_-72.663872@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312320,
+    "wof:geomhash":"7a61b1627eaaa0ebf340521bff4af2bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874149017
+        }
+    ],
+    "wof:id":874149017,
+    "wof:lastmodified":1464312320,
+    "wof:name":"Falzarano Trucking",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -72.663872,
+    44.120941,
+    -72.663872,
+    44.120941
+],
+  "geometry": {"coordinates":[-72.663872,44.120941],"type":"Point"}
+}

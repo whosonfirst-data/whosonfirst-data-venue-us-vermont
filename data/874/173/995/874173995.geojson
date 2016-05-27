@@ -1,0 +1,71 @@
+{
+  "id": 874173995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.024679,43.190606,-73.024679,43.190606",
+    "geom:latitude":43.190606,
+    "geom:longitude":-73.024679,
+    "iso:country":"US",
+    "sg:address":"601 High Meadow Way",
+    "sg:city":"Manchester Center",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 3072",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844461,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kxlh0BNIkBHuqDy8RqnB8_43.190606_-73.024679@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312568,
+    "wof:geomhash":"fcfae7b4ea9e3c6218c3697cd80cf78b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85844461,
+            "region_id":85688763,
+            "venue_id":874173995
+        }
+    ],
+    "wof:id":874173995,
+    "wof:lastmodified":1464312568,
+    "wof:name":"Hill Painting Inc",
+    "wof:parent_id":85844461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.024679,
+    43.190606,
+    -73.024679,
+    43.190606
+],
+  "geometry": {"coordinates":[-73.02467900000001,43.190606],"type":"Point"}
+}

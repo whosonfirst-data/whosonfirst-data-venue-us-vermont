@@ -1,0 +1,73 @@
+{
+  "id": 874212079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.563358,44.247186,-72.563358,44.247186",
+    "geom:latitude":44.247186,
+    "geom:longitude":-72.563358,
+    "iso:country":"US",
+    "sg:address":"26 Wheelock St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 0989",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t5yJDoG9XyydyqAompe8e_44.247186_-72.563358@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312975,
+    "wof:geomhash":"9388e30eb4c577cbdfb40d68f0d2bf20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874212079
+        }
+    ],
+    "wof:id":874212079,
+    "wof:lastmodified":1464312975,
+    "wof:name":"Victorias Interprises",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -72.563358,
+    44.247186,
+    -72.563358,
+    44.247186
+],
+  "geometry": {"coordinates":[-72.56335799999999,44.247186],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874009357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.16392,44.548789,-73.16392,44.548789",
+    "geom:latitude":44.548789,
+    "geom:longitude":-73.16392,
+    "iso:country":"US",
+    "sg:address":"116 Main St",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 6440",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dCM7qrNOL14iuGuXoJFuE_44.548789_-73.163920@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310851,
+    "wof:geomhash":"27f679f7b5dd8859316abb8d0c5025e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874009357
+        }
+    ],
+    "wof:id":874009357,
+    "wof:lastmodified":1464310851,
+    "wof:name":"Spanked Puppy Pub",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.16392,
+    44.548789,
+    -73.16392,
+    44.548789
+],
+  "geometry": {"coordinates":[-73.16392,44.548789],"type":"Point"}
+}

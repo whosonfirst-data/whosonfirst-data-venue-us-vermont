@@ -1,0 +1,83 @@
+{
+  "id": 874255785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.972504,43.607281,-72.972504,43.607281",
+    "geom:latitude":43.607281,
+    "geom:longitude":-72.972504,
+    "iso:country":"US",
+    "sg:address":"104 Center St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 1831",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.rutlandfree.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36DPKBIO2POyuPzAxyNnxg_43.607281_-72.972504@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313692,
+    "wof:geomhash":"80af4777ffb3ee8ba72c6da6d2f53574",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255785
+        }
+    ],
+    "wof:id":874255785,
+    "wof:lastmodified":1464313692,
+    "wof:name":"Fire Department",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -72.972504,
+    43.607281,
+    -72.972504,
+    43.607281
+],
+  "geometry": {"coordinates":[-72.972504,43.607281],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874021539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.194899,42.87806,-73.194899,42.87806",
+    "geom:latitude":42.87806,
+    "geom:longitude":-73.194899,
+    "iso:country":"US",
+    "sg:address":"467 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 5059",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "new"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YJUDTDiTCgxmXu4Aw73al_42.878060_-73.194899@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310960,
+    "wof:geomhash":"413821d91e9981b73b4ace9bc1e66259",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874021539
+        }
+    ],
+    "wof:id":874021539,
+    "wof:lastmodified":1464310960,
+    "wof:name":"Bennington Bookshop",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new"
+    ]
+},
+  "bbox": [
+    -73.194899,
+    42.87806,
+    -73.194899,
+    42.87806
+],
+  "geometry": {"coordinates":[-73.19489900000001,42.87806],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874055919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.173783,44.103701,-73.173783,44.103701",
+    "geom:latitude":44.103701,
+    "geom:longitude":-73.173783,
+    "iso:country":"US",
+    "sg:address":"4489 Ethan Allen Hwy",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 4939",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PivlwwC6Sv5KSoay7CNeL_44.103701_-73.173783@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311300,
+    "wof:geomhash":"ebaed83da2d256e4c7984bbe6d5dfc28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874055919
+        }
+    ],
+    "wof:id":874055919,
+    "wof:lastmodified":1464311300,
+    "wof:name":"Conant Brothers Trucking",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.173783,
+    44.103701,
+    -73.173783,
+    44.103701
+],
+  "geometry": {"coordinates":[-73.173783,44.103701],"type":"Point"}
+}

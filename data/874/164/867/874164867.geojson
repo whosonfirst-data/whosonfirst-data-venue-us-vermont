@@ -1,0 +1,71 @@
+{
+  "id": 874164867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.242723,42.931221,-73.242723,42.931221",
+    "geom:latitude":42.931221,
+    "geom:longitude":-73.242723,
+    "iso:country":"US",
+    "sg:address":"38 Main St",
+    "sg:city":"North Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 0520",
+    "sg:postcode":"05257",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BGNfF2vLC4PvTJlB4BKSD_42.931221_-73.242723@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312478,
+    "wof:geomhash":"5a208f8f8918fcef157c7b85d55f7186",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874164867
+        }
+    ],
+    "wof:id":874164867,
+    "wof:lastmodified":1464312478,
+    "wof:name":"Redeemed Repair",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.242723,
+    42.931221,
+    -73.242723,
+    42.931221
+],
+  "geometry": {"coordinates":[-73.242723,42.931221],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874052005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.087731,44.13643,-73.087731,44.13643",
+    "geom:latitude":44.13643,
+    "geom:longitude":-73.087731,
+    "iso:country":"US",
+    "sg:address":"41 Liberty St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5350",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ip2oCaVaKRQvedRzkJRXg_44.136430_-73.087731@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311259,
+    "wof:geomhash":"2cea9d3cdfae3fa8f908277b2000e72b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874052005
+        }
+    ],
+    "wof:id":874052005,
+    "wof:lastmodified":1464311259,
+    "wof:name":"Wisell Electric",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.087731,
+    44.13643,
+    -73.087731,
+    44.13643
+],
+  "geometry": {"coordinates":[-73.08773100000001,44.13643],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874064543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.938268,43.530695,-72.938268,43.530695",
+    "geom:latitude":43.530695,
+    "geom:longitude":-72.938268,
+    "iso:country":"US",
+    "sg:address":"88 Corey Ln",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 1525",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3afSslypxpQ1ra7VooIF5P_43.530695_-72.938268@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311376,
+    "wof:geomhash":"d18003441eae337e5c4eaa90b3f487e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874064543
+        }
+    ],
+    "wof:id":874064543,
+    "wof:lastmodified":1464311376,
+    "wof:name":"Luckey's Enterprises",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.938268,
+    43.530695,
+    -72.938268,
+    43.530695
+],
+  "geometry": {"coordinates":[-72.93826799999999,43.530695],"type":"Point"}
+}

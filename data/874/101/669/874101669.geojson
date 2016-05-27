@@ -1,0 +1,73 @@
+{
+  "id": 874101669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.601161,42.902701,-72.601161,42.902701",
+    "geom:latitude":42.902701,
+    "geom:longitude":-72.601161,
+    "iso:country":"US",
+    "sg:address":"1751 W River Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 5580",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automotive",
+        "brake",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GbtoRE5XjM77mRoFQmhnA_42.902701_-72.601161@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311814,
+    "wof:geomhash":"c8e652667afbc37c15ad204d69353734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874101669
+        }
+    ],
+    "wof:id":874101669,
+    "wof:lastmodified":1464311814,
+    "wof:name":"J B Auto Inc",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "brake",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.601161,
+    42.902701,
+    -72.601161,
+    42.902701
+],
+  "geometry": {"coordinates":[-72.601161,42.902701],"type":"Point"}
+}

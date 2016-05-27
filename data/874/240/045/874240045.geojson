@@ -1,0 +1,69 @@
+{
+  "id": 874240045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.495999,43.307964,-72.495999,43.307964",
+    "geom:latitude":43.307964,
+    "geom:longitude":-72.495999,
+    "iso:country":"US",
+    "sg:address":"246 River St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 2424",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KGWZ2MTiUedw13KEwCJ3P_43.307964_-72.495999@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313340,
+    "wof:geomhash":"03511767dad4d5ef58147a9bf8a045d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874240045
+        }
+    ],
+    "wof:id":874240045,
+    "wof:lastmodified":1464313340,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -72.495999,
+    43.307964,
+    -72.495999,
+    43.307964
+],
+  "geometry": {"coordinates":[-72.495999,43.307964],"type":"Point"}
+}

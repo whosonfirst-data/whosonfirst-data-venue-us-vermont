@@ -1,0 +1,73 @@
+{
+  "id": 874052255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111841,44.495752,-73.111841,44.495752",
+    "geom:latitude":44.495752,
+    "geom:longitude":-73.111841,
+    "iso:country":"US",
+    "sg:address":"37 Lincoln St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 288 9265",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "new",
+        "age",
+        "worship"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HUMw43buX54EzfA8nfR7s_44.495752_-73.111841@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311261,
+    "wof:geomhash":"ce73ea5c900c09e65b45893c28958cdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874052255
+        }
+    ],
+    "wof:id":874052255,
+    "wof:lastmodified":1464311261,
+    "wof:name":"Unity Church Of Vermont",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "age",
+        "worship"
+    ]
+},
+  "bbox": [
+    -73.111841,
+    44.495752,
+    -73.111841,
+    44.495752
+],
+  "geometry": {"coordinates":[-73.111841,44.495752],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874235733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.189844,43.681153,-73.189844,43.681153",
+    "geom:latitude":43.681153,
+    "geom:longitude":-73.189844,
+    "iso:country":"US",
+    "sg:address":"275 State Rte 30",
+    "sg:city":"Castleton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 468 2300",
+    "sg:postcode":"05735",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qq21V2V3ZYZ8RLRsjAOoR_43.681153_-73.189844@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313256,
+    "wof:geomhash":"92d6be148b7f583c62b5445d82cfe36b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874235733
+        }
+    ],
+    "wof:id":874235733,
+    "wof:lastmodified":1464313256,
+    "wof:name":"Vermont Sports Medicine Ctr",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.189844,
+    43.681153,
+    -73.189844,
+    43.681153
+],
+  "geometry": {"coordinates":[-73.18984399999999,43.681153],"type":"Point"}
+}

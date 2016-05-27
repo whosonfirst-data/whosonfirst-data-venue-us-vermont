@@ -1,0 +1,73 @@
+{
+  "id": 874179637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.553725,44.236519,-72.553725,44.236519",
+    "geom:latitude":44.236519,
+    "geom:longitude":-72.553725,
+    "iso:country":"US",
+    "sg:address":"384 River St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 3711",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xWaOdw4bTzIsXHXqu39ij_44.236519_-72.553725@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312626,
+    "wof:geomhash":"48e88c70a1f98394aa31657885959206",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874179637
+        }
+    ],
+    "wof:id":874179637,
+    "wof:lastmodified":1464312626,
+    "wof:name":"Symquest Group Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "computer"
+    ]
+},
+  "bbox": [
+    -72.553725,
+    44.236519,
+    -72.553725,
+    44.236519
+],
+  "geometry": {"coordinates":[-72.553725,44.236519],"type":"Point"}
+}

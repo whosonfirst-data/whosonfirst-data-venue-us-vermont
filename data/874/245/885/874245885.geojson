@@ -1,0 +1,73 @@
+{
+  "id": 874245885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.018971,44.456679,-72.018971,44.456679",
+    "geom:latitude":44.456679,
+    "geom:longitude":-72.018971,
+    "iso:country":"US",
+    "sg:address":"31 Flanders Dr",
+    "sg:city":"St Johnsbury Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 2153",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wQxiLgssBDL6zAC4rd6LB_44.456679_-72.018971@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313452,
+    "wof:geomhash":"b35471d1c47717c79c0ddbe1c501e6a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874245885
+        }
+    ],
+    "wof:id":874245885,
+    "wof:lastmodified":1464313452,
+    "wof:name":"Flander's Telephone Svc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ]
+},
+  "bbox": [
+    -72.018971,
+    44.456679,
+    -72.018971,
+    44.456679
+],
+  "geometry": {"coordinates":[-72.01897099999999,44.456679],"type":"Point"}
+}

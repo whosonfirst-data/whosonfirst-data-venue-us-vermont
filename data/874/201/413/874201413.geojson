@@ -1,0 +1,67 @@
+{
+  "id": 874201413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.548181,44.223459,-72.548181,44.223459",
+    "geom:latitude":44.223459,
+    "geom:longitude":-72.548181,
+    "iso:country":"US",
+    "sg:address":"168 Ames Dr",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9078",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:website":"www.pricechopper.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JSsZyC52Vi0t04SwaNzS5_44.223459_-72.548181@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312857,
+    "wof:geomhash":"58590a1533e99b2dfb3c65dd828b55e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874201413
+        }
+    ],
+    "wof:id":874201413,
+    "wof:lastmodified":1464312857,
+    "wof:name":"Price Chopper",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.548181,
+    44.223459,
+    -72.548181,
+    44.223459
+],
+  "geometry": {"coordinates":[-72.548181,44.223459],"type":"Point"}
+}

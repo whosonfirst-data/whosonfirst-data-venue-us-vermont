@@ -1,0 +1,73 @@
+{
+  "id": 874165983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.021972,44.431893,-72.021972,44.431893",
+    "geom:latitude":44.431893,
+    "geom:longitude":-72.021972,
+    "iso:country":"US",
+    "sg:address":"988 Mount Pleasant St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8419",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K5tXmRjhy5BAr73leH43n_44.431893_-72.021972@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312489,
+    "wof:geomhash":"e185506a446e5d17c33f239d2489f0be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874165983
+        }
+    ],
+    "wof:id":874165983,
+    "wof:lastmodified":1464312489,
+    "wof:name":"Hillcrest Farm",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -72.021972,
+    44.431893,
+    -72.021972,
+    44.431893
+],
+  "geometry": {"coordinates":[-72.02197200000001,44.431893],"type":"Point"}
+}

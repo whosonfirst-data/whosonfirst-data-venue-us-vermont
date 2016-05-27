@@ -1,0 +1,69 @@
+{
+  "id": 874208513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200299,42.882157,-73.200299,42.882157",
+    "geom:latitude":42.882157,
+    "geom:longitude":-73.200299,
+    "iso:country":"US",
+    "sg:address":"130 River St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 1051",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16k371l5i2KMExcVQRyoGj_42.882157_-73.200299@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312933,
+    "wof:geomhash":"4eab28148b3acf5ef23f9e6aba54a86b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874208513
+        }
+    ],
+    "wof:id":874208513,
+    "wof:lastmodified":1464312933,
+    "wof:name":"Fire Information",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.200299,
+    42.882157,
+    -73.200299,
+    42.882157
+],
+  "geometry": {"coordinates":[-73.200299,42.882157],"type":"Point"}
+}

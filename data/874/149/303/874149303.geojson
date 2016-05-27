@@ -1,0 +1,74 @@
+{
+  "id": 874149303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.486185,44.172593,-72.486185,44.172593",
+    "geom:latitude":44.172593,
+    "geom:longitude":-72.486185,
+    "iso:country":"US",
+    "sg:address":"40 Pitman Rd",
+    "sg:city":"Websterville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9371",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cheese",
+        "processor"
+    ],
+    "sg:website":"www.vtbutterandcheeseco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KZgA5hWSFWIuRgQTJnSsf_44.172593_-72.486185@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312323,
+    "wof:geomhash":"5f2daaae8491a2502f02a0796b317da6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874149303
+        }
+    ],
+    "wof:id":874149303,
+    "wof:lastmodified":1464312323,
+    "wof:name":"Vermont Butter & Cheese Co Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheese",
+        "processor"
+    ]
+},
+  "bbox": [
+    -72.486185,
+    44.172593,
+    -72.486185,
+    44.172593
+],
+  "geometry": {"coordinates":[-72.48618500000001,44.172593],"type":"Point"}
+}

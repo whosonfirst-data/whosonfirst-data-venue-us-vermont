@@ -1,0 +1,71 @@
+{
+  "id": 873999129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.145693,44.700154,-73.145693,44.700154",
+    "geom:latitude":44.700154,
+    "geom:longitude":-73.145693,
+    "iso:country":"US",
+    "sg:address":"207 B & B Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 6004",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AnkUBeib6q1YpE1Tt8kmX_44.700154_-73.145693@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310754,
+    "wof:geomhash":"09bac978154f128350da43081c2e7fcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":873999129
+        }
+    ],
+    "wof:id":873999129,
+    "wof:lastmodified":1464310754,
+    "wof:name":"B & B Auto Salvage",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -73.145693,
+    44.700154,
+    -73.145693,
+    44.700154
+],
+  "geometry": {"coordinates":[-73.14569299999999,44.700154],"type":"Point"}
+}

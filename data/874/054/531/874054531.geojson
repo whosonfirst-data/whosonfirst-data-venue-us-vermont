@@ -1,0 +1,73 @@
+{
+  "id": 874054531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199779,44.48063,-73.199779,44.48063",
+    "geom:latitude":44.48063,
+    "geom:longitude":-73.199779,
+    "iso:country":"US",
+    "sg:address":"111 Colchester Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 656 3964",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42jQSzjx3bHUd0dYcM1BtR_44.480630_-73.199779@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311288,
+    "wof:geomhash":"6ae22a7d32e0e1326a0679c7e90c23f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874054531
+        }
+    ],
+    "wof:id":874054531,
+    "wof:lastmodified":1464311288,
+    "wof:name":"Children's Specialty Ctr",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.199779,
+    44.48063,
+    -73.199779,
+    44.48063
+],
+  "geometry": {"coordinates":[-73.19977900000001,44.48063],"type":"Point"}
+}

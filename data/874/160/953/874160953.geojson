@@ -1,0 +1,73 @@
+{
+  "id": 874160953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.640475,42.915528,-72.640475,42.915528",
+    "geom:latitude":42.915528,
+    "geom:longitude":-72.640475,
+    "iso:country":"US",
+    "sg:address":"176 Hill Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 7287",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2USHdRBVVGtQD2aA3vl1fd_42.915528_-72.640475@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312442,
+    "wof:geomhash":"1db08514f96822899f39a4d30dcacde5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874160953
+        }
+    ],
+    "wof:id":874160953,
+    "wof:lastmodified":1464312442,
+    "wof:name":"Southern VT Flrg Installation",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.640475,
+    42.915528,
+    -72.640475,
+    42.915528
+],
+  "geometry": {"coordinates":[-72.640475,42.915528],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874237487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.02246,44.416547,-72.02246,44.416547",
+    "geom:latitude":44.416547,
+    "geom:longitude":-72.02246,
+    "iso:country":"US",
+    "sg:address":"54 Western Ave",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 2855",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DT6CNtuatgkf6PMrnor3e_44.416547_-72.022460@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313288,
+    "wof:geomhash":"351416d6da7c6667220fd1fb17be2db1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874237487
+        }
+    ],
+    "wof:id":874237487,
+    "wof:lastmodified":1464313288,
+    "wof:name":"Companion Animal Care Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.02246,
+    44.416547,
+    -72.02246,
+    44.416547
+],
+  "geometry": {"coordinates":[-72.02246,44.416547],"type":"Point"}
+}

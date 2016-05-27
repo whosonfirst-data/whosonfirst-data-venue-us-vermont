@@ -1,0 +1,73 @@
+{
+  "id": 874232053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.967949,43.585127,-72.967949,43.585127",
+    "geom:latitude":43.585127,
+    "geom:longitude":-72.967949,
+    "iso:country":"US",
+    "sg:address":"361 US Hwy 7",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 7445",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "skating",
+        "equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EnXQzLV7tv9tYOZkcalll_43.585127_-72.967949@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313187,
+    "wof:geomhash":"3b6a08b437ff78d25e9237454f51129e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874232053
+        }
+    ],
+    "wof:id":874232053,
+    "wof:lastmodified":1464313187,
+    "wof:name":"Replay Sports",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.967949,
+    43.585127,
+    -72.967949,
+    43.585127
+],
+  "geometry": {"coordinates":[-72.967949,43.585127],"type":"Point"}
+}

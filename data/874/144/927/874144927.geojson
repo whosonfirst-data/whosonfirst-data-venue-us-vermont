@@ -1,0 +1,72 @@
+{
+  "id": 874144927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.980586,43.608175,-72.980586,43.608175",
+    "geom:latitude":43.608175,
+    "geom:longitude":-72.980586,
+    "iso:country":"US",
+    "sg:address":"90 Merchants Row",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4371",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "sg:website":"www.smithbarney.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QrJIroehNsL5sxjzNqGkv_43.608175_-72.980586@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312279,
+    "wof:geomhash":"d3e4ff52b965aa1c1d84af6b63e39ade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874144927
+        }
+    ],
+    "wof:id":874144927,
+    "wof:lastmodified":1464312279,
+    "wof:name":"Smith Barney",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -72.980586,
+    43.608175,
+    -72.980586,
+    43.608175
+],
+  "geometry": {"coordinates":[-72.980586,43.608175],"type":"Point"}
+}

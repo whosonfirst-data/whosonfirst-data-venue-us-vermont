@@ -1,0 +1,69 @@
+{
+  "id": 874134911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.969358,43.614396,-72.969358,43.614396",
+    "geom:latitude":43.614396,
+    "geom:longitude":-72.969358,
+    "iso:country":"US",
+    "sg:address":"107 Bellevue Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 6988",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OQlwfOVgwmbw16ZHinV6o_43.614396_-72.969358@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312190,
+    "wof:geomhash":"e3218a31e0781d8ebd4a695c0ec0380e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874134911
+        }
+    ],
+    "wof:id":874134911,
+    "wof:lastmodified":1464312190,
+    "wof:name":"Alan G Olson Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -72.969358,
+    43.614396,
+    -72.969358,
+    43.614396
+],
+  "geometry": {"coordinates":[-72.969358,43.614396],"type":"Point"}
+}

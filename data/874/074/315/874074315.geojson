@@ -1,0 +1,77 @@
+{
+  "id": 874074315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971792,43.606105,-72.971792,43.606105",
+    "geom:latitude":43.606105,
+    "geom:longitude":-72.971792,
+    "iso:country":"US",
+    "sg:address":"180 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 9873",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oz31WNvEy5ZErV9vUE3q7_43.606105_-72.971792@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311497,
+    "wof:geomhash":"8d0c53d2aacc0517987e9d799df502e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874074315
+        }
+    ],
+    "wof:id":874074315,
+    "wof:lastmodified":1464311497,
+    "wof:name":"Blow's Service Station",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.971792,
+    43.606105,
+    -72.971792,
+    43.606105
+],
+  "geometry": {"coordinates":[-72.97179199999999,43.606105],"type":"Point"}
+}

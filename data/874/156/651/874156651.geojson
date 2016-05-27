@@ -1,0 +1,71 @@
+{
+  "id": 874156651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.405629,43.584731,-72.405629,43.584731",
+    "geom:latitude":43.584731,
+    "geom:longitude":-72.405629,
+    "iso:country":"US",
+    "sg:address":"128 Webster Rd",
+    "sg:city":"Hartland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 436 1918",
+    "sg:postcode":"05048",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QFDqFrBmVXmEYzt18toVD_43.584731_-72.405629@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312395,
+    "wof:geomhash":"5f939861c05e36cf5dd05bfd981e38fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874156651
+        }
+    ],
+    "wof:id":874156651,
+    "wof:lastmodified":1464312395,
+    "wof:name":"Robert North Photography",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -72.405629,
+    43.584731,
+    -72.405629,
+    43.584731
+],
+  "geometry": {"coordinates":[-72.405629,43.584731],"type":"Point"}
+}

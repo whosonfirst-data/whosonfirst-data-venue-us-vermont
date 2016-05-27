@@ -1,0 +1,71 @@
+{
+  "id": 874198151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.623001,44.508231,-72.623001,44.508231",
+    "geom:latitude":44.508231,
+    "geom:longitude":-72.623001,
+    "iso:country":"US",
+    "sg:address":"109 Joes Pond Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5240",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dwUQe0b1I22nXgKEdXKv8_44.508231_-72.623001@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312827,
+    "wof:geomhash":"e6dfeb765786a3f3771bbed7afc593cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874198151
+        }
+    ],
+    "wof:id":874198151,
+    "wof:lastmodified":1464312827,
+    "wof:name":"Wayne's Electrical Svc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.623001,
+    44.508231,
+    -72.623001,
+    44.508231
+],
+  "geometry": {"coordinates":[-72.623001,44.508231],"type":"Point"}
+}

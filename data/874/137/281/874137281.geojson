@@ -1,0 +1,71 @@
+{
+  "id": 874137281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.827387,44.64152,-72.827387,44.64152",
+    "geom:latitude":44.64152,
+    "geom:longitude":-72.827387,
+    "iso:country":"US",
+    "sg:address":"173 Mill St",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8843",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IluJw25kZ4IZRJSufuhQ2_44.641520_-72.827387@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312211,
+    "wof:geomhash":"fc86647467bf250f1f4c52af45a53803",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874137281
+        }
+    ],
+    "wof:id":874137281,
+    "wof:lastmodified":1464312211,
+    "wof:name":"Town Garage",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.827387,
+    44.64152,
+    -72.827387,
+    44.64152
+],
+  "geometry": {"coordinates":[-72.827387,44.64152],"type":"Point"}
+}

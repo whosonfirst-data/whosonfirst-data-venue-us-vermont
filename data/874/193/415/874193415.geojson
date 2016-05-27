@@ -1,0 +1,71 @@
+{
+  "id": 874193415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.054759,43.825409,-73.054759,43.825409",
+    "geom:latitude":43.825409,
+    "geom:longitude":-73.054759,
+    "iso:country":"US",
+    "sg:address":"1851 Forest Dale Rd",
+    "sg:city":"Forest Dale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3618",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JFTpszqg1Z7mI5gdbaXrC_43.825409_-73.054759@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312774,
+    "wof:geomhash":"c66861ec5da1094926d4bd3cc997a3c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874193415
+        }
+    ],
+    "wof:id":874193415,
+    "wof:lastmodified":1464312774,
+    "wof:name":"Mallory's Automotive",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -73.054759,
+    43.825409,
+    -73.054759,
+    43.825409
+],
+  "geometry": {"coordinates":[-73.054759,43.825409],"type":"Point"}
+}

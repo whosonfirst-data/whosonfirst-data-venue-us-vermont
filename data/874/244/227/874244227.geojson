@@ -1,0 +1,71 @@
+{
+  "id": 874244227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078636,44.133104,-73.078636,44.133104",
+    "geom:latitude":44.133104,
+    "geom:longitude":-73.078636,
+    "iso:country":"US",
+    "sg:address":"5 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3311",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xAC5nh1lvVVyQnO1rFmhV_44.133104_-73.078636@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313421,
+    "wof:geomhash":"b7162e20db6a1e2e7223da18e54ff184",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874244227
+        }
+    ],
+    "wof:id":874244227,
+    "wof:lastmodified":1464313421,
+    "wof:name":"Bobcat Cafe",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.078636,
+    44.133104,
+    -73.078636,
+    44.133104
+],
+  "geometry": {"coordinates":[-73.078636,44.133104],"type":"Point"}
+}

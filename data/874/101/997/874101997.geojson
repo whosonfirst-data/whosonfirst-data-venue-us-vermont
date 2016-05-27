@@ -1,0 +1,71 @@
+{
+  "id": 874101997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.509525,44.193785,-72.509525,44.193785",
+    "geom:latitude":44.193785,
+    "geom:longitude":-72.509525,
+    "iso:country":"US",
+    "sg:address":"16 Essex St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 0555",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F4tK4vYfPEc4kpmA7EyL3_44.193785_-72.509525@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311818,
+    "wof:geomhash":"4faf519cb68e7ea5d80b928f7c5445d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874101997
+        }
+    ],
+    "wof:id":874101997,
+    "wof:lastmodified":1464311818,
+    "wof:name":"Chimney Care Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.509525,
+    44.193785,
+    -72.509525,
+    44.193785
+],
+  "geometry": {"coordinates":[-72.509525,44.193785],"type":"Point"}
+}

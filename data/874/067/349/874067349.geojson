@@ -1,0 +1,71 @@
+{
+  "id": 874067349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.150446,43.904468,-72.150446,43.904468",
+    "geom:latitude":43.904468,
+    "geom:longitude":-72.150446,
+    "iso:country":"US",
+    "sg:address":"51 Lake Morey Rd",
+    "sg:city":"Fairlee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 4400",
+    "sg:postcode":"05045",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0erol7cGz9xruLqqYUA6WO_43.904468_-72.150446@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311401,
+    "wof:geomhash":"8f0930575bacdd2490a1a9aa1c0c41f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874067349
+        }
+    ],
+    "wof:id":874067349,
+    "wof:lastmodified":1464311401,
+    "wof:name":"Lake Morey Road Garage",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.150446,
+    43.904468,
+    -72.150446,
+    43.904468
+],
+  "geometry": {"coordinates":[-72.150446,43.904468],"type":"Point"}
+}

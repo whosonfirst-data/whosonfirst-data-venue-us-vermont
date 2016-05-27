@@ -1,0 +1,70 @@
+{
+  "id": 874250851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.723979,44.479412,-72.723979,44.479412",
+    "geom:latitude":44.479412,
+    "geom:longitude":-72.723979,
+    "iso:country":"US",
+    "sg:address":"2160 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/stowe/249216-cactus-cafe-of-stowe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7770",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VVHX1tEU51A0m8UO3R93H_44.479412_-72.723979@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313583,
+    "wof:geomhash":"db7ded17fbc1e62ac191f84be4400bc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874250851
+        }
+    ],
+    "wof:id":874250851,
+    "wof:lastmodified":1464313583,
+    "wof:name":"Cactus Cafe Of Stowe",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -72.723979,
+    44.479412,
+    -72.723979,
+    44.479412
+],
+  "geometry": {"coordinates":[-72.723979,44.479412],"type":"Point"}
+}

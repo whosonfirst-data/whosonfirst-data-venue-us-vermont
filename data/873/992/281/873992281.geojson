@@ -1,0 +1,71 @@
+{
+  "id": 873992281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.318328,43.742625,-73.318328,43.742625",
+    "geom:latitude":43.742625,
+    "geom:longitude":-73.318328,
+    "iso:country":"US",
+    "sg:address":"5265 Stage Rd",
+    "sg:city":"Fair Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 537 2746",
+    "sg:postcode":"05743",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fO3ZVTalV0e05Mfu2vqlx_43.742625_-73.318328@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310707,
+    "wof:geomhash":"4eccc13c725300c176a0c8338fcb340b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":873992281
+        }
+    ],
+    "wof:id":873992281,
+    "wof:lastmodified":1464310707,
+    "wof:name":"Lone Wolf General Contracting",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.318328,
+    43.742625,
+    -73.318328,
+    43.742625
+],
+  "geometry": {"coordinates":[-73.31832799999999,43.742625],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874205209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.156879,44.008405,-73.156879,44.008405",
+    "geom:latitude":44.008405,
+    "geom:longitude":-73.156879,
+    "iso:country":"US",
+    "sg:address":"4 Swanage Ct",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 0454",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "assembly",
+        "fabricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OIZswnabv8VKDHht0dmiG_44.008405_-73.156879@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312896,
+    "wof:geomhash":"836f455c3b95a1ef5699938ed477828d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874205209
+        }
+    ],
+    "wof:id":874205209,
+    "wof:lastmodified":1464312896,
+    "wof:name":"Time Zero Corp",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assembly",
+        "fabricating"
+    ]
+},
+  "bbox": [
+    -73.156879,
+    44.008405,
+    -73.156879,
+    44.008405
+],
+  "geometry": {"coordinates":[-73.156879,44.008405],"type":"Point"}
+}

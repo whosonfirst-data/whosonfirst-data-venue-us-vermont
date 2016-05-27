@@ -1,0 +1,71 @@
+{
+  "id": 874222297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.642721,43.935139,-72.642721,43.935139",
+    "geom:latitude":43.935139,
+    "geom:longitude":-72.642721,
+    "iso:country":"US",
+    "sg:address":"451 State Rte 66",
+    "sg:city":"Randolph",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 728 3802",
+    "sg:postcode":"05060",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85841465,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2raX47c6rQpZi0RwQjp6IB_43.935139_-72.642721@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313087,
+    "wof:geomhash":"6a6f27e0e4ac0292e9bd62f8cf18ce15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85841465,
+            "region_id":85688763,
+            "venue_id":874222297
+        }
+    ],
+    "wof:id":874222297,
+    "wof:lastmodified":1464313087,
+    "wof:name":"Windover House Inc",
+    "wof:parent_id":85841465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -72.642721,
+    43.935139,
+    -72.642721,
+    43.935139
+],
+  "geometry": {"coordinates":[-72.64272099999999,43.935139],"type":"Point"}
+}

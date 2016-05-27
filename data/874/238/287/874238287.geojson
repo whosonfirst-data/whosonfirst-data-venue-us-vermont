@@ -1,0 +1,71 @@
+{
+  "id": 874238287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204503,44.445631,-73.204503,44.445631",
+    "geom:latitude":44.445631,
+    "geom:longitude":-73.204503,
+    "iso:country":"US",
+    "sg:address":"10 Farrell St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 2114",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6By9aPVvNluPOqz7FXvJHY_44.445631_-73.204503@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313307,
+    "wof:geomhash":"9257d62c54eae1a82aceb62978a8f0bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874238287
+        }
+    ],
+    "wof:id":874238287,
+    "wof:lastmodified":1464313307,
+    "wof:name":"Keene Medical Products",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -73.204503,
+    44.445631,
+    -73.204503,
+    44.445631
+],
+  "geometry": {"coordinates":[-73.204503,44.445631],"type":"Point"}
+}

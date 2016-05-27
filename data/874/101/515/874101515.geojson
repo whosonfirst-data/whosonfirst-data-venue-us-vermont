@@ -1,0 +1,69 @@
+{
+  "id": 874101515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.964214,43.610123,-72.964214,43.610123",
+    "geom:latitude":43.610123,
+    "geom:longitude":-72.964214,
+    "iso:country":"US",
+    "sg:address":"14 Wallace St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3146",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OcePYt0zOYzHUc7cNtZjk_43.610123_-72.964214@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311812,
+    "wof:geomhash":"03a8222970449bae5984281c467317ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874101515
+        }
+    ],
+    "wof:id":874101515,
+    "wof:lastmodified":1464311812,
+    "wof:name":"J Mondella Blg Contr",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.964214,
+    43.610123,
+    -72.964214,
+    43.610123
+],
+  "geometry": {"coordinates":[-72.964214,43.610123],"type":"Point"}
+}

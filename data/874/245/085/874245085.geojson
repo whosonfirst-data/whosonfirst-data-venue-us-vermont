@@ -1,0 +1,69 @@
+{
+  "id": 874245085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.05012,44.49125,-73.05012,44.49125",
+    "geom:latitude":44.49125,
+    "geom:longitude":-73.05012,
+    "iso:country":"US",
+    "sg:address":"74 Sandhill Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 8862",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "ammunition"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JJYyax2AnBL637hx1pcTa_44.491250_-73.050120@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313436,
+    "wof:geomhash":"db6d08d750ce05322cafa08b61b6b780",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874245085
+        }
+    ],
+    "wof:id":874245085,
+    "wof:lastmodified":1464313436,
+    "wof:name":"Vermont Ammunition Inc",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ammunition"
+    ]
+},
+  "bbox": [
+    -73.05012,
+    44.49125,
+    -73.05012,
+    44.49125
+],
+  "geometry": {"coordinates":[-73.05012000000001,44.49125],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874051017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.020587,44.399166,-73.020587,44.399166",
+    "geom:latitude":44.399166,
+    "geom:longitude":-73.020587,
+    "iso:country":"US",
+    "sg:address":"527 Hinesburg Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 3499",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0adOxkurCNAxa9e075DnqP_44.399166_-73.020587@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311250,
+    "wof:geomhash":"3e8372a60fe63674f78e4eab56706dcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874051017
+        }
+    ],
+    "wof:id":874051017,
+    "wof:lastmodified":1464311250,
+    "wof:name":"Weber Accessibility Systems",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -73.020587,
+    44.399166,
+    -73.020587,
+    44.399166
+],
+  "geometry": {"coordinates":[-73.02058700000001,44.399166],"type":"Point"}
+}

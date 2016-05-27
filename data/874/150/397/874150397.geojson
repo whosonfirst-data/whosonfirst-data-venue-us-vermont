@@ -1,0 +1,70 @@
+{
+  "id": 874150397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.980112,43.606523,-72.980112,43.606523",
+    "geom:latitude":43.606523,
+    "geom:longitude":-72.980112,
+    "iso:country":"US",
+    "sg:address":"24 Evelyn St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Junior College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 786 6996",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "community"
+    ],
+    "sg:website":"www.ccv.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R0MqBwwhZtUKCPE6grizC_43.606523_-72.980112@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312332,
+    "wof:geomhash":"e4d713ddbb199283efdbaf9ae619c910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874150397
+        }
+    ],
+    "wof:id":874150397,
+    "wof:lastmodified":1464312332,
+    "wof:name":"Community College Of Vermont",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "community"
+    ]
+},
+  "bbox": [
+    -72.980112,
+    43.606523,
+    -72.980112,
+    43.606523
+],
+  "geometry": {"coordinates":[-72.98011200000001,43.606523],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874051967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.170828,44.027905,-73.170828,44.027905",
+    "geom:latitude":44.027905,
+    "geom:longitude":-73.170828,
+    "iso:country":"US",
+    "sg:address":"85 Exchange St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 0727",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "brewer"
+    ],
+    "sg:website":"www.ottercreekbrewing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zoT9e72GZoSSRjwfheVS8_44.027905_-73.170828@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311259,
+    "wof:geomhash":"a6ad3a105957cf17c156d613b21a981a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874051967
+        }
+    ],
+    "wof:id":874051967,
+    "wof:lastmodified":1464311259,
+    "wof:name":"Otter Creek Brewing Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brewer"
+    ]
+},
+  "bbox": [
+    -73.170828,
+    44.027905,
+    -73.170828,
+    44.027905
+],
+  "geometry": {"coordinates":[-73.170828,44.027905],"type":"Point"}
+}

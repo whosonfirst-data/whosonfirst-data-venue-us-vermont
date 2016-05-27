@@ -1,0 +1,71 @@
+{
+  "id": 874188281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.187982,44.495209,-73.187982,44.495209",
+    "geom:latitude":44.495209,
+    "geom:longitude":-73.187982,
+    "iso:country":"US",
+    "sg:address":"79 W Spring St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 6208",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kF3xmyJ49hk3p5Ue3me8u_44.495209_-73.187982@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312723,
+    "wof:geomhash":"da95c0388141c8d046891604c5af0257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874188281
+        }
+    ],
+    "wof:id":874188281,
+    "wof:lastmodified":1464312723,
+    "wof:name":"Alarie Contract Electric",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.187982,
+    44.495209,
+    -73.187982,
+    44.495209
+],
+  "geometry": {"coordinates":[-73.18798200000001,44.495209],"type":"Point"}
+}

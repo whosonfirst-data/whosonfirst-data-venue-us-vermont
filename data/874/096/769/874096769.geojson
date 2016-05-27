@@ -1,0 +1,69 @@
+{
+  "id": 874096769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.003904,44.534966,-72.003904,44.534966",
+    "geom:latitude":44.534966,
+    "geom:longitude":-72.003904,
+    "iso:country":"US",
+    "sg:address":"63 Depot St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 3467",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qBgn2YyHJoU4ZjgY5vf2H_44.534966_-72.003904@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311740,
+    "wof:geomhash":"c81126d8de66c591db749a81408b102b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874096769
+        }
+    ],
+    "wof:id":874096769,
+    "wof:lastmodified":1464311740,
+    "wof:name":"Country Bear Book Shop",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.003904,
+    44.534966,
+    -72.003904,
+    44.534966
+],
+  "geometry": {"coordinates":[-72.00390400000001,44.534966],"type":"Point"}
+}

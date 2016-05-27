@@ -1,0 +1,75 @@
+{
+  "id": 874119851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.184138,44.009632,-73.184138,44.009632",
+    "geom:latitude":44.009632,
+    "geom:longitude":-73.184138,
+    "iso:country":"US",
+    "sg:address":"89 College St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 6610",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m8Kndb3Y8asz5K6q6ECOE_44.009632_-73.184138@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312034,
+    "wof:geomhash":"2155db3de1a26e91254286403a5b36f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874119851
+        }
+    ],
+    "wof:id":874119851,
+    "wof:lastmodified":1464312034,
+    "wof:name":"Russ Scholes Sr Ctr",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -73.184138,
+    44.009632,
+    -73.184138,
+    44.009632
+],
+  "geometry": {"coordinates":[-73.184138,44.009632],"type":"Point"}
+}

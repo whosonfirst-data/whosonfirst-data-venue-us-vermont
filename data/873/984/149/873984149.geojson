@@ -1,0 +1,73 @@
+{
+  "id": 873984149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.124901,43.917816,-73.124901,43.917816",
+    "geom:latitude":43.917816,
+    "geom:longitude":-73.124901,
+    "iso:country":"US",
+    "sg:address":"417 Kelly Cross Rd",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 352 4476",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D0NnVvkRV5jiEL3UHqCB7_43.917816_-73.124901@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310643,
+    "wof:geomhash":"63d6df5a50ec9028e866b68fdf3bfc24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":873984149
+        }
+    ],
+    "wof:id":873984149,
+    "wof:lastmodified":1464310643,
+    "wof:name":"Lr Trucking Inc",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.124901,
+    43.917816,
+    -73.124901,
+    43.917816
+],
+  "geometry": {"coordinates":[-73.12490099999999,43.917816],"type":"Point"}
+}

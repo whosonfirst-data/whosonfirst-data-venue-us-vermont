@@ -1,0 +1,73 @@
+{
+  "id": 874211485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.981326,43.609216,-72.981326,43.609216",
+    "geom:latitude":43.609216,
+    "geom:longitude":-72.981326,
+    "iso:country":"US",
+    "sg:address":"91 State St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 6368",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking",
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cQoonxwpZThKGnfRcN6bc_43.609216_-72.981326@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312968,
+    "wof:geomhash":"d4bc704d8666f365385a013d65fabd47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874211485
+        }
+    ],
+    "wof:id":874211485,
+    "wof:lastmodified":1464312968,
+    "wof:name":"Ted's Pizza Shop",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.981326,
+    43.609216,
+    -72.981326,
+    43.609216
+],
+  "geometry": {"coordinates":[-72.981326,43.609216],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873985911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.537017,44.126286,-72.537017,44.126286",
+    "geom:latitude":44.126286,
+    "geom:longitude":-72.537017,
+    "iso:country":"US",
+    "sg:address":"43 Circle St",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 6320",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18I4VCHuXhiK8tjZpQPmwt_44.126286_-72.537017@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310661,
+    "wof:geomhash":"ce05b9b243897bdcaac00cb50e7ca888",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":873985911
+        }
+    ],
+    "wof:id":873985911,
+    "wof:lastmodified":1464310661,
+    "wof:name":"Scott Hulbert Tile Guy",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.537017,
+    44.126286,
+    -72.537017,
+    44.126286
+],
+  "geometry": {"coordinates":[-72.53701700000001,44.126286],"type":"Point"}
+}

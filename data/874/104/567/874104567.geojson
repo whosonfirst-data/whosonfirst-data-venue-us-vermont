@@ -1,0 +1,71 @@
+{
+  "id": 874104567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.030635,44.512206,-73.030635,44.512206",
+    "geom:latitude":44.512206,
+    "geom:longitude":-73.030635,
+    "iso:country":"US",
+    "sg:address":"56 Weed Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 4170",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "flavor",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WoPm3Pdtk9FH4wrhSdbOt_44.512206_-73.030635@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311851,
+    "wof:geomhash":"4e1dab27ec6aceec086045fc081b288c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874104567
+        }
+    ],
+    "wof:id":874104567,
+    "wof:lastmodified":1464311851,
+    "wof:name":"Packard Family Maple Products",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flavor",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.030635,
+    44.512206,
+    -73.030635,
+    44.512206
+],
+  "geometry": {"coordinates":[-73.030635,44.512206],"type":"Point"}
+}

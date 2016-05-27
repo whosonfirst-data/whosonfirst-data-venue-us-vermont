@@ -1,0 +1,69 @@
+{
+  "id": 874238209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.001636,44.503348,-73.001636,44.503348",
+    "geom:latitude":44.503348,
+    "geom:longitude":-73.001636,
+    "iso:country":"US",
+    "sg:address":"253 State Rte 15",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 3924",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engraver"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jpp3QFita7rj0m2lwdZR6_44.503348_-73.001636@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313306,
+    "wof:geomhash":"53d28941422a7b5d689209b52f749fa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874238209
+        }
+    ],
+    "wof:id":874238209,
+    "wof:lastmodified":1464313306,
+    "wof:name":"U Name It Engraving",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engraver"
+    ]
+},
+  "bbox": [
+    -73.001636,
+    44.503348,
+    -73.001636,
+    44.503348
+],
+  "geometry": {"coordinates":[-73.001636,44.503348],"type":"Point"}
+}

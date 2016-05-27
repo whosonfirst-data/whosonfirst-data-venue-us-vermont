@@ -1,0 +1,71 @@
+{
+  "id": 874239523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196972,42.883625,-73.196972,42.883625",
+    "geom:latitude":42.883625,
+    "geom:longitude":-73.196972,
+    "iso:country":"US",
+    "sg:address":"262 North St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 0488",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "gift",
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OEp3AR3NfAMSwwajnSpF3_42.883625_-73.196972@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313331,
+    "wof:geomhash":"f27a68d9821aa18e85650d489867e7a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874239523
+        }
+    ],
+    "wof:id":874239523,
+    "wof:lastmodified":1464313331,
+    "wof:name":"Hawkins House Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gift",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -73.196972,
+    42.883625,
+    -73.196972,
+    42.883625
+],
+  "geometry": {"coordinates":[-73.196972,42.883625],"type":"Point"}
+}

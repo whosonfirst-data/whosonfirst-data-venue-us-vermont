@@ -1,0 +1,82 @@
+{
+  "id": 873983425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.004185,43.604164,-73.004185,43.604164",
+    "geom:latitude":43.604164,
+    "geom:longitude":-73.004185,
+    "iso:country":"US",
+    "sg:address":"4 Ripley Rd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 3349",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "supply",
+        "safe",
+        "scale",
+        "cash",
+        "register"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yC0zUYFIdLat4DrZ2oVuS_43.604164_-73.004185@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310637,
+    "wof:geomhash":"7ab0143cf52d2e85834a38a6f3b4d7a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":873983425
+        }
+    ],
+    "wof:id":873983425,
+    "wof:lastmodified":1464310637,
+    "wof:name":"Business Equipment Center",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "safe",
+        "scale",
+        "cash",
+        "register"
+    ]
+},
+  "bbox": [
+    -73.004185,
+    43.604164,
+    -73.004185,
+    43.604164
+],
+  "geometry": {"coordinates":[-73.00418500000001,43.604164],"type":"Point"}
+}

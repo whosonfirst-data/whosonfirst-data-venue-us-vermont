@@ -1,0 +1,71 @@
+{
+  "id": 874242923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.578312,44.553788,-72.578312,44.553788",
+    "geom:latitude":44.553788,
+    "geom:longitude":-72.578312,
+    "iso:country":"US",
+    "sg:address":"1208 State Rte 12",
+    "sg:city":"Lake Elmore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 2296",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OEEzh2Qfrrcy17UeoGZOY_44.553788_-72.578312@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313393,
+    "wof:geomhash":"66abfd41caade467ab0c3fff1573078e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874242923
+        }
+    ],
+    "wof:id":874242923,
+    "wof:lastmodified":1464313393,
+    "wof:name":"Elmore Store",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.578312,
+    44.553788,
+    -72.578312,
+    44.553788
+],
+  "geometry": {"coordinates":[-72.578312,44.553788],"type":"Point"}
+}

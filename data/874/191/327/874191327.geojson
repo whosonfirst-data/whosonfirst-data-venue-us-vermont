@@ -1,0 +1,69 @@
+{
+  "id": 874191327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199843,44.59886,-73.199843,44.59886",
+    "geom:latitude":44.59886,
+    "geom:longitude":-73.199843,
+    "iso:country":"US",
+    "sg:address":"35 Clay Point Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 8333",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85854373,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eSUQPfU0D9vOlbOGZAl2R_44.598860_-73.199843@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312752,
+    "wof:geomhash":"2365d459b8d2afe1252db960d60b2dfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85854373,
+            "region_id":85688763,
+            "venue_id":874191327
+        }
+    ],
+    "wof:id":874191327,
+    "wof:lastmodified":1464312752,
+    "wof:name":"Vermont Veterinary Surgical",
+    "wof:parent_id":85854373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -73.199843,
+    44.59886,
+    -73.199843,
+    44.59886
+],
+  "geometry": {"coordinates":[-73.199843,44.59886],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874252045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.639731,42.870344,-72.639731,42.870344",
+    "geom:latitude":42.870344,
+    "geom:longitude":-72.639731,
+    "iso:country":"US",
+    "sg:address":"995 Marlboro Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 258 9020",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t6XStzPaz4CA9JMYUAQLb_42.870344_-72.639731@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313606,
+    "wof:geomhash":"214ebec00dd30da1c165e6798d7cdd54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874252045
+        }
+    ],
+    "wof:id":874252045,
+    "wof:lastmodified":1464313606,
+    "wof:name":"Stoneybrook Motel",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -72.639731,
+    42.870344,
+    -72.639731,
+    42.870344
+],
+  "geometry": {"coordinates":[-72.639731,42.870344],"type":"Point"}
+}

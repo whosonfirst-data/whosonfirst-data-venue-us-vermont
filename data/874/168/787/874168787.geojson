@@ -1,0 +1,73 @@
+{
+  "id": 874168787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.499094,44.262316,-72.499094,44.262316",
+    "geom:latitude":44.262316,
+    "geom:longitude":-72.499094,
+    "iso:country":"US",
+    "sg:address":"2188 US Hwy 2",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 5805",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ledr55wXxF228kCtlvjMk_44.262316_-72.499094@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312515,
+    "wof:geomhash":"8ca2b1918e054b8c9ca723e993757763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874168787
+        }
+    ],
+    "wof:id":874168787,
+    "wof:lastmodified":1464312515,
+    "wof:name":"Parker Sales & Svc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -72.499094,
+    44.262316,
+    -72.499094,
+    44.262316
+],
+  "geometry": {"coordinates":[-72.499094,44.262316],"type":"Point"}
+}

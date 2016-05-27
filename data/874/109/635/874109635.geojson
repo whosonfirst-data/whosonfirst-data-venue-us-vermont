@@ -1,0 +1,71 @@
+{
+  "id": 874109635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.089773,44.063953,-73.089773,44.063953",
+    "geom:latitude":44.063953,
+    "geom:longitude":-73.089773,
+    "iso:country":"US",
+    "sg:address":"4817 State Rte 116",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3123",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vC9LG7uAJfA6GqbcHskPX_44.063953_-73.089773@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311909,
+    "wof:geomhash":"87cbac1ea8f56db97ab709db2aefd04d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874109635
+        }
+    ],
+    "wof:id":874109635,
+    "wof:lastmodified":1464311909,
+    "wof:name":"Green Mountain Fmly Campground",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -73.089773,
+    44.063953,
+    -73.089773,
+    44.063953
+],
+  "geometry": {"coordinates":[-73.08977299999999,44.063953],"type":"Point"}
+}

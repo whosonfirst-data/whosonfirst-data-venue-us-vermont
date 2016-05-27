@@ -1,0 +1,73 @@
+{
+  "id": 874011619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.496659,44.197304,-72.496659,44.197304",
+    "geom:latitude":44.197304,
+    "geom:longitude":-72.496659,
+    "iso:country":"US",
+    "sg:address":"13 East St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4880",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B4Yaif4G1PfgUAA32rlEp_44.197304_-72.496659@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310866,
+    "wof:geomhash":"612d23665f534311b87f1994e4252abb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874011619
+        }
+    ],
+    "wof:id":874011619,
+    "wof:lastmodified":1464310866,
+    "wof:name":"Brigham Properties",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.496659,
+    44.197304,
+    -72.496659,
+    44.197304
+],
+  "geometry": {"coordinates":[-72.49665899999999,44.197304],"type":"Point"}
+}

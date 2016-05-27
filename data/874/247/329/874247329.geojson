@@ -1,0 +1,73 @@
+{
+  "id": 874247329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.109531,44.490375,-73.109531,44.490375",
+    "geom:latitude":44.490375,
+    "geom:longitude":-73.109531,
+    "iso:country":"US",
+    "sg:address":"16 Railroad St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 1619",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_226L7Jt4wQ0f42RKmcARM8_44.490375_-73.109531@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313478,
+    "wof:geomhash":"33d6e56d8f3e78db13a54abdc086f654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874247329
+        }
+    ],
+    "wof:id":874247329,
+    "wof:lastmodified":1464313478,
+    "wof:name":"Edwin J Guilfoy MD",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.109531,
+    44.490375,
+    -73.109531,
+    44.490375
+],
+  "geometry": {"coordinates":[-73.109531,44.490375],"type":"Point"}
+}

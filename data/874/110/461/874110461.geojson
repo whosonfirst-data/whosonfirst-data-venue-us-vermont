@@ -1,0 +1,73 @@
+{
+  "id": 874110461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214214,44.489502,-73.214214,44.489502",
+    "geom:latitude":44.489502,
+    "geom:longitude":-73.214214,
+    "iso:country":"US",
+    "sg:address":"303 Manhattan Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 3748",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N8jce8eH76p61KqtdzrSO_44.489502_-73.214214@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311928,
+    "wof:geomhash":"213d0ab0fddd5306dfdc9506f6d91f83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874110461
+        }
+    ],
+    "wof:id":874110461,
+    "wof:lastmodified":1464311928,
+    "wof:name":"North End Maintenance",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.214214,
+    44.489502,
+    -73.214214,
+    44.489502
+],
+  "geometry": {"coordinates":[-73.214214,44.489502],"type":"Point"}
+}

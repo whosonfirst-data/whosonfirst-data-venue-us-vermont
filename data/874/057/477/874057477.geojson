@@ -1,0 +1,71 @@
+{
+  "id": 874057477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.548181,44.223459,-72.548181,44.223459",
+    "geom:latitude":44.223459,
+    "geom:longitude":-72.548181,
+    "iso:country":"US",
+    "sg:address":"168 Ames Dr",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0090",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lZyRwDrpdFSOxTEPXPpjr_44.223459_-72.548181@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311313,
+    "wof:geomhash":"58590a1533e99b2dfb3c65dd828b55e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874057477
+        }
+    ],
+    "wof:id":874057477,
+    "wof:lastmodified":1464311313,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.548181,
+    44.223459,
+    -72.548181,
+    44.223459
+],
+  "geometry": {"coordinates":[-72.548181,44.223459],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874143933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.043617,44.505862,-73.043617,44.505862",
+    "geom:latitude":44.505862,
+    "geom:longitude":-73.043617,
+    "iso:country":"US",
+    "sg:address":"63 Jericho Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 2849",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wrd7hHIkOojnyfUhzrDKm_44.505862_-73.043617@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312271,
+    "wof:geomhash":"41e6a8d6e2fdd7a2eab545ff2302a630",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874143933
+        }
+    ],
+    "wof:id":874143933,
+    "wof:lastmodified":1464312271,
+    "wof:name":"Sharper Image Painting Inc",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.043617,
+    44.505862,
+    -73.043617,
+    44.505862
+],
+  "geometry": {"coordinates":[-73.043617,44.505862],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874019903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.166581,44.015996,-73.166581,44.015996",
+    "geom:latitude":44.015996,
+    "geom:longitude":-73.166581,
+    "iso:country":"US",
+    "sg:address":"31 John Graham Ct",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 8480",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "publisher"
+    ],
+    "sg:website":"www.vermontmagazine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qWmXTKaYCC9T7KEO6lqD7_44.015996_-73.166581@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310947,
+    "wof:geomhash":"38b7d90d2349b0130b836395298ff29d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874019903
+        }
+    ],
+    "wof:id":874019903,
+    "wof:lastmodified":1464310947,
+    "wof:name":"Vermont Magazine",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher"
+    ]
+},
+  "bbox": [
+    -73.166581,
+    44.015996,
+    -73.166581,
+    44.015996
+],
+  "geometry": {"coordinates":[-73.16658099999999,44.015996],"type":"Point"}
+}

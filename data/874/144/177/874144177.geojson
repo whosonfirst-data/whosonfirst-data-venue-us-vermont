@@ -1,0 +1,72 @@
+{
+  "id": 874144177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.489763,44.242771,-72.489763,44.242771",
+    "geom:latitude":44.242771,
+    "geom:longitude":-72.489763,
+    "iso:country":"US",
+    "sg:address":"75 State Rte 14",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 5245",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.washingtonco-op.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wjbSsJ5rQbG1gWJaiJkll_44.242771_-72.489763@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312273,
+    "wof:geomhash":"1e253a23d1816ece0beb3081a44224ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874144177
+        }
+    ],
+    "wof:id":874144177,
+    "wof:lastmodified":1464312273,
+    "wof:name":"Washington Elect Co-Op Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -72.489763,
+    44.242771,
+    -72.489763,
+    44.242771
+],
+  "geometry": {"coordinates":[-72.489763,44.242771],"type":"Point"}
+}

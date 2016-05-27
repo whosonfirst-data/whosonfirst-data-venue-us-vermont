@@ -1,0 +1,69 @@
+{
+  "id": 874071033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.156908,44.002761,-73.156908,44.002761",
+    "geom:latitude":44.002761,
+    "geom:longitude":-73.156908,
+    "iso:country":"US",
+    "sg:address":"55 Middle Rd N",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 0003",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bAp3sZim6eZu0Wh6P0wC4_44.002761_-73.156908@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311445,
+    "wof:geomhash":"925302d61fffc3bc8670568da6dbf2b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874071033
+        }
+    ],
+    "wof:id":874071033,
+    "wof:lastmodified":1464311445,
+    "wof:name":"Middlebury Discount Foods",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.156908,
+    44.002761,
+    -73.156908,
+    44.002761
+],
+  "geometry": {"coordinates":[-73.156908,44.002761],"type":"Point"}
+}

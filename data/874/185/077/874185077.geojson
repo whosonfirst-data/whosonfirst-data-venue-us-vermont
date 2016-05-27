@@ -1,0 +1,75 @@
+{
+  "id": 874185077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.598558,42.852602,-72.598558,42.852602",
+    "geom:latitude":42.852602,
+    "geom:longitude":-72.598558,
+    "iso:country":"US",
+    "sg:address":"205 Western Ave",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 4565",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HtGCGL9BkCF0wZD2GJW4l_42.852602_-72.598558@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312692,
+    "wof:geomhash":"267846451ff34ecc7c052177a2b3345b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874185077
+        }
+    ],
+    "wof:id":874185077,
+    "wof:lastmodified":1464312692,
+    "wof:name":"Sunoco",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.598558,
+    42.852602,
+    -72.598558,
+    42.852602
+],
+  "geometry": {"coordinates":[-72.598558,42.852602],"type":"Point"}
+}

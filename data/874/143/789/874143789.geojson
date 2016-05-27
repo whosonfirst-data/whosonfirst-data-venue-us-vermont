@@ -1,0 +1,71 @@
+{
+  "id": 874143789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.978725,43.602213,-72.978725,43.602213",
+    "geom:latitude":43.602213,
+    "geom:longitude":-72.978725,
+    "iso:country":"US",
+    "sg:address":"71 River St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 786 9075",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "el",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MJfzPwmRrzSK9ZGU6GLQY_43.602213_-72.978725@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312269,
+    "wof:geomhash":"ddbe139cee305bfa1fae40cc94f84528",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874143789
+        }
+    ],
+    "wof:id":874143789,
+    "wof:lastmodified":1464312269,
+    "wof:name":"Interstate Battery Green Mtn",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "el",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.978725,
+    43.602213,
+    -72.978725,
+    43.602213
+],
+  "geometry": {"coordinates":[-72.978725,43.602213],"type":"Point"}
+}

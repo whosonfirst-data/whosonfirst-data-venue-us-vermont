@@ -1,0 +1,71 @@
+{
+  "id": 874210175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.066166,43.785792,-73.066166,43.785792",
+    "geom:latitude":43.785792,
+    "geom:longitude":-73.066166,
+    "iso:country":"US",
+    "sg:address":"1408 Franklin St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3040",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X9O9gP5C5nJoXxfdDwKWj_43.785792_-73.066166@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312951,
+    "wof:geomhash":"cefc46e330a6d08b754fd8f6c9ee1af7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874210175
+        }
+    ],
+    "wof:id":874210175,
+    "wof:lastmodified":1464312951,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -73.066166,
+    43.785792,
+    -73.066166,
+    43.785792
+],
+  "geometry": {"coordinates":[-73.066166,43.785792],"type":"Point"}
+}

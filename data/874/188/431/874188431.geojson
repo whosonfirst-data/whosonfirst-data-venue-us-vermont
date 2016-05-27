@@ -1,0 +1,71 @@
+{
+  "id": 874188431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.194919,44.53037,-73.194919,44.53037",
+    "geom:latitude":44.53037,
+    "geom:longitude":-73.194919,
+    "iso:country":"US",
+    "sg:address":"1346 Blakely Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 1711",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44VGgxVV9gfbVLXtUk6nTR_44.530370_-73.194919@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312725,
+    "wof:geomhash":"a39cf76662466050f286707b58990fcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874188431
+        }
+    ],
+    "wof:id":874188431,
+    "wof:lastmodified":1464312725,
+    "wof:name":"Jasco",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.194919,
+    44.53037,
+    -73.194919,
+    44.53037
+],
+  "geometry": {"coordinates":[-73.194919,44.53037],"type":"Point"}
+}

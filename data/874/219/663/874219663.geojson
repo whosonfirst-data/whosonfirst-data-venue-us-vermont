@@ -1,0 +1,71 @@
+{
+  "id": 874219663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.115496,44.444743,-73.115496,44.444743",
+    "geom:latitude":44.444743,
+    "geom:longitude":-73.115496,
+    "iso:country":"US",
+    "sg:address":"21 Trader Ln",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 1819",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J8Pjp0CcDRYQ2q1LlXm4L_44.444743_-73.115496@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313054,
+    "wof:geomhash":"2b96204e065a2081ed4b90a60b3a915a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874219663
+        }
+    ],
+    "wof:id":874219663,
+    "wof:lastmodified":1464313054,
+    "wof:name":"Petsmart",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.115496,
+    44.444743,
+    -73.115496,
+    44.444743
+],
+  "geometry": {"coordinates":[-73.11549599999999,44.444743],"type":"Point"}
+}

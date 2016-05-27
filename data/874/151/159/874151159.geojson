@@ -1,0 +1,71 @@
+{
+  "id": 874151159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.503521,43.316391,-72.503521,43.316391",
+    "geom:latitude":43.316391,
+    "geom:longitude":-72.503521,
+    "iso:country":"US",
+    "sg:address":"441 River St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 3937",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23xfI5iZcHtRjqzlKar2oS_43.316391_-72.503521@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312339,
+    "wof:geomhash":"9d032bb2ef2e8413c88ad96310e75e3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874151159
+        }
+    ],
+    "wof:id":874151159,
+    "wof:lastmodified":1464312339,
+    "wof:name":"Lane Eye Assoc",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.503521,
+    43.316391,
+    -72.503521,
+    43.316391
+],
+  "geometry": {"coordinates":[-72.50352100000001,43.316391],"type":"Point"}
+}

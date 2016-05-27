@@ -1,0 +1,71 @@
+{
+  "id": 874240711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.828675,44.69788,-72.828675,44.69788",
+    "geom:latitude":44.69788,
+    "geom:longitude":-72.828675,
+    "iso:country":"US",
+    "sg:address":"2910 State Rte 108",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8080",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49cjbv2F5BmFiHd6JfpzsK_44.697880_-72.828675@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313353,
+    "wof:geomhash":"d10da214d96d5b83f3ea1175586daa60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874240711
+        }
+    ],
+    "wof:id":874240711,
+    "wof:lastmodified":1464313353,
+    "wof:name":"Brook Gallup Fencing",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.828675,
+    44.69788,
+    -72.828675,
+    44.69788
+],
+  "geometry": {"coordinates":[-72.828675,44.69788],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874021661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.207463,43.821465,-72.207463,43.821465",
+    "geom:latitude":43.821465,
+    "geom:longitude":-72.207463,
+    "iso:country":"US",
+    "sg:address":"905 Sanborn Rd",
+    "sg:city":"North Thetford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 785 4054",
+    "sg:postcode":"05054",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mu4cVlYmH1zsXtCe25AlH_43.821465_-72.207463@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310962,
+    "wof:geomhash":"b9a449cbca2c8df19da2d514835eb0dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874021661
+        }
+    ],
+    "wof:id":874021661,
+    "wof:lastmodified":1464310962,
+    "wof:name":"Bob's Remodeling & Building",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -72.207463,
+    43.821465,
+    -72.207463,
+    43.821465
+],
+  "geometry": {"coordinates":[-72.207463,43.821465],"type":"Point"}
+}

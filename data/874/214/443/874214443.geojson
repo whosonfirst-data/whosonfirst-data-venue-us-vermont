@@ -1,0 +1,74 @@
+{
+  "id": 874214443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.975237,43.624081,-72.975237,43.624081",
+    "geom:latitude":43.624081,
+    "geom:longitude":-72.975237,
+    "iso:country":"US",
+    "sg:address":"217 N Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 1040",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K2mEDjg2T5kYKTDWrf7zW_43.624081_-72.975237@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312998,
+    "wof:geomhash":"651a8583a653b399591585373a75a5ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874214443
+        }
+    ],
+    "wof:id":874214443,
+    "wof:lastmodified":1464312998,
+    "wof:name":"Brook Tenney Market",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -72.975237,
+    43.624081,
+    -72.975237,
+    43.624081
+],
+  "geometry": {"coordinates":[-72.97523700000001,43.624081],"type":"Point"}
+}

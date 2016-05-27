@@ -1,0 +1,73 @@
+{
+  "id": 874036025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.607618,43.382279,-72.607618,43.382279",
+    "geom:latitude":43.382279,
+    "geom:longitude":-72.607618,
+    "iso:country":"US",
+    "sg:address":"2167 Main St",
+    "sg:city":"Cavendish",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 226 8188",
+    "sg:postcode":"05142",
+    "sg:province":"VT",
+    "sg:tags":[
+        "resort",
+        "center",
+        "skiing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26GPEPbo0YPI0o9k57cjUm_43.382279_-72.607618@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311104,
+    "wof:geomhash":"c74b7810fa8de2fa2df44569807df40c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874036025
+        }
+    ],
+    "wof:id":874036025,
+    "wof:lastmodified":1464311104,
+    "wof:name":"Vermont Alpine Racing Assoc",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resort",
+        "center",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -72.607618,
+    43.382279,
+    -72.607618,
+    43.382279
+],
+  "geometry": {"coordinates":[-72.607618,43.382279],"type":"Point"}
+}

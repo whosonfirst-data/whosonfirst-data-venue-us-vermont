@@ -1,0 +1,71 @@
+{
+  "id": 874239775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213722,44.472822,-73.213722,44.472822",
+    "geom:latitude":44.472822,
+    "geom:longitude":-73.213722,
+    "iso:country":"US",
+    "sg:address":"230 Saint Paul St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 4817",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pROpOcN6qS24amSkIz55c_44.472822_-73.213722@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313335,
+    "wof:geomhash":"59ed1dabf8cecac52b4349c3b066623f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874239775
+        }
+    ],
+    "wof:id":874239775,
+    "wof:lastmodified":1464313335,
+    "wof:name":"Power House Entertainment",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group"
+    ]
+},
+  "bbox": [
+    -73.213722,
+    44.472822,
+    -73.213722,
+    44.472822
+],
+  "geometry": {"coordinates":[-73.213722,44.472822],"type":"Point"}
+}

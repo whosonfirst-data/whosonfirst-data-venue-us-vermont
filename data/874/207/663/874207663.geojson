@@ -1,0 +1,71 @@
+{
+  "id": 874207663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.221032,44.484473,-73.221032,44.484473",
+    "geom:latitude":44.484473,
+    "geom:longitude":-73.221032,
+    "iso:country":"US",
+    "sg:address":"36 Blodgett St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 7587",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q0tz4eJFEh0Q14b4E9HGL_44.484473_-73.221032@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312926,
+    "wof:geomhash":"c2c5b47eb5986cd3aae8663067b1346d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874207663
+        }
+    ],
+    "wof:id":874207663,
+    "wof:lastmodified":1464312926,
+    "wof:name":"Lmj Construction",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.221032,
+    44.484473,
+    -73.221032,
+    44.484473
+],
+  "geometry": {"coordinates":[-73.22103199999999,44.484473],"type":"Point"}
+}

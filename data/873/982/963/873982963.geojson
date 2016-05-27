@@ -1,0 +1,71 @@
+{
+  "id": 873982963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.575941,44.21006,-72.575941,44.21006",
+    "geom:latitude":44.21006,
+    "geom:longitude":-72.575941,
+    "iso:country":"US",
+    "sg:address":"84 Edgemoor Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 6937",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77FXja8Q3R8lDG6gUQefLd_44.210060_-72.575941@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310632,
+    "wof:geomhash":"78a408d9e04ebcf4aa987b094895184e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873982963
+        }
+    ],
+    "wof:id":873982963,
+    "wof:lastmodified":1464310632,
+    "wof:name":"Stpierre Catering",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.575941,
+    44.21006,
+    -72.575941,
+    44.21006
+],
+  "geometry": {"coordinates":[-72.575941,44.21006],"type":"Point"}
+}

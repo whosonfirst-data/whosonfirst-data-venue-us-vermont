@@ -1,0 +1,73 @@
+{
+  "id": 874081131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.504356,44.1995,-72.504356,44.1995",
+    "geom:latitude":44.1995,
+    "geom:longitude":-72.504356,
+    "iso:country":"US",
+    "sg:address":"230 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 4344",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PBToHrsbjARbQJHQU97dk_44.199500_-72.504356@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311565,
+    "wof:geomhash":"07a11c2a2d7a490b5ba0d4311ac8931a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874081131
+        }
+    ],
+    "wof:id":874081131,
+    "wof:lastmodified":1464311565,
+    "wof:name":"Cuzzins Night Club",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -72.504356,
+    44.1995,
+    -72.504356,
+    44.1995
+],
+  "geometry": {"coordinates":[-72.504356,44.1995],"type":"Point"}
+}

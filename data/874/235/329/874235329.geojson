@@ -1,0 +1,71 @@
+{
+  "id": 874235329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.249975,44.169462,-73.249975,44.169462",
+    "geom:latitude":44.169462,
+    "geom:longitude":-73.249975,
+    "iso:country":"US",
+    "sg:address":"15 Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3782",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_246ZHk0IzjEUJt7YhFNBcb_44.169462_-73.249975@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313247,
+    "wof:geomhash":"4f02f3db43a87c65b96b654b4273220a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874235329
+        }
+    ],
+    "wof:id":874235329,
+    "wof:lastmodified":1464313247,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.249975,
+    44.169462,
+    -73.249975,
+    44.169462
+],
+  "geometry": {"coordinates":[-73.24997500000001,44.169462],"type":"Point"}
+}

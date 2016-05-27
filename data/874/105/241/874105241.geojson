@@ -1,0 +1,71 @@
+{
+  "id": 874105241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.802805,44.908055,-72.802805,44.908055",
+    "geom:latitude":44.908055,
+    "geom:longitude":-72.802805,
+    "iso:country":"US",
+    "sg:address":"4 Archambault St",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 2855",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yT3bXqs2mMfoazxPFS1Ww_44.908055_-72.802805@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311860,
+    "wof:geomhash":"140563a985f81fba51ce6d6b608102c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874105241
+        }
+    ],
+    "wof:id":874105241,
+    "wof:lastmodified":1464311860,
+    "wof:name":"Classic Consignments",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -72.802805,
+    44.908055,
+    -72.802805,
+    44.908055
+],
+  "geometry": {"coordinates":[-72.80280500000001,44.908055],"type":"Point"}
+}

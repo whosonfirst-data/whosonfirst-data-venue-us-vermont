@@ -1,0 +1,72 @@
+{
+  "id": 873992417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.009115,43.242228,-73.009115,43.242228",
+    "geom:latitude":43.242228,
+    "geom:longitude":-73.009115,
+    "iso:country":"US",
+    "sg:address":"85 Cook Rd",
+    "sg:city":"East Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 1477",
+    "sg:postcode":"05253",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.frostwellsandpumps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820639,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w5Xpw1QMQ6Uecf864JVz5_43.242228_-73.009115@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310708,
+    "wof:geomhash":"590f8d6ed25416c1fe5d24f90ba6fd73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85820639,
+            "region_id":85688763,
+            "venue_id":873992417
+        }
+    ],
+    "wof:id":873992417,
+    "wof:lastmodified":1464310708,
+    "wof:name":"Frost Wells & Pumps",
+    "wof:parent_id":85820639,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.009115,
+    43.242228,
+    -73.009115,
+    43.242228
+],
+  "geometry": {"coordinates":[-73.00911499999999,43.242228],"type":"Point"}
+}

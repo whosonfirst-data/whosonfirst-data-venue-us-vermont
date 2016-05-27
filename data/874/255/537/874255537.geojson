@@ -1,0 +1,72 @@
+{
+  "id": 874255537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.399399,44.304401,-72.399399,44.304401",
+    "geom:latitude":44.304401,
+    "geom:longitude":-72.399399,
+    "iso:country":"US",
+    "sg:address":"5630 US Route 2",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3383",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:website":"www.marshfieldinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eOOX7xbFFr0h8CDhHEdG4_44.304401_-72.399399@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313687,
+    "wof:geomhash":"7400cbb3f335bfc3925d04923e97af61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874255537
+        }
+    ],
+    "wof:id":874255537,
+    "wof:lastmodified":1464313687,
+    "wof:name":"Marshfield Inn & Motel",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.399399,
+    44.304401,
+    -72.399399,
+    44.304401
+],
+  "geometry": {"coordinates":[-72.399399,44.304401],"type":"Point"}
+}

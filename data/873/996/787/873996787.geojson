@@ -1,0 +1,71 @@
+{
+  "id": 873996787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212312,44.460627,-73.212312,44.460627",
+    "geom:latitude":44.460627,
+    "geom:longitude":-73.212312,
+    "iso:country":"US",
+    "sg:address":"107 Cherry Ln",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 8903",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PnP1BV6jyYku7LNEvwlqA_44.460627_-73.212312@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310738,
+    "wof:geomhash":"562886deb96e1804927414d7b0ebdbbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873996787
+        }
+    ],
+    "wof:id":873996787,
+    "wof:lastmodified":1464310738,
+    "wof:name":"Patullo Consulting Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -73.212312,
+    44.460627,
+    -73.212312,
+    44.460627
+],
+  "geometry": {"coordinates":[-73.212312,44.460627],"type":"Point"}
+}

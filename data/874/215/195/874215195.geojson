@@ -1,0 +1,76 @@
+{
+  "id": 874215195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.505276,44.204391,-72.505276,44.204391",
+    "geom:latitude":44.204391,
+    "geom:longitude":-72.505276,
+    "iso:country":"US",
+    "sg:address":"39 Maple Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5516",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wGUYbFpguYyNI6jxkL1Hi_44.204391_-72.505276@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313006,
+    "wof:geomhash":"a9edcec75dcb0b6365fb47ac6449a872",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874215195
+        }
+    ],
+    "wof:id":874215195,
+    "wof:lastmodified":1464313006,
+    "wof:name":"Maple Avenue Deli Mart",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -72.505276,
+    44.204391,
+    -72.505276,
+    44.204391
+],
+  "geometry": {"coordinates":[-72.50527599999999,44.204391],"type":"Point"}
+}

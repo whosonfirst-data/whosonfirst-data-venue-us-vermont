@@ -1,0 +1,73 @@
+{
+  "id": 874033289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.954187,44.504807,-72.954187,44.504807",
+    "geom:latitude":44.504807,
+    "geom:longitude":-72.954187,
+    "iso:country":"US",
+    "sg:address":"510 Browns Trace Rd",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 3180",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bfrrHeJJt6DBLk74tMUdI_44.504807_-72.954187@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311078,
+    "wof:geomhash":"3201428051c6c7c1c5cdbc96edebb994",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874033289
+        }
+    ],
+    "wof:id":874033289,
+    "wof:lastmodified":1464311078,
+    "wof:name":"Jericho Highway Dept",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -72.954187,
+    44.504807,
+    -72.954187,
+    44.504807
+],
+  "geometry": {"coordinates":[-72.954187,44.504807],"type":"Point"}
+}

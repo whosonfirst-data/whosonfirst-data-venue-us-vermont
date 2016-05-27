@@ -1,0 +1,69 @@
+{
+  "id": 874173215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.575814,44.309204,-72.575814,44.309204",
+    "geom:latitude":44.309204,
+    "geom:longitude":-72.575814,
+    "iso:country":"US",
+    "sg:address":"3 Mill Rd",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 7621",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85859175,
+        102080779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qY1xWaFNT7X9JOaAhiyQ2_44.309204_-72.575814@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312560,
+    "wof:geomhash":"f031debd8bd64729440f329deea870d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "neighbourhood_id":85859175,
+            "region_id":85688763,
+            "venue_id":874173215
+        }
+    ],
+    "wof:id":874173215,
+    "wof:lastmodified":1464312560,
+    "wof:name":"Bob's Trucking",
+    "wof:parent_id":85859175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -72.575814,
+    44.309204,
+    -72.575814,
+    44.309204
+],
+  "geometry": {"coordinates":[-72.57581399999999,44.309204],"type":"Point"}
+}

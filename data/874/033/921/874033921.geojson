@@ -1,0 +1,71 @@
+{
+  "id": 874033921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.347081,44.678258,-73.347081,44.678258",
+    "geom:latitude":44.678258,
+    "geom:longitude":-73.347081,
+    "iso:country":"US",
+    "sg:address":"11 W Shore Rd",
+    "sg:city":"Grand Isle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 372 6900",
+    "sg:postcode":"05458",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85822321,
+        102080783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_546djWZJ1mTMht3K355fCq_44.678258_-73.347081@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311084,
+    "wof:geomhash":"c5ea4949e546c32501c6c75040f82cf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080783,
+            "neighbourhood_id":85822321,
+            "region_id":85688763,
+            "venue_id":874033921
+        }
+    ],
+    "wof:id":874033921,
+    "wof:lastmodified":1464311084,
+    "wof:name":"Kneen Electric",
+    "wof:parent_id":85822321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.347081,
+    44.678258,
+    -73.347081,
+    44.678258
+],
+  "geometry": {"coordinates":[-73.347081,44.678258],"type":"Point"}
+}

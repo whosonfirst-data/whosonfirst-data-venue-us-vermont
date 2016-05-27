@@ -1,0 +1,74 @@
+{
+  "id": 874060009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.003157,44.532453,-72.003157,44.532453",
+    "geom:latitude":44.532453,
+    "geom:longitude":-72.003157,
+    "iso:country":"US",
+    "sg:address":"18 Tulip St",
+    "sg:city":"Lyndon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 3891",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mrQSrRExoe5C8JjUGS4MN_44.532453_-72.003157@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311335,
+    "wof:geomhash":"5296d3864d807eceb8d046e9f8fd2b11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874060009
+        }
+    ],
+    "wof:id":874060009,
+    "wof:lastmodified":1464311335,
+    "wof:name":"Benjie C Tessier CPA LLC",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -72.003157,
+    44.532453,
+    -72.003157,
+    44.532453
+],
+  "geometry": {"coordinates":[-72.003157,44.532453],"type":"Point"}
+}

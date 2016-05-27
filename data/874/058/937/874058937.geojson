@@ -1,0 +1,73 @@
+{
+  "id": 874058937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.216754,44.472412,-73.216754,44.472412",
+    "geom:latitude":44.472412,
+    "geom:longitude":-73.216754,
+    "iso:country":"US",
+    "sg:address":"234 S Champlain St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 6784",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ufHzThKrpkFp2gHCDb3jp_44.472412_-73.216754@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311325,
+    "wof:geomhash":"17f70b0140594006138c158304bbdf94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874058937
+        }
+    ],
+    "wof:id":874058937,
+    "wof:lastmodified":1464311325,
+    "wof:name":"Mill Bobbin Apartments Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.216754,
+    44.472412,
+    -73.216754,
+    44.472412
+],
+  "geometry": {"coordinates":[-73.21675399999999,44.472412],"type":"Point"}
+}

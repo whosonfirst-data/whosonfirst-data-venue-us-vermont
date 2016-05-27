@@ -1,0 +1,71 @@
+{
+  "id": 874088527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.582287,44.529533,-72.582287,44.529533",
+    "geom:latitude":44.529533,
+    "geom:longitude":-72.582287,
+    "iso:country":"US",
+    "sg:address":"691 Earl Gray Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 4353",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x8Jfi40wYbPOZuhcjWZZo_44.529533_-72.582287@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311646,
+    "wof:geomhash":"45c8b2f59fec045ff8b50357308a86ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874088527
+        }
+    ],
+    "wof:id":874088527,
+    "wof:lastmodified":1464311646,
+    "wof:name":"Perras Brothers LLC",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.582287,
+    44.529533,
+    -72.582287,
+    44.529533
+],
+  "geometry": {"coordinates":[-72.58228699999999,44.529533],"type":"Point"}
+}

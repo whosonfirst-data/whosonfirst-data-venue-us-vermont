@@ -1,0 +1,71 @@
+{
+  "id": 874249321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214032,44.476667,-73.214032,44.476667",
+    "geom:latitude":44.476667,
+    "geom:longitude":-73.214032,
+    "iso:country":"US",
+    "sg:address":"121 Saint Paul St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 6762",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J7LNelpckVXN8VlgSbbJQ_44.476184_-73.214098@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313547,
+    "wof:geomhash":"9c715733dd2731113a28fcb1cdbb0c69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874249321
+        }
+    ],
+    "wof:id":874249321,
+    "wof:lastmodified":1464313547,
+    "wof:name":"Jac Huntley",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -73.214032,
+    44.476667,
+    -73.214032,
+    44.476667
+],
+  "geometry": {"coordinates":[-73.214032,44.476667],"type":"Point"}
+}

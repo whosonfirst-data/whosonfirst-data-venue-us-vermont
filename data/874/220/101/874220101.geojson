@@ -1,0 +1,71 @@
+{
+  "id": 874220101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.512737,44.20697,-72.512737,44.20697",
+    "geom:latitude":44.20697,
+    "geom:longitude":-72.512737,
+    "iso:country":"US",
+    "sg:address":"520 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2350",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36K3ctBURbq4hqyJVDXQ5X_44.206970_-72.512737@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313062,
+    "wof:geomhash":"4e359d68ccddad40123b3d47a43c9cfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874220101
+        }
+    ],
+    "wof:id":874220101,
+    "wof:lastmodified":1464313062,
+    "wof:name":"Door Works",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -72.512737,
+    44.20697,
+    -72.512737,
+    44.20697
+],
+  "geometry": {"coordinates":[-72.512737,44.20697],"type":"Point"}
+}

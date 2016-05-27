@@ -1,0 +1,66 @@
+{
+  "id": 874137579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.118017,44.138684,-73.118017,44.138684",
+    "geom:latitude":44.138684,
+    "geom:longitude":-73.118017,
+    "iso:country":"US",
+    "sg:address":"604 Sawyer Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3184",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XoG0Kd0jGfCmI6qPZ7vRU_44.138684_-73.118017@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312214,
+    "wof:geomhash":"ffa2b4f37a1efa8429bf634ca74d3c33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874137579
+        }
+    ],
+    "wof:id":874137579,
+    "wof:lastmodified":1464312214,
+    "wof:name":"Clover Set Farm",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.118017,
+    44.138684,
+    -73.118017,
+    44.138684
+],
+  "geometry": {"coordinates":[-73.11801699999999,44.138684],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874028647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.108699,44.489955,-73.108699,44.489955",
+    "geom:latitude":44.489955,
+    "geom:longitude":-73.108699,
+    "iso:country":"US",
+    "sg:address":"16 Maple St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 7530",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZVZJgsdShn50MKQzitubr_44.489955_-73.108699@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311030,
+    "wof:geomhash":"f9216c1c61e49d5ae3a8bfe0a90849b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874028647
+        }
+    ],
+    "wof:id":874028647,
+    "wof:lastmodified":1464311030,
+    "wof:name":"Ron Bushey Auto Repair",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.108699,
+    44.489955,
+    -73.108699,
+    44.489955
+],
+  "geometry": {"coordinates":[-73.108699,44.489955],"type":"Point"}
+}

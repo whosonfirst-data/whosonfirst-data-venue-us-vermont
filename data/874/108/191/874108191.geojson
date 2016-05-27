@@ -1,0 +1,73 @@
+{
+  "id": 874108191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.790183,44.252118,-72.790183,44.252118",
+    "geom:latitude":44.252118,
+    "geom:longitude":-72.790183,
+    "iso:country":"US",
+    "sg:address":"105 Clark Rd",
+    "sg:city":"Moretown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 244 1368",
+    "sg:postcode":"05660",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815147,
+        102080779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PnRCpobyus6elL4r2czk5_44.252118_-72.790183@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311896,
+    "wof:geomhash":"6b5d65f6f1fb353fa674122486107e2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "neighbourhood_id":85815147,
+            "region_id":85688763,
+            "venue_id":874108191
+        }
+    ],
+    "wof:id":874108191,
+    "wof:lastmodified":1464311896,
+    "wof:name":"Sweet Electrical Services Inc",
+    "wof:parent_id":85815147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.790183,
+    44.252118,
+    -72.790183,
+    44.252118
+],
+  "geometry": {"coordinates":[-72.790183,44.252118],"type":"Point"}
+}

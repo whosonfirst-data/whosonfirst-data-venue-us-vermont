@@ -1,0 +1,71 @@
+{
+  "id": 874102065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.588551,44.247237,-72.588551,44.247237",
+    "geom:latitude":44.247237,
+    "geom:longitude":-72.588551,
+    "iso:country":"US",
+    "sg:address":"155 Northfield St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 4338",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79GcSUb1V0oUq2majqAjWu_44.247237_-72.588551@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311819,
+    "wof:geomhash":"d4ddc0e398f416b4fd928e850ee13b01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874102065
+        }
+    ],
+    "wof:id":874102065,
+    "wof:lastmodified":1464311819,
+    "wof:name":"Orchard Valley School",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -72.588551,
+    44.247237,
+    -72.588551,
+    44.247237
+],
+  "geometry": {"coordinates":[-72.588551,44.247237],"type":"Point"}
+}

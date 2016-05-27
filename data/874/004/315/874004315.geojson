@@ -1,0 +1,70 @@
+{
+  "id": 874004315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.52183,42.974569,-72.52183,42.974569",
+    "geom:latitude":42.974569,
+    "geom:longitude":-72.52183,
+    "iso:country":"US",
+    "sg:address":"127 Main St",
+    "sg:city":"Putney",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 387 5862",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city"
+    ],
+    "sg:website":"www.putneyvt.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vEmMpHtNiBxRm0TjjXKr8_42.974569_-72.521830@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310807,
+    "wof:geomhash":"d8a074b03a47a9039412ce75f8ea28dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874004315
+        }
+    ],
+    "wof:id":874004315,
+    "wof:lastmodified":1464310807,
+    "wof:name":"Town Clerk",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -72.52183,
+    42.974569,
+    -72.52183,
+    42.974569
+],
+  "geometry": {"coordinates":[-72.52182999999999,42.974569],"type":"Point"}
+}

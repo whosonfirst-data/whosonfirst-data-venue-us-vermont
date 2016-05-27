@@ -1,0 +1,71 @@
+{
+  "id": 874245007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.778878,43.674707,-72.778878,43.674707",
+    "geom:latitude":43.674707,
+    "geom:longitude":-72.778878,
+    "iso:country":"US",
+    "sg:address":"2749 River Rd",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 422 3130",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848249,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ozorBUEzdAQK8ZgQLpKUy_43.674707_-72.778878@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313434,
+    "wof:geomhash":"a1443bbfec6d07db67ee7a5afe9d3003",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":874245007
+        }
+    ],
+    "wof:id":874245007,
+    "wof:lastmodified":1464313434,
+    "wof:name":"Merrills Garage III",
+    "wof:parent_id":85848249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.778878,
+    43.674707,
+    -72.778878,
+    43.674707
+],
+  "geometry": {"coordinates":[-72.77887800000001,43.674707],"type":"Point"}
+}

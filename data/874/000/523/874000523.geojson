@@ -1,0 +1,73 @@
+{
+  "id": 874000523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.500672,44.192753,-72.500672,44.192753",
+    "geom:latitude":44.192753,
+    "geom:longitude":-72.500672,
+    "iso:country":"US",
+    "sg:address":"71 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0230",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automotive",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L6qoQ8dO0GxrphHXyfbGx_44.192753_-72.500672@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310764,
+    "wof:geomhash":"ffe78ee7480950078f1ca3a95a605625",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874000523
+        }
+    ],
+    "wof:id":874000523,
+    "wof:lastmodified":1464310764,
+    "wof:name":"Coles Muffler Center",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -72.500672,
+    44.192753,
+    -72.500672,
+    44.192753
+],
+  "geometry": {"coordinates":[-72.50067199999999,44.192753],"type":"Point"}
+}

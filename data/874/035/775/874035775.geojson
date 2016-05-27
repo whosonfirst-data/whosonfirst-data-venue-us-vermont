@@ -1,0 +1,71 @@
+{
+  "id": 874035775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.00592,44.388388,-73.00592,44.388388",
+    "geom:latitude":44.388388,
+    "geom:longitude":-73.00592,
+    "iso:country":"US",
+    "sg:address":"88 Besaw Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 4010",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hIbxVCnI97QZ4BEIFM3ui_44.388388_-73.005920@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311102,
+    "wof:geomhash":"08399541d1a22880b5dd1f829ff3f76d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874035775
+        }
+    ],
+    "wof:id":874035775,
+    "wof:lastmodified":1464311102,
+    "wof:name":"Miller Electric",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.00592,
+    44.388388,
+    -73.00592,
+    44.388388
+],
+  "geometry": {"coordinates":[-73.00592,44.388388],"type":"Point"}
+}

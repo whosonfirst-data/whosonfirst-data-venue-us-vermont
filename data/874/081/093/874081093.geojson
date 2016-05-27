@@ -1,0 +1,71 @@
+{
+  "id": 874081093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.744322,44.736216,-72.744322,44.736216",
+    "geom:latitude":44.736216,
+    "geom:longitude":-72.744322,
+    "iso:country":"US",
+    "sg:address":"3996 State Rte 109",
+    "sg:city":"Belvidere Center",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 6621",
+    "sg:postcode":"05492",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_414lX13MaXyKPeCS8TzqaD_44.736216_-72.744322@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311564,
+    "wof:geomhash":"2d07681efab3496834675baa2463746e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874081093
+        }
+    ],
+    "wof:id":874081093,
+    "wof:lastmodified":1464311564,
+    "wof:name":"Belvidere Town Clerk",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -72.744322,
+    44.736216,
+    -72.744322,
+    44.736216
+],
+  "geometry": {"coordinates":[-72.744322,44.736216],"type":"Point"}
+}

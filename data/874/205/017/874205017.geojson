@@ -1,0 +1,69 @@
+{
+  "id": 874205017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.19699,42.881693,-73.19699,42.881693",
+    "geom:latitude":42.881693,
+    "geom:longitude":-73.19699,
+    "iso:country":"US",
+    "sg:address":"100 Gage St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 7380",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k618oUljsChYEQR7DGOEA_42.881693_-73.196990@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312895,
+    "wof:geomhash":"c749406012feba3f028c4b6a4f19810c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874205017
+        }
+    ],
+    "wof:id":874205017,
+    "wof:lastmodified":1464312895,
+    "wof:name":"HCP Builders",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.19699,
+    42.881693,
+    -73.19699,
+    42.881693
+],
+  "geometry": {"coordinates":[-73.19699,42.881693],"type":"Point"}
+}

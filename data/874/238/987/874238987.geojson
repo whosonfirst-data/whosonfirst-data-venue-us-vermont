@@ -1,0 +1,69 @@
+{
+  "id": 874238987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.154334,44.00526,-73.154334,44.00526",
+    "geom:latitude":44.00526,
+    "geom:longitude":-73.154334,
+    "iso:country":"US",
+    "sg:address":"99 Birchard Park",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3050",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TpJljTEIrzUGJVsJzZ3Gq_44.005260_-73.154334@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313321,
+    "wof:geomhash":"57ad5ec307fee1cdb7ec3b69448712c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874238987
+        }
+    ],
+    "wof:id":874238987,
+    "wof:lastmodified":1464313321,
+    "wof:name":"Counseling Service-Addison",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -73.154334,
+    44.00526,
+    -73.154334,
+    44.00526
+],
+  "geometry": {"coordinates":[-73.15433400000001,44.00526],"type":"Point"}
+}

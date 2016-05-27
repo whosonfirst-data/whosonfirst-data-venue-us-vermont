@@ -1,0 +1,71 @@
+{
+  "id": 874122889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.496494,44.196121,-72.496494,44.196121",
+    "geom:latitude":44.196121,
+    "geom:longitude":-72.496494,
+    "iso:country":"US",
+    "sg:address":"97 Tracy Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 9159",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EMY4jWzwrwSX9nefk5hbU_44.196121_-72.496494@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312067,
+    "wof:geomhash":"ee5a1fa2aa8b8d43b825b98bca01a15b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874122889
+        }
+    ],
+    "wof:id":874122889,
+    "wof:lastmodified":1464312067,
+    "wof:name":"Ken Eldred Builder",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.496494,
+    44.196121,
+    -72.496494,
+    44.196121
+],
+  "geometry": {"coordinates":[-72.496494,44.196121],"type":"Point"}
+}

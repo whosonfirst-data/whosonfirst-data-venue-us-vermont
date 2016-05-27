@@ -1,0 +1,71 @@
+{
+  "id": 874191911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971734,43.605353,-72.971734,43.605353",
+    "geom:latitude":43.605353,
+    "geom:longitude":-72.971734,
+    "iso:country":"US",
+    "sg:address":"226 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 4951",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QjisbJsSKU3wh2sjZylla_43.605353_-72.971734@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312757,
+    "wof:geomhash":"36d857cd7c5e33137d50725344ee57a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874191911
+        }
+    ],
+    "wof:id":874191911,
+    "wof:lastmodified":1464312757,
+    "wof:name":"Cellular One",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -72.971734,
+    43.605353,
+    -72.971734,
+    43.605353
+],
+  "geometry": {"coordinates":[-72.971734,43.605353],"type":"Point"}
+}

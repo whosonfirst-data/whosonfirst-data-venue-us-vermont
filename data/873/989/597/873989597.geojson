@@ -1,0 +1,71 @@
+{
+  "id": 873989597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.031359,44.445434,-73.031359,44.445434",
+    "geom:latitude":44.445434,
+    "geom:longitude":-73.031359,
+    "iso:country":"US",
+    "sg:address":"916 Governor Chittenden Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 1177",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GWbEPiSQwYLn92mHPdSax_44.445434_-73.031359@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310687,
+    "wof:geomhash":"012b84b3fd259cd90eb2be5675e1f8a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":873989597
+        }
+    ],
+    "wof:id":873989597,
+    "wof:lastmodified":1464310687,
+    "wof:name":"Leo's Sanitation",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -73.031359,
+    44.445434,
+    -73.031359,
+    44.445434
+],
+  "geometry": {"coordinates":[-73.03135899999999,44.445434],"type":"Point"}
+}

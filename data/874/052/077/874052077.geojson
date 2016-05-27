@@ -1,0 +1,71 @@
+{
+  "id": 874052077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.522255,42.971326,-72.522255,42.971326",
+    "geom:latitude":42.971326,
+    "geom:longitude":-72.522255,
+    "iso:country":"US",
+    "sg:address":"55 Main St",
+    "sg:city":"Bondville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 297 1221",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35NxZU0VntNtN2Zso4iKi1_42.971326_-72.522255@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311260,
+    "wof:geomhash":"0b3ed0a057c501bd56717c335f9e6dfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874052077
+        }
+    ],
+    "wof:id":874052077,
+    "wof:lastmodified":1464311260,
+    "wof:name":"Wylie Construction",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.522255,
+    42.971326,
+    -72.522255,
+    42.971326
+],
+  "geometry": {"coordinates":[-72.522255,42.971326],"type":"Point"}
+}

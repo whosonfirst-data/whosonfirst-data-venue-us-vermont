@@ -1,0 +1,87 @@
+{
+  "id": 874255849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.970139,43.596981,-72.970139,43.596981",
+    "geom:latitude":43.596981,
+    "geom:longitude":-72.970139,
+    "iso:country":"US",
+    "sg:address":"170 S Main St Ste 5",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 2128",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UyI4BMyQp6bGOx4cjxeag_43.596981_-72.970139@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313693,
+    "wof:geomhash":"d624e3f478087ea9892f03636f087d92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255849
+        }
+    ],
+    "wof:id":874255849,
+    "wof:lastmodified":1464313693,
+    "wof:name":"Cb Sullivan Co Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.970139,
+    43.596981,
+    -72.970139,
+    43.596981
+],
+  "geometry": {"coordinates":[-72.970139,43.596981],"type":"Point"}
+}

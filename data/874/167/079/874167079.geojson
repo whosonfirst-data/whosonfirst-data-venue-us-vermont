@@ -1,0 +1,74 @@
+{
+  "id": 874167079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.195942,44.451512,-73.195942,44.451512",
+    "geom:latitude":44.451512,
+    "geom:longitude":-73.195942,
+    "iso:country":"US",
+    "sg:address":"30 Joy Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 6300",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "broadcasting",
+        "co"
+    ],
+    "sg:website":"www.wcax.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BJ6XEvXNXee1zRQ9qz4tc_44.451512_-73.195942@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312499,
+    "wof:geomhash":"1ff25aeca87d53ee9adff210ec7ed691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874167079
+        }
+    ],
+    "wof:id":874167079,
+    "wof:lastmodified":1464312499,
+    "wof:name":"WCAX",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcasting",
+        "co"
+    ]
+},
+  "bbox": [
+    -73.195942,
+    44.451512,
+    -73.195942,
+    44.451512
+],
+  "geometry": {"coordinates":[-73.195942,44.451512],"type":"Point"}
+}

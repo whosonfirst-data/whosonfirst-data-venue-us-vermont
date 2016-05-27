@@ -1,0 +1,71 @@
+{
+  "id": 874080427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.804719,44.913526,-72.804719,44.913526",
+    "geom:latitude":44.913526,
+    "geom:longitude":-72.804719,
+    "iso:country":"US",
+    "sg:address":"17 W Berkshire Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 2170",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35KlEMbtg5T8IzuS2XJK6S_44.913526_-72.804719@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311555,
+    "wof:geomhash":"561f392efa2887c6e5582d29a9fe76d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874080427
+        }
+    ],
+    "wof:id":874080427,
+    "wof:lastmodified":1464311555,
+    "wof:name":"Kittell's Garage",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.804719,
+    44.913526,
+    -72.804719,
+    44.913526
+],
+  "geometry": {"coordinates":[-72.80471900000001,44.913526],"type":"Point"}
+}

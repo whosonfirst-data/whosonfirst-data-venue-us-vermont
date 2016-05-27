@@ -1,0 +1,71 @@
+{
+  "id": 874148883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.595017,44.572198,-72.595017,44.572198",
+    "geom:latitude":44.572198,
+    "geom:longitude":-72.595017,
+    "iso:country":"US",
+    "sg:address":"735 Brooklyn St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 3663",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bqmZrkCjNFSe2m00YpRK9_44.572198_-72.595017@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312319,
+    "wof:geomhash":"530a1492c1c8c872bfa023ab1a2bca4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874148883
+        }
+    ],
+    "wof:id":874148883,
+    "wof:lastmodified":1464312319,
+    "wof:name":"Catamount Chrysler Dodge",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.595017,
+    44.572198,
+    -72.595017,
+    44.572198
+],
+  "geometry": {"coordinates":[-72.595017,44.572198],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874136407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.974207,43.605907,-72.974207,43.605907",
+    "geom:latitude":43.605907,
+    "geom:longitude":-72.974207,
+    "iso:country":"US",
+    "sg:address":"25 Washington St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 0199",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ue1nanZ75M95rLInXHbdz_43.605907_-72.974207@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312203,
+    "wof:geomhash":"fbb17411f9fe884f90dd6322c06fd672",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874136407
+        }
+    ],
+    "wof:id":874136407,
+    "wof:lastmodified":1464312203,
+    "wof:name":"O'Brien Reporting Svc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -72.974207,
+    43.605907,
+    -72.974207,
+    43.605907
+],
+  "geometry": {"coordinates":[-72.97420700000001,43.605907],"type":"Point"}
+}

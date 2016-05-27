@@ -1,0 +1,71 @@
+{
+  "id": 874162547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.22912,44.369675,-73.22912,44.369675",
+    "geom:latitude":44.369675,
+    "geom:longitude":-73.22912,
+    "iso:country":"US",
+    "sg:address":"10 Marsett Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 8947",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hEE7tMmeJIgxAuEewBzZn_44.369675_-73.229120@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312455,
+    "wof:geomhash":"c35a6391a50a8b632de2b406060f6911",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874162547
+        }
+    ],
+    "wof:id":874162547,
+    "wof:lastmodified":1464312455,
+    "wof:name":"Fox Music Studio",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -73.22912,
+    44.369675,
+    -73.22912,
+    44.369675
+],
+  "geometry": {"coordinates":[-73.22911999999999,44.369675],"type":"Point"}
+}

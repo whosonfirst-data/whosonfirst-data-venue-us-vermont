@@ -1,0 +1,71 @@
+{
+  "id": 874061431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.125633,44.3695,-73.125633,44.3695",
+    "geom:latitude":44.3695,
+    "geom:longitude":-73.125633,
+    "iso:country":"US",
+    "sg:address":"46 Peet Rd",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 7701",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5avU3BlSZSk8wvuLgPcxzc_44.369500_-73.125633@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311348,
+    "wof:geomhash":"70a2b12612dc2837df10176849d40e3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874061431
+        }
+    ],
+    "wof:id":874061431,
+    "wof:lastmodified":1464311348,
+    "wof:name":"Twin Cedar Mechanical Inc",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    -73.125633,
+    44.3695,
+    -73.125633,
+    44.3695
+],
+  "geometry": {"coordinates":[-73.12563299999999,44.3695],"type":"Point"}
+}

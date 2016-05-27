@@ -1,0 +1,73 @@
+{
+  "id": 874175369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.5294,44.213783,-72.5294,44.213783",
+    "geom:latitude":44.213783,
+    "geom:longitude":-72.5294,
+    "iso:country":"US",
+    "sg:address":"891 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7298",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EX0Cpmnw6jrRJXdnRjPKv_44.213783_-72.529400@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312582,
+    "wof:geomhash":"e8f54fd1fb01db68552d4e3e1369732d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874175369
+        }
+    ],
+    "wof:id":874175369,
+    "wof:lastmodified":1464312582,
+    "wof:name":"Central Vermont Armorthane",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -72.5294,
+    44.213783,
+    -72.5294,
+    44.213783
+],
+  "geometry": {"coordinates":[-72.5294,44.213783],"type":"Point"}
+}

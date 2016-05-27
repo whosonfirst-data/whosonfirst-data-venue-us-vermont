@@ -1,0 +1,85 @@
+{
+  "id": 874250763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213783,44.412483,-73.213783,44.412483",
+    "geom:latitude":44.412483,
+    "geom:longitude":-73.213783,
+    "iso:country":"US",
+    "sg:address":"2989 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/shelburne/114787-brueggers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 3183",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SjiOPVBJk1QrbfOtIS6aI_44.412483_-73.213783@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313581,
+    "wof:geomhash":"208854e0a59161b87bc16d218a6a273b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874250763
+        }
+    ],
+    "wof:id":874250763,
+    "wof:lastmodified":1464313581,
+    "wof:name":"Bruegger's",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -73.213783,
+    44.412483,
+    -73.213783,
+    44.412483
+],
+  "geometry": {"coordinates":[-73.21378300000001,44.412483],"type":"Point"}
+}

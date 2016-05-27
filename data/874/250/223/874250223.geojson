@@ -1,0 +1,71 @@
+{
+  "id": 874250223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.810303,44.610298,-72.810303,44.610298",
+    "geom:latitude":44.610298,
+    "geom:longitude":-72.810303,
+    "iso:country":"US",
+    "sg:address":"143 Edwards Rd",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8246",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7khgcQ6ORS77B3oAwca4xE_44.610151_-72.809618@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313571,
+    "wof:geomhash":"1bee566087b2634c7611bb69d3cf33b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874250223
+        }
+    ],
+    "wof:id":874250223,
+    "wof:lastmodified":1464313571,
+    "wof:name":"Awreatha's Garage",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -72.810303,
+    44.610298,
+    -72.810303,
+    44.610298
+],
+  "geometry": {"coordinates":[-72.810303,44.610298],"type":"Point"}
+}

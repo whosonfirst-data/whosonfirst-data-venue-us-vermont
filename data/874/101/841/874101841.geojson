@@ -1,0 +1,69 @@
+{
+  "id": 874101841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205115,42.886222,-73.205115,42.886222",
+    "geom:latitude":42.886222,
+    "geom:longitude":-73.205115,
+    "iso:country":"US",
+    "sg:address":"10 Anthony Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 3694",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rrG4NP1Qt54hF3nTA5IXp_42.886222_-73.205115@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311816,
+    "wof:geomhash":"85b9e1eabb2159c924b21a412eb670ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874101841
+        }
+    ],
+    "wof:id":874101841,
+    "wof:lastmodified":1464311816,
+    "wof:name":"Volkmer Builders Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.205115,
+    42.886222,
+    -73.205115,
+    42.886222
+],
+  "geometry": {"coordinates":[-73.20511500000001,42.886222],"type":"Point"}
+}

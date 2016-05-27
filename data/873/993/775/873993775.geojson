@@ -1,0 +1,75 @@
+{
+  "id": 873993775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.217123,43.913018,-73.217123,43.913018",
+    "geom:latitude":43.913018,
+    "geom:longitude":-73.217123,
+    "iso:country":"US",
+    "sg:address":"605 Delong Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 2998",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uI1bGVVU7eoPvcpTQEGJf_43.913018_-73.217123@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310717,
+    "wof:geomhash":"7c88837fad0c59fc4936189fcc306a06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":873993775
+        }
+    ],
+    "wof:id":873993775,
+    "wof:lastmodified":1464310717,
+    "wof:name":"Matthew's Trucking & Repairs",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.217123,
+    43.913018,
+    -73.217123,
+    43.913018
+],
+  "geometry": {"coordinates":[-73.217123,43.913018],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874212005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.177142,44.024635,-73.177142,44.024635",
+    "geom:latitude":44.024635,
+    "geom:longitude":-73.177142,
+    "iso:country":"US",
+    "sg:address":"31 Seymour St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4463",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73Dpd14rI1R1Dqm7YSNxDX_44.024635_-73.177142@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312974,
+    "wof:geomhash":"55dfe8bcd6db42237da7226ee3c923ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874212005
+        }
+    ],
+    "wof:id":874212005,
+    "wof:lastmodified":1464312974,
+    "wof:name":"Phyllis I Armstrong",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -73.177142,
+    44.024635,
+    -73.177142,
+    44.024635
+],
+  "geometry": {"coordinates":[-73.177142,44.024635],"type":"Point"}
+}

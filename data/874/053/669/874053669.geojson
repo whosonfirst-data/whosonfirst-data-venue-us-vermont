@@ -1,0 +1,71 @@
+{
+  "id": 874053669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.426893,43.644377,-72.426893,43.644377",
+    "geom:latitude":43.644377,
+    "geom:longitude":-72.426893,
+    "iso:country":"US",
+    "sg:address":"2157 Woodstock Rd",
+    "sg:city":"White River Jct",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 4473",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o8dOT1EaQPn2rpM092FfS_43.644377_-72.426893@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311275,
+    "wof:geomhash":"d17af7dd1c1d83fe0c825b9d1dfc74e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874053669
+        }
+    ],
+    "wof:id":874053669,
+    "wof:lastmodified":1464311275,
+    "wof:name":"Jim Eastman Trucking & Excvtn",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.426893,
+    43.644377,
+    -72.426893,
+    43.644377
+],
+  "geometry": {"coordinates":[-72.42689300000001,43.644377],"type":"Point"}
+}

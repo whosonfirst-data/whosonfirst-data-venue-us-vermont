@@ -1,0 +1,71 @@
+{
+  "id": 874011633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.659127,44.242685,-72.659127,44.242685",
+    "geom:latitude":44.242685,
+    "geom:longitude":-72.659127,
+    "iso:country":"US",
+    "sg:address":"2428 Jones Brook Rd",
+    "sg:city":"Moretown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 5043",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tdYIkMHpW2hDEYgwFLP6e_44.242685_-72.659127@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310867,
+    "wof:geomhash":"fe57cecf4421308d0ebb3ba03edd5db1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874011633
+        }
+    ],
+    "wof:id":874011633,
+    "wof:lastmodified":1464310867,
+    "wof:name":"Ciampi Construction",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.659127,
+    44.242685,
+    -72.659127,
+    44.242685
+],
+  "geometry": {"coordinates":[-72.659127,44.242685],"type":"Point"}
+}

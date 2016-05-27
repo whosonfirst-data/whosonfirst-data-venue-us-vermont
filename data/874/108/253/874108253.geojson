@@ -1,0 +1,73 @@
+{
+  "id": 874108253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.100689,44.405983,-73.100689,44.405983",
+    "geom:latitude":44.405983,
+    "geom:longitude":-73.100689,
+    "iso:country":"US",
+    "sg:address":"99 Greenwood Ln",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 9288",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "audio",
+        "video",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sfIohC8vH3BLsRFrYt6Mk_44.405983_-73.100689@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311897,
+    "wof:geomhash":"0371a5ca3be720f2323c8862e48bec9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874108253
+        }
+    ],
+    "wof:id":874108253,
+    "wof:lastmodified":1464311897,
+    "wof:name":"Butternut Audio",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio",
+        "video",
+        "sales"
+    ]
+},
+  "bbox": [
+    -73.100689,
+    44.405983,
+    -73.100689,
+    44.405983
+],
+  "geometry": {"coordinates":[-73.100689,44.405983],"type":"Point"}
+}

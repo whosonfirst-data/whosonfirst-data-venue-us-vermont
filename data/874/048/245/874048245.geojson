@@ -1,0 +1,71 @@
+{
+  "id": 874048245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212801,44.455423,-73.212801,44.455423",
+    "geom:latitude":44.455423,
+    "geom:longitude":-73.212801,
+    "iso:country":"US",
+    "sg:address":"316 Flynn Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 6928",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aDiT8SpG75Erzb5f185im_44.455423_-73.212801@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311225,
+    "wof:geomhash":"486469efaa812f68f50e551c50935a29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874048245
+        }
+    ],
+    "wof:id":874048245,
+    "wof:lastmodified":1464311225,
+    "wof:name":"Merles Office Products Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -73.212801,
+    44.455423,
+    -73.212801,
+    44.455423
+],
+  "geometry": {"coordinates":[-73.212801,44.455423],"type":"Point"}
+}

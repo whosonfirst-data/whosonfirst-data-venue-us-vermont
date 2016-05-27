@@ -1,0 +1,71 @@
+{
+  "id": 873990601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088977,43.799586,-73.088977,43.799586",
+    "geom:latitude":43.799586,
+    "geom:longitude":-73.088977,
+    "iso:country":"US",
+    "sg:address":"39 Center St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 1122",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I2JTJ7y2LuGT0LAbxwaqH_43.799586_-73.088977@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310694,
+    "wof:geomhash":"399e0451990499f79b18293464363ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":873990601
+        }
+    ],
+    "wof:id":873990601,
+    "wof:lastmodified":1464310694,
+    "wof:name":"Lisa M Stephen",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -73.088977,
+    43.799586,
+    -73.088977,
+    43.799586
+],
+  "geometry": {"coordinates":[-73.088977,43.799586],"type":"Point"}
+}

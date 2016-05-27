@@ -1,0 +1,75 @@
+{
+  "id": 874086685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111268,44.492653,-73.111268,44.492653",
+    "geom:latitude":44.492653,
+    "geom:longitude":-73.111268,
+    "iso:country":"US",
+    "sg:address":"4 Central St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 6471",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beverage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vXYWXHSjrYldNPNoch094_44.492653_-73.111268@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311627,
+    "wof:geomhash":"365648a025785ee2d3726386544275bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874086685
+        }
+    ],
+    "wof:id":874086685,
+    "wof:lastmodified":1464311627,
+    "wof:name":"Central Beverage",
+    "wof:parent_id":85828531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage"
+    ]
+},
+  "bbox": [
+    -73.111268,
+    44.492653,
+    -73.111268,
+    44.492653
+],
+  "geometry": {"coordinates":[-73.111268,44.492653],"type":"Point"}
+}

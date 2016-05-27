@@ -1,0 +1,73 @@
+{
+  "id": 874136767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.435829,44.106134,-72.435829,44.106134",
+    "geom:latitude":44.106134,
+    "geom:longitude":-72.435829,
+    "iso:country":"US",
+    "sg:address":"272 Firehouse Ln",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 883 2020",
+    "sg:postcode":"05675",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nNyXzKSJCbVHaJo2aunBm_44.106134_-72.435829@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312206,
+    "wof:geomhash":"9b3bde86c093488bf6303f9182dd2a23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874136767
+        }
+    ],
+    "wof:id":874136767,
+    "wof:lastmodified":1464312206,
+    "wof:name":"Martineau Electric & Home Repa",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.435829,
+    44.106134,
+    -72.435829,
+    44.106134
+],
+  "geometry": {"coordinates":[-72.435829,44.106134],"type":"Point"}
+}

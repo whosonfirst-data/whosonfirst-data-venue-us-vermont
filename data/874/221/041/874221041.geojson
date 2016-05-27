@@ -1,0 +1,71 @@
+{
+  "id": 874221041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.035778,43.165933,-73.035778,43.165933",
+    "geom:latitude":43.165933,
+    "geom:longitude":-73.035778,
+    "iso:country":"US",
+    "sg:address":"171 Peace St",
+    "sg:city":"Manchester Center",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 2007",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844461,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k0IgYeZFO9aG7z2iTTX8P_43.165933_-73.035778@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313075,
+    "wof:geomhash":"fa0812818475be379315bbb93e8fc1eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85844461,
+            "region_id":85688763,
+            "venue_id":874221041
+        }
+    ],
+    "wof:id":874221041,
+    "wof:lastmodified":1464313075,
+    "wof:name":"GWC Auto Repair",
+    "wof:parent_id":85844461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.035778,
+    43.165933,
+    -73.035778,
+    43.165933
+],
+  "geometry": {"coordinates":[-73.03577799999999,43.165933],"type":"Point"}
+}

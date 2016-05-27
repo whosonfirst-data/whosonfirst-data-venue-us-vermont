@@ -1,0 +1,71 @@
+{
+  "id": 874138261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.232959,44.551336,-73.232959,44.551336",
+    "geom:latitude":44.551336,
+    "geom:longitude":-73.232959,
+    "iso:country":"US",
+    "sg:address":"794 W Lakeshore Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 7033",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fTckag36cE3rpx0c5S3Cv_44.551336_-73.232959@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312220,
+    "wof:geomhash":"d11617073ab2d5acf4f0b241bed7948e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874138261
+        }
+    ],
+    "wof:id":874138261,
+    "wof:lastmodified":1464312220,
+    "wof:name":"Mike's Auto Parts",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -73.232959,
+    44.551336,
+    -73.232959,
+    44.551336
+],
+  "geometry": {"coordinates":[-73.23295899999999,44.551336],"type":"Point"}
+}

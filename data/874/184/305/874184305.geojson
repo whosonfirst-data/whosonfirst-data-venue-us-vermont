@@ -1,0 +1,73 @@
+{
+  "id": 874184305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.184361,44.494884,-73.184361,44.494884",
+    "geom:latitude":44.494884,
+    "geom:longitude":-73.184361,
+    "iso:country":"US",
+    "sg:address":"60 Leclair St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 654 9220",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XUuhiDHeSycG0qe2DJaIa_44.494884_-73.184361@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312682,
+    "wof:geomhash":"f4410e573e032b28886afb6501732cfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874184305
+        }
+    ],
+    "wof:id":874184305,
+    "wof:lastmodified":1464312682,
+    "wof:name":"Coaching Center of Vermont",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -73.184361,
+    44.494884,
+    -73.184361,
+    44.494884
+],
+  "geometry": {"coordinates":[-73.184361,44.494884],"type":"Point"}
+}

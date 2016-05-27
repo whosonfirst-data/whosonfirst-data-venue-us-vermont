@@ -1,0 +1,71 @@
+{
+  "id": 874167061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501552,43.315549,-72.501552,43.315549",
+    "geom:latitude":43.315549,
+    "geom:longitude":-72.501552,
+    "iso:country":"US",
+    "sg:address":"8 Orchard Ln",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 3140",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6beNvLVAYFbpyANFOXAicH_43.315549_-72.501552@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312498,
+    "wof:geomhash":"ce5e2e5985039142665b24f76e55580f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874167061
+        }
+    ],
+    "wof:id":874167061,
+    "wof:lastmodified":1464312498,
+    "wof:name":"Jim Millay Carpentry",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.501552,
+    43.315549,
+    -72.501552,
+    43.315549
+],
+  "geometry": {"coordinates":[-72.501552,43.315549],"type":"Point"}
+}

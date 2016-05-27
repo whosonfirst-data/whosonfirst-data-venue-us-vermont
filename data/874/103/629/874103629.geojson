@@ -1,0 +1,71 @@
+{
+  "id": 874103629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.0254,43.596178,-73.0254,43.596178",
+    "geom:latitude":43.596178,
+    "geom:longitude":-73.0254,
+    "iso:country":"US",
+    "sg:address":"162 Rutland Rd",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 5173",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u3GOspnU1BUyy0lbyqEQj_43.596178_-73.025400@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311839,
+    "wof:geomhash":"ff931d41d8cf716ca375fc20c1bec672",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874103629
+        }
+    ],
+    "wof:id":874103629,
+    "wof:lastmodified":1464311839,
+    "wof:name":"Menard Manufacturing",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.0254,
+    43.596178,
+    -73.0254,
+    43.596178
+],
+  "geometry": {"coordinates":[-73.0254,43.596178],"type":"Point"}
+}

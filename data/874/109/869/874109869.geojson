@@ -1,0 +1,73 @@
+{
+  "id": 874109869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214099,44.269506,-73.214099,44.269506",
+    "geom:latitude":44.269506,
+    "geom:longitude":-73.214099,
+    "iso:country":"US",
+    "sg:address":"6974 Spear St",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 3547",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hog",
+        "or",
+        "feedlot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85811695,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36BzPct0gmrVGxQBtO90ww_44.269506_-73.214099@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311917,
+    "wof:geomhash":"9585fcf1609c1a8b88aad667618d7375",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85811695,
+            "region_id":85688763,
+            "venue_id":874109869
+        }
+    ],
+    "wof:id":874109869,
+    "wof:lastmodified":1464311917,
+    "wof:name":"Robert Titus R-Bernice",
+    "wof:parent_id":85811695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hog",
+        "or",
+        "feedlot"
+    ]
+},
+  "bbox": [
+    -73.214099,
+    44.269506,
+    -73.214099,
+    44.269506
+],
+  "geometry": {"coordinates":[-73.214099,44.269506],"type":"Point"}
+}

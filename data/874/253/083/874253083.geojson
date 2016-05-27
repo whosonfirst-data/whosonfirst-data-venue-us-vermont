@@ -1,0 +1,76 @@
+{
+  "id": 874253083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21132,44.482118,-73.21132,44.482118",
+    "geom:latitude":44.482118,
+    "geom:longitude":-73.21132,
+    "iso:country":"US",
+    "sg:address":"56 N Winooski Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 651 0598",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o26rtbBfTfq8CJhRE2amx_44.482118_-73.211320@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313628,
+    "wof:geomhash":"e658bfaa725281e465a3cf770dd83907",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874253083
+        }
+    ],
+    "wof:id":874253083,
+    "wof:lastmodified":1464313628,
+    "wof:name":"A One Automotive Repair",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -73.21132,
+    44.482118,
+    -73.21132,
+    44.482118
+],
+  "geometry": {"coordinates":[-73.21132,44.482118],"type":"Point"}
+}

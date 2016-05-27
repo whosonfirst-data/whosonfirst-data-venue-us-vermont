@@ -1,0 +1,67 @@
+{
+  "id": 874122555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.500594,44.196627,-72.500594,44.196627",
+    "geom:latitude":44.196627,
+    "geom:longitude":-72.500594,
+    "iso:country":"US",
+    "sg:address":"51 Church St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4131",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:website":"www.barregranite.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_698fTr7sa1gqrRNv3BlIz7_44.196627_-72.500594@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312064,
+    "wof:geomhash":"c52605f5768e27f2bc5b78933c2f6c33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874122555
+        }
+    ],
+    "wof:id":874122555,
+    "wof:lastmodified":1464312064,
+    "wof:name":"Barre Granite Assn Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.500594,
+    44.196627,
+    -72.500594,
+    44.196627
+],
+  "geometry": {"coordinates":[-72.50059400000001,44.196627],"type":"Point"}
+}

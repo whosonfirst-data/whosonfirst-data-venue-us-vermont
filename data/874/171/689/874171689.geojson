@@ -1,0 +1,71 @@
+{
+  "id": 874171689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.745398,43.467344,-72.745398,43.467344",
+    "geom:latitude":43.467344,
+    "geom:longitude":-72.745398,
+    "iso:country":"US",
+    "sg:address":"199 Sawyer Hill Rd",
+    "sg:city":"Mount Holly",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 259 3149",
+    "sg:postcode":"05758",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZbuUpQbFV2EJbTiA4v31t_43.467344_-72.745398@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312546,
+    "wof:geomhash":"bcedcc701182bd9bd2ea2d268835cf04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874171689
+        }
+    ],
+    "wof:id":874171689,
+    "wof:lastmodified":1464312546,
+    "wof:name":"Birdsall Fence Company",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.745398,
+    43.467344,
+    -72.745398,
+    43.467344
+],
+  "geometry": {"coordinates":[-72.74539799999999,43.467344],"type":"Point"}
+}

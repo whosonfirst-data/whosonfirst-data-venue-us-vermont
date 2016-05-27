@@ -1,0 +1,71 @@
+{
+  "id": 874231307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.983176,43.609497,-72.983176,43.609497",
+    "geom:latitude":43.609497,
+    "geom:longitude":-72.983176,
+    "iso:country":"US",
+    "sg:address":"46 Pine St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 8857",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "property",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D6X7BAB3NoyNcqykMLMZo_43.609497_-72.983176@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313178,
+    "wof:geomhash":"b19ec486e2bfe7896756c51679639405",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874231307
+        }
+    ],
+    "wof:id":874231307,
+    "wof:lastmodified":1464313178,
+    "wof:name":"Yankee Management Specialists",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -72.983176,
+    43.609497,
+    -72.983176,
+    43.609497
+],
+  "geometry": {"coordinates":[-72.983176,43.609497],"type":"Point"}
+}

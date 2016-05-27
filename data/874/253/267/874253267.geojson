@@ -1,0 +1,76 @@
+{
+  "id": 874253267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.186668,44.488449,-73.186668,44.488449",
+    "geom:latitude":44.488449,
+    "geom:longitude":-73.186668,
+    "iso:country":"US",
+    "sg:address":"1 Mill St Ste 200",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 2700",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "opportunity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u0f72CucstHimFCjnQxzg_44.488449_-73.186668@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313631,
+    "wof:geomhash":"56ed0580f9707e8e4cd12d416999ae05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874253267
+        }
+    ],
+    "wof:id":874253267,
+    "wof:lastmodified":1464313631,
+    "wof:name":"Tupelo Group",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "opportunity"
+    ]
+},
+  "bbox": [
+    -73.186668,
+    44.488449,
+    -73.186668,
+    44.488449
+],
+  "geometry": {"coordinates":[-73.186668,44.488449],"type":"Point"}
+}

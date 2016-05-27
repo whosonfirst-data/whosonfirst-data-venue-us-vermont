@@ -1,0 +1,72 @@
+{
+  "id": 874147479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.004114,43.604206,-73.004114,43.604206",
+    "geom:latitude":43.604206,
+    "geom:longitude":-73.004114,
+    "iso:country":"US",
+    "sg:address":"1 Ripley Rd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 4000",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plywood",
+        "veneer"
+    ],
+    "sg:website":"www.rutply.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t8runvm0LPJ4xYsSyQjRn_43.604206_-73.004114@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312306,
+    "wof:geomhash":"214b79ed2424defca09cd6634613bcd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874147479
+        }
+    ],
+    "wof:id":874147479,
+    "wof:lastmodified":1464312306,
+    "wof:name":"Rutland Plywood Corp",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plywood",
+        "veneer"
+    ]
+},
+  "bbox": [
+    -73.004114,
+    43.604206,
+    -73.004114,
+    43.604206
+],
+  "geometry": {"coordinates":[-73.004114,43.604206],"type":"Point"}
+}

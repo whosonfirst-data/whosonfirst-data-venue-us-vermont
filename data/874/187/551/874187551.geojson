@@ -1,0 +1,66 @@
+{
+  "id": 874187551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.4913,44.220113,-72.4913,44.220113",
+    "geom:latitude":44.220113,
+    "geom:longitude":-72.4913,
+    "iso:country":"US",
+    "sg:address":"339 E Montpelier Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5560",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KuabVYPCFFy2flPUuZpWE_44.220113_-72.491300@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312715,
+    "wof:geomhash":"0802a811369c027901ab390073b3f30b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874187551
+        }
+    ],
+    "wof:id":874187551,
+    "wof:lastmodified":1464312715,
+    "wof:name":"Brookside Country Store",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.4913,
+    44.220113,
+    -72.4913,
+    44.220113
+],
+  "geometry": {"coordinates":[-72.4913,44.220113],"type":"Point"}
+}

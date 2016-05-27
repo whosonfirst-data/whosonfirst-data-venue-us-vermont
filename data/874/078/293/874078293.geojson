@@ -1,0 +1,69 @@
+{
+  "id": 874078293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.961803,43.606278,-72.961803,43.606278",
+    "geom:latitude":43.606278,
+    "geom:longitude":-72.961803,
+    "iso:country":"US",
+    "sg:address":"52 Killington Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 7565",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KHQR98grMUkr4SFLN8rQy_43.606278_-72.961803@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311531,
+    "wof:geomhash":"e69ee3196f98502194752ade6790549f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874078293
+        }
+    ],
+    "wof:id":874078293,
+    "wof:lastmodified":1464311531,
+    "wof:name":"M & M Travel",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -72.961803,
+    43.606278,
+    -72.961803,
+    43.606278
+],
+  "geometry": {"coordinates":[-72.961803,43.606278],"type":"Point"}
+}

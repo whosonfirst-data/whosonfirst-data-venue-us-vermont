@@ -1,0 +1,71 @@
+{
+  "id": 874233415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.696011,44.454473,-72.696011,44.454473",
+    "geom:latitude":44.454473,
+    "geom:longitude":-72.696011,
+    "iso:country":"US",
+    "sg:address":"954 S Main St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 3964",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zb0OpBes1yOwdOPGwHbyg_44.454473_-72.696011@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313208,
+    "wof:geomhash":"f84685cd69b42a3733bfe766c6d9d8b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874233415
+        }
+    ],
+    "wof:id":874233415,
+    "wof:lastmodified":1464313208,
+    "wof:name":"Fly Fish Vermont Corp",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -72.696011,
+    44.454473,
+    -72.696011,
+    44.454473
+],
+  "geometry": {"coordinates":[-72.696011,44.454473],"type":"Point"}
+}

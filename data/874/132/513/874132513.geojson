@@ -1,0 +1,73 @@
+{
+  "id": 874132513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.098826,43.805663,-73.098826,43.805663",
+    "geom:latitude":43.805663,
+    "geom:longitude":-73.098826,
+    "iso:country":"US",
+    "sg:address":"256 Grove St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 8286",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UBgwLJYrLPwxgC2Aw2kNW_43.805663_-73.098826@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312168,
+    "wof:geomhash":"4de9577d12a52557d5806e161cdba04f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874132513
+        }
+    ],
+    "wof:id":874132513,
+    "wof:lastmodified":1464312168,
+    "wof:name":"Brandon Auto Sales Inc",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used"
+    ]
+},
+  "bbox": [
+    -73.098826,
+    43.805663,
+    -73.098826,
+    43.805663
+],
+  "geometry": {"coordinates":[-73.098826,43.805663],"type":"Point"}
+}

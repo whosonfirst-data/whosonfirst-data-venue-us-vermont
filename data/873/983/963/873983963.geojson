@@ -1,0 +1,70 @@
+{
+  "id": 873983963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208307,42.890388,-73.208307,42.890388",
+    "geom:latitude":42.890388,
+    "geom:longitude":-73.208307,
+    "iso:country":"US",
+    "sg:address":"180 Country Club Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 2617",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "course"
+    ],
+    "sg:website":"www.golfingvermont.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yNQR0G4F2zIG1CkF0LGe2_42.890388_-73.208307@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310642,
+    "wof:geomhash":"15562ddab84b8121255ff39c21421663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873983963
+        }
+    ],
+    "wof:id":873983963,
+    "wof:lastmodified":1464310642,
+    "wof:name":"Mt Anthony Country Club",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -73.208307,
+    42.890388,
+    -73.208307,
+    42.890388
+],
+  "geometry": {"coordinates":[-73.208307,42.890388],"type":"Point"}
+}

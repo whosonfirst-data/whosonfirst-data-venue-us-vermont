@@ -1,0 +1,71 @@
+{
+  "id": 874253731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.896464,44.645846,-72.896464,44.645846",
+    "geom:latitude":44.645846,
+    "geom:longitude":-72.896464,
+    "iso:country":"US",
+    "sg:address":"77 Goodyear Ln",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2516",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jwd2YOU75C5FkLIRJSmTw_44.645846_-72.896464@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313640,
+    "wof:geomhash":"bebe1aa729708a1ed369bb0037aa37e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874253731
+        }
+    ],
+    "wof:id":874253731,
+    "wof:lastmodified":1464313640,
+    "wof:name":"Gillian Brothers Truck",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.896464,
+    44.645846,
+    -72.896464,
+    44.645846
+],
+  "geometry": {"coordinates":[-72.89646399999999,44.645846],"type":"Point"}
+}

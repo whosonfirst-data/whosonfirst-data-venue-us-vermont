@@ -1,0 +1,71 @@
+{
+  "id": 874140929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.073846,44.511727,-73.073846,44.511727",
+    "geom:latitude":44.511727,
+    "geom:longitude":-73.073846,
+    "iso:country":"US",
+    "sg:address":"44 Chelsea Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 1686",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TyXJKnTeGgsWDCw3ndHLe_44.511727_-73.073846@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312243,
+    "wof:geomhash":"02a912758d0a266375a5ac040addaa61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874140929
+        }
+    ],
+    "wof:id":874140929,
+    "wof:lastmodified":1464312243,
+    "wof:name":"Focus Physical Therapy",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.073846,
+    44.511727,
+    -73.073846,
+    44.511727
+],
+  "geometry": {"coordinates":[-73.073846,44.511727],"type":"Point"}
+}

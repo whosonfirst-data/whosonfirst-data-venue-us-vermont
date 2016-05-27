@@ -1,0 +1,76 @@
+{
+  "id": 874191829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212494,44.477215,-73.212494,44.477215",
+    "geom:latitude":44.477215,
+    "geom:longitude":-73.212494,
+    "iso:country":"US",
+    "sg:address":"82 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 657 3886",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "made"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76zMyNKQOaWyAqek5J6qm3_44.477215_-73.212494@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312756,
+    "wof:geomhash":"3a324c0b5de18745b115a12e34a1d151",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874191829
+        }
+    ],
+    "wof:id":874191829,
+    "wof:lastmodified":1464312756,
+    "wof:name":"Renna Shoes",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "made"
+    ]
+},
+  "bbox": [
+    -73.212494,
+    44.477215,
+    -73.212494,
+    44.477215
+],
+  "geometry": {"coordinates":[-73.21249400000001,44.477215],"type":"Point"}
+}

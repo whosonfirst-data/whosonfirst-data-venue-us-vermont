@@ -1,0 +1,73 @@
+{
+  "id": 873995675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.031536,43.594043,-73.031536,43.594043",
+    "geom:latitude":43.594043,
+    "geom:longitude":-73.031536,
+    "iso:country":"US",
+    "sg:address":"599 Rutland Rd",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 2930",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RBuFZxvim0PjxMfdkqafl_43.594043_-73.031536@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310730,
+    "wof:geomhash":"d4c441b3557decc2b719fab93ffabd58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":873995675
+        }
+    ],
+    "wof:id":873995675,
+    "wof:lastmodified":1464310730,
+    "wof:name":"Commercial Building Svc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -73.031536,
+    43.594043,
+    -73.031536,
+    43.594043
+],
+  "geometry": {"coordinates":[-73.031536,43.594043],"type":"Point"}
+}

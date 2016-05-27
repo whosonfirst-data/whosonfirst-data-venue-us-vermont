@@ -1,0 +1,74 @@
+{
+  "id": 874229451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.677921,44.636155,-72.677921,44.636155",
+    "geom:latitude":44.636155,
+    "geom:longitude":-72.677921,
+    "iso:country":"US",
+    "sg:address":"80 Pearl St",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 2727",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "arts",
+        "information"
+    ],
+    "sg:website":"www.vermontstudiocenter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vO8zRiqqogC8XMlMid7TO_44.636155_-72.677921@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313155,
+    "wof:geomhash":"a055fb617a1536a58d186ad91abed4f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874229451
+        }
+    ],
+    "wof:id":874229451,
+    "wof:lastmodified":1464313155,
+    "wof:name":"Vermont Studio Ctr",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "arts",
+        "information"
+    ]
+},
+  "bbox": [
+    -72.677921,
+    44.636155,
+    -72.677921,
+    44.636155
+],
+  "geometry": {"coordinates":[-72.677921,44.636155],"type":"Point"}
+}

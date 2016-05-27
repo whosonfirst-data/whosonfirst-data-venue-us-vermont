@@ -1,0 +1,69 @@
+{
+  "id": 874129715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.133188,43.986457,-73.133188,43.986457",
+    "geom:latitude":43.986457,
+    "geom:longitude":-73.133188,
+    "iso:country":"US",
+    "sg:address":"1448 US Hwy 7",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4281",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kLlFb3bOUO4XQHRqdiBxe_43.986457_-73.133188@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312132,
+    "wof:geomhash":"0acd660f2184dfb51be4105836d8b4ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874129715
+        }
+    ],
+    "wof:id":874129715,
+    "wof:lastmodified":1464312132,
+    "wof:name":"Taylor Rental Ctr",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.133188,
+    43.986457,
+    -73.133188,
+    43.986457
+],
+  "geometry": {"coordinates":[-73.133188,43.986457],"type":"Point"}
+}

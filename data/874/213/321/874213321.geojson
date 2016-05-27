@@ -1,0 +1,75 @@
+{
+  "id": 874213321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.543938,44.164076,-72.543938,44.164076",
+    "geom:latitude":44.164076,
+    "geom:longitude":-72.543938,
+    "iso:country":"US",
+    "sg:address":"1 Sunrise Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4832",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OUQrkryBGim0cCwUuo9yF_44.164076_-72.543938@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312987,
+    "wof:geomhash":"cebd43b5f192b8e4d2b9a868600865d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874213321
+        }
+    ],
+    "wof:id":874213321,
+    "wof:lastmodified":1464312987,
+    "wof:name":"Benedini E Artesian Well Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -72.543938,
+    44.164076,
+    -72.543938,
+    44.164076
+],
+  "geometry": {"coordinates":[-72.543938,44.164076],"type":"Point"}
+}

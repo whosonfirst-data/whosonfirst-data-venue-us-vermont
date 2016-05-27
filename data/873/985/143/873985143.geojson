@@ -1,0 +1,69 @@
+{
+  "id": 873985143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.139006,44.407527,-72.139006,44.407527",
+    "geom:latitude":44.407527,
+    "geom:longitude":-72.139006,
+    "iso:country":"US",
+    "sg:address":"76 Cedar Ln",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 3692",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t1UWxO8bgwbiYIDDwElzC_44.407527_-72.139006@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310651,
+    "wof:geomhash":"4eb2a9fa168f7fb49b09eb342caede3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":873985143
+        }
+    ],
+    "wof:id":873985143,
+    "wof:lastmodified":1464310651,
+    "wof:name":"Stan Cole Logging",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -72.139006,
+    44.407527,
+    -72.139006,
+    44.407527
+],
+  "geometry": {"coordinates":[-72.13900599999999,44.407527],"type":"Point"}
+}

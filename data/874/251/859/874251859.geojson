@@ -1,0 +1,69 @@
+{
+  "id": 874251859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206375,42.945673,-73.206375,42.945673",
+    "geom:latitude":42.945673,
+    "geom:longitude":-73.206375,
+    "iso:country":"US",
+    "sg:address":"150 Buck Hill Rd",
+    "sg:city":"Shaftsbury",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 4373",
+    "sg:postcode":"05262",
+    "sg:province":"VT",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TtCSG0PdoL8BRkjX4bCuC_42.945673_-73.206375@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313602,
+    "wof:geomhash":"f391bd65241e351bda36c70eecbe82a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251859
+        }
+    ],
+    "wof:id":874251859,
+    "wof:lastmodified":1464313602,
+    "wof:name":"Shaftsbury Elementary School",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -73.206375,
+    42.945673,
+    -73.206375,
+    42.945673
+],
+  "geometry": {"coordinates":[-73.20637499999999,42.945673],"type":"Point"}
+}

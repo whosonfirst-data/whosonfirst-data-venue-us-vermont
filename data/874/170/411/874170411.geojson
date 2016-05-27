@@ -1,0 +1,71 @@
+{
+  "id": 874170411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.517898,43.338478,-72.517898,43.338478",
+    "geom:latitude":43.338478,
+    "geom:longitude":-72.517898,
+    "iso:country":"US",
+    "sg:address":"19 Gurney Rd",
+    "sg:city":"N Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 2210",
+    "sg:postcode":"05150",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eKTVYtNm5uN5CM2ZYRF8T_43.338478_-72.517898@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312531,
+    "wof:geomhash":"091de852b2aaaaf5026d8fef431c856e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874170411
+        }
+    ],
+    "wof:id":874170411,
+    "wof:lastmodified":1464312531,
+    "wof:name":"Gurney Brothers",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.517898,
+    43.338478,
+    -72.517898,
+    43.338478
+],
+  "geometry": {"coordinates":[-72.517898,43.338478],"type":"Point"}
+}

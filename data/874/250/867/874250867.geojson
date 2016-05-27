@@ -1,0 +1,74 @@
+{
+  "id": 874250867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.97245,43.609585,-72.97245,43.609585",
+    "geom:latitude":43.609585,
+    "geom:longitude":-72.97245,
+    "iso:country":"US",
+    "sg:address":"21 N Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/rutland/195720-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 1738",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TFDl32vuTJ9gtbeUcmL1m_43.609585_-72.972450@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313583,
+    "wof:geomhash":"a45cf59e52e9424ea2e6b6b354b9b74f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874250867
+        }
+    ],
+    "wof:id":874250867,
+    "wof:lastmodified":1464313583,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -72.97245,
+    43.609585,
+    -72.97245,
+    43.609585
+],
+  "geometry": {"coordinates":[-72.97244999999999,43.609585],"type":"Point"}
+}

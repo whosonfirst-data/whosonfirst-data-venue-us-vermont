@@ -1,0 +1,71 @@
+{
+  "id": 874154707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.34508,44.385245,-72.34508,44.385245",
+    "geom:latitude":44.385245,
+    "geom:longitude":-72.34508,
+    "iso:country":"US",
+    "sg:address":"173 Staniford Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 656 0270",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sCNjakv2ZJMKJd2w2Nr7h_44.385245_-72.345080@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312374,
+    "wof:geomhash":"7eb656ac00073545b606661bd8a9de4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874154707
+        }
+    ],
+    "wof:id":874154707,
+    "wof:lastmodified":1464312374,
+    "wof:name":"Apollo SRI LLC",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -72.34508,
+    44.385245,
+    -72.34508,
+    44.385245
+],
+  "geometry": {"coordinates":[-72.34508,44.385245],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874069991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.901946,44.645685,-72.901946,44.645685",
+    "geom:latitude":44.645685,
+    "geom:longitude":-72.901946,
+    "iso:country":"US",
+    "sg:address":"715 Boyden Hill Dr",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2851",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kQKsikThDPhue5C7xdrrW_44.645685_-72.901946@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311432,
+    "wof:geomhash":"57dc2148866d1013043224cae7a23f5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874069991
+        }
+    ],
+    "wof:id":874069991,
+    "wof:lastmodified":1464311432,
+    "wof:name":"Hanley Builders",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -72.901946,
+    44.645685,
+    -72.901946,
+    44.645685
+],
+  "geometry": {"coordinates":[-72.901946,44.645685],"type":"Point"}
+}

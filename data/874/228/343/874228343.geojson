@@ -1,0 +1,69 @@
+{
+  "id": 874228343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.116125,44.603079,-72.116125,44.603079",
+    "geom:latitude":44.603079,
+    "geom:longitude":-72.116125,
+    "iso:country":"US",
+    "sg:address":"3126 State Rte 122",
+    "sg:city":"Sheffield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 3535",
+    "sg:postcode":"05866",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MTqFf2MhwNyJv71fv1ye4_44.603079_-72.116125@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313144,
+    "wof:geomhash":"3daa8e7aa5ef3f86fd9be1fd8b476bdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874228343
+        }
+    ],
+    "wof:id":874228343,
+    "wof:lastmodified":1464313144,
+    "wof:name":"Catherine S Maier Ma Lcmhc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -72.116125,
+    44.603079,
+    -72.116125,
+    44.603079
+],
+  "geometry": {"coordinates":[-72.116125,44.603079],"type":"Point"}
+}

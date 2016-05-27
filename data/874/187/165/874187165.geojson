@@ -1,0 +1,71 @@
+{
+  "id": 874187165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.560279,44.251069,-72.560279,44.251069",
+    "geom:latitude":44.251069,
+    "geom:longitude":-72.560279,
+    "iso:country":"US",
+    "sg:address":"403 Barre St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 3220",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69o5qVKFx0HNrvwBcuCFqV_44.251069_-72.560279@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312711,
+    "wof:geomhash":"42ecb992fad8155949933c3f39414eba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874187165
+        }
+    ],
+    "wof:id":874187165,
+    "wof:lastmodified":1464312711,
+    "wof:name":"Berlin Veterinary Clinic",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinary"
+    ]
+},
+  "bbox": [
+    -72.560279,
+    44.251069,
+    -72.560279,
+    44.251069
+],
+  "geometry": {"coordinates":[-72.56027899999999,44.251069],"type":"Point"}
+}

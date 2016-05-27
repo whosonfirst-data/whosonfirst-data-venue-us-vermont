@@ -1,0 +1,69 @@
+{
+  "id": 874193567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.652454,44.845838,-72.652454,44.845838",
+    "geom:latitude":44.845838,
+    "geom:longitude":-72.652454,
+    "iso:country":"US",
+    "sg:address":"5129 W Hill Rd",
+    "sg:city":"Montgomery Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 326 3008",
+    "sg:postcode":"05471",
+    "sg:province":"VT",
+    "sg:tags":[
+        "ironwork"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43lEbTAGDwLypWYwDFsOJR_44.845838_-72.652454@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312775,
+    "wof:geomhash":"4ff374ea3f2ce2dbf68502a2f30cbde2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874193567
+        }
+    ],
+    "wof:id":874193567,
+    "wof:lastmodified":1464312775,
+    "wof:name":"Baker's Innovations",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ironwork"
+    ]
+},
+  "bbox": [
+    -72.652454,
+    44.845838,
+    -72.652454,
+    44.845838
+],
+  "geometry": {"coordinates":[-72.65245400000001,44.845838],"type":"Point"}
+}

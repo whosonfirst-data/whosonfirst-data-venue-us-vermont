@@ -1,0 +1,75 @@
+{
+  "id": 874072115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.178952,44.45802,-73.178952,44.45802",
+    "geom:latitude":44.45802,
+    "geom:longitude":-73.178952,
+    "iso:country":"US",
+    "sg:address":"36 San Remo Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 5589",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aJt2lihGvRlCA8mk0mLmJ_44.458020_-73.178952@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311464,
+    "wof:geomhash":"f504f7bf0763ab8272146e6ad3c7ec8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874072115
+        }
+    ],
+    "wof:id":874072115,
+    "wof:lastmodified":1464311464,
+    "wof:name":"National Truck Leasing System",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -73.178952,
+    44.45802,
+    -73.178952,
+    44.45802
+],
+  "geometry": {"coordinates":[-73.178952,44.45802],"type":"Point"}
+}

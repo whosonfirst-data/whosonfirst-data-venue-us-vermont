@@ -1,0 +1,72 @@
+{
+  "id": 874253753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.168259,44.317443,-73.168259,44.317443",
+    "geom:latitude":44.317443,
+    "geom:longitude":-73.168259,
+    "iso:country":"US",
+    "sg:address":"738 Bean Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 6569",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.crangold.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85843159,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hc7hCjMZHAQahoMaZrCGf_44.317443_-73.168259@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313641,
+    "wof:geomhash":"cac2f70c090c50def9d00dc39feea9de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85843159,
+            "region_id":85688763,
+            "venue_id":874253753
+        }
+    ],
+    "wof:id":874253753,
+    "wof:lastmodified":1464313641,
+    "wof:name":"Crangold Boarding Kennels",
+    "wof:parent_id":85843159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -73.168259,
+    44.317443,
+    -73.168259,
+    44.317443
+],
+  "geometry": {"coordinates":[-73.16825900000001,44.317443],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874007633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.077923,44.133125,-73.077923,44.133125",
+    "geom:latitude":44.133125,
+    "geom:longitude":-73.077923,
+    "iso:country":"US",
+    "sg:address":"30 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 2683",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BTUhQlxCnFYmmSBipJlSd_44.133125_-73.077923@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310837,
+    "wof:geomhash":"34351418b8a14031ab7d4a56879b0bc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874007633
+        }
+    ],
+    "wof:id":874007633,
+    "wof:lastmodified":1464310837,
+    "wof:name":"Bristol Village Self-Storage",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -73.077923,
+    44.133125,
+    -73.077923,
+    44.133125
+],
+  "geometry": {"coordinates":[-73.077923,44.133125],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873998951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.203079,42.855819,-73.203079,42.855819",
+    "geom:latitude":42.855819,
+    "geom:longitude":-73.203079,
+    "iso:country":"US",
+    "sg:address":"811 US Hwy 7",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 8381",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "new",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24PW9j7LcsT1CtoTSZOECU_42.855819_-73.203079@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310753,
+    "wof:geomhash":"7bbc50e30904e601d889706e1548ffbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873998951
+        }
+    ],
+    "wof:id":873998951,
+    "wof:lastmodified":1464310753,
+    "wof:name":"Ford Rent-A-Car",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "used"
+    ]
+},
+  "bbox": [
+    -73.203079,
+    42.855819,
+    -73.203079,
+    42.855819
+],
+  "geometry": {"coordinates":[-73.203079,42.855819],"type":"Point"}
+}

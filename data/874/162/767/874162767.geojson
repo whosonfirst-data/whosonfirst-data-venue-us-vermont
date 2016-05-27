@@ -1,0 +1,71 @@
+{
+  "id": 874162767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.582025,43.093607,-72.582025,43.093607",
+    "geom:latitude":43.093607,
+    "geom:longitude":-72.582025,
+    "iso:country":"US",
+    "sg:address":"302 Brookline Rd",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 869 2381",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GVOOjeGwYTPVVI0fyHvmT_43.093607_-72.582025@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312457,
+    "wof:geomhash":"d803a7bba83008e4ab851c6b0f52ee4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874162767
+        }
+    ],
+    "wof:id":874162767,
+    "wof:lastmodified":1464312457,
+    "wof:name":"Woodbury Garage",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.582025,
+    43.093607,
+    -72.582025,
+    43.093607
+],
+  "geometry": {"coordinates":[-72.582025,43.093607],"type":"Point"}
+}

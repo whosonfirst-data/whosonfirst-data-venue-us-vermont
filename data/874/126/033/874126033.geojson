@@ -1,0 +1,72 @@
+{
+  "id": 874126033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.302871,44.891369,-73.302871,44.891369",
+    "geom:latitude":44.891369,
+    "geom:longitude":-73.302871,
+    "iso:country":"US",
+    "sg:address":"95 Carrigan Hts",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 656 2250",
+    "sg:postcode":"05440",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.uvm.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849381,
+        102080783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B4CR5O9ulqa2kKW6biqBy_44.891369_-73.302871@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312094,
+    "wof:geomhash":"a2c6dc5972a7bb831ec729ba9d21ca0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080783,
+            "neighbourhood_id":85849381,
+            "region_id":85688763,
+            "venue_id":874126033
+        }
+    ],
+    "wof:id":874126033,
+    "wof:lastmodified":1464312094,
+    "wof:name":"Orthopaedics & Rehabilitation",
+    "wof:parent_id":85849381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.302871,
+    44.891369,
+    -73.302871,
+    44.891369
+],
+  "geometry": {"coordinates":[-73.302871,44.891369],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874164769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.961068,43.597851,-72.961068,43.597851",
+    "geom:latitude":43.597851,
+    "geom:longitude":-72.961068,
+    "iso:country":"US",
+    "sg:address":"90 Mahoney Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2581",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sdBAiJPtc0JUPtQXFPu95_43.597851_-72.961068@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312476,
+    "wof:geomhash":"055bae6e6120195503d5fc588cace70d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874164769
+        }
+    ],
+    "wof:id":874164769,
+    "wof:lastmodified":1464312476,
+    "wof:name":"Psychiatry & Psychotherapy",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.961068,
+    43.597851,
+    -72.961068,
+    43.597851
+],
+  "geometry": {"coordinates":[-72.961068,43.597851],"type":"Point"}
+}

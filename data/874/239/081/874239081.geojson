@@ -1,0 +1,69 @@
+{
+  "id": 874239081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.900634,44.507326,-72.900634,44.507326",
+    "geom:latitude":44.507326,
+    "geom:longitude":-72.900634,
+    "iso:country":"US",
+    "sg:address":"1 Pleasant Valley Rd",
+    "sg:city":"Underhill",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 4056",
+    "sg:postcode":"05490",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85851047,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BolW1UIFgxag7Trzyb77j_44.507326_-72.900634@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313323,
+    "wof:geomhash":"30cd3224ccc933e2f60cfb0fbe893c87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85851047,
+            "region_id":85688763,
+            "venue_id":874239081
+        }
+    ],
+    "wof:id":874239081,
+    "wof:lastmodified":1464313323,
+    "wof:name":"Underhill Country Store",
+    "wof:parent_id":85851047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -72.900634,
+    44.507326,
+    -72.900634,
+    44.507326
+],
+  "geometry": {"coordinates":[-72.900634,44.507326],"type":"Point"}
+}

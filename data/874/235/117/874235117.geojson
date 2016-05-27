@@ -1,0 +1,72 @@
+{
+  "id": 874235117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.13068,44.074448,-73.13068,44.074448",
+    "geom:latitude":44.074448,
+    "geom:longitude":-73.13068,
+    "iso:country":"US",
+    "sg:address":"2747 River Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4266",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pottery"
+    ],
+    "sg:website":"www.onionriverpottery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57i8L4wVT9qrEJtGacnII3_44.074448_-73.130680@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313242,
+    "wof:geomhash":"2ce87dc26631f5cda04538486c974991",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874235117
+        }
+    ],
+    "wof:id":874235117,
+    "wof:lastmodified":1464313242,
+    "wof:name":"Onion River Pottery",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pottery"
+    ]
+},
+  "bbox": [
+    -73.13068,
+    44.074448,
+    -73.13068,
+    44.074448
+],
+  "geometry": {"coordinates":[-73.13068,44.074448],"type":"Point"}
+}

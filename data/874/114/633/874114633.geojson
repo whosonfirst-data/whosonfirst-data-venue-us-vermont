@@ -1,0 +1,69 @@
+{
+  "id": 874114633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.588321,42.876408,-72.588321,42.876408",
+    "geom:latitude":42.876408,
+    "geom:longitude":-72.588321,
+    "iso:country":"US",
+    "sg:address":"348 Upper Dummerston Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 9864",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t6YxUHNRMh7wl2QBvr13w_42.876408_-72.588321@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311984,
+    "wof:geomhash":"749247ab3bb7cf25e01ce9e396ece84e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874114633
+        }
+    ],
+    "wof:id":874114633,
+    "wof:lastmodified":1464311984,
+    "wof:name":"Brattleboro Country Club",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -72.588321,
+    42.876408,
+    -72.588321,
+    42.876408
+],
+  "geometry": {"coordinates":[-72.58832099999999,42.876408],"type":"Point"}
+}

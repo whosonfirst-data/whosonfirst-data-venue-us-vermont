@@ -1,0 +1,66 @@
+{
+  "id": 874082051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.397269,44.293715,-72.397269,44.293715",
+    "geom:latitude":44.293715,
+    "geom:longitude":-72.397269,
+    "iso:country":"US",
+    "sg:address":"61 Onion River Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3232",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k0HH6U3ZJbvM7E6ceZ1Ox_44.293715_-72.397269@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311576,
+    "wof:geomhash":"7e080269f7a6a24b9ab1292714ef3f3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874082051
+        }
+    ],
+    "wof:id":874082051,
+    "wof:lastmodified":1464311576,
+    "wof:name":"Onion River Campground",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.397269,
+    44.293715,
+    -72.397269,
+    44.293715
+],
+  "geometry": {"coordinates":[-72.39726899999999,44.293715],"type":"Point"}
+}

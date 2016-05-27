@@ -1,0 +1,73 @@
+{
+  "id": 874039191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.013999,44.418521,-72.013999,44.418521",
+    "geom:latitude":44.418521,
+    "geom:longitude":-72.013999,
+    "iso:country":"US",
+    "sg:address":"23 Bay St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 1050",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C73E5OBRdMsyrO74dERZe_44.418521_-72.013999@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311136,
+    "wof:geomhash":"81f66d8d841c401a50da34ad8288aaf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874039191
+        }
+    ],
+    "wof:id":874039191,
+    "wof:lastmodified":1464311136,
+    "wof:name":"Sis' Grooming & Kennel Svc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -72.013999,
+    44.418521,
+    -72.013999,
+    44.418521
+],
+  "geometry": {"coordinates":[-72.013999,44.418521],"type":"Point"}
+}

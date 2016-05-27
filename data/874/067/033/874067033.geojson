@@ -1,0 +1,75 @@
+{
+  "id": 874067033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215175,44.468543,-73.215175,44.468543",
+    "geom:latitude":44.468543,
+    "geom:longitude":-73.215175,
+    "iso:country":"US",
+    "sg:address":"431 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 1289",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hardware",
+        "peripheral",
+        "customized"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i2RLzUOVG9rTrJ2tCaqCE_44.468543_-73.215175@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311397,
+    "wof:geomhash":"07621f71989ffadf6d03c659a0a39e6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874067033
+        }
+    ],
+    "wof:id":874067033,
+    "wof:lastmodified":1464311397,
+    "wof:name":"Data Systems Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "peripheral",
+        "customized"
+    ]
+},
+  "bbox": [
+    -73.215175,
+    44.468543,
+    -73.215175,
+    44.468543
+],
+  "geometry": {"coordinates":[-73.215175,44.468543],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874254747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.246672,44.35426,-73.246672,44.35426",
+    "geom:latitude":44.35426,
+    "geom:longitude":-73.246672,
+    "iso:country":"US",
+    "sg:address":"3101 Wake Robin Dr",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 3405",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Db7GKc24a69XU4RZxDOSf_44.354260_-73.246672@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313664,
+    "wof:geomhash":"cc2f8fce9c238673122701937b29282a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874254747
+        }
+    ],
+    "wof:id":874254747,
+    "wof:lastmodified":1464313664,
+    "wof:name":"Clearwater Realty Co Inc",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -73.246672,
+    44.35426,
+    -73.246672,
+    44.35426
+],
+  "geometry": {"coordinates":[-73.246672,44.35426],"type":"Point"}
+}

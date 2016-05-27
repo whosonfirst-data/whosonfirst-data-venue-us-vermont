@@ -1,0 +1,71 @@
+{
+  "id": 874206353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.55997,44.251006,-72.55997,44.251006",
+    "geom:latitude":44.251006,
+    "geom:longitude":-72.55997,
+    "iso:country":"US",
+    "sg:address":"407 Barre St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 6577",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sbh9NLz3ItEkADl8tiM4w_44.251006_-72.559970@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312907,
+    "wof:geomhash":"a2547e14e6e4f7ced59776d46f550eff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874206353
+        }
+    ],
+    "wof:id":874206353,
+    "wof:lastmodified":1464312907,
+    "wof:name":"S-R Janitorial Svc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -72.55997,
+    44.251006,
+    -72.55997,
+    44.251006
+],
+  "geometry": {"coordinates":[-72.55997000000001,44.251006],"type":"Point"}
+}

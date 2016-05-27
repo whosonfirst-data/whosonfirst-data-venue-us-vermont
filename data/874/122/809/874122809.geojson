@@ -1,0 +1,69 @@
+{
+  "id": 874122809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.95871,43.616575,-72.95871,43.616575",
+    "geom:latitude":43.616575,
+    "geom:longitude":-72.95871,
+    "iso:country":"US",
+    "sg:address":"171 Saint John St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 9502",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W2ItvLpC34BLjYbaMg45w_43.616575_-72.958710@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312067,
+    "wof:geomhash":"c5a28898a753b1f5c5b403f9aa1bc33c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874122809
+        }
+    ],
+    "wof:id":874122809,
+    "wof:lastmodified":1464312067,
+    "wof:name":"Erwin Plumbing & Heating",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.95871,
+    43.616575,
+    -72.95871,
+    43.616575
+],
+  "geometry": {"coordinates":[-72.95871,43.616575],"type":"Point"}
+}

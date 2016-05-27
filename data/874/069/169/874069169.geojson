@@ -1,0 +1,71 @@
+{
+  "id": 874069169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.966892,43.596668,-72.966892,43.596668",
+    "geom:latitude":43.596668,
+    "geom:longitude":-72.966892,
+    "iso:country":"US",
+    "sg:address":"145 Allen St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 6006",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dYUaL5xBs5KMVv8qH3UOJ_43.596668_-72.966892@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311424,
+    "wof:geomhash":"c57840eaf8b5891979d639b3bbe694fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874069169
+        }
+    ],
+    "wof:id":874069169,
+    "wof:lastmodified":1464311424,
+    "wof:name":"Mid Vermont Urology",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.966892,
+    43.596668,
+    -72.966892,
+    43.596668
+],
+  "geometry": {"coordinates":[-72.966892,43.596668],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874158055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.085527,44.493496,-73.085527,44.493496",
+    "geom:latitude":44.493496,
+    "geom:longitude":-73.085527,
+    "iso:country":"US",
+    "sg:address":"99 Beech St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 2549",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DRErpTHIolqBVYkH6dnXi_44.493496_-73.085527@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312408,
+    "wof:geomhash":"15ea4960c1d1a44d18da9ad0fc7afaec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874158055
+        }
+    ],
+    "wof:id":874158055,
+    "wof:lastmodified":1464312408,
+    "wof:name":"AMS Management",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -73.085527,
+    44.493496,
+    -73.085527,
+    44.493496
+],
+  "geometry": {"coordinates":[-73.085527,44.493496],"type":"Point"}
+}

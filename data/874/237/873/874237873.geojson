@@ -1,0 +1,71 @@
+{
+  "id": 874237873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.087752,44.137001,-73.087752,44.137001",
+    "geom:latitude":44.137001,
+    "geom:longitude":-73.087752,
+    "iso:country":"US",
+    "sg:address":"29 Liberty St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 4171",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AmWQjYBPIGieued6h0PpN_44.137001_-73.087752@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313299,
+    "wof:geomhash":"622c8beaa08bece7fc9398a4d8c2c09e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874237873
+        }
+    ],
+    "wof:id":874237873,
+    "wof:lastmodified":1464313299,
+    "wof:name":"Mike Bromley Const",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.087752,
+    44.137001,
+    -73.087752,
+    44.137001
+],
+  "geometry": {"coordinates":[-73.08775199999999,44.137001],"type":"Point"}
+}

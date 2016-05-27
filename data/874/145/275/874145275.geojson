@@ -1,0 +1,73 @@
+{
+  "id": 874145275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.48479,44.186039,-72.48479,44.186039",
+    "geom:latitude":44.186039,
+    "geom:longitude":-72.48479,
+    "iso:country":"US",
+    "sg:address":"420 Washington St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3630",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J2yAGoScM165m6gAOVaPh_44.186039_-72.484790@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312282,
+    "wof:geomhash":"5d48f7c2ae43add09059fd1d59fd2f90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874145275
+        }
+    ],
+    "wof:id":874145275,
+    "wof:lastmodified":1464312282,
+    "wof:name":"Project Independence",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -72.48479,
+    44.186039,
+    -72.48479,
+    44.186039
+],
+  "geometry": {"coordinates":[-72.48479,44.186039],"type":"Point"}
+}

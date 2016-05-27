@@ -1,0 +1,71 @@
+{
+  "id": 874207643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.498758,44.196627,-72.498758,44.196627",
+    "geom:latitude":44.196627,
+    "geom:longitude":-72.498758,
+    "iso:country":"US",
+    "sg:address":"7 Academy St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3206",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tlYAqidFBFK9oiBhuByvY_44.196627_-72.498758@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312926,
+    "wof:geomhash":"319d38ce91cd933fb3c877233ae2debb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874207643
+        }
+    ],
+    "wof:id":874207643,
+    "wof:lastmodified":1464312926,
+    "wof:name":"Hooker & Whitcomb Funeral Home",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -72.498758,
+    44.196627,
+    -72.498758,
+    44.196627
+],
+  "geometry": {"coordinates":[-72.498758,44.196627],"type":"Point"}
+}

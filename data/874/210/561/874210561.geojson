@@ -1,0 +1,77 @@
+{
+  "id": 874210561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.591756,44.571749,-72.591756,44.571749",
+    "geom:latitude":44.571749,
+    "geom:longitude":-72.591756,
+    "iso:country":"US",
+    "sg:address":"37 Industrial Park Dr",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 3491",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "preparation",
+        "sugar",
+        "maple",
+        "refining",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jcum3xx3fA48otyq697bl_44.571749_-72.591756@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312956,
+    "wof:geomhash":"376ffcf55239ec8292dac06090b198b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874210561
+        }
+    ],
+    "wof:id":874210561,
+    "wof:lastmodified":1464312956,
+    "wof:name":"Butternut Mountain Farm",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "sugar",
+        "maple",
+        "refining",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.591756,
+    44.571749,
+    -72.591756,
+    44.571749
+],
+  "geometry": {"coordinates":[-72.591756,44.571749],"type":"Point"}
+}

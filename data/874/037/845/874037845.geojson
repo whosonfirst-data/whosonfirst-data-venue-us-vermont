@@ -1,0 +1,75 @@
+{
+  "id": 874037845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.576346,44.20994,-72.576346,44.20994",
+    "geom:latitude":44.20994,
+    "geom:longitude":-72.576346,
+    "iso:country":"US",
+    "sg:address":"4 Comstock Rd",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 828 4493",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rLYUv8GoE1VoyG3j28Uc6_44.209940_-72.576346@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311124,
+    "wof:geomhash":"b4a3afaf97c366c45f223550907c4c7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874037845
+        }
+    ],
+    "wof:id":874037845,
+    "wof:lastmodified":1464311124,
+    "wof:name":"Us Rural Development",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -72.576346,
+    44.20994,
+    -72.576346,
+    44.20994
+],
+  "geometry": {"coordinates":[-72.576346,44.20994],"type":"Point"}
+}

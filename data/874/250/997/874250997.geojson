@@ -1,0 +1,74 @@
+{
+  "id": 874250997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.19226,44.482232,-73.19226,44.482232",
+    "geom:latitude":44.482232,
+    "geom:longitude":-73.19226,
+    "iso:country":"US",
+    "sg:address":"207 Colchester Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/burlington/262883-india-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 8646",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "indian",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Gx8GaO4ufi3krMtKWS0fo_44.482444_-73.191949@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313585,
+    "wof:geomhash":"3248d20e53a0f5988fab383d3a348f5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874250997
+        }
+    ],
+    "wof:id":874250997,
+    "wof:lastmodified":1464313585,
+    "wof:name":"India House",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "indian",
+        "asian"
+    ]
+},
+  "bbox": [
+    -73.19226,
+    44.482232,
+    -73.19226,
+    44.482232
+],
+  "geometry": {"coordinates":[-73.19226,44.482232],"type":"Point"}
+}

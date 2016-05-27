@@ -1,0 +1,73 @@
+{
+  "id": 874068279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.475389,44.192878,-72.475389,44.192878",
+    "geom:latitude":44.192878,
+    "geom:longitude":-72.475389,
+    "iso:country":"US",
+    "sg:address":"1 Balsam Dr",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4879",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DJ7HAj5e0QzoefClpEB3c_44.192878_-72.475389@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311416,
+    "wof:geomhash":"68a610922a45b52ed1b6b4efa4204272",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874068279
+        }
+    ],
+    "wof:id":874068279,
+    "wof:lastmodified":1464311416,
+    "wof:name":"Jerry Perantoni Paving",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.475389,
+    44.192878,
+    -72.475389,
+    44.192878
+],
+  "geometry": {"coordinates":[-72.47538900000001,44.192878],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 874254277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.830467,44.643707,-72.830467,44.643707",
+    "geom:latitude":44.643707,
+    "geom:longitude":-72.830467,
+    "iso:country":"US",
+    "sg:address":"55 Church St.",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 6607",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:website":"www.smuggsinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SYxtDEEsBDz346Nx4frUF_44.643707_-72.830467@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313653,
+    "wof:geomhash":"a554b3f8ed6b1a330000ece5753d81db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874254277
+        }
+    ],
+    "wof:id":874254277,
+    "wof:lastmodified":1464313653,
+    "wof:name":"Smuggler's Notch Inn",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.830467,
+    44.643707,
+    -72.830467,
+    44.643707
+],
+  "geometry": {"coordinates":[-72.830467,44.643707],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873997987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210581,44.480435,-73.210581,44.480435",
+    "geom:latitude":44.480435,
+    "geom:longitude":-73.210581,
+    "iso:country":"US",
+    "sg:address":"215 Pearl St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 2150",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist",
+        "surgery",
+        "facial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I34GWxYoGosbjJLoDtmyh_44.480435_-73.210581@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310747,
+    "wof:geomhash":"1d754feb3ca52fe23a683dc5bf467d14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873997987
+        }
+    ],
+    "wof:id":873997987,
+    "wof:lastmodified":1464310747,
+    "wof:name":"Northern Vermont Oral Surgery",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist",
+        "surgery",
+        "facial"
+    ]
+},
+  "bbox": [
+    -73.210581,
+    44.480435,
+    -73.210581,
+    44.480435
+],
+  "geometry": {"coordinates":[-73.210581,44.480435],"type":"Point"}
+}

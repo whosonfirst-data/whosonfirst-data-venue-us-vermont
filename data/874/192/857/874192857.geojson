@@ -1,0 +1,71 @@
+{
+  "id": 874192857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.540732,42.894648,-72.540732,42.894648",
+    "geom:latitude":42.894648,
+    "geom:longitude":-72.540732,
+    "iso:country":"US",
+    "sg:address":"327 Old Ferry Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 0272",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "county",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q6TTF6HKdhU0d6VKtd2sD_42.894648_-72.540732@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312769,
+    "wof:geomhash":"2b90716de6906be10719559eca9f9d1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874192857
+        }
+    ],
+    "wof:id":874192857,
+    "wof:lastmodified":1464312769,
+    "wof:name":"Windham County Solid Waste",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program"
+    ]
+},
+  "bbox": [
+    -72.540732,
+    42.894648,
+    -72.540732,
+    42.894648
+],
+  "geometry": {"coordinates":[-72.54073200000001,42.894648],"type":"Point"}
+}

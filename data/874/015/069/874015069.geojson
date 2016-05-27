@@ -1,0 +1,69 @@
+{
+  "id": 874015069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.999543,44.532903,-71.999543,44.532903",
+    "geom:latitude":44.532903,
+    "geom:longitude":-71.999543,
+    "iso:country":"US",
+    "sg:address":"630 Hill St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 5267",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JQqBThxGCQIve0ppH1Qmd_44.532903_-71.999543@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310891,
+    "wof:geomhash":"6d8c3444e7cb2f1139467c2f2cdf71a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874015069
+        }
+    ],
+    "wof:id":874015069,
+    "wof:lastmodified":1464310891,
+    "wof:name":"St Elizabeths Catholic Church",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.999543,
+    44.532903,
+    -71.999543,
+    44.532903
+],
+  "geometry": {"coordinates":[-71.999543,44.532903],"type":"Point"}
+}

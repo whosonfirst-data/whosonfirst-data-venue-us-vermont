@@ -1,0 +1,77 @@
+{
+  "id": 874143389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.664812,43.922314,-72.664812,43.922314",
+    "geom:latitude":43.922314,
+    "geom:longitude":-72.664812,
+    "iso:country":"US",
+    "sg:address":"3 S Main St",
+    "sg:city":"Randolph",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 728 3369",
+    "sg:postcode":"05060",
+    "sg:province":"VT",
+    "sg:tags":[
+        "supply",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805053,
+        102191575,
+        404527177,
+        85633793,
+        101728451,
+        102087431,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rFSgrfFQO0Fe5tMCVX6HV_43.922314_-72.664812@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312265,
+    "wof:geomhash":"1c9bc8e27763a207b51f71c778a36f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087431,
+            "localadmin_id":404527177,
+            "locality_id":101728451,
+            "neighbourhood_id":85805053,
+            "region_id":85688763,
+            "venue_id":874143389
+        }
+    ],
+    "wof:id":874143389,
+    "wof:lastmodified":1464312265,
+    "wof:name":"Randolph Auto Supply",
+    "wof:parent_id":85805053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.664812,
+    43.922314,
+    -72.664812,
+    43.922314
+],
+  "geometry": {"coordinates":[-72.664812,43.922314],"type":"Point"}
+}

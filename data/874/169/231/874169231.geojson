@@ -1,0 +1,77 @@
+{
+  "id": 874169231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.135582,43.102445,-73.135582,43.102445",
+    "geom:latitude":43.102445,
+    "geom:longitude":-73.135582,
+    "iso:country":"US",
+    "sg:address":"16 Red Mountain Rd",
+    "sg:city":"Arlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 375 1000",
+    "sg:postcode":"05250",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420545823,
+        102191575,
+        404527215,
+        85633793,
+        101728407,
+        102087439,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GrxJjSIKlzaSt8VD6DeL1_43.102445_-73.135582@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312519,
+    "wof:geomhash":"4e2421b5a6cde99c39ee681ce71aad4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087439,
+            "localadmin_id":404527215,
+            "locality_id":101728407,
+            "neighbourhood_id":420545823,
+            "region_id":85688763,
+            "venue_id":874169231
+        }
+    ],
+    "wof:id":874169231,
+    "wof:lastmodified":1464312519,
+    "wof:name":"Red Mountain Construction",
+    "wof:parent_id":420545823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.135582,
+    43.102445,
+    -73.135582,
+    43.102445
+],
+  "geometry": {"coordinates":[-73.135582,43.102445],"type":"Point"}
+}

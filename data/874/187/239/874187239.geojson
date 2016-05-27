@@ -1,0 +1,75 @@
+{
+  "id": 874187239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.001636,44.503348,-73.001636,44.503348",
+    "geom:latitude":44.503348,
+    "geom:longitude":-73.001636,
+    "iso:country":"US",
+    "sg:address":"253 State Rte 15",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 3181",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RWn0bYCmB9809TC8p2Whi_44.503348_-73.001636@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312711,
+    "wof:geomhash":"53d28941422a7b5d689209b52f749fa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874187239
+        }
+    ],
+    "wof:id":874187239,
+    "wof:lastmodified":1464312711,
+    "wof:name":"Showtime Video",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -73.001636,
+    44.503348,
+    -73.001636,
+    44.503348
+],
+  "geometry": {"coordinates":[-73.001636,44.503348],"type":"Point"}
+}

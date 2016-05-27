@@ -1,0 +1,69 @@
+{
+  "id": 874151375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.990896,43.615892,-72.990896,43.615892",
+    "geom:latitude":43.615892,
+    "geom:longitude":-72.990896,
+    "iso:country":"US",
+    "sg:address":"2 Oak St Exd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 7976",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M6qLZcxn4YILYxvxP8fl9_43.615892_-72.990896@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312341,
+    "wof:geomhash":"0b5bbaa59d8ed889c55b03741ac19ea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874151375
+        }
+    ],
+    "wof:id":874151375,
+    "wof:lastmodified":1464312341,
+    "wof:name":"Rutland Recreation Dept",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -72.990896,
+    43.615892,
+    -72.990896,
+    43.615892
+],
+  "geometry": {"coordinates":[-72.99089600000001,43.615892],"type":"Point"}
+}

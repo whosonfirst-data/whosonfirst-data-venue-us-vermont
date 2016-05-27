@@ -1,0 +1,71 @@
+{
+  "id": 874043897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.683523,44.465564,-72.683523,44.465564",
+    "geom:latitude":44.465564,
+    "geom:longitude":-72.683523,
+    "iso:country":"US",
+    "sg:address":"250 Maple St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 8821",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qmpySUY2OKhka6HYduWOr_44.465564_-72.683523@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311184,
+    "wof:geomhash":"a2568517ef40c6cf9a4913544fce664c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874043897
+        }
+    ],
+    "wof:id":874043897,
+    "wof:lastmodified":1464311184,
+    "wof:name":"Lilo Properties LLC",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.683523,
+    44.465564,
+    -72.683523,
+    44.465564
+],
+  "geometry": {"coordinates":[-72.68352299999999,44.465564],"type":"Point"}
+}

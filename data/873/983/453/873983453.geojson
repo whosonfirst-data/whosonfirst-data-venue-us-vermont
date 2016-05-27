@@ -1,0 +1,71 @@
+{
+  "id": 873983453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.541613,44.256466,-72.541613,44.256466",
+    "geom:latitude":44.256466,
+    "geom:longitude":-72.541613,
+    "iso:country":"US",
+    "sg:address":"1007 Towne Hill Rd",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 4743",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "taping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59G4IAJsqbWgIAEFw8qhBw_44.256466_-72.541613@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310637,
+    "wof:geomhash":"3b0d976e66e6b0a545a010bc0afc80a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873983453
+        }
+    ],
+    "wof:id":873983453,
+    "wof:lastmodified":1464310637,
+    "wof:name":"Emerald's Video Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taping"
+    ]
+},
+  "bbox": [
+    -72.541613,
+    44.256466,
+    -72.541613,
+    44.256466
+],
+  "geometry": {"coordinates":[-72.541613,44.256466],"type":"Point"}
+}

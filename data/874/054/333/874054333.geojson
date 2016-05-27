@@ -1,0 +1,71 @@
+{
+  "id": 874054333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.488999,44.192207,-72.488999,44.192207",
+    "geom:latitude":44.192207,
+    "geom:longitude":-72.488999,
+    "iso:country":"US",
+    "sg:address":"43 Nelson St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5126",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qLaVxOQGQeriNwEfsG2BA_44.192207_-72.488999@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311281,
+    "wof:geomhash":"e8b4ebca15d0cb4ed72d10f6e42a4bd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874054333
+        }
+    ],
+    "wof:id":874054333,
+    "wof:lastmodified":1464311281,
+    "wof:name":"Fireside Hair Fashions",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.488999,
+    44.192207,
+    -72.488999,
+    44.192207
+],
+  "geometry": {"coordinates":[-72.48899900000001,44.192207],"type":"Point"}
+}

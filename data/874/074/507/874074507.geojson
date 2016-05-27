@@ -1,0 +1,75 @@
+{
+  "id": 874074507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.203659,43.141802,-73.203659,43.141802",
+    "geom:latitude":43.141802,
+    "geom:longitude":-73.203659,
+    "iso:country":"US",
+    "sg:address":"3266 Sandgate Rd",
+    "sg:city":"Arlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 375 9075",
+    "sg:postcode":"05250",
+    "sg:province":"VT",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420545823,
+        102191575,
+        404527215,
+        85633793,
+        101728407,
+        102087439,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27OJWwedTghWFC5SKExGvW_43.141802_-73.203659@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311499,
+    "wof:geomhash":"021294552ed61afee6ec7353f4774aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087439,
+            "localadmin_id":404527215,
+            "locality_id":101728407,
+            "neighbourhood_id":420545823,
+            "region_id":85688763,
+            "venue_id":874074507
+        }
+    ],
+    "wof:id":874074507,
+    "wof:lastmodified":1464311499,
+    "wof:name":"Town of Sandgate",
+    "wof:parent_id":420545823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -73.203659,
+    43.141802,
+    -73.203659,
+    43.141802
+],
+  "geometry": {"coordinates":[-73.203659,43.141802],"type":"Point"}
+}

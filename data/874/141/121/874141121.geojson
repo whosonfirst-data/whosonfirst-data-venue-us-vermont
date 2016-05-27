@@ -1,0 +1,69 @@
+{
+  "id": 874141121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.22631,44.377107,-73.22631,44.377107",
+    "geom:latitude":44.377107,
+    "geom:longitude":-73.22631,
+    "iso:country":"US",
+    "sg:address":"30 Falls Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 3500",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dO2DXi76NknGtLQnAl9uC_44.377107_-73.226310@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312244,
+    "wof:geomhash":"33ad0666b97927fbd83d20f349a03270",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874141121
+        }
+    ],
+    "wof:id":874141121,
+    "wof:lastmodified":1464312244,
+    "wof:name":"Shelburne Dental Group",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.22631,
+    44.377107,
+    -73.22631,
+    44.377107
+],
+  "geometry": {"coordinates":[-73.22631,44.377107],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874140605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.2269,44.379109,-73.2269,44.379109",
+    "geom:latitude":44.379109,
+    "geom:longitude":-73.2269,
+    "iso:country":"US",
+    "sg:address":"16 Falls Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 3005",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SVLQ59vyJyxxUhIGOfxiZ_44.379109_-73.226900@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312240,
+    "wof:geomhash":"bd1f4a76bb9b7390af6e069d54db9a10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874140605
+        }
+    ],
+    "wof:id":874140605,
+    "wof:lastmodified":1464312240,
+    "wof:name":"Brad's Computer Svc",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -73.2269,
+    44.379109,
+    -73.2269,
+    44.379109
+],
+  "geometry": {"coordinates":[-73.2269,44.379109],"type":"Point"}
+}

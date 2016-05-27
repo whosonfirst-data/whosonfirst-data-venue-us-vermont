@@ -1,0 +1,69 @@
+{
+  "id": 874208769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.630833,43.828492,-72.630833,43.828492",
+    "geom:latitude":43.828492,
+    "geom:longitude":-72.630833,
+    "iso:country":"US",
+    "sg:address":"129 Main St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 9364",
+    "sg:postcode":"05032",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cqypTpz2gZrfAkRMPCeql_43.828492_-72.630833@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312936,
+    "wof:geomhash":"dd6d225974f7e701fd875dce5c325de7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874208769
+        }
+    ],
+    "wof:id":874208769,
+    "wof:lastmodified":1464312936,
+    "wof:name":"Barry's Towing",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -72.630833,
+    43.828492,
+    -72.630833,
+    43.828492
+],
+  "geometry": {"coordinates":[-72.630833,43.828492],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874168035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.454005,44.15966,-72.454005,44.15966",
+    "geom:latitude":44.15966,
+    "geom:longitude":-72.454005,
+    "iso:country":"US",
+    "sg:address":"5 Church St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 5915",
+    "sg:postcode":"05649",
+    "sg:province":"VT",
+    "sg:tags":[
+        "legislative",
+        "body",
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853237,
+        102191575,
+        404527421,
+        85633793,
+        101728527,
+        102080779,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wYllOgwZFebWzz4oLwN48_44.159660_-72.454005@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312507,
+    "wof:geomhash":"6630278bfad00eda2a06ecb8f5068641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080779,
+            "localadmin_id":404527421,
+            "locality_id":101728527,
+            "neighbourhood_id":85853237,
+            "region_id":85688763,
+            "venue_id":874168035
+        }
+    ],
+    "wof:id":874168035,
+    "wof:lastmodified":1464312507,
+    "wof:name":"Town Clerk Office",
+    "wof:parent_id":85853237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legislative",
+        "body",
+        "operation"
+    ]
+},
+  "bbox": [
+    -72.454005,
+    44.15966,
+    -72.454005,
+    44.15966
+],
+  "geometry": {"coordinates":[-72.454005,44.15966],"type":"Point"}
+}

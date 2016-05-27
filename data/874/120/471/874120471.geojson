@@ -1,0 +1,69 @@
+{
+  "id": 874120471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.20057,42.87996,-73.20057,42.87996",
+    "geom:latitude":42.87996,
+    "geom:longitude":-73.20057,
+    "iso:country":"US",
+    "sg:address":"250 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 7596",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OSQmN7sv0HwbV94lKZ0yL_42.879960_-73.200570@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312045,
+    "wof:geomhash":"018c1be1b5de8d4407b5ab7a2deb5ccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874120471
+        }
+    ],
+    "wof:id":874120471,
+    "wof:lastmodified":1464312045,
+    "wof:name":"Kirkside Motor Lodge",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -73.20057,
+    42.87996,
+    -73.20057,
+    42.87996
+],
+  "geometry": {"coordinates":[-73.20057,42.87996],"type":"Point"}
+}

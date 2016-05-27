@@ -1,0 +1,69 @@
+{
+  "id": 874139515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.225434,44.400048,-72.225434,44.400048",
+    "geom:latitude":44.400048,
+    "geom:longitude":-72.225434,
+    "iso:country":"US",
+    "sg:address":"2 US Hwy 2",
+    "sg:city":"Cabot",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 563 2278",
+    "sg:postcode":"05647",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LmoLjmJ01vccwXsPYI6GS_44.400048_-72.225434@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312231,
+    "wof:geomhash":"58da8d2285ef56430500ae4e232c6a6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874139515
+        }
+    ],
+    "wof:id":874139515,
+    "wof:lastmodified":1464312231,
+    "wof:name":"United Church Of Cabot",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.225434,
+    44.400048,
+    -72.225434,
+    44.400048
+],
+  "geometry": {"coordinates":[-72.22543400000001,44.400048],"type":"Point"}
+}

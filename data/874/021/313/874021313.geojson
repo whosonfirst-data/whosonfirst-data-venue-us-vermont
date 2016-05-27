@@ -1,0 +1,71 @@
+{
+  "id": 874021313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.683248,44.490629,-72.683248,44.490629",
+    "geom:latitude":44.490629,
+    "geom:longitude":-72.683248,
+    "iso:country":"US",
+    "sg:address":"1401 W Hill Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 2121",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "designer",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QLcuX53C2ab6PWuChhTos_44.490629_-72.683248@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310959,
+    "wof:geomhash":"e20eaf2bc0dd899e5e88338382e56cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874021313
+        }
+    ],
+    "wof:id":874021313,
+    "wof:lastmodified":1464310959,
+    "wof:name":"Goodhue Land Design",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -72.683248,
+    44.490629,
+    -72.683248,
+    44.490629
+],
+  "geometry": {"coordinates":[-72.68324800000001,44.490629],"type":"Point"}
+}

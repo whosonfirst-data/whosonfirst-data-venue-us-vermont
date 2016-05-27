@@ -1,0 +1,69 @@
+{
+  "id": 874096323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196926,42.878389,-73.196926,42.878389",
+    "geom:latitude":42.878389,
+    "geom:longitude":-73.196926,
+    "iso:country":"US",
+    "sg:address":"412 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 0103",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HGC0Khe9FvKyGYWXI9PMc_42.878389_-73.196926@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311732,
+    "wof:geomhash":"faceda1a7c8e6169dfa659c59bd8b98f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874096323
+        }
+    ],
+    "wof:id":874096323,
+    "wof:lastmodified":1464311732,
+    "wof:name":"Tofel Jewelers",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -73.196926,
+    42.878389,
+    -73.196926,
+    42.878389
+],
+  "geometry": {"coordinates":[-73.196926,42.878389],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874008203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.502023,44.166014,-72.502023,44.166014",
+    "geom:latitude":44.166014,
+    "geom:longitude":-72.502023,
+    "iso:country":"US",
+    "sg:address":"10 Hutchins Cir",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5889",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61N8knxpo3Nbpln5lVvo25_44.166014_-72.502023@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310843,
+    "wof:geomhash":"5bae588c98bb320e50c1cf9ebc2f1c55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874008203
+        }
+    ],
+    "wof:id":874008203,
+    "wof:lastmodified":1464310843,
+    "wof:name":"Gregoire's Violin Shop",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -72.502023,
+    44.166014,
+    -72.502023,
+    44.166014
+],
+  "geometry": {"coordinates":[-72.50202299999999,44.166014],"type":"Point"}
+}

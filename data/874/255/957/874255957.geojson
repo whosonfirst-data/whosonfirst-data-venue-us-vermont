@@ -1,0 +1,71 @@
+{
+  "id": 874255957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.956848,43.617241,-72.956848,43.617241",
+    "geom:latitude":43.617241,
+    "geom:longitude":-72.956848,
+    "iso:country":"US",
+    "sg:address":"10 Stratton Rd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 8005",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CDIdKCIizVE3Mjy4hv1Bu_43.617241_-72.956848@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313696,
+    "wof:geomhash":"66ea95600e244c25bf2686fa923e995b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255957
+        }
+    ],
+    "wof:id":874255957,
+    "wof:lastmodified":1464313696,
+    "wof:name":"Design Line",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -72.956848,
+    43.617241,
+    -72.956848,
+    43.617241
+],
+  "geometry": {"coordinates":[-72.95684799999999,43.617241],"type":"Point"}
+}

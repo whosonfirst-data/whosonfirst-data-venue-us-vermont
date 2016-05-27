@@ -1,0 +1,72 @@
+{
+  "id": 874189097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.220545,44.448437,-73.220545,44.448437",
+    "geom:latitude":44.448437,
+    "geom:longitude":-73.220545,
+    "iso:country":"US",
+    "sg:address":"80 Industrial Pkwy",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 4500",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "snowboard"
+    ],
+    "sg:website":"www.burton.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eu5WIKddx2AG0nSPuZfuw_44.448437_-73.220545@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312731,
+    "wof:geomhash":"5ea5cdc245e851954d068287e07a32dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874189097
+        }
+    ],
+    "wof:id":874189097,
+    "wof:lastmodified":1464312731,
+    "wof:name":"Burton Snowboards",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snowboard"
+    ]
+},
+  "bbox": [
+    -73.220545,
+    44.448437,
+    -73.220545,
+    44.448437
+],
+  "geometry": {"coordinates":[-73.220545,44.448437],"type":"Point"}
+}

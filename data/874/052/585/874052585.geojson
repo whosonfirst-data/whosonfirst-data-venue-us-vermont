@@ -1,0 +1,71 @@
+{
+  "id": 874052585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.152752,44.124564,-73.152752,44.124564",
+    "geom:latitude":44.124564,
+    "geom:longitude":-73.152752,
+    "iso:country":"US",
+    "sg:address":"1465 Main St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2336",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30dxs6G0blVF14C02UOD0X_44.124564_-73.152752@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311265,
+    "wof:geomhash":"f0c4dd72d4c77356a30d99fe5b15fc38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874052585
+        }
+    ],
+    "wof:id":874052585,
+    "wof:lastmodified":1464311265,
+    "wof:name":"Everest Garage",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -73.152752,
+    44.124564,
+    -73.152752,
+    44.124564
+],
+  "geometry": {"coordinates":[-73.15275200000001,44.124564],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874239289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211164,44.486107,-73.211164,44.486107",
+    "geom:latitude":44.486107,
+    "geom:longitude":-73.211164,
+    "iso:country":"US",
+    "sg:address":"25 Crombie St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 9329",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "material",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_070wdMvXsZlcgI5DAp0gQg_44.486107_-73.211164@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313327,
+    "wof:geomhash":"06e54f005e67d274713543e928f3a134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874239289
+        }
+    ],
+    "wof:id":874239289,
+    "wof:lastmodified":1464313327,
+    "wof:name":"Queen City Plaster Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.211164,
+    44.486107,
+    -73.211164,
+    44.486107
+],
+  "geometry": {"coordinates":[-73.211164,44.486107],"type":"Point"}
+}

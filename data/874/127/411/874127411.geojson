@@ -1,0 +1,69 @@
+{
+  "id": 874127411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.108747,44.69153,-73.108747,44.69153",
+    "geom:latitude":44.69153,
+    "geom:longitude":-73.108747,
+    "iso:country":"US",
+    "sg:address":"962 Ethan Allen Hwy",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 527 1100",
+    "sg:postcode":"05454",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lnbglfS1WZBtooaPS2SMz_44.691530_-73.108747@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312106,
+    "wof:geomhash":"3bc819fe749fee815d37ab71738463da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874127411
+        }
+    ],
+    "wof:id":874127411,
+    "wof:lastmodified":1464312106,
+    "wof:name":"Georgia Market",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.108747,
+    44.69153,
+    -73.108747,
+    44.69153
+],
+  "geometry": {"coordinates":[-73.10874699999999,44.69153],"type":"Point"}
+}

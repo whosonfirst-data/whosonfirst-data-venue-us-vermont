@@ -1,0 +1,73 @@
+{
+  "id": 874060943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213337,44.479352,-73.213337,44.479352",
+    "geom:latitude":44.479352,
+    "geom:longitude":-73.213337,
+    "iso:country":"US",
+    "sg:address":"110 Cherry St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 6990",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "federal",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UuwI1g3GYvvBNMeH1zjKV_44.479352_-73.213337@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311343,
+    "wof:geomhash":"e86df705332f81dae36a8050751d9906",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874060943
+        }
+    ],
+    "wof:id":874060943,
+    "wof:lastmodified":1464311343,
+    "wof:name":"Federal Public Defender",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -73.213337,
+    44.479352,
+    -73.213337,
+    44.479352
+],
+  "geometry": {"coordinates":[-73.213337,44.479352],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874148783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.533822,42.988542,-72.533822,42.988542",
+    "geom:latitude":42.988542,
+    "geom:longitude":-72.533822,
+    "iso:country":"US",
+    "sg:address":"22 W Hill Rd",
+    "sg:city":"Putney",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 387 4040",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "confectionery",
+        "candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cQwdyh5xJeiD7TeWT0YfX_42.988542_-72.533822@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312318,
+    "wof:geomhash":"b50a03b7597a9e07d263559b1b963fff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874148783
+        }
+    ],
+    "wof:id":874148783,
+    "wof:lastmodified":1464312318,
+    "wof:name":"Vermonter Candy",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "candy"
+    ]
+},
+  "bbox": [
+    -72.533822,
+    42.988542,
+    -72.533822,
+    42.988542
+],
+  "geometry": {"coordinates":[-72.533822,42.988542],"type":"Point"}
+}

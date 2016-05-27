@@ -1,0 +1,71 @@
+{
+  "id": 873995357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.595624,43.25924,-72.595624,43.25924",
+    "geom:latitude":43.25924,
+    "geom:longitude":-72.595624,
+    "iso:country":"US",
+    "sg:address":"441 River St",
+    "sg:city":"N Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 3551",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iW4rlJZVLPTFaH7CWwusS_43.259240_-72.595624@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310728,
+    "wof:geomhash":"eee6190a259d6b4f06e8db161d93ab70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":873995357
+        }
+    ],
+    "wof:id":873995357,
+    "wof:lastmodified":1464310728,
+    "wof:name":"Social Welfare Dept",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -72.595624,
+    43.25924,
+    -72.595624,
+    43.25924
+],
+  "geometry": {"coordinates":[-72.595624,43.25924],"type":"Point"}
+}

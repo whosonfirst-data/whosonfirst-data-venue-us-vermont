@@ -1,0 +1,69 @@
+{
+  "id": 874131981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.683236,44.465705,-72.683236,44.465705",
+    "geom:latitude":44.465705,
+    "geom:longitude":-72.683236,
+    "iso:country":"US",
+    "sg:address":"234 Maple St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 0998",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bhIn94o4w5Bkpy2onNIP2_44.465705_-72.683236@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312159,
+    "wof:geomhash":"2d8ecacfb93337607c5fc5b0f494411e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874131981
+        }
+    ],
+    "wof:id":874131981,
+    "wof:lastmodified":1464312159,
+    "wof:name":"Treadle Bears Of Vermont",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -72.683236,
+    44.465705,
+    -72.683236,
+    44.465705
+],
+  "geometry": {"coordinates":[-72.68323599999999,44.465705],"type":"Point"}
+}

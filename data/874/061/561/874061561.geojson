@@ -1,0 +1,71 @@
+{
+  "id": 874061561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204232,44.441276,-73.204232,44.441276",
+    "geom:latitude":44.441276,
+    "geom:longitude":-73.204232,
+    "iso:country":"US",
+    "sg:address":"4 Laurel Hill Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 9300",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YUnTTIvEBCbhc3gCnXZbA_44.441276_-73.204232@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311349,
+    "wof:geomhash":"a50fe7fb2cda99f107101313b31b86c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874061561
+        }
+    ],
+    "wof:id":874061561,
+    "wof:lastmodified":1464311349,
+    "wof:name":"Creative Vision Design",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor"
+    ]
+},
+  "bbox": [
+    -73.204232,
+    44.441276,
+    -73.204232,
+    44.441276
+],
+  "geometry": {"coordinates":[-73.204232,44.441276],"type":"Point"}
+}

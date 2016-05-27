@@ -1,0 +1,84 @@
+{
+  "id": 874254693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.228828,44.37643,-73.228828,44.37643",
+    "geom:latitude":44.37643,
+    "geom:longitude":-73.228828,
+    "iso:country":"US",
+    "sg:address":"5573 Shelburne Road",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 3939",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "brew",
+        "espresso",
+        "french"
+    ],
+    "sg:website":"www.cafeshelburne.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21WEv5GD41CqELbGxEHz6z_44.376430_-73.228828@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313663,
+    "wof:geomhash":"f51691a2ce87d1c7e9934399965eca43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874254693
+        }
+    ],
+    "wof:id":874254693,
+    "wof:lastmodified":1464313663,
+    "wof:name":"Cafe Shelburne",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "espresso",
+        "french"
+    ]
+},
+  "bbox": [
+    -73.228828,
+    44.37643,
+    -73.228828,
+    44.37643
+],
+  "geometry": {"coordinates":[-73.22882799999999,44.37643],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874148151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.634786,44.654682,-72.634786,44.654682",
+    "geom:latitude":44.654682,
+    "geom:longitude":-72.634786,
+    "iso:country":"US",
+    "sg:address":"51 Mine Rd",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 9555",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fabricator",
+        "fiber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mw3C3g2TWuWXzenNzKhwy_44.654682_-72.634786@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312312,
+    "wof:geomhash":"32cc6a4d751ab4c468301c30aa515c45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874148151
+        }
+    ],
+    "wof:id":874148151,
+    "wof:lastmodified":1464312312,
+    "wof:name":"Vermont Premium Fiber Co",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "fiber"
+    ]
+},
+  "bbox": [
+    -72.634786,
+    44.654682,
+    -72.634786,
+    44.654682
+],
+  "geometry": {"coordinates":[-72.63478600000001,44.654682],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873984361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501817,44.197759,-72.501817,44.197759",
+    "geom:latitude":44.197759,
+    "geom:longitude":-72.501817,
+    "iso:country":"US",
+    "sg:address":"109 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3776",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ip6SKUlC4t8sAum4VbnlH_44.197759_-72.501817@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310645,
+    "wof:geomhash":"8c7bc43dc033136c7aee1a3edf5f1cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873984361
+        }
+    ],
+    "wof:id":873984361,
+    "wof:lastmodified":1464310645,
+    "wof:name":"A G Edwards & Sons Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -72.501817,
+    44.197759,
+    -72.501817,
+    44.197759
+],
+  "geometry": {"coordinates":[-72.501817,44.197759],"type":"Point"}
+}

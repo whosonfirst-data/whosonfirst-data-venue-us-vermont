@@ -1,0 +1,73 @@
+{
+  "id": 874246785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.688096,44.468503,-72.688096,44.468503",
+    "geom:latitude":44.468503,
+    "geom:longitude":-72.688096,
+    "iso:country":"US",
+    "sg:address":"276 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 9314",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ppg9KzaHhGdGYrdrIcB9i_44.468503_-72.688096@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313467,
+    "wof:geomhash":"5f7f250ac95bcf482e547ed7d5193c48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874246785
+        }
+    ],
+    "wof:id":874246785,
+    "wof:lastmodified":1464313467,
+    "wof:name":"West Branch Apartments",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -72.688096,
+    44.468503,
+    -72.688096,
+    44.468503
+],
+  "geometry": {"coordinates":[-72.688096,44.468503],"type":"Point"}
+}

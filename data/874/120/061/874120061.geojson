@@ -1,0 +1,71 @@
+{
+  "id": 874120061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.629173,42.849419,-72.629173,42.849419",
+    "geom:latitude":42.849419,
+    "geom:longitude":-72.629173,
+    "iso:country":"US",
+    "sg:address":"109 Ames Hill Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 1368",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HkOHrXAn6yX4ySgax8ESh_42.849419_-72.629173@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312042,
+    "wof:geomhash":"fbc28b2a8a3059f52a1ad9a516f3e8eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874120061
+        }
+    ],
+    "wof:id":874120061,
+    "wof:lastmodified":1464312042,
+    "wof:name":"Winchester Family Transport",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.629173,
+    42.849419,
+    -72.629173,
+    42.849419
+],
+  "geometry": {"coordinates":[-72.62917299999999,42.849419],"type":"Point"}
+}

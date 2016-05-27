@@ -1,0 +1,69 @@
+{
+  "id": 874196869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.620871,42.867199,-72.620871,42.867199",
+    "geom:latitude":42.867199,
+    "geom:longitude":-72.620871,
+    "iso:country":"US",
+    "sg:address":"464 Marlboro Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 7101",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IsXHGBuHkpMnH6kwXr3Pp_42.867199_-72.620871@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312813,
+    "wof:geomhash":"f8748d5a8f70ca95358a24d85344243a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874196869
+        }
+    ],
+    "wof:id":874196869,
+    "wof:lastmodified":1464312813,
+    "wof:name":"Vermont State Police",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -72.620871,
+    42.867199,
+    -72.620871,
+    42.867199
+],
+  "geometry": {"coordinates":[-72.62087099999999,42.867199],"type":"Point"}
+}

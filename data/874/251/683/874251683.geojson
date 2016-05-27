@@ -1,0 +1,69 @@
+{
+  "id": 874251683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.185882,42.883953,-73.185882,42.883953",
+    "geom:latitude":42.883953,
+    "geom:longitude":-73.185882,
+    "iso:country":"US",
+    "sg:address":"303 Grove St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 5912",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_582n8iY1tRCGHmWsu206pC_42.883953_-73.185882@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313599,
+    "wof:geomhash":"59be8afc559b5703492f1e38009f6708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251683
+        }
+    ],
+    "wof:id":874251683,
+    "wof:lastmodified":1464313599,
+    "wof:name":"Hart Mj Electric",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -73.185882,
+    42.883953,
+    -73.185882,
+    42.883953
+],
+  "geometry": {"coordinates":[-73.18588200000001,42.883953],"type":"Point"}
+}

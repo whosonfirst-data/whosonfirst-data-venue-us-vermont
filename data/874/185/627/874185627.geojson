@@ -1,0 +1,69 @@
+{
+  "id": 874185627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.154667,44.721368,-73.154667,44.721368",
+    "geom:latitude":44.721368,
+    "geom:longitude":-73.154667,
+    "iso:country":"US",
+    "sg:address":"954 Decker Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 527 0609",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HawikwJhihLl2do1qgYvT_44.721368_-73.154667@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312697,
+    "wof:geomhash":"0a8c170704771eaba401e690773297c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874185627
+        }
+    ],
+    "wof:id":874185627,
+    "wof:lastmodified":1464312697,
+    "wof:name":"Bags N More",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.154667,
+    44.721368,
+    -73.154667,
+    44.721368
+],
+  "geometry": {"coordinates":[-73.154667,44.721368],"type":"Point"}
+}

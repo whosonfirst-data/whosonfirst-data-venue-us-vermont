@@ -1,0 +1,69 @@
+{
+  "id": 874132925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.004079,44.535039,-72.004079,44.535039",
+    "geom:latitude":44.535039,
+    "geom:longitude":-72.004079,
+    "iso:country":"US",
+    "sg:address":"45 Depot St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 9367",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6os7PGZ46GnE0ozWkik0ac_44.535039_-72.004079@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312172,
+    "wof:geomhash":"eb1b0ea15fb1a67c540d62de17bc2d35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874132925
+        }
+    ],
+    "wof:id":874132925,
+    "wof:lastmodified":1464312172,
+    "wof:name":"Fabrictown",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.004079,
+    44.535039,
+    -72.004079,
+    44.535039
+],
+  "geometry": {"coordinates":[-72.004079,44.535039],"type":"Point"}
+}

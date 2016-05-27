@@ -1,0 +1,71 @@
+{
+  "id": 874222379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.965061,43.617985,-72.965061,43.617985",
+    "geom:latitude":43.617985,
+    "geom:longitude":-72.965061,
+    "iso:country":"US",
+    "sg:address":"40 Thrall Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0205",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78epHGfeqhrwrTHvP8Ppsa_43.617985_-72.965061@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313088,
+    "wof:geomhash":"721e4fe2128ba2d1a119bba45853f09b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874222379
+        }
+    ],
+    "wof:id":874222379,
+    "wof:lastmodified":1464313088,
+    "wof:name":"S D Air Svc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.965061,
+    43.617985,
+    -72.965061,
+    43.617985
+],
+  "geometry": {"coordinates":[-72.96506100000001,43.617985],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874208721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.63669,43.378767,-72.63669,43.378767",
+    "geom:latitude":43.378767,
+    "geom:longitude":-72.63669,
+    "iso:country":"US",
+    "sg:address":"74 Greven Rd",
+    "sg:city":"Proctorsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 226 8193",
+    "sg:postcode":"05153",
+    "sg:province":"VT",
+    "sg:tags":[
+        "property",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k8AYsWQmzxBael3u0pxA8_43.378767_-72.636690@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312936,
+    "wof:geomhash":"4ffca0b30c5d1fecd665617832191d71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874208721
+        }
+    ],
+    "wof:id":874208721,
+    "wof:lastmodified":1464312936,
+    "wof:name":"Ray Martel Prop Maintenance",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.63669,
+    43.378767,
+    -72.63669,
+    43.378767
+],
+  "geometry": {"coordinates":[-72.63669,43.378767],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874054551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.334319,44.164148,-73.334319,44.164148",
+    "geom:latitude":44.164148,
+    "geom:longitude":-73.334319,
+    "iso:country":"US",
+    "sg:address":"1986 Jersey St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 475 2283",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "terminal",
+        "truck",
+        "animal",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DeJykfH3z1fELRbNvlEYl_44.164148_-73.334319@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311288,
+    "wof:geomhash":"23d85912d72ed0a436730a18f7d1dfb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874054551
+        }
+    ],
+    "wof:id":874054551,
+    "wof:lastmodified":1464311288,
+    "wof:name":"Redmond Farms",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "truck",
+        "animal",
+        "facility"
+    ]
+},
+  "bbox": [
+    -73.334319,
+    44.164148,
+    -73.334319,
+    44.164148
+],
+  "geometry": {"coordinates":[-73.33431899999999,44.164148],"type":"Point"}
+}

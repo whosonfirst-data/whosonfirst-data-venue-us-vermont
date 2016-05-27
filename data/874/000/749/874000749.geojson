@@ -1,0 +1,75 @@
+{
+  "id": 874000749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.974717,43.605697,-72.974717,43.605697",
+    "geom:latitude":43.605697,
+    "geom:longitude":-72.974717,
+    "iso:country":"US",
+    "sg:address":"61 Pleasant St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 9711",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "sg:website":"www.rutlandweb.com/rcpcc",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53WagC9Qo6mfn7ikyJZyV2_43.605697_-72.974717@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310765,
+    "wof:geomhash":"19f88b82e10e6640e9893880998c7803",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874000749
+        }
+    ],
+    "wof:id":874000749,
+    "wof:lastmodified":1464310765,
+    "wof:name":"Rutland County Parent Chil Ctr",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -72.974717,
+    43.605697,
+    -72.974717,
+    43.605697
+],
+  "geometry": {"coordinates":[-72.974717,43.605697],"type":"Point"}
+}

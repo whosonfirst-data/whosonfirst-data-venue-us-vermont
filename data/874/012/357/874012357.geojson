@@ -1,0 +1,71 @@
+{
+  "id": 874012357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.586708,43.259058,-72.586708,43.259058",
+    "geom:latitude":43.259058,
+    "geom:longitude":-72.586708,
+    "iso:country":"US",
+    "sg:address":"55 Pleasant St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 2546",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20S1oNd82mb3wzqXpKumBu_43.259058_-72.586708@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310871,
+    "wof:geomhash":"89af6feea820cec728bca233a3f65128",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874012357
+        }
+    ],
+    "wof:id":874012357,
+    "wof:lastmodified":1464310871,
+    "wof:name":"Ellsworth Family Medicine",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.586708,
+    43.259058,
+    -72.586708,
+    43.259058
+],
+  "geometry": {"coordinates":[-72.586708,43.259058],"type":"Point"}
+}

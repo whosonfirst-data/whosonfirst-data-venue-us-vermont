@@ -1,0 +1,71 @@
+{
+  "id": 874213673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.371055,43.833003,-72.371055,43.833003",
+    "geom:latitude":43.833003,
+    "geom:longitude":-72.371055,
+    "iso:country":"US",
+    "sg:address":"5 Preston Rd",
+    "sg:city":"South Strafford",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 765 4003",
+    "sg:postcode":"05070",
+    "sg:province":"VT",
+    "sg:tags":[
+        "society",
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85812235,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GnhyzPgERdpLeCbOIYyEt_43.833003_-72.371055@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312991,
+    "wof:geomhash":"59a2ecda5b1d83ab7a8a274bc43a3ab5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85812235,
+            "region_id":85688763,
+            "venue_id":874213673
+        }
+    ],
+    "wof:id":874213673,
+    "wof:lastmodified":1464312991,
+    "wof:name":"Strafford Historical Society",
+    "wof:parent_id":85812235,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "society",
+        "historical"
+    ]
+},
+  "bbox": [
+    -72.371055,
+    43.833003,
+    -72.371055,
+    43.833003
+],
+  "geometry": {"coordinates":[-72.371055,43.833003],"type":"Point"}
+}

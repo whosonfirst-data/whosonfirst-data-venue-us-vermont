@@ -1,0 +1,71 @@
+{
+  "id": 874164349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078635,44.132548,-73.078635,44.132548",
+    "geom:latitude":44.132548,
+    "geom:longitude":-73.078635,
+    "iso:country":"US",
+    "sg:address":"6 South St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2451",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2By3LaTnHwACcZ422Pg7yx_44.132548_-73.078635@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312472,
+    "wof:geomhash":"cb4f81896a1dee5ad534167f5d9cba48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874164349
+        }
+    ],
+    "wof:id":874164349,
+    "wof:lastmodified":1464312472,
+    "wof:name":"David F Henderson",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.078635,
+    44.132548,
+    -73.078635,
+    44.132548
+],
+  "geometry": {"coordinates":[-73.07863500000001,44.132548],"type":"Point"}
+}

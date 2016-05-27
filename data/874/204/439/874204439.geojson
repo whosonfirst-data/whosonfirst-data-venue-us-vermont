@@ -1,0 +1,71 @@
+{
+  "id": 874204439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.153062,44.121227,-73.153062,44.121227",
+    "geom:latitude":44.121227,
+    "geom:longitude":-73.153062,
+    "iso:country":"US",
+    "sg:address":"359 South St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5549",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hGja7jEopj4HnG2XzY9F3_44.121227_-73.153062@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312888,
+    "wof:geomhash":"fd629e7659dc01fc27aa8ced526eec0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874204439
+        }
+    ],
+    "wof:id":874204439,
+    "wof:lastmodified":1464312888,
+    "wof:name":"Stark Mountain Woodworking",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.153062,
+    44.121227,
+    -73.153062,
+    44.121227
+],
+  "geometry": {"coordinates":[-73.15306200000001,44.121227],"type":"Point"}
+}

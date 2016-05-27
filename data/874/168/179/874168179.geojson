@@ -1,0 +1,73 @@
+{
+  "id": 874168179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.019284,44.407355,-72.019284,44.407355",
+    "geom:latitude":44.407355,
+    "geom:longitude":-72.019284,
+    "iso:country":"US",
+    "sg:address":"183 Main St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8830",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automotive",
+        "towing",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z4iYSB1JKM0kXT927MsLb_44.407355_-72.019284@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312508,
+    "wof:geomhash":"428eafd1b03bd2cbb8e44aab1f1020c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874168179
+        }
+    ],
+    "wof:id":874168179,
+    "wof:lastmodified":1464312508,
+    "wof:name":"Rolands Wrecker Service",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "towing",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.019284,
+    44.407355,
+    -72.019284,
+    44.407355
+],
+  "geometry": {"coordinates":[-72.019284,44.407355],"type":"Point"}
+}

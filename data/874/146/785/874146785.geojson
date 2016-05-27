@@ -1,0 +1,71 @@
+{
+  "id": 874146785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.406639,43.584495,-72.406639,43.584495",
+    "geom:latitude":43.584495,
+    "geom:longitude":-72.406639,
+    "iso:country":"US",
+    "sg:address":"66 Webster Rd",
+    "sg:city":"Hartland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 436 2089",
+    "sg:postcode":"05048",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SWyUfYXriQuZaivbisKfD_43.584495_-72.406639@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312300,
+    "wof:geomhash":"a1be0390c738a4614572d09ac88cfd17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874146785
+        }
+    ],
+    "wof:id":874146785,
+    "wof:lastmodified":1464312300,
+    "wof:name":"Indian Spring Auto",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -72.406639,
+    43.584495,
+    -72.406639,
+    43.584495
+],
+  "geometry": {"coordinates":[-72.406639,43.584495],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874251547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.227127,42.901852,-73.227127,42.901852",
+    "geom:latitude":42.901852,
+    "geom:longitude":-73.227127,
+    "iso:country":"US",
+    "sg:address":"250 Cardinal Ln",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 5994",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "sg:website":"http://www.oneironinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UXVGIJbPsLpk7gWE84VrI_42.901852_-73.227127@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313596,
+    "wof:geomhash":"c91f6919a6452d484231843d04d75bef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251547
+        }
+    ],
+    "wof:id":874251547,
+    "wof:lastmodified":1464313596,
+    "wof:name":"One Iron Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -73.227127,
+    42.901852,
+    -73.227127,
+    42.901852
+],
+  "geometry": {"coordinates":[-73.227127,42.901852],"type":"Point"}
+}

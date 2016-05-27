@@ -1,0 +1,73 @@
+{
+  "id": 874172335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.1676,44.013701,-73.1676,44.013701",
+    "geom:latitude":44.013701,
+    "geom:longitude":-73.1676,
+    "iso:country":"US",
+    "sg:address":"10 Merchants Row",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Junior College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3032",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "technical",
+        "institute"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wcuC9inQTRuQVNKXOMj9Q_44.013701_-73.167600@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312552,
+    "wof:geomhash":"6fe555389eee6b81830e50c497b0b4de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874172335
+        }
+    ],
+    "wof:id":874172335,
+    "wof:lastmodified":1464312552,
+    "wof:name":"Community College of Vermont",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "institute"
+    ]
+},
+  "bbox": [
+    -73.1676,
+    44.013701,
+    -73.1676,
+    44.013701
+],
+  "geometry": {"coordinates":[-73.16759999999999,44.013701],"type":"Point"}
+}

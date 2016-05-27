@@ -1,0 +1,73 @@
+{
+  "id": 874103725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.222597,44.400006,-73.222597,44.400006",
+    "geom:latitude":44.400006,
+    "geom:longitude":-73.222597,
+    "iso:country":"US",
+    "sg:address":"215 Maple Leaf Ln",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 8606",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KUMksYV5BKADfd3paVCsn_44.400006_-73.222597@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311841,
+    "wof:geomhash":"ff9f1b8173d636b3a55b3555deb44969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874103725
+        }
+    ],
+    "wof:id":874103725,
+    "wof:lastmodified":1464311841,
+    "wof:name":"Dolan Properties",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -73.222597,
+    44.400006,
+    -73.222597,
+    44.400006
+],
+  "geometry": {"coordinates":[-73.22259699999999,44.400006],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874199005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.091052,43.799946,-73.091052,43.799946",
+    "geom:latitude":43.799946,
+    "geom:longitude":-73.091052,
+    "iso:country":"US",
+    "sg:address":"43 Conant Sq",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3627",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QvwDSeg2bKTgo8q0IKd5s_43.799946_-73.091052@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312835,
+    "wof:geomhash":"7aee7b235cefbb4b82b6fc58ea338bb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874199005
+        }
+    ],
+    "wof:id":874199005,
+    "wof:lastmodified":1464312835,
+    "wof:name":"Harder Rooming House",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.091052,
+    43.799946,
+    -73.091052,
+    43.799946
+],
+  "geometry": {"coordinates":[-73.091052,43.799946],"type":"Point"}
+}

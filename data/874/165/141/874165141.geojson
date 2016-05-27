@@ -1,0 +1,71 @@
+{
+  "id": 874165141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212778,44.47812,-73.212778,44.47812",
+    "geom:latitude":44.47812,
+    "geom:longitude":-73.212778,
+    "iso:country":"US",
+    "sg:address":"149 Bank St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 4267",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ba9ovxPKhByuNYNlDlfl7_44.478120_-73.212778@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312481,
+    "wof:geomhash":"b13248c251cfe4535ed886c4c27a3e7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874165141
+        }
+    ],
+    "wof:id":874165141,
+    "wof:lastmodified":1464312481,
+    "wof:name":"McDonald Investments Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -73.212778,
+    44.47812,
+    -73.212778,
+    44.47812
+],
+  "geometry": {"coordinates":[-73.212778,44.47812],"type":"Point"}
+}

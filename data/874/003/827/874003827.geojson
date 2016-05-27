@@ -1,0 +1,71 @@
+{
+  "id": 874003827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.080332,44.134595,-73.080332,44.134595",
+    "geom:latitude":44.134595,
+    "geom:longitude":-73.080332,
+    "iso:country":"US",
+    "sg:address":"14 School St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5698",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "homeopath"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZLd1rdEtpg6oEUMyWZjNX_44.134595_-73.080332@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310801,
+    "wof:geomhash":"ae2a05603bc28a8c2ecadf11599d1a2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874003827
+        }
+    ],
+    "wof:id":874003827,
+    "wof:lastmodified":1464310801,
+    "wof:name":"E Mac Farlane Homeopathy",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "homeopath"
+    ]
+},
+  "bbox": [
+    -73.080332,
+    44.134595,
+    -73.080332,
+    44.134595
+],
+  "geometry": {"coordinates":[-73.080332,44.134595],"type":"Point"}
+}

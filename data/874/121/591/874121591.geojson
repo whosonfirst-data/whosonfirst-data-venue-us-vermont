@@ -1,0 +1,73 @@
+{
+  "id": 874121591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.513662,44.20806,-72.513662,44.20806",
+    "geom:latitude":44.20806,
+    "geom:longitude":-72.513662,
+    "iso:country":"US",
+    "sg:address":"545 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3458",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VZy3M8Cwv8FtiB1A59DOF_44.208060_-72.513662@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312055,
+    "wof:geomhash":"74cb0ca49f6385b1c93df2b0dae63c1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874121591
+        }
+    ],
+    "wof:id":874121591,
+    "wof:lastmodified":1464312055,
+    "wof:name":"Salvation Army",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -72.513662,
+    44.20806,
+    -72.513662,
+    44.20806
+],
+  "geometry": {"coordinates":[-72.513662,44.20806],"type":"Point"}
+}

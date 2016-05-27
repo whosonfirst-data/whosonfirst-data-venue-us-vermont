@@ -1,0 +1,71 @@
+{
+  "id": 874032303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.999926,44.371947,-72.999926,44.371947",
+    "geom:latitude":44.371947,
+    "geom:longitude":-72.999926,
+    "iso:country":"US",
+    "sg:address":"2549 Huntington Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 3940",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dv3JhORLrJvo6z8M7tURy_44.371947_-72.999926@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311069,
+    "wof:geomhash":"d275d870d77f00375b13c00defcfa7e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874032303
+        }
+    ],
+    "wof:id":874032303,
+    "wof:lastmodified":1464311069,
+    "wof:name":"Washburn's Servicenter Inc",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.999926,
+    44.371947,
+    -72.999926,
+    44.371947
+],
+  "geometry": {"coordinates":[-72.999926,44.371947],"type":"Point"}
+}

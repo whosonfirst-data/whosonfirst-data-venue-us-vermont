@@ -1,0 +1,78 @@
+{
+  "id": 874252763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208517,44.455802,-73.208517,44.455802",
+    "geom:latitude":44.455802,
+    "geom:longitude":-73.208517,
+    "iso:country":"US",
+    "sg:address":"336 Shelburne Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 6666",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dtrUnVgz16dk7tapYf7Ze_44.455802_-73.208517@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313620,
+    "wof:geomhash":"ab156f7053792351ba38ed8852c0735d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874252763
+        }
+    ],
+    "wof:id":874252763,
+    "wof:lastmodified":1464313620,
+    "wof:name":"Hickok Boardman Commercial Realty",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -73.208517,
+    44.455802,
+    -73.208517,
+    44.455802
+],
+  "geometry": {"coordinates":[-73.208517,44.455802],"type":"Point"}
+}

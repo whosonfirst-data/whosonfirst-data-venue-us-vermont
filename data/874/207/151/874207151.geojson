@@ -1,0 +1,75 @@
+{
+  "id": 874207151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.107393,43.90042,-73.107393,43.90042",
+    "geom:latitude":43.90042,
+    "geom:longitude":-73.107393,
+    "iso:country":"US",
+    "sg:address":"518 Maple St",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 352 4241",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "chicken",
+        "product",
+        "gathering",
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dfN33w3yW2jTiuHGZhSBR_43.900420_-73.107393@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312921,
+    "wof:geomhash":"dab7e4c0afd7aea8b85cbbc0699e9759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874207151
+        }
+    ],
+    "wof:id":874207151,
+    "wof:lastmodified":1464312921,
+    "wof:name":"Maple Meadows Farm Inc",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "product",
+        "gathering",
+        "forest"
+    ]
+},
+  "bbox": [
+    -73.107393,
+    43.90042,
+    -73.107393,
+    43.90042
+],
+  "geometry": {"coordinates":[-73.107393,43.90042],"type":"Point"}
+}

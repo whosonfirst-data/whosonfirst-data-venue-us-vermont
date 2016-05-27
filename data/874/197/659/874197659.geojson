@@ -1,0 +1,73 @@
+{
+  "id": 874197659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.076157,44.13527,-73.076157,44.13527",
+    "geom:latitude":44.13527,
+    "geom:longitude":-73.076157,
+    "iso:country":"US",
+    "sg:address":"23 Garfield St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3751",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lP3XmeWOw2mx663e4gGrh_44.135270_-73.076157@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312822,
+    "wof:geomhash":"45fff8ad2a0346e318b49f1f7349fef8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874197659
+        }
+    ],
+    "wof:id":874197659,
+    "wof:lastmodified":1464312822,
+    "wof:name":"Ted Lylis Carpenter/Builder",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.076157,
+    44.13527,
+    -73.076157,
+    44.13527
+],
+  "geometry": {"coordinates":[-73.07615699999999,44.13527],"type":"Point"}
+}

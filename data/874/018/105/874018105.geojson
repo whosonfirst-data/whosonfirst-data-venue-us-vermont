@@ -1,0 +1,69 @@
+{
+  "id": 874018105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.20158,42.88875,-73.20158,42.88875",
+    "geom:latitude":42.88875,
+    "geom:longitude":-73.20158,
+    "iso:country":"US",
+    "sg:address":"268 Benmont Ave",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 4018",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bjN9dn9byrbTzXiqvCsZ3_42.888750_-73.201580@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310928,
+    "wof:geomhash":"4d64977b386afd35895bb10873ff7d41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874018105
+        }
+    ],
+    "wof:id":874018105,
+    "wof:lastmodified":1464310928,
+    "wof:name":"Ultramar",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -73.20158,
+    42.88875,
+    -73.20158,
+    42.88875
+],
+  "geometry": {"coordinates":[-73.20158000000001,42.88875],"type":"Point"}
+}

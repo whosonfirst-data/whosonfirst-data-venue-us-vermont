@@ -1,0 +1,71 @@
+{
+  "id": 874237577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.063116,43.817719,-73.063116,43.817719",
+    "geom:latitude":43.817719,
+    "geom:longitude":-73.063116,
+    "iso:country":"US",
+    "sg:address":"1591 Forest Dale Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 5900",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X4If4XfVx9pHNBBsGiZ6Z_43.817719_-73.063116@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313289,
+    "wof:geomhash":"b095fb35894789346bfe75503eaff097",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874237577
+        }
+    ],
+    "wof:id":874237577,
+    "wof:lastmodified":1464313289,
+    "wof:name":"Country Garden Child Center",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -73.063116,
+    43.817719,
+    -73.063116,
+    43.817719
+],
+  "geometry": {"coordinates":[-73.06311599999999,43.817719],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874164379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.003738,44.503002,-73.003738,44.503002",
+    "geom:latitude":44.503002,
+    "geom:longitude":-73.003738,
+    "iso:country":"US",
+    "sg:address":"229 State Rte 15",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 3669",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DrjlQcMeRGDLSbCYb231f_44.503002_-73.003738@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312472,
+    "wof:geomhash":"0b97fd4830095761154d3e745bc889a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874164379
+        }
+    ],
+    "wof:id":874164379,
+    "wof:lastmodified":1464312472,
+    "wof:name":"Lns Auto",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -73.003738,
+    44.503002,
+    -73.003738,
+    44.503002
+],
+  "geometry": {"coordinates":[-73.003738,44.503002],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874050955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.217688,44.454661,-73.217688,44.454661",
+    "geom:latitude":44.454661,
+    "geom:longitude":-73.217688,
+    "iso:country":"US",
+    "sg:address":"43 Briggs St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 2264",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dLcf7MARUUuerCm5MV2b4_44.454661_-73.217688@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311250,
+    "wof:geomhash":"204a60a27b4f27f2d2a56d3551e1c510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874050955
+        }
+    ],
+    "wof:id":874050955,
+    "wof:lastmodified":1464311250,
+    "wof:name":"Emile Dupont & Sons",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.217688,
+    44.454661,
+    -73.217688,
+    44.454661
+],
+  "geometry": {"coordinates":[-73.217688,44.454661],"type":"Point"}
+}

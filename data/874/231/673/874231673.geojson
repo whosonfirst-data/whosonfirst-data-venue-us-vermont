@@ -1,0 +1,69 @@
+{
+  "id": 874231673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.190972,42.877025,-73.190972,42.877025",
+    "geom:latitude":42.877025,
+    "geom:longitude":-73.190972,
+    "iso:country":"US",
+    "sg:address":"218 Union St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 3199",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cv9Y4GTmdRYSWKMjU58VY_42.877025_-73.190972@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313182,
+    "wof:geomhash":"39985d8dea2c633489d6dfae4d89e207",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874231673
+        }
+    ],
+    "wof:id":874231673,
+    "wof:lastmodified":1464313182,
+    "wof:name":"William E Guild DDS",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.190972,
+    42.877025,
+    -73.190972,
+    42.877025
+],
+  "geometry": {"coordinates":[-73.190972,42.877025],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874205455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.110788,44.685115,-73.110788,44.685115",
+    "geom:latitude":44.685115,
+    "geom:longitude":-73.110788,
+    "iso:country":"US",
+    "sg:address":"371 US Hwy 7",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 1855",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZGFTt9xzT5fL2LkiIrnn0_44.685115_-73.110788@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312899,
+    "wof:geomhash":"243745c5ebcb8c6b200ba9883e37f13f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874205455
+        }
+    ],
+    "wof:id":874205455,
+    "wof:lastmodified":1464312899,
+    "wof:name":"Mark's Auto Repair",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.110788,
+    44.685115,
+    -73.110788,
+    44.685115
+],
+  "geometry": {"coordinates":[-73.110788,44.685115],"type":"Point"}
+}

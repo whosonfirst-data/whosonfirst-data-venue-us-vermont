@@ -1,0 +1,69 @@
+{
+  "id": 874043709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.602987,42.857395,-72.602987,42.857395",
+    "geom:latitude":42.857395,
+    "geom:longitude":-72.602987,
+    "iso:country":"US",
+    "sg:address":"436 Western Ave",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 9254",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EDZbOJ5Z2dVaL2ayWsGwV_42.857395_-72.602987@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311182,
+    "wof:geomhash":"7f2be0173adc0404278d630c821f4562",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874043709
+        }
+    ],
+    "wof:id":874043709,
+    "wof:lastmodified":1464311182,
+    "wof:name":"Vermont Country Deli",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -72.602987,
+    42.857395,
+    -72.602987,
+    42.857395
+],
+  "geometry": {"coordinates":[-72.602987,42.857395],"type":"Point"}
+}

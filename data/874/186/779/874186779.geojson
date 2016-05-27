@@ -1,0 +1,71 @@
+{
+  "id": 874186779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.969745,44.429116,-71.969745,44.429116",
+    "geom:latitude":44.429116,
+    "geom:longitude":-71.969745,
+    "iso:country":"US",
+    "sg:address":"2456 Portland St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 6320",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RuqT90PSpvIeabfsMQlxM_44.429116_-71.969745@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312707,
+    "wof:geomhash":"acbf91f5f144b166105ca0e9677955e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874186779
+        }
+    ],
+    "wof:id":874186779,
+    "wof:lastmodified":1464312707,
+    "wof:name":"Mark Turner's Automotive",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.969745,
+    44.429116,
+    -71.969745,
+    44.429116
+],
+  "geometry": {"coordinates":[-71.969745,44.429116],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874069051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215716,44.479506,-73.215716,44.479506",
+    "geom:latitude":44.479506,
+    "geom:longitude":-73.215716,
+    "iso:country":"US",
+    "sg:address":"20 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 4333",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uyCk6Y0bpLGk0DJCHPGps_44.479506_-73.215716@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311423,
+    "wof:geomhash":"59cec552adb5cda4b3ce35875b0c05d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874069051
+        }
+    ],
+    "wof:id":874069051,
+    "wof:lastmodified":1464311423,
+    "wof:name":"Catholic Diocese Of Burlington",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.215716,
+    44.479506,
+    -73.215716,
+    44.479506
+],
+  "geometry": {"coordinates":[-73.215716,44.479506],"type":"Point"}
+}

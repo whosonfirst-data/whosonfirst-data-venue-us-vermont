@@ -1,0 +1,71 @@
+{
+  "id": 874035067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.267276,44.889899,-73.267276,44.889899",
+    "geom:latitude":44.889899,
+    "geom:longitude":-73.267276,
+    "iso:country":"US",
+    "sg:address":"665 Bridge Rd",
+    "sg:city":"North Hero",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 372 8928",
+    "sg:postcode":"05474",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849381,
+        102080783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HqYTXPQMjkwxkrehYd2yl_44.889899_-73.267276@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311095,
+    "wof:geomhash":"c113217f93265d684e85301adc1d75b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080783,
+            "neighbourhood_id":85849381,
+            "region_id":85688763,
+            "venue_id":874035067
+        }
+    ],
+    "wof:id":874035067,
+    "wof:lastmodified":1464311095,
+    "wof:name":"Porch Light Property MGT",
+    "wof:parent_id":85849381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.267276,
+    44.889899,
+    -73.267276,
+    44.889899
+],
+  "geometry": {"coordinates":[-73.267276,44.889899],"type":"Point"}
+}

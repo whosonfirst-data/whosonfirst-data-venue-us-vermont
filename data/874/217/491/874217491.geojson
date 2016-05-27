@@ -1,0 +1,73 @@
+{
+  "id": 874217491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.812782,44.93999,-72.812782,44.93999",
+    "geom:latitude":44.93999,
+    "geom:longitude":-72.812782,
+    "iso:country":"US",
+    "sg:address":"1697 W Berkshire Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 2181",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45g6PKadYx1RbpnWzRtcxX_44.939990_-72.812782@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313027,
+    "wof:geomhash":"1157b2be2d7b94d2486db50be0aa6078",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874217491
+        }
+    ],
+    "wof:id":874217491,
+    "wof:lastmodified":1464313027,
+    "wof:name":"John's Auto Repair",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.812782,
+    44.93999,
+    -72.812782,
+    44.93999
+],
+  "geometry": {"coordinates":[-72.812782,44.93999],"type":"Point"}
+}

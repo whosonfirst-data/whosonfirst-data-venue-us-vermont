@@ -1,0 +1,71 @@
+{
+  "id": 874136157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.164646,44.049715,-73.164646,44.049715",
+    "geom:latitude":44.049715,
+    "geom:longitude":-73.164646,
+    "iso:country":"US",
+    "sg:address":"130 Ethan Allen Hwy",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4113",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XnuYzXUtXY1kIoitt3aEQ_44.049715_-73.164646@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312201,
+    "wof:geomhash":"02aea85c49a6c7527e6aa53d5ea31155",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874136157
+        }
+    ],
+    "wof:id":874136157,
+    "wof:lastmodified":1464312201,
+    "wof:name":"Morning Dew Gardens",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -73.164646,
+    44.049715,
+    -73.164646,
+    44.049715
+],
+  "geometry": {"coordinates":[-73.164646,44.049715],"type":"Point"}
+}

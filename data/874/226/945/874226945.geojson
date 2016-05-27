@@ -1,0 +1,71 @@
+{
+  "id": 874226945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.753295,44.846047,-72.753295,44.846047",
+    "geom:latitude":44.846047,
+    "geom:longitude":-72.753295,
+    "iso:country":"US",
+    "sg:address":"680 Sand Hill Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 8309",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t6zPchvRshp4xt9tlM4sB_44.846047_-72.753295@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313130,
+    "wof:geomhash":"1a2f887bd6bdc7370d2de409537632d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874226945
+        }
+    ],
+    "wof:id":874226945,
+    "wof:lastmodified":1464313130,
+    "wof:name":"Brookside Campground",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.753295,
+    44.846047,
+    -72.753295,
+    44.846047
+],
+  "geometry": {"coordinates":[-72.75329499999999,44.846047],"type":"Point"}
+}

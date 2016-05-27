@@ -1,0 +1,80 @@
+{
+  "id": 874124399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.499646,44.222753,-72.499646,44.222753",
+    "geom:latitude":44.222753,
+    "geom:longitude":-72.499646,
+    "iso:country":"US",
+    "sg:address":"336 Farwell St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0401",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg",
+        "preserving",
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qSuwiMlvJ2adKO59bl0sm_44.222753_-72.499646@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312080,
+    "wof:geomhash":"e1ec9446b483b7d5866123ad9026e642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874124399
+        }
+    ],
+    "wof:id":874124399,
+    "wof:lastmodified":1464312080,
+    "wof:name":"Custom Millwork Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "preserving",
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -72.499646,
+    44.222753,
+    -72.499646,
+    44.222753
+],
+  "geometry": {"coordinates":[-72.499646,44.222753],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874196679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.101681,44.491418,-73.101681,44.491418",
+    "geom:latitude":44.491418,
+    "geom:longitude":-73.101681,
+    "iso:country":"US",
+    "sg:address":"8 Arlington St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 7827",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.contechs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pVdzZ1putP6EWnJokyMoc_44.491418_-73.101681@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312812,
+    "wof:geomhash":"65b5eb084359d9e863f0b26769e5faf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874196679
+        }
+    ],
+    "wof:id":874196679,
+    "wof:lastmodified":1464312812,
+    "wof:name":"Con Techs Engineering Design",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -73.101681,
+    44.491418,
+    -73.101681,
+    44.491418
+],
+  "geometry": {"coordinates":[-73.101681,44.491418],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874123725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.611623,43.42346,-72.611623,43.42346",
+    "geom:latitude":43.42346,
+    "geom:longitude":-72.611623,
+    "iso:country":"US",
+    "sg:address":"2702 Brook Rd",
+    "sg:city":"Proctorsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 226 7330",
+    "sg:postcode":"05153",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22X27e4ugY4HFw1CPP7K2J_43.423460_-72.611623@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312074,
+    "wof:geomhash":"5898b84c75f544bea8d588a51380cd50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874123725
+        }
+    ],
+    "wof:id":874123725,
+    "wof:lastmodified":1464312074,
+    "wof:name":"Robert Singleton Builders",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.611623,
+    43.42346,
+    -72.611623,
+    43.42346
+],
+  "geometry": {"coordinates":[-72.61162299999999,43.42346],"type":"Point"}
+}

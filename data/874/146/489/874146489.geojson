@@ -1,0 +1,73 @@
+{
+  "id": 874146489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.134677,44.002131,-73.134677,44.002131",
+    "geom:latitude":44.002131,
+    "geom:longitude":-73.134677,
+    "iso:country":"US",
+    "sg:address":"300 Foote St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2618",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bGY6GwLTvjKtWyCVK74FC_44.002131_-73.134677@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312297,
+    "wof:geomhash":"e63165cd85951043c6ea08a2f750750b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874146489
+        }
+    ],
+    "wof:id":874146489,
+    "wof:lastmodified":1464312297,
+    "wof:name":"Glen Peck Electric Inc",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.134677,
+    44.002131,
+    -73.134677,
+    44.002131
+],
+  "geometry": {"coordinates":[-73.134677,44.002131],"type":"Point"}
+}

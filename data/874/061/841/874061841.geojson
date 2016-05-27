@@ -1,0 +1,84 @@
+{
+  "id": 874061841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.689789,44.476464,-72.689789,44.476464",
+    "geom:latitude":44.476464,
+    "geom:longitude":-72.689789,
+    "iso:country":"US",
+    "sg:address":"75 Weeks Hill Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 9229",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "club",
+        "gymnasium",
+        "health",
+        "studio",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aTi6HsxwiN9IVbT9xpvr4_44.476464_-72.689789@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311352,
+    "wof:geomhash":"bff39470a2c55503ad162dd38925f877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874061841
+        }
+    ],
+    "wof:id":874061841,
+    "wof:lastmodified":1464311352,
+    "wof:name":"The Swimming Hole",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "gymnasium",
+        "health",
+        "studio",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -72.689789,
+    44.476464,
+    -72.689789,
+    44.476464
+],
+  "geometry": {"coordinates":[-72.689789,44.476464],"type":"Point"}
+}

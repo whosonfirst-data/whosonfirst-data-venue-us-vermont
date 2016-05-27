@@ -1,0 +1,71 @@
+{
+  "id": 874094003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.521467,43.81933,-72.521467,43.81933",
+    "geom:latitude":43.81933,
+    "geom:longitude":-72.521467,
+    "iso:country":"US",
+    "sg:address":"56 Railroad St",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 8432",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NJMucIjqkLxhJor7jDK8Z_43.819330_-72.521467@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311703,
+    "wof:geomhash":"b58f43fbaabc564f7e3d83e6f927fc23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874094003
+        }
+    ],
+    "wof:id":874094003,
+    "wof:lastmodified":1464311703,
+    "wof:name":"R & M Design",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -72.521467,
+    43.81933,
+    -72.521467,
+    43.81933
+],
+  "geometry": {"coordinates":[-72.521467,43.81933],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874234441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.962332,43.611416,-72.962332,43.611416",
+    "geom:latitude":43.611416,
+    "geom:longitude":-72.962332,
+    "iso:country":"US",
+    "sg:address":"31 Rutland St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 0491",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o9fDIJ1GjRNnKN0VGn3GM_43.611416_-72.962332@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313229,
+    "wof:geomhash":"88c9d278a57cc68165a5e36744d3a650",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874234441
+        }
+    ],
+    "wof:id":874234441,
+    "wof:lastmodified":1464313229,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -72.962332,
+    43.611416,
+    -72.962332,
+    43.611416
+],
+  "geometry": {"coordinates":[-72.962332,43.611416],"type":"Point"}
+}

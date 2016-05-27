@@ -1,0 +1,71 @@
+{
+  "id": 874221789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.201014,44.458491,-73.201014,44.458491",
+    "geom:latitude":44.458491,
+    "geom:longitude":-73.201014,
+    "iso:country":"US",
+    "sg:address":"204 Prospect Pkwy",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 859 0351",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RlYCTsJxRmJRW1h9geYbx_44.458491_-73.201014@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313081,
+    "wof:geomhash":"ffd9cb72f2fbb887aa9efdfda1b3f1ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874221789
+        }
+    ],
+    "wof:id":874221789,
+    "wof:lastmodified":1464313081,
+    "wof:name":"Roll Over Films",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -73.201014,
+    44.458491,
+    -73.201014,
+    44.458491
+],
+  "geometry": {"coordinates":[-73.201014,44.458491],"type":"Point"}
+}

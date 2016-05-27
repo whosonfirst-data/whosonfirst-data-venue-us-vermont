@@ -1,0 +1,71 @@
+{
+  "id": 874083337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.251078,44.168204,-73.251078,44.168204",
+    "geom:latitude":44.168204,
+    "geom:longitude":-73.251078,
+    "iso:country":"US",
+    "sg:address":"155 Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3118",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_485bhaAUMfbkEqQdh0scO5_44.168204_-73.251078@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311593,
+    "wof:geomhash":"d29b92f9cf1815017b023f5f43772201",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874083337
+        }
+    ],
+    "wof:id":874083337,
+    "wof:lastmodified":1464311593,
+    "wof:name":"J W & De Ryan Plmbng Htg AC",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.251078,
+    44.168204,
+    -73.251078,
+    44.168204
+],
+  "geometry": {"coordinates":[-73.25107800000001,44.168204],"type":"Point"}
+}

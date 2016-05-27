@@ -1,0 +1,65 @@
+{
+  "id": 874233525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.13353,44.509815,-73.13353,44.509815",
+    "geom:latitude":44.509815,
+    "geom:longitude":-73.13353,
+    "iso:country":"US",
+    "sg:address":"10 Kellogg Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 1515",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:website":"www.wilsoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lA9WqyLvkbLgNsuwi8kQW_44.509815_-73.133530@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313210,
+    "wof:geomhash":"0603ba2b4a5d5e05ef7428acf2e93314",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874233525
+        }
+    ],
+    "wof:id":874233525,
+    "wof:lastmodified":1464313210,
+    "wof:name":"Wilson Inn",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.13353,
+    44.509815,
+    -73.13353,
+    44.509815
+],
+  "geometry": {"coordinates":[-73.13352999999999,44.509815],"type":"Point"}
+}

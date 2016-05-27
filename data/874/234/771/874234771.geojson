@@ -1,0 +1,69 @@
+{
+  "id": 874234771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.540218,43.476129,-72.540218,43.476129",
+    "geom:latitude":43.476129,
+    "geom:longitude":-72.540218,
+    "iso:country":"US",
+    "sg:address":"2334 State Rte 106",
+    "sg:city":"Reading",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 484 5701",
+    "sg:postcode":"05062",
+    "sg:province":"VT",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZVTm67mCbRWUmuFGp57pY_43.476129_-72.540218@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313235,
+    "wof:geomhash":"e0b8c1832317ee28b4ac46b754264c9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874234771
+        }
+    ],
+    "wof:id":874234771,
+    "wof:lastmodified":1464313235,
+    "wof:name":"Corbin & Son Logging Inc",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -72.540218,
+    43.476129,
+    -72.540218,
+    43.476129
+],
+  "geometry": {"coordinates":[-72.540218,43.476129],"type":"Point"}
+}

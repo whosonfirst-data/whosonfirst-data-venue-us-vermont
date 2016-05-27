@@ -1,0 +1,71 @@
+{
+  "id": 874256351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213272,44.044283,-73.213272,44.044283",
+    "geom:latitude":44.044283,
+    "geom:longitude":-73.213272,
+    "iso:country":"US",
+    "sg:address":"424 Quaker Village Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 3000",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SoC7XoddKCJ816eHhikfw_44.044283_-73.213272@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313704,
+    "wof:geomhash":"ac936678a440dbd074ed2f1954e2a87f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874256351
+        }
+    ],
+    "wof:id":874256351,
+    "wof:lastmodified":1464313704,
+    "wof:name":"Electrical Power",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -73.213272,
+    44.044283,
+    -73.213272,
+    44.044283
+],
+  "geometry": {"coordinates":[-73.213272,44.044283],"type":"Point"}
+}

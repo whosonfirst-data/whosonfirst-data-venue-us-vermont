@@ -1,0 +1,71 @@
+{
+  "id": 874136461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.017311,44.414068,-72.017311,44.414068",
+    "geom:latitude":44.414068,
+    "geom:longitude":-72.017311,
+    "iso:country":"US",
+    "sg:address":"44 Pearl St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8186",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "correctional",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51yvs0K01L59t1G0nLs8uQ_44.414068_-72.017311@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312204,
+    "wof:geomhash":"0f70389507e6d4071ae32b57d7d9902f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874136461
+        }
+    ],
+    "wof:id":874136461,
+    "wof:lastmodified":1464312204,
+    "wof:name":"St Johnsbury Ccsc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "facility"
+    ]
+},
+  "bbox": [
+    -72.017311,
+    44.414068,
+    -72.017311,
+    44.414068
+],
+  "geometry": {"coordinates":[-72.01731100000001,44.414068],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 874052519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.976358,43.603573,-72.976358,43.603573",
+    "geom:latitude":43.603573,
+    "geom:longitude":-72.976358,
+    "iso:country":"US",
+    "sg:address":"55 Strongs Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 1944",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "exhaust",
+        "sup",
+        "tire",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ABwtS0uKIeyuJ2HeA6NVc_43.603573_-72.976358@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311264,
+    "wof:geomhash":"8cc286cdc54539fb8bafeb2a2ed18a48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874052519
+        }
+    ],
+    "wof:id":874052519,
+    "wof:lastmodified":1464311264,
+    "wof:name":"Hercules Adirondack Tire Corp",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust",
+        "sup",
+        "tire",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.976358,
+    43.603573,
+    -72.976358,
+    43.603573
+],
+  "geometry": {"coordinates":[-72.976358,43.603573],"type":"Point"}
+}

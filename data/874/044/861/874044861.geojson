@@ -1,0 +1,71 @@
+{
+  "id": 874044861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208787,44.649501,-73.208787,44.649501",
+    "geom:latitude":44.649501,
+    "geom:longitude":-73.208787,
+    "iso:country":"US",
+    "sg:address":"11 Beach Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 372 8819",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85854373,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xyYpNkdEhRvsVFFmpDMq1_44.649501_-73.208787@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311193,
+    "wof:geomhash":"50c410c00aa8c14d66c01692f336700b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85854373,
+            "region_id":85688763,
+            "venue_id":874044861
+        }
+    ],
+    "wof:id":874044861,
+    "wof:lastmodified":1464311193,
+    "wof:name":"K Morway Plumbing & Htg",
+    "wof:parent_id":85854373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.208787,
+    44.649501,
+    -73.208787,
+    44.649501
+],
+  "geometry": {"coordinates":[-73.208787,44.649501],"type":"Point"}
+}

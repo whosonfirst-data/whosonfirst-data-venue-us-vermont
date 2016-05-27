@@ -1,0 +1,71 @@
+{
+  "id": 874181271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.189297,42.91391,-73.189297,42.91391",
+    "geom:latitude":42.91391,
+    "geom:longitude":-73.189297,
+    "iso:country":"US",
+    "sg:address":"37 Willow Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 2308",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DkbHcpWANSs6wuTVf91AM_42.913910_-73.189297@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312644,
+    "wof:geomhash":"affcdeb48be0af791980ffa8d6ecfa05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874181271
+        }
+    ],
+    "wof:id":874181271,
+    "wof:lastmodified":1464312644,
+    "wof:name":"Le Blanc's Auto Recycling",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -73.189297,
+    42.91391,
+    -73.189297,
+    42.91391
+],
+  "geometry": {"coordinates":[-73.189297,42.91391],"type":"Point"}
+}

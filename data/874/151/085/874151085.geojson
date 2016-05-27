@@ -1,0 +1,71 @@
+{
+  "id": 874151085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.784764,43.225629,-72.784764,43.225629",
+    "geom:latitude":43.225629,
+    "geom:longitude":-72.784764,
+    "iso:country":"US",
+    "sg:address":"615 Little Pond Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 824 3933",
+    "sg:postcode":"05148",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lodge",
+        "ski"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85852185,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jrCSevoW2MLCjiurYdkY2_43.225629_-72.784764@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312338,
+    "wof:geomhash":"e7f0ef7862f1d607c9af10e92d739432",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85852185,
+            "region_id":85688763,
+            "venue_id":874151085
+        }
+    ],
+    "wof:id":874151085,
+    "wof:lastmodified":1464312338,
+    "wof:name":"Viking Ski Center",
+    "wof:parent_id":85852185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodge",
+        "ski"
+    ]
+},
+  "bbox": [
+    -72.784764,
+    43.225629,
+    -72.784764,
+    43.225629
+],
+  "geometry": {"coordinates":[-72.784764,43.225629],"type":"Point"}
+}

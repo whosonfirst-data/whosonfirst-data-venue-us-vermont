@@ -1,0 +1,71 @@
+{
+  "id": 874179575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977976,43.604914,-72.977976,43.604914",
+    "geom:latitude":43.604914,
+    "geom:longitude":-72.977976,
+    "iso:country":"US",
+    "sg:address":"40 Strongs Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0279",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "beauty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mC5yDflTIWQYF0GbPO1JL_43.604914_-72.977976@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312626,
+    "wof:geomhash":"2adf61a8f452c0f6624724f453e2f714",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874179575
+        }
+    ],
+    "wof:id":874179575,
+    "wof:lastmodified":1464312626,
+    "wof:name":"Greg's Hair Salon",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "beauty"
+    ]
+},
+  "bbox": [
+    -72.977976,
+    43.604914,
+    -72.977976,
+    43.604914
+],
+  "geometry": {"coordinates":[-72.977976,43.604914],"type":"Point"}
+}

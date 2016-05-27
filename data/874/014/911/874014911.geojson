@@ -1,0 +1,80 @@
+{
+  "id": 874014911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.751021,43.607496,-72.751021,43.607496",
+    "geom:latitude":43.607496,
+    "geom:longitude":-72.751021,
+    "iso:country":"US",
+    "sg:address":"225 Johnson Rd",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 422 3146",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "sg:website":"www.mosherexcavating.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868813,
+        102080771,
+        85848249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e7h5oyfOdZGun2JkW5UF1_43.607496_-72.751021@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310890,
+    "wof:geomhash":"d9b9611fef5691c1b59a638a92c7c98a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868813,
+            "region_id":85688763,
+            "venue_id":874014911
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":874014911
+        }
+    ],
+    "wof:id":874014911,
+    "wof:lastmodified":1464310890,
+    "wof:name":"Mosher Excavating Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.751021,
+    43.607496,
+    -72.751021,
+    43.607496
+],
+  "geometry": {"coordinates":[-72.75102099999999,43.607496],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874174441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.505896,44.205356,-72.505896,44.205356",
+    "geom:latitude":44.205356,
+    "geom:longitude":-72.505896,
+    "iso:country":"US",
+    "sg:address":"8 Harrington Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 0882",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HjC5Q6fkqq25ZQijk7fD3_44.205356_-72.505896@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312573,
+    "wof:geomhash":"53eeba88f8282a680d9e1f405157e5c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874174441
+        }
+    ],
+    "wof:id":874174441,
+    "wof:lastmodified":1464312573,
+    "wof:name":"K C Taxi",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -72.505896,
+    44.205356,
+    -72.505896,
+    44.205356
+],
+  "geometry": {"coordinates":[-72.50589600000001,44.205356],"type":"Point"}
+}

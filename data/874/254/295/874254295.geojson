@@ -1,0 +1,66 @@
+{
+  "id": 874254295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.831708,44.643783,-72.831708,44.643783",
+    "geom:latitude":44.643783,
+    "geom:longitude":-72.831708,
+    "iso:country":"US",
+    "sg:address":"111 Church St",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2811",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OCKVSR5I9e9Wog4VhWP0m_44.643783_-72.831708@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313653,
+    "wof:geomhash":"4e096723374a8c53927a49f0fdd839ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874254295
+        }
+    ],
+    "wof:id":874254295,
+    "wof:lastmodified":1464313653,
+    "wof:name":"Floral Affair",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.831708,
+    44.643783,
+    -72.831708,
+    44.643783
+],
+  "geometry": {"coordinates":[-72.83170800000001,44.643783],"type":"Point"}
+}

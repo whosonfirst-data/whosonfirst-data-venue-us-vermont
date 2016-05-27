@@ -1,0 +1,69 @@
+{
+  "id": 874247369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.944828,44.530687,-72.944828,44.530687",
+    "geom:latitude":44.530687,
+    "geom:longitude":-72.944828,
+    "iso:country":"US",
+    "sg:address":"401 State Rte 15",
+    "sg:city":"Underhill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 2314",
+    "sg:postcode":"05489",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LehszabIOvbQfEb6Jfg4g_44.530687_-72.944828@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313479,
+    "wof:geomhash":"f5946089866835b7577cf6c774c89f6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874247369
+        }
+    ],
+    "wof:id":874247369,
+    "wof:lastmodified":1464313479,
+    "wof:name":"Underhill Auto Center",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.944828,
+    44.530687,
+    -72.944828,
+    44.530687
+],
+  "geometry": {"coordinates":[-72.944828,44.530687],"type":"Point"}
+}

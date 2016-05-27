@@ -1,0 +1,73 @@
+{
+  "id": 874051985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.443649,44.217198,-72.443649,44.217198",
+    "geom:latitude":44.217198,
+    "geom:longitude":-72.443649,
+    "iso:country":"US",
+    "sg:address":"79 Curtis Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 4462",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rgUl9pY6NiQ17nsYXdJX9_44.217198_-72.443649@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311259,
+    "wof:geomhash":"71e8a11a5de0533148c1ed9802d53c31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874051985
+        }
+    ],
+    "wof:id":874051985,
+    "wof:lastmodified":1464311259,
+    "wof:name":"Marc Nadel",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -72.443649,
+    44.217198,
+    -72.443649,
+    44.217198
+],
+  "geometry": {"coordinates":[-72.44364899999999,44.217198],"type":"Point"}
+}

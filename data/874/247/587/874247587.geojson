@@ -1,0 +1,69 @@
+{
+  "id": 874247587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.968251,43.605801,-72.968251,43.605801",
+    "geom:latitude":43.605801,
+    "geom:longitude":-72.968251,
+    "iso:country":"US",
+    "sg:address":"18 Spellman Ter",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2211",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o4royO5xz7JKkyNGhKJvN_43.605801_-72.968251@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313485,
+    "wof:geomhash":"d590d0d74faeca07add7f806936fce5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874247587
+        }
+    ],
+    "wof:id":874247587,
+    "wof:lastmodified":1464313485,
+    "wof:name":"David A Austin MD",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.968251,
+    43.605801,
+    -72.968251,
+    43.605801
+],
+  "geometry": {"coordinates":[-72.968251,43.605801],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874200271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.68297,44.6336,-72.68297,44.6336",
+    "geom:latitude":44.6336,
+    "geom:longitude":-72.68297,
+    "iso:country":"US",
+    "sg:address":"224 Railroad St",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 7325",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g2SzpKYTYY2lrfT6nXqrO_44.633600_-72.682970@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312846,
+    "wof:geomhash":"6add50f665a8a9ba46415ff6fc1a859f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874200271
+        }
+    ],
+    "wof:id":874200271,
+    "wof:lastmodified":1464312846,
+    "wof:name":"Michele G Lajoie MD",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.68297,
+    44.6336,
+    -72.68297,
+    44.6336
+],
+  "geometry": {"coordinates":[-72.68297,44.6336],"type":"Point"}
+}

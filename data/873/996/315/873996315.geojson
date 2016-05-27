@@ -1,0 +1,73 @@
+{
+  "id": 873996315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.489067,44.205273,-72.489067,44.205273",
+    "geom:latitude":44.205273,
+    "geom:longitude":-72.489067,
+    "iso:country":"US",
+    "sg:address":"120 Gosse Ct",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3368",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58E9G36M4GNcexj3Xv1gDg_44.205273_-72.489067@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310734,
+    "wof:geomhash":"1e52df64c2b4faaa4d42276c3f682747",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873996315
+        }
+    ],
+    "wof:id":873996315,
+    "wof:lastmodified":1464310734,
+    "wof:name":"B & B Hot Water Tanks Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.489067,
+    44.205273,
+    -72.489067,
+    44.205273
+],
+  "geometry": {"coordinates":[-72.48906700000001,44.205273],"type":"Point"}
+}

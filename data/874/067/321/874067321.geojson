@@ -1,0 +1,71 @@
+{
+  "id": 874067321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209928,44.4863,-73.209928,44.4863",
+    "geom:latitude":44.4863,
+    "geom:longitude":-73.209928,
+    "iso:country":"US",
+    "sg:address":"199 N Winooski Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 5000",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p0q695fU9BXHQi7ODUr66_44.486300_-73.209928@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311400,
+    "wof:geomhash":"c072af9aa0200b4e487bbcbd84bf9a78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874067321
+        }
+    ],
+    "wof:id":874067321,
+    "wof:lastmodified":1464311400,
+    "wof:name":"Kathleen J Maguire MD",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.209928,
+    44.4863,
+    -73.209928,
+    44.4863
+],
+  "geometry": {"coordinates":[-73.209928,44.4863],"type":"Point"}
+}

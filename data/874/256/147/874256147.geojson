@@ -1,0 +1,76 @@
+{
+  "id": 874256147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088377,43.795541,-73.088377,43.795541",
+    "geom:latitude":43.795541,
+    "geom:longitude":-73.088377,
+    "iso:country":"US",
+    "sg:address":"30 Union St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 6019",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "super"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43Q0x6wYHeW4hrWDCFRM82_43.795541_-73.088377@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313700,
+    "wof:geomhash":"82dab9acaacd5cb6a9f94a2f40952d41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874256147
+        }
+    ],
+    "wof:id":874256147,
+    "wof:lastmodified":1464313700,
+    "wof:name":"Union St Grocery, The",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super"
+    ]
+},
+  "bbox": [
+    -73.088377,
+    43.795541,
+    -73.088377,
+    43.795541
+],
+  "geometry": {"coordinates":[-73.08837699999999,43.795541],"type":"Point"}
+}

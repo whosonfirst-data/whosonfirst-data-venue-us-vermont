@@ -1,0 +1,69 @@
+{
+  "id": 874039499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.424543,44.101879,-72.424543,44.101879",
+    "geom:latitude":44.101879,
+    "geom:longitude":-72.424543,
+    "iso:country":"US",
+    "sg:address":"520 W Corinth Rd",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 883 9303",
+    "sg:postcode":"05675",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FPs4GYDnOyHR65JiryABK_44.101879_-72.424543@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311139,
+    "wof:geomhash":"a2758e7f3f819570bc0798dbe09a101e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874039499
+        }
+    ],
+    "wof:id":874039499,
+    "wof:lastmodified":1464311139,
+    "wof:name":"Vermont Track and Tooth",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.424543,
+    44.101879,
+    -72.424543,
+    44.101879
+],
+  "geometry": {"coordinates":[-72.424543,44.101879],"type":"Point"}
+}

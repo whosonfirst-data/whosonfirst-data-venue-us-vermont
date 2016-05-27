@@ -1,0 +1,73 @@
+{
+  "id": 874189173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214507,44.488971,-73.214507,44.488971",
+    "geom:latitude":44.488971,
+    "geom:longitude":-73.214507,
+    "iso:country":"US",
+    "sg:address":"321 Manhattan Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 3884",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MDhzqZbXrKMSvmyL45gqC_44.488971_-73.214507@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312732,
+    "wof:geomhash":"0fd5898d0c6516ecad3cc3b403ae23d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874189173
+        }
+    ],
+    "wof:id":874189173,
+    "wof:lastmodified":1464312732,
+    "wof:name":"Richard Wilbert Plumbing & Htg",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.214507,
+    44.488971,
+    -73.214507,
+    44.488971
+],
+  "geometry": {"coordinates":[-73.214507,44.488971],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874037257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.649524,43.809897,-72.649524,43.809897",
+    "geom:latitude":43.809897,
+    "geom:longitude":-72.649524,
+    "iso:country":"US",
+    "sg:address":"1823 State Rte 107",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 234 9913",
+    "sg:postcode":"05032",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64wsJT57s8xRlYkGcW95iv_43.809897_-72.649524@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311118,
+    "wof:geomhash":"53ef6ca001a4c51ff98cca399859d498",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874037257
+        }
+    ],
+    "wof:id":874037257,
+    "wof:lastmodified":1464311118,
+    "wof:name":"Gifford Family Health Ctr",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.649524,
+    43.809897,
+    -72.649524,
+    43.809897
+],
+  "geometry": {"coordinates":[-72.649524,43.809897],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874130655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.615918,44.548411,-72.615918,44.548411",
+    "geom:latitude":44.548411,
+    "geom:longitude":-72.615918,
+    "iso:country":"US",
+    "sg:address":"1569 Laporte Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 7320",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ACoqR7JaBNGcrkrohQwDz_44.548411_-72.615918@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312145,
+    "wof:geomhash":"d6ccff417a61a63afeb900ce4fd71565",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874130655
+        }
+    ],
+    "wof:id":874130655,
+    "wof:lastmodified":1464312145,
+    "wof:name":"Mansfield Plumbing & Heating",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.615918,
+    44.548411,
+    -72.615918,
+    44.548411
+],
+  "geometry": {"coordinates":[-72.61591799999999,44.548411],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873988655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.114595,44.455162,-73.114595,44.455162",
+    "geom:latitude":44.455162,
+    "geom:longitude":-73.114595,
+    "iso:country":"US",
+    "sg:address":"180 Falcon Manor",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 7885",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v9E1acK0Zl52gajYNL7ga_44.455162_-73.114595@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310680,
+    "wof:geomhash":"f749b979d48419a744abb299d62964b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":873988655
+        }
+    ],
+    "wof:id":873988655,
+    "wof:lastmodified":1464310680,
+    "wof:name":"Visiting Nursing Assoc Adult",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -73.114595,
+    44.455162,
+    -73.114595,
+    44.455162
+],
+  "geometry": {"coordinates":[-73.11459499999999,44.455162],"type":"Point"}
+}

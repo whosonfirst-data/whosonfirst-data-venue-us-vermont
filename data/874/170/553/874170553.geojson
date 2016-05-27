@@ -1,0 +1,69 @@
+{
+  "id": 874170553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.999722,44.50443,-72.999722,44.50443",
+    "geom:latitude":44.50443,
+    "geom:longitude":-72.999722,
+    "iso:country":"US",
+    "sg:address":"4 Red Mill Dr",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 2938",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z1uF7Z6x6I66eAHs0QqXV_44.504430_-72.999722@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312532,
+    "wof:geomhash":"f1973b430dd5f2cfda84613c5670d0a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874170553
+        }
+    ],
+    "wof:id":874170553,
+    "wof:lastmodified":1464312532,
+    "wof:name":"Jericho Village Water District",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.999722,
+    44.50443,
+    -72.999722,
+    44.50443
+],
+  "geometry": {"coordinates":[-72.99972200000001,44.50443],"type":"Point"}
+}

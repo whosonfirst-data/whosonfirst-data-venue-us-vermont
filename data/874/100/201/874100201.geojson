@@ -1,0 +1,71 @@
+{
+  "id": 874100201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.978046,43.468421,-72.978046,43.468421",
+    "geom:latitude":43.468421,
+    "geom:longitude":-72.978046,
+    "iso:country":"US",
+    "sg:address":"225 US Hwy 7",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 3388",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w8OCck1S6NxYVQnBgF84v_43.468421_-72.978046@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311796,
+    "wof:geomhash":"56ca07b4556c969d534ca67307d3451c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874100201
+        }
+    ],
+    "wof:id":874100201,
+    "wof:lastmodified":1464311796,
+    "wof:name":"Mill River Auto Sales",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.978046,
+    43.468421,
+    -72.978046,
+    43.468421
+],
+  "geometry": {"coordinates":[-72.97804600000001,43.468421],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874047129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.621108,43.825554,-72.621108,43.825554",
+    "geom:latitude":43.825554,
+    "geom:longitude":-72.621108,
+    "iso:country":"US",
+    "sg:address":"134 S Main St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 234 9741",
+    "sg:postcode":"05032",
+    "sg:province":"VT",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ngscMzsXinE8mS3vFqJzQ_43.825554_-72.621108@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311216,
+    "wof:geomhash":"1dad6c69a3e1a0ac1fbf14f19cbaece9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874047129
+        }
+    ],
+    "wof:id":874047129,
+    "wof:lastmodified":1464311216,
+    "wof:name":"Waste Water Treatment Plant",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -72.621108,
+    43.825554,
+    -72.621108,
+    43.825554
+],
+  "geometry": {"coordinates":[-72.62110800000001,43.825554],"type":"Point"}
+}

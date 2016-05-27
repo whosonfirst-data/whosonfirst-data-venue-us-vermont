@@ -1,0 +1,71 @@
+{
+  "id": 874170157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.234315,44.159529,-73.234315,44.159529",
+    "geom:latitude":44.159529,
+    "geom:longitude":-73.234315,
+    "iso:country":"US",
+    "sg:address":"226 Crosby Hts",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3633",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eoO7hiMvgVkxAMnLa8jz5_44.159529_-73.234315@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312528,
+    "wof:geomhash":"07f02686d19629c23a5364061b1efc45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874170157
+        }
+    ],
+    "wof:id":874170157,
+    "wof:lastmodified":1464312528,
+    "wof:name":"Dogstar Video Ltd",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -73.234315,
+    44.159529,
+    -73.234315,
+    44.159529
+],
+  "geometry": {"coordinates":[-73.234315,44.159529],"type":"Point"}
+}

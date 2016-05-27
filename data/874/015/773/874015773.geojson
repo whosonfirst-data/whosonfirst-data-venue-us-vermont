@@ -1,0 +1,71 @@
+{
+  "id": 874015773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088861,43.799502,-73.088861,43.799502",
+    "geom:latitude":43.799502,
+    "geom:longitude":-73.088861,
+    "iso:country":"US",
+    "sg:address":"44 Center St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 0228",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2liJndMperN6c0XLIoztjG_43.799502_-73.088861@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310898,
+    "wof:geomhash":"ceb9ff82f5c7ba048f4de297b6fc2668",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874015773
+        }
+    ],
+    "wof:id":874015773,
+    "wof:lastmodified":1464310898,
+    "wof:name":"Brandon Town Recreation Dept",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -73.088861,
+    43.799502,
+    -73.088861,
+    43.799502
+],
+  "geometry": {"coordinates":[-73.08886099999999,43.799502],"type":"Point"}
+}

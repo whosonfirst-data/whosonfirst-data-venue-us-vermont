@@ -1,0 +1,67 @@
+{
+  "id": 874117481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215883,44.473494,-73.215883,44.473494",
+    "geom:latitude":44.473494,
+    "geom:longitude":-73.215883,
+    "iso:country":"US",
+    "sg:address":"81 Maple St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 6844",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:website":"www.fffinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wDSttl5m5sF9wNJrU3oAL_44.473494_-73.215883@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312011,
+    "wof:geomhash":"ebe848ed633c97ee4d0b7b7d8df915e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874117481
+        }
+    ],
+    "wof:id":874117481,
+    "wof:lastmodified":1464312011,
+    "wof:name":"Freeman French Freeman Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.215883,
+    44.473494,
+    -73.215883,
+    44.473494
+],
+  "geometry": {"coordinates":[-73.21588300000001,44.473494],"type":"Point"}
+}

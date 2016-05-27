@@ -1,0 +1,72 @@
+{
+  "id": 874042421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.56284,44.248979,-72.56284,44.248979",
+    "geom:latitude":44.248979,
+    "geom:longitude":-72.56284,
+    "iso:country":"US",
+    "sg:address":"114 River St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 6020",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.houseoftang.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iOdt2pJVIWbhi9Do23GlG_44.248979_-72.562840@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311169,
+    "wof:geomhash":"80141c6a2c3ea1ad9ce7ee866d71b4ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874042421
+        }
+    ],
+    "wof:id":874042421,
+    "wof:lastmodified":1464311169,
+    "wof:name":"House of Tang",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.56284,
+    44.248979,
+    -72.56284,
+    44.248979
+],
+  "geometry": {"coordinates":[-72.56283999999999,44.248979],"type":"Point"}
+}

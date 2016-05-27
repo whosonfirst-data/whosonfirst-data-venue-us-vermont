@@ -1,0 +1,69 @@
+{
+  "id": 874224769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.804163,44.607071,-72.804163,44.607071",
+    "geom:latitude":44.607071,
+    "geom:longitude":-72.804163,
+    "iso:country":"US",
+    "sg:address":"583 Edwards Rd",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2966",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849535,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k7LUWuHpZxz5Uh9JiEyQo_44.607071_-72.804163@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313109,
+    "wof:geomhash":"a619f8f98cf9a0eb574bdb3d4dc748df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85849535,
+            "region_id":85688763,
+            "venue_id":874224769
+        }
+    ],
+    "wof:id":874224769,
+    "wof:lastmodified":1464313109,
+    "wof:name":"Edwards Paperhanging & Paint",
+    "wof:parent_id":85849535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -72.804163,
+    44.607071,
+    -72.804163,
+    44.607071
+],
+  "geometry": {"coordinates":[-72.804163,44.607071],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874115111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.185503,44.491378,-73.185503,44.491378",
+    "geom:latitude":44.491378,
+    "geom:longitude":-73.185503,
+    "iso:country":"US",
+    "sg:address":"1 E Allen St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 3128",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hYK6pvsBWcd2IQkObVK6O_44.491378_-73.185503@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311988,
+    "wof:geomhash":"af5b7b661eb65c99e01f9dc9b81aaf17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874115111
+        }
+    ],
+    "wof:id":874115111,
+    "wof:lastmodified":1464311988,
+    "wof:name":"Vermont Sandwich Co",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -73.185503,
+    44.491378,
+    -73.185503,
+    44.491378
+],
+  "geometry": {"coordinates":[-73.185503,44.491378],"type":"Point"}
+}

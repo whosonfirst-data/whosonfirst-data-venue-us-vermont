@@ -1,0 +1,71 @@
+{
+  "id": 874130673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.980602,43.60773,-72.980602,43.60773",
+    "geom:latitude":43.60773,
+    "geom:longitude":-72.980602,
+    "iso:country":"US",
+    "sg:address":"102 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 2774",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ct3pGF6T9cv1qMKHP1YIK_43.607730_-72.980602@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312145,
+    "wof:geomhash":"28af8734a8a0c8f43e8abc20f7139c38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874130673
+        }
+    ],
+    "wof:id":874130673,
+    "wof:lastmodified":1464312145,
+    "wof:name":"Vermont Transit Co",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -72.980602,
+    43.60773,
+    -72.980602,
+    43.60773
+],
+  "geometry": {"coordinates":[-72.980602,43.60773],"type":"Point"}
+}

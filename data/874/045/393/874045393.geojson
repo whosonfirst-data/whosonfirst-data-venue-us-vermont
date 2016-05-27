@@ -1,0 +1,75 @@
+{
+  "id": 874045393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.507124,44.201787,-72.507124,44.201787",
+    "geom:latitude":44.201787,
+    "geom:longitude":-72.507124,
+    "iso:country":"US",
+    "sg:address":"304 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0108",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c2S94VrjV5aYcYWSw0FO1_44.201787_-72.507124@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311200,
+    "wof:geomhash":"adf5272a592eb8a78089376e57ae9334",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874045393
+        }
+    ],
+    "wof:id":874045393,
+    "wof:lastmodified":1464311200,
+    "wof:name":"US Naval Recruiting",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -72.507124,
+    44.201787,
+    -72.507124,
+    44.201787
+],
+  "geometry": {"coordinates":[-72.507124,44.201787],"type":"Point"}
+}

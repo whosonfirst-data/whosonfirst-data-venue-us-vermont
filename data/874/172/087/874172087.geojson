@@ -1,0 +1,69 @@
+{
+  "id": 874172087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.650415,42.958514,-72.650415,42.958514",
+    "geom:latitude":42.958514,
+    "geom:longitude":-72.650415,
+    "iso:country":"US",
+    "sg:address":"239 State Rte 30",
+    "sg:city":"Newfane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 4795",
+    "sg:postcode":"05345",
+    "sg:province":"VT",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2StKe0pqjMsHckccUs9mZy_42.958514_-72.650415@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312550,
+    "wof:geomhash":"a1e91f3a2a801d556e7d842974544b44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874172087
+        }
+    ],
+    "wof:id":874172087,
+    "wof:lastmodified":1464312550,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -72.650415,
+    42.958514,
+    -72.650415,
+    42.958514
+],
+  "geometry": {"coordinates":[-72.650415,42.958514],"type":"Point"}
+}

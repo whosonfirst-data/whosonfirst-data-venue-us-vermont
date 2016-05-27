@@ -1,0 +1,73 @@
+{
+  "id": 874003425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.502014,44.197735,-72.502014,44.197735",
+    "geom:latitude":44.197735,
+    "geom:longitude":-72.502014,
+    "iso:country":"US",
+    "sg:address":"104 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 8757",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DmefvOtH12HwE0RdiNV1O_44.197735_-72.502014@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310797,
+    "wof:geomhash":"6b565e01ff9d9e41aee8a0eb142577fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874003425
+        }
+    ],
+    "wof:id":874003425,
+    "wof:lastmodified":1464310797,
+    "wof:name":"Family Center Of Washington",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -72.502014,
+    44.197735,
+    -72.502014,
+    44.197735
+],
+  "geometry": {"coordinates":[-72.502014,44.197735],"type":"Point"}
+}

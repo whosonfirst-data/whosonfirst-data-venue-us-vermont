@@ -1,0 +1,69 @@
+{
+  "id": 874116793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.104091,44.705222,-73.104091,44.705222",
+    "geom:latitude":44.705222,
+    "geom:longitude":-73.104091,
+    "iso:country":"US",
+    "sg:address":"2230 Ethan Allen Hwy",
+    "sg:city":"Saint Albans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 9145",
+    "sg:postcode":"05478",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838983,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sYR8FK3YI6iAgwCGuZpQ0_44.705222_-73.104091@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312004,
+    "wof:geomhash":"063b401345abdc47114dc943c6941681",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85838983,
+            "region_id":85688763,
+            "venue_id":874116793
+        }
+    ],
+    "wof:id":874116793,
+    "wof:lastmodified":1464312004,
+    "wof:name":"Mosseys Auto Body",
+    "wof:parent_id":85838983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -73.104091,
+    44.705222,
+    -73.104091,
+    44.705222
+],
+  "geometry": {"coordinates":[-73.104091,44.705222],"type":"Point"}
+}

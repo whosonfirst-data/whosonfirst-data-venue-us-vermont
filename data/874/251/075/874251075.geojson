@@ -1,0 +1,74 @@
+{
+  "id": 874251075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.502082,44.197888,-72.502082,44.197888",
+    "geom:latitude":44.197888,
+    "geom:longitude":-72.502082,
+    "iso:country":"US",
+    "sg:address":"88 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/barre/135393-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6460",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IuunG5kKnm8pJcmqT0r53_44.197468_-72.501767@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313587,
+    "wof:geomhash":"e20d9e62ce4d7dbd2885afec7421690d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874251075
+        }
+    ],
+    "wof:id":874251075,
+    "wof:lastmodified":1464313587,
+    "wof:name":"Subway",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.502082,
+    44.197888,
+    -72.502082,
+    44.197888
+],
+  "geometry": {"coordinates":[-72.502082,44.197888],"type":"Point"}
+}

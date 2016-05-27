@@ -1,0 +1,71 @@
+{
+  "id": 874033847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.091886,44.368934,-73.091886,44.368934",
+    "geom:latitude":44.368934,
+    "geom:longitude":-73.091886,
+    "iso:country":"US",
+    "sg:address":"15 Shadow Ln",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 6371",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844363,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KlALZq91cuHioSBFuf0pO_44.368934_-73.091886@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311083,
+    "wof:geomhash":"acdc9bf6df5653ec2dcc509dadd3f737",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85844363,
+            "region_id":85688763,
+            "venue_id":874033847
+        }
+    ],
+    "wof:id":874033847,
+    "wof:lastmodified":1464311083,
+    "wof:name":"Whites Electric Sewage Drain",
+    "wof:parent_id":85844363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.091886,
+    44.368934,
+    -73.091886,
+    44.368934
+],
+  "geometry": {"coordinates":[-73.091886,44.368934],"type":"Point"}
+}

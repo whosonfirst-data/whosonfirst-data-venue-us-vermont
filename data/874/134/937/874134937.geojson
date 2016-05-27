@@ -1,0 +1,71 @@
+{
+  "id": 874134937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.47423,44.183197,-72.47423,44.183197",
+    "geom:latitude":44.183197,
+    "geom:longitude":-72.47423,
+    "iso:country":"US",
+    "sg:address":"29 Tamarack Ln",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 2060",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pavk1hgK1Lv8RlqAoSpZ6_44.183197_-72.474230@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312190,
+    "wof:geomhash":"4372350c1eacf350c73638bcd33a6580",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874134937
+        }
+    ],
+    "wof:id":874134937,
+    "wof:lastmodified":1464312190,
+    "wof:name":"Advantage Lock and Key",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -72.47423,
+    44.183197,
+    -72.47423,
+    44.183197
+],
+  "geometry": {"coordinates":[-72.47423000000001,44.183197],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874233443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.492976,43.298501,-72.492976,43.298501",
+    "geom:latitude":43.298501,
+    "geom:longitude":-72.492976,
+    "iso:country":"US",
+    "sg:address":"29 Ridgewood Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 5716",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iCOifcHA1OSm1tBJTASiV_43.298501_-72.492976@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313208,
+    "wof:geomhash":"da1ab27f69c829828f8a2b63945eff3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874233443
+        }
+    ],
+    "wof:id":874233443,
+    "wof:lastmodified":1464313208,
+    "wof:name":"Pediatric Network",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.492976,
+    43.298501,
+    -72.492976,
+    43.298501
+],
+  "geometry": {"coordinates":[-72.492976,43.298501],"type":"Point"}
+}

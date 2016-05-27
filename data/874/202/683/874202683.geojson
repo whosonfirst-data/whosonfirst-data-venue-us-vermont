@@ -1,0 +1,71 @@
+{
+  "id": 874202683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.101887,44.377435,-73.101887,44.377435",
+    "geom:latitude":44.377435,
+    "geom:longitude":-73.101887,
+    "iso:country":"US",
+    "sg:address":"1065 Martel Exd",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 9740",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_485cHGwneI9vJo9clyQ52a_44.377435_-73.101887@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312871,
+    "wof:geomhash":"d85e6fed27276bc26eb27199e87fbb24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874202683
+        }
+    ],
+    "wof:id":874202683,
+    "wof:lastmodified":1464312871,
+    "wof:name":"Top Dog Landscaping",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.101887,
+    44.377435,
+    -73.101887,
+    44.377435
+],
+  "geometry": {"coordinates":[-73.101887,44.377435],"type":"Point"}
+}

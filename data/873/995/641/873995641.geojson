@@ -1,0 +1,71 @@
+{
+  "id": 873995641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.566018,44.110565,-72.566018,44.110565",
+    "geom:latitude":44.110565,
+    "geom:longitude":-72.566018,
+    "iso:country":"US",
+    "sg:address":"68 Crabapple Ridge Rd",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 9848",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46asnzZyhCARDLDQmgwBfp_44.110565_-72.566018@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310730,
+    "wof:geomhash":"e7ce9fd45a467bfbc4cd54c0456f95f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":873995641
+        }
+    ],
+    "wof:id":873995641,
+    "wof:lastmodified":1464310730,
+    "wof:name":"Precision Painting",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.566018,
+    44.110565,
+    -72.566018,
+    44.110565
+],
+  "geometry": {"coordinates":[-72.566018,44.110565],"type":"Point"}
+}

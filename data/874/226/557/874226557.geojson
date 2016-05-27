@@ -1,0 +1,73 @@
+{
+  "id": 874226557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.131108,44.441715,-73.131108,44.441715",
+    "geom:latitude":44.441715,
+    "geom:longitude":-73.131108,
+    "iso:country":"US",
+    "sg:address":"1544 S Brownell Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 2010",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MJFMlg77mBVtmEDdl3ylD_44.441715_-73.131108@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313127,
+    "wof:geomhash":"8c7f30f800f3599c8ff25259b722addf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874226557
+        }
+    ],
+    "wof:id":874226557,
+    "wof:lastmodified":1464313127,
+    "wof:name":"Access Self Storage Willist",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "special"
+    ]
+},
+  "bbox": [
+    -73.131108,
+    44.441715,
+    -73.131108,
+    44.441715
+],
+  "geometry": {"coordinates":[-73.131108,44.441715],"type":"Point"}
+}

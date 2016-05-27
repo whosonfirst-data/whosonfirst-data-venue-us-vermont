@@ -1,0 +1,78 @@
+{
+  "id": 874145201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.973936,43.617639,-72.973936,43.617639",
+    "geom:latitude":43.617639,
+    "geom:longitude":-72.973936,
+    "iso:country":"US",
+    "sg:address":"158 N Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 9707",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "profit",
+        "membership",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AjNTzgSrmokvycKmPaX5w_43.617639_-72.973936@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312282,
+    "wof:geomhash":"d9228404728d887359ce4c34ef7655e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874145201
+        }
+    ],
+    "wof:id":874145201,
+    "wof:lastmodified":1464312282,
+    "wof:name":"Vermont Rental Property Owners",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "profit",
+        "membership",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.973936,
+    43.617639,
+    -72.973936,
+    43.617639
+],
+  "geometry": {"coordinates":[-72.97393599999999,43.617639],"type":"Point"}
+}

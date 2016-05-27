@@ -1,0 +1,71 @@
+{
+  "id": 874039107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.203225,42.88105,-73.203225,42.88105",
+    "geom:latitude":42.88105,
+    "geom:longitude":-73.203225,
+    "iso:country":"US",
+    "sg:address":"206 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 518 275 9027",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PR6JXVM3XOp3L4cQrKYC5_42.881050_-73.203225@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311135,
+    "wof:geomhash":"5193601d6c86bf4cefc161629341ca35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874039107
+        }
+    ],
+    "wof:id":874039107,
+    "wof:lastmodified":1464311135,
+    "wof:name":"Empire Painting",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.203225,
+    42.88105,
+    -73.203225,
+    42.88105
+],
+  "geometry": {"coordinates":[-73.203225,42.88105],"type":"Point"}
+}

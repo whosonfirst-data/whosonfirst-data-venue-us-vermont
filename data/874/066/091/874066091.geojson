@@ -1,0 +1,69 @@
+{
+  "id": 874066091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.70851,44.47255,-72.70851,44.47255",
+    "geom:latitude":44.47255,
+    "geom:longitude":-72.70851,
+    "iso:country":"US",
+    "sg:address":"1669 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7785",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hXdUfy9T3ZRXWDQSz7TLM_44.472550_-72.708510@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311389,
+    "wof:geomhash":"3021141fa8007882de8756f38050f187",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874066091
+        }
+    ],
+    "wof:id":874066091,
+    "wof:lastmodified":1464311389,
+    "wof:name":"Stowe Dogs",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -72.70851,
+    44.47255,
+    -72.70851,
+    44.47255
+],
+  "geometry": {"coordinates":[-72.70851,44.47255],"type":"Point"}
+}

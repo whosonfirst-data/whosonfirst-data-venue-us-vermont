@@ -1,0 +1,73 @@
+{
+  "id": 874151151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50681,44.205594,-72.50681,44.205594",
+    "geom:latitude":44.205594,
+    "geom:longitude":-72.50681,
+    "iso:country":"US",
+    "sg:address":"9 Pleasant St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5750",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "confectionery",
+        "candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oTceCRk4cnF13raYZZw7t_44.205594_-72.506810@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312339,
+    "wof:geomhash":"db770cf31ee64a33e98c470523768930",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874151151
+        }
+    ],
+    "wof:id":874151151,
+    "wof:lastmodified":1464312339,
+    "wof:name":"Hibbert & Mc Gee Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "candy"
+    ]
+},
+  "bbox": [
+    -72.50681,
+    44.205594,
+    -72.50681,
+    44.205594
+],
+  "geometry": {"coordinates":[-72.50681,44.205594],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874101391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.019622,44.41972,-72.019622,44.41972",
+    "geom:latitude":44.41972,
+    "geom:longitude":-72.019622,
+    "iso:country":"US",
+    "sg:address":"73 Prospect St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 2735",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xX0kLCfMGEp30hfPmLbnQ_44.419720_-72.019622@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311811,
+    "wof:geomhash":"cccc7e9d2f521421934b1e92d010d0e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874101391
+        }
+    ],
+    "wof:id":874101391,
+    "wof:lastmodified":1464311811,
+    "wof:name":"Sunset Home",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -72.019622,
+    44.41972,
+    -72.019622,
+    44.41972
+],
+  "geometry": {"coordinates":[-72.019622,44.41972],"type":"Point"}
+}

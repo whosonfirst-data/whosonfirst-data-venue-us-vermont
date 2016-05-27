@@ -1,0 +1,75 @@
+{
+  "id": 874229127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.248291,44.551369,-73.248291,44.551369",
+    "geom:latitude":44.551369,
+    "geom:longitude":-73.248291,
+    "iso:country":"US",
+    "sg:address":"1750 W Lakeshore Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 5615",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trucking",
+        "local",
+        "day",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23mvgk5OVaoAKAzd30cE29_44.551369_-73.248291@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313152,
+    "wof:geomhash":"80c5c8504c410b67bb8ba2cdc6684baa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874229127
+        }
+    ],
+    "wof:id":874229127,
+    "wof:lastmodified":1464313152,
+    "wof:name":"Gary Trucking",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking",
+        "local",
+        "day",
+        "care"
+    ]
+},
+  "bbox": [
+    -73.248291,
+    44.551369,
+    -73.248291,
+    44.551369
+],
+  "geometry": {"coordinates":[-73.24829099999999,44.551369],"type":"Point"}
+}

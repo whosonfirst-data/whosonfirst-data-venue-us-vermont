@@ -1,0 +1,77 @@
+{
+  "id": 874082221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.959474,43.616561,-72.959474,43.616561",
+    "geom:latitude":43.616561,
+    "geom:longitude":-72.959474,
+    "iso:country":"US",
+    "sg:address":"734 US Hwy 4",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 8337",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fund",
+        "education",
+        "patient",
+        "cancer",
+        "raising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43jT3YX3ZBosXdRiuxN7ms_43.616561_-72.959474@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311580,
+    "wof:geomhash":"c8319db82d7b9071ac0581f2a8337467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874082221
+        }
+    ],
+    "wof:id":874082221,
+    "wof:lastmodified":1464311580,
+    "wof:name":"American Cancer Society",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fund",
+        "education",
+        "patient",
+        "cancer",
+        "raising"
+    ]
+},
+  "bbox": [
+    -72.959474,
+    43.616561,
+    -72.959474,
+    43.616561
+],
+  "geometry": {"coordinates":[-72.959474,43.616561],"type":"Point"}
+}

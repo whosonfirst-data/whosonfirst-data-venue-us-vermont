@@ -1,0 +1,71 @@
+{
+  "id": 874162873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.153099,44.015531,-73.153099,44.015531",
+    "geom:latitude":44.015531,
+    "geom:longitude":-73.153099,
+    "iso:country":"US",
+    "sg:address":"100 Seminary St Exd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 9090",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mhwBsYJ4cwmpwu7TBTlDy_44.015531_-73.153099@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312458,
+    "wof:geomhash":"b3b5c1a4fbef32c31db70288295db4e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874162873
+        }
+    ],
+    "wof:id":874162873,
+    "wof:lastmodified":1464312458,
+    "wof:name":"Paul D Berkner DO",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.153099,
+    44.015531,
+    -73.153099,
+    44.015531
+],
+  "geometry": {"coordinates":[-73.153099,44.015531],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874220811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169535,43.999508,-73.169535,43.999508",
+    "geom:latitude":43.999508,
+    "geom:longitude":-73.169535,
+    "iso:country":"US",
+    "sg:address":"115 Porter Dr",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7959",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XVzG13x1rZXm846J9EkgW_43.999508_-73.169535@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313073,
+    "wof:geomhash":"72f143723fe3d7bb3033891adb73ba0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874220811
+        }
+    ],
+    "wof:id":874220811,
+    "wof:lastmodified":1464313073,
+    "wof:name":"Middlebury Pediatric Medicine",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.169535,
+    43.999508,
+    -73.169535,
+    43.999508
+],
+  "geometry": {"coordinates":[-73.169535,43.999508],"type":"Point"}
+}

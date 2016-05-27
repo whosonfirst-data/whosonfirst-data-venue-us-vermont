@@ -1,0 +1,71 @@
+{
+  "id": 874105385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.539468,44.241373,-72.539468,44.241373",
+    "geom:latitude":44.241373,
+    "geom:longitude":-72.539468,
+    "iso:country":"US",
+    "sg:address":"1178 US Hwy 2",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 828 2211",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h15Mto3DZWKhVac0iNUxS_44.241373_-72.539468@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311861,
+    "wof:geomhash":"e1e4419a10aeb6e52ec9b27accac4577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874105385
+        }
+    ],
+    "wof:id":874105385,
+    "wof:lastmodified":1464311861,
+    "wof:name":"Purchasing Division",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -72.539468,
+    44.241373,
+    -72.539468,
+    44.241373
+],
+  "geometry": {"coordinates":[-72.539468,44.241373],"type":"Point"}
+}

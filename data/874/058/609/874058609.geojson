@@ -1,0 +1,70 @@
+{
+  "id": 874058609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.105878,43.973336,-73.105878,43.973336",
+    "geom:latitude":43.973336,
+    "geom:longitude":-73.105878,
+    "iso:country":"US",
+    "sg:address":"404 E Main St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 382 8522",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.ottercrk.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1StmXG106RA5Min0iqJzku_43.973336_-73.105878@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311323,
+    "wof:geomhash":"a527e6c5945840829ad97e8c78fe80df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874058609
+        }
+    ],
+    "wof:id":874058609,
+    "wof:lastmodified":1464311323,
+    "wof:name":"Otter Creek Engineering Inc",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -73.105878,
+    43.973336,
+    -73.105878,
+    43.973336
+],
+  "geometry": {"coordinates":[-73.105878,43.973336],"type":"Point"}
+}

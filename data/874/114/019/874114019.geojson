@@ -1,0 +1,71 @@
+{
+  "id": 874114019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.090469,44.506086,-73.090469,44.506086",
+    "geom:latitude":44.506086,
+    "geom:longitude":-73.090469,
+    "iso:country":"US",
+    "sg:address":"48 Upper Main St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 8858",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "course",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pDpOgHaSJIvpQlJ5F7fV9_44.506086_-73.090469@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311977,
+    "wof:geomhash":"f67212134b347d16a4ae206ae84bcba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874114019
+        }
+    ],
+    "wof:id":874114019,
+    "wof:lastmodified":1464311977,
+    "wof:name":"Essex Mini Golf",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "golf"
+    ]
+},
+  "bbox": [
+    -73.090469,
+    44.506086,
+    -73.090469,
+    44.506086
+],
+  "geometry": {"coordinates":[-73.090469,44.506086],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873998111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.086185,43.797927,-73.086185,43.797927",
+    "geom:latitude":43.797927,
+    "geom:longitude":-73.086185,
+    "iso:country":"US",
+    "sg:address":"55 Franklin St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 5709",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eZar2qqDG63yHxMgsjXHh_43.797927_-73.086185@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310748,
+    "wof:geomhash":"91e971b8d4d68353d9cdf2dd1f3f2d7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":873998111
+        }
+    ],
+    "wof:id":873998111,
+    "wof:lastmodified":1464310748,
+    "wof:name":"American Legion",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -73.086185,
+    43.797927,
+    -73.086185,
+    43.797927
+],
+  "geometry": {"coordinates":[-73.086185,43.797927],"type":"Point"}
+}

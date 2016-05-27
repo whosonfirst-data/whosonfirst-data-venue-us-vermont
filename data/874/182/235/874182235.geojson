@@ -1,0 +1,69 @@
+{
+  "id": 874182235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.194533,42.878181,-73.194533,42.878181",
+    "geom:latitude":42.878181,
+    "geom:longitude":-73.194533,
+    "iso:country":"US",
+    "sg:address":"512 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 8267",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sW5yPjaqurmJzBjvCGmkn_42.878181_-73.194533@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312653,
+    "wof:geomhash":"386754d14437346506f0b121b3d3503d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874182235
+        }
+    ],
+    "wof:id":874182235,
+    "wof:lastmodified":1464312653,
+    "wof:name":"Tropical Mist Tanning",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -73.194533,
+    42.878181,
+    -73.194533,
+    42.878181
+],
+  "geometry": {"coordinates":[-73.19453300000001,42.878181],"type":"Point"}
+}

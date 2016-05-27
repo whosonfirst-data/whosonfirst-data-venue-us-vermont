@@ -1,0 +1,73 @@
+{
+  "id": 874104805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.513446,44.204436,-72.513446,44.204436",
+    "geom:latitude":44.204436,
+    "geom:longitude":-72.513446,
+    "iso:country":"US",
+    "sg:address":"51 Smith St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3795",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32ueFLjgjEsuyYIFpHPH4X_44.204436_-72.513446@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311855,
+    "wof:geomhash":"4d0ade04a5f06ad5a6d9cb3f7e78717f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874104805
+        }
+    ],
+    "wof:id":874104805,
+    "wof:lastmodified":1464311855,
+    "wof:name":"Thygesen Construction Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.513446,
+    44.204436,
+    -72.513446,
+    44.204436
+],
+  "geometry": {"coordinates":[-72.513446,44.204436],"type":"Point"}
+}

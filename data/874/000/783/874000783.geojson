@@ -1,0 +1,71 @@
+{
+  "id": 874000783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.020329,44.417213,-72.020329,44.417213",
+    "geom:latitude":44.417213,
+    "geom:longitude":-72.020329,
+    "iso:country":"US",
+    "sg:address":"1153 Main St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3301",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B1ahQ3ulWeyO3QouX8o8L_44.417213_-72.020329@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310766,
+    "wof:geomhash":"1046cbbd3bd37cd50678c09e1517529e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874000783
+        }
+    ],
+    "wof:id":874000783,
+    "wof:lastmodified":1464310766,
+    "wof:name":"Saint Johnsbury Post Office",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -72.020329,
+    44.417213,
+    -72.020329,
+    44.417213
+],
+  "geometry": {"coordinates":[-72.020329,44.417213],"type":"Point"}
+}

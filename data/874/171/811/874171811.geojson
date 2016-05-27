@@ -1,0 +1,73 @@
+{
+  "id": 874171811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.080531,43.794872,-73.080531,43.794872",
+    "geom:latitude":43.794872,
+    "geom:longitude":-73.080531,
+    "iso:country":"US",
+    "sg:address":"56 Franklin St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3657",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33YGS2yrYJUR1yb0qf7w1Y_43.794872_-73.080531@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312547,
+    "wof:geomhash":"5a31bae7e50673c4225829c251178b93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874171811
+        }
+    ],
+    "wof:id":874171811,
+    "wof:lastmodified":1464312547,
+    "wof:name":"Express Car Wash",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -73.080531,
+    43.794872,
+    -73.080531,
+    43.794872
+],
+  "geometry": {"coordinates":[-73.08053099999999,43.794872],"type":"Point"}
+}

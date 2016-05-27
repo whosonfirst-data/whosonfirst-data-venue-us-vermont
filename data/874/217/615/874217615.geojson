@@ -1,0 +1,71 @@
+{
+  "id": 874217615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.558812,42.880835,-72.558812,42.880835",
+    "geom:latitude":42.880835,
+    "geom:longitude":-72.558812,
+    "iso:country":"US",
+    "sg:address":"870 US Hwy 5",
+    "sg:city":"Dummerston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 5011",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IFsRQa7sQpocZ1MO0WHNQ_42.880835_-72.558812@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313028,
+    "wof:geomhash":"91d025a4151c6dfd3178b306a3e4aff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874217615
+        }
+    ],
+    "wof:id":874217615,
+    "wof:lastmodified":1464313028,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -72.558812,
+    42.880835,
+    -72.558812,
+    42.880835
+],
+  "geometry": {"coordinates":[-72.558812,42.880835],"type":"Point"}
+}

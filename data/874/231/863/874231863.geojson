@@ -1,0 +1,71 @@
+{
+  "id": 874231863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.189193,44.025742,-73.189193,44.025742",
+    "geom:latitude":44.025742,
+    "geom:longitude":-73.189193,
+    "iso:country":"US",
+    "sg:address":"291 Sheep Farm Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2029",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M1zcdHW4hW3QWXQTK59oJ_44.025742_-73.189193@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313184,
+    "wof:geomhash":"062693d89231ea62980537ac5f5a4aa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874231863
+        }
+    ],
+    "wof:id":874231863,
+    "wof:lastmodified":1464313184,
+    "wof:name":"Star Stuff Rocks & Minerals",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -73.189193,
+    44.025742,
+    -73.189193,
+    44.025742
+],
+  "geometry": {"coordinates":[-73.189193,44.025742],"type":"Point"}
+}

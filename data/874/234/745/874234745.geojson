@@ -1,0 +1,69 @@
+{
+  "id": 874234745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.522335,42.97128,-72.522335,42.97128",
+    "geom:latitude":42.97128,
+    "geom:longitude":-72.522335,
+    "iso:country":"US",
+    "sg:address":"63 Main St",
+    "sg:city":"Putney",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 387 4210",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T7yIJjGGIJcPHBLWDmGMq_42.971280_-72.522335@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313234,
+    "wof:geomhash":"d03ea96e87eba145e289b6a069b9819b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874234745
+        }
+    ],
+    "wof:id":874234745,
+    "wof:lastmodified":1464313234,
+    "wof:name":"Federation EIL",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -72.522335,
+    42.97128,
+    -72.522335,
+    42.97128
+],
+  "geometry": {"coordinates":[-72.522335,42.97128],"type":"Point"}
+}

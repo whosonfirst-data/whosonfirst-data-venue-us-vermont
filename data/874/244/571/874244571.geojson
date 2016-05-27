@@ -1,0 +1,71 @@
+{
+  "id": 874244571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.504958,43.300823,-72.504958,43.300823",
+    "geom:latitude":43.300823,
+    "geom:longitude":-72.504958,
+    "iso:country":"US",
+    "sg:address":"105 Chester Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 5741",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28t34GsFLaDR2IGD2sAabj_43.300823_-72.504958@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313427,
+    "wof:geomhash":"974da91c58b4b20207fdf859d80324fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874244571
+        }
+    ],
+    "wof:id":874244571,
+    "wof:lastmodified":1464313427,
+    "wof:name":"Springfield Health & Rehab Ctr",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -72.504958,
+    43.300823,
+    -72.504958,
+    43.300823
+],
+  "geometry": {"coordinates":[-72.504958,43.300823],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874146913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196555,42.893718,-73.196555,42.893718",
+    "geom:latitude":42.893718,
+    "geom:longitude":-73.196555,
+    "iso:country":"US",
+    "sg:address":"105 Bennington Sq",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 4392",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aH6ALXOS0R4buKjaMtUcv_42.893718_-73.196555@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312301,
+    "wof:geomhash":"291ab8e82640d1a024420f5df52b9973",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874146913
+        }
+    ],
+    "wof:id":874146913,
+    "wof:lastmodified":1464312301,
+    "wof:name":"Jay's Hallmark Shop",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.196555,
+    42.893718,
+    -73.196555,
+    42.893718
+],
+  "geometry": {"coordinates":[-73.196555,42.893718],"type":"Point"}
+}

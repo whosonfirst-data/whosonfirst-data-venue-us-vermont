@@ -1,0 +1,71 @@
+{
+  "id": 874166231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.499484,44.191157,-72.499484,44.191157",
+    "geom:latitude":44.191157,
+    "geom:longitude":-72.499484,
+    "iso:country":"US",
+    "sg:address":"6 Elmore St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 5550",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fok5vBwVozaK2yFHaFbkF_44.191157_-72.499484@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312491,
+    "wof:geomhash":"28c6b177bec0a94c4d62ba4f37f4786b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874166231
+        }
+    ],
+    "wof:id":874166231,
+    "wof:lastmodified":1464312491,
+    "wof:name":"Sadies Back Porch",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.499484,
+    44.191157,
+    -72.499484,
+    44.191157
+],
+  "geometry": {"coordinates":[-72.499484,44.191157],"type":"Point"}
+}

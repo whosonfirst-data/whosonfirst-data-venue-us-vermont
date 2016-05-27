@@ -1,0 +1,74 @@
+{
+  "id": 873989263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205115,44.471726,-73.205115,44.471726",
+    "geom:latitude":44.471726,
+    "geom:longitude":-73.205115,
+    "iso:country":"US",
+    "sg:address":"309 S Willard St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 0322",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "sg:website":"www.fraser.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mjTIt9QkFAkc9Jyvublq5_44.471726_-73.205115@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310685,
+    "wof:geomhash":"5c1051891b484a40b10028437f70c674",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873989263
+        }
+    ],
+    "wof:id":873989263,
+    "wof:lastmodified":1464310685,
+    "wof:name":"Fraser Management Assoc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -73.205115,
+    44.471726,
+    -73.205115,
+    44.471726
+],
+  "geometry": {"coordinates":[-73.20511500000001,44.471726],"type":"Point"}
+}

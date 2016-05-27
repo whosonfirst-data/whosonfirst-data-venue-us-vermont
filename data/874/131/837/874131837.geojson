@@ -1,0 +1,71 @@
+{
+  "id": 874131837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.667159,43.038199,-72.667159,43.038199",
+    "geom:latitude":43.038199,
+    "geom:longitude":-72.667159,
+    "iso:country":"US",
+    "sg:address":"45 Depot Rd",
+    "sg:city":"Townshend",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 7721",
+    "sg:postcode":"05353",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cqHOvMM3vhc6fyYK4TL2c_43.038199_-72.667159@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312158,
+    "wof:geomhash":"52f3cff72e0612de2799c3b5b0d4fa96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874131837
+        }
+    ],
+    "wof:id":874131837,
+    "wof:lastmodified":1464312158,
+    "wof:name":"Carl W Steiner Logging",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [
+    -72.667159,
+    43.038199,
+    -72.667159,
+    43.038199
+],
+  "geometry": {"coordinates":[-72.667159,43.038199],"type":"Point"}
+}

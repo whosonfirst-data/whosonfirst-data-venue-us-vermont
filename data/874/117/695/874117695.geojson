@@ -1,0 +1,73 @@
+{
+  "id": 874117695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.083936,44.3477,-73.083936,44.3477",
+    "geom:latitude":44.3477,
+    "geom:longitude":-73.083936,
+    "iso:country":"US",
+    "sg:address":"116 Wildwood Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 1444",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house",
+        "industrial",
+        "co"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844363,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CFDdw79JofIFqU8xFCleP_44.347700_-73.083936@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312013,
+    "wof:geomhash":"9227c852dcd10fc7f580d273cf642bef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85844363,
+            "region_id":85688763,
+            "venue_id":874117695
+        }
+    ],
+    "wof:id":874117695,
+    "wof:lastmodified":1464312013,
+    "wof:name":"Matt Western Construction",
+    "wof:parent_id":85844363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "industrial",
+        "co"
+    ]
+},
+  "bbox": [
+    -73.083936,
+    44.3477,
+    -73.083936,
+    44.3477
+],
+  "geometry": {"coordinates":[-73.08393599999999,44.3477],"type":"Point"}
+}

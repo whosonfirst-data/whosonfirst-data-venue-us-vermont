@@ -1,0 +1,71 @@
+{
+  "id": 874244667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08705,43.79776,-73.08705,43.79776",
+    "geom:latitude":43.79776,
+    "geom:longitude":-73.08705,
+    "iso:country":"US",
+    "sg:address":"4 Carver St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3737",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LLgmOsTrI6h25hOGWHZ7z_43.797760_-73.087050@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313429,
+    "wof:geomhash":"724e3c059e61df12548df189cd907d80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874244667
+        }
+    ],
+    "wof:id":874244667,
+    "wof:lastmodified":1464313429,
+    "wof:name":"Jeffrey T Smith Law Offices",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -73.08705,
+    43.79776,
+    -73.08705,
+    43.79776
+],
+  "geometry": {"coordinates":[-73.08705,43.79776],"type":"Point"}
+}

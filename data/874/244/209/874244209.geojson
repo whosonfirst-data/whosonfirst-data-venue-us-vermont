@@ -1,0 +1,69 @@
+{
+  "id": 874244209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.010762,43.60453,-73.010762,43.60453",
+    "geom:latitude":43.60453,
+    "geom:longitude":-73.010762,
+    "iso:country":"US",
+    "sg:address":"303 US Hwy 4 Bus",
+    "sg:city":"Center Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 4255",
+    "sg:postcode":"05736",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f11kej4erb5Cgopgjdtym_43.604530_-73.010762@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313420,
+    "wof:geomhash":"133a4606f68cdf5da09906e26bb378f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874244209
+        }
+    ],
+    "wof:id":874244209,
+    "wof:lastmodified":1464313420,
+    "wof:name":"Pentecostals Of Rutland County",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.010762,
+    43.60453,
+    -73.010762,
+    43.60453
+],
+  "geometry": {"coordinates":[-73.010762,43.60453],"type":"Point"}
+}

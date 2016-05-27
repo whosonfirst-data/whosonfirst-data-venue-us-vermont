@@ -1,0 +1,73 @@
+{
+  "id": 874038877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180176,44.085958,-73.180176,44.085958",
+    "geom:latitude":44.085958,
+    "geom:longitude":-73.180176,
+    "iso:country":"US",
+    "sg:address":"235 Campground Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 7225",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oYTj5GuEWn38svDYw55Hu_44.085958_-73.180176@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311133,
+    "wof:geomhash":"25fc41dce1baa081d99b4fa39075680e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874038877
+        }
+    ],
+    "wof:id":874038877,
+    "wof:lastmodified":1464311133,
+    "wof:name":"Champlain Precision",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.180176,
+    44.085958,
+    -73.180176,
+    44.085958
+],
+  "geometry": {"coordinates":[-73.180176,44.085958],"type":"Point"}
+}

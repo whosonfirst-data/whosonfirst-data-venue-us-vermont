@@ -1,0 +1,69 @@
+{
+  "id": 874008003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.671635,44.997115,-72.671635,44.997115",
+    "geom:latitude":44.997115,
+    "geom:longitude":-72.671635,
+    "iso:country":"US",
+    "sg:address":"1 River St",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 848 3819",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sr7iCE9J3V43rcKqce1ql_44.997115_-72.671635@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310840,
+    "wof:geomhash":"8fbe3dea0a85c9b57be2089785b6bfbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874008003
+        }
+    ],
+    "wof:id":874008003,
+    "wof:lastmodified":1464310840,
+    "wof:name":"Mayhew's Corner Store",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -72.671635,
+    44.997115,
+    -72.671635,
+    44.997115
+],
+  "geometry": {"coordinates":[-72.67163499999999,44.997115],"type":"Point"}
+}

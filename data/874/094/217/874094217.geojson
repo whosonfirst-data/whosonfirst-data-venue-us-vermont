@@ -1,0 +1,71 @@
+{
+  "id": 874094217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.220774,44.476738,-73.220774,44.476738",
+    "geom:latitude":44.476738,
+    "geom:longitude":-73.220774,
+    "iso:country":"US",
+    "sg:address":"3 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 859 3086",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ILNnPhKflzsgGeJaroi5J_44.476738_-73.220774@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311705,
+    "wof:geomhash":"c99d46f24d77d63b14c051ac4f9ccd0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874094217
+        }
+    ],
+    "wof:id":874094217,
+    "wof:lastmodified":1464311705,
+    "wof:name":"Rubenstein Ecosystem Science",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -73.220774,
+    44.476738,
+    -73.220774,
+    44.476738
+],
+  "geometry": {"coordinates":[-73.22077400000001,44.476738],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874055203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.112166,44.489147,-73.112166,44.489147",
+    "geom:latitude":44.489147,
+    "geom:longitude":-73.112166,
+    "iso:country":"US",
+    "sg:address":"3 State Rte 2a",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 1973",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62H67IEchRAvjx3QhQhzlM_44.489147_-73.112166@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311294,
+    "wof:geomhash":"a45fa4ea5b259484cf1a4cc9fe2bd4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874055203
+        }
+    ],
+    "wof:id":874055203,
+    "wof:lastmodified":1464311294,
+    "wof:name":"T F Electric",
+    "wof:parent_id":85828531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.112166,
+    44.489147,
+    -73.112166,
+    44.489147
+],
+  "geometry": {"coordinates":[-73.112166,44.489147],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874096277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015997,44.44809,-72.015997,44.44809",
+    "geom:latitude":44.44809,
+    "geom:longitude":-72.015997,
+    "iso:country":"US",
+    "sg:address":"1192 Memorial Dr",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 4433",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DADkP2ASvcmqRQ93deN5C_44.448090_-72.015997@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311732,
+    "wof:geomhash":"e197f68804f43dd1507bd1b8d43a2bd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874096277
+        }
+    ],
+    "wof:id":874096277,
+    "wof:lastmodified":1464311732,
+    "wof:name":"Koffee Kup Thrift Store",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.015997,
+    44.44809,
+    -72.015997,
+    44.44809
+],
+  "geometry": {"coordinates":[-72.015997,44.44809],"type":"Point"}
+}

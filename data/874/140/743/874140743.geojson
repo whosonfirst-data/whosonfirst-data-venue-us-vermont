@@ -1,0 +1,71 @@
+{
+  "id": 874140743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.195533,43.678545,-73.195533,43.678545",
+    "geom:latitude":43.678545,
+    "geom:longitude":-73.195533,
+    "iso:country":"US",
+    "sg:address":"37 Campbell Rd",
+    "sg:city":"Castleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 273 2392",
+    "sg:postcode":"05735",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jo1L8D7iCVmUKJdiTbc8T_43.678545_-73.195533@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312241,
+    "wof:geomhash":"3ae849b5ab4daa88c84a568cfce87791",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874140743
+        }
+    ],
+    "wof:id":874140743,
+    "wof:lastmodified":1464312241,
+    "wof:name":"Clifford Construction",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.195533,
+    43.678545,
+    -73.195533,
+    43.678545
+],
+  "geometry": {"coordinates":[-73.195533,43.678545],"type":"Point"}
+}

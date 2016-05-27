@@ -1,0 +1,69 @@
+{
+  "id": 874243407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.475465,43.35463,-72.475465,43.35463",
+    "geom:latitude":43.35463,
+    "geom:longitude":-72.475465,
+    "iso:country":"US",
+    "sg:address":"529 Wellwood Orchard Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 5200",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apple"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yHpCVeTYEEw6jiWC1CiRR_43.354630_-72.475465@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313402,
+    "wof:geomhash":"24fe12bae736d2ccd14f0cbb5bdfabeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874243407
+        }
+    ],
+    "wof:id":874243407,
+    "wof:lastmodified":1464313402,
+    "wof:name":"Wellwood Orchards Inc",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apple"
+    ]
+},
+  "bbox": [
+    -72.475465,
+    43.35463,
+    -72.475465,
+    43.35463
+],
+  "geometry": {"coordinates":[-72.475465,43.35463],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874210193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.469541,43.280904,-72.469541,43.280904",
+    "geom:latitude":43.280904,
+    "geom:longitude":-72.469541,
+    "iso:country":"US",
+    "sg:address":"307 Clinton St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 3232",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822381,
+        102191575,
+        404527377,
+        85633793,
+        101728481,
+        102080777,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iFIQXd9Jo0GZB94PjZZSy_43.280904_-72.469541@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312951,
+    "wof:geomhash":"be195d58598dbf24944083e48ae3c31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080777,
+            "localadmin_id":404527377,
+            "locality_id":101728481,
+            "neighbourhood_id":85822381,
+            "region_id":85688763,
+            "venue_id":874210193
+        }
+    ],
+    "wof:id":874210193,
+    "wof:lastmodified":1464312951,
+    "wof:name":"Springfield Barber",
+    "wof:parent_id":85822381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.469541,
+    43.280904,
+    -72.469541,
+    43.280904
+],
+  "geometry": {"coordinates":[-72.46954100000001,43.280904],"type":"Point"}
+}

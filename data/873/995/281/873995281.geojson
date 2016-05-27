@@ -1,0 +1,71 @@
+{
+  "id": 873995281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.080531,43.794872,-73.080531,43.794872",
+    "geom:latitude":43.794872,
+    "geom:longitude":-73.080531,
+    "iso:country":"US",
+    "sg:address":"26 Franklin St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 5704",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Iqry7XClACEVVilWSHA14_43.794872_-73.080531@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310728,
+    "wof:geomhash":"5a31bae7e50673c4225829c251178b93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":873995281
+        }
+    ],
+    "wof:id":873995281,
+    "wof:lastmodified":1464310728,
+    "wof:name":"Miller & Ketchan Funeral Home",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -73.080531,
+    43.794872,
+    -73.080531,
+    43.794872
+],
+  "geometry": {"coordinates":[-73.08053099999999,43.794872],"type":"Point"}
+}

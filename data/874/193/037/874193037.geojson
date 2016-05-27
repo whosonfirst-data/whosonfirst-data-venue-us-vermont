@@ -1,0 +1,71 @@
+{
+  "id": 874193037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.107799,44.694905,-73.107799,44.694905",
+    "geom:latitude":44.694905,
+    "geom:longitude":-73.107799,
+    "iso:country":"US",
+    "sg:address":"1149 Ethan Allen Hwy",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 9800",
+    "sg:postcode":"05454",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02MZQAjwWRTiOOiTtzKuRp_44.694905_-73.107799@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312771,
+    "wof:geomhash":"e78b02816f3599621b9951406c6624d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874193037
+        }
+    ],
+    "wof:id":874193037,
+    "wof:lastmodified":1464312771,
+    "wof:name":"Blake's Auto Svc Ctr",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.107799,
+    44.694905,
+    -73.107799,
+    44.694905
+],
+  "geometry": {"coordinates":[-73.107799,44.694905],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 874252695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215147,44.469693,-73.215147,44.469693",
+    "geom:latitude":44.469693,
+    "geom:longitude":-73.215147,
+    "iso:country":"US",
+    "sg:address":"308 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 9626",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "family",
+        "counselors-licensed",
+        "individual",
+        "marriage",
+        "child",
+        "professional",
+        "counselor"
+    ],
+    "sg:website":"http://www.kidsafevt.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n5w9cuuKo7sLfsHR0L5Ah_44.469693_-73.215147@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313619,
+    "wof:geomhash":"9dcc8d089ea012f9e9439081632335b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874252695
+        }
+    ],
+    "wof:id":874252695,
+    "wof:lastmodified":1464313619,
+    "wof:name":"Kids Safe Collaborative",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "family",
+        "counselors-licensed",
+        "individual",
+        "marriage",
+        "child",
+        "professional",
+        "counselor"
+    ]
+},
+  "bbox": [
+    -73.215147,
+    44.469693,
+    -73.215147,
+    44.469693
+],
+  "geometry": {"coordinates":[-73.215147,44.469693],"type":"Point"}
+}

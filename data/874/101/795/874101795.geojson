@@ -1,0 +1,73 @@
+{
+  "id": 874101795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.568104,44.251452,-72.568104,44.251452",
+    "geom:latitude":44.251452,
+    "geom:longitude":-72.568104,
+    "iso:country":"US",
+    "sg:address":"91 Granite Shed Ln",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 0016",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13wIzgWM3JMakUT4KT45jd_44.251452_-72.568104@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311816,
+    "wof:geomhash":"514541fe60dd2cc18cffd85f08c7a61f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874101795
+        }
+    ],
+    "wof:id":874101795,
+    "wof:lastmodified":1464311816,
+    "wof:name":"Lamberton Electric",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.568104,
+    44.251452,
+    -72.568104,
+    44.251452
+],
+  "geometry": {"coordinates":[-72.56810400000001,44.251452],"type":"Point"}
+}

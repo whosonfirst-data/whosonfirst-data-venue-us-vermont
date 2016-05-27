@@ -1,0 +1,71 @@
+{
+  "id": 874098159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.108233,44.493534,-73.108233,44.493534",
+    "geom:latitude":44.493534,
+    "geom:longitude":-73.108233,
+    "iso:country":"US",
+    "sg:address":"49 Grove St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 3285",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59isy1GDChV3jlh0o0VzL9_44.493534_-73.108233@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311758,
+    "wof:geomhash":"58c1042e3a57cd724315dd156f80c0e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874098159
+        }
+    ],
+    "wof:id":874098159,
+    "wof:lastmodified":1464311758,
+    "wof:name":"John Dahl Trucking",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.108233,
+    44.493534,
+    -73.108233,
+    44.493534
+],
+  "geometry": {"coordinates":[-73.108233,44.493534],"type":"Point"}
+}

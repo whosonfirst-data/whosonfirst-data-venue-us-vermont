@@ -1,0 +1,73 @@
+{
+  "id": 874155639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.540991,44.113768,-72.540991,44.113768",
+    "geom:latitude":44.113768,
+    "geom:longitude":-72.540991,
+    "iso:country":"US",
+    "sg:address":"154 Industry St",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 1554",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fire",
+        "department",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x7zprNhn7PEXdUJ7I6GvV_44.113768_-72.540991@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312384,
+    "wof:geomhash":"61b32a9c0c53f37a6e17f18d8fcfbc5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874155639
+        }
+    ],
+    "wof:id":874155639,
+    "wof:lastmodified":1464312384,
+    "wof:name":"VTEC Vermont Fire Techs",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "department",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -72.540991,
+    44.113768,
+    -72.540991,
+    44.113768
+],
+  "geometry": {"coordinates":[-72.54099100000001,44.113768],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874226175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.047635,43.173963,-73.047635,43.173963",
+    "geom:latitude":43.173963,
+    "geom:longitude":-73.047635,
+    "iso:country":"US",
+    "sg:address":"69 Elm St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 3644",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TcUjrJzMUtU2G8MXqsx5K_43.173963_-73.047635@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313123,
+    "wof:geomhash":"055145132d5853c1de4bc71119e9278c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874226175
+        }
+    ],
+    "wof:id":874226175,
+    "wof:lastmodified":1464313123,
+    "wof:name":"American Hairlines",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -73.047635,
+    43.173963,
+    -73.047635,
+    43.173963
+],
+  "geometry": {"coordinates":[-73.047635,43.173963],"type":"Point"}
+}

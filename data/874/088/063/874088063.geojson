@@ -1,0 +1,69 @@
+{
+  "id": 874088063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.219047,44.154565,-73.219047,44.154565",
+    "geom:latitude":44.154565,
+    "geom:longitude":-73.219047,
+    "iso:country":"US",
+    "sg:address":"828 US Hwy 7",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3201",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eaxX5SayTS2dUPUmrIjdm_44.154565_-73.219047@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311642,
+    "wof:geomhash":"47c11ce69b8965d0a9e81460da587bd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874088063
+        }
+    ],
+    "wof:id":874088063,
+    "wof:lastmodified":1464311642,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.219047,
+    44.154565,
+    -73.219047,
+    44.154565
+],
+  "geometry": {"coordinates":[-73.219047,44.154565],"type":"Point"}
+}

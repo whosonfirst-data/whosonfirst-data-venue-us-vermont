@@ -1,0 +1,69 @@
+{
+  "id": 874053905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.515121,43.4556,-72.515121,43.4556",
+    "geom:latitude":43.4556,
+    "geom:longitude":-72.515121,
+    "iso:country":"US",
+    "sg:address":"3460 State Rte 44",
+    "sg:city":"Brownsville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 484 9731",
+    "sg:postcode":"05037",
+    "sg:province":"VT",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GkcFtVJErBcM3EzKvRHJp_43.455600_-72.515121@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311277,
+    "wof:geomhash":"9be0f5f25d80cbb1e2e295e6c1b6e4ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874053905
+        }
+    ],
+    "wof:id":874053905,
+    "wof:lastmodified":1464311277,
+    "wof:name":"Farnsworth Surveys",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -72.515121,
+    43.4556,
+    -72.515121,
+    43.4556
+],
+  "geometry": {"coordinates":[-72.51512099999999,43.4556],"type":"Point"}
+}

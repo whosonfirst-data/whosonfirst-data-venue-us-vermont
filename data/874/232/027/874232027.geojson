@@ -1,0 +1,71 @@
+{
+  "id": 874232027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211188,42.914351,-73.211188,42.914351",
+    "geom:latitude":42.914351,
+    "geom:longitude":-73.211188,
+    "iso:country":"US",
+    "sg:address":"509 Harwood Hill Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 0040",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2syMzYqYczoYg8RhiJm3Pl_42.914351_-73.211188@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313187,
+    "wof:geomhash":"4a0bb9ae727e310d961872c4620a7153",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874232027
+        }
+    ],
+    "wof:id":874232027,
+    "wof:lastmodified":1464313187,
+    "wof:name":"Petricca Industries Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.211188,
+    42.914351,
+    -73.211188,
+    42.914351
+],
+  "geometry": {"coordinates":[-73.21118800000001,42.914351],"type":"Point"}
+}

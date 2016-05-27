@@ -1,0 +1,71 @@
+{
+  "id": 874001289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.14368,44.545642,-73.14368,44.545642",
+    "geom:latitude":44.545642,
+    "geom:longitude":-73.14368,
+    "iso:country":"US",
+    "sg:address":"64 Depot Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 5621",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6twIf7iYIiu8FkS00IFJ0F_44.545642_-73.143680@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310769,
+    "wof:geomhash":"0cb0862f1659208171fc8aecfe6f7e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874001289
+        }
+    ],
+    "wof:id":874001289,
+    "wof:lastmodified":1464310769,
+    "wof:name":"Country Home Products Warehuse",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -73.14368,
+    44.545642,
+    -73.14368,
+    44.545642
+],
+  "geometry": {"coordinates":[-73.14368,44.545642],"type":"Point"}
+}

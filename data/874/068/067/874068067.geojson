@@ -1,0 +1,71 @@
+{
+  "id": 874068067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.616163,44.596993,-72.616163,44.596993",
+    "geom:latitude":44.596993,
+    "geom:longitude":-72.616163,
+    "iso:country":"US",
+    "sg:address":"214 Church St",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 2325",
+    "sg:postcode":"05655",
+    "sg:province":"VT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OD2v3rAIFD9OXWY2aljMy_44.596993_-72.616163@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311414,
+    "wof:geomhash":"d0ae0f5a4804bafdcb07db39e9752bfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874068067
+        }
+    ],
+    "wof:id":874068067,
+    "wof:lastmodified":1464311414,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -72.616163,
+    44.596993,
+    -72.616163,
+    44.596993
+],
+  "geometry": {"coordinates":[-72.616163,44.596993],"type":"Point"}
+}

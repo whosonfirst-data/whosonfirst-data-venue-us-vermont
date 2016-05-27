@@ -1,0 +1,73 @@
+{
+  "id": 874187331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.492145,44.193335,-72.492145,44.193335",
+    "geom:latitude":44.193335,
+    "geom:longitude":-72.492145,
+    "iso:country":"US",
+    "sg:address":"2 Charles St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9626",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hxKcqencKw6djyf0QSbkQ_44.193335_-72.492145@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312712,
+    "wof:geomhash":"d1ce7d6578057a09bc315e64964e5109",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874187331
+        }
+    ],
+    "wof:id":874187331,
+    "wof:lastmodified":1464312712,
+    "wof:name":"Sisters Of Mercy",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -72.492145,
+    44.193335,
+    -72.492145,
+    44.193335
+],
+  "geometry": {"coordinates":[-72.49214499999999,44.193335],"type":"Point"}
+}

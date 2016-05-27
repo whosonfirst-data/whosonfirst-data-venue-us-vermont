@@ -1,0 +1,71 @@
+{
+  "id": 874053111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.018935,44.432312,-73.018935,44.432312",
+    "geom:latitude":44.432312,
+    "geom:longitude":-73.018935,
+    "iso:country":"US",
+    "sg:address":"88 Rogers Ln",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 3500",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v6OqPPKovyiXnnrLUcfU6_44.432312_-73.018935@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311269,
+    "wof:geomhash":"5d7e91d571d0aff10324ece829ade39c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874053111
+        }
+    ],
+    "wof:id":874053111,
+    "wof:lastmodified":1464311269,
+    "wof:name":"B & H Excavating",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.018935,
+    44.432312,
+    -73.018935,
+    44.432312
+],
+  "geometry": {"coordinates":[-73.018935,44.432312],"type":"Point"}
+}

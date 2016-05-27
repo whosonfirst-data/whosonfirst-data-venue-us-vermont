@@ -1,0 +1,72 @@
+{
+  "id": 874020697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21775,44.403206,-73.21775,44.403206",
+    "geom:latitude":44.403206,
+    "geom:longitude":-73.21775,
+    "iso:country":"US",
+    "sg:address":"3640 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 2521",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.kenworthtrucks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fmmIZij4BU71sO5vTV3g2_44.403206_-73.217750@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310954,
+    "wof:geomhash":"6493dbb2c51cd33d38a269df38ecde01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874020697
+        }
+    ],
+    "wof:id":874020697,
+    "wof:lastmodified":1464310954,
+    "wof:name":"Green Mountain Kenworth Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -73.21775,
+    44.403206,
+    -73.21775,
+    44.403206
+],
+  "geometry": {"coordinates":[-73.21775,44.403206],"type":"Point"}
+}

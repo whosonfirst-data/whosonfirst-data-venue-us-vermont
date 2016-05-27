@@ -1,0 +1,71 @@
+{
+  "id": 874180123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.203744,44.601745,-73.203744,44.601745",
+    "geom:latitude":44.601745,
+    "geom:longitude":-73.203744,
+    "iso:country":"US",
+    "sg:address":"334 Roosevelt Hwy",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 5028",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85854373,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dCBWe7upSAiVKDJqzqVAi_44.601745_-73.203744@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312631,
+    "wof:geomhash":"13b5d16f3501157bb6af0742b57e5dba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85854373,
+            "region_id":85688763,
+            "venue_id":874180123
+        }
+    ],
+    "wof:id":874180123,
+    "wof:lastmodified":1464312631,
+    "wof:name":"Colchester Variety",
+    "wof:parent_id":85854373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -73.203744,
+    44.601745,
+    -73.203744,
+    44.601745
+],
+  "geometry": {"coordinates":[-73.203744,44.601745],"type":"Point"}
+}

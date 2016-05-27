@@ -1,0 +1,69 @@
+{
+  "id": 873993499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.592752,44.125821,-72.592752,44.125821",
+    "geom:latitude":44.125821,
+    "geom:longitude":-72.592752,
+    "iso:country":"US",
+    "sg:address":"475 Cold Spring Rd",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 1201",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0exbVa5CP8qy5itiLNR2ZE_44.125821_-72.592752@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310715,
+    "wof:geomhash":"1ceaa5afd5c67c83fddb859bca71c1ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":873993499
+        }
+    ],
+    "wof:id":873993499,
+    "wof:lastmodified":1464310715,
+    "wof:name":"Andi Mini Brick & Stone",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -72.592752,
+    44.125821,
+    -72.592752,
+    44.125821
+],
+  "geometry": {"coordinates":[-72.592752,44.125821],"type":"Point"}
+}

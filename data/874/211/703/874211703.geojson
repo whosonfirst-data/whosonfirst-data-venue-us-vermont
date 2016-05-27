@@ -1,0 +1,71 @@
+{
+  "id": 874211703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.022862,44.499598,-73.022862,44.499598",
+    "geom:latitude":44.499598,
+    "geom:longitude":-73.022862,
+    "iso:country":"US",
+    "sg:address":"8 Saxon Hill Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 3131",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76UT0XMRWRZDBGiXW8u8nb_44.499598_-73.022862@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312971,
+    "wof:geomhash":"0ca2c4246be944626bbff9820d8843d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874211703
+        }
+    ],
+    "wof:id":874211703,
+    "wof:lastmodified":1464312971,
+    "wof:name":"Ashline Auto",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.022862,
+    44.499598,
+    -73.022862,
+    44.499598
+],
+  "geometry": {"coordinates":[-73.022862,44.499598],"type":"Point"}
+}

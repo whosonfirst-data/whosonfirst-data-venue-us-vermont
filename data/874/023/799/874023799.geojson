@@ -1,0 +1,73 @@
+{
+  "id": 874023799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.017068,44.425765,-72.017068,44.425765",
+    "geom:latitude":44.425765,
+    "geom:longitude":-72.017068,
+    "iso:country":"US",
+    "sg:address":"154 Boynton Ave",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 751 8701",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "log",
+        "cabin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sTaoKLlt9CditwJvLoluc_44.425765_-72.017068@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310981,
+    "wof:geomhash":"8c955af286568eecf1fda69af5053cb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874023799
+        }
+    ],
+    "wof:id":874023799,
+    "wof:lastmodified":1464310981,
+    "wof:name":"Wilderness Cabins Of Vermont",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "log",
+        "cabin"
+    ]
+},
+  "bbox": [
+    -72.017068,
+    44.425765,
+    -72.017068,
+    44.425765
+],
+  "geometry": {"coordinates":[-72.01706799999999,44.425765],"type":"Point"}
+}

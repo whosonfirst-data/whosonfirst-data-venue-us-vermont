@@ -1,0 +1,77 @@
+{
+  "id": 874177683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.220188,44.485904,-73.220188,44.485904",
+    "geom:latitude":44.485904,
+    "geom:longitude":-73.220188,
+    "iso:country":"US",
+    "sg:address":"22 Pitkin St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 0687",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51MOy2G7VMrtL9q6LajscH_44.485904_-73.220188@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312602,
+    "wof:geomhash":"0d1b4a3f7d1227e17115c68ef3685ad0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874177683
+        }
+    ],
+    "wof:id":874177683,
+    "wof:lastmodified":1464312602,
+    "wof:name":"Paris Paints",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -73.220188,
+    44.485904,
+    -73.220188,
+    44.485904
+],
+  "geometry": {"coordinates":[-73.22018799999999,44.485904],"type":"Point"}
+}

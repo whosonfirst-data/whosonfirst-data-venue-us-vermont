@@ -1,0 +1,71 @@
+{
+  "id": 874153505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.445688,44.61898,-72.445688,44.61898",
+    "geom:latitude":44.61898,
+    "geom:longitude":-72.445688,
+    "iso:country":"US",
+    "sg:address":"5181 N Wolcott Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 2710",
+    "sg:postcode":"05680",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SJV9KTtrOEaFIevFpEnHO_44.618980_-72.445688@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312360,
+    "wof:geomhash":"5eba940219b70794d536c288ab74f986",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874153505
+        }
+    ],
+    "wof:id":874153505,
+    "wof:lastmodified":1464312360,
+    "wof:name":"Moodie's Used Cars & Parts",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.445688,
+    44.61898,
+    -72.445688,
+    44.61898
+],
+  "geometry": {"coordinates":[-72.445688,44.61898],"type":"Point"}
+}

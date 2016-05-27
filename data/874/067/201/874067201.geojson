@@ -1,0 +1,77 @@
+{
+  "id": 874067201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.160776,44.007027,-73.160776,44.007027",
+    "geom:latitude":44.007027,
+    "geom:longitude":-73.160776,
+    "iso:country":"US",
+    "sg:address":"91 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 6966",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Newecvykc7iqMYxfjsGgy_44.007027_-73.160776@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311399,
+    "wof:geomhash":"a6517c2abe290c2efe6d42a916747261",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874067201
+        }
+    ],
+    "wof:id":874067201,
+    "wof:lastmodified":1464311399,
+    "wof:name":"Boyle Engineering Corp",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.160776,
+    44.007027,
+    -73.160776,
+    44.007027
+],
+  "geometry": {"coordinates":[-73.160776,44.007027],"type":"Point"}
+}

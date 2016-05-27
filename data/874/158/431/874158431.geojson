@@ -1,0 +1,71 @@
+{
+  "id": 874158431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.559287,44.250496,-72.559287,44.250496",
+    "geom:latitude":44.250496,
+    "geom:longitude":-72.559287,
+    "iso:country":"US",
+    "sg:address":"2 Pioneer St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 5651",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "snowmobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jpN4NIkhkITg2o8vGh3ki_44.250496_-72.559287@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312417,
+    "wof:geomhash":"3f4c06834844df7782fcd26ceeae7dbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874158431
+        }
+    ],
+    "wof:id":874158431,
+    "wof:lastmodified":1464312417,
+    "wof:name":"Honda Unlimited",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snowmobile"
+    ]
+},
+  "bbox": [
+    -72.559287,
+    44.250496,
+    -72.559287,
+    44.250496
+],
+  "geometry": {"coordinates":[-72.559287,44.250496],"type":"Point"}
+}

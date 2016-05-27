@@ -1,0 +1,77 @@
+{
+  "id": 874202717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.168985,44.012934,-73.168985,44.012934",
+    "geom:latitude":44.012934,
+    "geom:longitude":-73.168985,
+    "iso:country":"US",
+    "sg:address":"1 Mill St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3177",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "p",
+        "educational",
+        "art",
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X0pKH1HTJaxSoJW0yxOsH_44.012934_-73.168985@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312872,
+    "wof:geomhash":"9d2c895c4f818c11d680fb6a4c896ba5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874202717
+        }
+    ],
+    "wof:id":874202717,
+    "wof:lastmodified":1464312872,
+    "wof:name":"Vermont State Craft Ctr",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "p",
+        "educational",
+        "art",
+        "gallery"
+    ]
+},
+  "bbox": [
+    -73.168985,
+    44.012934,
+    -73.168985,
+    44.012934
+],
+  "geometry": {"coordinates":[-73.16898500000001,44.012934],"type":"Point"}
+}

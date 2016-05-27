@@ -1,0 +1,85 @@
+{
+  "id": 874255629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.98288,43.607578,-72.98288,43.607578",
+    "geom:latitude":43.607578,
+    "geom:longitude":-72.98288,
+    "iso:country":"US",
+    "sg:address":"148 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 3360",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "brew",
+        "italian",
+        "pizza",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DHds4CUrKqdYdUYxZ1DTs_43.607578_-72.982880@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313688,
+    "wof:geomhash":"02e04f8eeb21d8a7f83633ed4de21146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255629
+        }
+    ],
+    "wof:id":874255629,
+    "wof:lastmodified":1464313688,
+    "wof:name":"Sal's Italian Rstrnt-Pizzeria",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "italian",
+        "pizza",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -72.98288,
+    43.607578,
+    -72.98288,
+    43.607578
+],
+  "geometry": {"coordinates":[-72.98287999999999,43.607578],"type":"Point"}
+}

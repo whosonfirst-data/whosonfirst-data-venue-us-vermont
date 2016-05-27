@@ -1,0 +1,77 @@
+{
+  "id": 874207025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169201,44.471176,-73.169201,44.471176",
+    "geom:latitude":44.471176,
+    "geom:longitude":-73.169201,
+    "iso:country":"US",
+    "sg:address":"30 Pine St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 8698",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "insulation",
+        "home",
+        "contractor",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F4xLyL3WEn0P2fcJrqhID_44.471176_-73.169201@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312920,
+    "wof:geomhash":"03633354ed36fd0f4ddf1851a8d16621",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874207025
+        }
+    ],
+    "wof:id":874207025,
+    "wof:lastmodified":1464312920,
+    "wof:name":"Energy Alternatives Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "home",
+        "contractor",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -73.169201,
+    44.471176,
+    -73.169201,
+    44.471176
+],
+  "geometry": {"coordinates":[-73.169201,44.471176],"type":"Point"}
+}

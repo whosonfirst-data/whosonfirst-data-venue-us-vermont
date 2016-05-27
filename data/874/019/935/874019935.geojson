@@ -1,0 +1,69 @@
+{
+  "id": 874019935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.250023,44.169381,-73.250023,44.169381",
+    "geom:latitude":44.169381,
+    "geom:longitude":-73.250023,
+    "iso:country":"US",
+    "sg:address":"51 Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 2722",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A3xHG9C8XKZW1q9YfP44y_44.169381_-73.250023@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310947,
+    "wof:geomhash":"b4ab06f5687fb898d4451152af4aab70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874019935
+        }
+    ],
+    "wof:id":874019935,
+    "wof:lastmodified":1464310947,
+    "wof:name":"Picture Perfect Landscaping",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -73.250023,
+    44.169381,
+    -73.250023,
+    44.169381
+],
+  "geometry": {"coordinates":[-73.250023,44.169381],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874061333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.256614,44.21311,-72.256614,44.21311",
+    "geom:latitude":44.21311,
+    "geom:longitude":-72.256614,
+    "iso:country":"US",
+    "sg:address":"1013 Scott Hwy",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 584 3138",
+    "sg:postcode":"05046",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844467,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ofNnCJyVmY71Wagw695ux_44.213110_-72.256614@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311347,
+    "wof:geomhash":"0c221334a3aa9e79bd81d446437e2877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85844467,
+            "region_id":85688763,
+            "venue_id":874061333
+        }
+    ],
+    "wof:id":874061333,
+    "wof:lastmodified":1464311347,
+    "wof:name":"Beck Electric",
+    "wof:parent_id":85844467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.256614,
+    44.21311,
+    -72.256614,
+    44.21311
+],
+  "geometry": {"coordinates":[-72.256614,44.21311],"type":"Point"}
+}

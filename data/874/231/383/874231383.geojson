@@ -1,0 +1,71 @@
+{
+  "id": 874231383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.973908,43.601368,-72.973908,43.601368",
+    "geom:latitude":43.601368,
+    "geom:longitude":-72.973908,
+    "iso:country":"US",
+    "sg:address":"124 Strongs Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3077",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rHxorqmcFwvFYCQM0mM9L_43.601368_-72.973908@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313179,
+    "wof:geomhash":"9c4c81befff9fae56bb08391076b1a4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874231383
+        }
+    ],
+    "wof:id":874231383,
+    "wof:lastmodified":1464313179,
+    "wof:name":"Rutland TV Svc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -72.973908,
+    43.601368,
+    -72.973908,
+    43.601368
+],
+  "geometry": {"coordinates":[-72.97390799999999,43.601368],"type":"Point"}
+}

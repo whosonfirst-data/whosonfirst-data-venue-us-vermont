@@ -1,0 +1,67 @@
+{
+  "id": 874113761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167545,44.014791,-73.167545,44.014791",
+    "geom:latitude":44.014791,
+    "geom:longitude":-73.167545,
+    "iso:country":"US",
+    "sg:address":"30 Main St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4982",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:website":"www.nationalbankmiddlebury.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hPk38O5rRye0apXi8z2g2_44.014791_-73.167545@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311974,
+    "wof:geomhash":"2864d4d95a685a09322f938f2d68cf8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874113761
+        }
+    ],
+    "wof:id":874113761,
+    "wof:lastmodified":1464311974,
+    "wof:name":"National Bank Of Middlebury",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.167545,
+    44.014791,
+    -73.167545,
+    44.014791
+],
+  "geometry": {"coordinates":[-73.167545,44.014791],"type":"Point"}
+}

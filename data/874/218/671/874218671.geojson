@@ -1,0 +1,73 @@
+{
+  "id": 874218671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.092837,43.800081,-73.092837,43.800081",
+    "geom:latitude":43.800081,
+    "geom:longitude":-73.092837,
+    "iso:country":"US",
+    "sg:address":"9 Conant Sq",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 5586",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16SsaRvwNQi2yrl0yhfj3j_43.800081_-73.092837@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313038,
+    "wof:geomhash":"75111837e29f02d68c51231ce837f252",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874218671
+        }
+    ],
+    "wof:id":874218671,
+    "wof:lastmodified":1464313038,
+    "wof:name":"Brandon Mobile",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -73.092837,
+    43.800081,
+    -73.092837,
+    43.800081
+],
+  "geometry": {"coordinates":[-73.092837,43.800081],"type":"Point"}
+}

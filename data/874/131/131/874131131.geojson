@@ -1,0 +1,71 @@
+{
+  "id": 874131131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.637607,44.565354,-72.637607,44.565354",
+    "geom:latitude":44.565354,
+    "geom:longitude":-72.637607,
+    "iso:country":"US",
+    "sg:address":"972 Cote Hill Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 3094",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IbxZWgGhXALI6NhQHgERy_44.565354_-72.637607@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312151,
+    "wof:geomhash":"e72df7f0c00ae1903580e9b38199ab91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874131131
+        }
+    ],
+    "wof:id":874131131,
+    "wof:lastmodified":1464312151,
+    "wof:name":"Mansfield Landscaping",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.637607,
+    44.565354,
+    -72.637607,
+    44.565354
+],
+  "geometry": {"coordinates":[-72.637607,44.565354],"type":"Point"}
+}

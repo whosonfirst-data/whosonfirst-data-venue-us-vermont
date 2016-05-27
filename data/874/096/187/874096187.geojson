@@ -1,0 +1,71 @@
+{
+  "id": 874096187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.958955,43.594429,-72.958955,43.594429",
+    "geom:latitude":43.594429,
+    "geom:longitude":-72.958955,
+    "iso:country":"US",
+    "sg:address":"9 Haywood Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 6435",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51kYTycTr6bnSG7bnhGZHw_43.594429_-72.958955@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311731,
+    "wof:geomhash":"1f65dc3fc94225201075ada6d9f32688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874096187
+        }
+    ],
+    "wof:id":874096187,
+    "wof:lastmodified":1464311731,
+    "wof:name":"Eckerd",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -72.958955,
+    43.594429,
+    -72.958955,
+    43.594429
+],
+  "geometry": {"coordinates":[-72.958955,43.594429],"type":"Point"}
+}

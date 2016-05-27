@@ -1,0 +1,71 @@
+{
+  "id": 874097823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.120609,44.452916,-73.120609,44.452916",
+    "geom:latitude":44.452916,
+    "geom:longitude":-73.120609,
+    "iso:country":"US",
+    "sg:address":"378 Commerce St",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 8251",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64I9danvxiAoXh4sWxFnPi_44.452916_-73.120609@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311754,
+    "wof:geomhash":"d4921f0034e609a8d2a3fbb9fa1ac722",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874097823
+        }
+    ],
+    "wof:id":874097823,
+    "wof:lastmodified":1464311754,
+    "wof:name":"Omega Automotive Svc",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.120609,
+    44.452916,
+    -73.120609,
+    44.452916
+],
+  "geometry": {"coordinates":[-73.120609,44.452916],"type":"Point"}
+}

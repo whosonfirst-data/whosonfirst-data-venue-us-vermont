@@ -1,0 +1,71 @@
+{
+  "id": 874241615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.972677,43.493025,-72.972677,43.493025",
+    "geom:latitude":43.493025,
+    "geom:longitude":-72.972677,
+    "iso:country":"US",
+    "sg:address":"723 State Rte 7b",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 2650",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ba8UQ2q9AW6yg6wkcAfq1_43.493025_-72.972677@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313370,
+    "wof:geomhash":"ad8b3c2eccf22a15dd7159356213381e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874241615
+        }
+    ],
+    "wof:id":874241615,
+    "wof:lastmodified":1464313370,
+    "wof:name":"Shaw's Sales & Svc",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.972677,
+    43.493025,
+    -72.972677,
+    43.493025
+],
+  "geometry": {"coordinates":[-72.972677,43.493025],"type":"Point"}
+}

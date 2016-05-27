@@ -1,0 +1,69 @@
+{
+  "id": 874064517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.016525,44.428147,-72.016525,44.428147",
+    "geom:latitude":44.428147,
+    "geom:longitude":-72.016525,
+    "iso:country":"US",
+    "sg:address":"1216 Railroad St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 6772",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dvzaZhwBjZBvwgUSECTPS_44.428147_-72.016525@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311375,
+    "wof:geomhash":"99a4e11622d2eea338f0c92b35e8839a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874064517
+        }
+    ],
+    "wof:id":874064517,
+    "wof:lastmodified":1464311375,
+    "wof:name":"Cucina Di Gerardo",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.016525,
+    44.428147,
+    -72.016525,
+    44.428147
+],
+  "geometry": {"coordinates":[-72.016525,44.428147],"type":"Point"}
+}

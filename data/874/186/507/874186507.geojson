@@ -1,0 +1,73 @@
+{
+  "id": 874186507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.496423,44.199462,-72.496423,44.199462",
+    "geom:latitude":44.199462,
+    "geom:longitude":-72.496423,
+    "iso:country":"US",
+    "sg:address":"101 Tremont St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1364",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EjiRiHAC7I04HsuxWAFbO_44.199462_-72.496423@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312705,
+    "wof:geomhash":"58dceb3b2e6dff08854b77a8fe3cbfb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874186507
+        }
+    ],
+    "wof:id":874186507,
+    "wof:lastmodified":1464312705,
+    "wof:name":"Interstate Properties Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -72.496423,
+    44.199462,
+    -72.496423,
+    44.199462
+],
+  "geometry": {"coordinates":[-72.49642299999999,44.199462],"type":"Point"}
+}

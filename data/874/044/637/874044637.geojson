@@ -1,0 +1,73 @@
+{
+  "id": 874044637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.113891,44.01135,-73.113891,44.01135",
+    "geom:latitude":44.01135,
+    "geom:longitude":-73.113891,
+    "iso:country":"US",
+    "sg:address":"646 S Munger St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7828",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2goZNq7iZSVsHxjHAb6pFB_44.011350_-73.113891@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311190,
+    "wof:geomhash":"fe210c790a6e862e2f478c5fa9276d2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874044637
+        }
+    ],
+    "wof:id":874044637,
+    "wof:lastmodified":1464311190,
+    "wof:name":"Quinn Farms",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -73.113891,
+    44.01135,
+    -73.113891,
+    44.01135
+],
+  "geometry": {"coordinates":[-73.113891,44.01135],"type":"Point"}
+}

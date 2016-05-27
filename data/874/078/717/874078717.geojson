@@ -1,0 +1,71 @@
+{
+  "id": 874078717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.133761,44.511818,-73.133761,44.511818",
+    "geom:latitude":44.511818,
+    "geom:longitude":-73.133761,
+    "iso:country":"US",
+    "sg:address":"5 Gauthier Dr",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 4020",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tC7W9Yigbs6nJ0VUMiORj_44.511818_-73.133761@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311540,
+    "wof:geomhash":"577fae0e72ed18c9166a2c33538d6c0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874078717
+        }
+    ],
+    "wof:id":874078717,
+    "wof:lastmodified":1464311540,
+    "wof:name":"Gauthier Trucking Co",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.133761,
+    44.511818,
+    -73.133761,
+    44.511818
+],
+  "geometry": {"coordinates":[-73.13376100000001,44.511818],"type":"Point"}
+}

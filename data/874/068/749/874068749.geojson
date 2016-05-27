@@ -1,0 +1,73 @@
+{
+  "id": 874068749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.174029,44.008068,-73.174029,44.008068",
+    "geom:latitude":44.008068,
+    "geom:longitude":-73.174029,
+    "iso:country":"US",
+    "sg:address":"139 S Main St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 9473",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qfn6SpR2nfFvaoZPowbf3_44.008068_-73.174029@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311421,
+    "wof:geomhash":"ef608ed15f9b981801d49e03b81c448b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874068749
+        }
+    ],
+    "wof:id":874068749,
+    "wof:lastmodified":1464311421,
+    "wof:name":"Middlebury College",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -73.174029,
+    44.008068,
+    -73.174029,
+    44.008068
+],
+  "geometry": {"coordinates":[-73.174029,44.008068],"type":"Point"}
+}

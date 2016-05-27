@@ -1,0 +1,73 @@
+{
+  "id": 874043437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.509373,44.195849,-72.509373,44.195849",
+    "geom:latitude":44.195849,
+    "geom:longitude":-72.509373,
+    "iso:country":"US",
+    "sg:address":"23 Garfield Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5283",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yuDOF96pBNslORBPfesbI_44.195849_-72.509373@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311180,
+    "wof:geomhash":"f58e6a3ab163b7a512c0148a660db379",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874043437
+        }
+    ],
+    "wof:id":874043437,
+    "wof:lastmodified":1464311180,
+    "wof:name":"Horizon Properties",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.509373,
+    44.195849,
+    -72.509373,
+    44.195849
+],
+  "geometry": {"coordinates":[-72.509373,44.195849],"type":"Point"}
+}

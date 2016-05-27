@@ -1,0 +1,71 @@
+{
+  "id": 874253743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.226645,44.286745,-73.226645,44.286745",
+    "geom:latitude":44.286745,
+    "geom:longitude":-73.226645,
+    "iso:country":"US",
+    "sg:address":"43 Upper Old Town Trl",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 4567",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "information",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85811695,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OhtlKAkcL82GuCrs8oqZT_44.286745_-73.226645@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313640,
+    "wof:geomhash":"6c390f39e7db99f509b6bbeeda224814",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85811695,
+            "region_id":85688763,
+            "venue_id":874253743
+        }
+    ],
+    "wof:id":874253743,
+    "wof:lastmodified":1464313640,
+    "wof:name":"All Home Service Inc",
+    "wof:parent_id":85811695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -73.226645,
+    44.286745,
+    -73.226645,
+    44.286745
+],
+  "geometry": {"coordinates":[-73.226645,44.286745],"type":"Point"}
+}

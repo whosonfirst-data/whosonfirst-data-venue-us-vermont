@@ -1,0 +1,77 @@
+{
+  "id": 874150903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.158441,44.472248,-73.158441,44.472248",
+    "geom:latitude":44.472248,
+    "geom:longitude":-73.158441,
+    "iso:country":"US",
+    "sg:address":"481 White St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 2423",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102532853,
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OiSPizrP9Yg8NwBqgiCGf_44.472248_-73.158441@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312336,
+    "wof:geomhash":"c7254af59a59dba61e3c1f7a33ef7af6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532853,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874150903
+        }
+    ],
+    "wof:id":874150903,
+    "wof:lastmodified":1464312336,
+    "wof:name":"Airport Park & Shuttle",
+    "wof:parent_id":102532853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -73.158441,
+    44.472248,
+    -73.158441,
+    44.472248
+],
+  "geometry": {"coordinates":[-73.158441,44.472248],"type":"Point"}
+}

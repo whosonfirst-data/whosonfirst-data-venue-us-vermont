@@ -1,0 +1,69 @@
+{
+  "id": 874164065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.101567,44.298392,-73.101567,44.298392",
+    "geom:latitude":44.298392,
+    "geom:longitude":-73.101567,
+    "iso:country":"US",
+    "sg:address":"293 Mead Farm Rd",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 2806",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849747,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SGZplrlp1stWZfWt43S5G_44.298392_-73.101567@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312469,
+    "wof:geomhash":"9301cd0f03e058ec9db69aa2475b2a85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85849747,
+            "region_id":85688763,
+            "venue_id":874164065
+        }
+    ],
+    "wof:id":874164065,
+    "wof:lastmodified":1464312469,
+    "wof:name":"Henry M Tufo MD",
+    "wof:parent_id":85849747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.101567,
+    44.298392,
+    -73.101567,
+    44.298392
+],
+  "geometry": {"coordinates":[-73.101567,44.298392],"type":"Point"}
+}

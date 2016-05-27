@@ -1,0 +1,71 @@
+{
+  "id": 874253797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.248389,44.314732,-73.248389,44.314732",
+    "geom:latitude":44.314732,
+    "geom:longitude":-73.248389,
+    "iso:country":"US",
+    "sg:address":"3049 Ethan Allen Hwy",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 4296",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kziTZioWlPCFWnQfePE5V_44.314732_-73.248389@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313641,
+    "wof:geomhash":"b8080b6cd453d9582b19ac61d4fdae4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874253797
+        }
+    ],
+    "wof:id":874253797,
+    "wof:lastmodified":1464313641,
+    "wof:name":"J Kastner Construct",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -73.248389,
+    44.314732,
+    -73.248389,
+    44.314732
+],
+  "geometry": {"coordinates":[-73.248389,44.314732],"type":"Point"}
+}

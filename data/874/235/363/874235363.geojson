@@ -1,0 +1,71 @@
+{
+  "id": 874235363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208855,44.473319,-73.208855,44.473319",
+    "geom:latitude":44.473319,
+    "geom:longitude":-73.208855,
+    "iso:country":"US",
+    "sg:address":"257 S Union St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 4988",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Tpjv5pTJjL508RJkTMrur_44.473319_-73.208855@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313248,
+    "wof:geomhash":"a7bf48ab0fe515c7dd52363df66fae03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874235363
+        }
+    ],
+    "wof:id":874235363,
+    "wof:lastmodified":1464313248,
+    "wof:name":"Arthritis Foundation",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -73.208855,
+    44.473319,
+    -73.208855,
+    44.473319
+],
+  "geometry": {"coordinates":[-73.208855,44.473319],"type":"Point"}
+}

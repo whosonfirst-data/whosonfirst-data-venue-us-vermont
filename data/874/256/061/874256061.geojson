@@ -1,0 +1,83 @@
+{
+  "id": 874256061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977734,43.607653,-72.977734,43.607653",
+    "geom:latitude":43.607653,
+    "geom:longitude":-72.977734,
+    "iso:country":"US",
+    "sg:address":"12 Wales St Ste 3",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 779 9006",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "brew",
+        "grill",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dX2L02VBUq7CB6I9kc5iS_43.607653_-72.977734@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313698,
+    "wof:geomhash":"519647c9d660176df9e945b152dd5249",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874256061
+        }
+    ],
+    "wof:id":874256061,
+    "wof:lastmodified":1464313698,
+    "wof:name":"Pub 42",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "grill",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -72.977734,
+    43.607653,
+    -72.977734,
+    43.607653
+],
+  "geometry": {"coordinates":[-72.977734,43.607653],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874115731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50187,44.197792,-72.50187,44.197792",
+    "geom:latitude":44.197792,
+    "geom:longitude":-72.50187,
+    "iso:country":"US",
+    "sg:address":"107 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3613",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61y8HyHtf0JwSfUjZ78ZRz_44.197792_-72.501870@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311994,
+    "wof:geomhash":"c1287884fbd89648c17add7577b6df90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874115731
+        }
+    ],
+    "wof:id":874115731,
+    "wof:lastmodified":1464311994,
+    "wof:name":"Smith Barney",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -72.50187,
+    44.197792,
+    -72.50187,
+    44.197792
+],
+  "geometry": {"coordinates":[-72.50187,44.197792],"type":"Point"}
+}

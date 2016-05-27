@@ -1,0 +1,75 @@
+{
+  "id": 874251775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.150049,43.072869,-73.150049,43.072869",
+    "geom:latitude":43.072869,
+    "geom:longitude":-73.150049,
+    "iso:country":"US",
+    "sg:address":"103 Munn Ter",
+    "sg:city":"Arlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 1655",
+    "sg:postcode":"05250",
+    "sg:province":"VT",
+    "sg:tags":[
+        "government-state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420545823,
+        102191575,
+        404527215,
+        85633793,
+        101728407,
+        102087439,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PLglVuQTVDQILyB9MRzlL_43.072869_-73.150049@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313601,
+    "wof:geomhash":"b0f231793dc9900c3bccef155d3ebddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087439,
+            "localadmin_id":404527215,
+            "locality_id":101728407,
+            "neighbourhood_id":420545823,
+            "region_id":85688763,
+            "venue_id":874251775
+        }
+    ],
+    "wof:id":874251775,
+    "wof:lastmodified":1464313601,
+    "wof:name":"State of Vermont Parks",
+    "wof:parent_id":420545823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state"
+    ]
+},
+  "bbox": [
+    -73.150049,
+    43.072869,
+    -73.150049,
+    43.072869
+],
+  "geometry": {"coordinates":[-73.150049,43.072869],"type":"Point"}
+}

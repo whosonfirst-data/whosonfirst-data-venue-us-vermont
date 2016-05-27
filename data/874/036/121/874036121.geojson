@@ -1,0 +1,71 @@
+{
+  "id": 874036121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.654114,44.855352,-72.654114,44.855352",
+    "geom:latitude":44.855352,
+    "geom:longitude":-72.654114,
+    "iso:country":"US",
+    "sg:address":"3539 W Hill Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 326 4536",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fnyEEZEUtbGa9N8vkgwIj_44.855352_-72.654114@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311105,
+    "wof:geomhash":"732841e54c8467b1bd9e9c0daf119187",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874036121
+        }
+    ],
+    "wof:id":874036121,
+    "wof:lastmodified":1464311105,
+    "wof:name":"M R V Rental",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.654114,
+    44.855352,
+    -72.654114,
+    44.855352
+],
+  "geometry": {"coordinates":[-72.65411400000001,44.855352],"type":"Point"}
+}

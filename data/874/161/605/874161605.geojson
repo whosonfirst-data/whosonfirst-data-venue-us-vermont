@@ -1,0 +1,71 @@
+{
+  "id": 874161605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.256785,44.290253,-73.256785,44.290253",
+    "geom:latitude":44.290253,
+    "geom:longitude":-73.256785,
+    "iso:country":"US",
+    "sg:address":"4307 Greenbush Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 3035",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85811695,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ejEv1m0gdBa0aIuBQCoYk_44.290253_-73.256785@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312447,
+    "wof:geomhash":"8af7a12e324e9fcc7a56eb8e5a0bfa06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85811695,
+            "region_id":85688763,
+            "venue_id":874161605
+        }
+    ],
+    "wof:id":874161605,
+    "wof:lastmodified":1464312447,
+    "wof:name":"D O Cole Trucking",
+    "wof:parent_id":85811695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.256785,
+    44.290253,
+    -73.256785,
+    44.290253
+],
+  "geometry": {"coordinates":[-73.25678499999999,44.290253],"type":"Point"}
+}

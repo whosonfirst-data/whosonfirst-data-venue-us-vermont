@@ -1,0 +1,71 @@
+{
+  "id": 874236283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.157656,44.54733,-73.157656,44.54733",
+    "geom:latitude":44.54733,
+    "geom:longitude":-73.157656,
+    "iso:country":"US",
+    "sg:address":"428 Main St",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 4337",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57kQsfklJShIE2v9uEFnLc_44.547330_-73.157656@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313268,
+    "wof:geomhash":"08265044ecacdbb7842bfdcc1b467bb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874236283
+        }
+    ],
+    "wof:id":874236283,
+    "wof:lastmodified":1464313268,
+    "wof:name":"Water Dept-Fire District",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -73.157656,
+    44.54733,
+    -73.157656,
+    44.54733
+],
+  "geometry": {"coordinates":[-73.157656,44.54733],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874207993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.798096,43.66178,-72.798096,43.66178",
+    "geom:latitude":43.66178,
+    "geom:longitude":-72.798096,
+    "iso:country":"US",
+    "sg:address":"505 Killington Rd",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 6655",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848249,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AWWhol9LwasMuKXnuKP21_43.661780_-72.798096@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312929,
+    "wof:geomhash":"e0388ee1664a9e95b3cd328851e0de7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":874207993
+        }
+    ],
+    "wof:id":874207993,
+    "wof:lastmodified":1464312929,
+    "wof:name":"Eastern Mountain Mortgage Co",
+    "wof:parent_id":85848249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -72.798096,
+    43.66178,
+    -72.798096,
+    43.66178
+],
+  "geometry": {"coordinates":[-72.798096,43.66178],"type":"Point"}
+}

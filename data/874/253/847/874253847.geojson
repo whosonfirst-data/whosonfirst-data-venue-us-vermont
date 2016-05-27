@@ -1,0 +1,70 @@
+{
+  "id": 874253847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.187157,44.343531,-73.187157,44.343531",
+    "geom:latitude":44.343531,
+    "geom:longitude":-73.187157,
+    "iso:country":"US",
+    "sg:address":"248 Plouffe Ln",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 5454",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.bevet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26BBubTLFZ0qN28EGJWCPh_44.343531_-73.187157@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313642,
+    "wof:geomhash":"589326aea6404310d30f25d56f892893",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874253847
+        }
+    ],
+    "wof:id":874253847,
+    "wof:lastmodified":1464313642,
+    "wof:name":"Burlington Equine Veterinary Services Llc",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -73.187157,
+    44.343531,
+    -73.187157,
+    44.343531
+],
+  "geometry": {"coordinates":[-73.187157,44.343531],"type":"Point"}
+}

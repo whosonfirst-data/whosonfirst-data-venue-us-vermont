@@ -1,0 +1,73 @@
+{
+  "id": 874038863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.980537,43.607986,-72.980537,43.607986",
+    "geom:latitude":43.607986,
+    "geom:longitude":-72.980537,
+    "iso:country":"US",
+    "sg:address":"116 Merchants Row",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 1212",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg",
+        "optical",
+        "ophthalmic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74lrTBBDbLcKzSpQy9vudM_43.607986_-72.980537@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311133,
+    "wof:geomhash":"45d7a9b85f73556d96e2833298a471da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874038863
+        }
+    ],
+    "wof:id":874038863,
+    "wof:lastmodified":1464311133,
+    "wof:name":"Vermont Optical Corp",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "optical",
+        "ophthalmic"
+    ]
+},
+  "bbox": [
+    -72.980537,
+    43.607986,
+    -72.980537,
+    43.607986
+],
+  "geometry": {"coordinates":[-72.980537,43.607986],"type":"Point"}
+}

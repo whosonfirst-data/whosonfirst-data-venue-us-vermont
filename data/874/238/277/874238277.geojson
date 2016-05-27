@@ -1,0 +1,71 @@
+{
+  "id": 874238277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.502639,44.200376,-72.502639,44.200376",
+    "geom:latitude":44.200376,
+    "geom:longitude":-72.502639,
+    "iso:country":"US",
+    "sg:address":"61 Summer St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6671",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kZh2rF0aAxXxOnRb7pul3_44.200376_-72.502639@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313307,
+    "wof:geomhash":"8897191701762b5e8a59f9538e5b1a47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874238277
+        }
+    ],
+    "wof:id":874238277,
+    "wof:lastmodified":1464313307,
+    "wof:name":"Monte & Monte",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -72.502639,
+    44.200376,
+    -72.502639,
+    44.200376
+],
+  "geometry": {"coordinates":[-72.502639,44.200376],"type":"Point"}
+}

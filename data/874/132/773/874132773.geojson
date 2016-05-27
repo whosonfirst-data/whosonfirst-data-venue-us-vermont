@@ -1,0 +1,71 @@
+{
+  "id": 874132773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215173,44.480438,-73.215173,44.480438",
+    "geom:latitude":44.480438,
+    "geom:longitude":-73.215173,
+    "iso:country":"US",
+    "sg:address":"80 Pearl St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 2948",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zRfknnab2aPWz5MtRCzJJ_44.480438_-73.215173@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312170,
+    "wof:geomhash":"65f4f4e9d5f1eeb666d9bc33a11dc5fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874132773
+        }
+    ],
+    "wof:id":874132773,
+    "wof:lastmodified":1464312170,
+    "wof:name":"Haircuts For Less",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.215173,
+    44.480438,
+    -73.215173,
+    44.480438
+],
+  "geometry": {"coordinates":[-73.21517299999999,44.480438],"type":"Point"}
+}

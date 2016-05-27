@@ -1,0 +1,73 @@
+{
+  "id": 874077893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.500082,44.206696,-72.500082,44.206696",
+    "geom:latitude":44.206696,
+    "geom:longitude":-72.500082,
+    "iso:country":"US",
+    "sg:address":"196 Merchant St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6116",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HZc0Ay0UWY7CyuXMBROmG_44.206696_-72.500082@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311527,
+    "wof:geomhash":"f15d9dcf03dd79ba5874308164af3d3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874077893
+        }
+    ],
+    "wof:id":874077893,
+    "wof:lastmodified":1464311527,
+    "wof:name":"Vermont Fire Extinguisher",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    -72.500082,
+    44.206696,
+    -72.500082,
+    44.206696
+],
+  "geometry": {"coordinates":[-72.50008200000001,44.206696],"type":"Point"}
+}

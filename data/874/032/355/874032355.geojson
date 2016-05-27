@@ -1,0 +1,71 @@
+{
+  "id": 874032355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.207431,44.451398,-73.207431,44.451398",
+    "geom:latitude":44.451398,
+    "geom:longitude":-73.207431,
+    "iso:country":"US",
+    "sg:address":"25 Bacon St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 5958",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wK75YQq4lKrGBfdgSFmt6_44.451398_-73.207431@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311069,
+    "wof:geomhash":"1e9c1db93431dc3145cebb363f691233",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874032355
+        }
+    ],
+    "wof:id":874032355,
+    "wof:lastmodified":1464311069,
+    "wof:name":"Seaway Carwash",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -73.207431,
+    44.451398,
+    -73.207431,
+    44.451398
+],
+  "geometry": {"coordinates":[-73.207431,44.451398],"type":"Point"}
+}

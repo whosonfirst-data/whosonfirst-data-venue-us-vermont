@@ -1,0 +1,69 @@
+{
+  "id": 874013055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.27911,44.159693,-73.27911,44.159693",
+    "geom:latitude":44.159693,
+    "geom:longitude":-73.27911,
+    "iso:country":"US",
+    "sg:address":"1072 Panton Rd",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 475 2264",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FY8IhyCNlPQRcS8HGnzfY_44.159693_-73.279110@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310877,
+    "wof:geomhash":"524c9f7c0067259057e70bfdedf29142",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874013055
+        }
+    ],
+    "wof:id":874013055,
+    "wof:lastmodified":1464310877,
+    "wof:name":"Whispering Pines Campground",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -73.27911,
+    44.159693,
+    -73.27911,
+    44.159693
+],
+  "geometry": {"coordinates":[-73.27911,44.159693],"type":"Point"}
+}

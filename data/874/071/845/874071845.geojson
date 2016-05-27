@@ -1,0 +1,70 @@
+{
+  "id": 874071845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.184044,44.502006,-73.184044,44.502006",
+    "geom:latitude":44.502006,
+    "geom:longitude":-73.184044,
+    "iso:country":"US",
+    "sg:address":"450 Weaver St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 2550",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "capacitor"
+    ],
+    "sg:website":"www.yorkcapacitor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sE5J7YLBjbj4TV6cgqgbk_44.502006_-73.184044@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311458,
+    "wof:geomhash":"5ab73c957e788cb881a1cbb190535749",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874071845
+        }
+    ],
+    "wof:id":874071845,
+    "wof:lastmodified":1464311458,
+    "wof:name":"York Capacitor Corp",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "capacitor"
+    ]
+},
+  "bbox": [
+    -73.184044,
+    44.502006,
+    -73.184044,
+    44.502006
+],
+  "geometry": {"coordinates":[-73.184044,44.502006],"type":"Point"}
+}

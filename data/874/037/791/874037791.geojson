@@ -1,0 +1,71 @@
+{
+  "id": 874037791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.100925,43.972636,-73.100925,43.972636",
+    "geom:latitude":43.972636,
+    "geom:longitude":-73.100925,
+    "iso:country":"US",
+    "sg:address":"2 Maple Ct",
+    "sg:city":"East Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 5411",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23WQPUO93TsAvgxtECewot_43.972636_-73.100925@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311124,
+    "wof:geomhash":"b2771b7178845bba184f1a0abd2f4ad9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874037791
+        }
+    ],
+    "wof:id":874037791,
+    "wof:lastmodified":1464311124,
+    "wof:name":"Old Grange Properties",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.100925,
+    43.972636,
+    -73.100925,
+    43.972636
+],
+  "geometry": {"coordinates":[-73.100925,43.972636],"type":"Point"}
+}

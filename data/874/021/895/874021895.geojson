@@ -1,0 +1,77 @@
+{
+  "id": 874021895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.081954,44.136237,-73.081954,44.136237",
+    "geom:latitude":44.136237,
+    "geom:longitude":-73.081954,
+    "iso:country":"US",
+    "sg:address":"27 Pleasant St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5229",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "general",
+        "commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gaprKszX0nzsrthaexZp1_44.136237_-73.081954@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310964,
+    "wof:geomhash":"9d02453ea9392eec9ef3fdcef7ddc263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874021895
+        }
+    ],
+    "wof:id":874021895,
+    "wof:lastmodified":1464310964,
+    "wof:name":"Home Tech Enterprises Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "general",
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.081954,
+    44.136237,
+    -73.081954,
+    44.136237
+],
+  "geometry": {"coordinates":[-73.081954,44.136237],"type":"Point"}
+}

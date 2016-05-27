@@ -1,0 +1,73 @@
+{
+  "id": 874157453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.165498,44.014382,-73.165498,44.014382",
+    "geom:latitude":44.014382,
+    "geom:longitude":-73.165498,
+    "iso:country":"US",
+    "sg:address":"2 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7189",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w04T2k3DyUTza4yo5s5M8_44.014382_-73.165498@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312403,
+    "wof:geomhash":"450d8b7d154bcd29a4534d95a873b9da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874157453
+        }
+    ],
+    "wof:id":874157453,
+    "wof:lastmodified":1464312403,
+    "wof:name":"United Way Of Addison County",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.165498,
+    44.014382,
+    -73.165498,
+    44.014382
+],
+  "geometry": {"coordinates":[-73.165498,44.014382],"type":"Point"}
+}

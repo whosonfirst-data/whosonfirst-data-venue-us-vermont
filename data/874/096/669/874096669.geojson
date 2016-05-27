@@ -1,0 +1,73 @@
+{
+  "id": 874096669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.097524,44.500323,-73.097524,44.500323",
+    "geom:latitude":44.500323,
+    "geom:longitude":-73.097524,
+    "iso:country":"US",
+    "sg:address":"14 Athens Dr",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 0575",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "car",
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OnyCMkiDcFQkVR9acJykF_44.500323_-73.097524@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311739,
+    "wof:geomhash":"318a20d4a058bae5dbb766f3581f8144",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874096669
+        }
+    ],
+    "wof:id":874096669,
+    "wof:lastmodified":1464311739,
+    "wof:name":"White Mountain Tent Rnt",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "car",
+        "passenger"
+    ]
+},
+  "bbox": [
+    -73.097524,
+    44.500323,
+    -73.097524,
+    44.500323
+],
+  "geometry": {"coordinates":[-73.09752400000001,44.500323],"type":"Point"}
+}

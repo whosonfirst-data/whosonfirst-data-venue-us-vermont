@@ -1,0 +1,71 @@
+{
+  "id": 874048191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.52102,44.19599,-72.52102,44.19599",
+    "geom:latitude":44.19599,
+    "geom:longitude":-72.52102,
+    "iso:country":"US",
+    "sg:address":"378 Prospect St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4166",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mLzwiEKW0O5h0sKAEg7y6_44.195990_-72.521020@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311225,
+    "wof:geomhash":"e46743563b97b5276016add8b525c087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874048191
+        }
+    ],
+    "wof:id":874048191,
+    "wof:lastmodified":1464311225,
+    "wof:name":"Small Addition",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -72.52102,
+    44.19599,
+    -72.52102,
+    44.19599
+],
+  "geometry": {"coordinates":[-72.52101999999999,44.19599],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874254889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.226196,44.377201,-73.226196,44.377201",
+    "geom:latitude":44.377201,
+    "geom:longitude":-73.226196,
+    "iso:country":"US",
+    "sg:address":"209 Falls Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 3370",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f0PZx0ok8QRbPRcfkNn7r_44.377201_-73.226196@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313672,
+    "wof:geomhash":"6593cabc37e51066bdc56dadb73fc87e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874254889
+        }
+    ],
+    "wof:id":874254889,
+    "wof:lastmodified":1464313672,
+    "wof:name":"Shelburne Funeral Chapel",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -73.226196,
+    44.377201,
+    -73.226196,
+    44.377201
+],
+  "geometry": {"coordinates":[-73.226196,44.377201],"type":"Point"}
+}

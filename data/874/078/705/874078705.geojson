@@ -1,0 +1,69 @@
+{
+  "id": 874078705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.972999,43.605249,-72.972999,43.605249",
+    "geom:latitude":43.605249,
+    "geom:longitude":-72.972999,
+    "iso:country":"US",
+    "sg:address":"50 Morse Pl",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 7103",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kcLFOEpfdI88aYCvZsimu_43.605249_-72.972999@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311540,
+    "wof:geomhash":"e17e1147760dd6cf2f2adb16b659c1af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874078705
+        }
+    ],
+    "wof:id":874078705,
+    "wof:lastmodified":1464311540,
+    "wof:name":"Ring A One Ding",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -72.972999,
+    43.605249,
+    -72.972999,
+    43.605249
+],
+  "geometry": {"coordinates":[-72.972999,43.605249],"type":"Point"}
+}

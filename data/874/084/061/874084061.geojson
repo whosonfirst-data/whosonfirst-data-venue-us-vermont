@@ -1,0 +1,72 @@
+{
+  "id": 874084061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.247863,42.877929,-73.247863,42.877929",
+    "geom:latitude":42.877929,
+    "geom:longitude":-73.247863,
+    "iso:country":"US",
+    "sg:address":"1541 W Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 2610",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "confectionery",
+        "candy"
+    ],
+    "sg:website":"www.vermontcandy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40p5XyFqheyFppNYFWRMxq_42.877929_-73.247863@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311599,
+    "wof:geomhash":"af1bfe03f933033431f21dcc5c3430bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874084061
+        }
+    ],
+    "wof:id":874084061,
+    "wof:lastmodified":1464311599,
+    "wof:name":"Vermont Confectionery",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "candy"
+    ]
+},
+  "bbox": [
+    -73.247863,
+    42.877929,
+    -73.247863,
+    42.877929
+],
+  "geometry": {"coordinates":[-73.247863,42.877929],"type":"Point"}
+}

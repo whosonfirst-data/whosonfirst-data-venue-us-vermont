@@ -1,0 +1,67 @@
+{
+  "id": 874255533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.395622,44.340454,-72.395622,44.340454",
+    "geom:latitude":44.340454,
+    "geom:longitude":-72.395622,
+    "iso:country":"US",
+    "sg:address":"93 Dwinell Rd",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3777",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:website":"www.pieinsky.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q4YXBfW4xOhO3w9f5q1rv_44.340454_-72.395622@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313687,
+    "wof:geomhash":"2695ea019415641704ab7a4472134680",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874255533
+        }
+    ],
+    "wof:id":874255533,
+    "wof:lastmodified":1464313687,
+    "wof:name":"Pie in the Sky Farm B & B",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.395622,
+    44.340454,
+    -72.395622,
+    44.340454
+],
+  "geometry": {"coordinates":[-72.395622,44.340454],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874072613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.505335,44.059572,-72.505335,44.059572",
+    "geom:latitude":44.059572,
+    "geom:longitude":-72.505335,
+    "iso:country":"US",
+    "sg:address":"1187 Stellar Rd",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 6314",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nOKuPWQWywiWxVsmhFISr_44.059572_-72.505335@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311471,
+    "wof:geomhash":"ceca296e96e55352359017900a589106",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874072613
+        }
+    ],
+    "wof:id":874072613,
+    "wof:lastmodified":1464311471,
+    "wof:name":"Johnson & Lamphear Constr",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.505335,
+    44.059572,
+    -72.505335,
+    44.059572
+],
+  "geometry": {"coordinates":[-72.505335,44.059572],"type":"Point"}
+}

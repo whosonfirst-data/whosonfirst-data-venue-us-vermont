@@ -1,0 +1,69 @@
+{
+  "id": 874245745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.659475,43.065203,-72.659475,43.065203",
+    "geom:latitude":43.065203,
+    "geom:longitude":-72.659475,
+    "iso:country":"US",
+    "sg:address":"593 Phoenix Way",
+    "sg:city":"Townshend",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 7011",
+    "sg:postcode":"05353",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BY1sGSyk67SwBlR0GjxUA_43.065203_-72.659475@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313449,
+    "wof:geomhash":"01d155af06c5fb3c6a2ba18d8f4c99a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874245745
+        }
+    ],
+    "wof:id":874245745,
+    "wof:lastmodified":1464313449,
+    "wof:name":"Reed Phoenix Organ Rsurrection",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.659475,
+    43.065203,
+    -72.659475,
+    43.065203
+],
+  "geometry": {"coordinates":[-72.659475,43.065203],"type":"Point"}
+}

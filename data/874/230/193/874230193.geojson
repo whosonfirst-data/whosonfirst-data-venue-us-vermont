@@ -1,0 +1,73 @@
+{
+  "id": 874230193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204802,43.979718,-73.204802,43.979718",
+    "geom:latitude":43.979718,
+    "geom:longitude":-73.204802,
+    "iso:country":"US",
+    "sg:address":"1364 State Rte 30",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 2272",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "breakfast",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fLyvGiCVGNQONLlcXyBqr_43.979718_-73.204802@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313162,
+    "wof:geomhash":"fa68d2fd2ae91e91f8e1a2d9bfe002e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874230193
+        }
+    ],
+    "wof:id":874230193,
+    "wof:lastmodified":1464313162,
+    "wof:name":"Cornwall Orchrds Bed Breakfast",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "bed"
+    ]
+},
+  "bbox": [
+    -73.204802,
+    43.979718,
+    -73.204802,
+    43.979718
+],
+  "geometry": {"coordinates":[-73.204802,43.979718],"type":"Point"}
+}

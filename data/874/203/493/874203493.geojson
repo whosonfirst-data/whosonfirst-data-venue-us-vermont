@@ -1,0 +1,69 @@
+{
+  "id": 874203493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.681544,42.945285,-72.681544,42.945285",
+    "geom:latitude":42.945285,
+    "geom:longitude":-72.681544,
+    "iso:country":"US",
+    "sg:address":"65 Baker Brook Rd",
+    "sg:city":"Williamsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 348 7729",
+    "sg:postcode":"05362",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e6q7Ug1Lmh0LzZhHl7vu8_42.945285_-72.681544@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312879,
+    "wof:geomhash":"da3f19540592c6040315b8c9a7088461",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874203493
+        }
+    ],
+    "wof:id":874203493,
+    "wof:lastmodified":1464312879,
+    "wof:name":"Joe Rysz Co",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.681544,
+    42.945285,
+    -72.681544,
+    42.945285
+],
+  "geometry": {"coordinates":[-72.681544,42.945285],"type":"Point"}
+}

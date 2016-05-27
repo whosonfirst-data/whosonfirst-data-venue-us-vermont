@@ -1,0 +1,71 @@
+{
+  "id": 874248613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.347134,44.351842,-72.347134,44.351842",
+    "geom:latitude":44.351842,
+    "geom:longitude":-72.347134,
+    "iso:country":"US",
+    "sg:address":"1414 US Hwy 2",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3109",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tLv4cgKRvon7hGd7u503K_44.351842_-72.347134@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313515,
+    "wof:geomhash":"a409ecea289022508753391aa89fcbf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874248613
+        }
+    ],
+    "wof:id":874248613,
+    "wof:lastmodified":1464313515,
+    "wof:name":"My Way Limousine Of Vermont",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -72.347134,
+    44.351842,
+    -72.347134,
+    44.351842
+],
+  "geometry": {"coordinates":[-72.347134,44.351842],"type":"Point"}
+}

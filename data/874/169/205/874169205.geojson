@@ -1,0 +1,69 @@
+{
+  "id": 874169205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.978599,44.420651,-72.978599,44.420651",
+    "geom:latitude":44.420651,
+    "geom:longitude":-72.978599,
+    "iso:country":"US",
+    "sg:address":"1337 Jericho Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 4931",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gXkGLutLiP21uLOWJWD81_44.420651_-72.978599@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312519,
+    "wof:geomhash":"f4623fdd2a9141a513fb0874620eeab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874169205
+        }
+    ],
+    "wof:id":874169205,
+    "wof:lastmodified":1464312519,
+    "wof:name":"Best Maid 4u",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.978599,
+    44.420651,
+    -72.978599,
+    44.420651
+],
+  "geometry": {"coordinates":[-72.978599,44.420651],"type":"Point"}
+}

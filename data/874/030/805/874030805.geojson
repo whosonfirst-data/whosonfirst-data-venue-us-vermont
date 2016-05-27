@@ -1,0 +1,69 @@
+{
+  "id": 874030805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.075821,44.445466,-73.075821,44.445466",
+    "geom:latitude":44.445466,
+    "geom:longitude":-73.075821,
+    "iso:country":"US",
+    "sg:address":"212 Southfield Dr",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 505 393 4153",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61CUllE1eCloJE40H6SQJN_44.445466_-73.075821@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311055,
+    "wof:geomhash":"338c5b0f9d510d9189a422694f284350",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874030805
+        }
+    ],
+    "wof:id":874030805,
+    "wof:lastmodified":1464311055,
+    "wof:name":"Gens Flowers & Gifts",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -73.075821,
+    44.445466,
+    -73.075821,
+    44.445466
+],
+  "geometry": {"coordinates":[-73.075821,44.445466],"type":"Point"}
+}

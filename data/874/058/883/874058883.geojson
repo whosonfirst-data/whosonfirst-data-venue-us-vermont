@@ -1,0 +1,71 @@
+{
+  "id": 874058883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.655198,44.624086,-72.655198,44.624086",
+    "geom:latitude":44.624086,
+    "geom:longitude":-72.655198,
+    "iso:country":"US",
+    "sg:address":"857 Maple Hill Rd",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 7010",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CMCrx3K4BvH3YN0uw8Ike_44.624086_-72.655198@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311325,
+    "wof:geomhash":"e4560bf9221aebbce95858cb304c580b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874058883
+        }
+    ],
+    "wof:id":874058883,
+    "wof:lastmodified":1464311325,
+    "wof:name":"Carpentry Unlimited",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.655198,
+    44.624086,
+    -72.655198,
+    44.624086
+],
+  "geometry": {"coordinates":[-72.655198,44.624086],"type":"Point"}
+}

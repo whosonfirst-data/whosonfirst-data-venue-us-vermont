@@ -1,0 +1,69 @@
+{
+  "id": 874113927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.792373,44.820645,-72.792373,44.820645",
+    "geom:latitude":44.820645,
+    "geom:longitude":-72.792373,
+    "iso:country":"US",
+    "sg:address":"2365 Main St N",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 5905",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sharpening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jzZxi5QtcFS29DZTICDFk_44.820645_-72.792373@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311976,
+    "wof:geomhash":"703621f417d5057f1fe79bc3f3935e48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874113927
+        }
+    ],
+    "wof:id":874113927,
+    "wof:lastmodified":1464311976,
+    "wof:name":"Patch's Cutting Edge",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening"
+    ]
+},
+  "bbox": [
+    -72.792373,
+    44.820645,
+    -72.792373,
+    44.820645
+],
+  "geometry": {"coordinates":[-72.792373,44.820645],"type":"Point"}
+}

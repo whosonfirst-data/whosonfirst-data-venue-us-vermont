@@ -1,0 +1,71 @@
+{
+  "id": 874048575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.999399,43.604626,-72.999399,43.604626",
+    "geom:latitude":43.604626,
+    "geom:longitude":-72.999399,
+    "iso:country":"US",
+    "sg:address":"302 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 7166",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HyBmZgezfrLfPGMJwNkjg_43.604626_-72.999399@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311228,
+    "wof:geomhash":"0bc8d7189fd062a53966fadfa6039426",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874048575
+        }
+    ],
+    "wof:id":874048575,
+    "wof:lastmodified":1464311228,
+    "wof:name":"West Street Self Storage",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -72.999399,
+    43.604626,
+    -72.999399,
+    43.604626
+],
+  "geometry": {"coordinates":[-72.999399,43.604626],"type":"Point"}
+}

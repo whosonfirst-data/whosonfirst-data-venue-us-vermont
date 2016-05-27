@@ -1,0 +1,73 @@
+{
+  "id": 874148295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.099081,44.136256,-73.099081,44.136256",
+    "geom:latitude":44.136256,
+    "geom:longitude":-73.099081,
+    "iso:country":"US",
+    "sg:address":"18 Burpee Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 7160",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17rDoCrHGdGuI0vcWvwIQH_44.136256_-73.099081@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312313,
+    "wof:geomhash":"e487033445bb43603da6ebbdbb1456b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874148295
+        }
+    ],
+    "wof:id":874148295,
+    "wof:lastmodified":1464312313,
+    "wof:name":"Vermont Custom Rug Co",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -73.099081,
+    44.136256,
+    -73.099081,
+    44.136256
+],
+  "geometry": {"coordinates":[-73.099081,44.136256],"type":"Point"}
+}

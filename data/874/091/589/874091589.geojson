@@ -1,0 +1,73 @@
+{
+  "id": 874091589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.772264,44.661605,-72.772264,44.661605",
+    "geom:latitude":44.661605,
+    "geom:longitude":-72.772264,
+    "iso:country":"US",
+    "sg:address":"9083 State Rte 15",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 6551",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77IT4kPsySqJccKAd12mTi_44.661605_-72.772264@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311682,
+    "wof:geomhash":"62524a024c1b1a47bf962aeb66c05e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874091589
+        }
+    ],
+    "wof:id":874091589,
+    "wof:lastmodified":1464311682,
+    "wof:name":"Green Mountain Exteriors",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.772264,
+    44.661605,
+    -72.772264,
+    44.661605
+],
+  "geometry": {"coordinates":[-72.77226400000001,44.661605],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874253873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.255337,44.325157,-73.255337,44.325157",
+    "geom:latitude":44.325157,
+    "geom:longitude":-73.255337,
+    "iso:country":"US",
+    "sg:address":"1711 Greenbush Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 3344",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "buyer",
+        "management",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w6nx0zv4ov0157IRRYqk1_44.325157_-73.255337@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313643,
+    "wof:geomhash":"021998e057fa4cfbc71a0cb3bb1b7e4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874253873
+        }
+    ],
+    "wof:id":874253873,
+    "wof:lastmodified":1464313643,
+    "wof:name":"Akin Associates",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "management",
+        "broker"
+    ]
+},
+  "bbox": [
+    -73.255337,
+    44.325157,
+    -73.255337,
+    44.325157
+],
+  "geometry": {"coordinates":[-73.255337,44.325157],"type":"Point"}
+}

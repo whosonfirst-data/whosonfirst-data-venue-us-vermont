@@ -1,0 +1,73 @@
+{
+  "id": 874177859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.055096,43.786147,-73.055096,43.786147",
+    "geom:latitude":43.786147,
+    "geom:longitude":-73.055096,
+    "iso:country":"US",
+    "sg:address":"54 Wood Ln",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3030",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19wtXZRZs7x2OOEp8pzFoB_43.786147_-73.055096@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312605,
+    "wof:geomhash":"0625869571e0feb048b83c03d3a7f7a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874177859
+        }
+    ],
+    "wof:id":874177859,
+    "wof:lastmodified":1464312605,
+    "wof:name":"Transportation-Garage",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -73.055096,
+    43.786147,
+    -73.055096,
+    43.786147
+],
+  "geometry": {"coordinates":[-73.05509600000001,43.786147],"type":"Point"}
+}

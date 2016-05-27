@@ -1,0 +1,71 @@
+{
+  "id": 874199869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.229231,44.373082,-73.229231,44.373082",
+    "geom:latitude":44.373082,
+    "geom:longitude":-73.229231,
+    "iso:country":"US",
+    "sg:address":"60 Meadow Ln",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 5265",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ykQccbqcLDsllcJpLNCWa_44.373082_-73.229231@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312842,
+    "wof:geomhash":"74986fe0cec67511b449370065e367a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874199869
+        }
+    ],
+    "wof:id":874199869,
+    "wof:lastmodified":1464312842,
+    "wof:name":"Wolftree Woodworks",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.229231,
+    44.373082,
+    -73.229231,
+    44.373082
+],
+  "geometry": {"coordinates":[-73.229231,44.373082],"type":"Point"}
+}

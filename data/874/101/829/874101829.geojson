@@ -1,0 +1,74 @@
+{
+  "id": 874101829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.497256,44.194862,-72.497256,44.194862",
+    "geom:latitude":44.194862,
+    "geom:longitude":-72.497256,
+    "iso:country":"US",
+    "sg:address":"90 Washington St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6696",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "sg:website":"www.plannedparenthood.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gFJh30YsTbJRF0N801Z5A_44.194862_-72.497256@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311816,
+    "wof:geomhash":"4bc28a92024d7ec6c50bf27a2a177ac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874101829
+        }
+    ],
+    "wof:id":874101829,
+    "wof:lastmodified":1464311816,
+    "wof:name":"Planned Parenthood",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -72.497256,
+    44.194862,
+    -72.497256,
+    44.194862
+],
+  "geometry": {"coordinates":[-72.49725599999999,44.194862],"type":"Point"}
+}

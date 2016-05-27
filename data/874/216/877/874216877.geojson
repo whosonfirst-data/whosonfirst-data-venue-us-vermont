@@ -1,0 +1,69 @@
+{
+  "id": 874216877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.018515,44.420065,-72.018515,44.420065",
+    "geom:latitude":44.420065,
+    "geom:longitude":-72.018515,
+    "iso:country":"US",
+    "sg:address":"1 Place Notre Dame",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 9357",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72ZDvROU01DcU7D9MNeTa3_44.420065_-72.018515@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313021,
+    "wof:geomhash":"734a76b192ff63b86ae260821d2ad114",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874216877
+        }
+    ],
+    "wof:id":874216877,
+    "wof:lastmodified":1464313021,
+    "wof:name":"St Johnsbury Dental Assoc Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.018515,
+    44.420065,
+    -72.018515,
+    44.420065
+],
+  "geometry": {"coordinates":[-72.01851499999999,44.420065],"type":"Point"}
+}

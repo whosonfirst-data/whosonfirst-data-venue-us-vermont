@@ -1,0 +1,86 @@
+{
+  "id": 874103433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.197878,42.888552,-73.197878,42.888552",
+    "geom:latitude":42.888552,
+    "geom:longitude":-73.197878,
+    "iso:country":"US",
+    "sg:address":"200 Veterans Memorial Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 8541",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "program",
+        "alcohol",
+        "drug",
+        "abuse",
+        "vocational",
+        "welfare",
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15LTvxSJOkpcqXh1FV6Gqb_42.888552_-73.197878@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311837,
+    "wof:geomhash":"0a758fe44ff1935029624e4929811c73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874103433
+        }
+    ],
+    "wof:id":874103433,
+    "wof:lastmodified":1464311837,
+    "wof:name":"Bennington District Office",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "alcohol",
+        "drug",
+        "abuse",
+        "vocational",
+        "welfare",
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -73.197878,
+    42.888552,
+    -73.197878,
+    42.888552
+],
+  "geometry": {"coordinates":[-73.197878,42.888552],"type":"Point"}
+}

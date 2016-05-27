@@ -1,0 +1,71 @@
+{
+  "id": 874179893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.001376,44.529137,-72.001376,44.529137",
+    "geom:latitude":44.529137,
+    "geom:longitude":-72.001376,
+    "iso:country":"US",
+    "sg:address":"724 Broad St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 5888",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SvzKKTVMFGaKrc40DEDuT_44.529137_-72.001376@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312629,
+    "wof:geomhash":"6de8d8b3bb8043b06abd3d0a7a6c65aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874179893
+        }
+    ],
+    "wof:id":874179893,
+    "wof:lastmodified":1464312629,
+    "wof:name":"Greg's Auto Repair",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.001376,
+    44.529137,
+    -72.001376,
+    44.529137
+],
+  "geometry": {"coordinates":[-72.00137599999999,44.529137],"type":"Point"}
+}

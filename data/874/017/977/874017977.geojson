@@ -1,0 +1,71 @@
+{
+  "id": 874017977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.187213,44.491386,-73.187213,44.491386",
+    "geom:latitude":44.491386,
+    "geom:longitude":-73.187213,
+    "iso:country":"US",
+    "sg:address":"27 W Allen St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 0221",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Sv9ulDRKYydqV13jFuH0K_44.491386_-73.187213@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310926,
+    "wof:geomhash":"5c81398d68032d3fb8800b92921f6fb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874017977
+        }
+    ],
+    "wof:id":874017977,
+    "wof:lastmodified":1464310926,
+    "wof:name":"Winooski Police Station",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "protection"
+    ]
+},
+  "bbox": [
+    -73.187213,
+    44.491386,
+    -73.187213,
+    44.491386
+],
+  "geometry": {"coordinates":[-73.187213,44.491386],"type":"Point"}
+}

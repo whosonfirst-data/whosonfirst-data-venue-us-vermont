@@ -1,0 +1,73 @@
+{
+  "id": 874200167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.005211,44.430269,-73.005211,44.430269",
+    "geom:latitude":44.430269,
+    "geom:longitude":-73.005211,
+    "iso:country":"US",
+    "sg:address":"303 Meadow Ln",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 4433",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eBa1Ht7kRCpsMQYa7HZcw_44.430269_-73.005211@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312845,
+    "wof:geomhash":"ac32a26c24e3f0605b77eda95cd2b2e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874200167
+        }
+    ],
+    "wof:id":874200167,
+    "wof:lastmodified":1464312845,
+    "wof:name":"Riverview Commons",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "community"
+    ]
+},
+  "bbox": [
+    -73.005211,
+    44.430269,
+    -73.005211,
+    44.430269
+],
+  "geometry": {"coordinates":[-73.005211,44.430269],"type":"Point"}
+}

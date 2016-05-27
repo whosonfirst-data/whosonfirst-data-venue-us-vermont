@@ -1,0 +1,73 @@
+{
+  "id": 874230023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.182363,44.08587,-73.182363,44.08587",
+    "geom:latitude":44.08587,
+    "geom:longitude":-73.182363,
+    "iso:country":"US",
+    "sg:address":"326 Campground Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2459",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sand",
+        "gravel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f1SdPCNtLjCvcZglULkie_44.085870_-73.182363@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313160,
+    "wof:geomhash":"1eab910378973bb2b4a2741245726ecc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874230023
+        }
+    ],
+    "wof:id":874230023,
+    "wof:lastmodified":1464313160,
+    "wof:name":"Haven Crushed Stone",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sand",
+        "gravel"
+    ]
+},
+  "bbox": [
+    -73.182363,
+    44.08587,
+    -73.182363,
+    44.08587
+],
+  "geometry": {"coordinates":[-73.182363,44.08587],"type":"Point"}
+}

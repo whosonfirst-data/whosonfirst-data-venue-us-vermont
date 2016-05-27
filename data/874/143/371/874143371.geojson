@@ -1,0 +1,73 @@
+{
+  "id": 874143371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.07791,44.132969,-73.07791,44.132969",
+    "geom:latitude":44.132969,
+    "geom:longitude":-73.07791,
+    "iso:country":"US",
+    "sg:address":"31 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2774",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01I1C7C7Fzs8smBRThsjFw_44.132969_-73.077910@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312265,
+    "wof:geomhash":"25e1eb206269c26de2d0a4f6e1899aeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874143371
+        }
+    ],
+    "wof:id":874143371,
+    "wof:lastmodified":1464312265,
+    "wof:name":"No-Knee's Bar Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -73.07791,
+    44.132969,
+    -73.07791,
+    44.132969
+],
+  "geometry": {"coordinates":[-73.07791,44.132969],"type":"Point"}
+}

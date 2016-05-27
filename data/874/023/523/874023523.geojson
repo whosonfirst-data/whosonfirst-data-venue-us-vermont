@@ -1,0 +1,71 @@
+{
+  "id": 874023523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.53433,44.214813,-72.53433,44.214813",
+    "geom:latitude":44.214813,
+    "geom:longitude":-72.53433,
+    "iso:country":"US",
+    "sg:address":"66 Barre-Montpelier Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3223",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gXg1bGVm6TsJIqXG4nP25_44.214813_-72.534330@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310978,
+    "wof:geomhash":"1416cd1d914872e816fc276524d973d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874023523
+        }
+    ],
+    "wof:id":874023523,
+    "wof:lastmodified":1464310978,
+    "wof:name":"Berlin Antique Ctr & Sunken",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -72.53433,
+    44.214813,
+    -72.53433,
+    44.214813
+],
+  "geometry": {"coordinates":[-72.53433,44.214813],"type":"Point"}
+}

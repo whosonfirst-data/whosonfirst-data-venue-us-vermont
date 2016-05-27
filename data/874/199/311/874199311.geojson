@@ -1,0 +1,71 @@
+{
+  "id": 874199311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.522264,42.973423,-72.522264,42.973423",
+    "geom:latitude":42.973423,
+    "geom:longitude":-72.522264,
+    "iso:country":"US",
+    "sg:address":"11 West St",
+    "sg:city":"Putney",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 387 5529",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AT9uR7GFnjAdfX4biuBXE_42.973423_-72.522264@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312837,
+    "wof:geomhash":"15f65dc66906af80476a723a46f71f53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874199311
+        }
+    ],
+    "wof:id":874199311,
+    "wof:lastmodified":1464312837,
+    "wof:name":"Green Mountain Well Co Inc",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -72.522264,
+    42.973423,
+    -72.522264,
+    42.973423
+],
+  "geometry": {"coordinates":[-72.52226400000001,42.973423],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874099209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.679245,44.635238,-72.679245,44.635238",
+    "geom:latitude":44.635238,
+    "geom:longitude":-72.679245,
+    "iso:country":"US",
+    "sg:address":"2 Lower Main St E",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 9851",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HuRFedyApQZGdZrYw58YN_44.635238_-72.679245@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311775,
+    "wof:geomhash":"ece9871d2a6d50ecf3cb48d11fffb149",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874099209
+        }
+    ],
+    "wof:id":874099209,
+    "wof:lastmodified":1464311775,
+    "wof:name":"River Muse Yarns",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    -72.679245,
+    44.635238,
+    -72.679245,
+    44.635238
+],
+  "geometry": {"coordinates":[-72.67924499999999,44.635238],"type":"Point"}
+}

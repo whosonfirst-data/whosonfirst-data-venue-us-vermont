@@ -1,0 +1,69 @@
+{
+  "id": 874106459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.562152,42.882211,-72.562152,42.882211",
+    "geom:latitude":42.882211,
+    "geom:longitude":-72.562152,
+    "iso:country":"US",
+    "sg:address":"62 Black Mountain Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 4922",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AbGu6MlRrXWYiVnWS2xmt_42.882211_-72.562152@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311877,
+    "wof:geomhash":"539f55e2d19589f86992972e0d666a5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874106459
+        }
+    ],
+    "wof:id":874106459,
+    "wof:lastmodified":1464311877,
+    "wof:name":"Printers Inc",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -72.562152,
+    42.882211,
+    -72.562152,
+    42.882211
+],
+  "geometry": {"coordinates":[-72.562152,42.882211],"type":"Point"}
+}

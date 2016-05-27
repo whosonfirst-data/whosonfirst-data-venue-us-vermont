@@ -1,0 +1,71 @@
+{
+  "id": 874203229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.979261,43.473515,-72.979261,43.473515",
+    "geom:latitude":43.473515,
+    "geom:longitude":-72.979261,
+    "iso:country":"US",
+    "sg:address":"34 Railroad St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 3214",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F0Uw9m1nhBmO8kpVQYg6c_43.473515_-72.979261@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312876,
+    "wof:geomhash":"b043383ee4ba6d4188c0e4417298e5da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874203229
+        }
+    ],
+    "wof:id":874203229,
+    "wof:lastmodified":1464312876,
+    "wof:name":"Wallingford Plumbing & Heating",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.979261,
+    43.473515,
+    -72.979261,
+    43.473515
+],
+  "geometry": {"coordinates":[-72.97926099999999,43.473515],"type":"Point"}
+}

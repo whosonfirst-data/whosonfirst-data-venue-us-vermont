@@ -1,0 +1,71 @@
+{
+  "id": 874060815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977247,43.601171,-72.977247,43.601171",
+    "geom:latitude":43.601171,
+    "geom:longitude":-72.977247,
+    "iso:country":"US",
+    "sg:address":"118 Post St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 0206",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32CBWfXs7OpZrF1TzpuLhm_43.601171_-72.977247@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311342,
+    "wof:geomhash":"399f0bb91951ad8c7c58e5fc1899eb75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874060815
+        }
+    ],
+    "wof:id":874060815,
+    "wof:lastmodified":1464311342,
+    "wof:name":"Red Moon Saloon",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -72.977247,
+    43.601171,
+    -72.977247,
+    43.601171
+],
+  "geometry": {"coordinates":[-72.97724700000001,43.601171],"type":"Point"}
+}

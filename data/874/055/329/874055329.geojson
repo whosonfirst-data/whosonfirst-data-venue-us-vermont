@@ -1,0 +1,76 @@
+{
+  "id": 874055329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.020852,44.418525,-72.020852,44.418525",
+    "geom:latitude":44.418525,
+    "geom:longitude":-72.020852,
+    "iso:country":"US",
+    "sg:address":"1214 Main St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 2241",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BHG3Xwo8k7lFMupMWCO9m_44.418525_-72.020852@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311295,
+    "wof:geomhash":"7ae0bc707cc17a77aba1cfab2d5c193b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874055329
+        }
+    ],
+    "wof:id":874055329,
+    "wof:lastmodified":1464311295,
+    "wof:name":"Hilltopper Restaurant Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.020852,
+    44.418525,
+    -72.020852,
+    44.418525
+],
+  "geometry": {"coordinates":[-72.020852,44.418525],"type":"Point"}
+}

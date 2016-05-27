@@ -1,0 +1,71 @@
+{
+  "id": 874241719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.140369,44.407419,-72.140369,44.407419",
+    "geom:latitude":44.407419,
+    "geom:longitude":-72.140369,
+    "iso:country":"US",
+    "sg:address":"26 Cedar Ln",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 2275",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X3PxmTzblm10fm3x5tKHk_44.407419_-72.140369@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313372,
+    "wof:geomhash":"42ec6d82d0a059df3be5584606de0855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874241719
+        }
+    ],
+    "wof:id":874241719,
+    "wof:lastmodified":1464313372,
+    "wof:name":"Danville Health Ctr",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.140369,
+    44.407419,
+    -72.140369,
+    44.407419
+],
+  "geometry": {"coordinates":[-72.14036900000001,44.407419],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874238969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.081497,44.457241,-73.081497,44.457241",
+    "geom:latitude":44.457241,
+    "geom:longitude":-73.081497,
+    "iso:country":"US",
+    "sg:address":"1400 Mountain View Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 7227",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zqwGm5J6J8mEpU2AHxL1J_44.457241_-73.081497@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313321,
+    "wof:geomhash":"06ad2d9524be601a8dede4c00e3cb2ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874238969
+        }
+    ],
+    "wof:id":874238969,
+    "wof:lastmodified":1464313321,
+    "wof:name":"Catamount Golf Club",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -73.081497,
+    44.457241,
+    -73.081497,
+    44.457241
+],
+  "geometry": {"coordinates":[-73.081497,44.457241],"type":"Point"}
+}

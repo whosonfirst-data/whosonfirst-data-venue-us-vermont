@@ -1,0 +1,67 @@
+{
+  "id": 874113531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169191,44.018125,-73.169191,44.018125",
+    "geom:latitude":44.018125,
+    "geom:longitude":-73.169191,
+    "iso:country":"US",
+    "sg:address":"20 Seymour St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7983",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:website":"www.billbeck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VAtLBu9OD7Hq8sJQUZ8Uj_44.018125_-73.169191@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311972,
+    "wof:geomhash":"d65133486490ac3d6fcb34d698a9965b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874113531
+        }
+    ],
+    "wof:id":874113531,
+    "wof:lastmodified":1464311972,
+    "wof:name":"Coldwell Banker",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.169191,
+    44.018125,
+    -73.169191,
+    44.018125
+],
+  "geometry": {"coordinates":[-73.169191,44.018125],"type":"Point"}
+}

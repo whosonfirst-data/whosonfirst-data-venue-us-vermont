@@ -1,0 +1,69 @@
+{
+  "id": 874216829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.11138,44.681656,-73.11138,44.681656",
+    "geom:latitude":44.681656,
+    "geom:longitude":-73.11138,
+    "iso:country":"US",
+    "sg:address":"240 Ethan Allen Hwy",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 6219",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lx5I9dJMHrj0Jt1gHl1qJ_44.681656_-73.111380@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313021,
+    "wof:geomhash":"1bdcc1c59784187cbbcd25c46ca0d28d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874216829
+        }
+    ],
+    "wof:id":874216829,
+    "wof:lastmodified":1464313021,
+    "wof:name":"Royal Design & Construction",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.11138,
+    44.681656,
+    -73.11138,
+    44.681656
+],
+  "geometry": {"coordinates":[-73.11138,44.681656],"type":"Point"}
+}

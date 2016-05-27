@@ -1,0 +1,69 @@
+{
+  "id": 874242287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.496592,43.489281,-72.496592,43.489281",
+    "geom:latitude":43.489281,
+    "geom:longitude":-72.496592,
+    "iso:country":"US",
+    "sg:address":"1406 Sheddsville Rd",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 484 5552",
+    "sg:postcode":"05089",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PVpHuYNYRJIyRfhOixisd_43.489281_-72.496592@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313382,
+    "wof:geomhash":"4299422eedd134e3ad82c0a4f55fb4ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874242287
+        }
+    ],
+    "wof:id":874242287,
+    "wof:lastmodified":1464313382,
+    "wof:name":"Windrush Stable",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equine"
+    ]
+},
+  "bbox": [
+    -72.496592,
+    43.489281,
+    -72.496592,
+    43.489281
+],
+  "geometry": {"coordinates":[-72.49659200000001,43.489281],"type":"Point"}
+}

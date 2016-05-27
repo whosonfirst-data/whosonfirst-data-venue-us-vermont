@@ -1,0 +1,67 @@
+{
+  "id": 874210133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50165,44.197213,-72.50165,44.197213",
+    "geom:latitude":44.197213,
+    "geom:longitude":-72.50165,
+    "iso:country":"US",
+    "sg:address":"54 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7446",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:website":"www.lennyshoe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wsl8uhQuPBP5nXFy87JkS_44.197213_-72.501650@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312951,
+    "wof:geomhash":"35ef04ae7082fc4834543677f618066e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874210133
+        }
+    ],
+    "wof:id":874210133,
+    "wof:lastmodified":1464312951,
+    "wof:name":"Lenny's Shoes & Apparel",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.50165,
+    44.197213,
+    -72.50165,
+    44.197213
+],
+  "geometry": {"coordinates":[-72.50165,44.197213],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874149505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.492667,44.192184,-72.492667,44.192184",
+    "geom:latitude":44.192184,
+    "geom:longitude":-72.492667,
+    "iso:country":"US",
+    "sg:address":"169 Washington St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4133",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_702OywBqHtz4YWCIh3xwT8_44.192184_-72.492667@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312324,
+    "wof:geomhash":"b2ab8c0ccd922b55b6d881e6185849fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874149505
+        }
+    ],
+    "wof:id":874149505,
+    "wof:lastmodified":1464312324,
+    "wof:name":"Washington Street Exxon",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -72.492667,
+    44.192184,
+    -72.492667,
+    44.192184
+],
+  "geometry": {"coordinates":[-72.492667,44.192184],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874111605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.149031,44.544171,-73.149031,44.544171",
+    "geom:latitude":44.544171,
+    "geom:longitude":-73.149031,
+    "iso:country":"US",
+    "sg:address":"899 Main St",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 2888",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06q9YtiAz27NBL5OrsJ3Ja_44.544171_-73.149031@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311951,
+    "wof:geomhash":"6ef2f5371fec04149ddbbd7cf7999533",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874111605
+        }
+    ],
+    "wof:id":874111605,
+    "wof:lastmodified":1464311951,
+    "wof:name":"Wright House",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -73.149031,
+    44.544171,
+    -73.149031,
+    44.544171
+],
+  "geometry": {"coordinates":[-73.14903099999999,44.544171],"type":"Point"}
+}

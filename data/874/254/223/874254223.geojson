@@ -1,0 +1,70 @@
+{
+  "id": 874254223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.105166,44.344841,-73.105166,44.344841",
+    "geom:latitude":44.344841,
+    "geom:longitude":-73.105166,
+    "iso:country":"US",
+    "sg:address":"190 Pond Rd",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 2132",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"http://www.hinesburgcma.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844363,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68Wn9RPAxXKLOE2D3ky0RN_44.344841_-73.105166@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313651,
+    "wof:geomhash":"ab4e598d12b6bfaef65dbce4899929df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85844363,
+            "region_id":85688763,
+            "venue_id":874254223
+        }
+    ],
+    "wof:id":874254223,
+    "wof:lastmodified":1464313651,
+    "wof:name":"Community Alliance Church",
+    "wof:parent_id":85844363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.105166,
+    44.344841,
+    -73.105166,
+    44.344841
+],
+  "geometry": {"coordinates":[-73.105166,44.344841],"type":"Point"}
+}

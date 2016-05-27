@@ -1,0 +1,73 @@
+{
+  "id": 874003093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.227159,44.399882,-72.227159,44.399882",
+    "geom:latitude":44.399882,
+    "geom:longitude":-72.227159,
+    "iso:country":"US",
+    "sg:address":"87 US Hwy 2",
+    "sg:city":"E St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 4750",
+    "sg:postcode":"05873",
+    "sg:province":"VT",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849525,
+        102080779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C9EOedIPHvKIyOgJN849t_44.399882_-72.227159@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310793,
+    "wof:geomhash":"5acef9890d77f62bc20214a7c2301173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "neighbourhood_id":85849525,
+            "region_id":85688763,
+            "venue_id":874003093
+        }
+    ],
+    "wof:id":874003093,
+    "wof:lastmodified":1464310793,
+    "wof:name":"Echo Ledge Farm Inn",
+    "wof:parent_id":85849525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -72.227159,
+    44.399882,
+    -72.227159,
+    44.399882
+],
+  "geometry": {"coordinates":[-72.227159,44.399882],"type":"Point"}
+}

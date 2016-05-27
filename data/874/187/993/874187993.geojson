@@ -1,0 +1,79 @@
+{
+  "id": 874187993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.589489,42.827069,-72.589489,42.827069",
+    "geom:latitude":42.827069,
+    "geom:longitude":-72.589489,
+    "iso:country":"US",
+    "sg:address":"773 Guilford St",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 4765",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical",
+        "holistic",
+        "practitioner"
+    ],
+    "sg:website":"www.wellness-services.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uidzJEgo3xWtplvusVWXp_42.827069_-72.589489@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312719,
+    "wof:geomhash":"a41622f0a4758ee33fe6ca0e70950dd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874187993
+        }
+    ],
+    "wof:id":874187993,
+    "wof:lastmodified":1464312719,
+    "wof:name":"Wellness Services Wholistic ME",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "holistic",
+        "practitioner"
+    ]
+},
+  "bbox": [
+    -72.589489,
+    42.827069,
+    -72.589489,
+    42.827069
+],
+  "geometry": {"coordinates":[-72.589489,42.827069],"type":"Point"}
+}

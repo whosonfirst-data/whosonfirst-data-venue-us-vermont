@@ -1,0 +1,71 @@
+{
+  "id": 874164783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.207501,44.481809,-73.207501,44.481809",
+    "geom:latitude":44.481809,
+    "geom:longitude":-73.207501,
+    "iso:country":"US",
+    "sg:address":"76 Green St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 7192",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "taping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cPiMZ0b6me6oFQVA77KrS_44.481809_-73.207501@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312477,
+    "wof:geomhash":"0bacce9b5a3956329a4319f9c9e27c4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874164783
+        }
+    ],
+    "wof:id":874164783,
+    "wof:lastmodified":1464312477,
+    "wof:name":"Legacy Enterprises",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taping"
+    ]
+},
+  "bbox": [
+    -73.207501,
+    44.481809,
+    -73.207501,
+    44.481809
+],
+  "geometry": {"coordinates":[-73.20750099999999,44.481809],"type":"Point"}
+}

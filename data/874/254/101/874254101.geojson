@@ -1,0 +1,105 @@
+{
+  "id": 874254101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.234018,44.551095,-73.234018,44.551095",
+    "geom:latitude":44.551095,
+    "geom:longitude":-73.234018,
+    "iso:country":"US",
+    "sg:address":"85 Prim Road",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 2973",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "broker",
+        "industrial",
+        "builder",
+        "specialty",
+        "system",
+        "heating",
+        "contractor",
+        "contractors-commercial",
+        "buyer",
+        "home",
+        "air conditioning"
+    ],
+    "sg:website":"http://www.livingvermont.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BV3PCt5FW4OY7OS2s2YZn_44.551095_-73.234018@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313648,
+    "wof:geomhash":"dd6adff5bac1cf87b85feaba52f5a41f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874254101
+        }
+    ],
+    "wof:id":874254101,
+    "wof:lastmodified":1464313648,
+    "wof:name":"Gardner and Gardner Realtors",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "industrial",
+        "builder",
+        "specialty",
+        "system",
+        "heating",
+        "contractor",
+        "contractors-commercial",
+        "buyer",
+        "home",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -73.234018,
+    44.551095,
+    -73.234018,
+    44.551095
+],
+  "geometry": {"coordinates":[-73.23401800000001,44.551095],"type":"Point"}
+}

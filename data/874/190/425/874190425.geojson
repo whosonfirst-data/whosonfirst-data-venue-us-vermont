@@ -1,0 +1,71 @@
+{
+  "id": 874190425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.502849,44.198317,-72.502849,44.198317",
+    "geom:latitude":44.198317,
+    "geom:longitude":-72.502849,
+    "iso:country":"US",
+    "sg:address":"158 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3114",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X6U4sdsbfgAle0EUSNsAM_44.198317_-72.502849@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312744,
+    "wof:geomhash":"68c2e5f8ad7cf53fbe70597138374a98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874190425
+        }
+    ],
+    "wof:id":874190425,
+    "wof:lastmodified":1464312744,
+    "wof:name":"Barre Books",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.502849,
+    44.198317,
+    -72.502849,
+    44.198317
+],
+  "geometry": {"coordinates":[-72.502849,44.198317],"type":"Point"}
+}

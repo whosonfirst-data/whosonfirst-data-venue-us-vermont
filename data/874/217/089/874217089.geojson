@@ -1,0 +1,72 @@
+{
+  "id": 874217089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.347387,44.688309,-73.347387,44.688309",
+    "geom:latitude":44.688309,
+    "geom:longitude":-73.347387,
+    "iso:country":"US",
+    "sg:address":"54 W Shore Rd",
+    "sg:city":"Grand Isle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 372 3213",
+    "sg:postcode":"05458",
+    "sg:province":"VT",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "sg:website":"www.lcbp.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85822321,
+        102080783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zh375OcTnjwswvuHe9ZTI_44.688309_-73.347387@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313023,
+    "wof:geomhash":"558627b587a3b46c07bf164d2f247e7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080783,
+            "neighbourhood_id":85822321,
+            "region_id":85688763,
+            "venue_id":874217089
+        }
+    ],
+    "wof:id":874217089,
+    "wof:lastmodified":1464313023,
+    "wof:name":"Lake Champlain Basin Program",
+    "wof:parent_id":85822321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "org"
+    ]
+},
+  "bbox": [
+    -73.347387,
+    44.688309,
+    -73.347387,
+    44.688309
+],
+  "geometry": {"coordinates":[-73.347387,44.688309],"type":"Point"}
+}

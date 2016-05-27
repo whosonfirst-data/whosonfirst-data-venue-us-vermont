@@ -1,0 +1,75 @@
+{
+  "id": 874045929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.177575,44.445875,-73.177575,44.445875",
+    "geom:latitude":44.445875,
+    "geom:longitude":-73.177575,
+    "iso:country":"US",
+    "sg:address":"1007 Dorset St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 7911",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "specialty",
+        "fireproofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q0UU5JTBTvNuPrw1Ucrfu_44.445875_-73.177575@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311206,
+    "wof:geomhash":"229228722b674cfca7f32364bec54a8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874045929
+        }
+    ],
+    "wof:id":874045929,
+    "wof:lastmodified":1464311206,
+    "wof:name":"Specialty Coatings Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "fireproofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.177575,
+    44.445875,
+    -73.177575,
+    44.445875
+],
+  "geometry": {"coordinates":[-73.177575,44.445875],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874102075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015372,44.461154,-72.015372,44.461154",
+    "geom:latitude":44.461154,
+    "geom:longitude":-72.015372,
+    "iso:country":"US",
+    "sg:address":"2000 Memorial Dr",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 9461",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "player",
+        "recorder",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CaaTmTDdrGBCOusIDtUra_44.461154_-72.015372@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311819,
+    "wof:geomhash":"c45ee96f60740a27ff7db397dde4e831",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874102075
+        }
+    ],
+    "wof:id":874102075,
+    "wof:lastmodified":1464311819,
+    "wof:name":"Music Shop",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "player",
+        "recorder",
+        "video"
+    ]
+},
+  "bbox": [
+    -72.015372,
+    44.461154,
+    -72.015372,
+    44.461154
+],
+  "geometry": {"coordinates":[-72.015372,44.461154],"type":"Point"}
+}

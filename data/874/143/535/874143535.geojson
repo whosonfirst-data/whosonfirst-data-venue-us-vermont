@@ -1,0 +1,71 @@
+{
+  "id": 874143535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.051521,43.440003,-73.051521,43.440003",
+    "geom:latitude":43.440003,
+    "geom:longitude":-73.051521,
+    "iso:country":"US",
+    "sg:address":"128 Mountain View Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 2924",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l9OfIqJplV6CKHeMnu4NE_43.440003_-73.051521@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312267,
+    "wof:geomhash":"23dd2779a83e956aca0e0cb8d6cb62ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874143535
+        }
+    ],
+    "wof:id":874143535,
+    "wof:lastmodified":1464312267,
+    "wof:name":"K Ruane Sons Excavating Inc",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.051521,
+    43.440003,
+    -73.051521,
+    43.440003
+],
+  "geometry": {"coordinates":[-73.05152099999999,43.440003],"type":"Point"}
+}

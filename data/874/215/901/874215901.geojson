@@ -1,0 +1,69 @@
+{
+  "id": 874215901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.012343,44.44745,-72.012343,44.44745",
+    "geom:latitude":44.44745,
+    "geom:longitude":-72.012343,
+    "iso:country":"US",
+    "sg:address":"161 Sherman Dr",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8116",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d5H3QB3LvlgDDV0cCLj2y_44.447450_-72.012343@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313013,
+    "wof:geomhash":"76c8b97ca5391fdeb24e34ad99a7ca03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874215901
+        }
+    ],
+    "wof:id":874215901,
+    "wof:lastmodified":1464313013,
+    "wof:name":"Caledonia Home Health Care",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -72.012343,
+    44.44745,
+    -72.012343,
+    44.44745
+],
+  "geometry": {"coordinates":[-72.012343,44.44745],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874231469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.07845,44.361792,-73.07845,44.361792",
+    "geom:latitude":44.361792,
+    "geom:longitude":-73.07845,
+    "iso:country":"US",
+    "sg:address":"87 Upper Access Rd",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 2988",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "publisher"
+    ],
+    "sg:website":"www.pubassist.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844363,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lz97EarrUsFII3V7uPH7D_44.361792_-73.078450@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313180,
+    "wof:geomhash":"ce548fb0fd310d035cd6770bfdad5be3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85844363,
+            "region_id":85688763,
+            "venue_id":874231469
+        }
+    ],
+    "wof:id":874231469,
+    "wof:lastmodified":1464313180,
+    "wof:name":"Upper Access Publishing",
+    "wof:parent_id":85844363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher"
+    ]
+},
+  "bbox": [
+    -73.07845,
+    44.361792,
+    -73.07845,
+    44.361792
+],
+  "geometry": {"coordinates":[-73.07845,44.361792],"type":"Point"}
+}

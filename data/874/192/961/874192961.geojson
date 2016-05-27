@@ -1,0 +1,69 @@
+{
+  "id": 874192961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.029267,44.592215,-73.029267,44.592215",
+    "geom:latitude":44.592215,
+    "geom:longitude":-73.029267,
+    "iso:country":"US",
+    "sg:address":"226 Brookside Rd",
+    "sg:city":"Westford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 6093",
+    "sg:postcode":"05494",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818481,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dPIiwPk2FYJEI4rfln2HM_44.592215_-73.029267@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312770,
+    "wof:geomhash":"f03742da5cb0e0f53d9a55a32a3cd215",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85818481,
+            "region_id":85688763,
+            "venue_id":874192961
+        }
+    ],
+    "wof:id":874192961,
+    "wof:lastmodified":1464312770,
+    "wof:name":"Brookside Fine Wines",
+    "wof:parent_id":85818481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wine"
+    ]
+},
+  "bbox": [
+    -73.029267,
+    44.592215,
+    -73.029267,
+    44.592215
+],
+  "geometry": {"coordinates":[-73.029267,44.592215],"type":"Point"}
+}

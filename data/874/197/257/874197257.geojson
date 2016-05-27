@@ -1,0 +1,71 @@
+{
+  "id": 874197257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.112483,44.420396,-73.112483,44.420396",
+    "geom:latitude":44.420396,
+    "geom:longitude":-73.112483,
+    "iso:country":"US",
+    "sg:address":"187 Lyman Dr",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 2266",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lAwOBBNvvPkGBbI4LXqch_44.420396_-73.112483@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312819,
+    "wof:geomhash":"3ce6fd91e705feb6365ee8f0f41cfeba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874197257
+        }
+    ],
+    "wof:id":874197257,
+    "wof:lastmodified":1464312819,
+    "wof:name":"Ross Dirtworks",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.112483,
+    44.420396,
+    -73.112483,
+    44.420396
+],
+  "geometry": {"coordinates":[-73.112483,44.420396],"type":"Point"}
+}

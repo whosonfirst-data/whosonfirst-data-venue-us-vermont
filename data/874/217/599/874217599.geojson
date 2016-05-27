@@ -1,0 +1,71 @@
+{
+  "id": 874217599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.016952,44.637784,-73.016952,44.637784",
+    "geom:latitude":44.637784,
+    "geom:longitude":-73.016952,
+    "iso:country":"US",
+    "sg:address":"2116 State Rte 128",
+    "sg:city":"Westford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 849 2800",
+    "sg:postcode":"05494",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818481,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vbm3MZ82BGMCuxCLoHZFO_44.637784_-73.016952@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313028,
+    "wof:geomhash":"f783e166f78adc19d6d65e4cd0e2b158",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85818481,
+            "region_id":85688763,
+            "venue_id":874217599
+        }
+    ],
+    "wof:id":874217599,
+    "wof:lastmodified":1464313028,
+    "wof:name":"Mathieu Enterprises Inc",
+    "wof:parent_id":85818481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.016952,
+    44.637784,
+    -73.016952,
+    44.637784
+],
+  "geometry": {"coordinates":[-73.016952,44.637784],"type":"Point"}
+}

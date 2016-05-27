@@ -1,0 +1,71 @@
+{
+  "id": 874081321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.938205,43.530323,-72.938205,43.530323",
+    "geom:latitude":43.530323,
+    "geom:longitude":-72.938205,
+    "iso:country":"US",
+    "sg:address":"74 Corey Ln",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 3878",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uXZlcouhwEtI6x9uNPJGF_43.530323_-72.938205@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311567,
+    "wof:geomhash":"46a1099b0f47172484355cb461f01339",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874081321
+        }
+    ],
+    "wof:id":874081321,
+    "wof:lastmodified":1464311567,
+    "wof:name":"Long Trail Automotives",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.938205,
+    43.530323,
+    -72.938205,
+    43.530323
+],
+  "geometry": {"coordinates":[-72.938205,43.530323],"type":"Point"}
+}

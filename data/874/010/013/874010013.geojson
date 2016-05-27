@@ -1,0 +1,71 @@
+{
+  "id": 874010013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.556157,44.234131,-72.556157,44.234131",
+    "geom:latitude":44.234131,
+    "geom:longitude":-72.556157,
+    "iso:country":"US",
+    "sg:address":"7 Green Mountain Dr",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 6433",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YLxae5xQKmpfvqtc33oj4_44.234131_-72.556157@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310855,
+    "wof:geomhash":"5e853355c5f64380606415072d2cee3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874010013
+        }
+    ],
+    "wof:id":874010013,
+    "wof:lastmodified":1464310855,
+    "wof:name":"E/Pro Engrng & Envrnmntl Cnslt",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -72.556157,
+    44.234131,
+    -72.556157,
+    44.234131
+],
+  "geometry": {"coordinates":[-72.556157,44.234131],"type":"Point"}
+}

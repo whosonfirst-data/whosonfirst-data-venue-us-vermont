@@ -1,0 +1,72 @@
+{
+  "id": 874093611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.557731,42.875148,-72.557731,42.875148",
+    "geom:latitude":42.875148,
+    "geom:longitude":-72.557731,
+    "iso:country":"US",
+    "sg:address":"70 Landmark Hill Dr",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Junior College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 6370",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "technical",
+        "institute"
+    ],
+    "sg:website":"www.ccv.vsc.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eF8Vu4Aku0bIK99Oig9cU_42.875148_-72.557731@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311700,
+    "wof:geomhash":"9023019a8b42efa29288d610ada8a531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874093611
+        }
+    ],
+    "wof:id":874093611,
+    "wof:lastmodified":1464311700,
+    "wof:name":"Community College of Vermont",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "institute"
+    ]
+},
+  "bbox": [
+    -72.557731,
+    42.875148,
+    -72.557731,
+    42.875148
+],
+  "geometry": {"coordinates":[-72.557731,42.875148],"type":"Point"}
+}

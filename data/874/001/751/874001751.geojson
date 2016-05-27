@@ -1,0 +1,73 @@
+{
+  "id": 874001751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206061,44.42168,-73.206061,44.42168",
+    "geom:latitude":44.42168,
+    "geom:longitude":-73.206061,
+    "iso:country":"US",
+    "sg:address":"191 Allen Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 1337",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IOcXf9OS8rBixxb3CCJsB_44.421680_-73.206061@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310773,
+    "wof:geomhash":"2e2a19ccff66f3c3960f2e740b89730d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874001751
+        }
+    ],
+    "wof:id":874001751,
+    "wof:lastmodified":1464310773,
+    "wof:name":"Commercial Industrial Electric",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.206061,
+    44.42168,
+    -73.206061,
+    44.42168
+],
+  "geometry": {"coordinates":[-73.20606100000001,44.42168],"type":"Point"}
+}

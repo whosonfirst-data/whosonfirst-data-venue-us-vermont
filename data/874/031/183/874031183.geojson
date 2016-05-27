@@ -1,0 +1,73 @@
+{
+  "id": 874031183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.509726,44.203433,-72.509726,44.203433",
+    "geom:latitude":44.203433,
+    "geom:longitude":-72.509726,
+    "iso:country":"US",
+    "sg:address":"10 Blackwell St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4225",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "granite",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d0XvTQwjT69JNpEMGaLgU_44.203433_-72.509726@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311059,
+    "wof:geomhash":"bdbf9906b3146e949ce095ea2cde7b02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874031183
+        }
+    ],
+    "wof:id":874031183,
+    "wof:lastmodified":1464311059,
+    "wof:name":"Go Custom Polishing",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "granite",
+        "product"
+    ]
+},
+  "bbox": [
+    -72.509726,
+    44.203433,
+    -72.509726,
+    44.203433
+],
+  "geometry": {"coordinates":[-72.509726,44.203433],"type":"Point"}
+}

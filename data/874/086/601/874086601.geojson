@@ -1,0 +1,69 @@
+{
+  "id": 874086601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.590945,44.554215,-72.590945,44.554215",
+    "geom:latitude":44.554215,
+    "geom:longitude":-72.590945,
+    "iso:country":"US",
+    "sg:address":"579 Washington Hwy",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 7896",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zQdeFoWzcsmKqOHbdRRs7_44.554215_-72.590945@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311626,
+    "wof:geomhash":"db385ac4d20ef558e1f6279a4f9cd360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874086601
+        }
+    ],
+    "wof:id":874086601,
+    "wof:lastmodified":1464311626,
+    "wof:name":"Copley Terrace",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.590945,
+    44.554215,
+    -72.590945,
+    44.554215
+],
+  "geometry": {"coordinates":[-72.590945,44.554215],"type":"Point"}
+}

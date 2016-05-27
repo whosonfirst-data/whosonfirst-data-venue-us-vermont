@@ -1,0 +1,69 @@
+{
+  "id": 874234839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.707248,44.438826,-72.707248,44.438826",
+    "geom:latitude":44.438826,
+    "geom:longitude":-72.707248,
+    "iso:country":"US",
+    "sg:address":"150 Sky Acres Dr",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 8464",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Anj9kBJ5TS43unktNL4KQ_44.438826_-72.707248@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313236,
+    "wof:geomhash":"afab30cf35bdbe037c2629c095500b79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874234839
+        }
+    ],
+    "wof:id":874234839,
+    "wof:lastmodified":1464313236,
+    "wof:name":"Gardner's Eden",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.707248,
+    44.438826,
+    -72.707248,
+    44.438826
+],
+  "geometry": {"coordinates":[-72.70724800000001,44.438826],"type":"Point"}
+}

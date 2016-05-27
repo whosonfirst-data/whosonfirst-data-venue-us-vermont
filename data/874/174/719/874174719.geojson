@@ -1,0 +1,69 @@
+{
+  "id": 874174719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.558044,42.882579,-72.558044,42.882579",
+    "geom:latitude":42.882579,
+    "geom:longitude":-72.558044,
+    "iso:country":"US",
+    "sg:address":"1071 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 4286",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TnoYgfLTySRChTbHEv8wF_42.882579_-72.558044@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312576,
+    "wof:geomhash":"9b040e2e6f9ed2df4390d79065db3894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874174719
+        }
+    ],
+    "wof:id":874174719,
+    "wof:lastmodified":1464312576,
+    "wof:name":"T D Short Elect Mech",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.558044,
+    42.882579,
+    -72.558044,
+    42.882579
+],
+  "geometry": {"coordinates":[-72.558044,42.882579],"type":"Point"}
+}

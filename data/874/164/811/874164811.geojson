@@ -1,0 +1,71 @@
+{
+  "id": 874164811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.810669,44.257999,-72.810669,44.257999",
+    "geom:latitude":44.257999,
+    "geom:longitude":-72.810669,
+    "iso:country":"US",
+    "sg:address":"199 Ward Hill Rd",
+    "sg:city":"Moretown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 496 2198",
+    "sg:postcode":"05660",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815147,
+        102080779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xMulfVUDKfMLrJLDajQzd_44.257999_-72.810669@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312477,
+    "wof:geomhash":"59cde4f257e6e22be212c47dc5c74745",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "neighbourhood_id":85815147,
+            "region_id":85688763,
+            "venue_id":874164811
+        }
+    ],
+    "wof:id":874164811,
+    "wof:lastmodified":1464312477,
+    "wof:name":"Carlos Nelson Excavating",
+    "wof:parent_id":85815147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.810669,
+    44.257999,
+    -72.810669,
+    44.257999
+],
+  "geometry": {"coordinates":[-72.810669,44.257999],"type":"Point"}
+}

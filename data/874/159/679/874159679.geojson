@@ -1,0 +1,69 @@
+{
+  "id": 874159679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.869177,44.515879,-72.869177,44.515879",
+    "geom:latitude":44.515879,
+    "geom:longitude":-72.869177,
+    "iso:country":"US",
+    "sg:address":"84 Mountain Rd",
+    "sg:city":"Montgomery",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 326 4555",
+    "sg:postcode":"05489",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85851047,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cWg6yZVOBCqfS2b5bDSwS_44.515879_-72.869177@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312428,
+    "wof:geomhash":"2578ca4ebaf719bf0b1589ed8befff16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85851047,
+            "region_id":85688763,
+            "venue_id":874159679
+        }
+    ],
+    "wof:id":874159679,
+    "wof:lastmodified":1464312428,
+    "wof:name":"Montgomery Fire Dept",
+    "wof:parent_id":85851047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -72.869177,
+    44.515879,
+    -72.869177,
+    44.515879
+],
+  "geometry": {"coordinates":[-72.86917699999999,44.515879],"type":"Point"}
+}

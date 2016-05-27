@@ -1,0 +1,71 @@
+{
+  "id": 874217301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.473548,43.769636,-72.473548,43.769636",
+    "geom:latitude":43.769636,
+    "geom:longitude":-72.473548,
+    "iso:country":"US",
+    "sg:address":"60 Moore Rd",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 7676",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AggbZaYqFPr6LtprtwmnB_43.769636_-72.473548@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313025,
+    "wof:geomhash":"3e6f3b0baa352add3b364eca41a70203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874217301
+        }
+    ],
+    "wof:id":874217301,
+    "wof:lastmodified":1464313025,
+    "wof:name":"Christopher Electric",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.473548,
+    43.769636,
+    -72.473548,
+    43.769636
+],
+  "geometry": {"coordinates":[-72.47354799999999,43.769636],"type":"Point"}
+}

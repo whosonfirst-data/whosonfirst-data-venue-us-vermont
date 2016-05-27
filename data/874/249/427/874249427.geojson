@@ -1,0 +1,81 @@
+{
+  "id": 874249427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.183593,44.041252,-73.183593,44.041252",
+    "geom:latitude":44.041252,
+    "geom:longitude":-73.183593,
+    "iso:country":"US",
+    "sg:address":"74 Battell Dr",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2011",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "breeder",
+        "horse",
+        "stable"
+    ],
+    "sg:website":"http://www.uvm.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zXhdwvj161sQeo5sJdgZl_44.041273_-73.184272@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313550,
+    "wof:geomhash":"260f59980bb570352384991d89492e2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874249427
+        }
+    ],
+    "wof:id":874249427,
+    "wof:lastmodified":1464313550,
+    "wof:name":"Uvm Morgan Horse Farm",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "horse",
+        "stable"
+    ]
+},
+  "bbox": [
+    -73.183593,
+    44.041252,
+    -73.183593,
+    44.041252
+],
+  "geometry": {"coordinates":[-73.183593,44.041252],"type":"Point"}
+}

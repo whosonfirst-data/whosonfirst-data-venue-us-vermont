@@ -1,0 +1,73 @@
+{
+  "id": 874043115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.433129,44.278279,-72.433129,44.278279",
+    "geom:latitude":44.278279,
+    "geom:longitude":-72.433129,
+    "iso:country":"US",
+    "sg:address":"346 High St",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 454 1999",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bYv90N1frmfUOf3lDUYag_44.278279_-72.433129@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311177,
+    "wof:geomhash":"8452dab90bd67c81338e916be89e837b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874043115
+        }
+    ],
+    "wof:id":874043115,
+    "wof:lastmodified":1464311177,
+    "wof:name":"Allenwood Construction",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.433129,
+    44.278279,
+    -72.433129,
+    44.278279
+],
+  "geometry": {"coordinates":[-72.43312899999999,44.278279],"type":"Point"}
+}

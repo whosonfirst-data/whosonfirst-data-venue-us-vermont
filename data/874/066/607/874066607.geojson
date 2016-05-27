@@ -1,0 +1,71 @@
+{
+  "id": 874066607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.980587,43.607806,-72.980587,43.607806",
+    "geom:latitude":43.607806,
+    "geom:longitude":-72.980587,
+    "iso:country":"US",
+    "sg:address":"100 US Hwy 4 Bus",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 4110",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "skiing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KuJsShDuOIwGqiefax4SD_43.607806_-72.980587@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311394,
+    "wof:geomhash":"2f539e5e6b333604bd4a2b979d693793",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874066607
+        }
+    ],
+    "wof:id":874066607,
+    "wof:lastmodified":1464311394,
+    "wof:name":"Budget Ski Rental",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -72.980587,
+    43.607806,
+    -72.980587,
+    43.607806
+],
+  "geometry": {"coordinates":[-72.980587,43.607806],"type":"Point"}
+}

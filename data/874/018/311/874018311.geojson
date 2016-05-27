@@ -1,0 +1,71 @@
+{
+  "id": 874018311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.011044,44.420399,-72.011044,44.420399",
+    "geom:latitude":44.420399,
+    "geom:longitude":-72.011044,
+    "iso:country":"US",
+    "sg:address":"229 Portland St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 5634",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cXWIzF8SfO0ZT9fJAIWbA_44.420399_-72.011044@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310930,
+    "wof:geomhash":"7698096c86e5b4f1482a62fdd4fee49b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874018311
+        }
+    ],
+    "wof:id":874018311,
+    "wof:lastmodified":1464310930,
+    "wof:name":"St Johnsbury Animal Hospital",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -72.011044,
+    44.420399,
+    -72.011044,
+    44.420399
+],
+  "geometry": {"coordinates":[-72.011044,44.420399],"type":"Point"}
+}

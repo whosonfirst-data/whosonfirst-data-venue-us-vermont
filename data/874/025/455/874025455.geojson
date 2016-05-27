@@ -1,0 +1,73 @@
+{
+  "id": 874025455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.18015,44.010118,-73.18015,44.010118",
+    "geom:latitude":44.010118,
+    "geom:longitude":-73.18015,
+    "iso:country":"US",
+    "sg:address":"38 College St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 443 5000",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "arts",
+        "liberal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jz3y3hScphEod7sNRCYgw_44.010118_-73.180150@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311002,
+    "wof:geomhash":"2f709c7871bdbfa7a65b95ee9763e6eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874025455
+        }
+    ],
+    "wof:id":874025455,
+    "wof:lastmodified":1464311002,
+    "wof:name":"MIDDLEBURY COLLEGE",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arts",
+        "liberal"
+    ]
+},
+  "bbox": [
+    -73.18015,
+    44.010118,
+    -73.18015,
+    44.010118
+],
+  "geometry": {"coordinates":[-73.18015,44.010118],"type":"Point"}
+}

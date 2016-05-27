@@ -1,0 +1,75 @@
+{
+  "id": 874116181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.19696,42.883966,-73.19696,42.883966",
+    "geom:latitude":42.883966,
+    "geom:longitude":-73.19696,
+    "iso:country":"US",
+    "sg:address":"244 North St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 9257",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EZWUdVAsb6JSM5Hj2yy2q_42.883966_-73.196960@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311998,
+    "wof:geomhash":"3198a131d471ecd162fe6aeea02677ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874116181
+        }
+    ],
+    "wof:id":874116181,
+    "wof:lastmodified":1464311998,
+    "wof:name":"Sound Hearing",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ]
+},
+  "bbox": [
+    -73.19696,
+    42.883966,
+    -73.19696,
+    42.883966
+],
+  "geometry": {"coordinates":[-73.19696,42.883966],"type":"Point"}
+}

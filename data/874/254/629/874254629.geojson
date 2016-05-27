@@ -1,0 +1,69 @@
+{
+  "id": 874254629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.228897,44.3769,-73.228897,44.3769",
+    "geom:latitude":44.3769,
+    "geom:longitude":-73.228897,
+    "iso:country":"US",
+    "sg:address":"5070 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 5233",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pgboQWqUeckQB2J2Bc7PR_44.376900_-73.228897@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313662,
+    "wof:geomhash":"0a9e3bd6151692cfc987f7d549b77977",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874254629
+        }
+    ],
+    "wof:id":874254629,
+    "wof:lastmodified":1464313662,
+    "wof:name":"Kellner Bill DVM",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -73.228897,
+    44.3769,
+    -73.228897,
+    44.3769
+],
+  "geometry": {"coordinates":[-73.228897,44.3769],"type":"Point"}
+}

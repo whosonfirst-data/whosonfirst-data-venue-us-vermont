@@ -1,0 +1,71 @@
+{
+  "id": 873984289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.395428,43.643788,-72.395428,43.643788",
+    "geom:latitude":43.643788,
+    "geom:longitude":-72.395428,
+    "iso:country":"US",
+    "sg:address":"12 Tichenor Rd",
+    "sg:city":"Quechee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 436 1966",
+    "sg:postcode":"05059",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F9zzwt0qY9EcmKevxuvfj_43.643788_-72.395428@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310645,
+    "wof:geomhash":"ac77684e42f31b674f0e168295ceca6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":873984289
+        }
+    ],
+    "wof:id":873984289,
+    "wof:lastmodified":1464310645,
+    "wof:name":"Julie Ireland Photography",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -72.395428,
+    43.643788,
+    -72.395428,
+    43.643788
+],
+  "geometry": {"coordinates":[-72.395428,43.643788],"type":"Point"}
+}

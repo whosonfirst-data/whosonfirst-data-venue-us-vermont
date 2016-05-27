@@ -1,0 +1,69 @@
+{
+  "id": 873994829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.195026,42.879294,-73.195026,42.879294",
+    "geom:latitude":42.879294,
+    "geom:longitude":-73.195026,
+    "iso:country":"US",
+    "sg:address":"212 School St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 4793",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z0AwRX2tF8K4BX0hEUVsQ_42.879294_-73.195026@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310724,
+    "wof:geomhash":"d5a188298db0a2f384bd87c89a859193",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873994829
+        }
+    ],
+    "wof:id":873994829,
+    "wof:lastmodified":1464310724,
+    "wof:name":"Ed Colvin Realty Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    -73.195026,
+    42.879294,
+    -73.195026,
+    42.879294
+],
+  "geometry": {"coordinates":[-73.195026,42.879294],"type":"Point"}
+}

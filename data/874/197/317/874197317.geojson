@@ -1,0 +1,75 @@
+{
+  "id": 874197317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.689773,44.476057,-72.689773,44.476057",
+    "geom:latitude":44.476057,
+    "geom:longitude":-72.689773,
+    "iso:country":"US",
+    "sg:address":"100 Weeks Hill Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 8552",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bo9HfqYFf5yHnFMsinajZ_44.476057_-72.689773@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312819,
+    "wof:geomhash":"def301c546f72ff54139e2fbe3edf291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874197317
+        }
+    ],
+    "wof:id":874197317,
+    "wof:lastmodified":1464312819,
+    "wof:name":"Willie's Village Auto",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.689773,
+    44.476057,
+    -72.689773,
+    44.476057
+],
+  "geometry": {"coordinates":[-72.689773,44.476057],"type":"Point"}
+}

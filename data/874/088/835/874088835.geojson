@@ -1,0 +1,71 @@
+{
+  "id": 874088835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.130601,44.490901,-72.130601,44.490901",
+    "geom:latitude":44.490901,
+    "geom:longitude":-72.130601,
+    "iso:country":"US",
+    "sg:address":"566 Stannard Mountain Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 0892",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pclCeo7b7eUCba53JwgEp_44.490901_-72.130601@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311649,
+    "wof:geomhash":"96a71ded9e0a628c59ffbeb34f6b1093",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874088835
+        }
+    ],
+    "wof:id":874088835,
+    "wof:lastmodified":1464311649,
+    "wof:name":"Sugar Ridge Farm",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.130601,
+    44.490901,
+    -72.130601,
+    44.490901
+],
+  "geometry": {"coordinates":[-72.130601,44.490901],"type":"Point"}
+}

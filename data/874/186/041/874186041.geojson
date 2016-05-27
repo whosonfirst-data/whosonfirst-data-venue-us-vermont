@@ -1,0 +1,73 @@
+{
+  "id": 874186041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.243695,44.086338,-73.243695,44.086338",
+    "geom:latitude":44.086338,
+    "geom:longitude":-73.243695,
+    "iso:country":"US",
+    "sg:address":"4241 State Rte 17",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 759 2054",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25OXA8liDaGTRVYX8baj9E_44.086338_-73.243695@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312700,
+    "wof:geomhash":"68ca16aed57692f8091b216f93d00c69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874186041
+        }
+    ],
+    "wof:id":874186041,
+    "wof:lastmodified":1464312700,
+    "wof:name":"Reed's Sales & Svc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -73.243695,
+    44.086338,
+    -73.243695,
+    44.086338
+],
+  "geometry": {"coordinates":[-73.243695,44.086338],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874092559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.099688,44.494385,-73.099688,44.494385",
+    "geom:latitude":44.494385,
+    "geom:longitude":-73.099688,
+    "iso:country":"US",
+    "sg:address":"17 Brickyard Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 7820",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z2cWRKYiVXb1IqpjS7yB1_44.494385_-73.099688@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311691,
+    "wof:geomhash":"ae875dd55156dfd9408be070ea4c682e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874092559
+        }
+    ],
+    "wof:id":874092559,
+    "wof:lastmodified":1464311691,
+    "wof:name":"Stoneybrook Landscaping",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -73.099688,
+    44.494385,
+    -73.099688,
+    44.494385
+],
+  "geometry": {"coordinates":[-73.099688,44.494385],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874227039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.295693,44.103923,-73.295693,44.103923",
+    "geom:latitude":44.103923,
+    "geom:longitude":-73.295693,
+    "iso:country":"US",
+    "sg:address":"3851 State Rte 22A",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 759 2238",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X37ayRANzVk1I8GeebuL9_44.103923_-73.295693@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313131,
+    "wof:geomhash":"bc425f86a9fcd79fec650c0811346fe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874227039
+        }
+    ],
+    "wof:id":874227039,
+    "wof:lastmodified":1464313131,
+    "wof:name":"Kepm Trucking",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.295693,
+    44.103923,
+    -73.295693,
+    44.103923
+],
+  "geometry": {"coordinates":[-73.295693,44.103923],"type":"Point"}
+}

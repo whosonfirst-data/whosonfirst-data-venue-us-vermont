@@ -1,0 +1,73 @@
+{
+  "id": 874026731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206131,42.897085,-73.206131,42.897085",
+    "geom:latitude":42.897085,
+    "geom:longitude":-73.206131,
+    "iso:country":"US",
+    "sg:address":"139 Northside Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 8131",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ivBTmG2LVqHUEFa3Ppkxq_42.897085_-73.206131@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311014,
+    "wof:geomhash":"eeadf07996239fdf6b3e25dfa9088e92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874026731
+        }
+    ],
+    "wof:id":874026731,
+    "wof:lastmodified":1464311014,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -73.206131,
+    42.897085,
+    -73.206131,
+    42.897085
+],
+  "geometry": {"coordinates":[-73.206131,42.897085],"type":"Point"}
+}

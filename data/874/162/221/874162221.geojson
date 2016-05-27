@@ -1,0 +1,77 @@
+{
+  "id": 874162221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.478579,43.293799,-72.478579,43.293799",
+    "geom:latitude":43.293799,
+    "geom:longitude":-72.478579,
+    "iso:country":"US",
+    "sg:address":"29 Clinton St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 5791",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822381,
+        102191575,
+        404527377,
+        85633793,
+        101728481,
+        102080777,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QVo5RtxLpTv7DFHA9NjCt_43.293799_-72.478579@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312453,
+    "wof:geomhash":"ccb8312d21bfe27dd2b4206d5f750da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080777,
+            "localadmin_id":404527377,
+            "locality_id":101728481,
+            "neighbourhood_id":85822381,
+            "region_id":85688763,
+            "venue_id":874162221
+        }
+    ],
+    "wof:id":874162221,
+    "wof:lastmodified":1464312453,
+    "wof:name":"Bond Auto Parts",
+    "wof:parent_id":85822381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -72.478579,
+    43.293799,
+    -72.478579,
+    43.293799
+],
+  "geometry": {"coordinates":[-72.478579,43.293799],"type":"Point"}
+}

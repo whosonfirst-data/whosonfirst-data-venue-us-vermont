@@ -1,0 +1,73 @@
+{
+  "id": 874105183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.080483,43.810995,-73.080483,43.810995",
+    "geom:latitude":43.810995,
+    "geom:longitude":-73.080483,
+    "iso:country":"US",
+    "sg:address":"79 Stone Mill Dam Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 8002",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking",
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CyVieArlwwqdtM7sKcNfO_43.810995_-73.080483@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311859,
+    "wof:geomhash":"b54c5ba08ac5186918448071df49f281",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874105183
+        }
+    ],
+    "wof:id":874105183,
+    "wof:lastmodified":1464311859,
+    "wof:name":"Old Mill Inn",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "operation"
+    ]
+},
+  "bbox": [
+    -73.080483,
+    43.810995,
+    -73.080483,
+    43.810995
+],
+  "geometry": {"coordinates":[-73.080483,43.810995],"type":"Point"}
+}

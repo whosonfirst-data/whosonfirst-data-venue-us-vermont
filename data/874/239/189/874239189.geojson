@@ -1,0 +1,69 @@
+{
+  "id": 874239189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.800308,44.908426,-72.800308,44.908426",
+    "geom:latitude":44.908426,
+    "geom:longitude":-72.800308,
+    "iso:country":"US",
+    "sg:address":"76 Pleasant St",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 4123",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x9jTKzje65BM9SXoxnL7K_44.908426_-72.800308@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313325,
+    "wof:geomhash":"7d1c81e73944366808fe40d5108555da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874239189
+        }
+    ],
+    "wof:id":874239189,
+    "wof:lastmodified":1464313325,
+    "wof:name":"Enosburg Rental & Sales Inc",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -72.800308,
+    44.908426,
+    -72.800308,
+    44.908426
+],
+  "geometry": {"coordinates":[-72.800308,44.908426],"type":"Point"}
+}

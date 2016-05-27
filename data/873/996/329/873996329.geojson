@@ -1,0 +1,75 @@
+{
+  "id": 873996329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.553198,44.238741,-72.553198,44.238741",
+    "geom:latitude":44.238741,
+    "geom:longitude":-72.553198,
+    "iso:country":"US",
+    "sg:address":"2 Moonlight Ter",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 1990",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "accident",
+        "health",
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19I7JYYVI7HjcigIjvLASC_44.238741_-72.553198@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310735,
+    "wof:geomhash":"d283d7de4cf6dd80107a929ade6c34e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873996329
+        }
+    ],
+    "wof:id":873996329,
+    "wof:lastmodified":1464310735,
+    "wof:name":"American Income Life Insur Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accident",
+        "health",
+        "carrier"
+    ]
+},
+  "bbox": [
+    -72.553198,
+    44.238741,
+    -72.553198,
+    44.238741
+],
+  "geometry": {"coordinates":[-72.55319799999999,44.238741],"type":"Point"}
+}

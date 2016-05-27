@@ -1,0 +1,73 @@
+{
+  "id": 874106659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.979335,43.6201,-72.979335,43.6201",
+    "geom:latitude":43.6201,
+    "geom:longitude":-72.979335,
+    "iso:country":"US",
+    "sg:address":"169 Church St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3607",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73Zv0GlN1hJovgwfqNymAF_43.620100_-72.979335@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311879,
+    "wof:geomhash":"2532a27ba604967c7e7bddf50137e22e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874106659
+        }
+    ],
+    "wof:id":874106659,
+    "wof:lastmodified":1464311879,
+    "wof:name":"Christie Plumbing & Heating",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.979335,
+    43.6201,
+    -72.979335,
+    43.6201
+],
+  "geometry": {"coordinates":[-72.97933500000001,43.6201],"type":"Point"}
+}

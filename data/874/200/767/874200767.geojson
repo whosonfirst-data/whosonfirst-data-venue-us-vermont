@@ -1,0 +1,69 @@
+{
+  "id": 874200767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.492903,43.353371,-72.492903,43.353371",
+    "geom:latitude":43.353371,
+    "geom:longitude":-72.492903,
+    "iso:country":"US",
+    "sg:address":"46 Butterfield Hill Rd",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 5627",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cCMcfwa7QQyAaeCfsm08h_43.353371_-72.492903@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312851,
+    "wof:geomhash":"2f9d9bdee8c1c380fb24016ab6dd7e46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874200767
+        }
+    ],
+    "wof:id":874200767,
+    "wof:lastmodified":1464312851,
+    "wof:name":"George's Shuttle Svc Inc",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.492903,
+    43.353371,
+    -72.492903,
+    43.353371
+],
+  "geometry": {"coordinates":[-72.492903,43.353371],"type":"Point"}
+}

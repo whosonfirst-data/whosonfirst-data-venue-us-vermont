@@ -1,0 +1,71 @@
+{
+  "id": 874097877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.104255,43.986724,-73.104255,43.986724",
+    "geom:latitude":43.986724,
+    "geom:longitude":-73.104255,
+    "iso:country":"US",
+    "sg:address":"804 Case St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 6691",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TgRYq1mFZSjuk27hnf5YG_43.986724_-73.104255@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311755,
+    "wof:geomhash":"e5487b94c33e6c48d940203a0e92705f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874097877
+        }
+    ],
+    "wof:id":874097877,
+    "wof:lastmodified":1464311755,
+    "wof:name":"Andre Bergevin",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.104255,
+    43.986724,
+    -73.104255,
+    43.986724
+],
+  "geometry": {"coordinates":[-73.10425499999999,43.986724],"type":"Point"}
+}

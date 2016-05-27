@@ -1,0 +1,71 @@
+{
+  "id": 874151561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.164658,44.014718,-73.164658,44.014718",
+    "geom:latitude":44.014718,
+    "geom:longitude":-73.164658,
+    "iso:country":"US",
+    "sg:address":"10 Washington St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2741",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZtcssZjCRn8MpOjUK23lp_44.014718_-73.164658@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312342,
+    "wof:geomhash":"8038f4754a6377351fac5a6f65afd88e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874151561
+        }
+    ],
+    "wof:id":874151561,
+    "wof:lastmodified":1464312342,
+    "wof:name":"Joe's Barber Shop",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.164658,
+    44.014718,
+    -73.164658,
+    44.014718
+],
+  "geometry": {"coordinates":[-73.164658,44.014718],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874049811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.667555,43.952769,-72.667555,43.952769",
+    "geom:latitude":43.952769,
+    "geom:longitude":-72.667555,
+    "iso:country":"US",
+    "sg:address":"684 Labounty Rd",
+    "sg:city":"Randolph",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 728 5135",
+    "sg:postcode":"05060",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85841465,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08o6ypiqH6X2xosBEANmtA_43.952769_-72.667555@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311239,
+    "wof:geomhash":"707abd622c325c28c79232832adba11a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85841465,
+            "region_id":85688763,
+            "venue_id":874049811
+        }
+    ],
+    "wof:id":874049811,
+    "wof:lastmodified":1464311239,
+    "wof:name":"La Bountys Dairy",
+    "wof:parent_id":85841465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.667555,
+    43.952769,
+    -72.667555,
+    43.952769
+],
+  "geometry": {"coordinates":[-72.66755499999999,43.952769],"type":"Point"}
+}

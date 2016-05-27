@@ -1,0 +1,69 @@
+{
+  "id": 874234243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.067253,43.87098,-73.067253,43.87098",
+    "geom:latitude":43.87098,
+    "geom:longitude":-73.067253,
+    "iso:country":"US",
+    "sg:address":"111 Partridge Trl",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 4717",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WdlQIJPTUPSbtQHgMYZLM_43.870980_-73.067253@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313225,
+    "wof:geomhash":"b5531efbb5a3e0753437ddeec7facfd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874234243
+        }
+    ],
+    "wof:id":874234243,
+    "wof:lastmodified":1464313225,
+    "wof:name":"West Central Vermont",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.067253,
+    43.87098,
+    -73.067253,
+    43.87098
+],
+  "geometry": {"coordinates":[-73.06725299999999,43.87098],"type":"Point"}
+}

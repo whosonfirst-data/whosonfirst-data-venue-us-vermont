@@ -1,0 +1,73 @@
+{
+  "id": 874255587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.958983,43.622191,-72.958983,43.622191",
+    "geom:latitude":43.622191,
+    "geom:longitude":-72.958983,
+    "iso:country":"US",
+    "sg:address":"8 Laverne Dr",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 8523",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "place",
+        "arcade",
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31ES36YxvhbLFxyIT0U3eN_43.622191_-72.958983@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313688,
+    "wof:geomhash":"97be05dfaac4a44138dc4c423b165b13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255587
+        }
+    ],
+    "wof:id":874255587,
+    "wof:lastmodified":1464313688,
+    "wof:name":"Amyland Amusements",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "place",
+        "arcade",
+        "amusement"
+    ]
+},
+  "bbox": [
+    -72.958983,
+    43.622191,
+    -72.958983,
+    43.622191
+],
+  "geometry": {"coordinates":[-72.958983,43.622191],"type":"Point"}
+}

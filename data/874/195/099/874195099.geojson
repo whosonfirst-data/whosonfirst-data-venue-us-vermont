@@ -1,0 +1,71 @@
+{
+  "id": 874195099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.816323,44.269221,-72.816323,44.269221",
+    "geom:latitude":44.269221,
+    "geom:longitude":-72.816323,
+    "iso:country":"US",
+    "sg:address":"2286 Dowsville Rd",
+    "sg:city":"Moretown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 244 5679",
+    "sg:postcode":"05660",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815147,
+        102080779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CIqcN2tYtu8DyFdHzpjZa_44.269221_-72.816323@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312795,
+    "wof:geomhash":"37dcec2a40fd37574f1e797f629d3fed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "neighbourhood_id":85815147,
+            "region_id":85688763,
+            "venue_id":874195099
+        }
+    ],
+    "wof:id":874195099,
+    "wof:lastmodified":1464312795,
+    "wof:name":"Boyden Property",
+    "wof:parent_id":85815147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.816323,
+    44.269221,
+    -72.816323,
+    44.269221
+],
+  "geometry": {"coordinates":[-72.816323,44.269221],"type":"Point"}
+}

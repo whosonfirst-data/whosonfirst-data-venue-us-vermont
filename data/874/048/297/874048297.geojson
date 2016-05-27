@@ -1,0 +1,73 @@
+{
+  "id": 874048297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.509188,44.203992,-72.509188,44.203992",
+    "geom:latitude":44.203992,
+    "geom:longitude":-72.509188,
+    "iso:country":"US",
+    "sg:address":"425 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3535",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CaPmXhe4pxBhdEbs4LbKw_44.203992_-72.509188@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311226,
+    "wof:geomhash":"9e1c649d137ee8d00ea1b420d4bd6402",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874048297
+        }
+    ],
+    "wof:id":874048297,
+    "wof:lastmodified":1464311226,
+    "wof:name":"Thrifty Car Rental",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.509188,
+    44.203992,
+    -72.509188,
+    44.203992
+],
+  "geometry": {"coordinates":[-72.50918799999999,44.203992],"type":"Point"}
+}

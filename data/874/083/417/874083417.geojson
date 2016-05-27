@@ -1,0 +1,80 @@
+{
+  "id": 874083417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.507198,44.199988,-72.507198,44.199988",
+    "geom:latitude":44.199988,
+    "geom:longitude":-72.507198,
+    "iso:country":"US",
+    "sg:address":"27 Gable Pl",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9201",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "occupational",
+        "safety",
+        "occupation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YLOjk4MxCTHsYIMMnV4tS_44.199988_-72.507198@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311593,
+    "wof:geomhash":"4b1dbcce096e62d7f7f2f41d3ec307f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874083417
+        }
+    ],
+    "wof:id":874083417,
+    "wof:lastmodified":1464311593,
+    "wof:name":"Para Med Plus",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "occupational",
+        "safety",
+        "occupation"
+    ]
+},
+  "bbox": [
+    -72.507198,
+    44.199988,
+    -72.507198,
+    44.199988
+],
+  "geometry": {"coordinates":[-72.507198,44.199988],"type":"Point"}
+}

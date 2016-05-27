@@ -1,0 +1,75 @@
+{
+  "id": 874177495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.09337,43.765941,-73.09337,43.765941",
+    "geom:latitude":43.765941,
+    "geom:longitude":-73.09337,
+    "iso:country":"US",
+    "sg:address":"2843 Union St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 5528",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77BMXEvRSuUJ7vSIHA6LNn_43.765941_-73.093370@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312601,
+    "wof:geomhash":"cfd2df2f6ab60ebe82532185c07ae3b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874177495
+        }
+    ],
+    "wof:id":874177495,
+    "wof:lastmodified":1464312601,
+    "wof:name":"Gale B Parmelee Inc",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.09337,
+    43.765941,
+    -73.09337,
+    43.765941
+],
+  "geometry": {"coordinates":[-73.09336999999999,43.765941],"type":"Point"}
+}

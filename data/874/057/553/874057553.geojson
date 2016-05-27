@@ -1,0 +1,71 @@
+{
+  "id": 874057553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.811089,44.632358,-72.811089,44.632358",
+    "geom:latitude":44.632358,
+    "geom:longitude":-72.811089,
+    "iso:country":"US",
+    "sg:address":"1243 Junction Hill Rd",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8300",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pottery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GsQVTcJu2hyKkK6GJZM0a_44.632358_-72.811089@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311314,
+    "wof:geomhash":"eaf97a43cf6d8a936582e4ad0126e7e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874057553
+        }
+    ],
+    "wof:id":874057553,
+    "wof:lastmodified":1464311314,
+    "wof:name":"Windridge Pottery Studio",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pottery"
+    ]
+},
+  "bbox": [
+    -72.811089,
+    44.632358,
+    -72.811089,
+    44.632358
+],
+  "geometry": {"coordinates":[-72.811089,44.632358],"type":"Point"}
+}

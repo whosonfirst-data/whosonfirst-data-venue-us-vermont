@@ -1,0 +1,73 @@
+{
+  "id": 874254313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.872833,44.648241,-72.872833,44.648241",
+    "geom:latitude":44.648241,
+    "geom:longitude":-72.872833,
+    "iso:country":"US",
+    "sg:address":"15 Pumpkin Harbor RD",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 399 8465",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil",
+        "change"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cmXWdfkAXzsFhdzfbrK7h_44.648241_-72.872833@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313653,
+    "wof:geomhash":"8d03f5a92e2183dee6b51ff2892d77d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874254313
+        }
+    ],
+    "wof:id":874254313,
+    "wof:lastmodified":1464313653,
+    "wof:name":"Trusted Hands Auto",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "change"
+    ]
+},
+  "bbox": [
+    -72.872833,
+    44.648241,
+    -72.872833,
+    44.648241
+],
+  "geometry": {"coordinates":[-72.872833,44.648241],"type":"Point"}
+}

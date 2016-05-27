@@ -1,0 +1,80 @@
+{
+  "id": 874123159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.566194,44.208107,-72.566194,44.208107",
+    "geom:latitude":44.208107,
+    "geom:longitude":-72.566194,
+    "iso:country":"US",
+    "sg:address":"115 Granger Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 7516",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "general",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tNI6rEWZ9me72VFYJAdqZ_44.208107_-72.566194@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312069,
+    "wof:geomhash":"940f15beb5a8b7d94affe117250f6a7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874123159
+        }
+    ],
+    "wof:id":874123159,
+    "wof:lastmodified":1464312069,
+    "wof:name":"Burlington Foreign Car Parts",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "general",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.566194,
+    44.208107,
+    -72.566194,
+    44.208107
+],
+  "geometry": {"coordinates":[-72.566194,44.208107],"type":"Point"}
+}

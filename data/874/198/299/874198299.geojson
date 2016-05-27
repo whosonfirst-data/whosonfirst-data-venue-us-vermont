@@ -1,0 +1,75 @@
+{
+  "id": 874198299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.82565,44.679185,-72.82565,44.679185",
+    "geom:latitude":44.679185,
+    "geom:longitude":-72.82565,
+    "iso:country":"US",
+    "sg:address":"2220 State Rte 108",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 355 4480",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "electronics",
+        "audio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6US1TILlMMvyjXHVQUDnoH_44.679185_-72.825650@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312828,
+    "wof:geomhash":"88aadecb2fa2b343756d3ea59f9b790a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874198299
+        }
+    ],
+    "wof:id":874198299,
+    "wof:lastmodified":1464312828,
+    "wof:name":"Audio Expression",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "electronics",
+        "audio"
+    ]
+},
+  "bbox": [
+    -72.82565,
+    44.679185,
+    -72.82565,
+    44.679185
+],
+  "geometry": {"coordinates":[-72.82565,44.679185],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874029883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.068665,44.328171,-72.068665,44.328171",
+    "geom:latitude":44.328171,
+    "geom:longitude":-72.068665,
+    "iso:country":"US",
+    "sg:address":"1644 Barnet Center Rd",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 3333",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32VBFoPGhVjDq0jcIXiSqo_44.328171_-72.068665@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311048,
+    "wof:geomhash":"af6472ee2e60ea0c71d90838243e3211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874029883
+        }
+    ],
+    "wof:id":874029883,
+    "wof:lastmodified":1464311048,
+    "wof:name":"Hodgepodge Pets",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.068665,
+    44.328171,
+    -72.068665,
+    44.328171
+],
+  "geometry": {"coordinates":[-72.068665,44.328171],"type":"Point"}
+}

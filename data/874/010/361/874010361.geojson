@@ -1,0 +1,73 @@
+{
+  "id": 874010361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.466306,43.652547,-72.466306,43.652547",
+    "geom:latitude":43.652547,
+    "geom:longitude":-72.466306,
+    "iso:country":"US",
+    "sg:address":"35 Spaulding Ln",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 457 4026",
+    "sg:postcode":"05091",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kaaJpLKdv2uqgxRtuHa8O_43.652547_-72.466306@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310858,
+    "wof:geomhash":"ad405578676e7a5a537fbaa5c95f09bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874010361
+        }
+    ],
+    "wof:id":874010361,
+    "wof:lastmodified":1464310858,
+    "wof:name":"Granite Farm",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.466306,
+    43.652547,
+    -72.466306,
+    43.652547
+],
+  "geometry": {"coordinates":[-72.466306,43.652547],"type":"Point"}
+}

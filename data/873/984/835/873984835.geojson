@@ -1,0 +1,66 @@
+{
+  "id": 873984835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.385511,44.317968,-72.385511,44.317968",
+    "geom:latitude":44.317968,
+    "geom:longitude":-72.385511,
+    "iso:country":"US",
+    "sg:address":"4618 US Hwy 2",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3359",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mbLQR5oJhPCBk3GwIHyKe_44.317968_-72.385511@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310649,
+    "wof:geomhash":"c9108e1e87aecfe88913b019348e3a22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":873984835
+        }
+    ],
+    "wof:id":873984835,
+    "wof:lastmodified":1464310649,
+    "wof:name":"Bickford Farm",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.385511,
+    44.317968,
+    -72.385511,
+    44.317968
+],
+  "geometry": {"coordinates":[-72.38551099999999,44.317968],"type":"Point"}
+}

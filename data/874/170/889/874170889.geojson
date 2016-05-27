@@ -1,0 +1,76 @@
+{
+  "id": 874170889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.168047,44.466277,-73.168047,44.466277",
+    "geom:latitude":44.466277,
+    "geom:longitude":-73.168047,
+    "iso:country":"US",
+    "sg:address":"1186 Williston Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 0143",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mail",
+        "product",
+        "house"
+    ],
+    "sg:website":"www.cheesetraders.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qAMv5GA4NEH8MhKBOW7eQ_44.466277_-73.168047@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312535,
+    "wof:geomhash":"a53197eed0862d6e04c9e5d390f96dfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874170889
+        }
+    ],
+    "wof:id":874170889,
+    "wof:lastmodified":1464312535,
+    "wof:name":"Cheese Traders",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "product",
+        "house"
+    ]
+},
+  "bbox": [
+    -73.168047,
+    44.466277,
+    -73.168047,
+    44.466277
+],
+  "geometry": {"coordinates":[-73.168047,44.466277],"type":"Point"}
+}

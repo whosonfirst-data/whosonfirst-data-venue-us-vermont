@@ -1,0 +1,73 @@
+{
+  "id": 874058591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.950537,43.608098,-72.950537,43.608098",
+    "geom:latitude":43.608098,
+    "geom:longitude":-72.950537,
+    "iso:country":"US",
+    "sg:address":"1 Alta Ter",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3411",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "haul",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TIKoMjr3eHItHpYp9GrNk_43.608098_-72.950537@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311322,
+    "wof:geomhash":"3fe8e75cd55f21313489e8f9ffd65caa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874058591
+        }
+    ],
+    "wof:id":874058591,
+    "wof:lastmodified":1464311322,
+    "wof:name":"Crossroads Transportation",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "haul",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.950537,
+    43.608098,
+    -72.950537,
+    43.608098
+],
+  "geometry": {"coordinates":[-72.950537,43.608098],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874136801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.108773,44.491923,-73.108773,44.491923",
+    "geom:latitude":44.491923,
+    "geom:longitude":-73.108773,
+    "iso:country":"US",
+    "sg:address":"30 Main St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 3534",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair",
+        "station",
+        "oil",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y2NkrXmaYIX7V0c3bIkGf_44.491923_-73.108773@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312207,
+    "wof:geomhash":"d093f5e992112a2ca9776524e82412bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874136801
+        }
+    ],
+    "wof:id":874136801,
+    "wof:lastmodified":1464312207,
+    "wof:name":"Busheys Auto Repair",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "station",
+        "oil",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.108773,
+    44.491923,
+    -73.108773,
+    44.491923
+],
+  "geometry": {"coordinates":[-73.108773,44.491923],"type":"Point"}
+}

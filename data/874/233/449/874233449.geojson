@@ -1,0 +1,71 @@
+{
+  "id": 874233449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.485824,44.229575,-72.485824,44.229575",
+    "geom:latitude":44.229575,
+    "geom:longitude":-72.485824,
+    "iso:country":"US",
+    "sg:address":"699 Clark Rd",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4062",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mMSzzqqVewAbbMzkAF09R_44.229575_-72.485824@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313208,
+    "wof:geomhash":"4f2b35ea22cd2ddb35e06e3c0b684c93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874233449
+        }
+    ],
+    "wof:id":874233449,
+    "wof:lastmodified":1464313208,
+    "wof:name":"ATM Computers",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -72.485824,
+    44.229575,
+    -72.485824,
+    44.229575
+],
+  "geometry": {"coordinates":[-72.48582399999999,44.229575],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874181441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.242556,42.930304,-73.242556,42.930304",
+    "geom:latitude":42.930304,
+    "geom:longitude":-73.242556,
+    "iso:country":"US",
+    "sg:address":"6 Bank St",
+    "sg:city":"North Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 2424",
+    "sg:postcode":"05257",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lh3yAtjoxtJG7TpaZAftl_42.930304_-73.242556@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312645,
+    "wof:geomhash":"8d580450534e5caf138ff1af4474a2a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874181441
+        }
+    ],
+    "wof:id":874181441,
+    "wof:lastmodified":1464312645,
+    "wof:name":"Bennington Coalition Homeless",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.242556,
+    42.930304,
+    -73.242556,
+    42.930304
+],
+  "geometry": {"coordinates":[-73.24255599999999,42.930304],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874209733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.486967,44.192443,-72.486967,44.192443",
+    "geom:latitude":44.192443,
+    "geom:longitude":-72.486967,
+    "iso:country":"US",
+    "sg:address":"201 Hill St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1477",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gotXRzvwypF8c6LTDJl4e_44.192443_-72.486967@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312946,
+    "wof:geomhash":"e1d8110efa12c068c65e1f99e8cb29fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874209733
+        }
+    ],
+    "wof:id":874209733,
+    "wof:lastmodified":1464312946,
+    "wof:name":"Washington County Mental Hlth",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -72.486967,
+    44.192443,
+    -72.486967,
+    44.192443
+],
+  "geometry": {"coordinates":[-72.48696700000001,44.192443],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874246313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.29628,44.555644,-73.29628,44.555644",
+    "geom:latitude":44.555644,
+    "geom:longitude":-73.29628,
+    "iso:country":"US",
+    "sg:address":"160 Whitecap Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 0309",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850949,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UEs6bVLFMEGjwg4uwcJm1_44.555644_-73.296280@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313459,
+    "wof:geomhash":"3d41a17ccaf89c3b7b47415254b0c34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85850949,
+            "region_id":85688763,
+            "venue_id":874246313
+        }
+    ],
+    "wof:id":874246313,
+    "wof:lastmodified":1464313459,
+    "wof:name":"Farrington Transport",
+    "wof:parent_id":85850949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.29628,
+    44.555644,
+    -73.29628,
+    44.555644
+],
+  "geometry": {"coordinates":[-73.29628,44.555644],"type":"Point"}
+}

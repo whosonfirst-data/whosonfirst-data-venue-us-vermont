@@ -1,0 +1,71 @@
+{
+  "id": 874068869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.162222,44.008889,-73.162222,44.008889",
+    "geom:latitude":44.008889,
+    "geom:longitude":-73.162222,
+    "iso:country":"US",
+    "sg:address":"63 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3460",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drafting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5niztJocXAlOYrwD8HRJpL_44.008889_-73.162222@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311421,
+    "wof:geomhash":"ee75ee39dc606b927ecca6705f5ebdfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874068869
+        }
+    ],
+    "wof:id":874068869,
+    "wof:lastmodified":1464311421,
+    "wof:name":"Drew Drafting & Design",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drafting"
+    ]
+},
+  "bbox": [
+    -73.162222,
+    44.008889,
+    -73.162222,
+    44.008889
+],
+  "geometry": {"coordinates":[-73.162222,44.008889],"type":"Point"}
+}

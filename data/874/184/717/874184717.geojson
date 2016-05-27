@@ -1,0 +1,69 @@
+{
+  "id": 874184717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015044,44.421756,-72.015044,44.421756",
+    "geom:latitude":44.421756,
+    "geom:longitude":-72.015044,
+    "iso:country":"US",
+    "sg:address":"715 Railroad St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 0111",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FpYgmzYB4xRMJXE04078O_44.421756_-72.015044@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312687,
+    "wof:geomhash":"4b6a4be1f769b565357bb0d181c16be9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874184717
+        }
+    ],
+    "wof:id":874184717,
+    "wof:lastmodified":1464312687,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -72.015044,
+    44.421756,
+    -72.015044,
+    44.421756
+],
+  "geometry": {"coordinates":[-72.015044,44.421756],"type":"Point"}
+}

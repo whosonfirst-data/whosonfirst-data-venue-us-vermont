@@ -1,0 +1,71 @@
+{
+  "id": 874080417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.217342,44.388687,-73.217342,44.388687",
+    "geom:latitude":44.388687,
+    "geom:longitude":-73.217342,
+    "iso:country":"US",
+    "sg:address":"4 Acorn Ln",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 9487",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ItF7CR9K0vWcmv0CrvEWW_44.388687_-73.217342@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311555,
+    "wof:geomhash":"7f6e06148851734cea8a0346772280d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874080417
+        }
+    ],
+    "wof:id":874080417,
+    "wof:lastmodified":1464311555,
+    "wof:name":"L Thompson Paint",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "washing"
+    ]
+},
+  "bbox": [
+    -73.217342,
+    44.388687,
+    -73.217342,
+    44.388687
+],
+  "geometry": {"coordinates":[-73.217342,44.388687],"type":"Point"}
+}

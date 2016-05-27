@@ -1,0 +1,71 @@
+{
+  "id": 874002755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.598202,44.557316,-72.598202,44.557316",
+    "geom:latitude":44.557316,
+    "geom:longitude":-72.598202,
+    "iso:country":"US",
+    "sg:address":"46 Howard St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 2362",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wOa0rlaApsHN1Sia0fWD6_44.557316_-72.598202@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310789,
+    "wof:geomhash":"3f2c2e3b5592ebf3570e0b1a4581a152",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874002755
+        }
+    ],
+    "wof:id":874002755,
+    "wof:lastmodified":1464310789,
+    "wof:name":"Wilder Electric",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.598202,
+    44.557316,
+    -72.598202,
+    44.557316
+],
+  "geometry": {"coordinates":[-72.598202,44.557316],"type":"Point"}
+}

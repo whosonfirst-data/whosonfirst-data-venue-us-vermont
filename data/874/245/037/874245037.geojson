@@ -1,0 +1,73 @@
+{
+  "id": 874245037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.092733,43.800133,-73.092733,43.800133",
+    "geom:latitude":43.800133,
+    "geom:longitude":-73.092733,
+    "iso:country":"US",
+    "sg:address":"11 Conant Sq",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 5210",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FwEAtaqwMsm67QrtsLSsa_43.800133_-73.092733@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313435,
+    "wof:geomhash":"75003097cb962d0ad0439cf70c74ab5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874245037
+        }
+    ],
+    "wof:id":874245037,
+    "wof:lastmodified":1464313435,
+    "wof:name":"Neshobe Family Network",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.092733,
+    43.800133,
+    -73.092733,
+    43.800133
+],
+  "geometry": {"coordinates":[-73.092733,43.800133],"type":"Point"}
+}

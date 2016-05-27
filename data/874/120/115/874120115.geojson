@@ -1,0 +1,69 @@
+{
+  "id": 874120115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.139809,43.991138,-73.139809,43.991138",
+    "geom:latitude":43.991138,
+    "geom:longitude":-73.139809,
+    "iso:country":"US",
+    "sg:address":"1007 US Hwy 7",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4362",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WpnQFxTpE113EZUPlRgQs_43.991138_-73.139809@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312042,
+    "wof:geomhash":"79eb40068a39c83781afe4d052b1ad62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874120115
+        }
+    ],
+    "wof:id":874120115,
+    "wof:lastmodified":1464312042,
+    "wof:name":"US Forest Svc Ranger Station",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -73.139809,
+    43.991138,
+    -73.139809,
+    43.991138
+],
+  "geometry": {"coordinates":[-73.139809,43.991138],"type":"Point"}
+}

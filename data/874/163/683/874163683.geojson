@@ -1,0 +1,70 @@
+{
+  "id": 874163683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.45338,44.15905,-72.45338,44.15905",
+    "geom:latitude":44.15905,
+    "geom:longitude":-72.45338,
+    "iso:country":"US",
+    "sg:address":"14 Church St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 5613",
+    "sg:postcode":"05649",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853237,
+        102191575,
+        404527421,
+        85633793,
+        101728527,
+        102080779,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d9jJF8ANTnfhXzALRwzJ4_44.159050_-72.453380@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312466,
+    "wof:geomhash":"61670b377f36731b6d7ef6e2c428ec6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080779,
+            "localadmin_id":404527421,
+            "locality_id":101728527,
+            "neighbourhood_id":85853237,
+            "region_id":85688763,
+            "venue_id":874163683
+        }
+    ],
+    "wof:id":874163683,
+    "wof:lastmodified":1464312466,
+    "wof:name":"Fayes Floral & Fan",
+    "wof:parent_id":85853237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.45338,
+    44.15905,
+    -72.45338,
+    44.15905
+],
+  "geometry": {"coordinates":[-72.45338,44.15905],"type":"Point"}
+}

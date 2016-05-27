@@ -1,0 +1,71 @@
+{
+  "id": 874096855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208043,44.468339,-73.208043,44.468339",
+    "geom:latitude":44.468339,
+    "geom:longitude":-73.208043,
+    "iso:country":"US",
+    "sg:address":"444 S Union St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 3332",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K605gy3izsGpOKZ8OCxer_44.468339_-73.208043@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311741,
+    "wof:geomhash":"8b269836716027b6344b1d814963f62a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874096855
+        }
+    ],
+    "wof:id":874096855,
+    "wof:lastmodified":1464311741,
+    "wof:name":"Union Street Media",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -73.208043,
+    44.468339,
+    -73.208043,
+    44.468339
+],
+  "geometry": {"coordinates":[-73.208043,44.468339],"type":"Point"}
+}

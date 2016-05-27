@@ -1,0 +1,73 @@
+{
+  "id": 874065287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.615695,44.549989,-72.615695,44.549989",
+    "geom:latitude":44.549989,
+    "geom:longitude":-72.615695,
+    "iso:country":"US",
+    "sg:address":"1411 Laporte Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 4078",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JdeNEtm8XagvD4xepLMNj_44.549989_-72.615695@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311382,
+    "wof:geomhash":"20ef21fa2d1f67abe27bc16a568f2625",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874065287
+        }
+    ],
+    "wof:id":874065287,
+    "wof:lastmodified":1464311382,
+    "wof:name":"Hess's Used Cars",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.615695,
+    44.549989,
+    -72.615695,
+    44.549989
+],
+  "geometry": {"coordinates":[-72.615695,44.549989],"type":"Point"}
+}

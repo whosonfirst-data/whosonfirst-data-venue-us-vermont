@@ -1,0 +1,75 @@
+{
+  "id": 874255199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.244668,44.128316,-73.244668,44.128316",
+    "geom:latitude":44.128316,
+    "geom:longitude":-73.244668,
+    "iso:country":"US",
+    "sg:address":"2217 Maple St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2463",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment-wholesale",
+        "manufacturer",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Uw3lk6d3wMsybIhkohYnw_44.128316_-73.244668@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313680,
+    "wof:geomhash":"6bbda10c6e7f53156be0b29b7e8484a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874255199
+        }
+    ],
+    "wof:id":874255199,
+    "wof:lastmodified":1464313680,
+    "wof:name":"Commercial Furnishing & Supply",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-wholesale",
+        "manufacturer",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -73.244668,
+    44.128316,
+    -73.244668,
+    44.128316
+],
+  "geometry": {"coordinates":[-73.244668,44.128316],"type":"Point"}
+}

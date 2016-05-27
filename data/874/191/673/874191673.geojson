@@ -1,0 +1,69 @@
+{
+  "id": 874191673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.827171,43.438291,-72.827171,43.438291",
+    "geom:latitude":43.438291,
+    "geom:longitude":-72.827171,
+    "iso:country":"US",
+    "sg:address":"578 Belmont Rd",
+    "sg:city":"Belmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 259 3155",
+    "sg:postcode":"05730",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zj4eILl8IL3Mi7ERSON47_43.438291_-72.827171@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312755,
+    "wof:geomhash":"015423571a958220104a76c33533e940",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874191673
+        }
+    ],
+    "wof:id":874191673,
+    "wof:lastmodified":1464312755,
+    "wof:name":"Mikro Auto",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -72.827171,
+    43.438291,
+    -72.827171,
+    43.438291
+],
+  "geometry": {"coordinates":[-72.82717100000001,43.438291],"type":"Point"}
+}

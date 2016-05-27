@@ -1,0 +1,71 @@
+{
+  "id": 874194519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.522936,43.354131,-72.522936,43.354131",
+    "geom:latitude":43.354131,
+    "geom:longitude":-72.522936,
+    "iso:country":"US",
+    "sg:address":"22 Kendricks Corner Rd",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 9474",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FX9mCBP5n9VkZHRFulnWG_43.354131_-72.522936@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312785,
+    "wof:geomhash":"3a4fa8c684ea4c738a3698f2319a35aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874194519
+        }
+    ],
+    "wof:id":874194519,
+    "wof:lastmodified":1464312785,
+    "wof:name":"VPE Inc",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.522936,
+    43.354131,
+    -72.522936,
+    43.354131
+],
+  "geometry": {"coordinates":[-72.522936,43.354131],"type":"Point"}
+}

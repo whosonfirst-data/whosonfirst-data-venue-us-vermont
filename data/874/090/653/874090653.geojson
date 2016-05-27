@@ -1,0 +1,69 @@
+{
+  "id": 874090653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.681148,44.438618,-72.681148,44.438618",
+    "geom:latitude":44.438618,
+    "geom:longitude":-72.681148,
+    "iso:country":"US",
+    "sg:address":"2359 Stowe Hollow Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7966",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U1Qx8TcIzUKLCDX6gIsBo_44.438618_-72.681148@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311669,
+    "wof:geomhash":"296e9c1f517aa588d79cc0d75a459ea4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874090653
+        }
+    ],
+    "wof:id":874090653,
+    "wof:lastmodified":1464311669,
+    "wof:name":"Chuck Wagon",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.681148,
+    44.438618,
+    -72.681148,
+    44.438618
+],
+  "geometry": {"coordinates":[-72.68114799999999,44.438618],"type":"Point"}
+}

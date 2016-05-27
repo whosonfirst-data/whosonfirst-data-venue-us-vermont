@@ -1,0 +1,71 @@
+{
+  "id": 874215421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.192941,44.039726,-73.192941,44.039726",
+    "geom:latitude":44.039726,
+    "geom:longitude":-73.192941,
+    "iso:country":"US",
+    "sg:address":"758 Sheep Farm Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2128",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SvZ4GFu21tpM9NjdwPQ5M_44.039726_-73.192941@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313008,
+    "wof:geomhash":"ab0089bdf622828a6d5754068a55e6ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874215421
+        }
+    ],
+    "wof:id":874215421,
+    "wof:lastmodified":1464313008,
+    "wof:name":"Cafe Alta Gracia",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.192941,
+    44.039726,
+    -73.192941,
+    44.039726
+],
+  "geometry": {"coordinates":[-73.192941,44.039726],"type":"Point"}
+}

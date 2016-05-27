@@ -1,0 +1,69 @@
+{
+  "id": 874244489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.003622,44.534832,-72.003622,44.534832",
+    "geom:latitude":44.534832,
+    "geom:longitude":-72.003622,
+    "iso:country":"US",
+    "sg:address":"23 Church St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 5057",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MbnLiLOiaNaStz3X8b7CP_44.534832_-72.003622@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313425,
+    "wof:geomhash":"a694ebb45518801edd5c0c60f68d6285",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874244489
+        }
+    ],
+    "wof:id":874244489,
+    "wof:lastmodified":1464313425,
+    "wof:name":"Lyndonville United Methodist",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.003622,
+    44.534832,
+    -72.003622,
+    44.534832
+],
+  "geometry": {"coordinates":[-72.00362199999999,44.534832],"type":"Point"}
+}

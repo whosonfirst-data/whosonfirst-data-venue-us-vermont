@@ -1,0 +1,73 @@
+{
+  "id": 874111873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.220914,44.016009,-73.220914,44.016009",
+    "geom:latitude":44.016009,
+    "geom:longitude":-73.220914,
+    "iso:country":"US",
+    "sg:address":"822 Lemon Fair Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2263",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00noMeuruTaRrCY4H2rXBX_44.016009_-73.220914@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311955,
+    "wof:geomhash":"1c51b8aff054bad09514615c6996d4d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874111873
+        }
+    ],
+    "wof:id":874111873,
+    "wof:lastmodified":1464311955,
+    "wof:name":"Homestead Enterprises",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.220914,
+    44.016009,
+    -73.220914,
+    44.016009
+],
+  "geometry": {"coordinates":[-73.22091399999999,44.016009],"type":"Point"}
+}

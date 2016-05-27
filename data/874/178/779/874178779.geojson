@@ -1,0 +1,71 @@
+{
+  "id": 874178779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.988042,43.608895,-72.988042,43.608895",
+    "geom:latitude":43.608895,
+    "geom:longitude":-72.988042,
+    "iso:country":"US",
+    "sg:address":"73 Cleveland Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0682",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E2RtUsIzlLjPtpb5tK597_43.608895_-72.988042@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312617,
+    "wof:geomhash":"a9a7c7f306d38dd39c6f4be274267ef2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874178779
+        }
+    ],
+    "wof:id":874178779,
+    "wof:lastmodified":1464312617,
+    "wof:name":"Tim's Automotive Svc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.988042,
+    43.608895,
+    -72.988042,
+    43.608895
+],
+  "geometry": {"coordinates":[-72.98804199999999,43.608895],"type":"Point"}
+}

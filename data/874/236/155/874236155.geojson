@@ -1,0 +1,71 @@
+{
+  "id": 874236155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.507334,44.200078,-72.507334,44.200078",
+    "geom:latitude":44.200078,
+    "geom:longitude":-72.507334,
+    "iso:country":"US",
+    "sg:address":"15 Gable Pl",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 7100",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vamHS4L2rbx0yYnIb5RYf_44.200078_-72.507334@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313265,
+    "wof:geomhash":"9d613f9833884cdf83fd734392cc72e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874236155
+        }
+    ],
+    "wof:id":874236155,
+    "wof:lastmodified":1464313265,
+    "wof:name":"Sterling Area Svc Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -72.507334,
+    44.200078,
+    -72.507334,
+    44.200078
+],
+  "geometry": {"coordinates":[-72.507334,44.200078],"type":"Point"}
+}

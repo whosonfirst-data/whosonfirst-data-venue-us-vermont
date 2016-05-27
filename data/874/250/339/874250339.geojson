@@ -1,0 +1,70 @@
+{
+  "id": 874250339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204846,42.827554,-73.204846,42.827554",
+    "geom:latitude":42.827554,
+    "geom:longitude":-73.204846,
+    "iso:country":"US",
+    "sg:address":"782 US-7",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/pownal/246154-hunters-an-american-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 7500",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69NNkyAXtwbPEuEmR8ATK3_42.827554_-73.204846@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313573,
+    "wof:geomhash":"93fb5a4fa7b9264077c97688b80b55c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874250339
+        }
+    ],
+    "wof:id":874250339,
+    "wof:lastmodified":1464313573,
+    "wof:name":"Hunter's An American Grill",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -73.204846,
+    42.827554,
+    -73.204846,
+    42.827554
+],
+  "geometry": {"coordinates":[-73.204846,42.827554],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874227403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.945579,43.595656,-72.945579,43.595656",
+    "geom:latitude":43.595656,
+    "geom:longitude":-72.945579,
+    "iso:country":"US",
+    "sg:address":"42 Perkins Rd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 2045",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H2eZdGLtxCX5AKiBfEhOe_43.595656_-72.945579@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313134,
+    "wof:geomhash":"550650fdde4e7cb07186bd68896e0add",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874227403
+        }
+    ],
+    "wof:id":874227403,
+    "wof:lastmodified":1464313134,
+    "wof:name":"AAA Septic Tank Cleaning",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -72.945579,
+    43.595656,
+    -72.945579,
+    43.595656
+],
+  "geometry": {"coordinates":[-72.945579,43.595656],"type":"Point"}
+}

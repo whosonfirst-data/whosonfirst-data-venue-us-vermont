@@ -1,0 +1,70 @@
+{
+  "id": 874039477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.074633,43.922117,-73.074633,43.922117",
+    "geom:latitude":43.922117,
+    "geom:longitude":-73.074633,
+    "iso:country":"US",
+    "sg:address":"10 Keewaydin Rd",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 352 4247",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "camp"
+    ],
+    "sg:website":"www.keewaydin.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E7YbWU68AkAyM0A8G9qyw_43.922117_-73.074633@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311139,
+    "wof:geomhash":"93b51e3610fc2854fc151d89ef351142",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874039477
+        }
+    ],
+    "wof:id":874039477,
+    "wof:lastmodified":1464311139,
+    "wof:name":"Keewaydin Foundation",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -73.074633,
+    43.922117,
+    -73.074633,
+    43.922117
+],
+  "geometry": {"coordinates":[-73.07463300000001,43.922117],"type":"Point"}
+}

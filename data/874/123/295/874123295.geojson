@@ -1,0 +1,71 @@
+{
+  "id": 874123295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.659086,44.136724,-72.659086,44.136724",
+    "geom:latitude":44.136724,
+    "geom:longitude":-72.659086,
+    "iso:country":"US",
+    "sg:address":"139 S Main St",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 7336",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZPhd4ezDjSv2rYLOAqtgs_44.136724_-72.659086@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312071,
+    "wof:geomhash":"468cea4b3726fdf1d6d62470490e36e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874123295
+        }
+    ],
+    "wof:id":874123295,
+    "wof:lastmodified":1464312071,
+    "wof:name":"Northfield Hearing Aid Center",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -72.659086,
+    44.136724,
+    -72.659086,
+    44.136724
+],
+  "geometry": {"coordinates":[-72.659086,44.136724],"type":"Point"}
+}

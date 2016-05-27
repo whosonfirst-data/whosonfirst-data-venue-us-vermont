@@ -1,0 +1,77 @@
+{
+  "id": 874146529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.966605,43.596734,-72.966605,43.596734",
+    "geom:latitude":43.596734,
+    "geom:longitude":-72.966605,
+    "iso:country":"US",
+    "sg:address":"71 Allen St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 8021",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.eye-care.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ugAdYlfHfR82GqeLTSEWM_43.596734_-72.966605@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312298,
+    "wof:geomhash":"683e8d9b7f8b01379f51ba6feadc5dd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874146529
+        }
+    ],
+    "wof:id":874146529,
+    "wof:lastmodified":1464312298,
+    "wof:name":"Eye Care Associates",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.966605,
+    43.596734,
+    -72.966605,
+    43.596734
+],
+  "geometry": {"coordinates":[-72.966605,43.596734],"type":"Point"}
+}

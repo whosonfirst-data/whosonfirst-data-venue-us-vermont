@@ -1,0 +1,80 @@
+{
+  "id": 874255573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.951126,43.62455,-72.951126,43.62455",
+    "geom:latitude":43.62455,
+    "geom:longitude":-72.951126,
+    "iso:country":"US",
+    "sg:address":"303 US Route 4 E US",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0912",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.biglots.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OybQQ5YRRcf6sykp22TTk_43.624550_-72.951126@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313687,
+    "wof:geomhash":"7546b820970377d66006834401af5bc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255573
+        }
+    ],
+    "wof:id":874255573,
+    "wof:lastmodified":1464313687,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -72.951126,
+    43.62455,
+    -72.951126,
+    43.62455
+],
+  "geometry": {"coordinates":[-72.951126,43.62455],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874176391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.607567,44.874349,-72.607567,44.874349",
+    "geom:latitude":44.874349,
+    "geom:longitude":-72.607567,
+    "iso:country":"US",
+    "sg:address":"216 S Main St",
+    "sg:city":"Montgomery Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 326 4343",
+    "sg:postcode":"05471",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k23tzy8WSNUtvaabGu1JN_44.874349_-72.607567@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312591,
+    "wof:geomhash":"7266f95bfcd0ae7a6532633389c7da22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874176391
+        }
+    ],
+    "wof:id":874176391,
+    "wof:lastmodified":1464312591,
+    "wof:name":"Montgomery Pizza & Subs",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.607567,
+    44.874349,
+    -72.607567,
+    44.874349
+],
+  "geometry": {"coordinates":[-72.607567,44.874349],"type":"Point"}
+}

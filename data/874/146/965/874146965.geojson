@@ -1,0 +1,75 @@
+{
+  "id": 874146965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.247385,43.889844,-72.247385,43.889844",
+    "geom:latitude":43.889844,
+    "geom:longitude":-72.247385,
+    "iso:country":"US",
+    "sg:address":"260 Cross St",
+    "sg:city":"Fairlee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 4678",
+    "sg:postcode":"05045",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "refrigeration",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85812235,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EcQN8WUac3NKVoW2Hh9IA_43.889844_-72.247385@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312302,
+    "wof:geomhash":"424d6e77e3b036553fa7d4af540a9e15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85812235,
+            "region_id":85688763,
+            "venue_id":874146965
+        }
+    ],
+    "wof:id":874146965,
+    "wof:lastmodified":1464312302,
+    "wof:name":"Tilden Electric PC",
+    "wof:parent_id":85812235,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "refrigeration",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.247385,
+    43.889844,
+    -72.247385,
+    43.889844
+],
+  "geometry": {"coordinates":[-72.24738499999999,43.889844],"type":"Point"}
+}

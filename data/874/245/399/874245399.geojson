@@ -1,0 +1,74 @@
+{
+  "id": 874245399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.163821,44.011252,-73.163821,44.011252",
+    "geom:latitude":44.011252,
+    "geom:longitude":-73.163821,
+    "iso:country":"US",
+    "sg:address":"43 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4005",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "sg:website":"www.vermonttea.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lyYK9kQSe9z89Cs7jJrbz_44.011252_-73.163821@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313442,
+    "wof:geomhash":"3fa84b704af3e181c27bf3bd67b11c1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874245399
+        }
+    ],
+    "wof:id":874245399,
+    "wof:lastmodified":1464313442,
+    "wof:name":"Vermont Tea & Trading Co Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -73.163821,
+    44.011252,
+    -73.163821,
+    44.011252
+],
+  "geometry": {"coordinates":[-73.163821,44.011252],"type":"Point"}
+}

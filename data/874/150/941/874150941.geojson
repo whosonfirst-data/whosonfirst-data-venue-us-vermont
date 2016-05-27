@@ -1,0 +1,71 @@
+{
+  "id": 874150941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.388014,43.666257,-72.388014,43.666257",
+    "geom:latitude":43.666257,
+    "geom:longitude":-72.388014,
+    "iso:country":"US",
+    "sg:address":"66 Costello Rd",
+    "sg:city":"White River Jct",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 9032",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810161,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qGzYYYC0FlijHN4vqofYN_43.666257_-72.388014@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312337,
+    "wof:geomhash":"41a0312f95c3824de6efbbf0979c1e07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85810161,
+            "region_id":85688763,
+            "venue_id":874150941
+        }
+    ],
+    "wof:id":874150941,
+    "wof:lastmodified":1464312337,
+    "wof:name":"Turner's Garage",
+    "wof:parent_id":85810161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.388014,
+    43.666257,
+    -72.388014,
+    43.666257
+],
+  "geometry": {"coordinates":[-72.388014,43.666257],"type":"Point"}
+}

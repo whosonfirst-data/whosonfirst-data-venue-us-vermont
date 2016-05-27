@@ -1,0 +1,73 @@
+{
+  "id": 874143761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214794,44.475933,-73.214794,44.475933",
+    "geom:latitude":44.475933,
+    "geom:longitude":-73.214794,
+    "iso:country":"US",
+    "sg:address":"110 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 3669",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "reporting",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BVQE5QINE1jr9PeW1tRuk_44.475933_-73.214794@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312269,
+    "wof:geomhash":"1de4cfc19ce0feb8c3e572559ceca092",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874143761
+        }
+    ],
+    "wof:id":874143761,
+    "wof:lastmodified":1464312269,
+    "wof:name":"Administrative Solutions",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting",
+        "court"
+    ]
+},
+  "bbox": [
+    -73.214794,
+    44.475933,
+    -73.214794,
+    44.475933
+],
+  "geometry": {"coordinates":[-73.214794,44.475933],"type":"Point"}
+}

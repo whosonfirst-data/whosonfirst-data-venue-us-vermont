@@ -1,0 +1,73 @@
+{
+  "id": 874104193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.832118,44.64186,-72.832118,44.64186",
+    "geom:latitude":44.64186,
+    "geom:longitude":-72.832118,
+    "iso:country":"US",
+    "sg:address":"15 Mihean Dr",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8014",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GcsxDZFpTDweB5kQ37LBM_44.641860_-72.832118@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311847,
+    "wof:geomhash":"5c7e1c4919ef506cd038321781ba0a7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874104193
+        }
+    ],
+    "wof:id":874104193,
+    "wof:lastmodified":1464311847,
+    "wof:name":"C T Plumbing & Heating",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.832118,
+    44.64186,
+    -72.832118,
+    44.64186
+],
+  "geometry": {"coordinates":[-72.83211799999999,44.64186],"type":"Point"}
+}

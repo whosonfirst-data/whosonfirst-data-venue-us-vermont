@@ -1,0 +1,71 @@
+{
+  "id": 874235611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.653369,43.240908,-72.653369,43.240908",
+    "geom:latitude":43.240908,
+    "geom:longitude":-72.653369,
+    "iso:country":"US",
+    "sg:address":"2858 Popple Dungeon Rd",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 2082",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qXSeIdL9xZCardEOSVV3D_43.240908_-72.653369@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313254,
+    "wof:geomhash":"0519239790bbe7ffe3335d4708401065",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874235611
+        }
+    ],
+    "wof:id":874235611,
+    "wof:lastmodified":1464313254,
+    "wof:name":"William Steele Automotive Rpr",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.653369,
+    43.240908,
+    -72.653369,
+    43.240908
+],
+  "geometry": {"coordinates":[-72.653369,43.240908],"type":"Point"}
+}

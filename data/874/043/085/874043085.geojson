@@ -1,0 +1,82 @@
+{
+  "id": 874043085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.201343,44.425835,-73.201343,44.425835",
+    "geom:latitude":44.425835,
+    "geom:longitude":-73.201343,
+    "iso:country":"US",
+    "sg:address":"124 Keari Ln",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 8962",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tile",
+        "interior",
+        "design",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QHszfsUOOrUp6yf3IREdW_44.425835_-73.201343@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311177,
+    "wof:geomhash":"5d9160dd4a9f5e3d8918ce6527ecfd82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874043085
+        }
+    ],
+    "wof:id":874043085,
+    "wof:lastmodified":1464311177,
+    "wof:name":"Opulent Interiors",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "interior",
+        "design",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.201343,
+    44.425835,
+    -73.201343,
+    44.425835
+],
+  "geometry": {"coordinates":[-73.20134299999999,44.425835],"type":"Point"}
+}

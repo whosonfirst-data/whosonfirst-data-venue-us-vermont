@@ -1,0 +1,71 @@
+{
+  "id": 874076293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.003529,43.587054,-73.003529,43.587054",
+    "geom:latitude":43.587054,
+    "geom:longitude":-73.003529,
+    "iso:country":"US",
+    "sg:address":"116 Belock Dr",
+    "sg:city":"Center Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4240",
+    "sg:postcode":"05736",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bld2t61TTFCHOAWMhTiID_43.587054_-73.003529@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311514,
+    "wof:geomhash":"ec6a4408f0ad254ae4606406e9a2f2cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874076293
+        }
+    ],
+    "wof:id":874076293,
+    "wof:lastmodified":1464311514,
+    "wof:name":"Stampmart",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -73.003529,
+    43.587054,
+    -73.003529,
+    43.587054
+],
+  "geometry": {"coordinates":[-73.003529,43.587054],"type":"Point"}
+}

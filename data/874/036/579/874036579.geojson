@@ -1,0 +1,71 @@
+{
+  "id": 874036579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.00042,44.543412,-72.00042,44.543412",
+    "geom:latitude":44.543412,
+    "geom:longitude":-72.00042,
+    "iso:country":"US",
+    "sg:address":"165 Main St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 8106",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RXEAjr6mnLQ3duXngftq8_44.543412_-72.000420@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311112,
+    "wof:geomhash":"676d523ee2bf2d79a2a827a829ed1b07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874036579
+        }
+    ],
+    "wof:id":874036579,
+    "wof:lastmodified":1464311112,
+    "wof:name":"Tom Breslin Community Ctr",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -72.00042,
+    44.543412,
+    -72.00042,
+    44.543412
+],
+  "geometry": {"coordinates":[-72.00042000000001,44.543412],"type":"Point"}
+}

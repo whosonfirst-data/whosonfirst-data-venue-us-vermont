@@ -1,0 +1,69 @@
+{
+  "id": 874079201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.095313,43.48677,-73.095313,43.48677",
+    "geom:latitude":43.48677,
+    "geom:longitude":-73.095313,
+    "iso:country":"US",
+    "sg:address":"20 Studio Ln",
+    "sg:city":"Middletown Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 235 2089",
+    "sg:postcode":"05757",
+    "sg:province":"VT",
+    "sg:tags":[
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HYiqvhKVnqe7f7WCUllq2_43.486770_-73.095313@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311544,
+    "wof:geomhash":"0b4b4a6cd3fd7517138645f4c0f9091e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874079201
+        }
+    ],
+    "wof:id":874079201,
+    "wof:lastmodified":1464311544,
+    "wof:name":"Creative Efforts",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "artist"
+    ]
+},
+  "bbox": [
+    -73.095313,
+    43.48677,
+    -73.095313,
+    43.48677
+],
+  "geometry": {"coordinates":[-73.095313,43.48677],"type":"Point"}
+}

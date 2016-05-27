@@ -1,0 +1,71 @@
+{
+  "id": 874075853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180916,44.12071,-73.180916,44.12071",
+    "geom:latitude":44.12071,
+    "geom:longitude":-73.180916,
+    "iso:country":"US",
+    "sg:address":"4571 Ethan Allen Hwy",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5495",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77EXqB6F5uJfraPZRmR2vY_44.120710_-73.180916@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311510,
+    "wof:geomhash":"7facd75dc96be84e1e1b803a439ea3ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874075853
+        }
+    ],
+    "wof:id":874075853,
+    "wof:lastmodified":1464311510,
+    "wof:name":"New Haven Hills Bed Breakfast",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -73.180916,
+    44.12071,
+    -73.180916,
+    44.12071
+],
+  "geometry": {"coordinates":[-73.180916,44.12071],"type":"Point"}
+}

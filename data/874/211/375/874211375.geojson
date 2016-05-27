@@ -1,0 +1,71 @@
+{
+  "id": 874211375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.079542,44.441957,-73.079542,44.441957",
+    "geom:latitude":44.441957,
+    "geom:longitude":-73.079542,
+    "iso:country":"US",
+    "sg:address":"207 Old Stage Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 3155",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rl5DFuVnRcP29pbvozM1J_44.441957_-73.079542@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312967,
+    "wof:geomhash":"89f0df503538467bf1ffe372bf216f22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874211375
+        }
+    ],
+    "wof:id":874211375,
+    "wof:lastmodified":1464312967,
+    "wof:name":"Osborne Construction",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.079542,
+    44.441957,
+    -73.079542,
+    44.441957
+],
+  "geometry": {"coordinates":[-73.079542,44.441957],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874168953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.188455,44.526913,-73.188455,44.526913",
+    "geom:latitude":44.526913,
+    "geom:longitude":-73.188455,
+    "iso:country":"US",
+    "sg:address":"147 Edgewood Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 8213",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y1Y1RM3CIOuvMomwW38Vz_44.526913_-73.188455@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312517,
+    "wof:geomhash":"f0f87d52cc55e19fe37f38d7ad096333",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874168953
+        }
+    ],
+    "wof:id":874168953,
+    "wof:lastmodified":1464312517,
+    "wof:name":"San-Mar Cleaning Svc",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -73.188455,
+    44.526913,
+    -73.188455,
+    44.526913
+],
+  "geometry": {"coordinates":[-73.188455,44.526913],"type":"Point"}
+}

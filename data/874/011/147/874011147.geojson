@@ -1,0 +1,69 @@
+{
+  "id": 874011147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.803559,43.667531,-72.803559,43.667531",
+    "geom:latitude":43.667531,
+    "geom:longitude":-72.803559,
+    "iso:country":"US",
+    "sg:address":"38 Killington Rd",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 422 3636",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848249,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QsojbWdvRyvIl0SSzv41E_43.667531_-72.803559@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310863,
+    "wof:geomhash":"4a596a1c80533dcba77f8ccc26f41712",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":874011147
+        }
+    ],
+    "wof:id":874011147,
+    "wof:lastmodified":1464310863,
+    "wof:name":"Zorbas Mountain Mini Market",
+    "wof:parent_id":85848249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -72.803559,
+    43.667531,
+    -72.803559,
+    43.667531
+],
+  "geometry": {"coordinates":[-72.80355900000001,43.667531],"type":"Point"}
+}

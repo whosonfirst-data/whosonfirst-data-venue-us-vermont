@@ -1,0 +1,71 @@
+{
+  "id": 874130513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.150411,44.605192,-73.150411,44.605192",
+    "geom:latitude":44.605192,
+    "geom:longitude":-73.150411,
+    "iso:country":"US",
+    "sg:address":"25 Petty Brook Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 2900",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xrff2zVLnYpFlz9nLGlJY_44.605192_-73.150411@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312143,
+    "wof:geomhash":"297de07786e62a7899b7a3af0a4f8fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":874130513
+        }
+    ],
+    "wof:id":874130513,
+    "wof:lastmodified":1464312143,
+    "wof:name":"Security One",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -73.150411,
+    44.605192,
+    -73.150411,
+    44.605192
+],
+  "geometry": {"coordinates":[-73.15041100000001,44.605192],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 874255611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.973511,43.600899,-72.973511,43.600899",
+    "geom:latitude":43.600899,
+    "geom:longitude":-72.973511,
+    "iso:country":"US",
+    "sg:address":"1 Scale Ave Ste 101",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3613",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UOFITunK6czDS90yQAzji_43.600899_-72.973511@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313688,
+    "wof:geomhash":"b83d7234d01ccaeee848508ca413f4c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255611
+        }
+    ],
+    "wof:id":874255611,
+    "wof:lastmodified":1464313688,
+    "wof:name":"Alliance Community Fellowship",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -72.973511,
+    43.600899,
+    -72.973511,
+    43.600899
+],
+  "geometry": {"coordinates":[-72.973511,43.600899],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874018541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208475,43.912393,-73.208475,43.912393",
+    "geom:latitude":43.912393,
+    "geom:longitude":-73.208475,
+    "iso:country":"US",
+    "sg:address":"6039 State Rte 30",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 2515",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KkKxMkSwQT7Ber99bbEbl_43.912393_-73.208475@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310932,
+    "wof:geomhash":"575a32c935ab15c191ff2bcf8c6efe1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":874018541
+        }
+    ],
+    "wof:id":874018541,
+    "wof:lastmodified":1464310932,
+    "wof:name":"Joseph Severy",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.208475,
+    43.912393,
+    -73.208475,
+    43.912393
+],
+  "geometry": {"coordinates":[-73.20847500000001,43.912393],"type":"Point"}
+}

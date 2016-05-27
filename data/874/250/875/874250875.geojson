@@ -1,0 +1,72 @@
+{
+  "id": 874250875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.979744,43.607837,-72.979744,43.607837",
+    "geom:latitude":43.607837,
+    "geom:longitude":-72.979744,
+    "iso:country":"US",
+    "sg:address":"106 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/rutland/135391-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 5943",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gAe7K0PlnrQnpDUCdc2As_43.607837_-72.979744@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313583,
+    "wof:geomhash":"8780a152d2e62e74b09705a371669aa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874250875
+        }
+    ],
+    "wof:id":874250875,
+    "wof:lastmodified":1464313583,
+    "wof:name":"Subway",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.979744,
+    43.607837,
+    -72.979744,
+    43.607837
+],
+  "geometry": {"coordinates":[-72.979744,43.607837],"type":"Point"}
+}

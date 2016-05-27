@@ -1,0 +1,75 @@
+{
+  "id": 874044521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21127,44.428483,-73.21127,44.428483",
+    "geom:latitude":44.428483,
+    "geom:longitude":-73.21127,
+    "iso:country":"US",
+    "sg:address":"9 Green Mountain Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 3368",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RSkSe5yu6upxzl6zs0ix5_44.428483_-73.211270@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311189,
+    "wof:geomhash":"23d0525b9651af285f755e848f03065f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874044521
+        }
+    ],
+    "wof:id":874044521,
+    "wof:lastmodified":1464311189,
+    "wof:name":"Dings Dents & Scratches",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -73.21127,
+    44.428483,
+    -73.21127,
+    44.428483
+],
+  "geometry": {"coordinates":[-73.21127,44.428483],"type":"Point"}
+}

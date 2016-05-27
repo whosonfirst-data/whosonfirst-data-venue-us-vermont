@@ -1,0 +1,71 @@
+{
+  "id": 874125775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.978404,43.623463,-72.978404,43.623463",
+    "geom:latitude":43.623463,
+    "geom:longitude":-72.978404,
+    "iso:country":"US",
+    "sg:address":"228 Lincoln Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 0670",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PSI8pYizZOONlEs9fwDl0_43.623463_-72.978404@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312092,
+    "wof:geomhash":"ab6944eecd028cbdae795d8661500c8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874125775
+        }
+    ],
+    "wof:id":874125775,
+    "wof:lastmodified":1464312092,
+    "wof:name":"J Browne Electric",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.978404,
+    43.623463,
+    -72.978404,
+    43.623463
+],
+  "geometry": {"coordinates":[-72.978404,43.623463],"type":"Point"}
+}

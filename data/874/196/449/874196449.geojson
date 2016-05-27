@@ -1,0 +1,73 @@
+{
+  "id": 874196449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.512501,44.548713,-72.512501,44.548713",
+    "geom:latitude":44.548713,
+    "geom:longitude":-72.512501,
+    "iso:country":"US",
+    "sg:address":"3012 Elmore Pond Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 4185",
+    "sg:postcode":"05680",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08SzC8Vi6ZfrEJWgyuUyaZ_44.548713_-72.512501@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312809,
+    "wof:geomhash":"a87317ccd250c811e74152b9dd246730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874196449
+        }
+    ],
+    "wof:id":874196449,
+    "wof:lastmodified":1464312809,
+    "wof:name":"White Magic Chem-Dry",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -72.512501,
+    44.548713,
+    -72.512501,
+    44.548713
+],
+  "geometry": {"coordinates":[-72.512501,44.548713],"type":"Point"}
+}

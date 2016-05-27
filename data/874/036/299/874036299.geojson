@@ -1,0 +1,71 @@
+{
+  "id": 874036299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.619573,44.546615,-72.619573,44.546615",
+    "geom:latitude":44.546615,
+    "geom:longitude":-72.619573,
+    "iso:country":"US",
+    "sg:address":"102 Meadow Dr",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 2469",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EvgzeSVoWHzVpOGJlPTyj_44.546615_-72.619573@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311108,
+    "wof:geomhash":"e48dea33980fbd169c417cfad4e013a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874036299
+        }
+    ],
+    "wof:id":874036299,
+    "wof:lastmodified":1464311108,
+    "wof:name":"Lamoille Kennels",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -72.619573,
+    44.546615,
+    -72.619573,
+    44.546615
+],
+  "geometry": {"coordinates":[-72.619573,44.546615],"type":"Point"}
+}

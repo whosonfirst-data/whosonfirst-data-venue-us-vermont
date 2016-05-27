@@ -1,0 +1,69 @@
+{
+  "id": 874249669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205017,42.87056,-73.205017,42.87056",
+    "geom:latitude":42.87056,
+    "geom:longitude":-73.205017,
+    "iso:country":"US",
+    "sg:address":"341 Dewey St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 6403",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cxzm5RRCC343k9HJvC35e_42.870591_-73.205043@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313557,
+    "wof:geomhash":"4a07fe1e9f59621b879be2354377517e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874249669
+        }
+    ],
+    "wof:id":874249669,
+    "wof:lastmodified":1464313557,
+    "wof:name":"Marge's Beauty Nook",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.205017,
+    42.87056,
+    -73.205017,
+    42.87056
+],
+  "geometry": {"coordinates":[-73.205017,42.87056],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874163841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.160739,44.000156,-73.160739,44.000156",
+    "geom:latitude":44.000156,
+    "geom:longitude":-73.160739,
+    "iso:country":"US",
+    "sg:address":"341 Creek Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2003",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_664YUdsVxHr077EjNzwzui_44.000156_-73.160739@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312467,
+    "wof:geomhash":"8ec0ee2b174b81ad46325b4afa130728",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874163841
+        }
+    ],
+    "wof:id":874163841,
+    "wof:lastmodified":1464312467,
+    "wof:name":"Transportation Garage",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -73.160739,
+    44.000156,
+    -73.160739,
+    44.000156
+],
+  "geometry": {"coordinates":[-73.16073900000001,44.000156],"type":"Point"}
+}

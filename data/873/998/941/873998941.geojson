@@ -1,0 +1,83 @@
+{
+  "id": 873998941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.160759,44.468772,-73.160759,44.468772",
+    "geom:latitude":44.468772,
+    "geom:longitude":-73.160759,
+    "iso:country":"US",
+    "sg:address":"34 Mills Ave",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 6105",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tackle",
+        "equipment",
+        "fishing",
+        "guide"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102532853,
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dOD9omZhi4yNltun2UEXh_44.468772_-73.160759@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310753,
+    "wof:geomhash":"ad3668b2b9c373dc5cd63c03cdb43c3d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532853,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":873998941
+        }
+    ],
+    "wof:id":873998941,
+    "wof:lastmodified":1464310753,
+    "wof:name":"Schirmer's Fly Shop",
+    "wof:parent_id":102532853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "equipment",
+        "fishing",
+        "guide"
+    ]
+},
+  "bbox": [
+    -73.160759,
+    44.468772,
+    -73.160759,
+    44.468772
+],
+  "geometry": {"coordinates":[-73.160759,44.468772],"type":"Point"}
+}

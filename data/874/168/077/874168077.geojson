@@ -1,0 +1,71 @@
+{
+  "id": 874168077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501017,43.307561,-72.501017,43.307561",
+    "geom:latitude":43.307561,
+    "geom:longitude":-72.501017,
+    "iso:country":"US",
+    "sg:address":"73 Fairground Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 8699",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17YudALdPi223YsNDbjnqk_43.307561_-72.501017@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312507,
+    "wof:geomhash":"b8c08355a05221173a304f3d2cf05bd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874168077
+        }
+    ],
+    "wof:id":874168077,
+    "wof:lastmodified":1464312507,
+    "wof:name":"Cabin Masters",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.501017,
+    43.307561,
+    -72.501017,
+    43.307561
+],
+  "geometry": {"coordinates":[-72.501017,43.307561],"type":"Point"}
+}

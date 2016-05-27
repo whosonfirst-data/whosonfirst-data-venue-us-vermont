@@ -1,0 +1,71 @@
+{
+  "id": 874228793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.333213,43.679612,-73.333213,43.679612",
+    "geom:latitude":43.679612,
+    "geom:longitude":-73.333213,
+    "iso:country":"US",
+    "sg:address":"2451 Park Hill Rd",
+    "sg:city":"Fair Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 537 3222",
+    "sg:postcode":"05743",
+    "sg:province":"VT",
+    "sg:tags":[
+        "holistic",
+        "practitioner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yY7oLxWdHnW4CC2scn4Ep_43.679612_-73.333213@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313149,
+    "wof:geomhash":"85de7c8261062d47aee8978523d28d95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874228793
+        }
+    ],
+    "wof:id":874228793,
+    "wof:lastmodified":1464313149,
+    "wof:name":"Lenair Healing Ctr",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "holistic",
+        "practitioner"
+    ]
+},
+  "bbox": [
+    -73.333213,
+    43.679612,
+    -73.333213,
+    43.679612
+],
+  "geometry": {"coordinates":[-73.333213,43.679612],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874054399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.161943,44.007011,-73.161943,44.007011",
+    "geom:latitude":44.007011,
+    "geom:longitude":-73.161943,
+    "iso:country":"US",
+    "sg:address":"51 Charles Ave",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3115",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bBKq5I5Ub0rQ5Jut3kqve_44.007011_-73.161943@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311282,
+    "wof:geomhash":"90784e90441873a01ac1f1b76f5adde6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874054399
+        }
+    ],
+    "wof:id":874054399,
+    "wof:lastmodified":1464311282,
+    "wof:name":"Addison Co-Voc-Tech Playschool",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -73.161943,
+    44.007011,
+    -73.161943,
+    44.007011
+],
+  "geometry": {"coordinates":[-73.16194299999999,44.007011],"type":"Point"}
+}

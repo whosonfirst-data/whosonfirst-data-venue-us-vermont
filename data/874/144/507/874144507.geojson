@@ -1,0 +1,71 @@
+{
+  "id": 874144507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.606053,44.66668,-72.606053,44.66668",
+    "geom:latitude":44.66668,
+    "geom:longitude":-72.606053,
+    "iso:country":"US",
+    "sg:address":"41 Ingalls Dr",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 2986",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uw8WA1kO4HzBo9vjVxPTF_44.666680_-72.606053@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312276,
+    "wof:geomhash":"d9b848fe6dd07f105b065568b56f4aa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874144507
+        }
+    ],
+    "wof:id":874144507,
+    "wof:lastmodified":1464312276,
+    "wof:name":"A Plus Chimney Svc",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney"
+    ]
+},
+  "bbox": [
+    -72.606053,
+    44.66668,
+    -72.606053,
+    44.66668
+],
+  "geometry": {"coordinates":[-72.606053,44.66668],"type":"Point"}
+}

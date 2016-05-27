@@ -1,0 +1,69 @@
+{
+  "id": 874123459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.249676,44.160711,-73.249676,44.160711",
+    "geom:latitude":44.160711,
+    "geom:longitude":-73.249676,
+    "iso:country":"US",
+    "sg:address":"3 Ice House Ct",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2429",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BtXDEQeDm9tzg8JJvX5G0_44.160711_-73.249676@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312072,
+    "wof:geomhash":"6bf5adc65674bfb825dbb19b39943aef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874123459
+        }
+    ],
+    "wof:id":874123459,
+    "wof:lastmodified":1464312072,
+    "wof:name":"Newengland Ambulance Billing",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -73.249676,
+    44.160711,
+    -73.249676,
+    44.160711
+],
+  "geometry": {"coordinates":[-73.24967599999999,44.160711],"type":"Point"}
+}

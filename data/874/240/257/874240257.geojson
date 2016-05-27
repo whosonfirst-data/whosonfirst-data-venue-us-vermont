@@ -1,0 +1,69 @@
+{
+  "id": 874240257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.992641,44.404965,-72.992641,44.404965",
+    "geom:latitude":44.404965,
+    "geom:longitude":-72.992641,
+    "iso:country":"US",
+    "sg:address":"30 E Main St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 657 0040",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42dW2Y48JzYnWXJsAjfVS3_44.404965_-72.992641@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313345,
+    "wof:geomhash":"a9ea9c5b62a37fa445ba5fab293cea6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874240257
+        }
+    ],
+    "wof:id":874240257,
+    "wof:lastmodified":1464313345,
+    "wof:name":"Psychotherapy Associates",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.992641,
+    44.404965,
+    -72.992641,
+    44.404965
+],
+  "geometry": {"coordinates":[-72.99264100000001,44.404965],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874255141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.909973,44.636613,-72.909973,44.636613",
+    "geom:latitude":44.636613,
+    "geom:longitude":-72.909973,
+    "iso:country":"US",
+    "sg:address":"401 Vt Route 15",
+    "sg:city":"Underhill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 2314",
+    "sg:postcode":"05489",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ANwAqGZ6MjM57PUMmEZ4s_44.636613_-72.909973@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313678,
+    "wof:geomhash":"b3b7d15e9b2f3ba205239d8b57292969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874255141
+        }
+    ],
+    "wof:id":874255141,
+    "wof:lastmodified":1464313678,
+    "wof:name":"Underhill Automotive Center",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.909973,
+    44.636613,
+    -72.909973,
+    44.636613
+],
+  "geometry": {"coordinates":[-72.90997299999999,44.636613],"type":"Point"}
+}

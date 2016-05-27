@@ -1,0 +1,71 @@
+{
+  "id": 874192561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.521664,42.973959,-72.521664,42.973959",
+    "geom:latitude":42.973959,
+    "geom:longitude":-72.521664,
+    "iso:country":"US",
+    "sg:address":"114 Main St",
+    "sg:city":"Putney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 387 3641",
+    "sg:postcode":"05346",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tfqKSFAjPjutjb8jFBLmY_42.973959_-72.521664@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312765,
+    "wof:geomhash":"5c7c99c560638d30926d5b7c16acbb6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874192561
+        }
+    ],
+    "wof:id":874192561,
+    "wof:lastmodified":1464312765,
+    "wof:name":"Two Masters Automotive",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.521664,
+    42.973959,
+    -72.521664,
+    42.973959
+],
+  "geometry": {"coordinates":[-72.521664,42.973959],"type":"Point"}
+}

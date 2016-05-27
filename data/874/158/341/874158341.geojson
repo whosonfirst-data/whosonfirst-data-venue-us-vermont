@@ -1,0 +1,69 @@
+{
+  "id": 874158341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.250445,44.16947,-73.250445,44.16947",
+    "geom:latitude":44.16947,
+    "geom:longitude":-73.250445,
+    "iso:country":"US",
+    "sg:address":"10 North St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3378",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69TMU0JlHqUXYLU6PREcjc_44.169470_-73.250445@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312411,
+    "wof:geomhash":"8ddcdb231fec7f13d1bfbda68748b13c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874158341
+        }
+    ],
+    "wof:id":874158341,
+    "wof:lastmodified":1464312411,
+    "wof:name":"Porter Rehab & Orthopedic Svc",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -73.250445,
+    44.16947,
+    -73.250445,
+    44.16947
+],
+  "geometry": {"coordinates":[-73.250445,44.16947],"type":"Point"}
+}

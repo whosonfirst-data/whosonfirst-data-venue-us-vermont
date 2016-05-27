@@ -1,0 +1,71 @@
+{
+  "id": 874128237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.867049,44.998698,-72.867049,44.998698",
+    "geom:latitude":44.998698,
+    "geom:longitude":-72.867049,
+    "iso:country":"US",
+    "sg:address":"1402 Gallup Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 285 6431",
+    "sg:postcode":"05457",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "gun"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ekGWzFxLUedXHglg2IJDr_44.998698_-72.867049@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312113,
+    "wof:geomhash":"081e442910a78e29ccb5bf2cf066e97c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874128237
+        }
+    ],
+    "wof:id":874128237,
+    "wof:lastmodified":1464312113,
+    "wof:name":"Alder Run Shop",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "gun"
+    ]
+},
+  "bbox": [
+    -72.867049,
+    44.998698,
+    -72.867049,
+    44.998698
+],
+  "geometry": {"coordinates":[-72.86704899999999,44.998698],"type":"Point"}
+}

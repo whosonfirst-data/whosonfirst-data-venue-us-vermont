@@ -1,0 +1,73 @@
+{
+  "id": 874070295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.828529,44.626961,-72.828529,44.626961",
+    "geom:latitude":44.626961,
+    "geom:longitude":-72.828529,
+    "iso:country":"US",
+    "sg:address":"99 Highlander Dr",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 2056",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q4GHTjnjDP7AI8ltQoQXg_44.626961_-72.828529@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311434,
+    "wof:geomhash":"529f716c11bb3c0b99f02b49444af0bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874070295
+        }
+    ],
+    "wof:id":874070295,
+    "wof:lastmodified":1464311434,
+    "wof:name":"Bob's Repair",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.828529,
+    44.626961,
+    -72.828529,
+    44.626961
+],
+  "geometry": {"coordinates":[-72.828529,44.626961],"type":"Point"}
+}

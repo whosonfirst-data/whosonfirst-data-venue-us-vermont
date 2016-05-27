@@ -1,0 +1,71 @@
+{
+  "id": 874175977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.096989,44.100238,-73.096989,44.100238",
+    "geom:latitude":44.100238,
+    "geom:longitude":-73.096989,
+    "iso:country":"US",
+    "sg:address":"2015 State Rte 116",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 7724",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lxoDtIvksdcjskyFYm3Pm_44.100238_-73.096989@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312587,
+    "wof:geomhash":"76011e68e26cd1c19766901fc06944a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874175977
+        }
+    ],
+    "wof:id":874175977,
+    "wof:lastmodified":1464312587,
+    "wof:name":"Oak Ridge Cstm Bldg & Cabintry",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.096989,
+    44.100238,
+    -73.096989,
+    44.100238
+],
+  "geometry": {"coordinates":[-73.09698899999999,44.100238],"type":"Point"}
+}

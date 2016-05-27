@@ -1,0 +1,71 @@
+{
+  "id": 874024519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.164491,44.454184,-73.164491,44.454184",
+    "geom:latitude":44.454184,
+    "geom:longitude":-73.164491,
+    "iso:country":"US",
+    "sg:address":"635 Hinesburg Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 1831",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZissjZlFOik6GLLHzRPee_44.454184_-73.164491@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310991,
+    "wof:geomhash":"ad4ff1ef77def4af56676670c29fbc95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874024519
+        }
+    ],
+    "wof:id":874024519,
+    "wof:lastmodified":1464310991,
+    "wof:name":"Country Park Apartments",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.164491,
+    44.454184,
+    -73.164491,
+    44.454184
+],
+  "geometry": {"coordinates":[-73.164491,44.454184],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874085435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50679,44.197611,-72.50679,44.197611",
+    "geom:latitude":44.197611,
+    "geom:longitude":-72.50679,
+    "iso:country":"US",
+    "sg:address":"20 Burnham St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3606",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "stone",
+        "cut",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nm25633AmaI2LGUzVmv3J_44.197611_-72.506790@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311614,
+    "wof:geomhash":"2d8ca8b3adcb2520c510491311b54ab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874085435
+        }
+    ],
+    "wof:id":874085435,
+    "wof:lastmodified":1464311614,
+    "wof:name":"Hardrock Granite",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone",
+        "cut",
+        "product"
+    ]
+},
+  "bbox": [
+    -72.50679,
+    44.197611,
+    -72.50679,
+    44.197611
+],
+  "geometry": {"coordinates":[-72.50679,44.197611],"type":"Point"}
+}

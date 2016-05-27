@@ -1,0 +1,71 @@
+{
+  "id": 874181227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.689805,44.476801,-72.689805,44.476801",
+    "geom:latitude":44.476801,
+    "geom:longitude":-72.689805,
+    "iso:country":"US",
+    "sg:address":"269 Weeks Hill Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 9268",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jBKQfM6kvG5hQpehCuWrs_44.476801_-72.689805@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312643,
+    "wof:geomhash":"1ee4a86fab354cc6e486ee690c3f8494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874181227
+        }
+    ],
+    "wof:id":874181227,
+    "wof:lastmodified":1464312643,
+    "wof:name":"Stowe Tree Experts",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.689805,
+    44.476801,
+    -72.689805,
+    44.476801
+],
+  "geometry": {"coordinates":[-72.68980500000001,44.476801],"type":"Point"}
+}

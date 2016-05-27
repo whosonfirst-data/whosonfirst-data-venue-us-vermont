@@ -1,0 +1,73 @@
+{
+  "id": 874067793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.799256,44.882083,-72.799256,44.882083",
+    "geom:latitude":44.882083,
+    "geom:longitude":-72.799256,
+    "iso:country":"US",
+    "sg:address":"1631 W Enosburg Rd",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 6719",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "steel",
+        "fabrication",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gFymHXP75Wd4ujPdysBuv_44.882083_-72.799256@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311406,
+    "wof:geomhash":"2516a66328adba52affeebb18a130e54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874067793
+        }
+    ],
+    "wof:id":874067793,
+    "wof:lastmodified":1464311406,
+    "wof:name":"Barker Steel Co",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "fabrication",
+        "welding"
+    ]
+},
+  "bbox": [
+    -72.799256,
+    44.882083,
+    -72.799256,
+    44.882083
+],
+  "geometry": {"coordinates":[-72.799256,44.882083],"type":"Point"}
+}

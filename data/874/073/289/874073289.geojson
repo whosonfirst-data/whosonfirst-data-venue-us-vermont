@@ -1,0 +1,69 @@
+{
+  "id": 874073289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.130767,44.442341,-73.130767,44.442341",
+    "geom:latitude":44.442341,
+    "geom:longitude":-73.130767,
+    "iso:country":"US",
+    "sg:address":"1414 S Brownell Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 2827",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K9HZ3FjQbZOHInOLgIVm2_44.442341_-73.130767@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311482,
+    "wof:geomhash":"866a1c88a81203e6c90d3a655f189fe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874073289
+        }
+    ],
+    "wof:id":874073289,
+    "wof:lastmodified":1464311482,
+    "wof:name":"Vermont Center-Human Undrstndg",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -73.130767,
+    44.442341,
+    -73.130767,
+    44.442341
+],
+  "geometry": {"coordinates":[-73.13076700000001,44.442341],"type":"Point"}
+}

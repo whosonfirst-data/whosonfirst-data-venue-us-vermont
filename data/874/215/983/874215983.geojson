@@ -1,0 +1,71 @@
+{
+  "id": 874215983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.513232,44.207485,-72.513232,44.207485",
+    "geom:latitude":44.207485,
+    "geom:longitude":-72.513232,
+    "iso:country":"US",
+    "sg:address":"521 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 0856",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7crVfv8Sbf6o0zHHDxuutf_44.207485_-72.513232@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313013,
+    "wof:geomhash":"af4091ea2e8b9f2fc3117c5b023a0665",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874215983
+        }
+    ],
+    "wof:id":874215983,
+    "wof:lastmodified":1464313013,
+    "wof:name":"Distinctive Touch",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.513232,
+    44.207485,
+    -72.513232,
+    44.207485
+],
+  "geometry": {"coordinates":[-72.513232,44.207485],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874159185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.022264,43.850541,-73.022264,43.850541",
+    "geom:latitude":43.850541,
+    "geom:longitude":-73.022264,
+    "iso:country":"US",
+    "sg:address":"50 Carlisle Hill Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 6455",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "courthouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UF9ojUVzZfuXvdQZ1KmmT_43.850541_-73.022264@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312423,
+    "wof:geomhash":"cfb57009b61eb67883c62a3720f7e919",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874159185
+        }
+    ],
+    "wof:id":874159185,
+    "wof:lastmodified":1464312423,
+    "wof:name":"Town of Goshen",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courthouse"
+    ]
+},
+  "bbox": [
+    -73.022264,
+    43.850541,
+    -73.022264,
+    43.850541
+],
+  "geometry": {"coordinates":[-73.02226400000001,43.850541],"type":"Point"}
+}

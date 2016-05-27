@@ -1,0 +1,73 @@
+{
+  "id": 874088997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.233772,42.927534,-73.233772,42.927534",
+    "geom:latitude":42.927534,
+    "geom:longitude":-73.233772,
+    "iso:country":"US",
+    "sg:address":"56 Mechanic St",
+    "sg:city":"North Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 7474",
+    "sg:postcode":"05257",
+    "sg:province":"VT",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bmppyRVDWjyJ7JRTzbaTf_42.927534_-73.233772@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311651,
+    "wof:geomhash":"d5423fd414aa3dfd9f4778eb607fee65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874088997
+        }
+    ],
+    "wof:id":874088997,
+    "wof:lastmodified":1464311651,
+    "wof:name":"North Bennington Highway Dept",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -73.233772,
+    42.927534,
+    -73.233772,
+    42.927534
+],
+  "geometry": {"coordinates":[-73.233772,42.927534],"type":"Point"}
+}

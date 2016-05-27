@@ -1,0 +1,73 @@
+{
+  "id": 873993859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.488886,44.232516,-72.488886,44.232516",
+    "geom:latitude":44.232516,
+    "geom:longitude":-72.488886,
+    "iso:country":"US",
+    "sg:address":"470 E Montpelier Rd",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 1342",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "datum",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F8epVN2toQ4NFxp34NwZf_44.232516_-72.488886@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310718,
+    "wof:geomhash":"86b56a01b52732a30291c885151583c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873993859
+        }
+    ],
+    "wof:id":873993859,
+    "wof:lastmodified":1464310718,
+    "wof:name":"Old Barn Vermont",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum",
+        "related"
+    ]
+},
+  "bbox": [
+    -72.488886,
+    44.232516,
+    -72.488886,
+    44.232516
+],
+  "geometry": {"coordinates":[-72.48888599999999,44.232516],"type":"Point"}
+}

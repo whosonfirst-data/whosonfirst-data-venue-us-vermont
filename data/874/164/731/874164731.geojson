@@ -1,0 +1,72 @@
+{
+  "id": 874164731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.572502,44.217407,-72.572502,44.217407",
+    "geom:latitude":44.217407,
+    "geom:longitude":-72.572502,
+    "iso:country":"US",
+    "sg:address":"395 Paine Tpke N",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 5223",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "sg:website":"www.bredice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mdSpCGF9pKhxVgpO66hPH_44.217407_-72.572502@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312476,
+    "wof:geomhash":"aa847ad73591f6acc77c92310934ebd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874164731
+        }
+    ],
+    "wof:id":874164731,
+    "wof:lastmodified":1464312476,
+    "wof:name":"Bredice Appraisal Assoc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -72.572502,
+    44.217407,
+    -72.572502,
+    44.217407
+],
+  "geometry": {"coordinates":[-72.572502,44.217407],"type":"Point"}
+}

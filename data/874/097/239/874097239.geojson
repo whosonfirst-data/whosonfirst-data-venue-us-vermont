@@ -1,0 +1,73 @@
+{
+  "id": 874097239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.487014,44.051657,-72.487014,44.051657",
+    "geom:latitude":44.051657,
+    "geom:longitude":-72.487014,
+    "iso:country":"US",
+    "sg:address":"102 Stellar Rd",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 883 2231",
+    "sg:postcode":"05675",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mm0kucBwVB4eNpvMcaxja_44.051657_-72.487014@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311746,
+    "wof:geomhash":"3dc351b8b0cd86ce4e91e74ea74b9161",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874097239
+        }
+    ],
+    "wof:id":874097239,
+    "wof:lastmodified":1464311746,
+    "wof:name":"Braman Electric Inc",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.487014,
+    44.051657,
+    -72.487014,
+    44.051657
+],
+  "geometry": {"coordinates":[-72.487014,44.051657],"type":"Point"}
+}

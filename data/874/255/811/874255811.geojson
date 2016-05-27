@@ -1,0 +1,77 @@
+{
+  "id": 874255811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977367,43.605416,-72.977367,43.605416",
+    "geom:latitude":43.605416,
+    "geom:longitude":-72.977367,
+    "iso:country":"US",
+    "sg:address":"108 Wales St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 8002",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department",
+        "government-state"
+    ],
+    "sg:website":"http://www.rutlandsheriff.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pQ4TmVuUBO0wNv2eXbmIr_43.605416_-72.977367@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313692,
+    "wof:geomhash":"8e09dc8a9d4232c428e8ebc06b0975ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255811
+        }
+    ],
+    "wof:id":874255811,
+    "wof:lastmodified":1464313692,
+    "wof:name":"Rutland County Sheriffs Dept",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "government-state"
+    ]
+},
+  "bbox": [
+    -72.977367,
+    43.605416,
+    -72.977367,
+    43.605416
+],
+  "geometry": {"coordinates":[-72.977367,43.605416],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874123985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.1192,44.727954,-73.1192,44.727954",
+    "geom:latitude":44.727954,
+    "geom:longitude":-73.1192,
+    "iso:country":"US",
+    "sg:address":"142 Plains Rd",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 527 1923",
+    "sg:postcode":"05478",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UpNT1Vna1QZuYZpcTynxq_44.727954_-73.119200@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312076,
+    "wof:geomhash":"679885d97be1aeaa60304e90872181df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874123985
+        }
+    ],
+    "wof:id":874123985,
+    "wof:lastmodified":1464312076,
+    "wof:name":"C & R's Residential Care Homes",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -73.1192,
+    44.727954,
+    -73.1192,
+    44.727954
+],
+  "geometry": {"coordinates":[-73.11920000000001,44.727954],"type":"Point"}
+}

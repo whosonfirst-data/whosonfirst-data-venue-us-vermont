@@ -1,0 +1,71 @@
+{
+  "id": 874004977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.11381,44.052638,-73.11381,44.052638",
+    "geom:latitude":44.052638,
+    "geom:longitude":-73.11381,
+    "iso:country":"US",
+    "sg:address":"653 Cobble Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2982",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WR6En5i8u30kWlm69HLRn_44.052638_-73.113810@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310814,
+    "wof:geomhash":"3438d515a9fa3657645509b1534b261e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874004977
+        }
+    ],
+    "wof:id":874004977,
+    "wof:lastmodified":1464310814,
+    "wof:name":"Esource Manager",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program"
+    ]
+},
+  "bbox": [
+    -73.11381,
+    44.052638,
+    -73.11381,
+    44.052638
+],
+  "geometry": {"coordinates":[-73.11381,44.052638],"type":"Point"}
+}

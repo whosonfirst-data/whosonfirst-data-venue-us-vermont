@@ -1,0 +1,73 @@
+{
+  "id": 874066997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.171889,44.469232,-73.171889,44.469232",
+    "geom:latitude":44.469232,
+    "geom:longitude":-73.171889,
+    "iso:country":"US",
+    "sg:address":"131 Patchen Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 5073",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DaFhsctn93WeyWdFeXlvr_44.469232_-73.171889@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311397,
+    "wof:geomhash":"b7823342665df7f8a823864b0d0e4dff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874066997
+        }
+    ],
+    "wof:id":874066997,
+    "wof:lastmodified":1464311397,
+    "wof:name":"Gymoto Trailer Rentals",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -73.171889,
+    44.469232,
+    -73.171889,
+    44.469232
+],
+  "geometry": {"coordinates":[-73.17188899999999,44.469232],"type":"Point"}
+}

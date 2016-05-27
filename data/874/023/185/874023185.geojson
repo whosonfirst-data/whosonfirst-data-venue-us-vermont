@@ -1,0 +1,73 @@
+{
+  "id": 874023185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.595911,43.723364,-72.595911,43.723364",
+    "geom:latitude":43.723364,
+    "geom:longitude":-72.595911,
+    "iso:country":"US",
+    "sg:address":"192 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 7212",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05y5nz7ktZB6p3A68zyQPr_43.723364_-72.595911@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310975,
+    "wof:geomhash":"fabd51c3fd73343790681aa38f7a4a40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874023185
+        }
+    ],
+    "wof:id":874023185,
+    "wof:lastmodified":1464310975,
+    "wof:name":"Delbert Trucking",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.595911,
+    43.723364,
+    -72.595911,
+    43.723364
+],
+  "geometry": {"coordinates":[-72.595911,43.723364],"type":"Point"}
+}

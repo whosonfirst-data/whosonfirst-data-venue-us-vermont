@@ -1,0 +1,76 @@
+{
+  "id": 874253031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214003,44.476316,-73.214003,44.476316",
+    "geom:latitude":44.476316,
+    "geom:longitude":-73.214003,
+    "iso:country":"US",
+    "sg:address":"133 Saint Paul St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 951 9463",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mbqg86FxV06UR8OG9BHDn_44.476316_-73.214003@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313625,
+    "wof:geomhash":"797ca5b9b6e40b31b2c6b9b64422e323",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874253031
+        }
+    ],
+    "wof:id":874253031,
+    "wof:lastmodified":1464313625,
+    "wof:name":"Wine Works, Inc.",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    -73.214003,
+    44.476316,
+    -73.214003,
+    44.476316
+],
+  "geometry": {"coordinates":[-73.21400300000001,44.476316],"type":"Point"}
+}

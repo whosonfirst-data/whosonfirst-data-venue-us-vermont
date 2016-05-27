@@ -1,0 +1,64 @@
+{
+  "id": 874208735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.681381,44.635888,-72.681381,44.635888",
+    "geom:latitude":44.635888,
+    "geom:longitude":-72.681381,
+    "iso:country":"US",
+    "sg:address":"117 Lower Main St W",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 2251",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HS2UTYNTkb5zng38eZxp0_44.635888_-72.681381@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312936,
+    "wof:geomhash":"f474b11eed97f4d4798a4b1ff2e66d38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874208735
+        }
+    ],
+    "wof:id":874208735,
+    "wof:lastmodified":1464312936,
+    "wof:name":"Johnson Pharmacy",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.681381,
+    44.635888,
+    -72.681381,
+    44.635888
+],
+  "geometry": {"coordinates":[-72.681381,44.635888],"type":"Point"}
+}

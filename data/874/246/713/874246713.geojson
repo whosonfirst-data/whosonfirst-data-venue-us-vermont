@@ -1,0 +1,75 @@
+{
+  "id": 874246713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.35225,44.351358,-72.35225,44.351358",
+    "geom:latitude":44.351358,
+    "geom:longitude":-72.35225,
+    "iso:country":"US",
+    "sg:address":"1626 US Hwy 2",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 4077",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MYbnrEyd4NkuZeO3in6tz_44.351358_-72.352250@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313466,
+    "wof:geomhash":"ee93e6de90ed2d4caee58b312349724a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874246713
+        }
+    ],
+    "wof:id":874246713,
+    "wof:lastmodified":1464313466,
+    "wof:name":"Dunham Brothers Painting",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.35225,
+    44.351358,
+    -72.35225,
+    44.351358
+],
+  "geometry": {"coordinates":[-72.35225,44.351358],"type":"Point"}
+}

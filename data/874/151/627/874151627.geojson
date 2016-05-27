@@ -1,0 +1,77 @@
+{
+  "id": 874151627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.160001,44.464445,-73.160001,44.464445",
+    "geom:latitude":44.464445,
+    "geom:longitude":-73.160001,
+    "iso:country":"US",
+    "sg:address":"1636 Williston Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 5678",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102532853,
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KsZLAvctLxqRxmV96fKJT_44.464445_-73.160001@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312343,
+    "wof:geomhash":"c92a7217ccbd6852f79ca1e856cc5d1b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532853,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874151627
+        }
+    ],
+    "wof:id":874151627,
+    "wof:lastmodified":1464312343,
+    "wof:name":"Vermont Soup Company",
+    "wof:parent_id":102532853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.160001,
+    44.464445,
+    -73.160001,
+    44.464445
+],
+  "geometry": {"coordinates":[-73.16000099999999,44.464445],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874099265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.116672,44.692186,-73.116672,44.692186",
+    "geom:latitude":44.692186,
+    "geom:longitude":-73.116672,
+    "iso:country":"US",
+    "sg:address":"380 Ballard Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 6033",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zb2z3vMmdC9yAC1VH9k0t_44.692186_-73.116672@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311776,
+    "wof:geomhash":"5adeff59678fcff082cd3d594be70a60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874099265
+        }
+    ],
+    "wof:id":874099265,
+    "wof:lastmodified":1464311776,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -73.116672,
+    44.692186,
+    -73.116672,
+    44.692186
+],
+  "geometry": {"coordinates":[-73.11667199999999,44.692186],"type":"Point"}
+}

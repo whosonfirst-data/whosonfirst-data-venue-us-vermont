@@ -1,0 +1,71 @@
+{
+  "id": 874165917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.080343,44.13448,-73.080343,44.13448",
+    "geom:latitude":44.13448,
+    "geom:longitude":-73.080343,
+    "iso:country":"US",
+    "sg:address":"11 School St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5218",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sjLgXZAY3snthefOEzek3_44.134480_-73.080343@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312489,
+    "wof:geomhash":"f0e5b395b087ddc62d5929ea850e9b7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874165917
+        }
+    ],
+    "wof:id":874165917,
+    "wof:lastmodified":1464312489,
+    "wof:name":"Saint Ambrose Parish Hall",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.080343,
+    44.13448,
+    -73.080343,
+    44.13448
+],
+  "geometry": {"coordinates":[-73.080343,44.13448],"type":"Point"}
+}

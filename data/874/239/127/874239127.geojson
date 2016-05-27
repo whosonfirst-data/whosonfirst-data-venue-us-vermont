@@ -1,0 +1,73 @@
+{
+  "id": 874239127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.572709,44.216463,-72.572709,44.216463",
+    "geom:latitude":44.216463,
+    "geom:longitude":-72.572709,
+    "iso:country":"US",
+    "sg:address":"460 Paine Tpke N",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 9700",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BpGJlspdW27RYX2wxK8VP_44.216463_-72.572709@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313323,
+    "wof:geomhash":"653d54f9d75f0d88f021e267dd384cc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874239127
+        }
+    ],
+    "wof:id":874239127,
+    "wof:lastmodified":1464313323,
+    "wof:name":"Berlin Self Storage",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -72.572709,
+    44.216463,
+    -72.572709,
+    44.216463
+],
+  "geometry": {"coordinates":[-72.572709,44.216463],"type":"Point"}
+}

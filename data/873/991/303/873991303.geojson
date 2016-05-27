@@ -1,0 +1,73 @@
+{
+  "id": 873991303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.487512,44.259745,-72.487512,44.259745",
+    "geom:latitude":44.259745,
+    "geom:longitude":-72.487512,
+    "iso:country":"US",
+    "sg:address":"1804 State Rte 14",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 6767",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "jacks",
+        "steeple"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KlpyB29IDqukyrETBHwzA_44.259745_-72.487512@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310699,
+    "wof:geomhash":"a67cdd1622c8a9f880603df9a12955e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873991303
+        }
+    ],
+    "wof:id":873991303,
+    "wof:lastmodified":1464310699,
+    "wof:name":"Steeplejacks",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jacks",
+        "steeple"
+    ]
+},
+  "bbox": [
+    -72.487512,
+    44.259745,
+    -72.487512,
+    44.259745
+],
+  "geometry": {"coordinates":[-72.487512,44.259745],"type":"Point"}
+}

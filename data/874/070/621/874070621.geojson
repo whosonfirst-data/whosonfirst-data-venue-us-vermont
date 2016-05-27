@@ -1,0 +1,71 @@
+{
+  "id": 874070621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.141502,44.420883,-72.141502,44.420883",
+    "geom:latitude":44.420883,
+    "geom:longitude":-72.141502,
+    "iso:country":"US",
+    "sg:address":"96 Webster Hill Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 3474",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D7XMwOGxPrSWvDQm8SZSV_44.420883_-72.141502@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311437,
+    "wof:geomhash":"738daa2488c34681914fd16ec43a0837",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874070621
+        }
+    ],
+    "wof:id":874070621,
+    "wof:lastmodified":1464311437,
+    "wof:name":"Alomax Technologies",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.141502,
+    44.420883,
+    -72.141502,
+    44.420883
+],
+  "geometry": {"coordinates":[-72.141502,44.420883],"type":"Point"}
+}

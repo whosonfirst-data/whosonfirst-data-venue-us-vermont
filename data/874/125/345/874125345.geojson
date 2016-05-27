@@ -1,0 +1,71 @@
+{
+  "id": 874125345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.593496,43.724106,-72.593496,43.724106",
+    "geom:latitude":43.724106,
+    "geom:longitude":-72.593496,
+    "iso:country":"US",
+    "sg:address":"35 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 2020",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "wood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NupX5jHywrEpKEVZiYr4N_43.724106_-72.593496@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312089,
+    "wof:geomhash":"5269ba6c32702fac0c55e7178ba2a827",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874125345
+        }
+    ],
+    "wof:id":874125345,
+    "wof:lastmodified":1464312089,
+    "wof:name":"Kenyon's Wood N Things",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "wood"
+    ]
+},
+  "bbox": [
+    -72.593496,
+    43.724106,
+    -72.593496,
+    43.724106
+],
+  "geometry": {"coordinates":[-72.593496,43.724106],"type":"Point"}
+}

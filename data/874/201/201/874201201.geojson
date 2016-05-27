@@ -1,0 +1,71 @@
+{
+  "id": 874201201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.029347,43.198901,-73.029347,43.198901",
+    "geom:latitude":43.198901,
+    "geom:longitude":-73.029347,
+    "iso:country":"US",
+    "sg:address":"7190 Main St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 293 2725",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844461,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E4wcAbu9RDRkNYLMjgZXC_43.198901_-73.029347@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312855,
+    "wof:geomhash":"579e335655572792e0f886b0164f661e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85844461,
+            "region_id":85688763,
+            "venue_id":874201201
+        }
+    ],
+    "wof:id":874201201,
+    "wof:lastmodified":1464312855,
+    "wof:name":"Absolute Return Advisors LTD",
+    "wof:parent_id":85844461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -73.029347,
+    43.198901,
+    -73.029347,
+    43.198901
+],
+  "geometry": {"coordinates":[-73.029347,43.198901],"type":"Point"}
+}

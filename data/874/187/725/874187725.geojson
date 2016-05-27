@@ -1,0 +1,71 @@
+{
+  "id": 874187725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209087,44.475974,-73.209087,44.475974",
+    "geom:latitude":44.475974,
+    "geom:longitude":-73.209087,
+    "iso:country":"US",
+    "sg:address":"219 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 1998",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zfXQagaknkXdjuAu75ZWE_44.475974_-73.209087@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312716,
+    "wof:geomhash":"bd4d7cef1f384a505888287d0d9b46ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874187725
+        }
+    ],
+    "wof:id":874187725,
+    "wof:lastmodified":1464312716,
+    "wof:name":"Champlain Farms",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.209087,
+    44.475974,
+    -73.209087,
+    44.475974
+],
+  "geometry": {"coordinates":[-73.209087,44.475974],"type":"Point"}
+}

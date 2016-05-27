@@ -1,0 +1,69 @@
+{
+  "id": 874176365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.046368,43.358184,-73.046368,43.358184",
+    "geom:latitude":43.358184,
+    "geom:longitude":-73.046368,
+    "iso:country":"US",
+    "sg:address":"40 Twp Hwy 2",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 1400",
+    "sg:postcode":"05739",
+    "sg:province":"VT",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zhH0sij1X5mWRVlo5lvjk_43.358184_-73.046368@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312591,
+    "wof:geomhash":"b4f698f0663ecf015f4620f12c26a74d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874176365
+        }
+    ],
+    "wof:id":874176365,
+    "wof:lastmodified":1464312591,
+    "wof:name":"Aubuchon Hardware 063",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -73.046368,
+    43.358184,
+    -73.046368,
+    43.358184
+],
+  "geometry": {"coordinates":[-73.046368,43.358184],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874207913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.597095,44.562181,-72.597095,44.562181",
+    "geom:latitude":44.562181,
+    "geom:longitude":-72.597095,
+    "iso:country":"US",
+    "sg:address":"56 Pleasant St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 4968",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v0pbiAOB7lZ6vTwI4UtFN_44.562181_-72.597095@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312928,
+    "wof:geomhash":"91505a68543bbb9402da1fe389958b6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874207913
+        }
+    ],
+    "wof:id":874207913,
+    "wof:lastmodified":1464312928,
+    "wof:name":"Pleasant Street Auto Care",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.597095,
+    44.562181,
+    -72.597095,
+    44.562181
+],
+  "geometry": {"coordinates":[-72.597095,44.562181],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874104621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.986131,43.601318,-72.986131,43.601318",
+    "geom:latitude":43.601318,
+    "geom:longitude":-72.986131,
+    "iso:country":"US",
+    "sg:address":"151 River St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 5710",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FX9vnH7JvqFPvwyIH8RJU_43.601318_-72.986131@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311852,
+    "wof:geomhash":"85116559bffaabf0f3f625e73bb01668",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874104621
+        }
+    ],
+    "wof:id":874104621,
+    "wof:lastmodified":1464311852,
+    "wof:name":"Hill Country Landscaping",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.986131,
+    43.601318,
+    -72.986131,
+    43.601318
+],
+  "geometry": {"coordinates":[-72.986131,43.601318],"type":"Point"}
+}

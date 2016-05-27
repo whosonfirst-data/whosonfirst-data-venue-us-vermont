@@ -1,0 +1,71 @@
+{
+  "id": 874132935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.202218,42.955636,-73.202218,42.955636",
+    "geom:latitude":42.955636,
+    "geom:longitude":-73.202218,
+    "iso:country":"US",
+    "sg:address":"230 Airport Rd",
+    "sg:city":"Shaftsbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 4032",
+    "sg:postcode":"05262",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MJC2zFUJ1yKvldus3npFU_42.955636_-73.202218@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312172,
+    "wof:geomhash":"9e4384643a029c26a32632e8b0f351b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874132935
+        }
+    ],
+    "wof:id":874132935,
+    "wof:lastmodified":1464312172,
+    "wof:name":"S D Industries Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.202218,
+    42.955636,
+    -73.202218,
+    42.955636
+],
+  "geometry": {"coordinates":[-73.202218,42.955636],"type":"Point"}
+}

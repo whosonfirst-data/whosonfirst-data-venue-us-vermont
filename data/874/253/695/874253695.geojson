@@ -1,0 +1,74 @@
+{
+  "id": 874253695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.873001,44.646702,-72.873001,44.646702",
+    "geom:latitude":44.646702,
+    "geom:longitude":-72.873001,
+    "iso:country":"US",
+    "sg:address":"158 Main St",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8100",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "sg:website":"www.158main.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QXV0gEKFW488Uo5tk0AWI_44.646702_-72.873001@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313639,
+    "wof:geomhash":"6314d07c63e214f0d8974d8e3548fa22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874253695
+        }
+    ],
+    "wof:id":874253695,
+    "wof:lastmodified":1464313639,
+    "wof:name":"158 Main Restaurant & Bakery",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.873001,
+    44.646702,
+    -72.873001,
+    44.646702
+],
+  "geometry": {"coordinates":[-72.873001,44.646702],"type":"Point"}
+}

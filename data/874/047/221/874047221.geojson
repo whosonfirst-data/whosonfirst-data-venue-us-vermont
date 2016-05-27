@@ -1,0 +1,71 @@
+{
+  "id": 874047221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.991869,43.612848,-72.991869,43.612848",
+    "geom:latitude":43.612848,
+    "geom:longitude":-72.991869,
+    "iso:country":"US",
+    "sg:address":"98 Fairview Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 8408",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C0Ue0HyQM0RivrLdH8l1t_43.612848_-72.991869@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311217,
+    "wof:geomhash":"5216ee9aae4894199192e39cfea3f964",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874047221
+        }
+    ],
+    "wof:id":874047221,
+    "wof:lastmodified":1464311217,
+    "wof:name":"Houghs Excavation",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.991869,
+    43.612848,
+    -72.991869,
+    43.612848
+],
+  "geometry": {"coordinates":[-72.99186899999999,43.612848],"type":"Point"}
+}

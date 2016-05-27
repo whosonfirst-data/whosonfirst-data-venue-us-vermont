@@ -1,0 +1,71 @@
+{
+  "id": 874048609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088041,44.13868,-73.088041,44.13868",
+    "geom:latitude":44.13868,
+    "geom:longitude":-73.088041,
+    "iso:country":"US",
+    "sg:address":"58 Pine St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Toys & Hobbies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3079",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wholesaler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ldeiQov9JCHFjvUfHmazu_44.138680_-73.088041@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311229,
+    "wof:geomhash":"39c592301b197716b85121190deda493",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874048609
+        }
+    ],
+    "wof:id":874048609,
+    "wof:lastmodified":1464311229,
+    "wof:name":"Addison County Traders Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesaler"
+    ]
+},
+  "bbox": [
+    -73.088041,
+    44.13868,
+    -73.088041,
+    44.13868
+],
+  "geometry": {"coordinates":[-73.088041,44.13868],"type":"Point"}
+}

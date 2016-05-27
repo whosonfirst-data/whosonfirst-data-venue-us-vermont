@@ -1,0 +1,67 @@
+{
+  "id": 874134589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.165765,44.013835,-73.165765,44.013835",
+    "geom:latitude":44.013835,
+    "geom:longitude":-73.165765,
+    "iso:country":"US",
+    "sg:address":"14 Court Sq",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4961",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:website":"www.middleburyinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xqVMrJAt6rSthHO5K0TJR_44.013835_-73.165765@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312187,
+    "wof:geomhash":"389d6950d677daf8fbff45cb0b25fd8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874134589
+        }
+    ],
+    "wof:id":874134589,
+    "wof:lastmodified":1464312187,
+    "wof:name":"Middlebury Inn",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.165765,
+    44.013835,
+    -73.165765,
+    44.013835
+],
+  "geometry": {"coordinates":[-73.16576499999999,44.013835],"type":"Point"}
+}

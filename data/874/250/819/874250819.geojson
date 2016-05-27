@@ -1,0 +1,89 @@
+{
+  "id": 874250819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.550047,44.223586,-72.550047,44.223586",
+    "geom:latitude":44.223586,
+    "geom:longitude":-72.550047,
+    "iso:country":"US",
+    "sg:address":"1060 Us Route 302",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/berlin/139014-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 4192",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rXdBHYkKQytIybzIyEJMA_44.223586_-72.550047@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313582,
+    "wof:geomhash":"ce12a47e2c2979473b8749fbdde759ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874250819
+        }
+    ],
+    "wof:id":874250819,
+    "wof:lastmodified":1464313582,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.550047,
+    44.223586,
+    -72.550047,
+    44.223586
+],
+  "geometry": {"coordinates":[-72.55004700000001,44.223586],"type":"Point"}
+}

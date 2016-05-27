@@ -1,0 +1,77 @@
+{
+  "id": 874254917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.226143,44.384471,-73.226143,44.384471",
+    "geom:latitude":44.384471,
+    "geom:longitude":-73.226143,
+    "iso:country":"US",
+    "sg:address":"5068 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 4300",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "loan",
+        "saving"
+    ],
+    "sg:website":"http://www.citizensbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jZIobz9hVQkWuJjbAykiO_44.384471_-73.226143@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313672,
+    "wof:geomhash":"282f5299b85d4d84e344995aaaf70a26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874254917
+        }
+    ],
+    "wof:id":874254917,
+    "wof:lastmodified":1464313672,
+    "wof:name":"Citizens Bank",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "saving"
+    ]
+},
+  "bbox": [
+    -73.226143,
+    44.384471,
+    -73.226143,
+    44.384471
+],
+  "geometry": {"coordinates":[-73.22614299999999,44.384471],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874077437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204112,44.602326,-73.204112,44.602326",
+    "geom:latitude":44.602326,
+    "geom:longitude":-73.204112,
+    "iso:country":"US",
+    "sg:address":"349 Roosevelt Hwy",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 2230",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "show"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85854373,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RqMqLG1nlBklllhDcBDbe_44.602326_-73.204112@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311523,
+    "wof:geomhash":"e88413a752701c528e83e698f2772c29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85854373,
+            "region_id":85688763,
+            "venue_id":874077437
+        }
+    ],
+    "wof:id":874077437,
+    "wof:lastmodified":1464311523,
+    "wof:name":"Green Mountain Animal Defender",
+    "wof:parent_id":85854373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "show"
+    ]
+},
+  "bbox": [
+    -73.204112,
+    44.602326,
+    -73.204112,
+    44.602326
+],
+  "geometry": {"coordinates":[-73.20411199999999,44.602326],"type":"Point"}
+}

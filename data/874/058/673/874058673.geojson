@@ -1,0 +1,71 @@
+{
+  "id": 874058673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.41125,43.700002,-72.41125,43.700002",
+    "geom:latitude":43.700002,
+    "geom:longitude":-72.41125,
+    "iso:country":"US",
+    "sg:address":"1763 Old River Rd",
+    "sg:city":"White River Jct",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 5933",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "laboratory",
+        "optical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810215,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NkEgy1LQqPdVvXA6EHTNo_43.700002_-72.411250@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311323,
+    "wof:geomhash":"1ef498ada775be65ec5d4e525e35908f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85810215,
+            "region_id":85688763,
+            "venue_id":874058673
+        }
+    ],
+    "wof:id":874058673,
+    "wof:lastmodified":1464311323,
+    "wof:name":"Chadwick Optical Inc",
+    "wof:parent_id":85810215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "optical"
+    ]
+},
+  "bbox": [
+    -72.41125,
+    43.700002,
+    -72.41125,
+    43.700002
+],
+  "geometry": {"coordinates":[-72.41125,43.700002],"type":"Point"}
+}

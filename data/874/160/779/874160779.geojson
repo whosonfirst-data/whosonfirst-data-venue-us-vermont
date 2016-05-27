@@ -1,0 +1,75 @@
+{
+  "id": 874160779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200531,44.472629,-73.200531,44.472629",
+    "geom:latitude":44.472629,
+    "geom:longitude":-73.200531,
+    "iso:country":"US",
+    "sg:address":"262 S Prospect St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 5575",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oBbE1a1Com14eeorRGw3v_44.472629_-73.200531@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312440,
+    "wof:geomhash":"2aab52576652ffb01cd5df29b8870983",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874160779
+        }
+    ],
+    "wof:id":874160779,
+    "wof:lastmodified":1464312440,
+    "wof:name":"Cathedral Square",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -73.200531,
+    44.472629,
+    -73.200531,
+    44.472629
+],
+  "geometry": {"coordinates":[-73.200531,44.472629],"type":"Point"}
+}

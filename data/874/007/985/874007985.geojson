@@ -1,0 +1,75 @@
+{
+  "id": 874007985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.158206,44.446203,-73.158206,44.446203",
+    "geom:latitude":44.446203,
+    "geom:longitude":-73.158206,
+    "iso:country":"US",
+    "sg:address":"802 Hinesburg Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 383 1818",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M1hY52xJtucWPBugZl1j5_44.446203_-73.158206@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310840,
+    "wof:geomhash":"9fcd8cd7807eb4f2212df163df38d67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874007985
+        }
+    ],
+    "wof:id":874007985,
+    "wof:lastmodified":1464310840,
+    "wof:name":"Champlain Valley Urgent Care",
+    "wof:parent_id":85828531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -73.158206,
+    44.446203,
+    -73.158206,
+    44.446203
+],
+  "geometry": {"coordinates":[-73.15820600000001,44.446203],"type":"Point"}
+}

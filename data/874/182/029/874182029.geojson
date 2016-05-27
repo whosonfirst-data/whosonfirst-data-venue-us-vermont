@@ -1,0 +1,69 @@
+{
+  "id": 874182029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.288942,44.024131,-72.288942,44.024131",
+    "geom:latitude":44.024131,
+    "geom:longitude":-72.288942,
+    "iso:country":"US",
+    "sg:address":"1750 Center Rd",
+    "sg:city":"Corinth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 778 7852",
+    "sg:postcode":"05039",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85812235,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_473Zf2CPAgkHjQzfhiJImd_44.024131_-72.288942@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312651,
+    "wof:geomhash":"22f0fe72be3a00aa58b55cf513e6c603",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85812235,
+            "region_id":85688763,
+            "venue_id":874182029
+        }
+    ],
+    "wof:id":874182029,
+    "wof:lastmodified":1464312651,
+    "wof:name":"Erb John B MD",
+    "wof:parent_id":85812235,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.288942,
+    44.024131,
+    -72.288942,
+    44.024131
+],
+  "geometry": {"coordinates":[-72.28894200000001,44.024131],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874157109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.755352,44.5106,-72.755352,44.5106",
+    "geom:latitude":44.5106,
+    "geom:longitude":-72.755352,
+    "iso:country":"US",
+    "sg:address":"53 Hemlock Rd",
+    "sg:city":"Woodbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 456 1600",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85849535,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m6Yac0FFOULXwYSe5RxwW_44.510600_-72.755352@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312400,
+    "wof:geomhash":"e14494bd2457e92338f9caf5ec0c5b20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85849535,
+            "region_id":85688763,
+            "venue_id":874157109
+        }
+    ],
+    "wof:id":874157109,
+    "wof:lastmodified":1464312400,
+    "wof:name":"S Auguste Elliott",
+    "wof:parent_id":85849535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -72.755352,
+    44.5106,
+    -72.755352,
+    44.5106
+],
+  "geometry": {"coordinates":[-72.755352,44.5106],"type":"Point"}
+}

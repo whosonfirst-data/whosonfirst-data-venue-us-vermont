@@ -1,0 +1,69 @@
+{
+  "id": 874050271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.998258,44.504037,-72.998258,44.504037",
+    "geom:latitude":44.504037,
+    "geom:longitude":-72.998258,
+    "iso:country":"US",
+    "sg:address":"341 State Rte 15",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 2507",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "independent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kBoM9ujEdgGghOyHyGNmR_44.504037_-72.998258@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311243,
+    "wof:geomhash":"e99439331d0925e453aba5e54013a03d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874050271
+        }
+    ],
+    "wof:id":874050271,
+    "wof:lastmodified":1464311243,
+    "wof:name":"Big Johns Riverside Store",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "independent"
+    ]
+},
+  "bbox": [
+    -72.998258,
+    44.504037,
+    -72.998258,
+    44.504037
+],
+  "geometry": {"coordinates":[-72.99825800000001,44.504037],"type":"Point"}
+}

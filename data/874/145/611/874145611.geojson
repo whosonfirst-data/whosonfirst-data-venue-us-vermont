@@ -1,0 +1,76 @@
+{
+  "id": 874145611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.97092,43.611019,-72.97092,43.611019",
+    "geom:latitude":43.611019,
+    "geom:longitude":-72.97092,
+    "iso:country":"US",
+    "sg:address":"1 US Hwy 4",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 5628",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "blanket",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N9opYRGfzcLvCYOhBh47z_43.611019_-72.970920@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312285,
+    "wof:geomhash":"126697081bb474c6822a3e322947253b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874145611
+        }
+    ],
+    "wof:id":874145611,
+    "wof:lastmodified":1464312285,
+    "wof:name":"Peggy's Patchwork Quilt Shop",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blanket",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -72.97092,
+    43.611019,
+    -72.97092,
+    43.611019
+],
+  "geometry": {"coordinates":[-72.97092000000001,43.611019],"type":"Point"}
+}

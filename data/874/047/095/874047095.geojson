@@ -1,0 +1,73 @@
+{
+  "id": 874047095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.160573,44.006368,-73.160573,44.006368",
+    "geom:latitude":44.006368,
+    "geom:longitude":-73.160573,
+    "iso:country":"US",
+    "sg:address":"290 US Hwy 7",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 0937",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LaEfOV4F4GNDberLPYSqd_44.006368_-73.160573@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311216,
+    "wof:geomhash":"70e0b567a3e7f9279e12afa155d624c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874047095
+        }
+    ],
+    "wof:id":874047095,
+    "wof:lastmodified":1464311216,
+    "wof:name":"Hill House",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -73.160573,
+    44.006368,
+    -73.160573,
+    44.006368
+],
+  "geometry": {"coordinates":[-73.160573,44.006368],"type":"Point"}
+}

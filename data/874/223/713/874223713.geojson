@@ -1,0 +1,78 @@
+{
+  "id": 874223713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.495134,43.302402,-72.495134,43.302402",
+    "geom:latitude":43.302402,
+    "geom:longitude":-72.495134,
+    "iso:country":"US",
+    "sg:address":"6 Chester Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 3404",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "recycling",
+        "center",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75Baf60d9XIOhf4IEkWpLk_43.302402_-72.495134@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313100,
+    "wof:geomhash":"8cb716154ac19310bb6f9a3bffea6418",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874223713
+        }
+    ],
+    "wof:id":874223713,
+    "wof:lastmodified":1464313100,
+    "wof:name":"Springfield Redemption Center",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center",
+        "system"
+    ]
+},
+  "bbox": [
+    -72.495134,
+    43.302402,
+    -72.495134,
+    43.302402
+],
+  "geometry": {"coordinates":[-72.49513399999999,43.302402],"type":"Point"}
+}

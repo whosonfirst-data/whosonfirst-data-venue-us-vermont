@@ -1,0 +1,76 @@
+{
+  "id": 874154341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.046755,43.593808,-73.046755,43.593808",
+    "geom:latitude":43.593808,
+    "geom:longitude":-73.046755,
+    "iso:country":"US",
+    "sg:address":"518 Main St",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 2766",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "instruction",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fSasaRE2y4Sno2zsdQuBa_43.593808_-73.046755@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312370,
+    "wof:geomhash":"4d5cd0d88b49fdf0682667d63722a67a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874154341
+        }
+    ],
+    "wof:id":874154341,
+    "wof:lastmodified":1464312370,
+    "wof:name":"Vermont Herbal General Str LLC",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "care"
+    ]
+},
+  "bbox": [
+    -73.046755,
+    43.593808,
+    -73.046755,
+    43.593808
+],
+  "geometry": {"coordinates":[-73.046755,43.593808],"type":"Point"}
+}

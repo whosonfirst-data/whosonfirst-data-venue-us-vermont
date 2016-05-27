@@ -1,0 +1,69 @@
+{
+  "id": 874002281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.969594,43.595935,-72.969594,43.595935",
+    "geom:latitude":43.595935,
+    "geom:longitude":-72.969594,
+    "iso:country":"US",
+    "sg:address":"28 Allen St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 9040",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vt15KTcUKfrdidnHUz74Y_43.595935_-72.969594@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310777,
+    "wof:geomhash":"66f09dc375e84654a5129f51af83adaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874002281
+        }
+    ],
+    "wof:id":874002281,
+    "wof:lastmodified":1464310777,
+    "wof:name":"Strattons Meats & Specialties",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery"
+    ]
+},
+  "bbox": [
+    -72.969594,
+    43.595935,
+    -72.969594,
+    43.595935
+],
+  "geometry": {"coordinates":[-72.969594,43.595935],"type":"Point"}
+}

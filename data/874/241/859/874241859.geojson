@@ -1,0 +1,73 @@
+{
+  "id": 874241859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.494791,44.187384,-72.494791,44.187384",
+    "geom:latitude":44.187384,
+    "geom:longitude":-72.494791,
+    "iso:country":"US",
+    "sg:address":"10 Transport Dr",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1088",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11L0WJzSN05mJRQAwmMsAV_44.187384_-72.494791@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313375,
+    "wof:geomhash":"56fa3fc7679e60c148186ea6a4c174db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874241859
+        }
+    ],
+    "wof:id":874241859,
+    "wof:lastmodified":1464313375,
+    "wof:name":"DMS Machining & Fabrication",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.494791,
+    44.187384,
+    -72.494791,
+    44.187384
+],
+  "geometry": {"coordinates":[-72.49479100000001,44.187384],"type":"Point"}
+}

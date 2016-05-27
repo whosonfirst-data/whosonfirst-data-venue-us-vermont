@@ -1,0 +1,74 @@
+{
+  "id": 874253027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214,44.479254,-73.214,44.479254",
+    "geom:latitude":44.479254,
+    "geom:longitude":-73.214,
+    "iso:country":"US",
+    "sg:address":"108 Cherry St Ste 202",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 7530",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "sg:website":"http://www.dail.state.vt.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vGAMee57v2v4qdze2KF2u_44.479254_-73.214000@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313625,
+    "wof:geomhash":"56d8131feb5c9d50d6ed6edd1cf477d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874253027
+        }
+    ],
+    "wof:id":874253027,
+    "wof:lastmodified":1464313625,
+    "wof:name":"Burlington Regional Office",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [
+    -73.214,
+    44.479254,
+    -73.214,
+    44.479254
+],
+  "geometry": {"coordinates":[-73.214,44.479254],"type":"Point"}
+}

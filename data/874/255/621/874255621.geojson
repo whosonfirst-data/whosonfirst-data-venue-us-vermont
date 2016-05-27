@@ -1,0 +1,64 @@
+{
+  "id": 874255621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.966553,43.596748,-72.966553,43.596748",
+    "geom:latitude":43.596748,
+    "geom:longitude":-72.966553,
+    "iso:country":"US",
+    "sg:address":"33 Allen St Ste B1",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 8907",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F9BbnPefUoFVPeNhKJpqa_43.596748_-72.966553@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313688,
+    "wof:geomhash":"79a7913092750ce73669905bcf3482dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255621
+        }
+    ],
+    "wof:id":874255621,
+    "wof:lastmodified":1464313688,
+    "wof:name":"Phil's Taxi Svc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.966553,
+    43.596748,
+    -72.966553,
+    43.596748
+],
+  "geometry": {"coordinates":[-72.966553,43.596748],"type":"Point"}
+}

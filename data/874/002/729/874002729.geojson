@@ -1,0 +1,73 @@
+{
+  "id": 874002729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.219547,44.455741,-73.219547,44.455741",
+    "geom:latitude":44.455741,
+    "geom:longitude":-73.219547,
+    "iso:country":"US",
+    "sg:address":"180 Flynn Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 3118",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "water",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CqjzeS8k9wIr3V8iVxrAX_44.455741_-73.219547@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310788,
+    "wof:geomhash":"3e241b198fc5de37fc2a92dfd4396d46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874002729
+        }
+    ],
+    "wof:id":874002729,
+    "wof:lastmodified":1464310788,
+    "wof:name":"Culligan",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -73.219547,
+    44.455741,
+    -73.219547,
+    44.455741
+],
+  "geometry": {"coordinates":[-73.21954700000001,44.455741],"type":"Point"}
+}

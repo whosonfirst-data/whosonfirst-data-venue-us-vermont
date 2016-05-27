@@ -1,0 +1,77 @@
+{
+  "id": 874085801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.474045,44.164603,-72.474045,44.164603",
+    "geom:latitude":44.164603,
+    "geom:longitude":-72.474045,
+    "iso:country":"US",
+    "sg:address":"210 Websterville Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 4122",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853237,
+        102191575,
+        404527421,
+        85633793,
+        101728527,
+        102080779,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o3Nx6rDY1reeCVHYxxsHd_44.164603_-72.474045@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311618,
+    "wof:geomhash":"70d4aa9d4b879eb86ace66f14be66433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080779,
+            "localadmin_id":404527421,
+            "locality_id":101728527,
+            "neighbourhood_id":85853237,
+            "region_id":85688763,
+            "venue_id":874085801
+        }
+    ],
+    "wof:id":874085801,
+    "wof:lastmodified":1464311618,
+    "wof:name":"A & L Auto Truck Repair",
+    "wof:parent_id":85853237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.474045,
+    44.164603,
+    -72.474045,
+    44.164603
+],
+  "geometry": {"coordinates":[-72.474045,44.164603],"type":"Point"}
+}

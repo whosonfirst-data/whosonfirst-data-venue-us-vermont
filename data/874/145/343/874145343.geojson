@@ -1,0 +1,71 @@
+{
+  "id": 874145343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.995172,44.490967,-72.995172,44.490967",
+    "geom:latitude":44.490967,
+    "geom:longitude":-72.995172,
+    "iso:country":"US",
+    "sg:address":"112 Plains Rd",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 3298",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XwZEzBbA074f9z8XY7S5L_44.490967_-72.995172@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312283,
+    "wof:geomhash":"2b8f7b8d997fda48659ec18f3f245e8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874145343
+        }
+    ],
+    "wof:id":874145343,
+    "wof:lastmodified":1464312283,
+    "wof:name":"Red Barn Auto & Truck Care",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.995172,
+    44.490967,
+    -72.995172,
+    44.490967
+],
+  "geometry": {"coordinates":[-72.995172,44.490967],"type":"Point"}
+}

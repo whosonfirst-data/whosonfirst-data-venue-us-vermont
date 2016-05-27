@@ -1,0 +1,76 @@
+{
+  "id": 874053311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.476875,44.249519,-72.476875,44.249519",
+    "geom:latitude":44.249519,
+    "geom:longitude":-72.476875,
+    "iso:country":"US",
+    "sg:address":"1750 Clark Rd",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3441",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "energy",
+        "renewable",
+        "contractor"
+    ],
+    "sg:website":"www.elementalenergy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jgji8C6NLsPXY82f1IPGC_44.249519_-72.476875@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311272,
+    "wof:geomhash":"70dbb1469736c3a0080634008226c0c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874053311
+        }
+    ],
+    "wof:id":874053311,
+    "wof:lastmodified":1464311272,
+    "wof:name":"Elemental Energy",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "renewable",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.476875,
+    44.249519,
+    -72.476875,
+    44.249519
+],
+  "geometry": {"coordinates":[-72.47687500000001,44.249519],"type":"Point"}
+}

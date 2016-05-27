@@ -1,0 +1,71 @@
+{
+  "id": 874124671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200267,42.884482,-73.200267,42.884482",
+    "geom:latitude":42.884482,
+    "geom:longitude":-73.200267,
+    "iso:country":"US",
+    "sg:address":"100 Lincoln St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 3037",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j8al1B4IXYdyV85rRJMCI_42.884482_-73.200267@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312082,
+    "wof:geomhash":"2adfbefa683ae2e3ee3f7e6faf4edf40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874124671
+        }
+    ],
+    "wof:id":874124671,
+    "wof:lastmodified":1464312082,
+    "wof:name":"Budgetman Contractors",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.200267,
+    42.884482,
+    -73.200267,
+    42.884482
+],
+  "geometry": {"coordinates":[-73.200267,42.884482],"type":"Point"}
+}

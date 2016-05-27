@@ -1,0 +1,71 @@
+{
+  "id": 874053451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.510749,44.205261,-72.510749,44.205261",
+    "geom:latitude":44.205261,
+    "geom:longitude":-72.510749,
+    "iso:country":"US",
+    "sg:address":"450 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3161",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r1r4KFMSl3sQ362nqKWtE_44.205261_-72.510749@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311273,
+    "wof:geomhash":"e94447afa4417647eda36588c0766383",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874053451
+        }
+    ],
+    "wof:id":874053451,
+    "wof:lastmodified":1464311273,
+    "wof:name":"Tenco New England Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -72.510749,
+    44.205261,
+    -72.510749,
+    44.205261
+],
+  "geometry": {"coordinates":[-72.510749,44.205261],"type":"Point"}
+}

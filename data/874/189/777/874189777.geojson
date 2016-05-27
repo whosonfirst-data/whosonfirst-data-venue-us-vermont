@@ -1,0 +1,71 @@
+{
+  "id": 874189777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.005809,43.438918,-73.005809,43.438918",
+    "geom:latitude":43.438918,
+    "geom:longitude":-73.005809,
+    "iso:country":"US",
+    "sg:address":"1245 W Hill Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 2525",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gaFj11iyjiSerFr5BqSjG_43.438918_-73.005809@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312737,
+    "wof:geomhash":"76fad86f8ec72b07b0bec6e22028b7d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874189777
+        }
+    ],
+    "wof:id":874189777,
+    "wof:lastmodified":1464312737,
+    "wof:name":"Woolies West Hill",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.005809,
+    43.438918,
+    -73.005809,
+    43.438918
+],
+  "geometry": {"coordinates":[-73.005809,43.438918],"type":"Point"}
+}

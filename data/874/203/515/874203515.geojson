@@ -1,0 +1,71 @@
+{
+  "id": 874203515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.732226,44.092608,-72.732226,44.092608",
+    "geom:latitude":44.092608,
+    "geom:longitude":-72.732226,
+    "iso:country":"US",
+    "sg:address":"61 Tracy Hill Rd",
+    "sg:city":"Roxbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Soap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 4187",
+    "sg:postcode":"05669",
+    "sg:province":"VT",
+    "sg:tags":[
+        "detergent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29Fg9bMknsHeIC5kzXxva0_44.092608_-72.732226@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312879,
+    "wof:geomhash":"03f1f6a8b9cd052ecb09e10b31bceb00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874203515
+        }
+    ],
+    "wof:id":874203515,
+    "wof:lastmodified":1464312879,
+    "wof:name":"Tracy Hill",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detergent"
+    ]
+},
+  "bbox": [
+    -72.732226,
+    44.092608,
+    -72.732226,
+    44.092608
+],
+  "geometry": {"coordinates":[-72.732226,44.092608],"type":"Point"}
+}

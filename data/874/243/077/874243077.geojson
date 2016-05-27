@@ -1,0 +1,73 @@
+{
+  "id": 874243077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.15111,44.305558,-72.15111,44.305558",
+    "geom:latitude":44.305558,
+    "geom:longitude":-72.15111,
+    "iso:country":"US",
+    "sg:address":"367 Aiken Farm Rd",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 4039",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IikjH4d88a9POXpwMo3mj_44.305558_-72.151110@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313396,
+    "wof:geomhash":"5271830993e2296d4b22634cbfd03bd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874243077
+        }
+    ],
+    "wof:id":874243077,
+    "wof:lastmodified":1464313396,
+    "wof:name":"Raymond Locke Trucking",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.15111,
+    44.305558,
+    -72.15111,
+    44.305558
+],
+  "geometry": {"coordinates":[-72.15111,44.305558],"type":"Point"}
+}

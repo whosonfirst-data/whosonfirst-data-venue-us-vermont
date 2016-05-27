@@ -1,0 +1,69 @@
+{
+  "id": 874187261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.742316,42.815638,-72.742316,42.815638",
+    "geom:latitude":42.815638,
+    "geom:longitude":-72.742316,
+    "iso:country":"US",
+    "sg:address":"21 O'Bryan Dr",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 5806",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TYjzlCrfC0JL8aSJzwXpr_42.815638_-72.742316@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312712,
+    "wof:geomhash":"26040fd857c7bf86ec15bc9a6ccdd08c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874187261
+        }
+    ],
+    "wof:id":874187261,
+    "wof:lastmodified":1464312712,
+    "wof:name":"John J Nissen Baking Co",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -72.742316,
+    42.815638,
+    -72.742316,
+    42.815638
+],
+  "geometry": {"coordinates":[-72.742316,42.815638],"type":"Point"}
+}

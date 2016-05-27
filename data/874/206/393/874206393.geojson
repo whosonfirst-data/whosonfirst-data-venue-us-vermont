@@ -1,0 +1,74 @@
+{
+  "id": 874206393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.131236,44.777555,-73.131236,44.777555",
+    "geom:latitude":44.777555,
+    "geom:longitude":-73.131236,
+    "iso:country":"US",
+    "sg:address":"84 Falls Rd",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 5685",
+    "sg:postcode":"05478",
+    "sg:province":"VT",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85833735,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u8VHxyNBmOVoJn1Px4U1o_44.777555_-73.131236@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312908,
+    "wof:geomhash":"729b52da850703cf6fd409d8bbe9230f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85833735,
+            "region_id":85688763,
+            "venue_id":874206393
+        }
+    ],
+    "wof:id":874206393,
+    "wof:lastmodified":1464312908,
+    "wof:name":"Heinlein Enterprises Inc",
+    "wof:parent_id":85833735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -73.131236,
+    44.777555,
+    -73.131236,
+    44.777555
+],
+  "geometry": {"coordinates":[-73.131236,44.777555],"type":"Point"}
+}

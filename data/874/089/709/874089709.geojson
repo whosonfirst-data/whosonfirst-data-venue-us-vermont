@@ -1,0 +1,71 @@
+{
+  "id": 874089709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.539937,44.112022,-72.539937,44.112022",
+    "geom:latitude":44.112022,
+    "geom:longitude":-72.539937,
+    "iso:country":"US",
+    "sg:address":"2861 State Rte 14",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 1212",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kvDai5JQJ3oD1gMpe9BRL_44.112022_-72.539937@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311657,
+    "wof:geomhash":"613d35dbe45ccb2bcdfde87878e52075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874089709
+        }
+    ],
+    "wof:id":874089709,
+    "wof:lastmodified":1464311657,
+    "wof:name":"Vermont Municipal Truck Equip",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "truck"
+    ]
+},
+  "bbox": [
+    -72.539937,
+    44.112022,
+    -72.539937,
+    44.112022
+],
+  "geometry": {"coordinates":[-72.53993699999999,44.112022],"type":"Point"}
+}

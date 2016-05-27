@@ -1,0 +1,71 @@
+{
+  "id": 874120525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.189683,44.496289,-73.189683,44.496289",
+    "geom:latitude":44.496289,
+    "geom:longitude":-73.189683,
+    "iso:country":"US",
+    "sg:address":"3 Saint Peter St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 2290",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "school",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Eo6xzA41Uwb9VLs2jvVMf_44.496289_-73.189683@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312046,
+    "wof:geomhash":"66a24d7f0c00f280c74daf504184d3df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874120525
+        }
+    ],
+    "wof:id":874120525,
+    "wof:lastmodified":1464312046,
+    "wof:name":"St Francis Xavier",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "church"
+    ]
+},
+  "bbox": [
+    -73.189683,
+    44.496289,
+    -73.189683,
+    44.496289
+],
+  "geometry": {"coordinates":[-73.189683,44.496289],"type":"Point"}
+}

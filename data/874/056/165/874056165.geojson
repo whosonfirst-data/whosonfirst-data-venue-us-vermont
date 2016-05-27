@@ -1,0 +1,71 @@
+{
+  "id": 874056165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.450142,43.650319,-72.450142,43.650319",
+    "geom:latitude":43.650319,
+    "geom:longitude":-72.450142,
+    "iso:country":"US",
+    "sg:address":"234 Allen Family Rd",
+    "sg:city":"Quechee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 296 0006",
+    "sg:postcode":"05059",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kjiggwycqNxYxkzcCzyRk_43.650319_-72.450142@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311302,
+    "wof:geomhash":"54f755a2771b2b75971e4f674eb9b4e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874056165
+        }
+    ],
+    "wof:id":874056165,
+    "wof:lastmodified":1464311302,
+    "wof:name":"High Country Homes LLC",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.450142,
+    43.650319,
+    -72.450142,
+    43.650319
+],
+  "geometry": {"coordinates":[-72.450142,43.650319],"type":"Point"}
+}

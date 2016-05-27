@@ -1,0 +1,69 @@
+{
+  "id": 874035181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.187495,44.490369,-73.187495,44.490369",
+    "geom:latitude":44.490369,
+    "geom:longitude":-73.187495,
+    "iso:country":"US",
+    "sg:address":"7 W Canal St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 3373",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4twk1RpF1MKvwfWTrHeURI_44.490369_-73.187495@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311096,
+    "wof:geomhash":"41cd98e43f5a466af2a3f7f2db41111b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874035181
+        }
+    ],
+    "wof:id":874035181,
+    "wof:lastmodified":1464311096,
+    "wof:name":"Onion River Clippers",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.187495,
+    44.490369,
+    -73.187495,
+    44.490369
+],
+  "geometry": {"coordinates":[-73.187495,44.490369],"type":"Point"}
+}

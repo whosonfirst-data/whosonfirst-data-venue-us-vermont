@@ -1,0 +1,71 @@
+{
+  "id": 874175225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205815,44.469691,-73.205815,44.469691",
+    "geom:latitude":44.469691,
+    "geom:longitude":-73.205815,
+    "iso:country":"US",
+    "sg:address":"24 Cliff St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 0474",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53JJ38inn4Df88j86qCfbZ_44.469691_-73.205815@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312580,
+    "wof:geomhash":"1c97a18d723c955ec0bf08ed42a3434d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874175225
+        }
+    ],
+    "wof:id":874175225,
+    "wof:lastmodified":1464312580,
+    "wof:name":"Barrows Painting",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -73.205815,
+    44.469691,
+    -73.205815,
+    44.469691
+],
+  "geometry": {"coordinates":[-73.205815,44.469691],"type":"Point"}
+}

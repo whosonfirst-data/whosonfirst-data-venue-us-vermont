@@ -1,0 +1,69 @@
+{
+  "id": 874127395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.598278,44.568868,-72.598278,44.568868",
+    "geom:latitude":44.568868,
+    "geom:longitude":-72.598278,
+    "iso:country":"US",
+    "sg:address":"447 Brooklyn St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 9814",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hdx5DO3MZNagl2o2z41mz_44.568868_-72.598278@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312106,
+    "wof:geomhash":"1e0698a3e29eb2e17593a6407d4fcf50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874127395
+        }
+    ],
+    "wof:id":874127395,
+    "wof:lastmodified":1464312106,
+    "wof:name":"Preparedness Educational Svcs",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -72.598278,
+    44.568868,
+    -72.598278,
+    44.568868
+],
+  "geometry": {"coordinates":[-72.59827799999999,44.568868],"type":"Point"}
+}

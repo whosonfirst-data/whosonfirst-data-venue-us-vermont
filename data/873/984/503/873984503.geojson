@@ -1,0 +1,75 @@
+{
+  "id": 873984503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.498826,44.195889,-72.498826,44.195889",
+    "geom:latitude":44.195889,
+    "geom:longitude":-72.498826,
+    "iso:country":"US",
+    "sg:address":"60 Washington St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 8500",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consultant",
+        "restoration",
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bGHf4Sx6fhYCgF2Ydrt24_44.195889_-72.498826@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310646,
+    "wof:geomhash":"9fdd7144ca16fb5a4b6201508bd13a64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873984503
+        }
+    ],
+    "wof:id":873984503,
+    "wof:lastmodified":1464310646,
+    "wof:name":"Historical Society",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "restoration",
+        "historical"
+    ]
+},
+  "bbox": [
+    -72.498826,
+    44.195889,
+    -72.498826,
+    44.195889
+],
+  "geometry": {"coordinates":[-72.49882599999999,44.195889],"type":"Point"}
+}

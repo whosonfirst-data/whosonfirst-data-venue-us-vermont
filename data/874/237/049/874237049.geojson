@@ -1,0 +1,76 @@
+{
+  "id": 874237049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.133714,44.507784,-73.133714,44.507784",
+    "geom:latitude":44.507784,
+    "geom:longitude":-73.133714,
+    "iso:country":"US",
+    "sg:address":"6 Market Pl",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 1898",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "electrolysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oa2fXXfppl8AUUH6ry5tW_44.507784_-73.133714@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313282,
+    "wof:geomhash":"7bbd7a2d949a935e48687fcf0b343687",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874237049
+        }
+    ],
+    "wof:id":874237049,
+    "wof:lastmodified":1464313282,
+    "wof:name":"Burlington Studio Electrolysis",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "electrolysis"
+    ]
+},
+  "bbox": [
+    -73.133714,
+    44.507784,
+    -73.133714,
+    44.507784
+],
+  "geometry": {"coordinates":[-73.133714,44.507784],"type":"Point"}
+}

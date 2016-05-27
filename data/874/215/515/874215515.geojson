@@ -1,0 +1,73 @@
+{
+  "id": 874215515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.251189,44.167298,-73.251189,44.167298",
+    "geom:latitude":44.167298,
+    "geom:longitude":-73.251189,
+    "iso:country":"US",
+    "sg:address":"53 School St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 6897",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zkiFcW1F9yKhJLm2vzUkh_44.167298_-73.251189@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313009,
+    "wof:geomhash":"4dc7be26e80c8d8e55abdf379be68b7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874215515
+        }
+    ],
+    "wof:id":874215515,
+    "wof:lastmodified":1464313009,
+    "wof:name":"Emporium",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.251189,
+    44.167298,
+    -73.251189,
+    44.167298
+],
+  "geometry": {"coordinates":[-73.251189,44.167298],"type":"Point"}
+}

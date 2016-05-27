@@ -1,0 +1,71 @@
+{
+  "id": 874167907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.496393,44.195008,-72.496393,44.195008",
+    "geom:latitude":44.195008,
+    "geom:longitude":-72.496393,
+    "iso:country":"US",
+    "sg:address":"5 Highland Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 8366",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sJiQoNAy5W3ciOI12X0Dg_44.195008_-72.496393@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312506,
+    "wof:geomhash":"f848db0f127da4d24041130819f49470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874167907
+        }
+    ],
+    "wof:id":874167907,
+    "wof:lastmodified":1464312506,
+    "wof:name":"Brighter Day Beauty Salon",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.496393,
+    44.195008,
+    -72.496393,
+    44.195008
+],
+  "geometry": {"coordinates":[-72.496393,44.195008],"type":"Point"}
+}

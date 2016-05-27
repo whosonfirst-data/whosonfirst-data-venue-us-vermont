@@ -1,0 +1,71 @@
+{
+  "id": 874226237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.16741,44.553582,-73.16741,44.553582",
+    "geom:latitude":44.553582,
+    "geom:longitude":-73.16741,
+    "iso:country":"US",
+    "sg:address":"45 1st St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 2389",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cx4sKUPclo1PcBkzV9irH_44.553582_-73.167410@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313123,
+    "wof:geomhash":"3f2dfd95582fb6896f63971703ecb356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":874226237
+        }
+    ],
+    "wof:id":874226237,
+    "wof:lastmodified":1464313123,
+    "wof:name":"Commercial Logic Inc",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -73.16741,
+    44.553582,
+    -73.16741,
+    44.553582
+],
+  "geometry": {"coordinates":[-73.16741,44.553582],"type":"Point"}
+}

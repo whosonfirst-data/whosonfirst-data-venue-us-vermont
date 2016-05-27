@@ -1,0 +1,71 @@
+{
+  "id": 874171657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.553181,43.33098,-72.553181,43.33098",
+    "geom:latitude":43.33098,
+    "geom:longitude":-72.553181,
+    "iso:country":"US",
+    "sg:address":"189 Locke Rd",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 1718",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carrier",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r0OA7u8NjfThQeP7fGwOP_43.330980_-72.553181@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312546,
+    "wof:geomhash":"62e7f6631e9e9709cdd435c5e98237b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874171657
+        }
+    ],
+    "wof:id":874171657,
+    "wof:lastmodified":1464312546,
+    "wof:name":"Vermont Home Enterprises LLC",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "motor"
+    ]
+},
+  "bbox": [
+    -72.553181,
+    43.33098,
+    -72.553181,
+    43.33098
+],
+  "geometry": {"coordinates":[-72.553181,43.33098],"type":"Point"}
+}

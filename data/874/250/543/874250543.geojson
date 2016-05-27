@@ -1,0 +1,74 @@
+{
+  "id": 874250543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.2098,44.436954,-73.2098,44.436954",
+    "geom:latitude":44.436954,
+    "geom:longitude":-73.2098,
+    "iso:country":"US",
+    "sg:address":"1184 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/south-burlington/98969-friendlys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 4219",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Gx4ABgVXSt0H73DRSrPU5_44.436954_-73.209800@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313577,
+    "wof:geomhash":"6a1839d4fa065275682c04bb24fc89ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874250543
+        }
+    ],
+    "wof:id":874250543,
+    "wof:lastmodified":1464313577,
+    "wof:name":"Friendly's",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.2098,
+    44.436954,
+    -73.2098,
+    44.436954
+],
+  "geometry": {"coordinates":[-73.2098,44.436954],"type":"Point"}
+}

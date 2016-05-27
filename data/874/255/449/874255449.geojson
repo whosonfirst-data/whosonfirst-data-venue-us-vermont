@@ -1,0 +1,71 @@
+{
+  "id": 874255449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.278768,44.435049,-72.278768,44.435049",
+    "geom:latitude":44.435049,
+    "geom:longitude":-72.278768,
+    "iso:country":"US",
+    "sg:address":"318 Tetreault Rd",
+    "sg:city":"Cabot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 563 3259",
+    "sg:postcode":"05647",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rIadvCKco6bipqKh6tnab_44.435049_-72.278768@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313685,
+    "wof:geomhash":"7f69258fcfe61ddbe56481b708b174d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874255449
+        }
+    ],
+    "wof:id":874255449,
+    "wof:lastmodified":1464313685,
+    "wof:name":"Susan Alexander",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -72.278768,
+    44.435049,
+    -72.278768,
+    44.435049
+],
+  "geometry": {"coordinates":[-72.278768,44.435049],"type":"Point"}
+}

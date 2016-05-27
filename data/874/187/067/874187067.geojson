@@ -1,0 +1,69 @@
+{
+  "id": 874187067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.024247,43.596653,-73.024247,43.596653",
+    "geom:latitude":43.596653,
+    "geom:longitude":-73.024247,
+    "iso:country":"US",
+    "sg:address":"77 Rutland Rd",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 9800",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Gbx9080HrMz0dw3Sfo822_43.596653_-73.024247@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312710,
+    "wof:geomhash":"bc5f19fa78e6ed3c15ce0c0a1b18813a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874187067
+        }
+    ],
+    "wof:id":874187067,
+    "wof:lastmodified":1464312710,
+    "wof:name":"Ice House Limousine",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -73.024247,
+    43.596653,
+    -73.024247,
+    43.596653
+],
+  "geometry": {"coordinates":[-73.024247,43.596653],"type":"Point"}
+}

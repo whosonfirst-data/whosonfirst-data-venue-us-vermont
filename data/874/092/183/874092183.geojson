@@ -1,0 +1,71 @@
+{
+  "id": 874092183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.07943,44.135241,-73.07943,44.135241",
+    "geom:latitude":44.135241,
+    "geom:longitude":-73.07943,
+    "iso:country":"US",
+    "sg:address":"9 Church St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5020",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QH4bONHQXciL8pdDBlNOG_44.135241_-73.079430@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311687,
+    "wof:geomhash":"72c3383a464efd5ada476a677a9a5399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874092183
+        }
+    ],
+    "wof:id":874092183,
+    "wof:lastmodified":1464311687,
+    "wof:name":"Bristol Antiques",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -73.07943,
+    44.135241,
+    -73.07943,
+    44.135241
+],
+  "geometry": {"coordinates":[-73.07943,44.135241],"type":"Point"}
+}

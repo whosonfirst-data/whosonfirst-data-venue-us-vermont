@@ -1,0 +1,71 @@
+{
+  "id": 874193775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.619772,44.605044,-72.619772,44.605044",
+    "geom:latitude":44.605044,
+    "geom:longitude":-72.619772,
+    "iso:country":"US",
+    "sg:address":"202 Battle Row Rd",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5570",
+    "sg:postcode":"05655",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KH5buD2VuoECmryBvxFwy_44.605044_-72.619772@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312777,
+    "wof:geomhash":"f7b8eee9b803d2a026a243cf15b0233e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874193775
+        }
+    ],
+    "wof:id":874193775,
+    "wof:lastmodified":1464312777,
+    "wof:name":"Collette's V & T Lock Shop",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -72.619772,
+    44.605044,
+    -72.619772,
+    44.605044
+],
+  "geometry": {"coordinates":[-72.619772,44.605044],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874134085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196254,44.498715,-73.196254,44.498715",
+    "geom:latitude":44.498715,
+    "geom:longitude":-73.196254,
+    "iso:country":"US",
+    "sg:address":"316 Malletts Bay Ave",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 1406",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ebDVO4fdvAw9tmmfVj0IT_44.498715_-73.196254@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312182,
+    "wof:geomhash":"c9f3f5a8076ec1c25fb3df440a75f92a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874134085
+        }
+    ],
+    "wof:id":874134085,
+    "wof:lastmodified":1464312182,
+    "wof:name":"Radiant Works Heating",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.196254,
+    44.498715,
+    -73.196254,
+    44.498715
+],
+  "geometry": {"coordinates":[-73.196254,44.498715],"type":"Point"}
+}

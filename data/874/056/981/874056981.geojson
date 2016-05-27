@@ -1,0 +1,69 @@
+{
+  "id": 874056981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.19475,42.878049,-73.19475,42.878049",
+    "geom:latitude":42.878049,
+    "geom:longitude":-73.19475,
+    "iso:country":"US",
+    "sg:address":"471 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 3789",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mLuH14RC9ls31CWdbGjcN_42.878049_-73.194750@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311309,
+    "wof:geomhash":"a2afe5413fb7e861fec139955b2c97db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874056981
+        }
+    ],
+    "wof:id":874056981,
+    "wof:lastmodified":1464311309,
+    "wof:name":"Village Chocolate Shoppe",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [
+    -73.19475,
+    42.878049,
+    -73.19475,
+    42.878049
+],
+  "geometry": {"coordinates":[-73.19475,42.878049],"type":"Point"}
+}

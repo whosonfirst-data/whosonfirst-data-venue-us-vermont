@@ -1,0 +1,71 @@
+{
+  "id": 873995753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.973932,43.601398,-72.973932,43.601398",
+    "geom:latitude":43.601398,
+    "geom:longitude":-72.973932,
+    "iso:country":"US",
+    "sg:address":"102 Strongs Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 9980",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jjreg5nkYjuc6UcZ3EDYd_43.601398_-72.973932@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310730,
+    "wof:geomhash":"dddb11e9a71a8e69a01d28d380266f1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":873995753
+        }
+    ],
+    "wof:id":873995753,
+    "wof:lastmodified":1464310730,
+    "wof:name":"Ramunto's Sicilian Pizza",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.973932,
+    43.601398,
+    -72.973932,
+    43.601398
+],
+  "geometry": {"coordinates":[-72.973932,43.601398],"type":"Point"}
+}

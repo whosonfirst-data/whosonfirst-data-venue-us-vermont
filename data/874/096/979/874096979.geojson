@@ -1,0 +1,69 @@
+{
+  "id": 874096979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.597307,44.563739,-72.597307,44.563739",
+    "geom:latitude":44.563739,
+    "geom:longitude":-72.597307,
+    "iso:country":"US",
+    "sg:address":"120 Pleasant St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 4130",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AgDpbm1pEGqIhwtWLKoty_44.563739_-72.597307@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311743,
+    "wof:geomhash":"00c81576898207fe2ccae893f6f2b6d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874096979
+        }
+    ],
+    "wof:id":874096979,
+    "wof:lastmodified":1464311743,
+    "wof:name":"Roads End Organics Inc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.597307,
+    44.563739,
+    -72.597307,
+    44.563739
+],
+  "geometry": {"coordinates":[-72.597307,44.563739],"type":"Point"}
+}

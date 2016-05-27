@@ -1,0 +1,69 @@
+{
+  "id": 874077791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.14839,44.543967,-73.14839,44.543967",
+    "geom:latitude":44.543967,
+    "geom:longitude":-73.14839,
+    "iso:country":"US",
+    "sg:address":"935 Main St",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 4141",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lGLwgINPAVEx65bPL52TN_44.543967_-73.148390@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311526,
+    "wof:geomhash":"003d914797f4b93482fabd49476dd7bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":874077791
+        }
+    ],
+    "wof:id":874077791,
+    "wof:lastmodified":1464311526,
+    "wof:name":"Village Cutters",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.14839,
+    44.543967,
+    -73.14839,
+    44.543967
+],
+  "geometry": {"coordinates":[-73.14839000000001,44.543967],"type":"Point"}
+}

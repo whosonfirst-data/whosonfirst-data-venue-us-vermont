@@ -1,0 +1,69 @@
+{
+  "id": 874193287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.158861,44.338484,-72.158861,44.338484",
+    "geom:latitude":44.338484,
+    "geom:longitude":-72.158861,
+    "iso:country":"US",
+    "sg:address":"1634 E Peacham Rd",
+    "sg:city":"Peacham",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 592 3253",
+    "sg:postcode":"05862",
+    "sg:province":"VT",
+    "sg:tags":[
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IoGqDuGMv8kgp70sGC8BE_44.338484_-72.158861@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312773,
+    "wof:geomhash":"8a99bf1d7cbeb756ca00b8e7e525e144",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874193287
+        }
+    ],
+    "wof:id":874193287,
+    "wof:lastmodified":1464312773,
+    "wof:name":"East Peacham Baptist Church",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership"
+    ]
+},
+  "bbox": [
+    -72.158861,
+    44.338484,
+    -72.158861,
+    44.338484
+],
+  "geometry": {"coordinates":[-72.158861,44.338484],"type":"Point"}
+}

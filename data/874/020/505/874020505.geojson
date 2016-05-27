@@ -1,0 +1,73 @@
+{
+  "id": 874020505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.910471,44.636218,-72.910471,44.636218",
+    "geom:latitude":44.636218,
+    "geom:longitude":-72.910471,
+    "iso:country":"US",
+    "sg:address":"426 State Rte 15",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 2056",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ef1Z7VLNiM6c4b99oFwgS_44.636218_-72.910471@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310953,
+    "wof:geomhash":"33acc924deddf754a5670815c9d04376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874020505
+        }
+    ],
+    "wof:id":874020505,
+    "wof:lastmodified":1464310953,
+    "wof:name":"Village Service & Auto Repair",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.910471,
+    44.636218,
+    -72.910471,
+    44.636218
+],
+  "geometry": {"coordinates":[-72.910471,44.636218],"type":"Point"}
+}

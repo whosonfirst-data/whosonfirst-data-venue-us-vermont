@@ -1,0 +1,76 @@
+{
+  "id": 874254543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.231758,44.36937,-73.231758,44.36937",
+    "geom:latitude":44.36937,
+    "geom:longitude":-73.231758,
+    "iso:country":"US",
+    "sg:address":"1 Marsett Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 8183",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychological",
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VSmtCvrwJuYzVaPPtVYPA_44.369370_-73.231758@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313659,
+    "wof:geomhash":"79458bc69cf75f618e8acafd9e84e2cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874254543
+        }
+    ],
+    "wof:id":874254543,
+    "wof:lastmodified":1464313659,
+    "wof:name":"Sally S Young Phd",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychological",
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -73.231758,
+    44.36937,
+    -73.231758,
+    44.36937
+],
+  "geometry": {"coordinates":[-73.231758,44.36937],"type":"Point"}
+}

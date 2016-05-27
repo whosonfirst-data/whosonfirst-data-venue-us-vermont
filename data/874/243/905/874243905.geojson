@@ -1,0 +1,73 @@
+{
+  "id": 874243905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.503519,44.199013,-72.503519,44.199013",
+    "geom:latitude":44.199013,
+    "geom:longitude":-72.503519,
+    "iso:country":"US",
+    "sg:address":"173 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4762",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G9WOnNGuBNfMawgpSjRnp_44.199013_-72.503519@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313410,
+    "wof:geomhash":"696503f350200e2b985c6d1f7039af41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874243905
+        }
+    ],
+    "wof:id":874243905,
+    "wof:lastmodified":1464313410,
+    "wof:name":"Beltrami's Studios",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -72.503519,
+    44.199013,
+    -72.503519,
+    44.199013
+],
+  "geometry": {"coordinates":[-72.503519,44.199013],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874048153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.087217,44.133938,-73.087217,44.133938",
+    "geom:latitude":44.133938,
+    "geom:longitude":-73.087217,
+    "iso:country":"US",
+    "sg:address":"84 West St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2191",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XCjQJSNsjm3HebIgdDk2V_44.133938_-73.087217@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311225,
+    "wof:geomhash":"11d7872c1a5ebe41a21a1ddbf48f84f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874048153
+        }
+    ],
+    "wof:id":874048153,
+    "wof:lastmodified":1464311225,
+    "wof:name":"Bristol Animal Hospital",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -73.087217,
+    44.133938,
+    -73.087217,
+    44.133938
+],
+  "geometry": {"coordinates":[-73.087217,44.133938],"type":"Point"}
+}

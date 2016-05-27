@@ -1,0 +1,69 @@
+{
+  "id": 874185883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.551279,42.893144,-72.551279,42.893144",
+    "geom:latitude":42.893144,
+    "geom:longitude":-72.551279,
+    "iso:country":"US",
+    "sg:address":"1300 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 5544",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12a99NQRsxMqqrUG93Hpkx_42.893144_-72.551279@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312699,
+    "wof:geomhash":"33ff82478e1804730066e095991883ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874185883
+        }
+    ],
+    "wof:id":874185883,
+    "wof:lastmodified":1464312699,
+    "wof:name":"Mastaler Cleaning Svc Co",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -72.551279,
+    42.893144,
+    -72.551279,
+    42.893144
+],
+  "geometry": {"coordinates":[-72.55127899999999,42.893144],"type":"Point"}
+}

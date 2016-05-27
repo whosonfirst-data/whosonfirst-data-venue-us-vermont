@@ -1,0 +1,71 @@
+{
+  "id": 874052867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209529,44.473721,-73.209529,44.473721",
+    "geom:latitude":44.473721,
+    "geom:longitude":-73.209529,
+    "iso:country":"US",
+    "sg:address":"231 Maple St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 0939",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19JA9Aa7LEfncFlNeJNhkm_44.473721_-73.209529@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311267,
+    "wof:geomhash":"0c441fbfc8b2a7fa26e01d385be04973",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874052867
+        }
+    ],
+    "wof:id":874052867,
+    "wof:lastmodified":1464311267,
+    "wof:name":"Regina Murphy",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -73.209529,
+    44.473721,
+    -73.209529,
+    44.473721
+],
+  "geometry": {"coordinates":[-73.209529,44.473721],"type":"Point"}
+}

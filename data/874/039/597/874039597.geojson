@@ -1,0 +1,73 @@
+{
+  "id": 874039597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.158009,44.019452,-73.158009,44.019452",
+    "geom:latitude":44.019452,
+    "geom:longitude":-73.158009,
+    "iso:country":"US",
+    "sg:address":"295 Colonial Dr",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 398 2700",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qRA2W9KKKOiqARuaXcQHn_44.019452_-73.158009@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311140,
+    "wof:geomhash":"19cb3f016260177ec0362183d0bcbd9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874039597
+        }
+    ],
+    "wof:id":874039597,
+    "wof:lastmodified":1464311140,
+    "wof:name":"Middlebury Physical Therapy",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.158009,
+    44.019452,
+    -73.158009,
+    44.019452
+],
+  "geometry": {"coordinates":[-73.15800900000001,44.019452],"type":"Point"}
+}

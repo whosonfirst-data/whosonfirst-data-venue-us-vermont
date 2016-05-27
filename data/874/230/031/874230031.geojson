@@ -1,0 +1,78 @@
+{
+  "id": 874230031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.225644,43.996445,-73.225644,43.996445",
+    "geom:latitude":43.996445,
+    "geom:longitude":-73.225644,
+    "iso:country":"US",
+    "sg:address":"2293 State Rte 125",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 3380",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bq3hrhmNPNf88FwhJm9BP_43.996445_-73.225644@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313160,
+    "wof:geomhash":"e7db3649c36d50d119c45da60e580c10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874230031
+        }
+    ],
+    "wof:id":874230031,
+    "wof:lastmodified":1464313160,
+    "wof:name":"Catamount Fence Co",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.225644,
+    43.996445,
+    -73.225644,
+    43.996445
+],
+  "geometry": {"coordinates":[-73.225644,43.996445],"type":"Point"}
+}

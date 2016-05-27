@@ -1,0 +1,71 @@
+{
+  "id": 874226323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.606253,44.212712,-72.606253,44.212712",
+    "geom:latitude":44.212712,
+    "geom:longitude":-72.606253,
+    "iso:country":"US",
+    "sg:address":"1883 Crosstown Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 3907",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vkFPdmHk2hIzlUD42mBsm_44.212712_-72.606253@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313124,
+    "wof:geomhash":"9f5f1905d75e934619d3f68f39703f4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874226323
+        }
+    ],
+    "wof:id":874226323,
+    "wof:lastmodified":1464313124,
+    "wof:name":"Hebert Appraisers",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -72.606253,
+    44.212712,
+    -72.606253,
+    44.212712
+],
+  "geometry": {"coordinates":[-72.606253,44.212712],"type":"Point"}
+}

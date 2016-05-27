@@ -1,0 +1,69 @@
+{
+  "id": 874118055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.662533,42.979095,-72.662533,42.979095",
+    "geom:latitude":42.979095,
+    "geom:longitude":-72.662533,
+    "iso:country":"US",
+    "sg:address":"26 Steep Way Rd",
+    "sg:city":"Newfane",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 7680",
+    "sg:postcode":"05345",
+    "sg:province":"VT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04x4OaUHFK3RGXPwFSNQkq_42.979095_-72.662533@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312016,
+    "wof:geomhash":"ff2e59d8fcc4489d0356adea36b68f29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874118055
+        }
+    ],
+    "wof:id":874118055,
+    "wof:lastmodified":1464312016,
+    "wof:name":"VRS Preferred Properties",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -72.662533,
+    42.979095,
+    -72.662533,
+    42.979095
+],
+  "geometry": {"coordinates":[-72.662533,42.979095],"type":"Point"}
+}

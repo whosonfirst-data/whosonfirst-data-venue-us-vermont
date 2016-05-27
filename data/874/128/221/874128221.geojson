@@ -1,0 +1,75 @@
+{
+  "id": 874128221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167273,44.45395,-73.167273,44.45395",
+    "geom:latitude":44.45395,
+    "geom:longitude":-73.167273,
+    "iso:country":"US",
+    "sg:address":"53 Timber Ln",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 0294",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "allergist",
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MALuZznIDjcARvzzVHjin_44.453950_-73.167273@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312113,
+    "wof:geomhash":"0fb89e392786e54b46b0c2aa1cfde44b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874128221
+        }
+    ],
+    "wof:id":874128221,
+    "wof:lastmodified":1464312113,
+    "wof:name":"Allergy & Asthma Associates",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "allergist",
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.167273,
+    44.45395,
+    -73.167273,
+    44.45395
+],
+  "geometry": {"coordinates":[-73.16727299999999,44.45395],"type":"Point"}
+}

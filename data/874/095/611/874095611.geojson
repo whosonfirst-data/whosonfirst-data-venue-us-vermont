@@ -1,0 +1,71 @@
+{
+  "id": 874095611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.979171,43.605733,-72.979171,43.605733",
+    "geom:latitude":43.605733,
+    "geom:longitude":-72.979171,
+    "iso:country":"US",
+    "sg:address":"63 Merchants Row",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2547",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LJAKa17hOwJ7YCqx6ceoP_43.605733_-72.979171@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311720,
+    "wof:geomhash":"cece823ca7ff9216dafe7e627bcb288d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874095611
+        }
+    ],
+    "wof:id":874095611,
+    "wof:lastmodified":1464311720,
+    "wof:name":"Studio Bliss Ctr-Expressive",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -72.979171,
+    43.605733,
+    -72.979171,
+    43.605733
+],
+  "geometry": {"coordinates":[-72.97917099999999,43.605733],"type":"Point"}
+}

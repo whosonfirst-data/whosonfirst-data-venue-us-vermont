@@ -1,0 +1,71 @@
+{
+  "id": 874053987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21425,44.477979,-73.21425,44.477979",
+    "geom:latitude":44.477979,
+    "geom:longitude":-73.21425,
+    "iso:country":"US",
+    "sg:address":"95 Saint Paul St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 861 6300",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zooUhlf5BYLS4h71iYdoK_44.477979_-73.214250@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311278,
+    "wof:geomhash":"2142b42a59cac5e29b00499b9145b7e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874053987
+        }
+    ],
+    "wof:id":874053987,
+    "wof:lastmodified":1464311278,
+    "wof:name":"King Lashman King PC",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -73.21425,
+    44.477979,
+    -73.21425,
+    44.477979
+],
+  "geometry": {"coordinates":[-73.21425000000001,44.477979],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874225423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.466484,43.349958,-72.466484,43.349958",
+    "geom:latitude":43.349958,
+    "geom:longitude":-72.466484,
+    "iso:country":"US",
+    "sg:address":"351 W Camp Hill Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 5214",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N0yxH5k3U8JncmjzkEBoA_43.349958_-72.466484@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313115,
+    "wof:geomhash":"6d0946503380808ca7cc8a4168ac346e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874225423
+        }
+    ],
+    "wof:id":874225423,
+    "wof:lastmodified":1464313115,
+    "wof:name":"Gordon Gurney",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -72.466484,
+    43.349958,
+    -72.466484,
+    43.349958
+],
+  "geometry": {"coordinates":[-72.46648399999999,43.349958],"type":"Point"}
+}

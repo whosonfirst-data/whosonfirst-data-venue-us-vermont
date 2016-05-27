@@ -1,0 +1,71 @@
+{
+  "id": 874165237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.139944,44.308272,-72.139944,44.308272",
+    "geom:latitude":44.308272,
+    "geom:longitude":-72.139944,
+    "iso:country":"US",
+    "sg:address":"477 W Main St",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 2828",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F4Cg6UY25FMby5MVCJu5s_44.308272_-72.139944@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312482,
+    "wof:geomhash":"59b4beae61101007c6cc5569cf82d5ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874165237
+        }
+    ],
+    "wof:id":874165237,
+    "wof:lastmodified":1464312482,
+    "wof:name":"West Barnet Garage",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.139944,
+    44.308272,
+    -72.139944,
+    44.308272
+],
+  "geometry": {"coordinates":[-72.139944,44.308272],"type":"Point"}
+}

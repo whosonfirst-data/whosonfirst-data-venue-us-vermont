@@ -1,0 +1,69 @@
+{
+  "id": 874125557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.512364,44.123853,-72.512364,44.123853",
+    "geom:latitude":44.123853,
+    "geom:longitude":-72.512364,
+    "iso:country":"US",
+    "sg:address":"19 Windy Acres Rd",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 1451",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qJbExVcOZ5BIgT7va0Eoh_44.123853_-72.512364@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312090,
+    "wof:geomhash":"9f900bb3b5ed0588996635ba28880eb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874125557
+        }
+    ],
+    "wof:id":874125557,
+    "wof:lastmodified":1464312090,
+    "wof:name":"Source Financial",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -72.512364,
+    44.123853,
+    -72.512364,
+    44.123853
+],
+  "geometry": {"coordinates":[-72.51236400000001,44.123853],"type":"Point"}
+}

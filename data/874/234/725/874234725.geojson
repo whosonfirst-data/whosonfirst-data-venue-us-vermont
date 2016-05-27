@@ -1,0 +1,66 @@
+{
+  "id": 874234725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.570067,44.220295,-72.570067,44.220295",
+    "geom:latitude":44.220295,
+    "geom:longitude":-72.570067,
+    "iso:country":"US",
+    "sg:address":"578 Paine Tpke N",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 828 2320",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2syOicoIIXiHAsGqSbTijS_44.220295_-72.570067@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313234,
+    "wof:geomhash":"04ab01c5f61952497b6bab8ee4c62586",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874234725
+        }
+    ],
+    "wof:id":874234725,
+    "wof:lastmodified":1464313234,
+    "wof:name":"Midstate Regional Library",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.570067,
+    44.220295,
+    -72.570067,
+    44.220295
+],
+  "geometry": {"coordinates":[-72.57006699999999,44.220295],"type":"Point"}
+}

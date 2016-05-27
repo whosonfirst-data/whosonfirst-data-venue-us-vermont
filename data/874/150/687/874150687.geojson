@@ -1,0 +1,75 @@
+{
+  "id": 874150687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.932861,43.562076,-72.932861,43.562076",
+    "geom:latitude":43.562076,
+    "geom:longitude":-72.932861,
+    "iso:country":"US",
+    "sg:address":"82 Cold River Rd",
+    "sg:city":"Cuttingsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 2435",
+    "sg:postcode":"05738",
+    "sg:province":"VT",
+    "sg:tags":[
+        "welding",
+        "metal",
+        "fabrication",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vqXc5d80F9SHX5F9rwwcZ_43.562076_-72.932861@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312335,
+    "wof:geomhash":"6522f117c9868f21dff66e3a687ade05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874150687
+        }
+    ],
+    "wof:id":874150687,
+    "wof:lastmodified":1464312335,
+    "wof:name":"Town Line Repair",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "metal",
+        "fabrication",
+        "structural"
+    ]
+},
+  "bbox": [
+    -72.932861,
+    43.562076,
+    -72.932861,
+    43.562076
+],
+  "geometry": {"coordinates":[-72.932861,43.562076],"type":"Point"}
+}

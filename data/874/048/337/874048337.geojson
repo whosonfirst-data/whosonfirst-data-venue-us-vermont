@@ -1,0 +1,71 @@
+{
+  "id": 874048337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.16875,44.018517,-73.16875,44.018517",
+    "geom:latitude":44.018517,
+    "geom:longitude":-73.16875,
+    "iso:country":"US",
+    "sg:address":"15 Elm St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7706",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oITZzgcnV7kEyYg6wWfXU_44.018517_-73.168750@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311226,
+    "wof:geomhash":"be822020987cda1ca9490da26fcfe0fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874048337
+        }
+    ],
+    "wof:id":874048337,
+    "wof:lastmodified":1464311226,
+    "wof:name":"15 Elm St Group Home",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -73.16875,
+    44.018517,
+    -73.16875,
+    44.018517
+],
+  "geometry": {"coordinates":[-73.16875,44.018517],"type":"Point"}
+}

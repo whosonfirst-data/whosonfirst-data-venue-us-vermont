@@ -1,0 +1,71 @@
+{
+  "id": 874060559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.186459,44.490758,-73.186459,44.490758",
+    "geom:latitude":44.490758,
+    "geom:longitude":-73.186459,
+    "iso:country":"US",
+    "sg:address":"50 Main St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 1323",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aGPuJ1rWpVaTub0GlyCgi_44.490758_-73.186459@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311340,
+    "wof:geomhash":"36bf78ba21e293ce3237f1ce1cb0e702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874060559
+        }
+    ],
+    "wof:id":874060559,
+    "wof:lastmodified":1464311340,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -73.186459,
+    44.490758,
+    -73.186459,
+    44.490758
+],
+  "geometry": {"coordinates":[-73.186459,44.490758],"type":"Point"}
+}

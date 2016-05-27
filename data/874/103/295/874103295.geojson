@@ -1,0 +1,75 @@
+{
+  "id": 874103295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.588543,43.258638,-72.588543,43.258638",
+    "geom:latitude":43.258638,
+    "geom:longitude":-72.588543,
+    "iso:country":"US",
+    "sg:address":"295 S Main St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 3267",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NFwS08Xgr9YdvFGVEEhz3_43.258638_-72.588543@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311836,
+    "wof:geomhash":"f9645e77b10a5325c07cb31ec837b39c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874103295
+        }
+    ],
+    "wof:id":874103295,
+    "wof:lastmodified":1464311836,
+    "wof:name":"Chester Music Shoppe",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -72.588543,
+    43.258638,
+    -72.588543,
+    43.258638
+],
+  "geometry": {"coordinates":[-72.588543,43.258638],"type":"Point"}
+}

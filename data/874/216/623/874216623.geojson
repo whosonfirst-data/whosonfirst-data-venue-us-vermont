@@ -1,0 +1,76 @@
+{
+  "id": 874216623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.050346,44.507851,-73.050346,44.507851",
+    "geom:latitude":44.507851,
+    "geom:longitude":-73.050346,
+    "iso:country":"US",
+    "sg:address":"12 Richard St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 9820",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "ceramic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dz8fz8prE4kJqwwPh5MF4_44.507851_-73.050346@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313019,
+    "wof:geomhash":"5efad316085a4947cd3db8585a581edd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874216623
+        }
+    ],
+    "wof:id":874216623,
+    "wof:lastmodified":1464313019,
+    "wof:name":"Dee's Creative Ceramics",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "ceramic"
+    ]
+},
+  "bbox": [
+    -73.050346,
+    44.507851,
+    -73.050346,
+    44.507851
+],
+  "geometry": {"coordinates":[-73.050346,44.507851],"type":"Point"}
+}

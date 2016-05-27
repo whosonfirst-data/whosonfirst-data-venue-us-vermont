@@ -1,0 +1,69 @@
+{
+  "id": 874021301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.253309,44.313293,-73.253309,44.313293",
+    "geom:latitude":44.313293,
+    "geom:longitude":-73.253309,
+    "iso:country":"US",
+    "sg:address":"2616 Greenbush Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 6505",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85811695,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bhWvusVPtdPSSZryLrHCO_44.313293_-73.253309@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310959,
+    "wof:geomhash":"cfe313736b7f0ee3c23fdbf5956d8236",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85811695,
+            "region_id":85688763,
+            "venue_id":874021301
+        }
+    ],
+    "wof:id":874021301,
+    "wof:lastmodified":1464310959,
+    "wof:name":"Mantis Inc",
+    "wof:parent_id":85811695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -73.253309,
+    44.313293,
+    -73.253309,
+    44.313293
+],
+  "geometry": {"coordinates":[-73.253309,44.313293],"type":"Point"}
+}

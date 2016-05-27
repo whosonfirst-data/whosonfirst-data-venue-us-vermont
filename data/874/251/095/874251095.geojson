@@ -1,0 +1,74 @@
+{
+  "id": 874251095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977455,43.607288,-72.977455,43.607288",
+    "geom:latitude":43.607288,
+    "geom:longitude":-72.977455,
+    "iso:country":"US",
+    "sg:address":"24 Wales St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/rutland/83072-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0044",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ti3Dxc8dSvASl0iIAtnOZ_43.607765_-72.977680@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313587,
+    "wof:geomhash":"8b169196d2f1814a9705539d048963a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874251095
+        }
+    ],
+    "wof:id":874251095,
+    "wof:lastmodified":1464313587,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.977455,
+    43.607288,
+    -72.977455,
+    43.607288
+],
+  "geometry": {"coordinates":[-72.97745500000001,43.607288],"type":"Point"}
+}

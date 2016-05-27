@@ -1,0 +1,73 @@
+{
+  "id": 874246755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.160321,44.766337,-73.160321,44.766337",
+    "geom:latitude":44.766337,
+    "geom:longitude":-73.160321,
+    "iso:country":"US",
+    "sg:address":"4768 Georgia Shore Rd",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 3298",
+    "sg:postcode":"05478",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "copying",
+        "offset"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85833735,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ISb2ZiPzQNygbqe9tw67B_44.766337_-73.160321@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313467,
+    "wof:geomhash":"2ca0345bb1d73699537940b6c8c0723b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85833735,
+            "region_id":85688763,
+            "venue_id":874246755
+        }
+    ],
+    "wof:id":874246755,
+    "wof:lastmodified":1464313467,
+    "wof:name":"North Country Press",
+    "wof:parent_id":85833735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "copying",
+        "offset"
+    ]
+},
+  "bbox": [
+    -73.160321,
+    44.766337,
+    -73.160321,
+    44.766337
+],
+  "geometry": {"coordinates":[-73.160321,44.766337],"type":"Point"}
+}

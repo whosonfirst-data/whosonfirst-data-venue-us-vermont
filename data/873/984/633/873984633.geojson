@@ -1,0 +1,72 @@
+{
+  "id": 873984633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.15358,44.54829,-73.15358,44.54829",
+    "geom:latitude":44.54829,
+    "geom:longitude":-73.15358,
+    "iso:country":"US",
+    "sg:address":"182 Lindale Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 7710",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "sg:website":"www.neindustrial.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2omMVxQetZAtmjygNAaXAU_44.548290_-73.153580@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310647,
+    "wof:geomhash":"fdfe6ffc0f56c15076b65021131901e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":873984633
+        }
+    ],
+    "wof:id":873984633,
+    "wof:lastmodified":1464310647,
+    "wof:name":"Northeastern Industrial Piping",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.15358,
+    44.54829,
+    -73.15358,
+    44.54829
+],
+  "geometry": {"coordinates":[-73.15358000000001,44.54829],"type":"Point"}
+}

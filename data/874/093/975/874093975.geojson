@@ -1,0 +1,71 @@
+{
+  "id": 874093975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208514,44.477237,-73.208514,44.477237",
+    "geom:latitude":44.477237,
+    "geom:longitude":-73.208514,
+    "iso:country":"US",
+    "sg:address":"309 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 0043",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xO0ggRB6U2S2SvOVmdzU0_44.477237_-73.208514@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311703,
+    "wof:geomhash":"1c249513ec7e6d71c52e90e2ac237feb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874093975
+        }
+    ],
+    "wof:id":874093975,
+    "wof:lastmodified":1464311703,
+    "wof:name":"JMM & Assoc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -73.208514,
+    44.477237,
+    -73.208514,
+    44.477237
+],
+  "geometry": {"coordinates":[-73.20851399999999,44.477237],"type":"Point"}
+}

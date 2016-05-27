@@ -1,0 +1,71 @@
+{
+  "id": 874034375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.05369,44.296507,-72.05369,44.296507",
+    "geom:latitude":44.296507,
+    "geom:longitude":-72.05369,
+    "iso:country":"US",
+    "sg:address":"160 Church St",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 2256",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BgGhQQzOMSr2pV4FcCZ4Z_44.296507_-72.053690@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311088,
+    "wof:geomhash":"998d1bd27c8661a2ae9ee004d5f9332a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874034375
+        }
+    ],
+    "wof:id":874034375,
+    "wof:lastmodified":1464311088,
+    "wof:name":"Barnet Fire Department",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -72.05369,
+    44.296507,
+    -72.05369,
+    44.296507
+],
+  "geometry": {"coordinates":[-72.05369,44.296507],"type":"Point"}
+}

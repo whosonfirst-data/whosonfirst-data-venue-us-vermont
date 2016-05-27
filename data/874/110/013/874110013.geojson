@@ -1,0 +1,71 @@
+{
+  "id": 874110013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.515549,44.088388,-72.515549,44.088388",
+    "geom:latitude":44.088388,
+    "geom:longitude":-72.515549,
+    "iso:country":"US",
+    "sg:address":"3091 Baptist St",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 1676",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lQKOJW02SraY122RQeITc_44.088388_-72.515549@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311920,
+    "wof:geomhash":"c255939cf2a26ab9672777c9f00f47d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874110013
+        }
+    ],
+    "wof:id":874110013,
+    "wof:lastmodified":1464311920,
+    "wof:name":"Avonlea Farm",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.515549,
+    44.088388,
+    -72.515549,
+    44.088388
+],
+  "geometry": {"coordinates":[-72.51554899999999,44.088388],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874072577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.895647,44.515328,-72.895647,44.515328",
+    "geom:latitude":44.515328,
+    "geom:longitude":-72.895647,
+    "iso:country":"US",
+    "sg:address":"341 Irish Settlement Rd",
+    "sg:city":"Underhill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 1966",
+    "sg:postcode":"05489",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85851047,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7geS9R6I5xnPVCvQ6fYIif_44.515328_-72.895647@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311470,
+    "wof:geomhash":"ca8f4db0730e0057aca34c490b0ee9d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85851047,
+            "region_id":85688763,
+            "venue_id":874072577
+        }
+    ],
+    "wof:id":874072577,
+    "wof:lastmodified":1464311470,
+    "wof:name":"Williamson Plumbing & Heating",
+    "wof:parent_id":85851047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.895647,
+    44.515328,
+    -72.895647,
+    44.515328
+],
+  "geometry": {"coordinates":[-72.895647,44.515328],"type":"Point"}
+}

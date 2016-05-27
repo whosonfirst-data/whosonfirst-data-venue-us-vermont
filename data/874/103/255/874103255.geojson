@@ -1,0 +1,69 @@
+{
+  "id": 874103255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.131479,44.306919,-72.131479,44.306919",
+    "geom:latitude":44.306919,
+    "geom:longitude":-72.131479,
+    "iso:country":"US",
+    "sg:address":"4397 Garland Hill",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 3978",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11awrI02Y5kVDrvdNJs6bT_44.306919_-72.131479@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311835,
+    "wof:geomhash":"f7cf6fc168095237506499ba90a63a64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874103255
+        }
+    ],
+    "wof:id":874103255,
+    "wof:lastmodified":1464311835,
+    "wof:name":"Ben & Chas Bldg & Remodeling",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.131479,
+    44.306919,
+    -72.131479,
+    44.306919
+],
+  "geometry": {"coordinates":[-72.131479,44.306919],"type":"Point"}
+}

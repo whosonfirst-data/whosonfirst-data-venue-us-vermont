@@ -1,0 +1,73 @@
+{
+  "id": 874242025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078328,44.133045,-73.078328,44.133045",
+    "geom:latitude":44.133045,
+    "geom:longitude":-73.078328,
+    "iso:country":"US",
+    "sg:address":"15 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5500",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0APxyUw37JkS9URvlbMjRg_44.133045_-73.078328@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313378,
+    "wof:geomhash":"a7639ccb6e0db30c19b9dec63384c56b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874242025
+        }
+    ],
+    "wof:id":874242025,
+    "wof:lastmodified":1464313378,
+    "wof:name":"North American Mortgage Exch",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -73.078328,
+    44.133045,
+    -73.078328,
+    44.133045
+],
+  "geometry": {"coordinates":[-73.078328,44.133045],"type":"Point"}
+}

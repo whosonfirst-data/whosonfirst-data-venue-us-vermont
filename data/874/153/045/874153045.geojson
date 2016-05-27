@@ -1,0 +1,73 @@
+{
+  "id": 874153045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.227853,44.447318,-73.227853,44.447318",
+    "geom:latitude":44.447318,
+    "geom:longitude":-73.227853,
+    "iso:country":"US",
+    "sg:address":"144 Dunder Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 2339",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qIEIUtnOvApNb5L1zLXoc_44.447318_-73.227853@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312356,
+    "wof:geomhash":"f8e00085addf5017314054bbc52137ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874153045
+        }
+    ],
+    "wof:id":874153045,
+    "wof:lastmodified":1464312356,
+    "wof:name":"Gagan Mirchandani Dr",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -73.227853,
+    44.447318,
+    -73.227853,
+    44.447318
+],
+  "geometry": {"coordinates":[-73.227853,44.447318],"type":"Point"}
+}

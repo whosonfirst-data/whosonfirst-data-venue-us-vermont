@@ -1,0 +1,71 @@
+{
+  "id": 874244717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.218575,44.473582,-73.218575,44.473582",
+    "geom:latitude":44.473582,
+    "geom:longitude":-73.218575,
+    "iso:country":"US",
+    "sg:address":"181 Battery St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 0238",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xu6vwdv9q3DgFSkTFgJb4_44.473582_-73.218575@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313429,
+    "wof:geomhash":"857964b5b357d6de1cffce7d9d2cf0a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874244717
+        }
+    ],
+    "wof:id":874244717,
+    "wof:lastmodified":1464313429,
+    "wof:name":"Shanty On The Shore",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -73.218575,
+    44.473582,
+    -73.218575,
+    44.473582
+],
+  "geometry": {"coordinates":[-73.218575,44.473582],"type":"Point"}
+}

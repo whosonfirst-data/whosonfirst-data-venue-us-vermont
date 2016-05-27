@@ -1,0 +1,71 @@
+{
+  "id": 874051387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210715,44.467251,-73.210715,44.467251",
+    "geom:latitude":44.467251,
+    "geom:longitude":-73.210715,
+    "iso:country":"US",
+    "sg:address":"125 Howard St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 4556",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bOddfKbygW7kbjfIuCiFY_44.467251_-73.210715@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311254,
+    "wof:geomhash":"f076e64a2672014088aca1a3d7e36528",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874051387
+        }
+    ],
+    "wof:id":874051387,
+    "wof:lastmodified":1464311254,
+    "wof:name":"Burlington Audio Repair",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.210715,
+    44.467251,
+    -73.210715,
+    44.467251
+],
+  "geometry": {"coordinates":[-73.21071499999999,44.467251],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874190993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.123776,44.453337,-73.123776,44.453337",
+    "geom:latitude":44.453337,
+    "geom:longitude":-73.123776,
+    "iso:country":"US",
+    "sg:address":"232 Kirby Ln",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 8746",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YRWQg8mQBHcNNp1Uie4EY_44.453337_-73.123776@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312749,
+    "wof:geomhash":"81b9648e9ee916385a963a9505f1e19e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874190993
+        }
+    ],
+    "wof:id":874190993,
+    "wof:lastmodified":1464312749,
+    "wof:name":"Sisters Of Mercy",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -73.123776,
+    44.453337,
+    -73.123776,
+    44.453337
+],
+  "geometry": {"coordinates":[-73.12377600000001,44.453337],"type":"Point"}
+}

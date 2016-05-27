@@ -1,0 +1,71 @@
+{
+  "id": 874026931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50976,44.183642,-72.50976,44.183642",
+    "geom:latitude":44.183642,
+    "geom:longitude":-72.50976,
+    "iso:country":"US",
+    "sg:address":"219 Allen St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 8058",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1amI5LgrMUgHO6Rq92aRCR_44.183642_-72.509760@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311015,
+    "wof:geomhash":"a5c5ed90edcf1d8aca252bfbeebe5f78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874026931
+        }
+    ],
+    "wof:id":874026931,
+    "wof:lastmodified":1464311015,
+    "wof:name":"Lily Transportation Corp",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -72.50976,
+    44.183642,
+    -72.50976,
+    44.183642
+],
+  "geometry": {"coordinates":[-72.50976,44.183642],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873986745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.227314,42.912046,-73.227314,42.912046",
+    "geom:latitude":42.912046,
+    "geom:longitude":-73.227314,
+    "iso:country":"US",
+    "sg:address":"1414 N Bennington Rd",
+    "sg:city":"North Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 8611",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OMw3hH8yqKu4xdlSLrb4i_42.912046_-73.227314@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310667,
+    "wof:geomhash":"db19880f28c6096e26c918f5011046d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873986745
+        }
+    ],
+    "wof:id":873986745,
+    "wof:lastmodified":1464310667,
+    "wof:name":"Walt Smith Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.227314,
+    42.912046,
+    -73.227314,
+    42.912046
+],
+  "geometry": {"coordinates":[-73.22731400000001,42.912046],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873988783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.349071,43.637777,-72.349071,43.637777",
+    "geom:latitude":43.637777,
+    "geom:longitude":-72.349071,
+    "iso:country":"US",
+    "sg:address":"338 N Hartland Rd",
+    "sg:city":"White River Jct",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 0900",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810161,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pTUErcOjy9U3K7uM44zly_43.637777_-72.349071@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310681,
+    "wof:geomhash":"da655e977af8927ae4d41957c9045758",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85810161,
+            "region_id":85688763,
+            "venue_id":873988783
+        }
+    ],
+    "wof:id":873988783,
+    "wof:lastmodified":1464310681,
+    "wof:name":"Hartford Teen Ctr",
+    "wof:parent_id":85810161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -72.349071,
+    43.637777,
+    -72.349071,
+    43.637777
+],
+  "geometry": {"coordinates":[-72.349071,43.637777],"type":"Point"}
+}

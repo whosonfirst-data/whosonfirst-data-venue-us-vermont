@@ -1,0 +1,71 @@
+{
+  "id": 874049027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.053497,43.720244,-73.053497,43.720244",
+    "geom:latitude":43.720244,
+    "geom:longitude":-73.053497,
+    "iso:country":"US",
+    "sg:address":"756 Kendall Hill Rd",
+    "sg:city":"Pittsford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 483 6479",
+    "sg:postcode":"05763",
+    "sg:province":"VT",
+    "sg:tags":[
+        "flour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hqnd6Hbh1UguGGN43JXJA_43.720244_-73.053497@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311232,
+    "wof:geomhash":"41ae36e61ffd5b22c7c5f0e3f2bd0366",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874049027
+        }
+    ],
+    "wof:id":874049027,
+    "wof:lastmodified":1464311232,
+    "wof:name":"Green Mountain Mills",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flour"
+    ]
+},
+  "bbox": [
+    -73.053497,
+    43.720244,
+    -73.053497,
+    43.720244
+],
+  "geometry": {"coordinates":[-73.05349699999999,43.720244],"type":"Point"}
+}

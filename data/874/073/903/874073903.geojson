@@ -1,0 +1,69 @@
+{
+  "id": 874073903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.080981,44.513538,-73.080981,44.513538",
+    "geom:latitude":44.513538,
+    "geom:longitude":-73.080981,
+    "iso:country":"US",
+    "sg:address":"3 Chelsea Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 3655",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dZQqKNu6MmXfIsZw73R5T_44.513538_-73.080981@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311493,
+    "wof:geomhash":"85521c8b2835e19b60d2769215f20510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874073903
+        }
+    ],
+    "wof:id":874073903,
+    "wof:lastmodified":1464311493,
+    "wof:name":"Beauty In The Works",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.080981,
+    44.513538,
+    -73.080981,
+    44.513538
+],
+  "geometry": {"coordinates":[-73.08098099999999,44.513538],"type":"Point"}
+}

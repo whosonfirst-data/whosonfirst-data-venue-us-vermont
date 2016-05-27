@@ -1,0 +1,70 @@
+{
+  "id": 873992111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.171763,44.501706,-73.171763,44.501706",
+    "geom:latitude":44.501706,
+    "geom:longitude":-73.171763,
+    "iso:country":"US",
+    "sg:address":"784 Hercules Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 7595",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.bfcfoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WjEioO16eaU1x8NMA3FZf_44.501706_-73.171763@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310706,
+    "wof:geomhash":"556efdbd99715cce606abd5d8afe00b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":873992111
+        }
+    ],
+    "wof:id":873992111,
+    "wof:lastmodified":1464310706,
+    "wof:name":"Burlington Foodservice Co",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.171763,
+    44.501706,
+    -73.171763,
+    44.501706
+],
+  "geometry": {"coordinates":[-73.171763,44.501706],"type":"Point"}
+}

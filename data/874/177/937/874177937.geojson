@@ -1,0 +1,71 @@
+{
+  "id": 874177937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.147463,44.000988,-73.147463,44.000988",
+    "geom:latitude":44.000988,
+    "geom:longitude":-73.147463,
+    "iso:country":"US",
+    "sg:address":"36 Boardman St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 8005",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d4xgu4ucmR3KWsBMFRkjo_44.000988_-73.147463@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312605,
+    "wof:geomhash":"cd1f3cca46b2e3c36b1b954c1185adca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874177937
+        }
+    ],
+    "wof:id":874177937,
+    "wof:lastmodified":1464312605,
+    "wof:name":"Middlebury Auto Sales",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.147463,
+    44.000988,
+    -73.147463,
+    44.000988
+],
+  "geometry": {"coordinates":[-73.147463,44.000988],"type":"Point"}
+}

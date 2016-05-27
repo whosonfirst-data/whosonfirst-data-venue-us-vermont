@@ -1,0 +1,73 @@
+{
+  "id": 874223283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209095,44.486832,-73.209095,44.486832",
+    "geom:latitude":44.486832,
+    "geom:longitude":-73.209095,
+    "iso:country":"US",
+    "sg:address":"256 N Winooski Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 6894",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_573CfRNuDnSe1wyVpk9jOh_44.486832_-73.209095@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313096,
+    "wof:geomhash":"8b592523af72999cb809c04b801bfe78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874223283
+        }
+    ],
+    "wof:id":874223283,
+    "wof:lastmodified":1464313096,
+    "wof:name":"Bushey's Auto Sales",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.209095,
+    44.486832,
+    -73.209095,
+    44.486832
+],
+  "geometry": {"coordinates":[-73.209095,44.486832],"type":"Point"}
+}

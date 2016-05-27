@@ -1,0 +1,67 @@
+{
+  "id": 874014413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.404929,43.648281,-72.404929,43.648281",
+    "geom:latitude":43.648281,
+    "geom:longitude":-72.404929,
+    "iso:country":"US",
+    "sg:address":"1119 Quechee Main St",
+    "sg:city":"Quechee",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 3133",
+    "sg:postcode":"05059",
+    "sg:province":"VT",
+    "sg:website":"www.quecheeinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e51F7tXjmWjIOMM9XLA73_43.648281_-72.404929@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310886,
+    "wof:geomhash":"d7fa2619919a9ea256a475439fe0fb79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874014413
+        }
+    ],
+    "wof:id":874014413,
+    "wof:lastmodified":1464310886,
+    "wof:name":"Quechee Inn",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.404929,
+    43.648281,
+    -72.404929,
+    43.648281
+],
+  "geometry": {"coordinates":[-72.404929,43.648281],"type":"Point"}
+}

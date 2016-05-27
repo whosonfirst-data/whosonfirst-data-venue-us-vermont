@@ -1,0 +1,71 @@
+{
+  "id": 874249959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.251676,44.167648,-73.251676,44.167648",
+    "geom:latitude":44.167648,
+    "geom:longitude":-73.251676,
+    "iso:country":"US",
+    "sg:address":"14 Green St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 6919",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tavern",
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TxzYxxpjquOtUHdJKuA8a_44.167794_-73.251891@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313565,
+    "wof:geomhash":"331141220d68196c7e5adb55aab5e1dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874249959
+        }
+    ],
+    "wof:id":874249959,
+    "wof:lastmodified":1464313565,
+    "wof:name":"City Limits",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "drinking"
+    ]
+},
+  "bbox": [
+    -73.251676,
+    44.167648,
+    -73.251676,
+    44.167648
+],
+  "geometry": {"coordinates":[-73.251676,44.167648],"type":"Point"}
+}

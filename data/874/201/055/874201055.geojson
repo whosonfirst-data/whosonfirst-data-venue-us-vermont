@@ -1,0 +1,73 @@
+{
+  "id": 874201055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.670388,44.181411,-72.670388,44.181411",
+    "geom:latitude":44.181411,
+    "geom:longitude":-72.670388,
+    "iso:country":"US",
+    "sg:address":"1193 Cox Brook Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 8761",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g7WYAezHfsYUP0i87NAfT_44.181411_-72.670388@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312854,
+    "wof:geomhash":"ea9a5d6e7d3e476189179023068f89d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874201055
+        }
+    ],
+    "wof:id":874201055,
+    "wof:lastmodified":1464312854,
+    "wof:name":"Holub Excavating",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.670388,
+    44.181411,
+    -72.670388,
+    44.181411
+],
+  "geometry": {"coordinates":[-72.670388,44.181411],"type":"Point"}
+}

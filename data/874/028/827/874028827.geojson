@@ -1,0 +1,75 @@
+{
+  "id": 874028827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.140299,43.908775,-72.140299,43.908775",
+    "geom:latitude":43.908775,
+    "geom:longitude":-72.140299,
+    "iso:country":"US",
+    "sg:address":"535 US Hwy 5",
+    "sg:city":"Fairlee",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 9971",
+    "sg:postcode":"05045",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41jXvV1lAOKjKwqzM1yleu_43.908775_-72.140299@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311037,
+    "wof:geomhash":"9caaed00f70aaf76db316d57eae2ef31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874028827
+        }
+    ],
+    "wof:id":874028827,
+    "wof:lastmodified":1464311037,
+    "wof:name":"Showtime Video",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -72.140299,
+    43.908775,
+    -72.140299,
+    43.908775
+],
+  "geometry": {"coordinates":[-72.140299,43.908775],"type":"Point"}
+}

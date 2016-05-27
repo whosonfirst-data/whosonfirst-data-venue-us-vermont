@@ -1,0 +1,84 @@
+{
+  "id": 874255647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.951131,43.624545,-72.951131,43.624545",
+    "geom:latitude":43.624545,
+    "geom:longitude":-72.951131,
+    "iso:country":"US",
+    "sg:address":"296 US Route 4 E",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 7642",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "food",
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LhA8KnQQ7Rym3QTeTF6Kl_43.624545_-72.951131@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313689,
+    "wof:geomhash":"a903d9515769ad8eede2c1b32e77756d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255647
+        }
+    ],
+    "wof:id":874255647,
+    "wof:lastmodified":1464313689,
+    "wof:name":"Catamount Pet Supply Co.",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ]
+},
+  "bbox": [
+    -72.951131,
+    43.624545,
+    -72.951131,
+    43.624545
+],
+  "geometry": {"coordinates":[-72.951131,43.624545],"type":"Point"}
+}

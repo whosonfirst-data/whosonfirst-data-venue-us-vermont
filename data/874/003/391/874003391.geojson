@@ -1,0 +1,69 @@
+{
+  "id": 874003391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.529567,43.436626,-72.529567,43.436626",
+    "geom:latitude":43.436626,
+    "geom:longitude":-72.529567,
+    "iso:country":"US",
+    "sg:address":"7190 State Rte 106",
+    "sg:city":"Reading",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 484 7221",
+    "sg:postcode":"05062",
+    "sg:province":"VT",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ekOvmVKrNNtjGRQM6BMcT_43.436626_-72.529567@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310796,
+    "wof:geomhash":"40947b86e1e2be9e914f8d85ed6fa6bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874003391
+        }
+    ],
+    "wof:id":874003391,
+    "wof:lastmodified":1464310796,
+    "wof:name":"Joe's Taxidermy",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -72.529567,
+    43.436626,
+    -72.529567,
+    43.436626
+],
+  "geometry": {"coordinates":[-72.529567,43.436626],"type":"Point"}
+}

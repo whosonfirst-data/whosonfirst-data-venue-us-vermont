@@ -1,0 +1,72 @@
+{
+  "id": 874148195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.017311,44.494788,-72.017311,44.494788",
+    "geom:latitude":44.494788,
+    "geom:longitude":-72.017311,
+    "iso:country":"US",
+    "sg:address":"966 Industrial Pkwy",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8705",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "aircraft",
+        "component"
+    ],
+    "sg:website":"www.vtaerospace.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I7ghwUpNm8SjQOyAVVX13_44.494788_-72.017311@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312313,
+    "wof:geomhash":"e93486bf8c4868b4baf62e1c454bf6db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874148195
+        }
+    ],
+    "wof:id":874148195,
+    "wof:lastmodified":1464312313,
+    "wof:name":"Vermont Aerospace Mfg Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "component"
+    ]
+},
+  "bbox": [
+    -72.017311,
+    44.494788,
+    -72.017311,
+    44.494788
+],
+  "geometry": {"coordinates":[-72.01731100000001,44.494788],"type":"Point"}
+}

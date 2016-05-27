@@ -1,0 +1,72 @@
+{
+  "id": 874250367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.556976,42.88385,-72.556976,42.88385",
+    "geom:latitude":42.88385,
+    "geom:longitude":-72.556976,
+    "iso:country":"US",
+    "sg:address":"1089 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/brattleboro/98965-friendlys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 4004",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mHW8aYOy1PRhj8kagcUkS_42.883850_-72.556976@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313574,
+    "wof:geomhash":"4c4fda2a5c6e21c5f893b2ba5f67508a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874250367
+        }
+    ],
+    "wof:id":874250367,
+    "wof:lastmodified":1464313574,
+    "wof:name":"Friendly's",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.556976,
+    42.88385,
+    -72.556976,
+    42.88385
+],
+  "geometry": {"coordinates":[-72.55697600000001,42.88385],"type":"Point"}
+}

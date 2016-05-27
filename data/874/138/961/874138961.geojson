@@ -1,0 +1,75 @@
+{
+  "id": 874138961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.687867,44.470786,-72.687867,44.470786",
+    "geom:latitude":44.470786,
+    "geom:longitude":-72.687867,
+    "iso:country":"US",
+    "sg:address":"433 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7558",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "inn"
+    ],
+    "sg:website":"www.englandinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qW73Nhxf3AzfjH5Faw2L5_44.470786_-72.687867@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312226,
+    "wof:geomhash":"7d7b8dc0ea4c2276c5c7ebda8994ad35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874138961
+        }
+    ],
+    "wof:id":874138961,
+    "wof:lastmodified":1464312226,
+    "wof:name":"Ye Olde England Inne",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn"
+    ]
+},
+  "bbox": [
+    -72.687867,
+    44.470786,
+    -72.687867,
+    44.470786
+],
+  "geometry": {"coordinates":[-72.687867,44.470786],"type":"Point"}
+}

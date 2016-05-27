@@ -1,0 +1,71 @@
+{
+  "id": 874163959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.878915,44.64518,-72.878915,44.64518",
+    "geom:latitude":44.64518,
+    "geom:longitude":-72.878915,
+    "iso:country":"US",
+    "sg:address":"184 N Main St",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5564",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QEhgTfDiusCItVuJFajAB_44.645180_-72.878915@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312468,
+    "wof:geomhash":"0170686680f14fd3cb11ca0428376614",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874163959
+        }
+    ],
+    "wof:id":874163959,
+    "wof:lastmodified":1464312468,
+    "wof:name":"Cambridge United Church",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.878915,
+    44.64518,
+    -72.878915,
+    44.64518
+],
+  "geometry": {"coordinates":[-72.87891500000001,44.64518],"type":"Point"}
+}

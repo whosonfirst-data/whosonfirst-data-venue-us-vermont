@@ -1,0 +1,71 @@
+{
+  "id": 874059565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.248721,44.17094,-73.248721,44.17094",
+    "geom:latitude":44.17094,
+    "geom:longitude":-73.248721,
+    "iso:country":"US",
+    "sg:address":"2 N Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2181",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cLAWOrcT61g1oCr4uxzvC_44.170940_-73.248721@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311331,
+    "wof:geomhash":"06ec89fc20514468f9fdd1c0ef94923f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874059565
+        }
+    ],
+    "wof:id":874059565,
+    "wof:lastmodified":1464311331,
+    "wof:name":"Vergennes Auto Sales",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.248721,
+    44.17094,
+    -73.248721,
+    44.17094
+],
+  "geometry": {"coordinates":[-73.248721,44.17094],"type":"Point"}
+}

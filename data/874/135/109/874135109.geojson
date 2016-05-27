@@ -1,0 +1,69 @@
+{
+  "id": 874135109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.493734,43.333917,-72.493734,43.333917",
+    "geom:latitude":43.333917,
+    "geom:longitude":-72.493734,
+    "iso:country":"US",
+    "sg:address":"480 Carley Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 3814",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r9hmqGIayy9SLDXcPBd9K_43.333917_-72.493734@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312191,
+    "wof:geomhash":"0350f89390b27acc29bdfe3cef221c4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874135109
+        }
+    ],
+    "wof:id":874135109,
+    "wof:lastmodified":1464312191,
+    "wof:name":"Small Engine Clinic",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -72.493734,
+    43.333917,
+    -72.493734,
+    43.333917
+],
+  "geometry": {"coordinates":[-72.493734,43.333917],"type":"Point"}
+}

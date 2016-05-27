@@ -1,0 +1,71 @@
+{
+  "id": 874177257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.020405,44.419696,-72.020405,44.419696",
+    "geom:latitude":44.419696,
+    "geom:longitude":-72.020405,
+    "iso:country":"US",
+    "sg:address":"1236 Main St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 6795",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52EsWR4wcZdm5N8vdArRNt_44.419696_-72.020405@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312599,
+    "wof:geomhash":"ca697162f4f4e33956aa15fdc8deae23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874177257
+        }
+    ],
+    "wof:id":874177257,
+    "wof:lastmodified":1464312599,
+    "wof:name":"Passumpsic Savings Bank",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -72.020405,
+    44.419696,
+    -72.020405,
+    44.419696
+],
+  "geometry": {"coordinates":[-72.020405,44.419696],"type":"Point"}
+}

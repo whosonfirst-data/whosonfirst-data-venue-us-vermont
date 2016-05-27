@@ -1,0 +1,77 @@
+{
+  "id": 873999473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209296,44.448468,-73.209296,44.448468",
+    "geom:latitude":44.448468,
+    "geom:longitude":-73.209296,
+    "iso:country":"US",
+    "sg:address":"555 Shelburne Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 660 9344",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HEQX7DuNYJCIGpIHwwJR7_44.448468_-73.209296@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310757,
+    "wof:geomhash":"1990819a40a030c6b67b950abf6bca03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873999473
+        }
+    ],
+    "wof:id":873999473,
+    "wof:lastmodified":1464310757,
+    "wof:name":"Video World",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -73.209296,
+    44.448468,
+    -73.209296,
+    44.448468
+],
+  "geometry": {"coordinates":[-73.20929599999999,44.448468],"type":"Point"}
+}

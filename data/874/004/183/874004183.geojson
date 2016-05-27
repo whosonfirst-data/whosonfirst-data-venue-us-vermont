@@ -1,0 +1,77 @@
+{
+  "id": 874004183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.266127,44.545474,-73.266127,44.545474",
+    "geom:latitude":44.545474,
+    "geom:longitude":-73.266127,
+    "iso:country":"US",
+    "sg:address":"116 Porters Point Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 7450",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850949,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jlmT4bDDx3z3DkY4sU5EV_44.545474_-73.266127@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310805,
+    "wof:geomhash":"48a03cae42e5f218f9adb4765c06e2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85850949,
+            "region_id":85688763,
+            "venue_id":874004183
+        }
+    ],
+    "wof:id":874004183,
+    "wof:lastmodified":1464310805,
+    "wof:name":"R & R Automotive",
+    "wof:parent_id":85850949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.266127,
+    44.545474,
+    -73.266127,
+    44.545474
+],
+  "geometry": {"coordinates":[-73.266127,44.545474],"type":"Point"}
+}

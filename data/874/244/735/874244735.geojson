@@ -1,0 +1,73 @@
+{
+  "id": 874244735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.487662,43.296755,-72.487662,43.296755",
+    "geom:latitude":43.296755,
+    "geom:longitude":-72.487662,
+    "iso:country":"US",
+    "sg:address":"23 Union St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 8423",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g4let8RwD6aOlQyPQlzTC_43.296755_-72.487662@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313430,
+    "wof:geomhash":"4d1644a3d5fc247512df3ceec7a42d13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874244735
+        }
+    ],
+    "wof:id":874244735,
+    "wof:lastmodified":1464313430,
+    "wof:name":"Black River Construction",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.487662,
+    43.296755,
+    -72.487662,
+    43.296755
+],
+  "geometry": {"coordinates":[-72.487662,43.296755],"type":"Point"}
+}

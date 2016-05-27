@@ -1,0 +1,71 @@
+{
+  "id": 874081383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.127941,44.398077,-73.127941,44.398077",
+    "geom:latitude":44.398077,
+    "geom:longitude":-73.127941,
+    "iso:country":"US",
+    "sg:address":"5956 St George Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 9047",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mason",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oaotwzI3tDSW3b3lZww62_44.398077_-73.127941@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311568,
+    "wof:geomhash":"ab4539ffffbae27de1072af18a134eaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874081383
+        }
+    ],
+    "wof:id":874081383,
+    "wof:lastmodified":1464311568,
+    "wof:name":"Armstrong Masonry Construction",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mason",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.127941,
+    44.398077,
+    -73.127941,
+    44.398077
+],
+  "geometry": {"coordinates":[-73.12794100000001,44.398077],"type":"Point"}
+}

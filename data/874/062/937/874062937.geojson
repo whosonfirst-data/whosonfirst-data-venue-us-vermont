@@ -1,0 +1,71 @@
+{
+  "id": 874062937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214364,44.45702,-73.214364,44.45702",
+    "geom:latitude":44.45702,
+    "geom:longitude":-73.214364,
+    "iso:country":"US",
+    "sg:address":"789 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 4164",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FmXAgKuohR9ibO9rr7hA0_44.457020_-73.214364@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311361,
+    "wof:geomhash":"ea5b9b068459212e6e336664c871d805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874062937
+        }
+    ],
+    "wof:id":874062937,
+    "wof:lastmodified":1464311361,
+    "wof:name":"St Johnsbury Trucking Co Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.214364,
+    44.45702,
+    -73.214364,
+    44.45702
+],
+  "geometry": {"coordinates":[-73.214364,44.45702],"type":"Point"}
+}

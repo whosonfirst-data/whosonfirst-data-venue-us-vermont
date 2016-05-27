@@ -1,0 +1,69 @@
+{
+  "id": 874002583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.223382,44.365403,-73.223382,44.365403",
+    "geom:latitude":44.365403,
+    "geom:longitude":-73.223382,
+    "iso:country":"US",
+    "sg:address":"288 Mount Philo Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 3681",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tvXXonXgEMM3tXjABIjni_44.365403_-73.223382@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310781,
+    "wof:geomhash":"d906ae9d552d0b6b084a29f24b810aed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874002583
+        }
+    ],
+    "wof:id":874002583,
+    "wof:lastmodified":1464310781,
+    "wof:name":"Poitras Brothers Construction",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.223382,
+    44.365403,
+    -73.223382,
+    44.365403
+],
+  "geometry": {"coordinates":[-73.223382,44.365403],"type":"Point"}
+}

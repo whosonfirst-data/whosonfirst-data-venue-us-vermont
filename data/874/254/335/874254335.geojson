@@ -1,0 +1,72 @@
+{
+  "id": 874254335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.830597,44.644001,-72.830597,44.644001",
+    "geom:latitude":44.644001,
+    "geom:longitude":-72.830597,
+    "iso:country":"US",
+    "sg:address":"64 Church St",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8027",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tour"
+    ],
+    "sg:website":"www.notchabovetours.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r2bfprI5y8leuPQousjIw_44.644001_-72.830597@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313654,
+    "wof:geomhash":"cc4145345f8aca0a17c52fb536fb0a28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874254335
+        }
+    ],
+    "wof:id":874254335,
+    "wof:lastmodified":1464313654,
+    "wof:name":"Notch Above Tours",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour"
+    ]
+},
+  "bbox": [
+    -72.830597,
+    44.644001,
+    -72.830597,
+    44.644001
+],
+  "geometry": {"coordinates":[-72.830597,44.644001],"type":"Point"}
+}

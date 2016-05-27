@@ -1,0 +1,76 @@
+{
+  "id": 874130273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.903695,44.639259,-72.903695,44.639259",
+    "geom:latitude":44.639259,
+    "geom:longitude":-72.903695,
+    "iso:country":"US",
+    "sg:address":"96 John Putnam Memorial Dr",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8910",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "control",
+        "security",
+        "system"
+    ],
+    "sg:website":"www.ntcvideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FQ3jRtAbamICGNlkupk0h_44.639259_-72.903695@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312140,
+    "wof:geomhash":"596de75badcebb3f936563d06d07f849",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874130273
+        }
+    ],
+    "wof:id":874130273,
+    "wof:lastmodified":1464312140,
+    "wof:name":"Northern Telepresence",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "security",
+        "system"
+    ]
+},
+  "bbox": [
+    -72.903695,
+    44.639259,
+    -72.903695,
+    44.639259
+],
+  "geometry": {"coordinates":[-72.903695,44.639259],"type":"Point"}
+}

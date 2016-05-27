@@ -1,0 +1,66 @@
+{
+  "id": 874148727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.195312,44.480992,-73.195312,44.480992",
+    "geom:latitude":44.480992,
+    "geom:longitude":-73.195312,
+    "iso:country":"US",
+    "sg:address":"150 Colchester Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 8462",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Sbp5SiuaHGX3HglksDW46_44.480992_-73.195312@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312317,
+    "wof:geomhash":"1ea7ad760d49bec4f20f6d4a793c8b0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874148727
+        }
+    ],
+    "wof:id":874148727,
+    "wof:lastmodified":1464312317,
+    "wof:name":"Burlington Supervisory Dst",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.195312,
+    44.480992,
+    -73.195312,
+    44.480992
+],
+  "geometry": {"coordinates":[-73.195312,44.480992],"type":"Point"}
+}

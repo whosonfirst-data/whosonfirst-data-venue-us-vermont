@@ -1,0 +1,73 @@
+{
+  "id": 874047085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.520175,44.276045,-72.520175,44.276045",
+    "geom:latitude":44.276045,
+    "geom:longitude":-72.520175,
+    "iso:country":"US",
+    "sg:address":"101 Minister Rd",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 1150",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consultant",
+        "dairy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39kpUM5Gdp821jGkU3Xe9s_44.276045_-72.520175@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311216,
+    "wof:geomhash":"8878f71b5ce435ba5b85f9fd846ef548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874047085
+        }
+    ],
+    "wof:id":874047085,
+    "wof:lastmodified":1464311216,
+    "wof:name":"Maple Leaf Large Animal Clinic",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "dairy"
+    ]
+},
+  "bbox": [
+    -72.520175,
+    44.276045,
+    -72.520175,
+    44.276045
+],
+  "geometry": {"coordinates":[-72.52017499999999,44.276045],"type":"Point"}
+}

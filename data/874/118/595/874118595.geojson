@@ -1,0 +1,69 @@
+{
+  "id": 874118595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.15908,44.707333,-73.15908,44.707333",
+    "geom:latitude":44.707333,
+    "geom:longitude":-73.15908,
+    "iso:country":"US",
+    "sg:address":"493 Sand Hill Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 2794",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AA0yAL69lUa0W6uiODCUm_44.707333_-73.159080@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312021,
+    "wof:geomhash":"a146f8f3615c6b9406b90733bb4116e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874118595
+        }
+    ],
+    "wof:id":874118595,
+    "wof:lastmodified":1464312021,
+    "wof:name":"Martin Brothers Trucking",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.15908,
+    44.707333,
+    -73.15908,
+    44.707333
+],
+  "geometry": {"coordinates":[-73.15908,44.707333],"type":"Point"}
+}

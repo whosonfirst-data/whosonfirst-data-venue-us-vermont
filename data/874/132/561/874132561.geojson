@@ -1,0 +1,69 @@
+{
+  "id": 874132561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.729786,44.48908,-72.729786,44.48908",
+    "geom:latitude":44.48908,
+    "geom:longitude":-72.729786,
+    "iso:country":"US",
+    "sg:address":"3538 Mountain Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 4411",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85851219,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TXfsSkNjLSa3U9fjSXfN6_44.489080_-72.729786@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312168,
+    "wof:geomhash":"8572b4c542ad8b9fd52b5951afe18513",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85851219,
+            "region_id":85688763,
+            "venue_id":874132561
+        }
+    ],
+    "wof:id":874132561,
+    "wof:lastmodified":1464312168,
+    "wof:name":"Pie-Casso New York Style Pizza",
+    "wof:parent_id":85851219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.729786,
+    44.48908,
+    -72.729786,
+    44.48908
+],
+  "geometry": {"coordinates":[-72.729786,44.48908],"type":"Point"}
+}

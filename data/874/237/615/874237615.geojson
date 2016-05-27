@@ -1,0 +1,71 @@
+{
+  "id": 874237615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.224613,44.362995,-73.224613,44.362995",
+    "geom:latitude":44.362995,
+    "geom:longitude":-73.224613,
+    "iso:country":"US",
+    "sg:address":"144 Airpark Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 2100",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "aircraft",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48xeLyXdVzE0WhtNe5nAr6_44.362995_-73.224613@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313295,
+    "wof:geomhash":"ca4d5260e2f4ba85adc34647db2ac5b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874237615
+        }
+    ],
+    "wof:id":874237615,
+    "wof:lastmodified":1464313295,
+    "wof:name":"Shelburne Flight School",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "school"
+    ]
+},
+  "bbox": [
+    -73.224613,
+    44.362995,
+    -73.224613,
+    44.362995
+],
+  "geometry": {"coordinates":[-73.22461300000001,44.362995],"type":"Point"}
+}

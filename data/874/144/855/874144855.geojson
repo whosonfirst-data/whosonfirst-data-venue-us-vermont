@@ -1,0 +1,71 @@
+{
+  "id": 874144855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.801816,44.905593,-72.801816,44.905593",
+    "geom:latitude":44.905593,
+    "geom:longitude":-72.801816,
+    "iso:country":"US",
+    "sg:address":"235 School St",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 7715",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nrG9itXAT7ucYb2XG6kln_44.905593_-72.801816@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312279,
+    "wof:geomhash":"05a3c5096487108eb13c02e7463058b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874144855
+        }
+    ],
+    "wof:id":874144855,
+    "wof:lastmodified":1464312279,
+    "wof:name":"Jim Burns Rubbish Removal",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -72.801816,
+    44.905593,
+    -72.801816,
+    44.905593
+],
+  "geometry": {"coordinates":[-72.801816,44.905593],"type":"Point"}
+}

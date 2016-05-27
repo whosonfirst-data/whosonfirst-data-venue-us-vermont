@@ -1,0 +1,73 @@
+{
+  "id": 874175007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.018097,43.47548,-73.018097,43.47548",
+    "geom:latitude":43.47548,
+    "geom:longitude":-73.018097,
+    "iso:country":"US",
+    "sg:address":"403 N East Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 2337",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "preserves",
+        "fishing",
+        "hunting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fQUoTmXVolstkuQ52B9Qq_43.475480_-73.018097@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312579,
+    "wof:geomhash":"816ca39e7373323d377fa3e48034863c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874175007
+        }
+    ],
+    "wof:id":874175007,
+    "wof:lastmodified":1464312579,
+    "wof:name":"Tinmouth Hunting Preserve",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preserves",
+        "fishing",
+        "hunting"
+    ]
+},
+  "bbox": [
+    -73.018097,
+    43.47548,
+    -73.018097,
+    43.47548
+],
+  "geometry": {"coordinates":[-73.018097,43.47548],"type":"Point"}
+}

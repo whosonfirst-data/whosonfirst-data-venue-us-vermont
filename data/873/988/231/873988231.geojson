@@ -1,0 +1,74 @@
+{
+  "id": 873988231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.944482,44.524598,-72.944482,44.524598",
+    "geom:latitude":44.524598,
+    "geom:longitude":-72.944482,
+    "iso:country":"US",
+    "sg:address":"16 Park St",
+    "sg:city":"Underhill",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 2511",
+    "sg:postcode":"05489",
+    "sg:province":"VT",
+    "sg:tags":[
+        "independent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W3dYkdzvjQ3Ht88UjhhOq_44.524598_-72.944482@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310677,
+    "wof:geomhash":"32a1b94c1ccd04a6e2a7ba8a762deb86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":873988231
+        }
+    ],
+    "wof:id":873988231,
+    "wof:lastmodified":1464310677,
+    "wof:name":"Jacob's IGA Store",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "independent"
+    ]
+},
+  "bbox": [
+    -72.944482,
+    44.524598,
+    -72.944482,
+    44.524598
+],
+  "geometry": {"coordinates":[-72.94448199999999,44.524598],"type":"Point"}
+}

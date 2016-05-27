@@ -1,0 +1,71 @@
+{
+  "id": 874039715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.975347,43.624454,-72.975347,43.624454",
+    "geom:latitude":43.624454,
+    "geom:longitude":-72.975347,
+    "iso:country":"US",
+    "sg:address":"257 N Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 4395",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EepOJMToLAGXU3ZWEW6W5_43.624454_-72.975347@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311140,
+    "wof:geomhash":"887e31927463bb10a6613d26ba7ff413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874039715
+        }
+    ],
+    "wof:id":874039715,
+    "wof:lastmodified":1464311140,
+    "wof:name":"Rutland Car Wash",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -72.975347,
+    43.624454,
+    -72.975347,
+    43.624454
+],
+  "geometry": {"coordinates":[-72.975347,43.624454],"type":"Point"}
+}

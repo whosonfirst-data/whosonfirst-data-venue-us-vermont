@@ -1,0 +1,71 @@
+{
+  "id": 874023441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.164583,44.012308,-73.164583,44.012308",
+    "geom:latitude":44.012308,
+    "geom:longitude":-73.164583,
+    "iso:country":"US",
+    "sg:address":"26 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 1170",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76axuBbZPIj56Q0XgYVBKg_44.012308_-73.164583@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310978,
+    "wof:geomhash":"1f51bdd49edf3c1a6edd3f32bc7f3073",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874023441
+        }
+    ],
+    "wof:id":874023441,
+    "wof:lastmodified":1464310978,
+    "wof:name":"Edward Jones 18018",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -73.164583,
+    44.012308,
+    -73.164583,
+    44.012308
+],
+  "geometry": {"coordinates":[-73.16458299999999,44.012308],"type":"Point"}
+}

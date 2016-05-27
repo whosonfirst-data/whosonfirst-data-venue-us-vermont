@@ -1,0 +1,69 @@
+{
+  "id": 874103759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.589205,43.772628,-72.589205,43.772628",
+    "geom:latitude":43.772628,
+    "geom:longitude":-72.589205,
+    "iso:country":"US",
+    "sg:address":"4021 State Rte 14",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 7667",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WsAMOUekl709BC7omoSoC_43.772628_-72.589205@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311841,
+    "wof:geomhash":"139b5f8ab1831089ed5f49a6e4b6475e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874103759
+        }
+    ],
+    "wof:id":874103759,
+    "wof:lastmodified":1464311841,
+    "wof:name":"Town Garage",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.589205,
+    43.772628,
+    -72.589205,
+    43.772628
+],
+  "geometry": {"coordinates":[-72.58920500000001,43.772628],"type":"Point"}
+}

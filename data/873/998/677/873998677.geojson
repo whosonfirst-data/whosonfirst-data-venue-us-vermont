@@ -1,0 +1,71 @@
+{
+  "id": 873998677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.557294,42.869968,-72.557294,42.869968",
+    "geom:latitude":42.869968,
+    "geom:longitude":-72.557294,
+    "iso:country":"US",
+    "sg:address":"642 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 7499",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0glbXMEK4iCd60nwcezkPd_42.869968_-72.557294@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310751,
+    "wof:geomhash":"15265fbfc9f8c600ebdb2059d817bc6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":873998677
+        }
+    ],
+    "wof:id":873998677,
+    "wof:lastmodified":1464310751,
+    "wof:name":"Kelly's Dance Academy",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -72.557294,
+    42.869968,
+    -72.557294,
+    42.869968
+],
+  "geometry": {"coordinates":[-72.557294,42.869968],"type":"Point"}
+}

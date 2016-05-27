@@ -1,0 +1,71 @@
+{
+  "id": 874238829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501283,44.196343,-72.501283,44.196343",
+    "geom:latitude":44.196343,
+    "geom:longitude":-72.501283,
+    "iso:country":"US",
+    "sg:address":"8 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 0270",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EjGPhAMom4CJa9qiCFxWX_44.196343_-72.501283@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313318,
+    "wof:geomhash":"55f05522a83a93cbdf2a25bc847843f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874238829
+        }
+    ],
+    "wof:id":874238829,
+    "wof:lastmodified":1464313318,
+    "wof:name":"Barre Ambulance Billing",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.501283,
+    44.196343,
+    -72.501283,
+    44.196343
+],
+  "geometry": {"coordinates":[-72.501283,44.196343],"type":"Point"}
+}

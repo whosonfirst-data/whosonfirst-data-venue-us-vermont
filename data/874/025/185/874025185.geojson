@@ -1,0 +1,69 @@
+{
+  "id": 874025185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.249982,44.169451,-73.249982,44.169451",
+    "geom:latitude":44.169451,
+    "geom:longitude":-73.249982,
+    "iso:country":"US",
+    "sg:address":"20 Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3371",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hurqSEotNmgtVj4O03e1E_44.169451_-73.249982@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310999,
+    "wof:geomhash":"3e05ad225ec8aab4743d97911ac4a572",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874025185
+        }
+    ],
+    "wof:id":874025185,
+    "wof:lastmodified":1464310999,
+    "wof:name":"Vergennes Animal Hospital Inc",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -73.249982,
+    44.169451,
+    -73.249982,
+    44.169451
+],
+  "geometry": {"coordinates":[-73.249982,44.169451],"type":"Point"}
+}

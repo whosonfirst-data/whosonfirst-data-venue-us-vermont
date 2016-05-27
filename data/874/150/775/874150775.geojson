@@ -1,0 +1,66 @@
+{
+  "id": 874150775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.553661,44.237185,-72.553661,44.237185",
+    "geom:latitude":44.237185,
+    "geom:longitude":-72.553661,
+    "iso:country":"US",
+    "sg:address":"377 River St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 0314",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C8YBleZMVukAIFsviq70I_44.237185_-72.553661@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312335,
+    "wof:geomhash":"fb11bdb5c2841be07a6f5f53d0330660",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874150775
+        }
+    ],
+    "wof:id":874150775,
+    "wof:lastmodified":1464312335,
+    "wof:name":"Simon's Store & Deli",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.553661,
+    44.237185,
+    -72.553661,
+    44.237185
+],
+  "geometry": {"coordinates":[-72.55366100000001,44.237185],"type":"Point"}
+}

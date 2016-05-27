@@ -1,0 +1,69 @@
+{
+  "id": 874023631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.050247,43.355169,-73.050247,43.355169",
+    "geom:latitude":43.355169,
+    "geom:longitude":-73.050247,
+    "iso:country":"US",
+    "sg:address":"103 Danby Pawlet Rd",
+    "sg:city":"Danby",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 293 5655",
+    "sg:postcode":"05739",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JpHZSNAMkas6dDcDwfnct_43.355169_-73.050247@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310979,
+    "wof:geomhash":"990c2acb670f78a6f73b089c5269b0c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874023631
+        }
+    ],
+    "wof:id":874023631,
+    "wof:lastmodified":1464310979,
+    "wof:name":"Mt View Baptist Church",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.050247,
+    43.355169,
+    -73.050247,
+    43.355169
+],
+  "geometry": {"coordinates":[-73.050247,43.355169],"type":"Point"}
+}

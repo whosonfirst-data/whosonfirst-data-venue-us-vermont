@@ -1,0 +1,71 @@
+{
+  "id": 874202253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.079539,44.441868,-73.079539,44.441868",
+    "geom:latitude":44.441868,
+    "geom:longitude":-73.079539,
+    "iso:country":"US",
+    "sg:address":"300 Old Stage Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 5505",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mUiwA36IRCROUVAQRiMHv_44.441868_-73.079539@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312867,
+    "wof:geomhash":"ae918af3737a3bd1c382fe20ee02dc88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874202253
+        }
+    ],
+    "wof:id":874202253,
+    "wof:lastmodified":1464312867,
+    "wof:name":"Germaine Excavating",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.079539,
+    44.441868,
+    -73.079539,
+    44.441868
+],
+  "geometry": {"coordinates":[-73.079539,44.441868],"type":"Point"}
+}

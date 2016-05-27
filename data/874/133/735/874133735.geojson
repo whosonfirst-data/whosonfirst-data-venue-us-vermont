@@ -1,0 +1,71 @@
+{
+  "id": 874133735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.561406,44.20985,-72.561406,44.20985",
+    "geom:latitude":44.20985,
+    "geom:longitude":-72.561406,
+    "iso:country":"US",
+    "sg:address":"186 Industrial Ln",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 828 2691",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40S1QF6v0N2OdcMBo9p9dE_44.209850_-72.561406@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312179,
+    "wof:geomhash":"10e85f60b40efa7f1e834fec9fa79a82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874133735
+        }
+    ],
+    "wof:id":874133735,
+    "wof:lastmodified":1464312179,
+    "wof:name":"District 6",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction"
+    ]
+},
+  "bbox": [
+    -72.561406,
+    44.20985,
+    -72.561406,
+    44.20985
+],
+  "geometry": {"coordinates":[-72.56140600000001,44.20985],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 874252387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.558849,42.873544,-72.558849,42.873544",
+    "geom:latitude":42.873544,
+    "geom:longitude":-72.558849,
+    "iso:country":"US",
+    "sg:address":"36 Noahs Ln",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 6582",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "store",
+        "yard",
+        "trailer"
+    ],
+    "sg:website":"http://www.uhaul.com/Locations/Rentals-near-Brattleboro-VT-05301/004214",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51L0gW8jBYHxsmbtoeLtAi_42.873544_-72.558849@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313612,
+    "wof:geomhash":"fe10f64b78424dac88b3a6c9789f94f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874252387
+        }
+    ],
+    "wof:id":874252387,
+    "wof:lastmodified":1464313612,
+    "wof:name":"U-Haul Neighborhood Dealer - Putney Road Redemption",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "store",
+        "yard",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -72.558849,
+    42.873544,
+    -72.558849,
+    42.873544
+],
+  "geometry": {"coordinates":[-72.558849,42.873544],"type":"Point"}
+}

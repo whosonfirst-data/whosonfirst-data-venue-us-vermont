@@ -1,0 +1,98 @@
+{
+  "id": 874255231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.255206,44.083759,-73.255206,44.083759",
+    "geom:latitude":44.083759,
+    "geom:longitude":-73.255206,
+    "iso:country":"US",
+    "sg:address":"302 Vt Route 17 E",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2159",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trucking-motor",
+        "dump",
+        "excavation",
+        "contractor",
+        "truck",
+        "trucking",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_437VhQA5kai8Tb04ek3XYs_44.083759_-73.255206@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313680,
+    "wof:geomhash":"2800522916170d1f2c75836ac9eaa203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874255231
+        }
+    ],
+    "wof:id":874255231,
+    "wof:lastmodified":1464313680,
+    "wof:name":"Briggs Trucking Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "dump",
+        "excavation",
+        "contractor",
+        "truck",
+        "trucking",
+        "local"
+    ]
+},
+  "bbox": [
+    -73.255206,
+    44.083759,
+    -73.255206,
+    44.083759
+],
+  "geometry": {"coordinates":[-73.255206,44.083759],"type":"Point"}
+}

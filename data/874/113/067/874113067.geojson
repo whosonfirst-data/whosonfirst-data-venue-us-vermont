@@ -1,0 +1,78 @@
+{
+  "id": 874113067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50391,44.199186,-72.50391,44.199186",
+    "geom:latitude":44.199186,
+    "geom:longitude":-72.50391,
+    "iso:country":"US",
+    "sg:address":"200 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3478",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cc6kJ5ezxsgLc1vvxMJLG_44.199186_-72.503910@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311968,
+    "wof:geomhash":"dfcf7791e75fc05b21549c29ff223ee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874113067
+        }
+    ],
+    "wof:id":874113067,
+    "wof:lastmodified":1464311968,
+    "wof:name":"Boisvert's Shoe Repair",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [
+    -72.50391,
+    44.199186,
+    -72.50391,
+    44.199186
+],
+  "geometry": {"coordinates":[-72.50391,44.199186],"type":"Point"}
+}

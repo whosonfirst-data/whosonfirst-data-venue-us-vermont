@@ -1,0 +1,66 @@
+{
+  "id": 874118319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.497424,44.194482,-72.497424,44.194482",
+    "geom:latitude":44.194482,
+    "geom:longitude":-72.497424,
+    "iso:country":"US",
+    "sg:address":"29 French St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1967",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TZYdZVwkbsBQiXrQccjcN_44.194482_-72.497424@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312019,
+    "wof:geomhash":"054f001fd0e4d4421e4b2a55bb701f9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874118319
+        }
+    ],
+    "wof:id":874118319,
+    "wof:lastmodified":1464312019,
+    "wof:name":"Gas Appliance Service",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.497424,
+    44.194482,
+    -72.497424,
+    44.194482
+],
+  "geometry": {"coordinates":[-72.497424,44.194482],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874214313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.351299,44.173179,-73.351299,44.173179",
+    "geom:latitude":44.173179,
+    "geom:longitude":-73.351299,
+    "iso:country":"US",
+    "sg:address":"44 Button Bay Ln",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 355 9471",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tkXb4CG0AU0YflqxICeXx_44.173179_-73.351299@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312997,
+    "wof:geomhash":"5b2eeee0b5ade7a8b8dff7e461c3a4f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874214313
+        }
+    ],
+    "wof:id":874214313,
+    "wof:lastmodified":1464312997,
+    "wof:name":"R J M Distribution LLC",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.351299,
+    44.173179,
+    -73.351299,
+    44.173179
+],
+  "geometry": {"coordinates":[-73.351299,44.173179],"type":"Point"}
+}

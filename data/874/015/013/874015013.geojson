@@ -1,0 +1,69 @@
+{
+  "id": 874015013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.231443,43.928264,-72.231443,43.928264",
+    "geom:latitude":43.928264,
+    "geom:longitude":-72.231443,
+    "iso:country":"US",
+    "sg:address":"3428 Middlebrook Rd",
+    "sg:city":"Fairlee",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 9717",
+    "sg:postcode":"05045",
+    "sg:province":"VT",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855463,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59fC6VpQSUswXTrHEVmvtJ_43.928264_-72.231443@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310891,
+    "wof:geomhash":"e8a9ae908b5ce99a69d5d003b7ccec7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85855463,
+            "region_id":85688763,
+            "venue_id":874015013
+        }
+    ],
+    "wof:id":874015013,
+    "wof:lastmodified":1464310891,
+    "wof:name":"Eaton Auction Svc",
+    "wof:parent_id":85855463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -72.231443,
+    43.928264,
+    -72.231443,
+    43.928264
+],
+  "geometry": {"coordinates":[-72.231443,43.928264],"type":"Point"}
+}

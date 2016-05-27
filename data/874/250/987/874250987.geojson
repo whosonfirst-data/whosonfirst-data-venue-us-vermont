@@ -1,0 +1,77 @@
+{
+  "id": 874250987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211965,44.479251,-73.211965,44.479251",
+    "geom:latitude":44.479251,
+    "geom:longitude":-73.211965,
+    "iso:country":"US",
+    "sg:address":"169 Cherry St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/burlington/275297-penny-cluse-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 651 8834",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EoQb4ak9FAuYrlZKpf4rF_44.479218_-73.212277@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313585,
+    "wof:geomhash":"91360eb60b8361e185ed92ef4b76b1a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874250987
+        }
+    ],
+    "wof:id":874250987,
+    "wof:lastmodified":1464313585,
+    "wof:name":"Penny Cluse Cafe",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -73.211965,
+    44.479251,
+    -73.211965,
+    44.479251
+],
+  "geometry": {"coordinates":[-73.21196500000001,44.479251],"type":"Point"}
+}

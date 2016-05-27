@@ -1,0 +1,69 @@
+{
+  "id": 874147497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.182227,42.890771,-73.182227,42.890771",
+    "geom:latitude":42.890771,
+    "geom:longitude":-73.182227,
+    "iso:country":"US",
+    "sg:address":"375 N Branch St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 9880",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "candle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3auPFeFzZDbpGWdYWlR8CM_42.890771_-73.182227@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312306,
+    "wof:geomhash":"8bd60f7adbcbd9da50b8ba138689fcc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874147497
+        }
+    ],
+    "wof:id":874147497,
+    "wof:lastmodified":1464312306,
+    "wof:name":"Bennington Candle",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candle"
+    ]
+},
+  "bbox": [
+    -73.182227,
+    42.890771,
+    -73.182227,
+    42.890771
+],
+  "geometry": {"coordinates":[-73.182227,42.890771],"type":"Point"}
+}

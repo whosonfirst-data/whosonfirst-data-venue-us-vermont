@@ -1,0 +1,71 @@
+{
+  "id": 874244505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200509,44.438417,-73.200509,44.438417",
+    "geom:latitude":44.438417,
+    "geom:longitude":-73.200509,
+    "iso:country":"US",
+    "sg:address":"137 Laurel Hill Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 8922",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gVAfGqQaeOjpgZyg105qT_44.438417_-73.200509@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313426,
+    "wof:geomhash":"5d3b5830e2b60b4ad93a8c437ef2285d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874244505
+        }
+    ],
+    "wof:id":874244505,
+    "wof:lastmodified":1464313426,
+    "wof:name":"Major L Rodd The Roofer",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.200509,
+    44.438417,
+    -73.200509,
+    44.438417
+],
+  "geometry": {"coordinates":[-73.200509,44.438417],"type":"Point"}
+}

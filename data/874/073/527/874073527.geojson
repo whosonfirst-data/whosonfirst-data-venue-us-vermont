@@ -1,0 +1,73 @@
+{
+  "id": 874073527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.193352,44.490658,-73.193352,44.490658",
+    "geom:latitude":44.490658,
+    "geom:longitude":-73.193352,
+    "iso:country":"US",
+    "sg:address":"146 W Canal St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 4159",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lithographic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MT5gHMlTsxvL7TAAW9phk_44.490658_-73.193352@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311486,
+    "wof:geomhash":"03b9d315fc81cd10f67068b8a178d494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874073527
+        }
+    ],
+    "wof:id":874073527,
+    "wof:lastmodified":1464311486,
+    "wof:name":"Turmax Printing Services",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -73.193352,
+    44.490658,
+    -73.193352,
+    44.490658
+],
+  "geometry": {"coordinates":[-73.193352,44.490658],"type":"Point"}
+}

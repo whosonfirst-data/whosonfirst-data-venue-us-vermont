@@ -1,0 +1,92 @@
+{
+  "id": 874255633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.974128,43.618532,-72.974128,43.618532",
+    "geom:latitude":43.618532,
+    "geom:longitude":-72.974128,
+    "iso:country":"US",
+    "sg:address":"170 N Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 1986",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "nutritionist",
+        "physician",
+        "medical",
+        "surgeon",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qv0GEk54s1dwNyG8qCslL_43.618532_-72.974128@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313688,
+    "wof:geomhash":"1c55a91081665a4d1a31d6b6ef2fcfd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255633
+        }
+    ],
+    "wof:id":874255633,
+    "wof:lastmodified":1464313688,
+    "wof:name":"Moelter Chiropractic Clinic, Pc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist",
+        "physician",
+        "medical",
+        "surgeon",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -72.974128,
+    43.618532,
+    -72.974128,
+    43.618532
+],
+  "geometry": {"coordinates":[-72.97412799999999,43.618532],"type":"Point"}
+}

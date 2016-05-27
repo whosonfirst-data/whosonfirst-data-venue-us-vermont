@@ -1,0 +1,75 @@
+{
+  "id": 874162329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.481099,44.256777,-72.481099,44.256777",
+    "geom:latitude":44.256777,
+    "geom:longitude":-72.481099,
+    "iso:country":"US",
+    "sg:address":"40 Fair Rd",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2654",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xRcALuhhoLDtOkSlBD0NP_44.256777_-72.481099@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312454,
+    "wof:geomhash":"886f86ea0dbbb03d0a6f844c76d954e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874162329
+        }
+    ],
+    "wof:id":874162329,
+    "wof:lastmodified":1464312454,
+    "wof:name":"Winchester Collision Repair",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.481099,
+    44.256777,
+    -72.481099,
+    44.256777
+],
+  "geometry": {"coordinates":[-72.481099,44.256777],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874046449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205822,44.489667,-73.205822,44.489667",
+    "geom:latitude":44.489667,
+    "geom:longitude":-73.205822,
+    "iso:country":"US",
+    "sg:address":"314 N Winooski Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 3013",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "transmission",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZxFiHGAphq6rCOO8SzPO3_44.489667_-73.205822@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311210,
+    "wof:geomhash":"0e5e5032821d58bec27f5bb681589851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874046449
+        }
+    ],
+    "wof:id":874046449,
+    "wof:lastmodified":1464311210,
+    "wof:name":"Champlain Transmission",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.205822,
+    44.489667,
+    -73.205822,
+    44.489667
+],
+  "geometry": {"coordinates":[-73.205822,44.489667],"type":"Point"}
+}

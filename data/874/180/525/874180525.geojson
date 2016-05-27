@@ -1,0 +1,73 @@
+{
+  "id": 874180525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.188974,42.896669,-73.188974,42.896669",
+    "geom:latitude":42.896669,
+    "geom:longitude":-73.188974,
+    "iso:country":"US",
+    "sg:address":"264 Shields Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 3662",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "metalworking",
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01LksV6HHHekZPRxWQ2ONF_42.896669_-73.188974@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312635,
+    "wof:geomhash":"7470366b732b0a643b862c9404e40026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874180525
+        }
+    ],
+    "wof:id":874180525,
+    "wof:lastmodified":1464312635,
+    "wof:name":"Abacus Automation Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metalworking",
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.188974,
+    42.896669,
+    -73.188974,
+    42.896669
+],
+  "geometry": {"coordinates":[-73.188974,42.896669],"type":"Point"}
+}

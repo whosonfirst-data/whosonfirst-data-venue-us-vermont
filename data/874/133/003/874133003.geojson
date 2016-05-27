@@ -1,0 +1,69 @@
+{
+  "id": 874133003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.61455,42.86568,-72.61455,42.86568",
+    "geom:latitude":42.86568,
+    "geom:longitude":-72.61455,
+    "iso:country":"US",
+    "sg:address":"23 Marlboro Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 251 1053",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5emYRaqECr8a3QfQJkouGr_42.865680_-72.614550@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312173,
+    "wof:geomhash":"e004fbac728f4d0049d61da836687d73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874133003
+        }
+    ],
+    "wof:id":874133003,
+    "wof:lastmodified":1464312173,
+    "wof:name":"Westside Salon",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.61455,
+    42.86568,
+    -72.61455,
+    42.86568
+],
+  "geometry": {"coordinates":[-72.61454999999999,42.86568],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874215773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.179463,44.492391,-73.179463,44.492391",
+    "geom:latitude":44.492391,
+    "geom:longitude":-73.179463,
+    "iso:country":"US",
+    "sg:address":"145 E Allen St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 1319",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LrqarW3MSA9CKQBsLV5GS_44.492391_-73.179463@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313011,
+    "wof:geomhash":"ebcbe0e928726ba5fd04024b6672b7cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874215773
+        }
+    ],
+    "wof:id":874215773,
+    "wof:lastmodified":1464313011,
+    "wof:name":"Gadues' Dry Cleaning Inc",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -73.179463,
+    44.492391,
+    -73.179463,
+    44.492391
+],
+  "geometry": {"coordinates":[-73.179463,44.492391],"type":"Point"}
+}

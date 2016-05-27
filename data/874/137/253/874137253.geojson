@@ -1,0 +1,73 @@
+{
+  "id": 874137253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.787995,43.639924,-72.787995,43.639924",
+    "geom:latitude":43.639924,
+    "geom:longitude":-72.787995,
+    "iso:country":"US",
+    "sg:address":"2332 Killington Rd",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 422 4267",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "golf",
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848249,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Oq62jbhwXHVdWsOK5dLgH_43.639924_-72.787995@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312210,
+    "wof:geomhash":"339342f684bdb77665816c4cc3106eb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":874137253
+        }
+    ],
+    "wof:id":874137253,
+    "wof:lastmodified":1464312210,
+    "wof:name":"Mountain Side Development Inc",
+    "wof:parent_id":85848249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "golf",
+        "course"
+    ]
+},
+  "bbox": [
+    -72.787995,
+    43.639924,
+    -72.787995,
+    43.639924
+],
+  "geometry": {"coordinates":[-72.787995,43.639924],"type":"Point"}
+}

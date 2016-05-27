@@ -1,0 +1,71 @@
+{
+  "id": 874061927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.882216,44.577004,-72.882216,44.577004",
+    "geom:latitude":44.577004,
+    "geom:longitude":-72.882216,
+    "iso:country":"US",
+    "sg:address":"11 Doon Rd",
+    "sg:city":"Underhill",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 3319",
+    "sg:postcode":"05489",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85851047,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_406W6k76iOqdeIUU8dltF1_44.577004_-72.882216@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311353,
+    "wof:geomhash":"7c4248f9a4fb746c69c4860b4efe7ae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85851047,
+            "region_id":85688763,
+            "venue_id":874061927
+        }
+    ],
+    "wof:id":874061927,
+    "wof:lastmodified":1464311353,
+    "wof:name":"Cold Spring Apartments",
+    "wof:parent_id":85851047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.882216,
+    44.577004,
+    -72.882216,
+    44.577004
+],
+  "geometry": {"coordinates":[-72.882216,44.577004],"type":"Point"}
+}

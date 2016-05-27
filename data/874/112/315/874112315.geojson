@@ -1,0 +1,71 @@
+{
+  "id": 874112315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.19288,42.885345,-73.19288,42.885345",
+    "geom:latitude":42.885345,
+    "geom:longitude":-73.19288,
+    "iso:country":"US",
+    "sg:address":"321 Park St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 0220",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "center",
+        "vocational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45QpzLNCGYT9gamd4S7ChQ_42.885345_-73.192880@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311961,
+    "wof:geomhash":"939338721fa4993082734c98c621d0fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874112315
+        }
+    ],
+    "wof:id":874112315,
+    "wof:lastmodified":1464311961,
+    "wof:name":"SW VT Career Developement Ctr",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "vocational"
+    ]
+},
+  "bbox": [
+    -73.19288,
+    42.885345,
+    -73.19288,
+    42.885345
+],
+  "geometry": {"coordinates":[-73.19288,42.885345],"type":"Point"}
+}

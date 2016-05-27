@@ -1,0 +1,64 @@
+{
+  "id": 874210289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.968234,44.510002,-72.968234,44.510002",
+    "geom:latitude":44.510002,
+    "geom:longitude":-72.968234,
+    "iso:country":"US",
+    "sg:address":"6 S Main St",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 4013",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KZbv9i7tujTHSa5ZrC8Zb_44.510002_-72.968234@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312952,
+    "wof:geomhash":"92ecfb0f1febc55f08e013813b24545d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874210289
+        }
+    ],
+    "wof:id":874210289,
+    "wof:lastmodified":1464312952,
+    "wof:name":"Mt Mansfield Animal Hospital",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.968234,
+    44.510002,
+    -72.968234,
+    44.510002
+],
+  "geometry": {"coordinates":[-72.968234,44.510002],"type":"Point"}
+}

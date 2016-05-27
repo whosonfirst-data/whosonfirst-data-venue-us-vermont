@@ -1,0 +1,73 @@
+{
+  "id": 874098093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.831429,44.646961,-72.831429,44.646961",
+    "geom:latitude":44.646961,
+    "geom:longitude":-72.831429,
+    "iso:country":"US",
+    "sg:address":"5195 State Rte 15",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8875",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_082KUzShthHvygP84bo6C0_44.646961_-72.831429@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311758,
+    "wof:geomhash":"0e963c17b706dad55148a25a8ff72f4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874098093
+        }
+    ],
+    "wof:id":874098093,
+    "wof:lastmodified":1464311758,
+    "wof:name":"G W Tatro Construction Inc",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.831429,
+    44.646961,
+    -72.831429,
+    44.646961
+],
+  "geometry": {"coordinates":[-72.831429,44.646961],"type":"Point"}
+}

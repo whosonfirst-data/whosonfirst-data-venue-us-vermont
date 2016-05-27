@@ -1,0 +1,69 @@
+{
+  "id": 874209569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.960747,43.586783,-72.960747,43.586783",
+    "geom:latitude":43.586783,
+    "geom:longitude":-72.960747,
+    "iso:country":"US",
+    "sg:address":"112 Quality Ln",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 786 8000",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jabYQebo6Q5D7LhmNupgB_43.586783_-72.960747@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312944,
+    "wof:geomhash":"22a30d339a56a57dbfa5795c5b7727b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874209569
+        }
+    ],
+    "wof:id":874209569,
+    "wof:lastmodified":1464312944,
+    "wof:name":"APC Svc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -72.960747,
+    43.586783,
+    -72.960747,
+    43.586783
+],
+  "geometry": {"coordinates":[-72.960747,43.586783],"type":"Point"}
+}

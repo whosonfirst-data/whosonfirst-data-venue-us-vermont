@@ -1,0 +1,71 @@
+{
+  "id": 874167851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.418056,44.271805,-72.418056,44.271805",
+    "geom:latitude":44.271805,
+    "geom:longitude":-72.418056,
+    "iso:country":"US",
+    "sg:address":"190 Camron Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 454 1357",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5njkno3x3nbKGYvXSqHHbk_44.271805_-72.418056@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312505,
+    "wof:geomhash":"61351e449ea459ee07ee76b59d65740e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874167851
+        }
+    ],
+    "wof:id":874167851,
+    "wof:lastmodified":1464312505,
+    "wof:name":"Knitting Studio",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing"
+    ]
+},
+  "bbox": [
+    -72.418056,
+    44.271805,
+    -72.418056,
+    44.271805
+],
+  "geometry": {"coordinates":[-72.41805600000001,44.271805],"type":"Point"}
+}

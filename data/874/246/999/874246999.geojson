@@ -1,0 +1,69 @@
+{
+  "id": 874246999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.051573,44.422409,-73.051573,44.422409",
+    "geom:latitude":44.422409,
+    "geom:longitude":-73.051573,
+    "iso:country":"US",
+    "sg:address":"207 Fiddlehead Ln",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 7449",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NTiAKccHXEJ9ClDnWd5mp_44.422409_-73.051573@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313471,
+    "wof:geomhash":"c96cf4bd898c91e27ab562656a8c9f98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874246999
+        }
+    ],
+    "wof:id":874246999,
+    "wof:lastmodified":1464313471,
+    "wof:name":"Calacci Contracting",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.051573,
+    44.422409,
+    -73.051573,
+    44.422409
+],
+  "geometry": {"coordinates":[-73.051573,44.422409],"type":"Point"}
+}

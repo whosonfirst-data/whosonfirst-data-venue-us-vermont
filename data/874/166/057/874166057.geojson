@@ -1,0 +1,71 @@
+{
+  "id": 874166057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.210967,44.218128,-72.210967,44.218128",
+    "geom:latitude":44.218128,
+    "geom:longitude":-72.210967,
+    "iso:country":"US",
+    "sg:address":"19 Branch Brook Rd",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 584 3273",
+    "sg:postcode":"05046",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844467,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gJrN6hNfwulSsaTmijm4l_44.218128_-72.210967@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312490,
+    "wof:geomhash":"db099c155125f4ef5941053675432d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85844467,
+            "region_id":85688763,
+            "venue_id":874166057
+        }
+    ],
+    "wof:id":874166057,
+    "wof:lastmodified":1464312490,
+    "wof:name":"Darlings Auto Repair",
+    "wof:parent_id":85844467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.210967,
+    44.218128,
+    -72.210967,
+    44.218128
+],
+  "geometry": {"coordinates":[-72.210967,44.218128],"type":"Point"}
+}

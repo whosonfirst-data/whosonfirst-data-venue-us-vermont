@@ -1,0 +1,71 @@
+{
+  "id": 874219371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.168909,44.013037,-73.168909,44.013037",
+    "geom:latitude":44.013037,
+    "geom:longitude":-73.168909,
+    "iso:country":"US",
+    "sg:address":"1 Bakery Ln",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4856",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dQYNARd56XGeUwupu5jHn_44.013037_-73.168909@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313048,
+    "wof:geomhash":"de194b4bcca71dade4cab50f99d5f792",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874219371
+        }
+    ],
+    "wof:id":874219371,
+    "wof:lastmodified":1464313048,
+    "wof:name":"Taste Of India",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.168909,
+    44.013037,
+    -73.168909,
+    44.013037
+],
+  "geometry": {"coordinates":[-73.168909,44.013037],"type":"Point"}
+}

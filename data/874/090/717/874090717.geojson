@@ -1,0 +1,77 @@
+{
+  "id": 874090717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.98153,43.609189,-72.98153,43.609189",
+    "geom:latitude":43.609189,
+    "geom:longitude":-72.98153,
+    "iso:country":"US",
+    "sg:address":"105 State St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 9781",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4peYB7cDTIN57WbGBRr3Oh_43.609189_-72.981530@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311670,
+    "wof:geomhash":"a6312b977330db0952c42f4c3e191aa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874090717
+        }
+    ],
+    "wof:id":874090717,
+    "wof:lastmodified":1464311670,
+    "wof:name":"Cragin's Service Station",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.98153,
+    43.609189,
+    -72.98153,
+    43.609189
+],
+  "geometry": {"coordinates":[-72.98153000000001,43.609189],"type":"Point"}
+}

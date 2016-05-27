@@ -1,0 +1,71 @@
+{
+  "id": 874205053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.983328,43.609038,-72.983328,43.609038",
+    "geom:latitude":43.609038,
+    "geom:longitude":-72.983328,
+    "iso:country":"US",
+    "sg:address":"138 State St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0193",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_174tZhGzv1JvZ6N9wvIidA_43.609038_-72.983328@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312895,
+    "wof:geomhash":"84b705e6e70c7afc2cd16fd4c9498302",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874205053
+        }
+    ],
+    "wof:id":874205053,
+    "wof:lastmodified":1464312895,
+    "wof:name":"Rutland Auto Supply Warehouse",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -72.983328,
+    43.609038,
+    -72.983328,
+    43.609038
+],
+  "geometry": {"coordinates":[-72.983328,43.609038],"type":"Point"}
+}

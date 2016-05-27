@@ -1,0 +1,71 @@
+{
+  "id": 874024625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.179995,44.460805,-73.179995,44.460805",
+    "geom:latitude":44.460805,
+    "geom:longitude":-73.179995,
+    "iso:country":"US",
+    "sg:address":"372 Dorset St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 6753",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G06Cr6c952ybFqdvxOG4p_44.460805_-73.179995@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310992,
+    "wof:geomhash":"c34245e2436eb22a1a9ec6ef03901246",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874024625
+        }
+    ],
+    "wof:id":874024625,
+    "wof:lastmodified":1464310992,
+    "wof:name":"Wvaa Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -73.179995,
+    44.460805,
+    -73.179995,
+    44.460805
+],
+  "geometry": {"coordinates":[-73.17999500000001,44.460805],"type":"Point"}
+}

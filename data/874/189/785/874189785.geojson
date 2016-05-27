@@ -1,0 +1,75 @@
+{
+  "id": 874189785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.107617,44.695655,-73.107617,44.695655",
+    "geom:latitude":44.695655,
+    "geom:longitude":-73.107617,
+    "iso:country":"US",
+    "sg:address":"1193 Ethan Allen Hwy",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 7333",
+    "sg:postcode":"05454",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5127txlBz1cjyu7RJyPvQF_44.695655_-73.107617@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312737,
+    "wof:geomhash":"8450e4b7b38079cedf0da4537b63f2cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874189785
+        }
+    ],
+    "wof:id":874189785,
+    "wof:lastmodified":1464312737,
+    "wof:name":"Showtime Video & Records",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -73.107617,
+    44.695655,
+    -73.107617,
+    44.695655
+],
+  "geometry": {"coordinates":[-73.107617,44.695655],"type":"Point"}
+}

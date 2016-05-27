@@ -1,0 +1,69 @@
+{
+  "id": 874038775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.251865,44.205262,-73.251865,44.205262",
+    "geom:latitude":44.205262,
+    "geom:longitude":-73.251865,
+    "iso:country":"US",
+    "sg:address":"76 Depot Rd",
+    "sg:city":"Ferrisburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 3421",
+    "sg:postcode":"05456",
+    "sg:province":"VT",
+    "sg:tags":[
+        "butchering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09mbiiFHaMZge5SmoYVv3F_44.205262_-73.251865@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311132,
+    "wof:geomhash":"d4d9f62e2089f1cf5bf2243f051d8195",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874038775
+        }
+    ],
+    "wof:id":874038775,
+    "wof:lastmodified":1464311132,
+    "wof:name":"Clark's Slaughter House",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "butchering"
+    ]
+},
+  "bbox": [
+    -73.251865,
+    44.205262,
+    -73.251865,
+    44.205262
+],
+  "geometry": {"coordinates":[-73.251865,44.205262],"type":"Point"}
+}

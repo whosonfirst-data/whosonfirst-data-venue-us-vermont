@@ -1,0 +1,73 @@
+{
+  "id": 873983365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.165567,44.013735,-73.165567,44.013735",
+    "geom:latitude":44.013735,
+    "geom:longitude":-73.165567,
+    "iso:country":"US",
+    "sg:address":"10 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 0152",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jbe7ewWKT5PhHx14VwVcs_44.013735_-73.165567@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310637,
+    "wof:geomhash":"4e487a1da2d65eb90473f2a632a22db0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":873983365
+        }
+    ],
+    "wof:id":873983365,
+    "wof:lastmodified":1464310637,
+    "wof:name":"Robert L Venman MD",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.165567,
+    44.013735,
+    -73.165567,
+    44.013735
+],
+  "geometry": {"coordinates":[-73.165567,44.013735],"type":"Point"}
+}

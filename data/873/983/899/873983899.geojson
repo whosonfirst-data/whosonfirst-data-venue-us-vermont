@@ -1,0 +1,71 @@
+{
+  "id": 873983899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214927,44.467282,-73.214927,44.467282",
+    "geom:latitude":44.467282,
+    "geom:longitude":-73.214927,
+    "iso:country":"US",
+    "sg:address":"377 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 3707",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jPZ0g0RSNsM3g3Fe4yIrs_44.467282_-73.214927@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310641,
+    "wof:geomhash":"29282b01a145406a5bbf9d273eef10e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873983899
+        }
+    ],
+    "wof:id":873983899,
+    "wof:lastmodified":1464310641,
+    "wof:name":"Vermont Gift Co",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.214927,
+    44.467282,
+    -73.214927,
+    44.467282
+],
+  "geometry": {"coordinates":[-73.214927,44.467282],"type":"Point"}
+}

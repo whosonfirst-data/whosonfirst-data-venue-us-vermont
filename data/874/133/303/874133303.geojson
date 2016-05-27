@@ -1,0 +1,73 @@
+{
+  "id": 874133303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.385065,44.244557,-72.385065,44.244557",
+    "geom:latitude":44.244557,
+    "geom:longitude":-72.385065,
+    "iso:country":"US",
+    "sg:address":"907 Bean Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 454 7746",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ri8lABvkvEUc12kEbf5pb_44.244557_-72.385065@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312175,
+    "wof:geomhash":"33ebde34ee5cee1beae565d2f4876216",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874133303
+        }
+    ],
+    "wof:id":874133303,
+    "wof:lastmodified":1464312175,
+    "wof:name":"Lake Champlain Retriever Club",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -72.385065,
+    44.244557,
+    -72.385065,
+    44.244557
+],
+  "geometry": {"coordinates":[-72.385065,44.244557],"type":"Point"}
+}

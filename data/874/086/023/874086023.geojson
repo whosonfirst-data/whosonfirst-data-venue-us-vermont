@@ -1,0 +1,71 @@
+{
+  "id": 874086023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.728644,44.493774,-72.728644,44.493774",
+    "geom:latitude":44.493774,
+    "geom:longitude":-72.728644,
+    "iso:country":"US",
+    "sg:address":"434 Edson Hill Rd",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 9722",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "inn",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xRxJ2U227YSDglZugbW0U_44.493774_-72.728644@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311621,
+    "wof:geomhash":"c53243a0139f429424d10cd675606ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874086023
+        }
+    ],
+    "wof:id":874086023,
+    "wof:lastmodified":1464311621,
+    "wof:name":"Stowehof Inn Corp",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "bar"
+    ]
+},
+  "bbox": [
+    -72.728644,
+    44.493774,
+    -72.728644,
+    44.493774
+],
+  "geometry": {"coordinates":[-72.728644,44.493774],"type":"Point"}
+}

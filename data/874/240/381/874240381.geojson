@@ -1,0 +1,76 @@
+{
+  "id": 874240381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078548,44.133075,-73.078548,44.133075",
+    "geom:latitude":44.133075,
+    "geom:longitude":-73.078548,
+    "iso:country":"US",
+    "sg:address":"9 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3952",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "candle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mK0hsITsEGxvjbmD6oTiE_44.133075_-73.078548@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313347,
+    "wof:geomhash":"9647b80bee81b5800b862abc59074b49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874240381
+        }
+    ],
+    "wof:id":874240381,
+    "wof:lastmodified":1464313347,
+    "wof:name":"Vermont Honeylights Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candle"
+    ]
+},
+  "bbox": [
+    -73.078548,
+    44.133075,
+    -73.078548,
+    44.133075
+],
+  "geometry": {"coordinates":[-73.078548,44.133075],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 874193099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.564766,44.212687,-72.564766,44.212687",
+    "geom:latitude":44.212687,
+    "geom:longitude":-72.564766,
+    "iso:country":"US",
+    "sg:address":"751 Granger Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 4581",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:website":"www.vtattractions.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L7w3qwllODKwp1rNHcNl4_44.212687_-72.564766@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312771,
+    "wof:geomhash":"89be085b72ece77e88d71647849ef409",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874193099
+        }
+    ],
+    "wof:id":874193099,
+    "wof:lastmodified":1464312771,
+    "wof:name":"Vermont Attractions Assn Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.564766,
+    44.212687,
+    -72.564766,
+    44.212687
+],
+  "geometry": {"coordinates":[-72.56476600000001,44.212687],"type":"Point"}
+}

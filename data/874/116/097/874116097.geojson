@@ -1,0 +1,73 @@
+{
+  "id": 874116097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.514,44.208349,-72.514,44.208349",
+    "geom:latitude":44.208349,
+    "geom:longitude":-72.514,
+    "iso:country":"US",
+    "sg:address":"567 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1276",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gD6Qf59ZjfVGKaz84NUyp_44.208349_-72.514000@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311998,
+    "wof:geomhash":"9896d79ab2b69eb7801bdbdc535487d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874116097
+        }
+    ],
+    "wof:id":874116097,
+    "wof:lastmodified":1464311998,
+    "wof:name":"Ernie's Garage",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.514,
+    44.208349,
+    -72.514,
+    44.208349
+],
+  "geometry": {"coordinates":[-72.514,44.208349],"type":"Point"}
+}

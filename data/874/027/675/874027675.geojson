@@ -1,0 +1,71 @@
+{
+  "id": 874027675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.168975,44.013015,-73.168975,44.013015",
+    "geom:latitude":44.013015,
+    "geom:longitude":-73.168975,
+    "iso:country":"US",
+    "sg:address":"3 Mill St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 1063",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iiZKJ6VgP2H9wrZPIsdV9_44.013015_-73.168975@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311022,
+    "wof:geomhash":"ec390fff7d48f99a20b5fa7c34633fb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874027675
+        }
+    ],
+    "wof:id":874027675,
+    "wof:lastmodified":1464311022,
+    "wof:name":"Storm Cafe",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -73.168975,
+    44.013015,
+    -73.168975,
+    44.013015
+],
+  "geometry": {"coordinates":[-73.168975,44.013015],"type":"Point"}
+}

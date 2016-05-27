@@ -1,0 +1,71 @@
+{
+  "id": 874023103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.590177,43.729248,-72.590177,43.729248",
+    "geom:latitude":43.729248,
+    "geom:longitude":-72.590177,
+    "iso:country":"US",
+    "sg:address":"713 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 8383",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3loEsiwEzJYG5iNnXpGgcg_43.729248_-72.590177@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310974,
+    "wof:geomhash":"3a19ace0243e4089db64ac26e57ffabf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874023103
+        }
+    ],
+    "wof:id":874023103,
+    "wof:lastmodified":1464310974,
+    "wof:name":"Royal Plumbing & Heating",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.590177,
+    43.729248,
+    -72.590177,
+    43.729248
+],
+  "geometry": {"coordinates":[-72.590177,43.729248],"type":"Point"}
+}

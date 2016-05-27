@@ -1,0 +1,72 @@
+{
+  "id": 874072075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.800212,44.909968,-72.800212,44.909968",
+    "geom:latitude":44.909968,
+    "geom:longitude":-72.800212,
+    "iso:country":"US",
+    "sg:address":"68 East St",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 4338",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cheese",
+        "processor"
+    ],
+    "sg:website":"www.franklinfoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZDMORwzDvK98L9TExCzCM_44.909968_-72.800212@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311463,
+    "wof:geomhash":"e5cbb1b250a9472b80af446b14389542",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874072075
+        }
+    ],
+    "wof:id":874072075,
+    "wof:lastmodified":1464311463,
+    "wof:name":"Franklin Foods Inc",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheese",
+        "processor"
+    ]
+},
+  "bbox": [
+    -72.800212,
+    44.909968,
+    -72.800212,
+    44.909968
+],
+  "geometry": {"coordinates":[-72.800212,44.909968],"type":"Point"}
+}

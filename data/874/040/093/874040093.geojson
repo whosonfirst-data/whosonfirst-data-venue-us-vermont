@@ -1,0 +1,83 @@
+{
+  "id": 874040093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.388453,44.329439,-72.388453,44.329439",
+    "geom:latitude":44.329439,
+    "geom:longitude":-72.388453,
+    "iso:country":"US",
+    "sg:address":"424 Bent Rd",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3234",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "beef",
+        "mfg",
+        "farm",
+        "eggs",
+        "dairy",
+        "cattle",
+        "pickle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KctKnDh9mlWK31gOVCI76_44.329439_-72.388453@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311144,
+    "wof:geomhash":"a27594131c15e71929bccac001a49085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874040093
+        }
+    ],
+    "wof:id":874040093,
+    "wof:lastmodified":1464311144,
+    "wof:name":"Hill Farm of Vermont",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "mfg",
+        "farm",
+        "eggs",
+        "dairy",
+        "cattle",
+        "pickle"
+    ]
+},
+  "bbox": [
+    -72.388453,
+    44.329439,
+    -72.388453,
+    44.329439
+],
+  "geometry": {"coordinates":[-72.388453,44.329439],"type":"Point"}
+}

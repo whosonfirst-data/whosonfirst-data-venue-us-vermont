@@ -1,0 +1,69 @@
+{
+  "id": 873994429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.105013,43.993685,-73.105013,43.993685",
+    "geom:latitude":43.993685,
+    "geom:longitude":-73.105013,
+    "iso:country":"US",
+    "sg:address":"1733 Case St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 9411",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Iby3o54ed5QSHuxR5CQAv_43.993685_-73.105013@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310722,
+    "wof:geomhash":"2e17bc34b57a8be07316e233ad2ab711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":873994429
+        }
+    ],
+    "wof:id":873994429,
+    "wof:lastmodified":1464310722,
+    "wof:name":"Marble Rose Farm",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -73.105013,
+    43.993685,
+    -73.105013,
+    43.993685
+],
+  "geometry": {"coordinates":[-73.105013,43.993685],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874123873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.363483,43.832457,-72.363483,43.832457",
+    "geom:latitude":43.832457,
+    "geom:longitude":-72.363483,
+    "iso:country":"US",
+    "sg:address":"19 Downer Forest Rd",
+    "sg:city":"South Strafford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 765 4877",
+    "sg:postcode":"05070",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85812235,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xVRz1EM6QwkGjvA4JYak8_43.832457_-72.363483@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312075,
+    "wof:geomhash":"c16ee06a6a0335dcaac34aa5033926a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85812235,
+            "region_id":85688763,
+            "venue_id":874123873
+        }
+    ],
+    "wof:id":874123873,
+    "wof:lastmodified":1464312075,
+    "wof:name":"M C Autoworks Inc",
+    "wof:parent_id":85812235,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.363483,
+    43.832457,
+    -72.363483,
+    43.832457
+],
+  "geometry": {"coordinates":[-72.363483,43.832457],"type":"Point"}
+}

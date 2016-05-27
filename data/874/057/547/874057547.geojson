@@ -1,0 +1,71 @@
+{
+  "id": 874057547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.593997,44.569843,-72.593997,44.569843",
+    "geom:latitude":44.569843,
+    "geom:longitude":-72.593997,
+    "iso:country":"US",
+    "sg:address":"15 Munson Ave",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 1220",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer",
+        "supermarket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W2yR4pPyseM0jSfDbpsn2_44.569843_-72.593997@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311314,
+    "wof:geomhash":"34c0e9afc673335039857a74a3acc9ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874057547
+        }
+    ],
+    "wof:id":874057547,
+    "wof:lastmodified":1464311314,
+    "wof:name":"Price Chopper 137",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -72.593997,
+    44.569843,
+    -72.593997,
+    44.569843
+],
+  "geometry": {"coordinates":[-72.593997,44.569843],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874075037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.795589,43.659677,-72.795589,43.659677",
+    "geom:latitude":43.659677,
+    "geom:longitude":-72.795589,
+    "iso:country":"US",
+    "sg:address":"55 Merrill Dr",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 422 2230",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848249,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SstCVItx10jNMenJzrdAA_43.659677_-72.795589@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311503,
+    "wof:geomhash":"12321c70d7d4ba7915d4a3453302e98c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":874075037
+        }
+    ],
+    "wof:id":874075037,
+    "wof:lastmodified":1464311503,
+    "wof:name":"Red Duck Refuse Removal",
+    "wof:parent_id":85848249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -72.795589,
+    43.659677,
+    -72.795589,
+    43.659677
+],
+  "geometry": {"coordinates":[-72.79558900000001,43.659677],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874234691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977663,43.60761,-72.977663,43.60761",
+    "geom:latitude":43.60761,
+    "geom:longitude":-72.977663,
+    "iso:country":"US",
+    "sg:address":"34 Wales St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 6668",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5moliuvLSkDX3nr7P8f6Yy_43.607610_-72.977663@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313234,
+    "wof:geomhash":"93f10eb6b5532216e96bea030a0f5e51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874234691
+        }
+    ],
+    "wof:id":874234691,
+    "wof:lastmodified":1464313234,
+    "wof:name":"Two Shea's",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.977663,
+    43.60761,
+    -72.977663,
+    43.60761
+],
+  "geometry": {"coordinates":[-72.97766300000001,43.60761],"type":"Point"}
+}

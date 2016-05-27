@@ -1,0 +1,71 @@
+{
+  "id": 874133803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971772,43.605372,-72.971772,43.605372",
+    "geom:latitude":43.605372,
+    "geom:longitude":-72.971772,
+    "iso:country":"US",
+    "sg:address":"225 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0898",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "factory",
+        "outlet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rXo2IAJvZdgx6w4cJ6UVB_43.605372_-72.971772@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312180,
+    "wof:geomhash":"7cb0a88b34d730269035de72aee2880e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874133803
+        }
+    ],
+    "wof:id":874133803,
+    "wof:lastmodified":1464312180,
+    "wof:name":"Boss Threads Factory Outlet",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "factory",
+        "outlet"
+    ]
+},
+  "bbox": [
+    -72.971772,
+    43.605372,
+    -72.971772,
+    43.605372
+],
+  "geometry": {"coordinates":[-72.971772,43.605372],"type":"Point"}
+}

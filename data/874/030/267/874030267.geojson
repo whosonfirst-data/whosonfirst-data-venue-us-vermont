@@ -1,0 +1,69 @@
+{
+  "id": 874030267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.172472,44.49945,-73.172472,44.49945",
+    "geom:latitude":44.49945,
+    "geom:longitude":-73.172472,
+    "iso:country":"US",
+    "sg:address":"964 Hercules Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 1000",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OdQdze1Tb2QHlK62Up1L9_44.499450_-73.172472@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311051,
+    "wof:geomhash":"a007506a2168e8a0ff486acaaabe20d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874030267
+        }
+    ],
+    "wof:id":874030267,
+    "wof:lastmodified":1464311051,
+    "wof:name":"J & B Intl Trucks Inc",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -73.172472,
+    44.49945,
+    -73.172472,
+    44.49945
+],
+  "geometry": {"coordinates":[-73.172472,44.49945],"type":"Point"}
+}

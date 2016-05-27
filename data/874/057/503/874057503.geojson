@@ -1,0 +1,78 @@
+{
+  "id": 874057503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.04759,44.524901,-72.04759,44.524901",
+    "geom:latitude":44.524901,
+    "geom:longitude":-72.04759,
+    "iso:country":"US",
+    "sg:address":"248 Diamond Hill Rd",
+    "sg:city":"Lyndon",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 4444",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "syrup",
+        "maple",
+        "sugar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LJNBHtB9cslBYykeOjrzf_44.524901_-72.047590@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311313,
+    "wof:geomhash":"72824d97215c418036790dbbdf5350ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874057503
+        }
+    ],
+    "wof:id":874057503,
+    "wof:lastmodified":1464311313,
+    "wof:name":"O Maple Services of Vermont",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "syrup",
+        "maple",
+        "sugar"
+    ]
+},
+  "bbox": [
+    -72.04759,
+    44.524901,
+    -72.04759,
+    44.524901
+],
+  "geometry": {"coordinates":[-72.04759,44.524901],"type":"Point"}
+}

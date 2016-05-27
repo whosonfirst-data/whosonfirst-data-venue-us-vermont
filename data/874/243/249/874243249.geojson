@@ -1,0 +1,74 @@
+{
+  "id": 874243249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.589139,43.270652,-72.589139,43.270652",
+    "geom:latitude":43.270652,
+    "geom:longitude":-72.589139,
+    "iso:country":"US",
+    "sg:address":"656 Depot St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 3236",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Or0qCZFZU6J6ykppuRlLr_43.270652_-72.589139@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313399,
+    "wof:geomhash":"9bb88a555a06b9e8e964e90208387268",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874243249
+        }
+    ],
+    "wof:id":874243249,
+    "wof:lastmodified":1464313399,
+    "wof:name":"Chester Andover Family Center",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -72.589139,
+    43.270652,
+    -72.589139,
+    43.270652
+],
+  "geometry": {"coordinates":[-72.589139,43.270652],"type":"Point"}
+}

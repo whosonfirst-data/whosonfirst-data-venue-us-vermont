@@ -1,0 +1,69 @@
+{
+  "id": 874121385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.134368,44.69643,-73.134368,44.69643",
+    "geom:latitude":44.69643,
+    "geom:longitude":-73.134368,
+    "iso:country":"US",
+    "sg:address":"407 Sandy Birch Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 233 6965",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33B4fLnlHPvvkWgHAgUM1M_44.696430_-73.134368@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312053,
+    "wof:geomhash":"0e62a5d05627bddf82cd60c0e3401cb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874121385
+        }
+    ],
+    "wof:id":874121385,
+    "wof:lastmodified":1464312053,
+    "wof:name":"Mac & Cheese Home Inspection",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -73.134368,
+    44.69643,
+    -73.134368,
+    44.69643
+],
+  "geometry": {"coordinates":[-73.13436799999999,44.69643],"type":"Point"}
+}

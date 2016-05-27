@@ -1,0 +1,71 @@
+{
+  "id": 874168153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.166927,44.015043,-73.166927,44.015043",
+    "geom:latitude":44.015043,
+    "geom:longitude":-73.166927,
+    "iso:country":"US",
+    "sg:address":"3 Main St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7200",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qAeZFGUEF7eJgsNOao1M0_44.015043_-73.166927@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312508,
+    "wof:geomhash":"cfac1fe8c9cfd644e453f0a94725fec4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874168153
+        }
+    ],
+    "wof:id":874168153,
+    "wof:lastmodified":1464312508,
+    "wof:name":"St Stephen's Episcopal Church",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.166927,
+    44.015043,
+    -73.166927,
+    44.015043
+],
+  "geometry": {"coordinates":[-73.166927,44.015043],"type":"Point"}
+}

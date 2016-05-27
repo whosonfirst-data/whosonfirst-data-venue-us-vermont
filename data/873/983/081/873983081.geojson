@@ -1,0 +1,71 @@
+{
+  "id": 873983081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.175402,42.870764,-73.175402,42.870764",
+    "geom:latitude":42.870764,
+    "geom:longitude":-73.175402,
+    "iso:country":"US",
+    "sg:address":"348 Gore Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 5208",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q4KA0CmUYC10AF5XstZvv_42.870764_-73.175402@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310634,
+    "wof:geomhash":"899e2077f49d8706590ea06941dc0865",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873983081
+        }
+    ],
+    "wof:id":873983081,
+    "wof:lastmodified":1464310634,
+    "wof:name":"J & T Trucking",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.175402,
+    42.870764,
+    -73.175402,
+    42.870764
+],
+  "geometry": {"coordinates":[-73.17540200000001,42.870764],"type":"Point"}
+}

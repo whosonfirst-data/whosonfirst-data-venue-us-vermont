@@ -1,0 +1,71 @@
+{
+  "id": 874244315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.498649,44.185587,-72.498649,44.185587",
+    "geom:latitude":44.185587,
+    "geom:longitude":-72.498649,
+    "iso:country":"US",
+    "sg:address":"188 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2989",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pwrnt4A665Ro62qQv7ym6_44.185587_-72.498649@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313422,
+    "wof:geomhash":"ab3eb4c679726c7b8ccc759f3de273b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874244315
+        }
+    ],
+    "wof:id":874244315,
+    "wof:lastmodified":1464313422,
+    "wof:name":"Oliver L Twombly Law Office",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -72.498649,
+    44.185587,
+    -72.498649,
+    44.185587
+],
+  "geometry": {"coordinates":[-72.498649,44.185587],"type":"Point"}
+}

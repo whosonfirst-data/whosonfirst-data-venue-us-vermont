@@ -1,0 +1,69 @@
+{
+  "id": 874094243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.289566,44.339445,-72.289566,44.339445",
+    "geom:latitude":44.339445,
+    "geom:longitude":-72.289566,
+    "iso:country":"US",
+    "sg:address":"2654 State Rte 232",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 4122",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85829723,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kAgQsbfMc10bpMIHsy4mO_44.339445_-72.289566@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311706,
+    "wof:geomhash":"ab7bd40b06e9e29e18c03b8f19bf439c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85829723,
+            "region_id":85688763,
+            "venue_id":874094243
+        }
+    ],
+    "wof:id":874094243,
+    "wof:lastmodified":1464311706,
+    "wof:name":"Groton Forest Rd Campground",
+    "wof:parent_id":85829723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -72.289566,
+    44.339445,
+    -72.289566,
+    44.339445
+],
+  "geometry": {"coordinates":[-72.28956599999999,44.339445],"type":"Point"}
+}

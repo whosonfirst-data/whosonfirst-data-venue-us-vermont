@@ -1,0 +1,74 @@
+{
+  "id": 874249697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.149252,44.54426,-73.149252,44.54426",
+    "geom:latitude":44.54426,
+    "geom:longitude":-73.149252,
+    "iso:country":"US",
+    "sg:address":"900 Main St",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 5442",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "place",
+        "worship",
+        "church"
+    ],
+    "sg:website":"http://www.unitedchurchcolchester.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eG6qMIZPDucD0HvLCP5Om_44.544171_-73.149031@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313557,
+    "wof:geomhash":"4db1a9838f60d7e2b2de18ecad47cdf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":874249697
+        }
+    ],
+    "wof:id":874249697,
+    "wof:lastmodified":1464313557,
+    "wof:name":"United Church Of Colchester",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "place",
+        "worship",
+        "church"
+    ]
+},
+  "bbox": [
+    -73.149252,
+    44.54426,
+    -73.149252,
+    44.54426
+],
+  "geometry": {"coordinates":[-73.149252,44.54426],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874158775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.174082,44.467507,-73.174082,44.467507",
+    "geom:latitude":44.467507,
+    "geom:longitude":-73.174082,
+    "iso:country":"US",
+    "sg:address":"801 Williston Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 5850",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FkthlSVEFgFC2sUT48XJs_44.467507_-73.174082@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312420,
+    "wof:geomhash":"fb9dfea0b32bbc5f9eddd36d99db55d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874158775
+        }
+    ],
+    "wof:id":874158775,
+    "wof:lastmodified":1464312420,
+    "wof:name":"Champlain Farms",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.174082,
+    44.467507,
+    -73.174082,
+    44.467507
+],
+  "geometry": {"coordinates":[-73.174082,44.467507],"type":"Point"}
+}

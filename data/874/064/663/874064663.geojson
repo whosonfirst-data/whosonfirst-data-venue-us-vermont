@@ -1,0 +1,72 @@
+{
+  "id": 874064663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.560275,42.876177,-72.560275,42.876177",
+    "geom:latitude":42.876177,
+    "geom:longitude":-72.560275,
+    "iso:country":"US",
+    "sg:address":"833 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 258 9900",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "sg:website":"www.putneyroadautosales.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G27H8b8OH9kXXDOx7fLnF_42.876177_-72.560275@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311377,
+    "wof:geomhash":"1a2e3fc5ed5ba2386325b18aa13022a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874064663
+        }
+    ],
+    "wof:id":874064663,
+    "wof:lastmodified":1464311377,
+    "wof:name":"Putney Road Auto Sales",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -72.560275,
+    42.876177,
+    -72.560275,
+    42.876177
+],
+  "geometry": {"coordinates":[-72.560275,42.876177],"type":"Point"}
+}

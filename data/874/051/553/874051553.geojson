@@ -1,0 +1,71 @@
+{
+  "id": 874051553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.994777,43.608002,-72.994777,43.608002",
+    "geom:latitude":43.608002,
+    "geom:longitude":-72.994777,
+    "iso:country":"US",
+    "sg:address":"233 State St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 7818",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UdgMBrwvD8asmc2OcsEFP_43.608002_-72.994777@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311255,
+    "wof:geomhash":"b61ba0768a027b8ef5cef22c0722d754",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874051553
+        }
+    ],
+    "wof:id":874051553,
+    "wof:lastmodified":1464311255,
+    "wof:name":"Frank Valente",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.994777,
+    43.608002,
+    -72.994777,
+    43.608002
+],
+  "geometry": {"coordinates":[-72.994777,43.608002],"type":"Point"}
+}

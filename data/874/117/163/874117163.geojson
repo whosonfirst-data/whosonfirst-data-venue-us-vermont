@@ -1,0 +1,71 @@
+{
+  "id": 874117163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.110798,43.971744,-73.110798,43.971744",
+    "geom:latitude":43.971744,
+    "geom:longitude":-73.110798,
+    "iso:country":"US",
+    "sg:address":"4 Ossie Rd",
+    "sg:city":"East Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7411",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XKOeVWSbfLoeLxuRW3tCm_43.971744_-73.110798@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312008,
+    "wof:geomhash":"a0868fc4209351e0c0d51176940954df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874117163
+        }
+    ],
+    "wof:id":874117163,
+    "wof:lastmodified":1464312008,
+    "wof:name":"Euber's Automotive Ctr",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.110798,
+    43.971744,
+    -73.110798,
+    43.971744
+],
+  "geometry": {"coordinates":[-73.110798,43.971744],"type":"Point"}
+}

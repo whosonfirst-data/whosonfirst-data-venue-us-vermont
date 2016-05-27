@@ -1,0 +1,71 @@
+{
+  "id": 874052557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.975049,43.472677,-72.975049,43.472677",
+    "geom:latitude":43.472677,
+    "geom:longitude":-72.975049,
+    "iso:country":"US",
+    "sg:address":"44 Taft Ter",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 2002",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jUrB2NLbIDialUl0QYlsU_43.472677_-72.975049@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311264,
+    "wof:geomhash":"0c32cfe7fe17d5ffd28583a220905967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874052557
+        }
+    ],
+    "wof:id":874052557,
+    "wof:lastmodified":1464311264,
+    "wof:name":"Babco Communications",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.975049,
+    43.472677,
+    -72.975049,
+    43.472677
+],
+  "geometry": {"coordinates":[-72.975049,43.472677],"type":"Point"}
+}

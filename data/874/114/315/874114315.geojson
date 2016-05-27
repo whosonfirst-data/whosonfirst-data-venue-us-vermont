@@ -1,0 +1,71 @@
+{
+  "id": 874114315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.639517,44.188568,-72.639517,44.188568",
+    "geom:latitude":44.188568,
+    "geom:longitude":-72.639517,
+    "iso:country":"US",
+    "sg:address":"87 Neill Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 4595",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WKk02ICLgPQR1YlxB4LEn_44.188568_-72.639517@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311980,
+    "wof:geomhash":"41f89da57e573a50b99bc251ee1ae8b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874114315
+        }
+    ],
+    "wof:id":874114315,
+    "wof:lastmodified":1464311980,
+    "wof:name":"Arnold & Arnold Masonry",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.639517,
+    44.188568,
+    -72.639517,
+    44.188568
+],
+  "geometry": {"coordinates":[-72.639517,44.188568],"type":"Point"}
+}

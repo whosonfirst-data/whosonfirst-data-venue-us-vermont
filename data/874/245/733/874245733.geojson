@@ -1,0 +1,71 @@
+{
+  "id": 874245733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.445712,44.233251,-72.445712,44.233251",
+    "geom:latitude":44.233251,
+    "geom:longitude":-72.445712,
+    "iso:country":"US",
+    "sg:address":"250 Gonyeau Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 5200",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TCcgVQXkJKsBssmb6Oul5_44.233251_-72.445712@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313449,
+    "wof:geomhash":"ea4f8a1023510478da0e0e00fe2be0d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874245733
+        }
+    ],
+    "wof:id":874245733,
+    "wof:lastmodified":1464313449,
+    "wof:name":"Hogan For Governor",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -72.445712,
+    44.233251,
+    -72.445712,
+    44.233251
+],
+  "geometry": {"coordinates":[-72.445712,44.233251],"type":"Point"}
+}

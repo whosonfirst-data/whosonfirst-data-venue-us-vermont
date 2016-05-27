@@ -1,0 +1,69 @@
+{
+  "id": 874020135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.139101,44.723407,-73.139101,44.723407",
+    "geom:latitude":44.723407,
+    "geom:longitude":-73.139101,
+    "iso:country":"US",
+    "sg:address":"1226 Plains Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 9021",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y8qBFwPOVN7IOLVdzBtkS_44.723407_-73.139101@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310950,
+    "wof:geomhash":"f95e42f2246600e3ba818a061143e976",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874020135
+        }
+    ],
+    "wof:id":874020135,
+    "wof:lastmodified":1464310950,
+    "wof:name":"Cindys Barber Shop",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.139101,
+    44.723407,
+    -73.139101,
+    44.723407
+],
+  "geometry": {"coordinates":[-73.139101,44.723407],"type":"Point"}
+}

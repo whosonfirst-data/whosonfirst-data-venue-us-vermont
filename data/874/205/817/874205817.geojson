@@ -1,0 +1,71 @@
+{
+  "id": 874205817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.170144,44.016018,-73.170144,44.016018",
+    "geom:latitude":44.016018,
+    "geom:longitude":-73.170144,
+    "iso:country":"US",
+    "sg:address":"63 Maple St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 0566",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FkP8OJPJW5VnG1GVFAyQD_44.016018_-73.170144@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312902,
+    "wof:geomhash":"4927917d0532c54898f3e020dcb8baf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874205817
+        }
+    ],
+    "wof:id":874205817,
+    "wof:lastmodified":1464312902,
+    "wof:name":"Nancy La Croix",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -73.170144,
+    44.016018,
+    -73.170144,
+    44.016018
+],
+  "geometry": {"coordinates":[-73.17014399999999,44.016018],"type":"Point"}
+}

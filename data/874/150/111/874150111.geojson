@@ -1,0 +1,80 @@
+{
+  "id": 874150111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.127612,44.585933,-73.127612,44.585933",
+    "geom:latitude":44.585933,
+    "geom:longitude":-73.127612,
+    "iso:country":"US",
+    "sg:address":"66 Gardeners Rd",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 4235",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "sg:website":"www.vermontwellandpump.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420545841,
+        102191575,
+        404527495,
+        85633793,
+        101728445,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ndE6MAFyl228QvIWOzQPz_44.585933_-73.127612@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312329,
+    "wof:geomhash":"2c0db0687a984cfedf8e94c245e66f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527495,
+            "locality_id":101728445,
+            "neighbourhood_id":420545841,
+            "region_id":85688763,
+            "venue_id":874150111
+        }
+    ],
+    "wof:id":874150111,
+    "wof:lastmodified":1464312329,
+    "wof:name":"Vermont Well and Pump",
+    "wof:parent_id":420545841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -73.127612,
+    44.585933,
+    -73.127612,
+    44.585933
+],
+  "geometry": {"coordinates":[-73.127612,44.585933],"type":"Point"}
+}

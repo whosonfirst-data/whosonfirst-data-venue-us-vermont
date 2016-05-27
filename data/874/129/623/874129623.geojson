@@ -1,0 +1,66 @@
+{
+  "id": 874129623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.311211,44.402477,-72.311211,44.402477",
+    "geom:latitude":44.402477,
+    "geom:longitude":-72.311211,
+    "iso:country":"US",
+    "sg:address":"3075 Main St",
+    "sg:city":"Cabot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 563 2599",
+    "sg:postcode":"05647",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yNEMK5lPAZy1tXeigA1qB_44.402477_-72.311211@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312130,
+    "wof:geomhash":"4baf0c165adc361fa3d71c656c0e2be5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874129623
+        }
+    ],
+    "wof:id":874129623,
+    "wof:lastmodified":1464312130,
+    "wof:name":"Main Street Cabot",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.311211,
+    44.402477,
+    -72.311211,
+    44.402477
+],
+  "geometry": {"coordinates":[-72.311211,44.402477],"type":"Point"}
+}

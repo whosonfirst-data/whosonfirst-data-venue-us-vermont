@@ -1,0 +1,71 @@
+{
+  "id": 874148817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.982006,43.619762,-72.982006,43.619762",
+    "geom:latitude":43.619762,
+    "geom:longitude":-72.982006,
+    "iso:country":"US",
+    "sg:address":"2 Meadow Ln",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 2863",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18wGHPeWqXnhQ3dThwZKSO_43.619762_-72.982006@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312318,
+    "wof:geomhash":"59f266ebe3dc6bc09edb510084391c1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874148817
+        }
+    ],
+    "wof:id":874148817,
+    "wof:lastmodified":1464312318,
+    "wof:name":"WFTF",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -72.982006,
+    43.619762,
+    -72.982006,
+    43.619762
+],
+  "geometry": {"coordinates":[-72.982006,43.619762],"type":"Point"}
+}

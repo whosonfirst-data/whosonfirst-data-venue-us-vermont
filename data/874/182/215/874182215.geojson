@@ -1,0 +1,71 @@
+{
+  "id": 874182215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.220723,44.460525,-73.220723,44.460525",
+    "geom:latitude":44.460525,
+    "geom:longitude":-73.220723,
+    "iso:country":"US",
+    "sg:address":"14 Central Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 1109",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CqEREVYrnpePva6TCoQjL_44.460525_-73.220723@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312652,
+    "wof:geomhash":"8ce67ccb74b97bef13369e228df81ecc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874182215
+        }
+    ],
+    "wof:id":874182215,
+    "wof:lastmodified":1464312652,
+    "wof:name":"Freiheit Construction",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -73.220723,
+    44.460525,
+    -73.220723,
+    44.460525
+],
+  "geometry": {"coordinates":[-73.22072300000001,44.460525],"type":"Point"}
+}

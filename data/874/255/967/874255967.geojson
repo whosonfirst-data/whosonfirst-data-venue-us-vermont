@@ -1,0 +1,90 @@
+{
+  "id": 874255967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.96817,43.585487,-72.96817,43.585487",
+    "geom:latitude":43.585487,
+    "geom:longitude":-72.96817,
+    "iso:country":"US",
+    "sg:address":"312 US Route 7 S",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"Aquarium",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 4070",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "food",
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ],
+    "sg:website":"http://www.petco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w9yP73Usms5GY6eiabOoa_43.585487_-72.968170@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313696,
+    "wof:geomhash":"7cbc5b34196704f84158a3ca42aaa202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255967
+        }
+    ],
+    "wof:id":874255967,
+    "wof:lastmodified":1464313696,
+    "wof:name":"PETCO",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ]
+},
+  "bbox": [
+    -72.96817,
+    43.585487,
+    -72.96817,
+    43.585487
+],
+  "geometry": {"coordinates":[-72.96817,43.585487],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874251429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.192322,42.87912,-73.192322,42.87912",
+    "geom:latitude":42.87912,
+    "geom:longitude":-73.192322,
+    "iso:country":"US",
+    "sg:address":"301 Pleasant St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 688 3940",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "roofing",
+        "industrial",
+        "contractors-commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F1s4J6mGxOQYcjMgxsIGn_42.879120_-73.192322@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313593,
+    "wof:geomhash":"bf03c9cb63d5f09e03b95015ee396716",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251429
+        }
+    ],
+    "wof:id":874251429,
+    "wof:lastmodified":1464313593,
+    "wof:name":"Stevens Roofing & Siding",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "industrial",
+        "contractors-commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.192322,
+    42.87912,
+    -73.192322,
+    42.87912
+],
+  "geometry": {"coordinates":[-73.192322,42.87912],"type":"Point"}
+}

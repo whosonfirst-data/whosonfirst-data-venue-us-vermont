@@ -1,0 +1,69 @@
+{
+  "id": 874087379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.107669,44.69542,-73.107669,44.69542",
+    "geom:latitude":44.69542,
+    "geom:longitude":-73.107669,
+    "iso:country":"US",
+    "sg:address":"1207 Ethan Allen Hwy",
+    "sg:city":"Fairfax",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 527 0601",
+    "sg:postcode":"05454",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uarLipMStADslYUDPAfgo_44.695420_-73.107669@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311635,
+    "wof:geomhash":"3a0dc20e4bdd5f05fd1eb3f31db190da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874087379
+        }
+    ],
+    "wof:id":874087379,
+    "wof:lastmodified":1464311635,
+    "wof:name":"Maplefield's At Georgia",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -73.107669,
+    44.69542,
+    -73.107669,
+    44.69542
+],
+  "geometry": {"coordinates":[-73.107669,44.69542],"type":"Point"}
+}

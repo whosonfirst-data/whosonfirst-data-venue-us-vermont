@@ -1,0 +1,72 @@
+{
+  "id": 874100473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.793505,43.6366,-72.793505,43.6366",
+    "geom:latitude":43.6366,
+    "geom:longitude":-72.793505,
+    "iso:country":"US",
+    "sg:address":"2808 Killington Rd",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 422 9447",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "skiing"
+    ],
+    "sg:website":"www.peakskishop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848249,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CRj6YMQIPXnwGUmjeRNtr_43.636600_-72.793505@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311801,
+    "wof:geomhash":"461ac533f052806d88238248a4d91df6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":874100473
+        }
+    ],
+    "wof:id":874100473,
+    "wof:lastmodified":1464311801,
+    "wof:name":"Peak Performance Ski Shop",
+    "wof:parent_id":85848249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -72.793505,
+    43.6366,
+    -72.793505,
+    43.6366
+],
+  "geometry": {"coordinates":[-72.793505,43.6366],"type":"Point"}
+}

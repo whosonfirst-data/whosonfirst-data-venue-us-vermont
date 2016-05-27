@@ -1,0 +1,71 @@
+{
+  "id": 874117903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.258281,44.166038,-73.258281,44.166038",
+    "geom:latitude":44.166038,
+    "geom:longitude":-73.258281,
+    "iso:country":"US",
+    "sg:address":"7 Canal St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2440",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nDBJ31JA4IfgtBoJ1gPuY_44.166038_-73.258281@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312014,
+    "wof:geomhash":"fdce8ffa958886da67bc23fe28daa9e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874117903
+        }
+    ],
+    "wof:id":874117903,
+    "wof:lastmodified":1464312014,
+    "wof:name":"Vergennes Panton Water Dist",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -73.258281,
+    44.166038,
+    -73.258281,
+    44.166038
+],
+  "geometry": {"coordinates":[-73.258281,44.166038],"type":"Point"}
+}

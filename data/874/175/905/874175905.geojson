@@ -1,0 +1,73 @@
+{
+  "id": 874175905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.139757,43.990886,-73.139757,43.990886",
+    "geom:latitude":43.990886,
+    "geom:longitude":-73.139757,
+    "iso:country":"US",
+    "sg:address":"1020 US Hwy 7",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4045",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uw8VGyqQF21yCP9o95sB1_43.990886_-73.139757@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312587,
+    "wof:geomhash":"4f2de8ff186942990c3c1608f9abfb7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874175905
+        }
+    ],
+    "wof:id":874175905,
+    "wof:lastmodified":1464312587,
+    "wof:name":"Public Works",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -73.139757,
+    43.990886,
+    -73.139757,
+    43.990886
+],
+  "geometry": {"coordinates":[-73.139757,43.990886],"type":"Point"}
+}

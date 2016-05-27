@@ -1,0 +1,73 @@
+{
+  "id": 874196807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.24137,44.112861,-73.24137,44.112861",
+    "geom:latitude":44.112861,
+    "geom:longitude":-73.24137,
+    "iso:country":"US",
+    "sg:address":"3613 Maple St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 0019",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "development",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZWqrKcM4ETLIiXTme1742_44.112861_-73.241370@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312813,
+    "wof:geomhash":"e20cc20db7491e782e62112c61b773d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874196807
+        }
+    ],
+    "wof:id":874196807,
+    "wof:lastmodified":1464312813,
+    "wof:name":"Renaissance Development Co",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -73.24137,
+    44.112861,
+    -73.24137,
+    44.112861
+],
+  "geometry": {"coordinates":[-73.24137,44.112861],"type":"Point"}
+}

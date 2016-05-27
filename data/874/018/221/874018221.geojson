@@ -1,0 +1,71 @@
+{
+  "id": 874018221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.594103,43.724072,-72.594103,43.724072",
+    "geom:latitude":43.724072,
+    "geom:longitude":-72.594103,
+    "iso:country":"US",
+    "sg:address":"79 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 7575",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FzoKS6xWFDI6VSZ9Jxo8Z_43.724072_-72.594103@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310930,
+    "wof:geomhash":"ae292434ac88748d6c6d864e72d9b97b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874018221
+        }
+    ],
+    "wof:id":874018221,
+    "wof:lastmodified":1464310930,
+    "wof:name":"Gifford Medical Ctr",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.594103,
+    43.724072,
+    -72.594103,
+    43.724072
+],
+  "geometry": {"coordinates":[-72.594103,43.724072],"type":"Point"}
+}

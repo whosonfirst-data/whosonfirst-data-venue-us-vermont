@@ -1,0 +1,71 @@
+{
+  "id": 874059405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180943,44.027926,-73.180943,44.027926",
+    "geom:latitude":44.027926,
+    "geom:longitude":-73.180943,
+    "iso:country":"US",
+    "sg:address":"225 Morgan Horse Farm Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7652",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fRjVuu64ivsJfgOTnagoo_44.027926_-73.180943@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311330,
+    "wof:geomhash":"52e7fbafa1258a2219d99bec35e43967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874059405
+        }
+    ],
+    "wof:id":874059405,
+    "wof:lastmodified":1464311330,
+    "wof:name":"Davignon Garage",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -73.180943,
+    44.027926,
+    -73.180943,
+    44.027926
+],
+  "geometry": {"coordinates":[-73.180943,44.027926],"type":"Point"}
+}

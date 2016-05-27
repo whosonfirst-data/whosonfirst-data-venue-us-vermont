@@ -1,0 +1,83 @@
+{
+  "id": 874249733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.973511,43.600899,-72.973511,43.600899",
+    "geom:latitude":43.600899,
+    "geom:longitude":-72.973511,
+    "iso:country":"US",
+    "sg:address":"1 Scale Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 663 4817",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "replacement",
+        "glass"
+    ],
+    "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9247233%3a13%3a4859924%3a14%3a0%3a7",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hNFrTtAkdX1MT2YXNInZT_43.600792_-72.973700@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313558,
+    "wof:geomhash":"b83d7234d01ccaeee848508ca413f4c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874249733
+        }
+    ],
+    "wof:id":874249733,
+    "wof:lastmodified":1464313558,
+    "wof:name":"Windshield World",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "replacement",
+        "glass"
+    ]
+},
+  "bbox": [
+    -72.973511,
+    43.600899,
+    -72.973511,
+    43.600899
+],
+  "geometry": {"coordinates":[-72.973511,43.600899],"type":"Point"}
+}

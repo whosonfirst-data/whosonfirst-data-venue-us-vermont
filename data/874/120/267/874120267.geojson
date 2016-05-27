@@ -1,0 +1,71 @@
+{
+  "id": 874120267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.723121,44.966526,-72.723121,44.966526",
+    "geom:latitude":44.966526,
+    "geom:longitude":-72.723121,
+    "iso:country":"US",
+    "sg:address":"1503 King Rd",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 848 3751",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "auto",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r5a1m3xvVhhNoHlUkGDY7_44.966526_-72.723121@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312043,
+    "wof:geomhash":"ded63ad5b0dc794dba426bc0e8c6f058",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874120267
+        }
+    ],
+    "wof:id":874120267,
+    "wof:lastmodified":1464312043,
+    "wof:name":"Kings Garage",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.723121,
+    44.966526,
+    -72.723121,
+    44.966526
+],
+  "geometry": {"coordinates":[-72.72312100000001,44.966526],"type":"Point"}
+}

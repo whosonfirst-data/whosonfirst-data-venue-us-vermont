@@ -1,0 +1,71 @@
+{
+  "id": 874110523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.675338,44.18913,-72.675338,44.18913",
+    "geom:latitude":44.18913,
+    "geom:longitude":-72.675338,
+    "iso:country":"US",
+    "sg:address":"1992 Cox Brook Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 7434",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rhLGEvCfyRWLMv4T0C5fM_44.189130_-72.675338@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311929,
+    "wof:geomhash":"2b28b04d0d4e280c66254ae943e82ce5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874110523
+        }
+    ],
+    "wof:id":874110523,
+    "wof:lastmodified":1464311929,
+    "wof:name":"Jenkinson Building & Rmdlng",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.675338,
+    44.18913,
+    -72.675338,
+    44.18913
+],
+  "geometry": {"coordinates":[-72.675338,44.18913],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874003267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.24524,44.295115,-73.24524,44.295115",
+    "geom:latitude":44.295115,
+    "geom:longitude":-73.24524,
+    "iso:country":"US",
+    "sg:address":"140 Wesley Dr",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 2860",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85811695,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZTHuVbQ8ybMqPdmN3bVWG_44.295115_-73.245240@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310795,
+    "wof:geomhash":"87fdc95923b194f5bd248bd7beb755cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85811695,
+            "region_id":85688763,
+            "venue_id":874003267
+        }
+    ],
+    "wof:id":874003267,
+    "wof:lastmodified":1464310795,
+    "wof:name":"Wildwood Taxidermy",
+    "wof:parent_id":85811695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -73.24524,
+    44.295115,
+    -73.24524,
+    44.295115
+],
+  "geometry": {"coordinates":[-73.24524,44.295115],"type":"Point"}
+}

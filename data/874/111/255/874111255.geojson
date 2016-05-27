@@ -1,0 +1,73 @@
+{
+  "id": 874111255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.134131,44.6933,-73.134131,44.6933",
+    "geom:latitude":44.6933,
+    "geom:longitude":-73.134131,
+    "iso:country":"US",
+    "sg:address":"312 Austin Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 0192",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "video",
+        "game",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HQWGJGAnfEolHPN0rpZJP_44.693300_-73.134131@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311944,
+    "wof:geomhash":"412fe35b4f7d82e4ea2dc36b2300a5c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874111255
+        }
+    ],
+    "wof:id":874111255,
+    "wof:lastmodified":1464311944,
+    "wof:name":"Circle Three M Inc",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "game",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -73.134131,
+    44.6933,
+    -73.134131,
+    44.6933
+],
+  "geometry": {"coordinates":[-73.134131,44.6933],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874104279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.514139,43.400404,-72.514139,43.400404",
+    "geom:latitude":43.400404,
+    "geom:longitude":-72.514139,
+    "iso:country":"US",
+    "sg:address":"7056 State Rte 131",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 9262",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "industrial",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zDlzstbB6GlCINfjsqVGD_43.400404_-72.514139@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311848,
+    "wof:geomhash":"fd8ffa08651e5c50dc23b1f84a35b6cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874104279
+        }
+    ],
+    "wof:id":874104279,
+    "wof:lastmodified":1464311848,
+    "wof:name":"Anytime Maintenance",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -72.514139,
+    43.400404,
+    -72.514139,
+    43.400404
+],
+  "geometry": {"coordinates":[-72.514139,43.400404],"type":"Point"}
+}

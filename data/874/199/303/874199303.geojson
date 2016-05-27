@@ -1,0 +1,71 @@
+{
+  "id": 874199303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.026119,43.595927,-73.026119,43.595927",
+    "geom:latitude":43.595927,
+    "geom:longitude":-73.026119,
+    "iso:country":"US",
+    "sg:address":"211 Rutland Rd",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 5676",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "motorcycle",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jg1g3j11hz25HuYLwdBtQ_43.595927_-73.026119@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312837,
+    "wof:geomhash":"5eb46ca6f23844b5c9308bbef2cfb155",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874199303
+        }
+    ],
+    "wof:id":874199303,
+    "wof:lastmodified":1464312837,
+    "wof:name":"Kellers Autocycle",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorcycle",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.026119,
+    43.595927,
+    -73.026119,
+    43.595927
+],
+  "geometry": {"coordinates":[-73.02611899999999,43.595927],"type":"Point"}
+}

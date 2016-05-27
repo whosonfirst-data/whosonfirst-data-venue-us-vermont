@@ -1,0 +1,71 @@
+{
+  "id": 874043331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.126156,43.851396,-73.126156,43.851396",
+    "geom:latitude":43.851396,
+    "geom:longitude":-73.126156,
+    "iso:country":"US",
+    "sg:address":"825 Swinington Hill Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 9044",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nFd2itknmX6CxlFJw5njI_43.851396_-73.126156@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311179,
+    "wof:geomhash":"d0298b5deb153059b68928f9056e6bc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874043331
+        }
+    ],
+    "wof:id":874043331,
+    "wof:lastmodified":1464311179,
+    "wof:name":"D Construction",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.126156,
+    43.851396,
+    -73.126156,
+    43.851396
+],
+  "geometry": {"coordinates":[-73.12615599999999,43.851396],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874080925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.128566,43.917577,-72.128566,43.917577",
+    "geom:latitude":43.917577,
+    "geom:longitude":-72.128566,
+    "iso:country":"US",
+    "sg:address":"1732 Main St",
+    "sg:city":"Quechee",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 1999",
+    "sg:postcode":"05045",
+    "sg:province":"VT",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e6yPia3xteUCRzx07n8bk_43.917577_-72.128566@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311562,
+    "wof:geomhash":"57b7e6d8aa40314953c8ecd3895a2374",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874080925
+        }
+    ],
+    "wof:id":874080925,
+    "wof:lastmodified":1464311562,
+    "wof:name":"Quechee Associates Real Estate",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -72.128566,
+    43.917577,
+    -72.128566,
+    43.917577
+],
+  "geometry": {"coordinates":[-72.12856600000001,43.917577],"type":"Point"}
+}

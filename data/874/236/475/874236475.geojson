@@ -1,0 +1,73 @@
+{
+  "id": 874236475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015185,44.458729,-72.015185,44.458729",
+    "geom:latitude":44.458729,
+    "geom:longitude":-72.015185,
+    "iso:country":"US",
+    "sg:address":"1733 Memorial Dr",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 0333",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4acZVTsAslhirwLTSejAaF_44.458729_-72.015185@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313271,
+    "wof:geomhash":"ff9c7c9c25518a166139df1c4c1f6f9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874236475
+        }
+    ],
+    "wof:id":874236475,
+    "wof:lastmodified":1464313271,
+    "wof:name":"White Mountain Auto Broker",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.015185,
+    44.458729,
+    -72.015185,
+    44.458729
+],
+  "geometry": {"coordinates":[-72.015185,44.458729],"type":"Point"}
+}

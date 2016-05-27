@@ -1,0 +1,73 @@
+{
+  "id": 874102159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.990664,44.403943,-72.990664,44.403943",
+    "geom:latitude":44.403943,
+    "geom:longitude":-72.990664,
+    "iso:country":"US",
+    "sg:address":"157 E Main St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 3888",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42gfp6vy5nOY6M7uNj1TSb_44.403943_-72.990664@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311820,
+    "wof:geomhash":"36a39cef0c80f7b2117a621b2441c111",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874102159
+        }
+    ],
+    "wof:id":874102159,
+    "wof:lastmodified":1464311820,
+    "wof:name":"Richmond Upholstery",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    -72.990664,
+    44.403943,
+    -72.990664,
+    44.403943
+],
+  "geometry": {"coordinates":[-72.990664,44.403943],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874239571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.049379,44.296742,-72.049379,44.296742",
+    "geom:latitude":44.296742,
+    "geom:longitude":-72.049379,
+    "iso:country":"US",
+    "sg:address":"30 Monument Cir",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 4000",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wGVXbGBk1zSKl2Q6TNEoU_44.296742_-72.049379@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313332,
+    "wof:geomhash":"315c418ffcf90ff0674060f2492da959",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874239571
+        }
+    ],
+    "wof:id":874239571,
+    "wof:lastmodified":1464313332,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.049379,
+    44.296742,
+    -72.049379,
+    44.296742
+],
+  "geometry": {"coordinates":[-72.049379,44.296742],"type":"Point"}
+}

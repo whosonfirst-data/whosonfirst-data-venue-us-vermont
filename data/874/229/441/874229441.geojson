@@ -1,0 +1,64 @@
+{
+  "id": 874229441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.53711,43.455141,-72.53711,43.455141",
+    "geom:latitude":43.455141,
+    "geom:longitude":-72.53711,
+    "iso:country":"US",
+    "sg:address":"776 State Rte 106",
+    "sg:city":"Reading",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 484 5005",
+    "sg:postcode":"05062",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jJPOEme0je8g2KlNUslWR_43.455141_-72.537110@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313155,
+    "wof:geomhash":"d6394412d3cacbff6e5074aaf7f3b93e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874229441
+        }
+    ],
+    "wof:id":874229441,
+    "wof:lastmodified":1464313155,
+    "wof:name":"Reading Hardware",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.53711,
+    43.455141,
+    -72.53711,
+    43.455141
+],
+  "geometry": {"coordinates":[-72.53711,43.455141],"type":"Point"}
+}

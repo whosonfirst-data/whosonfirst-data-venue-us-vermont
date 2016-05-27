@@ -1,0 +1,71 @@
+{
+  "id": 874045131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.168767,44.459755,-73.168767,44.459755",
+    "geom:latitude":44.459755,
+    "geom:longitude":-73.168767,
+    "iso:country":"US",
+    "sg:address":"13 Wright Ct",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 3796",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cld1VfoheEssaqLGhEVfr_44.459755_-73.168767@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311196,
+    "wof:geomhash":"4029d91e1f52c8acd97208cab693b640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874045131
+        }
+    ],
+    "wof:id":874045131,
+    "wof:lastmodified":1464311196,
+    "wof:name":"C G M B Services",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.168767,
+    44.459755,
+    -73.168767,
+    44.459755
+],
+  "geometry": {"coordinates":[-73.168767,44.459755],"type":"Point"}
+}

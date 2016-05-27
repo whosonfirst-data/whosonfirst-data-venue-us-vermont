@@ -1,0 +1,69 @@
+{
+  "id": 874246647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.591076,43.724283,-72.591076,43.724283",
+    "geom:latitude":43.724283,
+    "geom:longitude":-72.591076,
+    "iso:country":"US",
+    "sg:address":"324 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 7847",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mvoTvh2ByJ9yQVQ4TBvX7_43.724283_-72.591076@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313465,
+    "wof:geomhash":"426a52184bc448b96d7db6ed7997c4f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874246647
+        }
+    ],
+    "wof:id":874246647,
+    "wof:lastmodified":1464313465,
+    "wof:name":"DCI Corp Sawmill",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -72.591076,
+    43.724283,
+    -72.591076,
+    43.724283
+],
+  "geometry": {"coordinates":[-72.591076,43.724283],"type":"Point"}
+}

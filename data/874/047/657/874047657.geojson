@@ -1,0 +1,69 @@
+{
+  "id": 874047657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.107733,44.492524,-73.107733,44.492524",
+    "geom:latitude":44.492524,
+    "geom:longitude":-73.107733,
+    "iso:country":"US",
+    "sg:address":"48 Main St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 4664",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GjtFAo2L7yxnCDiObHoyb_44.492524_-73.107733@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311220,
+    "wof:geomhash":"22f8f1246d34e30086e58c2da808e113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874047657
+        }
+    ],
+    "wof:id":874047657,
+    "wof:lastmodified":1464311220,
+    "wof:name":"Richard E Bellino DDS",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.107733,
+    44.492524,
+    -73.107733,
+    44.492524
+],
+  "geometry": {"coordinates":[-73.107733,44.492524],"type":"Point"}
+}

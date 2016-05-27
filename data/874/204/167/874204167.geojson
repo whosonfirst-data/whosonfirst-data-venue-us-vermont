@@ -1,0 +1,71 @@
+{
+  "id": 874204167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.802771,44.911465,-72.802771,44.911465",
+    "geom:latitude":44.911465,
+    "geom:longitude":-72.802771,
+    "iso:country":"US",
+    "sg:address":"149 Main St",
+    "sg:city":"Enosburg Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 9955",
+    "sg:postcode":"05450",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CXN9O0wkMiY2weQSjDWeH_44.911465_-72.802771@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312885,
+    "wof:geomhash":"0361c5b6fbe86c9473256c365453408d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874204167
+        }
+    ],
+    "wof:id":874204167,
+    "wof:lastmodified":1464312885,
+    "wof:name":"Choice Physical Therapy",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -72.802771,
+    44.911465,
+    -72.802771,
+    44.911465
+],
+  "geometry": {"coordinates":[-72.80277100000001,44.911465],"type":"Point"}
+}

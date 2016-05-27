@@ -1,0 +1,69 @@
+{
+  "id": 874241787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.024218,43.596672,-73.024218,43.596672",
+    "geom:latitude":43.596672,
+    "geom:longitude":-73.024218,
+    "iso:country":"US",
+    "sg:address":"74 Rutland Rd",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 2916",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HqFCiEGhisiOls9HBgIt5_43.596672_-73.024218@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313374,
+    "wof:geomhash":"ab617b6564f7be89f0212a3c10727085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874241787
+        }
+    ],
+    "wof:id":874241787,
+    "wof:lastmodified":1464313374,
+    "wof:name":"Northeast Timber Exchange",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -73.024218,
+    43.596672,
+    -73.024218,
+    43.596672
+],
+  "geometry": {"coordinates":[-73.024218,43.596672],"type":"Point"}
+}

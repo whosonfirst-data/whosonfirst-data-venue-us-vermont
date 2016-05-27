@@ -1,0 +1,72 @@
+{
+  "id": 874165643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.513969,44.208177,-72.513969,44.208177",
+    "geom:latitude":44.208177,
+    "geom:longitude":-72.513969,
+    "iso:country":"US",
+    "sg:address":"540 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0191",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.timesargus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sLJdUPSPLsjo6ybXYr2Xx_44.208177_-72.513969@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312486,
+    "wof:geomhash":"26f949eb1361f3ae2995c6439b9331e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874165643
+        }
+    ],
+    "wof:id":874165643,
+    "wof:lastmodified":1464312486,
+    "wof:name":"Times Argus/Country Courier",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -72.513969,
+    44.208177,
+    -72.513969,
+    44.208177
+],
+  "geometry": {"coordinates":[-72.513969,44.208177],"type":"Point"}
+}

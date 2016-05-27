@@ -1,0 +1,71 @@
+{
+  "id": 874208221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.560859,44.249101,-72.560859,44.249101",
+    "geom:latitude":44.249101,
+    "geom:longitude":-72.560859,
+    "iso:country":"US",
+    "sg:address":"141 River St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 6745",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "decal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MM7LowBbR3v7UaQpIBc6O_44.249101_-72.560859@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312931,
+    "wof:geomhash":"374a1c8384dc036179cec4c91c4007d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874208221
+        }
+    ],
+    "wof:id":874208221,
+    "wof:lastmodified":1464312931,
+    "wof:name":"Beavin & Son's",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decal"
+    ]
+},
+  "bbox": [
+    -72.560859,
+    44.249101,
+    -72.560859,
+    44.249101
+],
+  "geometry": {"coordinates":[-72.56085899999999,44.249101],"type":"Point"}
+}

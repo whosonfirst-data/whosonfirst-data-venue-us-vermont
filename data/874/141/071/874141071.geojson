@@ -1,0 +1,73 @@
+{
+  "id": 874141071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.838089,44.342825,-72.838089,44.342825",
+    "geom:latitude":44.342825,
+    "geom:longitude":-72.838089,
+    "iso:country":"US",
+    "sg:address":"129 Maple St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 244 7486",
+    "sg:postcode":"05676",
+    "sg:province":"VT",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815147,
+        102080779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17TSsGGTuBwh4R7TtOVHuE_44.342825_-72.838089@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312244,
+    "wof:geomhash":"00119791d9fbee0310a72ad5f135bf44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "neighbourhood_id":85815147,
+            "region_id":85688763,
+            "venue_id":874141071
+        }
+    ],
+    "wof:id":874141071,
+    "wof:lastmodified":1464312244,
+    "wof:name":"Hunger Mountain Inn",
+    "wof:parent_id":85815147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -72.838089,
+    44.342825,
+    -72.838089,
+    44.342825
+],
+  "geometry": {"coordinates":[-72.838089,44.342825],"type":"Point"}
+}

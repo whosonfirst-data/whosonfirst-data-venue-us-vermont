@@ -1,0 +1,73 @@
+{
+  "id": 874001389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.592347,44.55422,-72.592347,44.55422",
+    "geom:latitude":44.55422,
+    "geom:longitude":-72.592347,
+    "iso:country":"US",
+    "sg:address":"530 Washington Hwy",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 8405",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "orthopedic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tl1c3Y6ilRMkAZlIOvtMy_44.554220_-72.592347@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310770,
+    "wof:geomhash":"847844a9fd373f4d557c70f95e011a13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874001389
+        }
+    ],
+    "wof:id":874001389,
+    "wof:lastmodified":1464310770,
+    "wof:name":"Mansfield Orthopaedics",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "orthopedic"
+    ]
+},
+  "bbox": [
+    -72.592347,
+    44.55422,
+    -72.592347,
+    44.55422
+],
+  "geometry": {"coordinates":[-72.592347,44.55422],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874144141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111853,44.495496,-73.111853,44.495496",
+    "geom:latitude":44.495496,
+    "geom:longitude":-73.111853,
+    "iso:country":"US",
+    "sg:address":"42 Lincoln St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 7172",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aMTKY3y90sqhC533GfctO_44.495496_-73.111853@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312273,
+    "wof:geomhash":"c7b1f98f55c47f6ffd8a0c0b5a0e0794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874144141
+        }
+    ],
+    "wof:id":874144141,
+    "wof:lastmodified":1464312273,
+    "wof:name":"Mappin Lab Inc",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -73.111853,
+    44.495496,
+    -73.111853,
+    44.495496
+],
+  "geometry": {"coordinates":[-73.111853,44.495496],"type":"Point"}
+}

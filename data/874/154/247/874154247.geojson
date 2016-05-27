@@ -1,0 +1,69 @@
+{
+  "id": 874154247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.983741,43.607566,-72.983741,43.607566",
+    "geom:latitude":43.607566,
+    "geom:longitude":-72.983741,
+    "iso:country":"US",
+    "sg:address":"191 West St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 1029",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WfLT3sRTRSlqazmzBiViO_43.607566_-72.983741@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312369,
+    "wof:geomhash":"2e847a9f771f7a46e27863c38add8207",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874154247
+        }
+    ],
+    "wof:id":874154247,
+    "wof:lastmodified":1464312369,
+    "wof:name":"Quik Print",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -72.983741,
+    43.607566,
+    -72.983741,
+    43.607566
+],
+  "geometry": {"coordinates":[-72.98374099999999,43.607566],"type":"Point"}
+}

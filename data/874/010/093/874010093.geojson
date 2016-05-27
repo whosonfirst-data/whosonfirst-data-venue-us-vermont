@@ -1,0 +1,73 @@
+{
+  "id": 874010093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169367,44.013075,-73.169367,44.013075",
+    "geom:latitude":44.013075,
+    "geom:longitude":-73.169367,
+    "iso:country":"US",
+    "sg:address":"2 Park St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 6396",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xP5LkvLRmGoCBeDpVy354_44.013075_-73.169367@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310856,
+    "wof:geomhash":"63362c8eb0b351ff5965dd64227ee047",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874010093
+        }
+    ],
+    "wof:id":874010093,
+    "wof:lastmodified":1464310856,
+    "wof:name":"Round Robin",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -73.169367,
+    44.013075,
+    -73.169367,
+    44.013075
+],
+  "geometry": {"coordinates":[-73.16936699999999,44.013075],"type":"Point"}
+}

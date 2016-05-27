@@ -1,0 +1,73 @@
+{
+  "id": 874075673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.06991,44.367916,-72.06991,44.367916",
+    "geom:latitude":44.367916,
+    "geom:longitude":-72.06991,
+    "iso:country":"US",
+    "sg:address":"1333 Brook Hill Rd",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 5626",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O3Hysgx8HcjjQoMXWybLL_44.367916_-72.069910@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311508,
+    "wof:geomhash":"e2da07971a8b9cb5e8c51dc458cedfac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874075673
+        }
+    ],
+    "wof:id":874075673,
+    "wof:lastmodified":1464311508,
+    "wof:name":"Melody Hill Farm",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -72.06991,
+    44.367916,
+    -72.06991,
+    44.367916
+],
+  "geometry": {"coordinates":[-72.06990999999999,44.367916],"type":"Point"}
+}

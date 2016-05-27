@@ -1,0 +1,73 @@
+{
+  "id": 874152287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.176098,44.495285,-73.176098,44.495285",
+    "geom:latitude":44.495285,
+    "geom:longitude":-73.176098,
+    "iso:country":"US",
+    "sg:address":"255 Lafountain St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 0607",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49QqgcyEFszAjZs0tBqlW4_44.495285_-73.176098@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312349,
+    "wof:geomhash":"f674223712d2f5de06d0952615c1fe80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874152287
+        }
+    ],
+    "wof:id":874152287,
+    "wof:lastmodified":1464312349,
+    "wof:name":"US Army Recruiting",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -73.176098,
+    44.495285,
+    -73.176098,
+    44.495285
+],
+  "geometry": {"coordinates":[-73.176098,44.495285],"type":"Point"}
+}

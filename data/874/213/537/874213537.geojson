@@ -1,0 +1,71 @@
+{
+  "id": 874213537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.089008,43.799616,-73.089008,43.799616",
+    "geom:latitude":43.799616,
+    "geom:longitude":-73.089008,
+    "iso:country":"US",
+    "sg:address":"37 Center St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3118",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LQ37uH281aNGFP7re8o6A_43.799616_-73.089008@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312989,
+    "wof:geomhash":"2c2600a9d3ea5c6086243005212f4a77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874213537
+        }
+    ],
+    "wof:id":874213537,
+    "wof:lastmodified":1464312989,
+    "wof:name":"Shear Attitudes",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.089008,
+    43.799616,
+    -73.089008,
+    43.799616
+],
+  "geometry": {"coordinates":[-73.08900800000001,43.799616],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874090405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971012,43.601638,-72.971012,43.601638",
+    "geom:latitude":43.601638,
+    "geom:longitude":-72.971012,
+    "iso:country":"US",
+    "sg:address":"103 US Hwy 4",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3331",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lounge",
+        "inn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IWFEPRckcGnFxwu1GWZOE_43.601638_-72.971012@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311667,
+    "wof:geomhash":"1e67d689873a4f0afea348768264a24c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874090405
+        }
+    ],
+    "wof:id":874090405,
+    "wof:lastmodified":1464311667,
+    "wof:name":"Cortina Inn",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "inn"
+    ]
+},
+  "bbox": [
+    -72.971012,
+    43.601638,
+    -72.971012,
+    43.601638
+],
+  "geometry": {"coordinates":[-72.971012,43.601638],"type":"Point"}
+}

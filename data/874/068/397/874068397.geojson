@@ -1,0 +1,72 @@
+{
+  "id": 874068397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.113734,44.455282,-73.113734,44.455282",
+    "geom:latitude":44.455282,
+    "geom:longitude":-73.113734,
+    "iso:country":"US",
+    "sg:address":"353 Blair Park Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 847 1440",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.fahc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zZMeOPkkJO73sExqLhJFI_44.455282_-73.113734@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311417,
+    "wof:geomhash":"423367f435e1b150625ec6f387153b1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874068397
+        }
+    ],
+    "wof:id":874068397,
+    "wof:lastmodified":1464311417,
+    "wof:name":"University Pediatrics",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.113734,
+    44.455282,
+    -73.113734,
+    44.455282
+],
+  "geometry": {"coordinates":[-73.11373399999999,44.455282],"type":"Point"}
+}

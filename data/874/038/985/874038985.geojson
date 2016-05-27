@@ -1,0 +1,69 @@
+{
+  "id": 874038985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.973677,44.364996,-72.973677,44.364996",
+    "geom:latitude":44.364996,
+    "geom:longitude":-72.973677,
+    "iso:country":"US",
+    "sg:address":"2054 Dugway Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 5751",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AksRpx3X6BKgff1Vk63vS_44.364996_-72.973677@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311134,
+    "wof:geomhash":"6b15d73f973e29ee7d96701685a0b4f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874038985
+        }
+    ],
+    "wof:id":874038985,
+    "wof:lastmodified":1464311134,
+    "wof:name":"Blackfork Towing & Lockouts",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -72.973677,
+    44.364996,
+    -72.973677,
+    44.364996
+],
+  "geometry": {"coordinates":[-72.973677,44.364996],"type":"Point"}
+}

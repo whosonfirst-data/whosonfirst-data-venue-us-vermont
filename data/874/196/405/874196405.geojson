@@ -1,0 +1,75 @@
+{
+  "id": 874196405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.222228,42.907884,-73.222228,42.907884",
+    "geom:latitude":42.907884,
+    "geom:longitude":-73.222228,
+    "iso:country":"US",
+    "sg:address":"131 Hannaford Sq",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 7104",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JaCcf0PkjVCSUnxvma0tc_42.907884_-73.222228@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312809,
+    "wof:geomhash":"b3f244f4268ce6fe86a321c843badb81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874196405
+        }
+    ],
+    "wof:id":874196405,
+    "wof:lastmodified":1464312809,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -73.222228,
+    42.907884,
+    -73.222228,
+    42.907884
+],
+  "geometry": {"coordinates":[-73.222228,42.907884],"type":"Point"}
+}

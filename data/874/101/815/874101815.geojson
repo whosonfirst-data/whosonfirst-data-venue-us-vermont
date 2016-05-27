@@ -1,0 +1,71 @@
+{
+  "id": 874101815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.101516,43.896291,-73.101516,43.896291",
+    "geom:latitude":43.896291,
+    "geom:longitude":-73.101516,
+    "iso:country":"US",
+    "sg:address":"1 Prospect St",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 352 4246",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "upholstered",
+        "wood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qNKmlYL1aJYaSHv4A0IqG_43.896291_-73.101516@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311816,
+    "wof:geomhash":"7711ecad03b9f6940ecf903038fd5f2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874101815
+        }
+    ],
+    "wof:id":874101815,
+    "wof:lastmodified":1464311816,
+    "wof:name":"Otter Creek Furniture",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholstered",
+        "wood"
+    ]
+},
+  "bbox": [
+    -73.101516,
+    43.896291,
+    -73.101516,
+    43.896291
+],
+  "geometry": {"coordinates":[-73.101516,43.896291],"type":"Point"}
+}

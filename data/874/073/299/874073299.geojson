@@ -1,0 +1,73 @@
+{
+  "id": 874073299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.054186,43.178893,-73.054186,43.178893",
+    "geom:latitude":43.178893,
+    "geom:longitude":-73.054186,
+    "iso:country":"US",
+    "sg:address":"31 Memorial Ave",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 1784",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_764r4VPfZZzxIq3oC3DOvk_43.178893_-73.054186@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311483,
+    "wof:geomhash":"37ba1a148544dba5c06d728f7d2381f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874073299
+        }
+    ],
+    "wof:id":874073299,
+    "wof:lastmodified":1464311483,
+    "wof:name":"Center Hill Electronics",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -73.054186,
+    43.178893,
+    -73.054186,
+    43.178893
+],
+  "geometry": {"coordinates":[-73.054186,43.178893],"type":"Point"}
+}

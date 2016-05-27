@@ -1,0 +1,73 @@
+{
+  "id": 874077623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50527,44.200399,-72.50527,44.200399",
+    "geom:latitude":44.200399,
+    "geom:longitude":-72.50527,
+    "iso:country":"US",
+    "sg:address":"289 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 2400",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "savings",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0crbNFNcABk9uPKMq4y5RA_44.200399_-72.505270@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311525,
+    "wof:geomhash":"342d791ab61f2971c89fc39dbac61ace",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874077623
+        }
+    ],
+    "wof:id":874077623,
+    "wof:lastmodified":1464311525,
+    "wof:name":"Northfield Savings Bank",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "savings",
+        "institution"
+    ]
+},
+  "bbox": [
+    -72.50527,
+    44.200399,
+    -72.50527,
+    44.200399
+],
+  "geometry": {"coordinates":[-72.50527,44.200399],"type":"Point"}
+}

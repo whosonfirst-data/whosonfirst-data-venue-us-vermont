@@ -1,0 +1,69 @@
+{
+  "id": 874053457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.036944,44.307492,-72.036944,44.307492",
+    "geom:latitude":44.307492,
+    "geom:longitude":-72.036944,
+    "iso:country":"US",
+    "sg:address":"527 US Hwy 5",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 4117",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TZhWd2NaRQfo8n32z8heU_44.307492_-72.036944@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311273,
+    "wof:geomhash":"03dfb9bd2fcbb20586e0dcc666b66307",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874053457
+        }
+    ],
+    "wof:id":874053457,
+    "wof:lastmodified":1464311273,
+    "wof:name":"Stuff-All Taxidermy",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -72.036944,
+    44.307492,
+    -72.036944,
+    44.307492
+],
+  "geometry": {"coordinates":[-72.03694400000001,44.307492],"type":"Point"}
+}

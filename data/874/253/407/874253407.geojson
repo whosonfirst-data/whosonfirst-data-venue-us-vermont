@@ -1,0 +1,64 @@
+{
+  "id": 874253407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.191109,44.493549,-73.191109,44.493549",
+    "geom:latitude":44.493549,
+    "geom:longitude":-73.191109,
+    "iso:country":"US",
+    "sg:address":"91 Malletts Bay Ave",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 3831",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38BMtfh9XacxXm6vozS5Wg_44.493549_-73.191109@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313633,
+    "wof:geomhash":"48ee443a6172f40cab87b7416b8addcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874253407
+        }
+    ],
+    "wof:id":874253407,
+    "wof:lastmodified":1464313633,
+    "wof:name":"Winooski Auto Sales And Service",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.191109,
+    44.493549,
+    -73.191109,
+    44.493549
+],
+  "geometry": {"coordinates":[-73.191109,44.493549],"type":"Point"}
+}

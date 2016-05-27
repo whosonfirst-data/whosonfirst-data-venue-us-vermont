@@ -1,0 +1,71 @@
+{
+  "id": 874213789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.56774,44.247172,-72.56774,44.247172",
+    "geom:latitude":44.247172,
+    "geom:longitude":-72.56774,
+    "iso:country":"US",
+    "sg:address":"200 Berlin St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 0764",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00eOTp6QNdy5Y5CHOFXB08_44.247172_-72.567740@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312992,
+    "wof:geomhash":"e4adc2ae470caee8e6eb11620bfb9797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874213789
+        }
+    ],
+    "wof:id":874213789,
+    "wof:lastmodified":1464312992,
+    "wof:name":"Central Vermont Home Projects",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.56774,
+    44.247172,
+    -72.56774,
+    44.247172
+],
+  "geometry": {"coordinates":[-72.56774,44.247172],"type":"Point"}
+}

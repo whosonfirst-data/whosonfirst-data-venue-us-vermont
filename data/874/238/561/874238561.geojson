@@ -1,0 +1,71 @@
+{
+  "id": 874238561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.504402,44.201428,-72.504402,44.201428",
+    "geom:latitude":44.201428,
+    "geom:longitude":-72.504402,
+    "iso:country":"US",
+    "sg:address":"79 Summer St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3253",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EMAC9X33o3LLwhO2y1qj8_44.201428_-72.504402@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313312,
+    "wof:geomhash":"f17aeb5d199c1ed8a52f254298858532",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874238561
+        }
+    ],
+    "wof:id":874238561,
+    "wof:lastmodified":1464313312,
+    "wof:name":"St Monica's Catholic Church",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.504402,
+    44.201428,
+    -72.504402,
+    44.201428
+],
+  "geometry": {"coordinates":[-72.504402,44.201428],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874136557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206513,43.969932,-73.206513,43.969932",
+    "geom:latitude":43.969932,
+    "geom:longitude":-73.206513,
+    "iso:country":"US",
+    "sg:address":"2015 State Rte 30",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 2165",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y9a4BiM7xZNjtxgKgdOdT_43.969932_-73.206513@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312204,
+    "wof:geomhash":"7aab63d901312d1e1a4c2280963c5a24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874136557
+        }
+    ],
+    "wof:id":874136557,
+    "wof:lastmodified":1464312204,
+    "wof:name":"Mama's Llamas Farm",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.206513,
+    43.969932,
+    -73.206513,
+    43.969932
+],
+  "geometry": {"coordinates":[-73.206513,43.969932],"type":"Point"}
+}

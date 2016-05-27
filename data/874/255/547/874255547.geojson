@@ -1,0 +1,71 @@
+{
+  "id": 874255547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.382965,44.370784,-72.382965,44.370784",
+    "geom:latitude":44.370784,
+    "geom:longitude":-72.382965,
+    "iso:country":"US",
+    "sg:address":"1447 Ennis Hill Rd",
+    "sg:city":"Marshfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 426 3123",
+    "sg:postcode":"05658",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veggie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RNY00P8EdcGTh95O35f1E_44.370784_-72.382965@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313687,
+    "wof:geomhash":"81a99c6899601fa1eaf6d2b0a7a2abc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874255547
+        }
+    ],
+    "wof:id":874255547,
+    "wof:lastmodified":1464313687,
+    "wof:name":"Rock Lee Farm",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [
+    -72.382965,
+    44.370784,
+    -72.382965,
+    44.370784
+],
+  "geometry": {"coordinates":[-72.382965,44.370784],"type":"Point"}
+}

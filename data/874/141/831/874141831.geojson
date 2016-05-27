@@ -1,0 +1,71 @@
+{
+  "id": 874141831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.503442,44.200914,-72.503442,44.200914",
+    "geom:latitude":44.200914,
+    "geom:longitude":-72.503442,
+    "iso:country":"US",
+    "sg:address":"42 Summer St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3394",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a5RbYa00djTSihgV28fX3_44.200914_-72.503442@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312251,
+    "wof:geomhash":"44201a8b20955b54c2a0bc285cbd1bb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874141831
+        }
+    ],
+    "wof:id":874141831,
+    "wof:lastmodified":1464312251,
+    "wof:name":"Aspiratins Salon & Day Spa",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -72.503442,
+    44.200914,
+    -72.503442,
+    44.200914
+],
+  "geometry": {"coordinates":[-72.50344200000001,44.200914],"type":"Point"}
+}

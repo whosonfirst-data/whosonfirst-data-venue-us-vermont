@@ -1,0 +1,73 @@
+{
+  "id": 874186499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.162383,44.016919,-73.162383,44.016919",
+    "geom:latitude":44.016919,
+    "geom:longitude":-73.162383,
+    "iso:country":"US",
+    "sg:address":"45 Seminary St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2091",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "school",
+        "theological"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00cQ1ti0YossNQ5113BlVk_44.016919_-73.162383@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312705,
+    "wof:geomhash":"ca4f9ec42fa4c6d6f442ed7879cd4682",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874186499
+        }
+    ],
+    "wof:id":874186499,
+    "wof:lastmodified":1464312705,
+    "wof:name":"Seminary Street Home",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "theological"
+    ]
+},
+  "bbox": [
+    -73.162383,
+    44.016919,
+    -73.162383,
+    44.016919
+],
+  "geometry": {"coordinates":[-73.16238300000001,44.016919],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874207473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.132801,43.986083,-73.132801,43.986083",
+    "geom:latitude":43.986083,
+    "geom:longitude":-73.132801,
+    "iso:country":"US",
+    "sg:address":"1480 US Hwy 7",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4455",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4za6hGGHdi9T11k5MRIwDS_43.986083_-73.132801@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312924,
+    "wof:geomhash":"dd2d29edaca0aa75edecc63c3f6dfaff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874207473
+        }
+    ],
+    "wof:id":874207473,
+    "wof:lastmodified":1464312924,
+    "wof:name":"Quensels Livestock",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock"
+    ]
+},
+  "bbox": [
+    -73.132801,
+    43.986083,
+    -73.132801,
+    43.986083
+],
+  "geometry": {"coordinates":[-73.132801,43.986083],"type":"Point"}
+}

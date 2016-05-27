@@ -1,0 +1,80 @@
+{
+  "id": 874062119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.916794,44.587347,-71.916794,44.587347",
+    "geom:latitude":44.587347,
+    "geom:longitude":-71.916794,
+    "iso:country":"US",
+    "sg:address":"223 Sherburne Lodge Rd",
+    "sg:city":"East Burke",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 3322",
+    "sg:postcode":"05832",
+    "sg:province":"VT",
+    "sg:tags":[
+        "resort",
+        "center",
+        "skiing"
+    ],
+    "sg:website":"www.skiburke.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420545825,
+        102191575,
+        404527549,
+        85633793,
+        101728271,
+        102080755,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bXbptjaqQDq6BJZ4iWpXy_44.587347_-71.916794@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311354,
+    "wof:geomhash":"6e5e87ab72b329e0ae066e8a9f503d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080755,
+            "localadmin_id":404527549,
+            "locality_id":101728271,
+            "neighbourhood_id":420545825,
+            "region_id":85688763,
+            "venue_id":874062119
+        }
+    ],
+    "wof:id":874062119,
+    "wof:lastmodified":1464311354,
+    "wof:name":"Burke Mountain Ski Area",
+    "wof:parent_id":420545825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resort",
+        "center",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -71.916794,
+    44.587347,
+    -71.916794,
+    44.587347
+],
+  "geometry": {"coordinates":[-71.916794,44.587347],"type":"Point"}
+}

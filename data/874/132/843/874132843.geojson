@@ -1,0 +1,71 @@
+{
+  "id": 874132843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.166823,44.017612,-73.166823,44.017612",
+    "geom:latitude":44.017612,
+    "geom:longitude":-73.166823,
+    "iso:country":"US",
+    "sg:address":"50 N Pleasant St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2673",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "midwife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gwVsmTce0uEDPHui3VWHH_44.017612_-73.166823@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312171,
+    "wof:geomhash":"a82ee934a2d9ef8b95d4125dfa33a07e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874132843
+        }
+    ],
+    "wof:id":874132843,
+    "wof:lastmodified":1464312171,
+    "wof:name":"Northern Lights Midwifery C-P",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "midwife"
+    ]
+},
+  "bbox": [
+    -73.166823,
+    44.017612,
+    -73.166823,
+    44.017612
+],
+  "geometry": {"coordinates":[-73.16682299999999,44.017612],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874004887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.542732,44.239884,-72.542732,44.239884",
+    "geom:latitude":44.239884,
+    "geom:longitude":-72.542732,
+    "iso:country":"US",
+    "sg:address":"127 Goodnow Rd",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 5987",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FuI1rwZayXk0CEIecsxUx_44.239884_-72.542732@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310813,
+    "wof:geomhash":"f9c4271ca808f08f8ee9d27b30290875",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874004887
+        }
+    ],
+    "wof:id":874004887,
+    "wof:lastmodified":1464310813,
+    "wof:name":"Thurston Burner Service",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.542732,
+    44.239884,
+    -72.542732,
+    44.239884
+],
+  "geometry": {"coordinates":[-72.542732,44.239884],"type":"Point"}
+}

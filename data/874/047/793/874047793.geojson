@@ -1,0 +1,73 @@
+{
+  "id": 874047793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.251362,44.1673,-73.251362,44.1673",
+    "geom:latitude":44.1673,
+    "geom:longitude":-73.251362,
+    "iso:country":"US",
+    "sg:address":"55 School St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 6344",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H6oFdnxKdMTytKyBfqj0b_44.167300_-73.251362@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311221,
+    "wof:geomhash":"e466eafcb94981d37942092f7e913dbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874047793
+        }
+    ],
+    "wof:id":874047793,
+    "wof:lastmodified":1464311221,
+    "wof:name":"Boys & Girls Club Of Vergennes",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -73.251362,
+    44.1673,
+    -73.251362,
+    44.1673
+],
+  "geometry": {"coordinates":[-73.251362,44.1673],"type":"Point"}
+}

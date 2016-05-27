@@ -1,0 +1,77 @@
+{
+  "id": 874154873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.032542,43.168321,-73.032542,43.168321",
+    "geom:latitude":43.168321,
+    "geom:longitude":-73.032542,
+    "iso:country":"US",
+    "sg:address":"75 Hillcrest Rd",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 4118",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "taxicab",
+        "trucking",
+        "local",
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844461,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3loSUtPIAAf2ihkUfy999o_43.168321_-73.032542@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312375,
+    "wof:geomhash":"baa10ae94869b5ea57b572b3c664e4bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85844461,
+            "region_id":85688763,
+            "venue_id":874154873
+        }
+    ],
+    "wof:id":874154873,
+    "wof:lastmodified":1464312375,
+    "wof:name":"Manchester Taxi",
+    "wof:parent_id":85844461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "taxicab",
+        "trucking",
+        "local",
+        "passenger"
+    ]
+},
+  "bbox": [
+    -73.032542,
+    43.168321,
+    -73.032542,
+    43.168321
+],
+  "geometry": {"coordinates":[-73.03254200000001,43.168321],"type":"Point"}
+}

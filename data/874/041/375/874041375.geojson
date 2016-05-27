@@ -1,0 +1,73 @@
+{
+  "id": 874041375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.25852,44.550556,-73.25852,44.550556",
+    "geom:latitude":44.550556,
+    "geom:longitude":-73.25852,
+    "iso:country":"US",
+    "sg:address":"40 Overlake Dr",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 7900",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fire",
+        "consultant",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pvIfihpXmDD0TvThPL6RM_44.550556_-73.258520@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311155,
+    "wof:geomhash":"a0dade5c6de8395cfd1e2bd405412e80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874041375
+        }
+    ],
+    "wof:id":874041375,
+    "wof:lastmodified":1464311155,
+    "wof:name":"Chase Engineering",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "consultant",
+        "protection"
+    ]
+},
+  "bbox": [
+    -73.25852,
+    44.550556,
+    -73.25852,
+    44.550556
+],
+  "geometry": {"coordinates":[-73.25852,44.550556],"type":"Point"}
+}

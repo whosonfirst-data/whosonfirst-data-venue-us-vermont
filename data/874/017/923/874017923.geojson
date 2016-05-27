@@ -1,0 +1,70 @@
+{
+  "id": 874017923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.63686,43.834595,-72.63686,43.834595",
+    "geom:latitude":43.834595,
+    "geom:longitude":-72.63686,
+    "iso:country":"US",
+    "sg:address":"125 N Main St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 234 9550",
+    "sg:postcode":"05032",
+    "sg:province":"VT",
+    "sg:tags":[
+        "printer"
+    ],
+    "sg:website":"www.spauldingpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u0X6hKo4QCuOT247omsQ3_43.834595_-72.636860@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310925,
+    "wof:geomhash":"fbd58730d3084a2f5f1e2ad8ecbd95fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874017923
+        }
+    ],
+    "wof:id":874017923,
+    "wof:lastmodified":1464310925,
+    "wof:name":"Spaulding Press",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -72.63686,
+    43.834595,
+    -72.63686,
+    43.834595
+],
+  "geometry": {"coordinates":[-72.63686,43.834595],"type":"Point"}
+}

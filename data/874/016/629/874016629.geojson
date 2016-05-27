@@ -1,0 +1,71 @@
+{
+  "id": 874016629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.093137,44.50392,-73.093137,44.50392",
+    "geom:latitude":44.50392,
+    "geom:longitude":-73.093137,
+    "iso:country":"US",
+    "sg:address":"20 Upper Main St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 3985",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mu4IGs5fboBHTLTWROjin_44.503920_-73.093137@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310904,
+    "wof:geomhash":"5d09c506df49565ce127668b966e8a43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874016629
+        }
+    ],
+    "wof:id":874016629,
+    "wof:lastmodified":1464310904,
+    "wof:name":"Amber Lantern The",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.093137,
+    44.50392,
+    -73.093137,
+    44.50392
+],
+  "geometry": {"coordinates":[-73.093137,44.50392],"type":"Point"}
+}

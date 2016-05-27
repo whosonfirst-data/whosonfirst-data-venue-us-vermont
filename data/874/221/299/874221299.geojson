@@ -1,0 +1,69 @@
+{
+  "id": 874221299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.063951,43.897877,-73.063951,43.897877",
+    "geom:latitude":43.897877,
+    "geom:longitude":-73.063951,
+    "iso:country":"US",
+    "sg:address":"21 Lake Dunmore Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 3615",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "barbecue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jbswi39Iztt74y1VCTXDE_43.897877_-73.063951@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313077,
+    "wof:geomhash":"5026f3befd04e23f345e4e09d02cef6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874221299
+        }
+    ],
+    "wof:id":874221299,
+    "wof:lastmodified":1464313077,
+    "wof:name":"Ward Mann's Hog Heaven B-B-Q",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue"
+    ]
+},
+  "bbox": [
+    -73.063951,
+    43.897877,
+    -73.063951,
+    43.897877
+],
+  "geometry": {"coordinates":[-73.063951,43.897877],"type":"Point"}
+}

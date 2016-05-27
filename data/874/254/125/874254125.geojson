@@ -1,0 +1,81 @@
+{
+  "id": 874254125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.183015,44.595235,-73.183015,44.595235",
+    "geom:latitude":44.595235,
+    "geom:longitude":-73.183015,
+    "iso:country":"US",
+    "sg:address":"359 Jasper Mine Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 1234",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "household",
+        "full",
+        "commercial",
+        "mover"
+    ],
+    "sg:website":"http://www.actionmoving.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rYamdN7dXxAlzpLOcS9ml_44.595235_-73.183015@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313648,
+    "wof:geomhash":"adf48942a56673d073252e1d0adce69f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":874254125
+        }
+    ],
+    "wof:id":874254125,
+    "wof:lastmodified":1464313648,
+    "wof:name":"Action Moving & Storage",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "full",
+        "commercial",
+        "mover"
+    ]
+},
+  "bbox": [
+    -73.183015,
+    44.595235,
+    -73.183015,
+    44.595235
+],
+  "geometry": {"coordinates":[-73.183015,44.595235],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874136293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.152837,43.928315,-73.152837,43.928315",
+    "geom:latitude":43.928315,
+    "geom:longitude":-73.152837,
+    "iso:country":"US",
+    "sg:address":"467 Shard Villa Rd",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2823",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wUJXW7ub8eo8alTya7jX0_43.928315_-73.152837@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312202,
+    "wof:geomhash":"9afb5340ebf0016e7d1d2c0b7bb41859",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":874136293
+        }
+    ],
+    "wof:id":874136293,
+    "wof:lastmodified":1464312202,
+    "wof:name":"Marshall's Alarm Svc",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ]
+},
+  "bbox": [
+    -73.152837,
+    43.928315,
+    -73.152837,
+    43.928315
+],
+  "geometry": {"coordinates":[-73.15283700000001,43.928315],"type":"Point"}
+}

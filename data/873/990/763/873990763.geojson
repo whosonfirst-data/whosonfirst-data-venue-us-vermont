@@ -1,0 +1,66 @@
+{
+  "id": 873990763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.828485,44.625361,-72.828485,44.625361",
+    "geom:latitude":44.625361,
+    "geom:longitude":-72.828485,
+    "iso:country":"US",
+    "sg:address":"1018 State Rte 108",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5747",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CbbwKbI3HaTZJbzdgHaHH_44.625361_-72.828485@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310695,
+    "wof:geomhash":"c70aaddc5fbcaac19702e25348c1f2fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":873990763
+        }
+    ],
+    "wof:id":873990763,
+    "wof:lastmodified":1464310695,
+    "wof:name":"Mountain View Real Estate",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.828485,
+    44.625361,
+    -72.828485,
+    44.625361
+],
+  "geometry": {"coordinates":[-72.828485,44.625361],"type":"Point"}
+}

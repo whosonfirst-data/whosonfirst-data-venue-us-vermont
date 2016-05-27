@@ -1,0 +1,71 @@
+{
+  "id": 874041033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212442,44.476437,-73.212442,44.476437",
+    "geom:latitude":44.476437,
+    "geom:longitude":-73.212442,
+    "iso:country":"US",
+    "sg:address":"152 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3666",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "comic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BlsUTxL3o2Uh4GO5Tr1Xz_44.476437_-73.212442@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311153,
+    "wof:geomhash":"4180a155da63fda5d20cd0004f867a80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874041033
+        }
+    ],
+    "wof:id":874041033,
+    "wof:lastmodified":1464311153,
+    "wof:name":"Earth Prime Comics",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "comic"
+    ]
+},
+  "bbox": [
+    -73.212442,
+    44.476437,
+    -73.212442,
+    44.476437
+],
+  "geometry": {"coordinates":[-73.212442,44.476437],"type":"Point"}
+}

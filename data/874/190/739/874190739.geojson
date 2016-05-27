@@ -1,0 +1,71 @@
+{
+  "id": 874190739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.469916,43.355204,-72.469916,43.355204",
+    "geom:latitude":43.355204,
+    "geom:longitude":-72.469916,
+    "iso:country":"US",
+    "sg:address":"82 Wellwood Orchard Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 5477",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l4QI00xY16zTtoExHiOV6_43.355204_-72.469916@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312747,
+    "wof:geomhash":"a6cc68e083b4a4a0f5602d190ef43a68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874190739
+        }
+    ],
+    "wof:id":874190739,
+    "wof:lastmodified":1464312747,
+    "wof:name":"Williams Fence Co",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.469916,
+    43.355204,
+    -72.469916,
+    43.355204
+],
+  "geometry": {"coordinates":[-72.469916,43.355204],"type":"Point"}
+}

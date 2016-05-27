@@ -1,0 +1,71 @@
+{
+  "id": 874095677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.512751,44.181348,-72.512751,44.181348",
+    "geom:latitude":44.181348,
+    "geom:longitude":-72.512751,
+    "iso:country":"US",
+    "sg:address":"59 Bridge St",
+    "sg:city":"South Barre",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 8725",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CRL9AfQ6oHyU6cD0cnrbe_44.181348_-72.512751@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311721,
+    "wof:geomhash":"804174e87649966599048b86327197da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874095677
+        }
+    ],
+    "wof:id":874095677,
+    "wof:lastmodified":1464311721,
+    "wof:name":"Isabelle Lighting",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting"
+    ]
+},
+  "bbox": [
+    -72.512751,
+    44.181348,
+    -72.512751,
+    44.181348
+],
+  "geometry": {"coordinates":[-72.51275099999999,44.181348],"type":"Point"}
+}

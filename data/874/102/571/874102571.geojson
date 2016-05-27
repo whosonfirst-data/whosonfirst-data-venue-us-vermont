@@ -1,0 +1,71 @@
+{
+  "id": 874102571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.136682,44.515626,-73.136682,44.515626",
+    "geom:latitude":44.515626,
+    "geom:longitude":-73.136682,
+    "iso:country":"US",
+    "sg:address":"42 Gauthier Dr",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 1500",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JdGyrPxSf7IGjAi2GVKW1_44.515626_-73.136682@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311826,
+    "wof:geomhash":"8f9c4fc002c84e0b96a23acd52a23d75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874102571
+        }
+    ],
+    "wof:id":874102571,
+    "wof:lastmodified":1464311826,
+    "wof:name":"D & D Auto & Custom Repairs",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.136682,
+    44.515626,
+    -73.136682,
+    44.515626
+],
+  "geometry": {"coordinates":[-73.13668199999999,44.515626],"type":"Point"}
+}

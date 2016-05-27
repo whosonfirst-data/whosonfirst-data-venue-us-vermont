@@ -1,0 +1,73 @@
+{
+  "id": 874121249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.54328,42.894288,-72.54328,42.894288",
+    "geom:latitude":42.894288,
+    "geom:longitude":-72.54328,
+    "iso:country":"US",
+    "sg:address":"62 Old Ferry Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 4750",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3beYKV3piL1JKTiQaHyaa8_42.894288_-72.543280@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312052,
+    "wof:geomhash":"16ae9910ddf32bb27470011d33b0bda3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874121249
+        }
+    ],
+    "wof:id":874121249,
+    "wof:lastmodified":1464312052,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -72.54328,
+    42.894288,
+    -72.54328,
+    42.894288
+],
+  "geometry": {"coordinates":[-72.54328,42.894288],"type":"Point"}
+}

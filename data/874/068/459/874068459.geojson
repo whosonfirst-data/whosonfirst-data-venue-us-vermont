@@ -1,0 +1,73 @@
+{
+  "id": 874068459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215026,44.468691,-73.215026,44.468691",
+    "geom:latitude":44.468691,
+    "geom:longitude":-73.215026,
+    "iso:country":"US",
+    "sg:address":"420 Pine St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 4444",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cEGzQ8f4tHndLsXZqchBg_44.468691_-73.215026@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311417,
+    "wof:geomhash":"df72924ef53ff06e17800c2387d34f8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874068459
+        }
+    ],
+    "wof:id":874068459,
+    "wof:lastmodified":1464311417,
+    "wof:name":"Sweeney & Sons Automotive",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.215026,
+    44.468691,
+    -73.215026,
+    44.468691
+],
+  "geometry": {"coordinates":[-73.21502599999999,44.468691],"type":"Point"}
+}

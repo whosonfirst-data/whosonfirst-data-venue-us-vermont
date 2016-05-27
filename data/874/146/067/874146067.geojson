@@ -1,0 +1,73 @@
+{
+  "id": 874146067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215323,44.485831,-73.215323,44.485831",
+    "geom:latitude":44.485831,
+    "geom:longitude":-73.215323,
+    "iso:country":"US",
+    "sg:address":"75 Cedar St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 0345",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_089JDP2d7qnBgbr2Sk1qRL_44.485831_-73.215323@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312294,
+    "wof:geomhash":"02bc645eb212301cb51f76f055b70ef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874146067
+        }
+    ],
+    "wof:id":874146067,
+    "wof:lastmodified":1464312294,
+    "wof:name":"Kaleidoscope Properties",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.215323,
+    44.485831,
+    -73.215323,
+    44.485831
+],
+  "geometry": {"coordinates":[-73.215323,44.485831],"type":"Point"}
+}

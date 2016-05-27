@@ -1,0 +1,71 @@
+{
+  "id": 874254263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.829419,44.625926,-72.829419,44.625926",
+    "geom:latitude":44.625926,
+    "geom:longitude":-72.829419,
+    "iso:country":"US",
+    "sg:address":"955 Vt Route 108 N",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8174",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HiOFbSR4N1LzwPsajGbMy_44.625926_-72.829419@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313652,
+    "wof:geomhash":"40275376af8919e9a5580909aa6c4c46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874254263
+        }
+    ],
+    "wof:id":874254263,
+    "wof:lastmodified":1464313652,
+    "wof:name":"Paint Shop the",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -72.829419,
+    44.625926,
+    -72.829419,
+    44.625926
+],
+  "geometry": {"coordinates":[-72.829419,44.625926],"type":"Point"}
+}

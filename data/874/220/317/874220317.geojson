@@ -1,0 +1,69 @@
+{
+  "id": 874220317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.656118,42.978925,-72.656118,42.978925",
+    "geom:latitude":42.978925,
+    "geom:longitude":-72.656118,
+    "iso:country":"US",
+    "sg:address":"36 Back St",
+    "sg:city":"Newfane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 7877",
+    "sg:postcode":"05345",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hl5mwsRH98gNvdlc7zSet_42.978925_-72.656118@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313066,
+    "wof:geomhash":"ce135dd35d310f9101f399c3917d86dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874220317
+        }
+    ],
+    "wof:id":874220317,
+    "wof:lastmodified":1464313066,
+    "wof:name":"Home Wizard",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -72.656118,
+    42.978925,
+    -72.656118,
+    42.978925
+],
+  "geometry": {"coordinates":[-72.65611800000001,42.978925],"type":"Point"}
+}

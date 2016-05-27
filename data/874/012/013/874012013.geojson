@@ -1,0 +1,71 @@
+{
+  "id": 874012013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214038,44.477275,-73.214038,44.477275",
+    "geom:latitude":44.477275,
+    "geom:longitude":-73.214038,
+    "iso:country":"US",
+    "sg:address":"76 Saint Paul St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 1836",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RBczvZ0i1ohMZd7qz6aYm_44.477275_-73.214038@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310869,
+    "wof:geomhash":"1931e5e959bae99e3590d49036f92d5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874012013
+        }
+    ],
+    "wof:id":874012013,
+    "wof:lastmodified":1464310869,
+    "wof:name":"Wiener & Gale",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -73.214038,
+    44.477275,
+    -73.214038,
+    44.477275
+],
+  "geometry": {"coordinates":[-73.214038,44.477275],"type":"Point"}
+}

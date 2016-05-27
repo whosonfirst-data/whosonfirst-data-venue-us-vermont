@@ -1,0 +1,71 @@
+{
+  "id": 874254449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.146721,44.706704,-73.146721,44.706704",
+    "geom:latitude":44.706704,
+    "geom:longitude":-73.146721,
+    "iso:country":"US",
+    "sg:address":"715 Sodom Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 289 1026",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "development",
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Luzo6MB6N8RX0LifYsaSW_44.706704_-73.146721@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313657,
+    "wof:geomhash":"955130ad43e97e157860d0f384ebb049",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874254449
+        }
+    ],
+    "wof:id":874254449,
+    "wof:lastmodified":1464313657,
+    "wof:name":"New England Municipal Resource",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "plan"
+    ]
+},
+  "bbox": [
+    -73.146721,
+    44.706704,
+    -73.146721,
+    44.706704
+],
+  "geometry": {"coordinates":[-73.146721,44.706704],"type":"Point"}
+}

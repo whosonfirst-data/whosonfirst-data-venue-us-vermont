@@ -1,0 +1,73 @@
+{
+  "id": 874064247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.578797,44.310213,-72.578797,44.310213",
+    "geom:latitude":44.310213,
+    "geom:longitude":-72.578797,
+    "iso:country":"US",
+    "sg:address":"15 Bolio Rd",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5768",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85859175,
+        102080779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O6vfoxwO80k8EXvABSEkO_44.310213_-72.578797@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311373,
+    "wof:geomhash":"5dfc9139bc6204e77fbb118a6e5b0c36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "neighbourhood_id":85859175,
+            "region_id":85688763,
+            "venue_id":874064247
+        }
+    ],
+    "wof:id":874064247,
+    "wof:lastmodified":1464311373,
+    "wof:name":"Topnotch Floors",
+    "wof:parent_id":85859175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.578797,
+    44.310213,
+    -72.578797,
+    44.310213
+],
+  "geometry": {"coordinates":[-72.57879699999999,44.310213],"type":"Point"}
+}

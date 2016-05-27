@@ -1,0 +1,71 @@
+{
+  "id": 874097787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.234909,43.945275,-73.234909,43.945275",
+    "geom:latitude":43.945275,
+    "geom:longitude":-73.234909,
+    "iso:country":"US",
+    "sg:address":"321 N Bingham St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 3435",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05sHDtBiRaw1zyJWMzw20e_43.945275_-73.234909@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311754,
+    "wof:geomhash":"0164203cdc64113b7539a032e29bd361",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":874097787
+        }
+    ],
+    "wof:id":874097787,
+    "wof:lastmodified":1464311754,
+    "wof:name":"Exetechs Inc",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -73.234909,
+    43.945275,
+    -73.234909,
+    43.945275
+],
+  "geometry": {"coordinates":[-73.234909,43.945275],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874178953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.072959,44.454107,-73.072959,44.454107",
+    "geom:latitude":44.454107,
+    "geom:longitude":-73.072959,
+    "iso:country":"US",
+    "sg:address":"581 Old Stage Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 4856",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JglEPiugC52iForounqNf_44.454107_-73.072959@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312619,
+    "wof:geomhash":"fa9c188e5f6e131fd84b2fa99ae0fa80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874178953
+        }
+    ],
+    "wof:id":874178953,
+    "wof:lastmodified":1464312619,
+    "wof:name":"Windswept Farm",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.072959,
+    44.454107,
+    -73.072959,
+    44.454107
+],
+  "geometry": {"coordinates":[-73.072959,44.454107],"type":"Point"}
+}

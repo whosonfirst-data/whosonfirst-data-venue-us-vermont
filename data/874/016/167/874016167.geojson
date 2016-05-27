@@ -1,0 +1,73 @@
+{
+  "id": 874016167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.175742,44.477916,-73.175742,44.477916",
+    "geom:latitude":44.477916,
+    "geom:longitude":-73.175742,
+    "iso:country":"US",
+    "sg:address":"400 Patchen Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 6052",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lhkEgZH6lAhaAPjuZXN28_44.477916_-73.175742@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310900,
+    "wof:geomhash":"9ca308834a6a34bf219b8f68ef7dda03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874016167
+        }
+    ],
+    "wof:id":874016167,
+    "wof:lastmodified":1464310900,
+    "wof:name":"Climate Care Self Storage",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -73.175742,
+    44.477916,
+    -73.175742,
+    44.477916
+],
+  "geometry": {"coordinates":[-73.175742,44.477916],"type":"Point"}
+}

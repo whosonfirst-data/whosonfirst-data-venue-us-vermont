@@ -1,0 +1,69 @@
+{
+  "id": 874173221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50346,43.259739,-72.50346,43.259739",
+    "geom:latitude":43.259739,
+    "geom:longitude":-72.50346,
+    "iso:country":"US",
+    "sg:address":"629 Massey Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 4841",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "forestry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Qp1wnQ93x5dbtZFVpvk5K_43.259739_-72.503460@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312560,
+    "wof:geomhash":"fd60ef37b03a494e173b25987ce53e57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874173221
+        }
+    ],
+    "wof:id":874173221,
+    "wof:lastmodified":1464312560,
+    "wof:name":"J & S Forest Management Svcs",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forestry"
+    ]
+},
+  "bbox": [
+    -72.50346,
+    43.259739,
+    -72.50346,
+    43.259739
+],
+  "geometry": {"coordinates":[-72.50346,43.259739],"type":"Point"}
+}

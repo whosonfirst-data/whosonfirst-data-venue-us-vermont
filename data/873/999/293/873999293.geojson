@@ -1,0 +1,73 @@
+{
+  "id": 873999293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.137508,44.511273,-73.137508,44.511273",
+    "geom:latitude":44.511273,
+    "geom:longitude":-73.137508,
+    "iso:country":"US",
+    "sg:address":"30 Kellogg Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 7303",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d7iUFz7eYgtZVZSagkn8k_44.511273_-73.137508@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310755,
+    "wof:geomhash":"d1740b4890e53c176ed65257d931d257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":873999293
+        }
+    ],
+    "wof:id":873999293,
+    "wof:lastmodified":1464310755,
+    "wof:name":"Acousta Therm Corp",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.137508,
+    44.511273,
+    -73.137508,
+    44.511273
+],
+  "geometry": {"coordinates":[-73.137508,44.511273],"type":"Point"}
+}

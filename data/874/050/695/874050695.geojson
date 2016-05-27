@@ -1,0 +1,73 @@
+{
+  "id": 874050695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.245671,44.180236,-73.245671,44.180236",
+    "geom:latitude":44.180236,
+    "geom:longitude":-73.245671,
+    "iso:country":"US",
+    "sg:address":"76 Meigs Rd",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2357",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZbUiNGsEgcJbj5AAnx0Sa_44.180236_-73.245671@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311247,
+    "wof:geomhash":"01020b923944a91d539ace8fae842819",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874050695
+        }
+    ],
+    "wof:id":874050695,
+    "wof:lastmodified":1464311247,
+    "wof:name":"C J's Automotive",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.245671,
+    44.180236,
+    -73.245671,
+    44.180236
+],
+  "geometry": {"coordinates":[-73.245671,44.180236],"type":"Point"}
+}

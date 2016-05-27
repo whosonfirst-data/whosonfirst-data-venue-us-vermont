@@ -1,0 +1,71 @@
+{
+  "id": 874133691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.032181,44.465579,-72.032181,44.465579",
+    "geom:latitude":44.465579,
+    "geom:longitude":-72.032181,
+    "iso:country":"US",
+    "sg:address":"1004 Sylvain Rd",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 1198",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AZSrEnll4slgoN2l3hv1C_44.465579_-72.032181@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312179,
+    "wof:geomhash":"afb7350a2e2e02ace0f379db23e7b97f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874133691
+        }
+    ],
+    "wof:id":874133691,
+    "wof:lastmodified":1464312179,
+    "wof:name":"Little Acres Landscaping",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.032181,
+    44.465579,
+    -72.032181,
+    44.465579
+],
+  "geometry": {"coordinates":[-72.03218099999999,44.465579],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874071953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.163774,44.015327,-73.163774,44.015327",
+    "geom:latitude":44.015327,
+    "geom:longitude":-73.163774,
+    "iso:country":"US",
+    "sg:address":"1 Washington St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4111",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zk8qsR2jJibJAjw0BSVEy_44.015327_-73.163774@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311460,
+    "wof:geomhash":"777cb2f7df594d7d6ff25f8a9a8060c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874071953
+        }
+    ],
+    "wof:id":874071953,
+    "wof:lastmodified":1464311460,
+    "wof:name":"Hospice Volunteer Svc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.163774,
+    44.015327,
+    -73.163774,
+    44.015327
+],
+  "geometry": {"coordinates":[-73.163774,44.015327],"type":"Point"}
+}

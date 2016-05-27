@@ -1,0 +1,73 @@
+{
+  "id": 874023115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.023834,43.596861,-73.023834,43.596861",
+    "geom:latitude":43.596861,
+    "geom:longitude":-73.023834,
+    "iso:country":"US",
+    "sg:address":"44 Rutland Rd",
+    "sg:city":"West Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 5678",
+    "sg:postcode":"05777",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59QjNfkSW1ZzaAJHV7QAbw_43.596861_-73.023834@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310974,
+    "wof:geomhash":"95159ae4bc4b28b41adec19b1423fbf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874023115
+        }
+    ],
+    "wof:id":874023115,
+    "wof:lastmodified":1464310974,
+    "wof:name":"Allen S Automotive",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.023834,
+    43.596861,
+    -73.023834,
+    43.596861
+],
+  "geometry": {"coordinates":[-73.02383399999999,43.596861],"type":"Point"}
+}

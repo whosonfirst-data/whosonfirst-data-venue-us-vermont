@@ -1,0 +1,71 @@
+{
+  "id": 873993289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.704483,43.482065,-72.704483,43.482065",
+    "geom:latitude":43.482065,
+    "geom:longitude":-72.704483,
+    "iso:country":"US",
+    "sg:address":"1716 State Rte 100",
+    "sg:city":"Ludlow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 228 2837",
+    "sg:postcode":"05149",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RCEotnx0TjFKn3lnfdTCj_43.482065_-72.704483@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310714,
+    "wof:geomhash":"f69e2a1f63d924a2a4ca4d267cc7aef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":873993289
+        }
+    ],
+    "wof:id":873993289,
+    "wof:lastmodified":1464310714,
+    "wof:name":"Dave's Electrical Svc",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.704483,
+    43.482065,
+    -72.704483,
+    43.482065
+],
+  "geometry": {"coordinates":[-72.704483,43.482065],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874148511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.058383,43.786247,-73.058383,43.786247",
+    "geom:latitude":43.786247,
+    "geom:longitude":-73.058383,
+    "iso:country":"US",
+    "sg:address":"93 Wood Ln",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 6630",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shipper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CAeKV565sUclLKVyztCVP_43.786247_-73.058383@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312315,
+    "wof:geomhash":"a85443e001961eb67d8c073e7cae6fa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874148511
+        }
+    ],
+    "wof:id":874148511,
+    "wof:lastmodified":1464312315,
+    "wof:name":"Wood's Market Gardens",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipper"
+    ]
+},
+  "bbox": [
+    -73.058383,
+    43.786247,
+    -73.058383,
+    43.786247
+],
+  "geometry": {"coordinates":[-73.05838300000001,43.786247],"type":"Point"}
+}

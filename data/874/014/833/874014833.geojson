@@ -1,0 +1,73 @@
+{
+  "id": 874014833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.638476,43.835253,-72.638476,43.835253",
+    "geom:latitude":43.835253,
+    "geom:longitude":-72.638476,
+    "iso:country":"US",
+    "sg:address":"235 N Main St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 234 6719",
+    "sg:postcode":"05032",
+    "sg:province":"VT",
+    "sg:tags":[
+        "stove",
+        "wood",
+        "burning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jU5WeK4ByZ50j9JfdhD9R_43.835253_-72.638476@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310889,
+    "wof:geomhash":"06d652d1341ed2f92598a30219c22757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874014833
+        }
+    ],
+    "wof:id":874014833,
+    "wof:lastmodified":1464310889,
+    "wof:name":"Vermont Castings Factory Store",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stove",
+        "wood",
+        "burning"
+    ]
+},
+  "bbox": [
+    -72.638476,
+    43.835253,
+    -72.638476,
+    43.835253
+],
+  "geometry": {"coordinates":[-72.638476,43.835253],"type":"Point"}
+}

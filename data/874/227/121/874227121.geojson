@@ -1,0 +1,71 @@
+{
+  "id": 874227121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.960441,43.593125,-72.960441,43.593125",
+    "geom:latitude":43.593125,
+    "geom:longitude":-72.960441,
+    "iso:country":"US",
+    "sg:address":"87 Curtis Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 5494",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t5X0ePEPMBGAtT84v9tfI_43.593125_-72.960441@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313132,
+    "wof:geomhash":"2b0bd53bd35db2a9a5df9cf80b41588e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874227121
+        }
+    ],
+    "wof:id":874227121,
+    "wof:lastmodified":1464313132,
+    "wof:name":"Visi Electric",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.960441,
+    43.593125,
+    -72.960441,
+    43.593125
+],
+  "geometry": {"coordinates":[-72.960441,43.593125],"type":"Point"}
+}

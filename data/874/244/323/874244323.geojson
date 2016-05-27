@@ -1,0 +1,73 @@
+{
+  "id": 874244323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.749924,44.735516,-72.749924,44.735516",
+    "geom:latitude":44.735516,
+    "geom:longitude":-72.749924,
+    "iso:country":"US",
+    "sg:address":"638 Maxfield Rd",
+    "sg:city":"Waterville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 9925",
+    "sg:postcode":"05492",
+    "sg:province":"VT",
+    "sg:tags":[
+        "canned",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XYBphpjHq201YUws8qh4g_44.735516_-72.749924@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313423,
+    "wof:geomhash":"5230d36979f6473263f8cbc25861dfd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874244323
+        }
+    ],
+    "wof:id":874244323,
+    "wof:lastmodified":1464313423,
+    "wof:name":"Beautiful Foods",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "canned",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.749924,
+    44.735516,
+    -72.749924,
+    44.735516
+],
+  "geometry": {"coordinates":[-72.74992399999999,44.735516],"type":"Point"}
+}

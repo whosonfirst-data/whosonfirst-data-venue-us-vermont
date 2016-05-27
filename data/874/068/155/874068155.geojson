@@ -1,0 +1,76 @@
+{
+  "id": 874068155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.218762,44.476889,-73.218762,44.476889",
+    "geom:latitude":44.476889,
+    "geom:longitude":-73.218762,
+    "iso:country":"US",
+    "sg:address":"69 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 8210",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "small",
+        "agency",
+        "developer"
+    ],
+    "sg:website":"www.vermontrealestate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ndkxlGURQvDung0SU6rGs_44.476889_-73.218762@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311415,
+    "wof:geomhash":"d486b8fd0e658b5467d753a0fc5af6b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874068155
+        }
+    ],
+    "wof:id":874068155,
+    "wof:lastmodified":1464311415,
+    "wof:name":"Pomerleau Real Estate",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "small",
+        "agency",
+        "developer"
+    ]
+},
+  "bbox": [
+    -73.218762,
+    44.476889,
+    -73.218762,
+    44.476889
+],
+  "geometry": {"coordinates":[-73.218762,44.476889],"type":"Point"}
+}

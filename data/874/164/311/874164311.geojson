@@ -1,0 +1,69 @@
+{
+  "id": 874164311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.122983,44.36799,-73.122983,44.36799",
+    "geom:latitude":44.36799,
+    "geom:longitude":-73.122983,
+    "iso:country":"US",
+    "sg:address":"65 Leeway Cir",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 3798",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6skBWkQXuXFCm99Thz9lUa_44.367990_-73.122983@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312472,
+    "wof:geomhash":"7c82de8ea78fadd419bfa56123d9fae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874164311
+        }
+    ],
+    "wof:id":874164311,
+    "wof:lastmodified":1464312472,
+    "wof:name":"St George Estates Coop WA",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -73.122983,
+    44.36799,
+    -73.122983,
+    44.36799
+],
+  "geometry": {"coordinates":[-73.122983,44.36799],"type":"Point"}
+}

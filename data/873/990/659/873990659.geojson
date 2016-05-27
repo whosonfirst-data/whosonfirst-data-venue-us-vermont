@@ -1,0 +1,69 @@
+{
+  "id": 873990659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.301442,44.179764,-73.301442,44.179764",
+    "geom:latitude":44.179764,
+    "geom:longitude":-73.301442,
+    "iso:country":"US",
+    "sg:address":"1721 Sand Rd",
+    "sg:city":"Ferrisburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 9250",
+    "sg:postcode":"05456",
+    "sg:province":"VT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64x1Kjzw8uAo3NRT2Lb7xj_44.179764_-73.301442@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310694,
+    "wof:geomhash":"3e4f11e74a8f05992366cd19685dd12c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":873990659
+        }
+    ],
+    "wof:id":873990659,
+    "wof:lastmodified":1464310694,
+    "wof:name":"BBK Trucking",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.301442,
+    44.179764,
+    -73.301442,
+    44.179764
+],
+  "geometry": {"coordinates":[-73.30144199999999,44.179764],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874231021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.499903,43.298434,-72.499903,43.298434",
+    "geom:latitude":43.298434,
+    "geom:longitude":-72.499903,
+    "iso:country":"US",
+    "sg:address":"78 Chester Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 2788",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automotive",
+        "tire",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CUvImmOYPsdPO4AuDO0l8_43.298434_-72.499903@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313174,
+    "wof:geomhash":"f786af079d5391fafcd36d6d737c001b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874231021
+        }
+    ],
+    "wof:id":874231021,
+    "wof:lastmodified":1464313174,
+    "wof:name":"Tire Warehouse",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "tire",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.499903,
+    43.298434,
+    -72.499903,
+    43.298434
+],
+  "geometry": {"coordinates":[-72.499903,43.298434],"type":"Point"}
+}

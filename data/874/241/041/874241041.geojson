@@ -1,0 +1,69 @@
+{
+  "id": 874241041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.651173,43.809821,-72.651173,43.809821",
+    "geom:latitude":43.809821,
+    "geom:longitude":-72.651173,
+    "iso:country":"US",
+    "sg:address":"2011 State Rte 107",
+    "sg:city":"Barnard",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 234 5253",
+    "sg:postcode":"05032",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QMWZRkB43aohQIl93p4eC_43.809821_-72.651173@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313359,
+    "wof:geomhash":"3d4e6954f7c0d9bba07f522d49649d22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874241041
+        }
+    ],
+    "wof:id":874241041,
+    "wof:lastmodified":1464313359,
+    "wof:name":"Barnard Volunteer Fire Dept",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -72.651173,
+    43.809821,
+    -72.651173,
+    43.809821
+],
+  "geometry": {"coordinates":[-72.651173,43.809821],"type":"Point"}
+}

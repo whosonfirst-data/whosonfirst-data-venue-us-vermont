@@ -1,0 +1,75 @@
+{
+  "id": 874255901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.966534,43.611093,-72.966534,43.611093",
+    "geom:latitude":43.611093,
+    "geom:longitude":-72.966534,
+    "iso:country":"US",
+    "sg:address":"74 Edgerton St.",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 345 5459",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tree",
+        "stump",
+        "grinding",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43SIgG5uVMJDUryZ8CB4En_43.611093_-72.966534@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313694,
+    "wof:geomhash":"df3062661f4c17ff94211341cfc8623b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255901
+        }
+    ],
+    "wof:id":874255901,
+    "wof:lastmodified":1464313694,
+    "wof:name":"Ace Arborist",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree",
+        "stump",
+        "grinding",
+        "removal"
+    ]
+},
+  "bbox": [
+    -72.966534,
+    43.611093,
+    -72.966534,
+    43.611093
+],
+  "geometry": {"coordinates":[-72.966534,43.611093],"type":"Point"}
+}

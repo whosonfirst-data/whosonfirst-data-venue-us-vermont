@@ -1,0 +1,71 @@
+{
+  "id": 873994619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.19709,42.87777,-73.19709,42.87777",
+    "geom:latitude":42.87777,
+    "geom:longitude":-73.19709,
+    "iso:country":"US",
+    "sg:address":"108 US Hwy 7",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 3238",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bUD9ZkAVhe78cF1mqLIBu_42.877770_-73.197090@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310723,
+    "wof:geomhash":"93f44df5e7e3f69eccd9909276c2f136",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873994619
+        }
+    ],
+    "wof:id":873994619,
+    "wof:lastmodified":1464310723,
+    "wof:name":"Bennington Self Storage",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -73.19709,
+    42.87777,
+    -73.19709,
+    42.87777
+],
+  "geometry": {"coordinates":[-73.19709,42.87777],"type":"Point"}
+}

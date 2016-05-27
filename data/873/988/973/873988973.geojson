@@ -1,0 +1,70 @@
+{
+  "id": 873988973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.242253,43.890352,-72.242253,43.890352",
+    "geom:latitude":43.890352,
+    "geom:longitude":-72.242253,
+    "iso:country":"US",
+    "sg:address":"272 W Fairlee Rd",
+    "sg:city":"Post Mills",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 4141",
+    "sg:postcode":"05045",
+    "sg:province":"VT",
+    "sg:tags":[
+        "specialty"
+    ],
+    "sg:website":"www.cookinthekitchen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85812235,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AF1XmReSgSEGfvJi7Bz9L_43.890352_-72.242253@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310683,
+    "wof:geomhash":"67c9f9d179ea090d6ee0843c719aa183",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85812235,
+            "region_id":85688763,
+            "venue_id":873988973
+        }
+    ],
+    "wof:id":873988973,
+    "wof:lastmodified":1464310683,
+    "wof:name":"Cook-In-The-Kitchen",
+    "wof:parent_id":85812235,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -72.242253,
+    43.890352,
+    -72.242253,
+    43.890352
+],
+  "geometry": {"coordinates":[-72.24225300000001,43.890352],"type":"Point"}
+}

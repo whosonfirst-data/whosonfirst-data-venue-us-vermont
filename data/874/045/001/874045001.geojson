@@ -1,0 +1,71 @@
+{
+  "id": 874045001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204017,44.413936,-73.204017,44.413936",
+    "geom:latitude":44.413936,
+    "geom:longitude":-73.204017,
+    "iso:country":"US",
+    "sg:address":"664 Martindale Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 2825",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HcyRpzVHH59LvbMl026Ae_44.413936_-73.204017@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311194,
+    "wof:geomhash":"e26902510c7112b772a26ed0cd22cd64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874045001
+        }
+    ],
+    "wof:id":874045001,
+    "wof:lastmodified":1464311194,
+    "wof:name":"Clark Pierson Cnstrctn",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.204017,
+    44.413936,
+    -73.204017,
+    44.413936
+],
+  "geometry": {"coordinates":[-73.20401699999999,44.413936],"type":"Point"}
+}

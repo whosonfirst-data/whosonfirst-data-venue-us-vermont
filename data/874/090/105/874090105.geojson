@@ -1,0 +1,71 @@
+{
+  "id": 874090105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208208,44.477266,-73.208208,44.477266",
+    "geom:latitude":44.477266,
+    "geom:longitude":-73.208208,
+    "iso:country":"US",
+    "sg:address":"299 College St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 0222",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K8IgQh4RlWQNscCUM3wy3_44.477266_-73.208208@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311665,
+    "wof:geomhash":"03e9af40347a9e87745976f328d3db12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874090105
+        }
+    ],
+    "wof:id":874090105,
+    "wof:lastmodified":1464311665,
+    "wof:name":"Gregory Rabideau Architechts",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -73.208208,
+    44.477266,
+    -73.208208,
+    44.477266
+],
+  "geometry": {"coordinates":[-73.208208,44.477266],"type":"Point"}
+}

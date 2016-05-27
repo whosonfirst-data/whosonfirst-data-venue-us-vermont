@@ -1,0 +1,71 @@
+{
+  "id": 874098151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.784677,44.250208,-72.784677,44.250208",
+    "geom:latitude":44.250208,
+    "geom:longitude":-72.784677,
+    "iso:country":"US",
+    "sg:address":"67 Deloung Rd",
+    "sg:city":"Moretown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 244 1984",
+    "sg:postcode":"05660",
+    "sg:province":"VT",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815147,
+        102080779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zPXLM9F7ybS690JrkbSZe_44.250208_-72.784677@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311758,
+    "wof:geomhash":"c13d0f6e42a40cc74616fae8d60c57c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "neighbourhood_id":85815147,
+            "region_id":85688763,
+            "venue_id":874098151
+        }
+    ],
+    "wof:id":874098151,
+    "wof:lastmodified":1464311758,
+    "wof:name":"Furniture Medic",
+    "wof:parent_id":85815147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -72.784677,
+    44.250208,
+    -72.784677,
+    44.250208
+],
+  "geometry": {"coordinates":[-72.784677,44.250208],"type":"Point"}
+}

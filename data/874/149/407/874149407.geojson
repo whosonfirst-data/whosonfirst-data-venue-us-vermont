@@ -1,0 +1,71 @@
+{
+  "id": 874149407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.46585,44.608415,-72.46585,44.608415",
+    "geom:latitude":44.608415,
+    "geom:longitude":-72.46585,
+    "iso:country":"US",
+    "sg:address":"78 Birch Ln",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 2973",
+    "sg:postcode":"05680",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YmglQJuqqqNxLfMVUOCw9_44.608415_-72.465850@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312323,
+    "wof:geomhash":"14a439d9107fcb6a0d93b6393abb2454",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874149407
+        }
+    ],
+    "wof:id":874149407,
+    "wof:lastmodified":1464312323,
+    "wof:name":"Gravel Construction Co Inc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "company"
+    ]
+},
+  "bbox": [
+    -72.46585,
+    44.608415,
+    -72.46585,
+    44.608415
+],
+  "geometry": {"coordinates":[-72.46585,44.608415],"type":"Point"}
+}

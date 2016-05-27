@@ -1,0 +1,69 @@
+{
+  "id": 874145469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.970001,43.608568,-72.970001,43.608568",
+    "geom:latitude":43.608568,
+    "geom:longitude":-72.970001,
+    "iso:country":"US",
+    "sg:address":"13 Mansfield Pl",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0706",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZDVuySiABohXQWokm72nh_43.608568_-72.970001@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312284,
+    "wof:geomhash":"e7b08d98727a86a07d0814a56f7eaeb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874145469
+        }
+    ],
+    "wof:id":874145469,
+    "wof:lastmodified":1464312284,
+    "wof:name":"Bill Dudley Stone Works",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.970001,
+    43.608568,
+    -72.970001,
+    43.608568
+],
+  "geometry": {"coordinates":[-72.970001,43.608568],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874250179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.962128,43.615131,-72.962128,43.615131",
+    "geom:latitude":43.615131,
+    "geom:longitude":-72.962128,
+    "iso:country":"US",
+    "sg:address":"125 Woodstock Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 4348",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74kQiEJpNaGUKy8YvF8s7x_43.614813_-72.962672@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313569,
+    "wof:geomhash":"fa8bf1706a2acc78e145ed461ec55818",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874250179
+        }
+    ],
+    "wof:id":874250179,
+    "wof:lastmodified":1464313569,
+    "wof:name":"Travel Inn",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -72.962128,
+    43.615131,
+    -72.962128,
+    43.615131
+],
+  "geometry": {"coordinates":[-72.96212800000001,43.615131],"type":"Point"}
+}

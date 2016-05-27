@@ -1,0 +1,71 @@
+{
+  "id": 874040653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208158,44.54513,-73.208158,44.54513",
+    "geom:latitude":44.54513,
+    "geom:longitude":-73.208158,
+    "iso:country":"US",
+    "sg:address":"371 S Bay Cir",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 2800",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30rCaVOS6FmFEz4oOLbdjZ_44.545130_-73.208158@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311149,
+    "wof:geomhash":"95f253548ee7454e57a2d8c83bdbc2be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874040653
+        }
+    ],
+    "wof:id":874040653,
+    "wof:lastmodified":1464311149,
+    "wof:name":"Trilogy Assoc",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -73.208158,
+    44.54513,
+    -73.208158,
+    44.54513
+],
+  "geometry": {"coordinates":[-73.208158,44.54513],"type":"Point"}
+}

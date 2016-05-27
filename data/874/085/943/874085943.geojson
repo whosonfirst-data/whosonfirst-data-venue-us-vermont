@@ -1,0 +1,69 @@
+{
+  "id": 874085943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.17387,44.529639,-73.17387,44.529639",
+    "geom:latitude":44.529639,
+    "geom:longitude":-73.17387,
+    "iso:country":"US",
+    "sg:address":"2594 Blakely Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 4585",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ScbzmqK24ky1d3zppCpab_44.529639_-73.173870@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311620,
+    "wof:geomhash":"3eccf3f4275529b5e35edae093f0ef1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874085943
+        }
+    ],
+    "wof:id":874085943,
+    "wof:lastmodified":1464311620,
+    "wof:name":"Marks Motors",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -73.17387,
+    44.529639,
+    -73.17387,
+    44.529639
+],
+  "geometry": {"coordinates":[-73.17386999999999,44.529639],"type":"Point"}
+}

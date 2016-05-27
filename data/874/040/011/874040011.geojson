@@ -1,0 +1,72 @@
+{
+  "id": 874040011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212356,44.473718,-73.212356,44.473718",
+    "geom:latitude":44.473718,
+    "geom:longitude":-73.212356,
+    "iso:country":"US",
+    "sg:address":"200 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 860 0378",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "sg:website":"www.800response.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ODrF31oDq4nwopNbQgRcM_44.473718_-73.212356@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311143,
+    "wof:geomhash":"0aa19dec335c09a1e15cf9d8d5b72205",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874040011
+        }
+    ],
+    "wof:id":874040011,
+    "wof:lastmodified":1464311143,
+    "wof:name":"Long Distance Partnership",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -73.212356,
+    44.473718,
+    -73.212356,
+    44.473718
+],
+  "geometry": {"coordinates":[-73.212356,44.473718],"type":"Point"}
+}

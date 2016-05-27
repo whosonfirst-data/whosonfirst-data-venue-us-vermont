@@ -1,0 +1,73 @@
+{
+  "id": 874116329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.163192,44.014927,-73.163192,44.014927",
+    "geom:latitude":44.014927,
+    "geom:longitude":-73.163192,
+    "iso:country":"US",
+    "sg:address":"249 Buttolph Dr",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 1005",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hcyY2MFHRuqmaTQNPTZQD_44.014927_-73.163192@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312000,
+    "wof:geomhash":"6d1360bb87d6b8808c090902692eabce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874116329
+        }
+    ],
+    "wof:id":874116329,
+    "wof:lastmodified":1464312000,
+    "wof:name":"Vermont State Housing Auth",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -73.163192,
+    44.014927,
+    -73.163192,
+    44.014927
+],
+  "geometry": {"coordinates":[-73.163192,44.014927],"type":"Point"}
+}

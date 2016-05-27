@@ -1,0 +1,71 @@
+{
+  "id": 874118843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.655913,44.148668,-72.655913,44.148668",
+    "geom:latitude":44.148668,
+    "geom:longitude":-72.655913,
+    "iso:country":"US",
+    "sg:address":"21 East St",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 9651",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N9PW3XgEFtCirT4NFuxG4_44.148668_-72.655913@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312023,
+    "wof:geomhash":"449e8b64b83758e747ed28c9f16c2ca4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874118843
+        }
+    ],
+    "wof:id":874118843,
+    "wof:lastmodified":1464312023,
+    "wof:name":"Turkey Hill Construction",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.655913,
+    44.148668,
+    -72.655913,
+    44.148668
+],
+  "geometry": {"coordinates":[-72.655913,44.148668],"type":"Point"}
+}

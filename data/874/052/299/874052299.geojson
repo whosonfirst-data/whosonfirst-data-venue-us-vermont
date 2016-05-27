@@ -1,0 +1,73 @@
+{
+  "id": 874052299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.166526,44.013558,-73.166526,44.013558",
+    "geom:latitude":44.013558,
+    "geom:longitude":-73.166526,
+    "iso:country":"US",
+    "sg:address":"19 S Pleasant St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 1431",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43YIorF0FlPe7WjSP2ZItF_44.013558_-73.166526@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311262,
+    "wof:geomhash":"2f6e2c17486de6874080ff83994bc728",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874052299
+        }
+    ],
+    "wof:id":874052299,
+    "wof:lastmodified":1464311262,
+    "wof:name":"Dennis Newton Electrical",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.166526,
+    44.013558,
+    -73.166526,
+    44.013558
+],
+  "geometry": {"coordinates":[-73.166526,44.013558],"type":"Point"}
+}

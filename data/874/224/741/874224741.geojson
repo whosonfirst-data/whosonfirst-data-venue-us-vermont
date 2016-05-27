@@ -1,0 +1,69 @@
+{
+  "id": 874224741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.725805,42.859609,-72.725805,42.859609",
+    "geom:latitude":42.859609,
+    "geom:longitude":-72.725805,
+    "iso:country":"US",
+    "sg:address":"510 South Rd",
+    "sg:city":"Marlboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 2181",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NTVPQcDiT3eOUpyctN9mt_42.859609_-72.725805@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313109,
+    "wof:geomhash":"d23e794d7a58777bf31e38cd97dc43dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874224741
+        }
+    ],
+    "wof:id":874224741,
+    "wof:lastmodified":1464313109,
+    "wof:name":"Town Clerk",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -72.725805,
+    42.859609,
+    -72.725805,
+    42.859609
+],
+  "geometry": {"coordinates":[-72.72580499999999,42.859609],"type":"Point"}
+}

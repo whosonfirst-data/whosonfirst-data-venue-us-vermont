@@ -1,0 +1,69 @@
+{
+  "id": 874245671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08601,43.917449,-73.08601,43.917449",
+    "geom:latitude":43.917449,
+    "geom:longitude":-73.08601,
+    "iso:country":"US",
+    "sg:address":"1635 W Shore Rd",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 352 6644",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UEK3rEyi4tDn8LvqVaG7R_43.917449_-73.086010@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313448,
+    "wof:geomhash":"f70785fee68e8f51c07565fc08ba2ad1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874245671
+        }
+    ],
+    "wof:id":874245671,
+    "wof:lastmodified":1464313448,
+    "wof:name":"Burlett Plumbing & Heating",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.08601,
+    43.917449,
+    -73.08601,
+    43.917449
+],
+  "geometry": {"coordinates":[-73.08601,43.917449],"type":"Point"}
+}

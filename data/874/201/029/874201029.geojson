@@ -1,0 +1,71 @@
+{
+  "id": 874201029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.057836,44.287752,-72.057836,44.287752",
+    "geom:latitude":44.287752,
+    "geom:longitude":-72.057836,
+    "iso:country":"US",
+    "sg:address":"79 N Monroe Rd",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 4118",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "sg:tags":[
+        "estimate",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZSYciYqJvETjKstFCbrY5_44.287752_-72.057836@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312853,
+    "wof:geomhash":"10fea215928221ae447bbaac1f3232ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874201029
+        }
+    ],
+    "wof:id":874201029,
+    "wof:lastmodified":1464312853,
+    "wof:name":"Winterset Inc",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "estimate",
+        "construction"
+    ]
+},
+  "bbox": [
+    -72.057836,
+    44.287752,
+    -72.057836,
+    44.287752
+],
+  "geometry": {"coordinates":[-72.05783599999999,44.287752],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 874227965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.0859,43.797973,-73.0859,43.797973",
+    "geom:latitude":43.797973,
+    "geom:longitude":-73.0859,
+    "iso:country":"US",
+    "sg:address":"4 Franklin St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 8230",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jhtYTrT5VsheDw9zwh5dC_43.797973_-73.085900@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313140,
+    "wof:geomhash":"96d85a35986bf757d74fd5575ece8d0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874227965
+        }
+    ],
+    "wof:id":874227965,
+    "wof:lastmodified":1464313140,
+    "wof:name":"Brandon Free Public Library",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.0859,
+    43.797973,
+    -73.0859,
+    43.797973
+],
+  "geometry": {"coordinates":[-73.0859,43.797973],"type":"Point"}
+}

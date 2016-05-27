@@ -1,0 +1,73 @@
+{
+  "id": 874248449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.518941,44.215705,-72.518941,44.215705",
+    "geom:latitude":44.215705,
+    "geom:longitude":-72.518941,
+    "iso:country":"US",
+    "sg:address":"18 Ledge Dr",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9604",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MDF2EtBNzDIyPg8X9cM60_44.215705_-72.518941@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313509,
+    "wof:geomhash":"928af6bf2149fd14a5a3345f9151b520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874248449
+        }
+    ],
+    "wof:id":874248449,
+    "wof:lastmodified":1464313509,
+    "wof:name":"Ace Electric",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.518941,
+    44.215705,
+    -72.518941,
+    44.215705
+],
+  "geometry": {"coordinates":[-72.518941,44.215705],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874223493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.18631,44.00961,-73.18631,44.00961",
+    "geom:latitude":44.00961,
+    "geom:longitude":-73.18631,
+    "iso:country":"US",
+    "sg:address":"204 College St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 9090",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o6dfILPKKw0YoQbGLp1Or_44.009610_-73.186310@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313098,
+    "wof:geomhash":"540b7e723858102827bf790d7dc5dab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874223493
+        }
+    ],
+    "wof:id":874223493,
+    "wof:lastmodified":1464313098,
+    "wof:name":"Paul D Berkner",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.18631,
+    44.00961,
+    -73.18631,
+    44.00961
+],
+  "geometry": {"coordinates":[-73.18631000000001,44.00961],"type":"Point"}
+}

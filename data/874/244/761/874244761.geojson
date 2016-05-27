@@ -1,0 +1,73 @@
+{
+  "id": 874244761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.080287,44.133429,-73.080287,44.133429",
+    "geom:latitude":44.133429,
+    "geom:longitude":-73.080287,
+    "iso:country":"US",
+    "sg:address":"11 West St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2421",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LnDiw09N14j2w2GwIunYW_44.133429_-73.080287@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313430,
+    "wof:geomhash":"10a1a24236ba7799613151e115400f96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874244761
+        }
+    ],
+    "wof:id":874244761,
+    "wof:lastmodified":1464313430,
+    "wof:name":"Bristol Main Office",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -73.080287,
+    44.133429,
+    -73.080287,
+    44.133429
+],
+  "geometry": {"coordinates":[-73.080287,44.133429],"type":"Point"}
+}

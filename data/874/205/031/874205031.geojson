@@ -1,0 +1,71 @@
+{
+  "id": 874205031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.518008,43.331863,-72.518008,43.331863",
+    "geom:latitude":43.331863,
+    "geom:longitude":-72.518008,
+    "iso:country":"US",
+    "sg:address":"2 Main St",
+    "sg:city":"N Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 5242",
+    "sg:postcode":"05150",
+    "sg:province":"VT",
+    "sg:tags":[
+        "guidance",
+        "child"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q0Z6FkYxmnFKOdfqviAjY_43.331863_-72.518008@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312895,
+    "wof:geomhash":"ffe4660c7c460ed6dff3b72e823b68b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874205031
+        }
+    ],
+    "wof:id":874205031,
+    "wof:lastmodified":1464312895,
+    "wof:name":"Springfield Area Parent Child",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guidance",
+        "child"
+    ]
+},
+  "bbox": [
+    -72.518008,
+    43.331863,
+    -72.518008,
+    43.331863
+],
+  "geometry": {"coordinates":[-72.51800799999999,43.331863],"type":"Point"}
+}

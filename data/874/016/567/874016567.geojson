@@ -1,0 +1,71 @@
+{
+  "id": 874016567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.86469,44.567723,-72.86469,44.567723",
+    "geom:latitude":44.567723,
+    "geom:longitude":-72.86469,
+    "iso:country":"US",
+    "sg:address":"564 Pleasant Valley Rd",
+    "sg:city":"Underhill",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 4989",
+    "sg:postcode":"05489",
+    "sg:province":"VT",
+    "sg:tags":[
+        "logging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85851047,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FK9URzRioUgPVED7tEpKz_44.567723_-72.864690@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310904,
+    "wof:geomhash":"0161a2b4511ed48669a45a4e8cc5af79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85851047,
+            "region_id":85688763,
+            "venue_id":874016567
+        }
+    ],
+    "wof:id":874016567,
+    "wof:lastmodified":1464310904,
+    "wof:name":"Beloin Logging",
+    "wof:parent_id":85851047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.86469,
+    44.567723,
+    -72.86469,
+    44.567723
+],
+  "geometry": {"coordinates":[-72.86469,44.567723],"type":"Point"}
+}

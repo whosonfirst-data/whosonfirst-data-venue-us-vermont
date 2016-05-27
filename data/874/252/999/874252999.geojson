@@ -1,0 +1,83 @@
+{
+  "id": 874252999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.201762,44.4572,-73.201762,44.4572",
+    "geom:latitude":44.4572,
+    "geom:longitude":-73.201762,
+    "iso:country":"US",
+    "sg:address":"194 Prospect Pkwy",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 6011",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocers-specialty",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pNsfYZBAjBTcEpjqbqbbN_44.457200_-73.201762@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313624,
+    "wof:geomhash":"5c35c350b471a9f2bf8377645b33153c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874252999
+        }
+    ],
+    "wof:id":874252999,
+    "wof:lastmodified":1464313624,
+    "wof:name":"Longe Bros Store",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty",
+        "market"
+    ]
+},
+  "bbox": [
+    -73.201762,
+    44.4572,
+    -73.201762,
+    44.4572
+],
+  "geometry": {"coordinates":[-73.201762,44.4572],"type":"Point"}
+}

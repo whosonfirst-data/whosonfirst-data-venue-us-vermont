@@ -1,0 +1,73 @@
+{
+  "id": 874044717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.501593,44.20406,-72.501593,44.20406",
+    "geom:latitude":44.20406,
+    "geom:longitude":-72.501593,
+    "iso:country":"US",
+    "sg:address":"75 Warren St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6101",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lithographic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZBWHBlllHUdcUVgs79esx_44.204060_-72.501593@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311191,
+    "wof:geomhash":"1b2c364c1f3eef58884c41952fe7ee43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874044717
+        }
+    ],
+    "wof:id":874044717,
+    "wof:lastmodified":1464311191,
+    "wof:name":"Globe Press Printing",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -72.501593,
+    44.20406,
+    -72.501593,
+    44.20406
+],
+  "geometry": {"coordinates":[-72.501593,44.20406],"type":"Point"}
+}

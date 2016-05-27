@@ -1,0 +1,71 @@
+{
+  "id": 874111229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.013018,44.503067,-72.013018,44.503067",
+    "geom:latitude":44.503067,
+    "geom:longitude":-72.013018,
+    "iso:country":"US",
+    "sg:address":"30 Industrial Pkwy",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 334 2131",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jh52awWbHjlsmhqWvu37i_44.503067_-72.013018@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311944,
+    "wof:geomhash":"cc5a953af5e7466e421f8d8ff1d653b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874111229
+        }
+    ],
+    "wof:id":874111229,
+    "wof:lastmodified":1464311944,
+    "wof:name":"Sanel Auto Parts Co Auto Supls",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -72.013018,
+    44.503067,
+    -72.013018,
+    44.503067
+],
+  "geometry": {"coordinates":[-72.013018,44.503067],"type":"Point"}
+}

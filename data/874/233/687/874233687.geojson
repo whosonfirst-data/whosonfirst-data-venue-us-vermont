@@ -1,0 +1,76 @@
+{
+  "id": 874233687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.098922,43.254874,-73.098922,43.254874",
+    "geom:latitude":43.254874,
+    "geom:longitude":-73.098922,
+    "iso:country":"US",
+    "sg:address":"8 Church St",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 867 5500",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.dorsetinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VtBbZxhkxGGCtHRVmQHiA_43.254874_-73.098922@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313213,
+    "wof:geomhash":"7cb628e2b74a166220dfa8a664fc5e7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874233687
+        }
+    ],
+    "wof:id":874233687,
+    "wof:lastmodified":1464313213,
+    "wof:name":"Dorset Inn",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -73.098922,
+    43.254874,
+    -73.098922,
+    43.254874
+],
+  "geometry": {"coordinates":[-73.098922,43.254874],"type":"Point"}
+}

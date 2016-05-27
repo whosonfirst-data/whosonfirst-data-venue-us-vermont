@@ -1,0 +1,83 @@
+{
+  "id": 874255235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.252808,44.167511,-73.252808,44.167511",
+    "geom:latitude":44.167511,
+    "geom:longitude":-73.252808,
+    "iso:country":"US",
+    "sg:address":"221 Main St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2772",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "gourmet",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68EOQEq4z3l8sxBKohU89e_44.167511_-73.252808@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313680,
+    "wof:geomhash":"f1566defb1a87e21aa45deb283842f59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874255235
+        }
+    ],
+    "wof:id":874255235,
+    "wof:lastmodified":1464313680,
+    "wof:name":"3 Squares Cafe",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "gourmet",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -73.252808,
+    44.167511,
+    -73.252808,
+    44.167511
+],
+  "geometry": {"coordinates":[-73.252808,44.167511],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874238637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.01547,44.417533,-72.01547,44.417533",
+    "geom:latitude":44.417533,
+    "geom:longitude":-72.01547,
+    "iso:country":"US",
+    "sg:address":"1 Depot Sq",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 0878",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xCFuDKOmT30wXS3P0Sz7m_44.417533_-72.015470@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313314,
+    "wof:geomhash":"66f3bf0d657f0eff7ab4edb9580b77af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874238637
+        }
+    ],
+    "wof:id":874238637,
+    "wof:lastmodified":1464313314,
+    "wof:name":"Chunbo",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.01547,
+    44.417533,
+    -72.01547,
+    44.417533
+],
+  "geometry": {"coordinates":[-72.01546999999999,44.417533],"type":"Point"}
+}

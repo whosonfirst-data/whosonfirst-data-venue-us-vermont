@@ -1,0 +1,69 @@
+{
+  "id": 874254893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196503,44.358898,-73.196503,44.358898",
+    "geom:latitude":44.358898,
+    "geom:longitude":-73.196503,
+    "iso:country":"US",
+    "sg:address":"8074 Spear St",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 3295",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qGozlf2YwI7KVs3GEaus8_44.358898_-73.196503@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313672,
+    "wof:geomhash":"e4a151c2fc19ce6ad7ca1628b919bb50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874254893
+        }
+    ],
+    "wof:id":874254893,
+    "wof:lastmodified":1464313672,
+    "wof:name":"Laplatte River Angus Farm",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.196503,
+    44.358898,
+    -73.196503,
+    44.358898
+],
+  "geometry": {"coordinates":[-73.19650300000001,44.358898],"type":"Point"}
+}

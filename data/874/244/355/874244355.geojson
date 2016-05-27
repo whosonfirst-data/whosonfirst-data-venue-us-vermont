@@ -1,0 +1,77 @@
+{
+  "id": 874244355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.135839,44.50667,-73.135839,44.50667",
+    "geom:latitude":44.50667,
+    "geom:longitude":-73.135839,
+    "iso:country":"US",
+    "sg:address":"7 Ewing Pl",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 4001",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "bakery",
+        "prod",
+        "cookie",
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZMi0CNHcBG0UqR4xxvwmN_44.506670_-73.135839@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313423,
+    "wof:geomhash":"dc0b25fa2cbcb3179ba42919109ec543",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874244355
+        }
+    ],
+    "wof:id":874244355,
+    "wof:lastmodified":1464313423,
+    "wof:name":"Baker's Dozen Bakery",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "prod",
+        "cookie",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.135839,
+    44.50667,
+    -73.135839,
+    44.50667
+],
+  "geometry": {"coordinates":[-73.135839,44.50667],"type":"Point"}
+}

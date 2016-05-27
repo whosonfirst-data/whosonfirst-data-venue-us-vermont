@@ -1,0 +1,71 @@
+{
+  "id": 874124983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.47867,44.240214,-72.47867,44.240214",
+    "geom:latitude":44.240214,
+    "geom:longitude":-72.47867,
+    "iso:country":"US",
+    "sg:address":"1045 Clark Rd",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1910",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F1hEYFiEv20WDWbDGXTJS_44.240214_-72.478670@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312085,
+    "wof:geomhash":"7c6aa5c291268f2444a0a2fe1b20f24a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874124983
+        }
+    ],
+    "wof:id":874124983,
+    "wof:lastmodified":1464312085,
+    "wof:name":"Steven Megrath",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.47867,
+    44.240214,
+    -72.47867,
+    44.240214
+],
+  "geometry": {"coordinates":[-72.47866999999999,44.240214],"type":"Point"}
+}

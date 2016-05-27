@@ -1,0 +1,73 @@
+{
+  "id": 874149197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.165517,44.01394,-73.165517,44.01394",
+    "geom:latitude":44.01394,
+    "geom:longitude":-73.165517,
+    "iso:country":"US",
+    "sg:address":"1 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 1845",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NCDELYqbE5pPeZzaV8FNZ_44.013940_-73.165517@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312321,
+    "wof:geomhash":"4f1b898fe62aa12e070d0dea8f265022",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874149197
+        }
+    ],
+    "wof:id":874149197,
+    "wof:lastmodified":1464312321,
+    "wof:name":"Chittenden Corp",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -73.165517,
+    44.01394,
+    -73.165517,
+    44.01394
+],
+  "geometry": {"coordinates":[-73.16551699999999,44.01394],"type":"Point"}
+}

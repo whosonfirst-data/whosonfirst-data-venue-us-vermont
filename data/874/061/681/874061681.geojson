@@ -1,0 +1,78 @@
+{
+  "id": 874061681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.956564,43.605036,-72.956564,43.605036",
+    "geom:latitude":43.605036,
+    "geom:longitude":-72.956564,
+    "iso:country":"US",
+    "sg:address":"162 Jackson Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 4294",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1snUIDNVQpKvOhmk0d0TKp_43.605036_-72.956564@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311350,
+    "wof:geomhash":"a82119ca200339bb61e39ba6834b50bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874061681
+        }
+    ],
+    "wof:id":874061681,
+    "wof:lastmodified":1464311350,
+    "wof:name":"Our House Residental Care Home",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -72.956564,
+    43.605036,
+    -72.956564,
+    43.605036
+],
+  "geometry": {"coordinates":[-72.956564,43.605036],"type":"Point"}
+}

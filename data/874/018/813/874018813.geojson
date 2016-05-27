@@ -1,0 +1,71 @@
+{
+  "id": 874018813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.557313,42.869214,-72.557313,42.869214",
+    "geom:latitude":42.869214,
+    "geom:longitude":-72.557313,
+    "iso:country":"US",
+    "sg:address":"668 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 5047",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h0s4pBlbiJoPZMSFkQry0_42.869214_-72.557313@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310935,
+    "wof:geomhash":"4725c9f496e9f1cfe2eac227d39feb4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874018813
+        }
+    ],
+    "wof:id":874018813,
+    "wof:lastmodified":1464310935,
+    "wof:name":"ASAP Lube Ctr",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -72.557313,
+    42.869214,
+    -72.557313,
+    42.869214
+],
+  "geometry": {"coordinates":[-72.55731299999999,42.869214],"type":"Point"}
+}

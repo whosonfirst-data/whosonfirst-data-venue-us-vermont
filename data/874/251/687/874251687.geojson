@@ -1,0 +1,78 @@
+{
+  "id": 874251687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210468,42.899871,-73.210468,42.899871",
+    "geom:latitude":42.899871,
+    "geom:longitude":-73.210468,
+    "iso:country":"US",
+    "sg:address":"210 Northside Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 7007",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delicatessen",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xJ2sHIPXetS0ELITFDbNw_42.899871_-73.210468@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313599,
+    "wof:geomhash":"b070d0ed0e46079a364668ca50bbc590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251687
+        }
+    ],
+    "wof:id":874251687,
+    "wof:lastmodified":1464313599,
+    "wof:name":"Bennington Pizza House",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.210468,
+    42.899871,
+    -73.210468,
+    42.899871
+],
+  "geometry": {"coordinates":[-73.21046800000001,42.899871],"type":"Point"}
+}

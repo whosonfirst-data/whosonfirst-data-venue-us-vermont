@@ -1,0 +1,71 @@
+{
+  "id": 874051663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.152422,44.117778,-73.152422,44.117778",
+    "geom:latitude":44.117778,
+    "geom:longitude":-73.152422,
+    "iso:country":"US",
+    "sg:address":"829 South St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 4424",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "stable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VkhjDKNAUkhW0u6ygIYb3_44.117778_-73.152422@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311256,
+    "wof:geomhash":"ce067127c73bbe49c6ab06eb8b6c570f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874051663
+        }
+    ],
+    "wof:id":874051663,
+    "wof:lastmodified":1464311256,
+    "wof:name":"Equestry",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stable"
+    ]
+},
+  "bbox": [
+    -73.152422,
+    44.117778,
+    -73.152422,
+    44.117778
+],
+  "geometry": {"coordinates":[-73.152422,44.117778],"type":"Point"}
+}

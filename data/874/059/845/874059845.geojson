@@ -1,0 +1,71 @@
+{
+  "id": 874059845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.978414,43.600688,-72.978414,43.600688",
+    "geom:latitude":43.600688,
+    "geom:longitude":-72.978414,
+    "iso:country":"US",
+    "sg:address":"126 Spruce St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 3572",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "fabricator",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cZY0VX70irpOSet3a4SWq_43.600688_-72.978414@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311334,
+    "wof:geomhash":"355225b45334b1b3faa9829a838a3857",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874059845
+        }
+    ],
+    "wof:id":874059845,
+    "wof:lastmodified":1464311334,
+    "wof:name":"Melanson Co Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -72.978414,
+    43.600688,
+    -72.978414,
+    43.600688
+],
+  "geometry": {"coordinates":[-72.978414,43.600688],"type":"Point"}
+}

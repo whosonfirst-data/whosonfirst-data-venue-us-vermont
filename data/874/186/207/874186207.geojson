@@ -1,0 +1,73 @@
+{
+  "id": 874186207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212679,44.479928,-73.212679,44.479928",
+    "geom:latitude":44.479928,
+    "geom:longitude":-73.212679,
+    "iso:country":"US",
+    "sg:address":"28 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 5454",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "craft",
+        "retailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pmzPS4WQ0C3XpyoUtcNwp_44.479928_-73.212679@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312702,
+    "wof:geomhash":"493190e191621059037f706d0137dd5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874186207
+        }
+    ],
+    "wof:id":874186207,
+    "wof:lastmodified":1464312702,
+    "wof:name":"Grass Harp LLC",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "craft",
+        "retailer"
+    ]
+},
+  "bbox": [
+    -73.212679,
+    44.479928,
+    -73.212679,
+    44.479928
+],
+  "geometry": {"coordinates":[-73.21267899999999,44.479928],"type":"Point"}
+}

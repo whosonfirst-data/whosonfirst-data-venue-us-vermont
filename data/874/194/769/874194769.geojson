@@ -1,0 +1,73 @@
+{
+  "id": 874194769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.152367,44.11849,-73.152367,44.11849",
+    "geom:latitude":44.11849,
+    "geom:longitude":-73.152367,
+    "iso:country":"US",
+    "sg:address":"1367 South St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3932",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OnN0y2tQtgMIgB07vNukf_44.118490_-73.152367@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312787,
+    "wof:geomhash":"6f68b6525fd1193e46d43cd8a703c4ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874194769
+        }
+    ],
+    "wof:id":874194769,
+    "wof:lastmodified":1464312787,
+    "wof:name":"Paquettes Excavation Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.152367,
+    44.11849,
+    -73.152367,
+    44.11849
+],
+  "geometry": {"coordinates":[-73.152367,44.11849],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874053421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.41811,43.64293,-72.41811,43.64293",
+    "geom:latitude":43.64293,
+    "geom:longitude":-72.41811,
+    "iso:country":"US",
+    "sg:address":"6800 Woodstock Rd",
+    "sg:city":"Quechee",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 7106",
+    "sg:postcode":"05059",
+    "sg:province":"VT",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hR7V4HNXdsERELQhc8XhO_43.642930_-72.418110@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311273,
+    "wof:geomhash":"e23442e74f021f3eb47ffac7913a7e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874053421
+        }
+    ],
+    "wof:id":874053421,
+    "wof:lastmodified":1464311273,
+    "wof:name":"Banknorth Vermont",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -72.41811,
+    43.64293,
+    -72.41811,
+    43.64293
+],
+  "geometry": {"coordinates":[-72.41811,43.64293],"type":"Point"}
+}

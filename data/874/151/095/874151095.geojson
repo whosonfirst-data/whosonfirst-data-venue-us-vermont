@@ -1,0 +1,71 @@
+{
+  "id": 874151095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.629876,42.991996,-72.629876,42.991996",
+    "geom:latitude":42.991996,
+    "geom:longitude":-72.629876,
+    "iso:country":"US",
+    "sg:address":"44 Howe Ln",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 9735",
+    "sg:postcode":"05345",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gMPw45J8TFevbWptlIgBv_42.991996_-72.629876@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312338,
+    "wof:geomhash":"23696f2c84f0899d6ad5dffe205acded",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874151095
+        }
+    ],
+    "wof:id":874151095,
+    "wof:lastmodified":1464312338,
+    "wof:name":"Sol Tech Building & Design",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.629876,
+    42.991996,
+    -72.629876,
+    42.991996
+],
+  "geometry": {"coordinates":[-72.629876,42.991996],"type":"Point"}
+}

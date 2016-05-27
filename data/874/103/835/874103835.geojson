@@ -1,0 +1,69 @@
+{
+  "id": 874103835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.082383,44.347327,-73.082383,44.347327",
+    "geom:latitude":44.347327,
+    "geom:longitude":-73.082383,
+    "iso:country":"US",
+    "sg:address":"564 Birchwood Dr",
+    "sg:city":"Hinesburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 482 2617",
+    "sg:postcode":"05461",
+    "sg:province":"VT",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844363,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gpOWuGTHJOKsqVEg25wSP_44.347327_-73.082383@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311842,
+    "wof:geomhash":"a51bd9f4b4d3845b5f52b4db9832514c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85844363,
+            "region_id":85688763,
+            "venue_id":874103835
+        }
+    ],
+    "wof:id":874103835,
+    "wof:lastmodified":1464311842,
+    "wof:name":"Fournier Logging",
+    "wof:parent_id":85844363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -73.082383,
+    44.347327,
+    -73.082383,
+    44.347327
+],
+  "geometry": {"coordinates":[-73.08238299999999,44.347327],"type":"Point"}
+}

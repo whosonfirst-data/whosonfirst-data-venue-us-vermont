@@ -1,0 +1,71 @@
+{
+  "id": 874033277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.013331,44.419836,-72.013331,44.419836",
+    "geom:latitude":44.419836,
+    "geom:longitude":-72.013331,
+    "iso:country":"US",
+    "sg:address":"121 Portland St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8384",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VERXDAYrpoXLBK9qJcdrl_44.419836_-72.013331@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311078,
+    "wof:geomhash":"321b7cf23b206fdebcde1a79629573be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874033277
+        }
+    ],
+    "wof:id":874033277,
+    "wof:lastmodified":1464311078,
+    "wof:name":"Northeastern Automotive Wrhse",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.013331,
+    44.419836,
+    -72.013331,
+    44.419836
+],
+  "geometry": {"coordinates":[-72.01333099999999,44.419836],"type":"Point"}
+}

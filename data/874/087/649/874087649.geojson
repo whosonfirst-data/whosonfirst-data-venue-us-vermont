@@ -1,0 +1,73 @@
+{
+  "id": 874087649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.496886,44.213149,-72.496886,44.213149",
+    "geom:latitude":44.213149,
+    "geom:longitude":-72.496886,
+    "iso:country":"US",
+    "sg:address":"296 E Montpelier Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6700",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2snOOhbZPptPg9Ard4Jgyv_44.213149_-72.496886@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311638,
+    "wof:geomhash":"72570cff2638c14f09f3c290630620eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874087649
+        }
+    ],
+    "wof:id":874087649,
+    "wof:lastmodified":1464311638,
+    "wof:name":"Sweets Service",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.496886,
+    44.213149,
+    -72.496886,
+    44.213149
+],
+  "geometry": {"coordinates":[-72.496886,44.213149],"type":"Point"}
+}

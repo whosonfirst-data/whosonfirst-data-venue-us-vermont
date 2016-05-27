@@ -1,0 +1,73 @@
+{
+  "id": 874211685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.621433,44.662538,-72.621433,44.662538",
+    "geom:latitude":44.662538,
+    "geom:longitude":-72.621433,
+    "iso:country":"US",
+    "sg:address":"3761 State Rte 100C",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 2812",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delivery",
+        "home",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UXipiM50ZOyokQmy4tQY9_44.662538_-72.621433@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312971,
+    "wof:geomhash":"d9c9fdb1a92512adcbcdbe724371a2bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874211685
+        }
+    ],
+    "wof:id":874211685,
+    "wof:lastmodified":1464312971,
+    "wof:name":"Rod & Son Heating Oil Inc",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "home",
+        "heating"
+    ]
+},
+  "bbox": [
+    -72.621433,
+    44.662538,
+    -72.621433,
+    44.662538
+],
+  "geometry": {"coordinates":[-72.621433,44.662538],"type":"Point"}
+}

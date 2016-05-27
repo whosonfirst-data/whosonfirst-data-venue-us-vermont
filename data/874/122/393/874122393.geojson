@@ -1,0 +1,84 @@
+{
+  "id": 874122393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.980198,44.643388,-71.980198,44.643388",
+    "geom:latitude":44.643388,
+    "geom:longitude":-71.980198,
+    "iso:country":"US",
+    "sg:address":"196 State Rte 5a",
+    "sg:city":"West Burke",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 467 3367",
+    "sg:postcode":"05871",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer",
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420545825,
+        102191575,
+        404527549,
+        85633793,
+        101728271,
+        102080755,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Uiuq31lVPSn7eKRJkr3Bh_44.643388_-71.980198@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312062,
+    "wof:geomhash":"b7cca63b268e44a8fc7addee15b727cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080755,
+            "localadmin_id":404527549,
+            "locality_id":101728271,
+            "neighbourhood_id":420545825,
+            "region_id":85688763,
+            "venue_id":874122393
+        }
+    ],
+    "wof:id":874122393,
+    "wof:lastmodified":1464312062,
+    "wof:name":"Aldrich's General Store",
+    "wof:parent_id":420545825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.980198,
+    44.643388,
+    -71.980198,
+    44.643388
+],
+  "geometry": {"coordinates":[-71.980198,44.643388],"type":"Point"}
+}

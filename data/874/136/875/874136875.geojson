@@ -1,0 +1,71 @@
+{
+  "id": 874136875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.832826,44.642492,-72.832826,44.642492",
+    "geom:latitude":44.642492,
+    "geom:longitude":-72.832826,
+    "iso:country":"US",
+    "sg:address":"69 Mihean Dr",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5828",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_123Tmnz2RsbtfTnV0WkIRf_44.642492_-72.832826@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312207,
+    "wof:geomhash":"7d0d2cdba27c96cc9f87d068f992b5f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874136875
+        }
+    ],
+    "wof:id":874136875,
+    "wof:lastmodified":1464312207,
+    "wof:name":"Wee Care Day Care",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -72.832826,
+    44.642492,
+    -72.832826,
+    44.642492
+],
+  "geometry": {"coordinates":[-72.832826,44.642492],"type":"Point"}
+}

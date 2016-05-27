@@ -1,0 +1,71 @@
+{
+  "id": 874182457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.972043,43.606964,-72.972043,43.606964",
+    "geom:latitude":43.606964,
+    "geom:longitude":-72.972043,
+    "iso:country":"US",
+    "sg:address":"130 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 3335",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fldCpVoM6ri92K7YMOcIR_43.606964_-72.972043@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312655,
+    "wof:geomhash":"b603aee602e64b2db740d763434c0f9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874182457
+        }
+    ],
+    "wof:id":874182457,
+    "wof:lastmodified":1464312655,
+    "wof:name":"Billings Motors Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.972043,
+    43.606964,
+    -72.972043,
+    43.606964
+],
+  "geometry": {"coordinates":[-72.972043,43.606964],"type":"Point"}
+}

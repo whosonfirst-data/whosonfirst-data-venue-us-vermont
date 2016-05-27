@@ -1,0 +1,71 @@
+{
+  "id": 874111751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.105573,44.493853,-73.105573,44.493853",
+    "geom:latitude":44.493853,
+    "geom:longitude":-73.105573,
+    "iso:country":"US",
+    "sg:address":"87 Main St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 5767",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02A5Waq2h6b7cifbGLuGYQ_44.493853_-73.105573@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311953,
+    "wof:geomhash":"8da368afe86aa3873f972a16504e003f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874111751
+        }
+    ],
+    "wof:id":874111751,
+    "wof:lastmodified":1464311953,
+    "wof:name":"Associates In Physical Therapy",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.105573,
+    44.493853,
+    -73.105573,
+    44.493853
+],
+  "geometry": {"coordinates":[-73.10557300000001,44.493853],"type":"Point"}
+}

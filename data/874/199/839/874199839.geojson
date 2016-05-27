@@ -1,0 +1,71 @@
+{
+  "id": 874199839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.526688,43.337986,-72.526688,43.337986",
+    "geom:latitude":43.337986,
+    "geom:longitude":-72.526688,
+    "iso:country":"US",
+    "sg:address":"40 School St",
+    "sg:city":"N Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 8591",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19r3G0cIXf0HH4AwnaYjts_43.337986_-72.526688@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312842,
+    "wof:geomhash":"a63bbdba16617be5c359aba66f0a28e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874199839
+        }
+    ],
+    "wof:id":874199839,
+    "wof:lastmodified":1464312842,
+    "wof:name":"A C Cook Electric",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.526688,
+    43.337986,
+    -72.526688,
+    43.337986
+],
+  "geometry": {"coordinates":[-72.52668799999999,43.337986],"type":"Point"}
+}

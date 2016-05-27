@@ -1,0 +1,73 @@
+{
+  "id": 874195043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.160764,44.007003,-73.160764,44.007003",
+    "geom:latitude":44.007003,
+    "geom:longitude":-73.160764,
+    "iso:country":"US",
+    "sg:address":"99 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7185",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iTmkL3yGRhZ7eEjsrRtbf_44.007003_-73.160764@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312795,
+    "wof:geomhash":"942b180c5446bc34cd1f43656db1c9eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874195043
+        }
+    ],
+    "wof:id":874195043,
+    "wof:lastmodified":1464312795,
+    "wof:name":"Cedar Ledge Family Practice",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.160764,
+    44.007003,
+    -73.160764,
+    44.007003
+],
+  "geometry": {"coordinates":[-73.160764,44.007003],"type":"Point"}
+}

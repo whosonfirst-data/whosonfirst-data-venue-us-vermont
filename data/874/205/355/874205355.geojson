@@ -1,0 +1,71 @@
+{
+  "id": 874205355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.522254,43.351467,-72.522254,43.351467",
+    "geom:latitude":43.351467,
+    "geom:longitude":-72.522254,
+    "iso:country":"US",
+    "sg:address":"207 Kendricks Corner Rd",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 5620",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IgERDD5yzjVB4lIeCUYVv_43.351467_-72.522254@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312898,
+    "wof:geomhash":"3b4642eceb6c5e70f129f0c0f2be7795",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874205355
+        }
+    ],
+    "wof:id":874205355,
+    "wof:lastmodified":1464312898,
+    "wof:name":"Clear Away Rubbish & Recycling",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -72.522254,
+    43.351467,
+    -72.522254,
+    43.351467
+],
+  "geometry": {"coordinates":[-72.522254,43.351467],"type":"Point"}
+}

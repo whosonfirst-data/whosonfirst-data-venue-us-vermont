@@ -1,0 +1,69 @@
+{
+  "id": 874193947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.101064,44.430195,-72.101064,44.430195",
+    "geom:latitude":44.430195,
+    "geom:longitude":-72.101064,
+    "iso:country":"US",
+    "sg:address":"254 State Rte 2b",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 9977",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dI5sTHoyphS1iM3JmfTl1_44.430195_-72.101064@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312779,
+    "wof:geomhash":"ce9780e827ac036fd391a616677c0100",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874193947
+        }
+    ],
+    "wof:id":874193947,
+    "wof:lastmodified":1464312779,
+    "wof:name":"Northern Equine",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.101064,
+    44.430195,
+    -72.101064,
+    44.430195
+],
+  "geometry": {"coordinates":[-72.10106399999999,44.430195],"type":"Point"}
+}

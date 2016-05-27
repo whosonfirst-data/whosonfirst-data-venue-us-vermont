@@ -1,0 +1,66 @@
+{
+  "id": 874233109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.080401,44.133462,-73.080401,44.133462",
+    "geom:latitude":44.133462,
+    "geom:longitude":-73.080401,
+    "iso:country":"US",
+    "sg:address":"3 West St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 4013",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kLxjK1eUW8u8q2eHsI8Gf_44.133462_-73.080401@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313201,
+    "wof:geomhash":"24f7e55bce76ab5832a54f5b9a31a219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874233109
+        }
+    ],
+    "wof:id":874233109,
+    "wof:lastmodified":1464313201,
+    "wof:name":"Champlain Farms",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.080401,
+    44.133462,
+    -73.080401,
+    44.133462
+],
+  "geometry": {"coordinates":[-73.08040099999999,44.133462],"type":"Point"}
+}

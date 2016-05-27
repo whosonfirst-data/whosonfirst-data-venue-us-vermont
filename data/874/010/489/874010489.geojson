@@ -1,0 +1,73 @@
+{
+  "id": 874010489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.428736,44.269128,-72.428736,44.269128",
+    "geom:latitude":44.269128,
+    "geom:longitude":-72.428736,
+    "iso:country":"US",
+    "sg:address":"61 Lower Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 454 1427",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C4DMLQa6k77Yifvhl0ksH_44.269128_-72.428736@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310859,
+    "wof:geomhash":"87de2c09bff15afd11ffa1bb00e88185",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874010489
+        }
+    ],
+    "wof:id":874010489,
+    "wof:lastmodified":1464310859,
+    "wof:name":"Allways P & H Plumbing Heating",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.428736,
+    44.269128,
+    -72.428736,
+    44.269128
+],
+  "geometry": {"coordinates":[-72.428736,44.269128],"type":"Point"}
+}

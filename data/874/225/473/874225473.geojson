@@ -1,0 +1,71 @@
+{
+  "id": 874225473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.207931,44.483456,-73.207931,44.483456",
+    "geom:latitude":44.483456,
+    "geom:longitude":-73.207931,
+    "iso:country":"US",
+    "sg:address":"46 School St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 0427",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YYFjsLcWV1Sp14RSDMxKj_44.483456_-73.207931@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313115,
+    "wof:geomhash":"d2ac09095a3510021ff924c265285b98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874225473
+        }
+    ],
+    "wof:id":874225473,
+    "wof:lastmodified":1464313115,
+    "wof:name":"Lojos Yum Yums",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.207931,
+    44.483456,
+    -73.207931,
+    44.483456
+],
+  "geometry": {"coordinates":[-73.207931,44.483456],"type":"Point"}
+}

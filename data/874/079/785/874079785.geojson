@@ -1,0 +1,75 @@
+{
+  "id": 874079785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.49408,44.184889,-72.49408,44.184889",
+    "geom:latitude":44.184889,
+    "geom:longitude":-72.49408,
+    "iso:country":"US",
+    "sg:address":"76 Birch Ct",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 0306",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JHBETfLSjAbgNa68tOWyR_44.184889_-72.494080@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311550,
+    "wof:geomhash":"f952121458e1dc046b6ec554df7e44a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874079785
+        }
+    ],
+    "wof:id":874079785,
+    "wof:lastmodified":1464311550,
+    "wof:name":"Little Roger Trucking & Clg",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.49408,
+    44.184889,
+    -72.49408,
+    44.184889
+],
+  "geometry": {"coordinates":[-72.49408,44.184889],"type":"Point"}
+}

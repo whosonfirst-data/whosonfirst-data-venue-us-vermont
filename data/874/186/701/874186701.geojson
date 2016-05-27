@@ -1,0 +1,71 @@
+{
+  "id": 874186701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.516815,44.199267,-72.516815,44.199267",
+    "geom:latitude":44.199267,
+    "geom:longitude":-72.516815,
+    "iso:country":"US",
+    "sg:address":"73 Highgate Dr",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 8645",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oulVujIglr6WGIECEeEtx_44.199267_-72.516815@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312706,
+    "wof:geomhash":"be439542105da5f8376d3cb431a5d85a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874186701
+        }
+    ],
+    "wof:id":874186701,
+    "wof:lastmodified":1464312706,
+    "wof:name":"Highgate Apartments",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.516815,
+    44.199267,
+    -72.516815,
+    44.199267
+],
+  "geometry": {"coordinates":[-72.51681499999999,44.199267],"type":"Point"}
+}

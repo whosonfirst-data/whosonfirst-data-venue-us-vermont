@@ -1,0 +1,71 @@
+{
+  "id": 874049159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.59574,43.260459,-72.59574,43.260459",
+    "geom:latitude":43.260459,
+    "geom:longitude":-72.59574,
+    "iso:country":"US",
+    "sg:address":"9 Mill St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 869 2451",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r2KbAYJrEt8h28Xd85Ldi_43.260459_-72.595740@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311233,
+    "wof:geomhash":"44f244f6f9557e847121ad15dda3f0ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874049159
+        }
+    ],
+    "wof:id":874049159,
+    "wof:lastmodified":1464311233,
+    "wof:name":"Taylor Excavation",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.59574,
+    43.260459,
+    -72.59574,
+    43.260459
+],
+  "geometry": {"coordinates":[-72.59574000000001,43.260459],"type":"Point"}
+}

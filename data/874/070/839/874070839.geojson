@@ -1,0 +1,69 @@
+{
+  "id": 874070839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.021762,43.59802,-73.021762,43.59802",
+    "geom:latitude":43.59802,
+    "geom:longitude":-73.021762,
+    "iso:country":"US",
+    "sg:address":"1085 US Hwy 4 Bus",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 6331",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E1P4Mf9yA0OpUcomX330Y_43.598020_-73.021762@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311442,
+    "wof:geomhash":"815f1f88b946ed55e6482e84fb603f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874070839
+        }
+    ],
+    "wof:id":874070839,
+    "wof:lastmodified":1464311442,
+    "wof:name":"Vermont Educational Support",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -73.021762,
+    43.59802,
+    -73.021762,
+    43.59802
+],
+  "geometry": {"coordinates":[-73.021762,43.59802],"type":"Point"}
+}

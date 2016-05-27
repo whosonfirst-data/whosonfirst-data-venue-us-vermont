@@ -1,0 +1,71 @@
+{
+  "id": 874083587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.237754,44.546365,-73.237754,44.546365",
+    "geom:latitude":44.546365,
+    "geom:longitude":-73.237754,
+    "iso:country":"US",
+    "sg:address":"405 Prim Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 9762",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eiXplIy8W5mGSQc1PsGQi_44.546365_-73.237754@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311595,
+    "wof:geomhash":"d6332a9fb9698335a6fffacbeb0775f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874083587
+        }
+    ],
+    "wof:id":874083587,
+    "wof:lastmodified":1464311595,
+    "wof:name":"Couillard's Auto",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.237754,
+    44.546365,
+    -73.237754,
+    44.546365
+],
+  "geometry": {"coordinates":[-73.237754,44.546365],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874168725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.828097,44.646585,-72.828097,44.646585",
+    "geom:latitude":44.646585,
+    "geom:longitude":-72.828097,
+    "iso:country":"US",
+    "sg:address":"168 Main St",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 1988",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product",
+        "manufacturer"
+    ],
+    "sg:website":"www.mountainbrookvt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CLjqgD01UlO5r23TwFGPM_44.646585_-72.828097@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312515,
+    "wof:geomhash":"b9608bface35fdb32c729772349fe66c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874168725
+        }
+    ],
+    "wof:id":874168725,
+    "wof:lastmodified":1464312515,
+    "wof:name":"Mountainbrook Of Vermont",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -72.828097,
+    44.646585,
+    -72.828097,
+    44.646585
+],
+  "geometry": {"coordinates":[-72.828097,44.646585],"type":"Point"}
+}

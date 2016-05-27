@@ -1,0 +1,69 @@
+{
+  "id": 874096791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.186542,44.490536,-73.186542,44.490536",
+    "geom:latitude":44.490536,
+    "geom:longitude":-73.186542,
+    "iso:country":"US",
+    "sg:address":"30 Main St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 4563",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KrefDTi3EO1xcGramuV69_44.490536_-73.186542@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311740,
+    "wof:geomhash":"0f046ad3a0c1709c51eae21e838782a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874096791
+        }
+    ],
+    "wof:id":874096791,
+    "wof:lastmodified":1464311740,
+    "wof:name":"Monkey House",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -73.186542,
+    44.490536,
+    -73.186542,
+    44.490536
+],
+  "geometry": {"coordinates":[-73.186542,44.490536],"type":"Point"}
+}

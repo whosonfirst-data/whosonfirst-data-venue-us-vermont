@@ -1,0 +1,69 @@
+{
+  "id": 874195463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.932666,43.530055,-72.932666,43.530055",
+    "geom:latitude":43.530055,
+    "geom:longitude":-72.932666,
+    "iso:country":"US",
+    "sg:address":"358 E Clarendon Rd",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 3662",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xpNvUBdEJ1brPxXfWIvHG_43.530055_-72.932666@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312799,
+    "wof:geomhash":"d0289101040367d0e8c12dc46c144381",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874195463
+        }
+    ],
+    "wof:id":874195463,
+    "wof:lastmodified":1464312799,
+    "wof:name":"Salem Farm",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equine"
+    ]
+},
+  "bbox": [
+    -72.932666,
+    43.530055,
+    -72.932666,
+    43.530055
+],
+  "geometry": {"coordinates":[-72.932666,43.530055],"type":"Point"}
+}

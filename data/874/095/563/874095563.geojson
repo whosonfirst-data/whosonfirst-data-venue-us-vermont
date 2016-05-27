@@ -1,0 +1,73 @@
+{
+  "id": 874095563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.017067,44.428166,-72.017067,44.428166",
+    "geom:latitude":44.428166,
+    "geom:longitude":-72.017067,
+    "iso:country":"US",
+    "sg:address":"1169 Railroad St",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 751 8364",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xAtTmrMZuAVnpFcqDapwf_44.428166_-72.017067@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311719,
+    "wof:geomhash":"fbcd16fe9c7ad5d55eae31dc5b6ba401",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874095563
+        }
+    ],
+    "wof:id":874095563,
+    "wof:lastmodified":1464311719,
+    "wof:name":"Floors & More",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.017067,
+    44.428166,
+    -72.017067,
+    44.428166
+],
+  "geometry": {"coordinates":[-72.017067,44.428166],"type":"Point"}
+}

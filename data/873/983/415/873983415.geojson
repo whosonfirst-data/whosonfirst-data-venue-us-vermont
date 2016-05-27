@@ -1,0 +1,64 @@
+{
+  "id": 873983415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.537305,43.454849,-72.537305,43.454849",
+    "geom:latitude":43.454849,
+    "geom:longitude":-72.537305,
+    "iso:country":"US",
+    "sg:address":"799 State Rte 106",
+    "sg:city":"Reading",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 484 5994",
+    "sg:postcode":"05062",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vwx3xwM7eL5riJ1kBqmBv_43.454849_-72.537305@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310637,
+    "wof:geomhash":"29a6a1b9fb4ff3d8df59d66057e3f55f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":873983415
+        }
+    ],
+    "wof:id":873983415,
+    "wof:lastmodified":1464310637,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.537305,
+    43.454849,
+    -72.537305,
+    43.454849
+],
+  "geometry": {"coordinates":[-72.537305,43.454849],"type":"Point"}
+}

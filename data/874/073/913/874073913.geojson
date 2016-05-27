@@ -1,0 +1,71 @@
+{
+  "id": 874073913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.115147,44.102013,-73.115147,44.102013",
+    "geom:latitude":44.102013,
+    "geom:longitude":-73.115147,
+    "iso:country":"US",
+    "sg:address":"2308 East St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7800",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GplFvJBkXbKDLNnYk6uRE_44.102013_-73.115147@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311493,
+    "wof:geomhash":"09466bda909bd7c44406188767a21d46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874073913
+        }
+    ],
+    "wof:id":874073913,
+    "wof:lastmodified":1464311493,
+    "wof:name":"Bet-Cha Transit Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -73.115147,
+    44.102013,
+    -73.115147,
+    44.102013
+],
+  "geometry": {"coordinates":[-73.11514699999999,44.102013],"type":"Point"}
+}

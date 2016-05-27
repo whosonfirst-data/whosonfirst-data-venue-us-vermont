@@ -1,0 +1,69 @@
+{
+  "id": 874143805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.203255,42.877366,-73.203255,42.877366",
+    "geom:latitude":42.877366,
+    "geom:longitude":-73.203255,
+    "iso:country":"US",
+    "sg:address":"205 Dewey St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 1056",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WRQxXbBZ88ciLVdClqzXn_42.877366_-73.203255@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312269,
+    "wof:geomhash":"4c44bd8ef5decc424aa8dc165a730a6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874143805
+        }
+    ],
+    "wof:id":874143805,
+    "wof:lastmodified":1464312269,
+    "wof:name":"Stark Hose House",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -73.203255,
+    42.877366,
+    -73.203255,
+    42.877366
+],
+  "geometry": {"coordinates":[-73.203255,42.877366],"type":"Point"}
+}

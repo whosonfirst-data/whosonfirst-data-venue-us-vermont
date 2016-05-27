@@ -1,0 +1,73 @@
+{
+  "id": 874221753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.256491,44.178802,-73.256491,44.178802",
+    "geom:latitude":44.178802,
+    "geom:longitude":-73.256491,
+    "iso:country":"US",
+    "sg:address":"90 Comfort Hill St",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 8308",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JSjYivySsEjuFWTuqwoCY_44.178802_-73.256491@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313081,
+    "wof:geomhash":"d16531e53adb9b4f8d3983783e756c29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874221753
+        }
+    ],
+    "wof:id":874221753,
+    "wof:lastmodified":1464313081,
+    "wof:name":"Comfort Hill Kennel",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -73.256491,
+    44.178802,
+    -73.256491,
+    44.178802
+],
+  "geometry": {"coordinates":[-73.256491,44.178802],"type":"Point"}
+}

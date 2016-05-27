@@ -1,0 +1,72 @@
+{
+  "id": 874215381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.678566,44.634955,-72.678566,44.634955",
+    "geom:latitude":44.634955,
+    "geom:longitude":-72.678566,
+    "iso:country":"US",
+    "sg:address":"51 Lower Main St E",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 7185",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "woolen",
+        "mills"
+    ],
+    "sg:website":"www.johnsonwoolenmills.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1akSdxh7GIsQatjBq1AHDf_44.634955_-72.678566@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313008,
+    "wof:geomhash":"dc105206b707b8f3f8b187bad15d3aa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874215381
+        }
+    ],
+    "wof:id":874215381,
+    "wof:lastmodified":1464313008,
+    "wof:name":"Johnson Woolen Mills",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woolen",
+        "mills"
+    ]
+},
+  "bbox": [
+    -72.678566,
+    44.634955,
+    -72.678566,
+    44.634955
+],
+  "geometry": {"coordinates":[-72.678566,44.634955],"type":"Point"}
+}

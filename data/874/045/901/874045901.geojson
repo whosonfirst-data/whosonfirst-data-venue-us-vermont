@@ -1,0 +1,75 @@
+{
+  "id": 874045901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.016394,44.417882,-72.016394,44.417882",
+    "geom:latitude":44.417882,
+    "geom:longitude":-72.016394,
+    "iso:country":"US",
+    "sg:address":"42 Eastern Ave",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 5550",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "clinic",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C9XawQr9EOaomI46UVw1N_44.417882_-72.016394@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311206,
+    "wof:geomhash":"9a5a3d5f67cab3f55f9b11a107fb5a1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874045901
+        }
+    ],
+    "wof:id":874045901,
+    "wof:lastmodified":1464311206,
+    "wof:name":"Alcohol and Drug Abuse",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "clinic",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -72.016394,
+    44.417882,
+    -72.016394,
+    44.417882
+],
+  "geometry": {"coordinates":[-72.01639400000001,44.417882],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874077689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.081965,43.921613,-73.081965,43.921613",
+    "geom:latitude":43.921613,
+    "geom:longitude":-73.081965,
+    "iso:country":"US",
+    "sg:address":"1921 Lake Dunmore Rd",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 352 6678",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85847185,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YOACCU9MF7HgEtFi49Y7K_43.921613_-73.081965@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311525,
+    "wof:geomhash":"1dd167e1bac4537cd59f92f8fe777673",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85847185,
+            "region_id":85688763,
+            "venue_id":874077689
+        }
+    ],
+    "wof:id":874077689,
+    "wof:lastmodified":1464311525,
+    "wof:name":"Rutland Renovations Inc",
+    "wof:parent_id":85847185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.081965,
+    43.921613,
+    -73.081965,
+    43.921613
+],
+  "geometry": {"coordinates":[-73.081965,43.921613],"type":"Point"}
+}

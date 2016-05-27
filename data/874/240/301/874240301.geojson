@@ -1,0 +1,69 @@
+{
+  "id": 874240301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.970987,44.421985,-71.970987,44.421985",
+    "geom:latitude":44.421985,
+    "geom:longitude":-71.970987,
+    "iso:country":"US",
+    "sg:address":"1065 Higgins Hill Rd",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 8450",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WMdVPWfhm6nwy7BXUIjLM_44.421985_-71.970987@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313346,
+    "wof:geomhash":"a7a6ff4dd16dad040dd4004dbb15cd7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874240301
+        }
+    ],
+    "wof:id":874240301,
+    "wof:lastmodified":1464313346,
+    "wof:name":"D & T Auto Body",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.970987,
+    44.421985,
+    -71.970987,
+    44.421985
+],
+  "geometry": {"coordinates":[-71.97098699999999,44.421985],"type":"Point"}
+}

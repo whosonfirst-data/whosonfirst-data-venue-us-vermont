@@ -1,0 +1,73 @@
+{
+  "id": 874125361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078045,44.132998,-73.078045,44.132998",
+    "geom:latitude":44.132998,
+    "geom:longitude":-73.078045,
+    "iso:country":"US",
+    "sg:address":"25 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 7200",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kEjAdxEPg1hEqUV4ttDPU_44.132998_-73.078045@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312089,
+    "wof:geomhash":"fde885a449d1649b11672beecbe5f08f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874125361
+        }
+    ],
+    "wof:id":874125361,
+    "wof:lastmodified":1464312089,
+    "wof:name":"Bristol Physical Therapy",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.078045,
+    44.132998,
+    -73.078045,
+    44.132998
+],
+  "geometry": {"coordinates":[-73.078045,44.132998],"type":"Point"}
+}

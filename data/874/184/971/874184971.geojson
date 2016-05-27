@@ -1,0 +1,71 @@
+{
+  "id": 874184971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.537718,44.241403,-72.537718,44.241403",
+    "geom:latitude":44.241403,
+    "geom:longitude":-72.537718,
+    "iso:country":"US",
+    "sg:address":"1234 US Hwy 2",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 4404",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oCmyrfl4t123o4Hp3g3Zh_44.241403_-72.537718@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312691,
+    "wof:geomhash":"5eeaa9aff7fa75d9db0c0c6da4f1eec0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874184971
+        }
+    ],
+    "wof:id":874184971,
+    "wof:lastmodified":1464312691,
+    "wof:name":"First Student Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -72.537718,
+    44.241403,
+    -72.537718,
+    44.241403
+],
+  "geometry": {"coordinates":[-72.537718,44.241403],"type":"Point"}
+}

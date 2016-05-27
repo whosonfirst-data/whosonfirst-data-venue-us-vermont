@@ -1,0 +1,73 @@
+{
+  "id": 874222015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.157422,44.058685,-73.157422,44.058685",
+    "geom:latitude":44.058685,
+    "geom:longitude":-73.157422,
+    "iso:country":"US",
+    "sg:address":"167 River Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7920",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EIFlKjUP7guLu3Tt6Rp6m_44.058685_-73.157422@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313083,
+    "wof:geomhash":"881cf7303bedeb3b1ec467d991511394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874222015
+        }
+    ],
+    "wof:id":874222015,
+    "wof:lastmodified":1464313083,
+    "wof:name":"Exchange Street Self Storage",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -73.157422,
+    44.058685,
+    -73.157422,
+    44.058685
+],
+  "geometry": {"coordinates":[-73.157422,44.058685],"type":"Point"}
+}

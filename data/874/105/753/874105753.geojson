@@ -1,0 +1,77 @@
+{
+  "id": 874105753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.498348,44.189232,-72.498348,44.189232",
+    "geom:latitude":44.189232,
+    "geom:longitude":-72.498348,
+    "iso:country":"US",
+    "sg:address":"136 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6666",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "cutting",
+        "breaking",
+        "sawing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LJKl5xZaWztgq7Nap7WHi_44.189232_-72.498348@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311865,
+    "wof:geomhash":"e242432d2088836e78f68637565ca9ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874105753
+        }
+    ],
+    "wof:id":874105753,
+    "wof:lastmodified":1464311865,
+    "wof:name":"Vermont Concrete Cutting",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "cutting",
+        "breaking",
+        "sawing"
+    ]
+},
+  "bbox": [
+    -72.498348,
+    44.189232,
+    -72.498348,
+    44.189232
+],
+  "geometry": {"coordinates":[-72.49834799999999,44.189232],"type":"Point"}
+}

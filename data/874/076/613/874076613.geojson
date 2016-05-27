@@ -1,0 +1,71 @@
+{
+  "id": 874076613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.17543,44.077697,-73.17543,44.077697",
+    "geom:latitude":44.077697,
+    "geom:longitude":-73.17543,
+    "iso:country":"US",
+    "sg:address":"1908 Ethan Allen Hwy",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 9817",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bGFZPBSHZZ4UXDuIcY9ze_44.077697_-73.175430@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311516,
+    "wof:geomhash":"1ad3fdb764892303e95ece4832151781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874076613
+        }
+    ],
+    "wof:id":874076613,
+    "wof:lastmodified":1464311516,
+    "wof:name":"New Haven Mobil",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -73.17543,
+    44.077697,
+    -73.17543,
+    44.077697
+],
+  "geometry": {"coordinates":[-73.17543000000001,44.077697],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874020919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.537837,44.222458,-72.537837,44.222458",
+    "geom:latitude":44.222458,
+    "geom:longitude":-72.537837,
+    "iso:country":"US",
+    "sg:address":"201 Vine St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9612",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZJ0Tnkl3bGm3eZ28IVsG1_44.222458_-72.537837@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310956,
+    "wof:geomhash":"68cd660ea8e2a68168034ae4a3ce6f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874020919
+        }
+    ],
+    "wof:id":874020919,
+    "wof:lastmodified":1464310956,
+    "wof:name":"Ladd Construction",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.537837,
+    44.222458,
+    -72.537837,
+    44.222458
+],
+  "geometry": {"coordinates":[-72.537837,44.222458],"type":"Point"}
+}

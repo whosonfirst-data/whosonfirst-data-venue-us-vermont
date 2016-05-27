@@ -1,0 +1,71 @@
+{
+  "id": 874102125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.81412,44.642701,-72.81412,44.642701",
+    "geom:latitude":44.642701,
+    "geom:longitude":-72.81412,
+    "iso:country":"US",
+    "sg:address":"500 Junction Hill Rd",
+    "sg:city":"Jeffersonville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 5328",
+    "sg:postcode":"05464",
+    "sg:province":"VT",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TG3EGWUKZ8Nc6cxVepaae_44.642701_-72.814120@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311819,
+    "wof:geomhash":"c182d38ebc633f05e5ea8158c737ee12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874102125
+        }
+    ],
+    "wof:id":874102125,
+    "wof:lastmodified":1464311819,
+    "wof:name":"K M Nolan",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -72.81412,
+    44.642701,
+    -72.81412,
+    44.642701
+],
+  "geometry": {"coordinates":[-72.81412,44.642701],"type":"Point"}
+}

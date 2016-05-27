@@ -1,0 +1,69 @@
+{
+  "id": 874051345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.594103,43.724072,-72.594103,43.724072",
+    "geom:latitude":43.724072,
+    "geom:longitude":-72.594103,
+    "iso:country":"US",
+    "sg:address":"79 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 2121",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KJOJ8VLqsHEcD4oCYpIbI_43.724072_-72.594103@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311253,
+    "wof:geomhash":"ae292434ac88748d6c6d864e72d9b97b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874051345
+        }
+    ],
+    "wof:id":874051345,
+    "wof:lastmodified":1464311253,
+    "wof:name":"Toni Hover",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -72.594103,
+    43.724072,
+    -72.594103,
+    43.724072
+],
+  "geometry": {"coordinates":[-72.594103,43.724072],"type":"Point"}
+}

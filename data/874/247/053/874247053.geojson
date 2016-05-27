@@ -1,0 +1,71 @@
+{
+  "id": 874247053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.135243,44.311324,-72.135243,44.311324",
+    "geom:latitude":44.311324,
+    "geom:longitude":-72.135243,
+    "iso:country":"US",
+    "sg:address":"113 W Main St",
+    "sg:city":"Barnet",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 633 2624",
+    "sg:postcode":"05821",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R6H1i1oLlupQy0hMa3oQd_44.311324_-72.135243@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313472,
+    "wof:geomhash":"543893484c1988cc439f884dc9c054a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874247053
+        }
+    ],
+    "wof:id":874247053,
+    "wof:lastmodified":1464313472,
+    "wof:name":"Paula's Place",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.135243,
+    44.311324,
+    -72.135243,
+    44.311324
+],
+  "geometry": {"coordinates":[-72.135243,44.311324],"type":"Point"}
+}

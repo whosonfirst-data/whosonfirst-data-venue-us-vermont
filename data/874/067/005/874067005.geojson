@@ -1,0 +1,69 @@
+{
+  "id": 874067005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.006667,44.387995,-73.006667,44.387995",
+    "geom:latitude":44.387995,
+    "geom:longitude":-73.006667,
+    "iso:country":"US",
+    "sg:address":"35 Besaw Rd",
+    "sg:city":"Alburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 796 3698",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QUx5zxUaEUEG1duQ5Cocs_44.387995_-73.006667@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311397,
+    "wof:geomhash":"34ab6bf46514f14c87977b03db6861b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874067005
+        }
+    ],
+    "wof:id":874067005,
+    "wof:lastmodified":1464311397,
+    "wof:name":"Town Garage",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -73.006667,
+    44.387995,
+    -73.006667,
+    44.387995
+],
+  "geometry": {"coordinates":[-73.00666699999999,44.387995],"type":"Point"}
+}

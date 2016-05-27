@@ -1,0 +1,71 @@
+{
+  "id": 874170961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212784,44.479215,-73.212784,44.479215",
+    "geom:latitude":44.479215,
+    "geom:longitude":-73.212784,
+    "iso:country":"US",
+    "sg:address":"65 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 5185",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DdpVFLx8elJAJrfjsek6D_44.479215_-73.212784@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312536,
+    "wof:geomhash":"211530537ccd3b63665b1d542b9b3f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874170961
+        }
+    ],
+    "wof:id":874170961,
+    "wof:lastmodified":1464312536,
+    "wof:name":"Lake Champlain Chocolates",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [
+    -73.212784,
+    44.479215,
+    -73.212784,
+    44.479215
+],
+  "geometry": {"coordinates":[-73.212784,44.479215],"type":"Point"}
+}

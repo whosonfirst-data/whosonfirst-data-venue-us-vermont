@@ -1,0 +1,69 @@
+{
+  "id": 874238385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.995238,44.403461,-72.995238,44.403461",
+    "geom:latitude":44.403461,
+    "geom:longitude":-72.995238,
+    "iso:country":"US",
+    "sg:address":"20 Church St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 2053",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35wIN6wuufJZHZzA2brC1A_44.403461_-72.995238@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313309,
+    "wof:geomhash":"d1a4087ece3c7672109eaa71ea63cf7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874238385
+        }
+    ],
+    "wof:id":874238385,
+    "wof:lastmodified":1464313309,
+    "wof:name":"Richmond Congregational Church",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.995238,
+    44.403461,
+    -72.995238,
+    44.403461
+],
+  "geometry": {"coordinates":[-72.995238,44.403461],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874013125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.604689,44.214805,-72.604689,44.214805",
+    "geom:latitude":44.214805,
+    "geom:longitude":-72.604689,
+    "iso:country":"US",
+    "sg:address":"1727 Crosstown Rd",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 8333",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fi8VAg7l868rLpDS9FpJQ_44.214805_-72.604689@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310877,
+    "wof:geomhash":"ff9586273780f965e6617eb9c2bcaddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874013125
+        }
+    ],
+    "wof:id":874013125,
+    "wof:lastmodified":1464310877,
+    "wof:name":"Morse Auto Sales & Svcs LLC",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -72.604689,
+    44.214805,
+    -72.604689,
+    44.214805
+],
+  "geometry": {"coordinates":[-72.60468899999999,44.214805],"type":"Point"}
+}

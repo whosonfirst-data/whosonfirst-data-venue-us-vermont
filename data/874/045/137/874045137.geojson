@@ -1,0 +1,71 @@
+{
+  "id": 874045137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.51158,44.16169,-72.51158,44.16169",
+    "geom:latitude":44.16169,
+    "geom:longitude":-72.51158,
+    "iso:country":"US",
+    "sg:address":"11 Colonial Dr",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5506",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ESYKTKN9IglxxrkqNAl4f_44.161690_-72.511580@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311196,
+    "wof:geomhash":"c5873158daa282554cc3077a447537b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874045137
+        }
+    ],
+    "wof:id":874045137,
+    "wof:lastmodified":1464311196,
+    "wof:name":"Jims Enterprises",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.51158,
+    44.16169,
+    -72.51158,
+    44.16169
+],
+  "geometry": {"coordinates":[-72.51158,44.16169],"type":"Point"}
+}

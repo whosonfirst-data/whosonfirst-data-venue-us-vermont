@@ -1,0 +1,71 @@
+{
+  "id": 874122177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212474,44.477012,-73.212474,44.477012",
+    "geom:latitude":44.477012,
+    "geom:longitude":-73.212474,
+    "iso:country":"US",
+    "sg:address":"131 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 0012",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tozFM1whB4FAdBg1Nh18f_44.477012_-73.212474@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312060,
+    "wof:geomhash":"bf955ad63eb0199cb06a7befee8f7396",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874122177
+        }
+    ],
+    "wof:id":874122177,
+    "wof:lastmodified":1464312060,
+    "wof:name":"Von Bargen Jewelers",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -73.212474,
+    44.477012,
+    -73.212474,
+    44.477012
+],
+  "geometry": {"coordinates":[-73.212474,44.477012],"type":"Point"}
+}

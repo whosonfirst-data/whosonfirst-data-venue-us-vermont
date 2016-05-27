@@ -1,0 +1,75 @@
+{
+  "id": 874106743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.188629,44.49147,-73.188629,44.49147",
+    "geom:latitude":44.49147,
+    "geom:longitude":-73.188629,
+    "iso:country":"US",
+    "sg:address":"35 W Allen St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 7717",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RuWCVUIdNDsnYJXvqU7bX_44.491470_-73.188629@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311880,
+    "wof:geomhash":"185db8e6ea468df8525df4484b3f6e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874106743
+        }
+    ],
+    "wof:id":874106743,
+    "wof:lastmodified":1464311880,
+    "wof:name":"Showtime Video",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -73.188629,
+    44.49147,
+    -73.188629,
+    44.49147
+],
+  "geometry": {"coordinates":[-73.18862900000001,44.49147],"type":"Point"}
+}

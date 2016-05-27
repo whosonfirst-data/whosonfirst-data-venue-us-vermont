@@ -1,0 +1,69 @@
+{
+  "id": 874076163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.982418,43.601489,-72.982418,43.601489",
+    "geom:latitude":43.601489,
+    "geom:longitude":-72.982418,
+    "iso:country":"US",
+    "sg:address":"104 River St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 0591",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OTZMSJLduOCyTzZrRdQaL_43.601489_-72.982418@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311512,
+    "wof:geomhash":"3b4b13de5ca748efd6c0e460d2913e53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874076163
+        }
+    ],
+    "wof:id":874076163,
+    "wof:lastmodified":1464311512,
+    "wof:name":"Ezzo & Sons Auto Body Shop",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -72.982418,
+    43.601489,
+    -72.982418,
+    43.601489
+],
+  "geometry": {"coordinates":[-72.982418,43.601489],"type":"Point"}
+}

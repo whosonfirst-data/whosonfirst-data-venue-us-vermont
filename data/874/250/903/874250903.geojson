@@ -1,0 +1,69 @@
+{
+  "id": 874250903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.955246,43.61926,-72.955246,43.61926",
+    "geom:latitude":43.61926,
+    "geom:longitude":-72.955246,
+    "iso:country":"US",
+    "sg:address":"221 Woodstock Ave ",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/rutland/217457-ben--jerrys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lHFfqc3ET9efW7du9YRZ6_43.619260_-72.955246@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313584,
+    "wof:geomhash":"c19f73e2dd522f26c3625c2681374ac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874250903
+        }
+    ],
+    "wof:id":874250903,
+    "wof:lastmodified":1464313584,
+    "wof:name":"Ben & Jerry's",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -72.955246,
+    43.61926,
+    -72.955246,
+    43.61926
+],
+  "geometry": {"coordinates":[-72.955246,43.61926],"type":"Point"}
+}

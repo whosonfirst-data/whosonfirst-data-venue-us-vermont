@@ -1,0 +1,69 @@
+{
+  "id": 873988909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214678,44.590845,-73.214678,44.590845",
+    "geom:latitude":44.590845,
+    "geom:longitude":-73.214678,
+    "iso:country":"US",
+    "sg:address":"105 Red Rock Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 4420",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85854373,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jFcnSpjU4R3sS83qMs8DZ_44.590845_-73.214678@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310682,
+    "wof:geomhash":"0c87484333dc30517e3b567d8c08d77c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85854373,
+            "region_id":85688763,
+            "venue_id":873988909
+        }
+    ],
+    "wof:id":873988909,
+    "wof:lastmodified":1464310682,
+    "wof:name":"On Spot Photo",
+    "wof:parent_id":85854373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -73.214678,
+    44.590845,
+    -73.214678,
+    44.590845
+],
+  "geometry": {"coordinates":[-73.21467800000001,44.590845],"type":"Point"}
+}

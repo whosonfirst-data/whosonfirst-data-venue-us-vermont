@@ -1,0 +1,73 @@
+{
+  "id": 874182243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.222365,44.484218,-73.222365,44.484218",
+    "geom:latitude":44.484218,
+    "geom:longitude":-73.222365,
+    "iso:country":"US",
+    "sg:address":"1 Depot St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 6791",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LajRQWvRDeuHEu4KgDEgD_44.484218_-73.222365@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312653,
+    "wof:geomhash":"61645667e7a4d2262a64e19c550ae63c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874182243
+        }
+    ],
+    "wof:id":874182243,
+    "wof:lastmodified":1464312653,
+    "wof:name":"US Coast Guard",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -73.222365,
+    44.484218,
+    -73.222365,
+    44.484218
+],
+  "geometry": {"coordinates":[-73.222365,44.484218],"type":"Point"}
+}

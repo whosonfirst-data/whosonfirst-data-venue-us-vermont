@@ -1,0 +1,71 @@
+{
+  "id": 874126655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.805007,43.492566,-72.805007,43.492566",
+    "geom:latitude":43.492566,
+    "geom:longitude":-72.805007,
+    "iso:country":"US",
+    "sg:address":"14 Mount Holly Rd",
+    "sg:city":"Mt Holly",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 259 2340",
+    "sg:postcode":"05738",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cheese",
+        "processor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42qau240oFL4fkt0bwHJnm_43.492566_-72.805007@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312100,
+    "wof:geomhash":"d198ad7f5943f989427945a12f801b3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874126655
+        }
+    ],
+    "wof:id":874126655,
+    "wof:lastmodified":1464312100,
+    "wof:name":"Crowley Cheese Inc",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheese",
+        "processor"
+    ]
+},
+  "bbox": [
+    -72.805007,
+    43.492566,
+    -72.805007,
+    43.492566
+],
+  "geometry": {"coordinates":[-72.805007,43.492566],"type":"Point"}
+}

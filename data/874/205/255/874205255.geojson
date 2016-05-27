@@ -1,0 +1,73 @@
+{
+  "id": 874205255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.95017,43.592217,-72.95017,43.592217",
+    "geom:latitude":43.592217,
+    "geom:longitude":-72.95017,
+    "iso:country":"US",
+    "sg:address":"247 Stratton Rd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 9876",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kQ37aywYWH6i3xeCR1fm6_43.592217_-72.950170@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312897,
+    "wof:geomhash":"30cdcafc4f41106764cfeb3f138128a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874205255
+        }
+    ],
+    "wof:id":874205255,
+    "wof:lastmodified":1464312897,
+    "wof:name":"Sandiago Cancio-Bello MD",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.95017,
+    43.592217,
+    -72.95017,
+    43.592217
+],
+  "geometry": {"coordinates":[-72.95017,43.592217],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874101821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.51089,44.202977,-72.51089,44.202977",
+    "geom:latitude":44.202977,
+    "geom:longitude":-72.51089,
+    "iso:country":"US",
+    "sg:address":"15 Blackwell St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7086",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sandblasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xd0ABWHl2UB208gmeY657_44.202977_-72.510890@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311816,
+    "wof:geomhash":"825f14299ec6953fa38ae5fb6c6d2b8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874101821
+        }
+    ],
+    "wof:id":874101821,
+    "wof:lastmodified":1464311816,
+    "wof:name":"Memorial Sandblast Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandblasting"
+    ]
+},
+  "bbox": [
+    -72.51089,
+    44.202977,
+    -72.51089,
+    44.202977
+],
+  "geometry": {"coordinates":[-72.51089,44.202977],"type":"Point"}
+}

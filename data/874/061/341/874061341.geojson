@@ -1,0 +1,71 @@
+{
+  "id": 874061341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.166585,44.017712,-73.166585,44.017712",
+    "geom:latitude":44.017712,
+    "geom:longitude":-73.166585,
+    "iso:country":"US",
+    "sg:address":"47 N Pleasant St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2510",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mNFbk0dpjJeNuV3AIKTk1_44.017712_-73.166585@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311347,
+    "wof:geomhash":"2264a843549a9cc5a964adea16e1d879",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874061341
+        }
+    ],
+    "wof:id":874061341,
+    "wof:lastmodified":1464311347,
+    "wof:name":"Middlebury Untd Methdst Church",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.166585,
+    44.017712,
+    -73.166585,
+    44.017712
+],
+  "geometry": {"coordinates":[-73.166585,44.017712],"type":"Point"}
+}

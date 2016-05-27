@@ -1,0 +1,71 @@
+{
+  "id": 874248785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.188791,44.593717,-73.188791,44.593717",
+    "geom:latitude":44.593717,
+    "geom:longitude":-73.188791,
+    "iso:country":"US",
+    "sg:address":"109 Raymond Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 3505",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85854373,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OEl99ylHFxfwmLiWEES3R_44.593717_-73.188791@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313522,
+    "wof:geomhash":"f5774eb616f8c8053c4752d99b106fb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85854373,
+            "region_id":85688763,
+            "venue_id":874248785
+        }
+    ],
+    "wof:id":874248785,
+    "wof:lastmodified":1464313522,
+    "wof:name":"Maple Leaf Landscaping",
+    "wof:parent_id":85854373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.188791,
+    44.593717,
+    -73.188791,
+    44.593717
+],
+  "geometry": {"coordinates":[-73.18879099999999,44.593717],"type":"Point"}
+}

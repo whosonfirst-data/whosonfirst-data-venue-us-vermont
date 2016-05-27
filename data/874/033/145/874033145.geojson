@@ -1,0 +1,76 @@
+{
+  "id": 874033145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.018209,44.457952,-73.018209,44.457952",
+    "geom:latitude":44.457952,
+    "geom:longitude":-73.018209,
+    "iso:country":"US",
+    "sg:address":"248 Barber Farm Rd",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 8144",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shed",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sLleQzhCC7eysHGKeXNnO_44.457952_-73.018209@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311076,
+    "wof:geomhash":"b859384316e8a5824bbc62665ee9af56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874033145
+        }
+    ],
+    "wof:id":874033145,
+    "wof:lastmodified":1464311076,
+    "wof:name":"Vermont Shed Company",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shed",
+        "utility"
+    ]
+},
+  "bbox": [
+    -73.018209,
+    44.457952,
+    -73.018209,
+    44.457952
+],
+  "geometry": {"coordinates":[-73.018209,44.457952],"type":"Point"}
+}

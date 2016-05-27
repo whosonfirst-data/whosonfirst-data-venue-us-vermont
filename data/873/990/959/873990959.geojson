@@ -1,0 +1,71 @@
+{
+  "id": 873990959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211328,44.429615,-73.211328,44.429615",
+    "geom:latitude":44.429615,
+    "geom:longitude":-73.211328,
+    "iso:country":"US",
+    "sg:address":"1600 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 8110",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "classic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TAmNpWqsYkGVCvFK6rcVl_44.429615_-73.211328@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310697,
+    "wof:geomhash":"f145bcbfa6f2c69eef5332833f6a3913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":873990959
+        }
+    ],
+    "wof:id":873990959,
+    "wof:lastmodified":1464310697,
+    "wof:name":"Vermont Rod & Custom",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "classic"
+    ]
+},
+  "bbox": [
+    -73.211328,
+    44.429615,
+    -73.211328,
+    44.429615
+],
+  "geometry": {"coordinates":[-73.21132799999999,44.429615],"type":"Point"}
+}

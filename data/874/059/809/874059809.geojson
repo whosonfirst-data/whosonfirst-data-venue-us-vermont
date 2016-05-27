@@ -1,0 +1,64 @@
+{
+  "id": 874059809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.245673,44.20728,-73.245673,44.20728",
+    "geom:latitude":44.20728,
+    "geom:longitude":-73.245673,
+    "iso:country":"US",
+    "sg:address":"3153 US Hwy 7",
+    "sg:city":"Ferrisburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2869",
+    "sg:postcode":"05456",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817263,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nkqg8hxr3IkG19g5z2Yjc_44.207280_-73.245673@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311334,
+    "wof:geomhash":"00557f2df0613ae4211f3f3c261e93b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85817263,
+            "region_id":85688763,
+            "venue_id":874059809
+        }
+    ],
+    "wof:id":874059809,
+    "wof:lastmodified":1464311334,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85817263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.245673,
+    44.20728,
+    -73.245673,
+    44.20728
+],
+  "geometry": {"coordinates":[-73.245673,44.20728],"type":"Point"}
+}

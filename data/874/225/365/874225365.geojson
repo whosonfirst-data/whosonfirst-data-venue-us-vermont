@@ -1,0 +1,71 @@
+{
+  "id": 874225365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.060876,43.732518,-73.060876,43.732518",
+    "geom:latitude":43.732518,
+    "geom:longitude":-73.060876,
+    "iso:country":"US",
+    "sg:address":"288 Hollister Quarry Rd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 483 6266",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dbMY3YPyoK3gbg5srR01X_43.732518_-73.060876@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313114,
+    "wof:geomhash":"e5830a6493b4ad9ca836c5ec404ba7a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874225365
+        }
+    ],
+    "wof:id":874225365,
+    "wof:lastmodified":1464313114,
+    "wof:name":"Shortsleeve Plumbing & Heating",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.060876,
+    43.732518,
+    -73.060876,
+    43.732518
+],
+  "geometry": {"coordinates":[-73.06087599999999,43.732518],"type":"Point"}
+}

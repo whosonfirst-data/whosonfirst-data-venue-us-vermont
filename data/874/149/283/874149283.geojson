@@ -1,0 +1,67 @@
+{
+  "id": 874149283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.574105,44.214355,-72.574105,44.214355",
+    "geom:latitude":44.214355,
+    "geom:longitude":-72.574105,
+    "iso:country":"US",
+    "sg:address":"372 Paine Tpke N",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 2796",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:website":"www.berlinschool.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02stFMM2UuXgPHh625qW54_44.214355_-72.574105@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312322,
+    "wof:geomhash":"1323f8c16d65ead01843ab0604ff5bd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874149283
+        }
+    ],
+    "wof:id":874149283,
+    "wof:lastmodified":1464312322,
+    "wof:name":"Burlin Elementary School",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.574105,
+    44.214355,
+    -72.574105,
+    44.214355
+],
+  "geometry": {"coordinates":[-72.574105,44.214355],"type":"Point"}
+}

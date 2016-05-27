@@ -1,0 +1,73 @@
+{
+  "id": 874254711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.236146,44.382678,-73.236146,44.382678",
+    "geom:latitude":44.382678,
+    "geom:longitude":-73.236146,
+    "iso:country":"US",
+    "sg:address":"114 Turtle Ln",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 5123",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73AHt57bksmVovt4xfKLHd_44.382678_-73.236146@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313663,
+    "wof:geomhash":"baacc83f23dcd4e5da9124276961b491",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874254711
+        }
+    ],
+    "wof:id":874254711,
+    "wof:lastmodified":1464313663,
+    "wof:name":"Shelburne Highway Department",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -73.236146,
+    44.382678,
+    -73.236146,
+    44.382678
+],
+  "geometry": {"coordinates":[-73.23614600000001,44.382678],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874129737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.975098,43.624174,-72.975098,43.624174",
+    "geom:latitude":43.624174,
+    "geom:longitude":-72.975098,
+    "iso:country":"US",
+    "sg:address":"202 N Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 7740",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6plIY5qu4vE6zjfuET3yKO_43.624174_-72.975098@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312132,
+    "wof:geomhash":"7dd1dbe1d557c4a6b7c5a3d1d1951772",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874129737
+        }
+    ],
+    "wof:id":874129737,
+    "wof:lastmodified":1464312132,
+    "wof:name":"Dental Arts",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.975098,
+    43.624174,
+    -72.975098,
+    43.624174
+],
+  "geometry": {"coordinates":[-72.975098,43.624174],"type":"Point"}
+}

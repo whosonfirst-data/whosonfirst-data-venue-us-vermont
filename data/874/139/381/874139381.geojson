@@ -1,0 +1,80 @@
+{
+  "id": 874139381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.014437,44.367922,-73.014437,44.367922",
+    "geom:latitude":44.367922,
+    "geom:longitude":-73.014437,
+    "iso:country":"US",
+    "sg:address":"263 Blueberry Farm Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Berry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 3387",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation",
+        "timber",
+        "crop",
+        "tract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rZo7ODXJpVk5cUFqVYfFc_44.367922_-73.014437@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312229,
+    "wof:geomhash":"eecc58d614cfb5535286161c05367d4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874139381
+        }
+    ],
+    "wof:id":874139381,
+    "wof:lastmodified":1464312229,
+    "wof:name":"Owl's Head Farm",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "timber",
+        "crop",
+        "tract"
+    ]
+},
+  "bbox": [
+    -73.014437,
+    44.367922,
+    -73.014437,
+    44.367922
+],
+  "geometry": {"coordinates":[-73.014437,44.367922],"type":"Point"}
+}

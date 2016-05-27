@@ -1,0 +1,74 @@
+{
+  "id": 874250921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.096616,43.803124,-73.096616,43.803124",
+    "geom:latitude":43.803124,
+    "geom:longitude":-73.096616,
+    "iso:country":"US",
+    "sg:address":"228 Grove St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/brandon/212981-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 4477",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29tFWAitCCp13nlRvBlt37_43.803124_-73.096616@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313584,
+    "wof:geomhash":"0e3ac297792cb72e8908ed2c688839e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874250921
+        }
+    ],
+    "wof:id":874250921,
+    "wof:lastmodified":1464313584,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.096616,
+    43.803124,
+    -73.096616,
+    43.803124
+],
+  "geometry": {"coordinates":[-73.096616,43.803124],"type":"Point"}
+}

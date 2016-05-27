@@ -1,0 +1,72 @@
+{
+  "id": 874250833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.506779,44.201645,-72.506779,44.201645",
+    "geom:latitude":44.201645,
+    "geom:longitude":-72.506779,
+    "iso:country":"US",
+    "sg:address":"342 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/barre/218497-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3187",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55c1pVKrryliqQcHIVE9oM_44.201645_-72.506779@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313583,
+    "wof:geomhash":"bfe7550797739afdb14349f67eb05c46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874250833
+        }
+    ],
+    "wof:id":874250833,
+    "wof:lastmodified":1464313583,
+    "wof:name":"Burger King",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -72.506779,
+    44.201645,
+    -72.506779,
+    44.201645
+],
+  "geometry": {"coordinates":[-72.50677899999999,44.201645],"type":"Point"}
+}

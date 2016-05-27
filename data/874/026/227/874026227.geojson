@@ -1,0 +1,71 @@
+{
+  "id": 874026227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.979079,43.616385,-72.979079,43.616385",
+    "geom:latitude":43.616385,
+    "geom:longitude":-72.979079,
+    "iso:country":"US",
+    "sg:address":"119 Church St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 1144",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CV76bjVbNaPAmg0fCpxpM_43.616385_-72.979079@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311009,
+    "wof:geomhash":"45ab0fb604146f949c77cef86396b9e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874026227
+        }
+    ],
+    "wof:id":874026227,
+    "wof:lastmodified":1464311009,
+    "wof:name":"A A Plumbing & Heating",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.979079,
+    43.616385,
+    -72.979079,
+    43.616385
+],
+  "geometry": {"coordinates":[-72.979079,43.616385],"type":"Point"}
+}

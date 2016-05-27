@@ -1,0 +1,71 @@
+{
+  "id": 873983665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078,44.132988,-73.078,44.132988",
+    "geom:latitude":44.132988,
+    "geom:longitude":-73.078,
+    "iso:country":"US",
+    "sg:address":"27 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5466",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P0EElFJy43avDjAwqhY6J_44.132988_-73.078000@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310639,
+    "wof:geomhash":"65f89a3e014b6ebb3b36642d9aa09bcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":873983665
+        }
+    ],
+    "wof:id":873983665,
+    "wof:lastmodified":1464310639,
+    "wof:name":"Alley Antiques",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -73.078,
+    44.132988,
+    -73.078,
+    44.132988
+],
+  "geometry": {"coordinates":[-73.078,44.132988],"type":"Point"}
+}

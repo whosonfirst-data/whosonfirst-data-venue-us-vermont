@@ -1,0 +1,71 @@
+{
+  "id": 874117725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.173663,44.034557,-73.173663,44.034557",
+    "geom:latitude":44.034557,
+    "geom:longitude":-73.173663,
+    "iso:country":"US",
+    "sg:address":"153 Pond Ln",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 0700",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "winery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bLkzfidWsIi0xRF952kyt_44.034557_-73.173663@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312013,
+    "wof:geomhash":"a3b1229578f3e6e02d4e439e1eb3f38e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874117725
+        }
+    ],
+    "wof:id":874117725,
+    "wof:lastmodified":1464312013,
+    "wof:name":"Bulmers America",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "winery"
+    ]
+},
+  "bbox": [
+    -73.173663,
+    44.034557,
+    -73.173663,
+    44.034557
+],
+  "geometry": {"coordinates":[-73.173663,44.034557],"type":"Point"}
+}

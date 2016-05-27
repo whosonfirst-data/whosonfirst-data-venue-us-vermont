@@ -1,0 +1,69 @@
+{
+  "id": 874194141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.846067,43.849158,-72.846067,43.849158",
+    "geom:latitude":43.849158,
+    "geom:longitude":-72.846067,
+    "iso:country":"US",
+    "sg:address":"2270 Brandon Mountain Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 767 3715",
+    "sg:postcode":"05767",
+    "sg:province":"VT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845271,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kMwcLc99SZQufFXy3Jdk7_43.849158_-72.846067@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312781,
+    "wof:geomhash":"4f130604f2ce672c752c449ccd936de6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85845271,
+            "region_id":85688763,
+            "venue_id":874194141
+        }
+    ],
+    "wof:id":874194141,
+    "wof:lastmodified":1464312781,
+    "wof:name":"Precision Welding",
+    "wof:parent_id":85845271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -72.846067,
+    43.849158,
+    -72.846067,
+    43.849158
+],
+  "geometry": {"coordinates":[-72.84606700000001,43.849158],"type":"Point"}
+}

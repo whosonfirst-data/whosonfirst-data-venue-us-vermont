@@ -1,0 +1,73 @@
+{
+  "id": 874221815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.498418,44.190482,-72.498418,44.190482",
+    "geom:latitude":44.190482,
+    "geom:longitude":-72.498418,
+    "iso:country":"US",
+    "sg:address":"114 S Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 3518",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HLm8xoZ94tE6QItqLrEyQ_44.190482_-72.498418@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313082,
+    "wof:geomhash":"8251142a4bbc4912da5eabedc0d56d04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874221815
+        }
+    ],
+    "wof:id":874221815,
+    "wof:lastmodified":1464313082,
+    "wof:name":"Johnson Paving Co",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.498418,
+    44.190482,
+    -72.498418,
+    44.190482
+],
+  "geometry": {"coordinates":[-72.498418,44.190482],"type":"Point"}
+}

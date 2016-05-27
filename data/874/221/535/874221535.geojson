@@ -1,0 +1,69 @@
+{
+  "id": 874221535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015617,44.445633,-72.015617,44.445633",
+    "geom:latitude":44.445633,
+    "geom:longitude":-72.015617,
+    "iso:country":"US",
+    "sg:address":"1051 Memorial Dr",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 9894",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pzRzaHk1iBXWet3RVoLiv_44.445633_-72.015617@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313079,
+    "wof:geomhash":"b35490a069473e0f241d0fda9a69d3ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874221535
+        }
+    ],
+    "wof:id":874221535,
+    "wof:lastmodified":1464313079,
+    "wof:name":"St Johnsbury Country Club",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -72.015617,
+    44.445633,
+    -72.015617,
+    44.445633
+],
+  "geometry": {"coordinates":[-72.01561700000001,44.445633],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874205483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.513516,43.325994,-72.513516,43.325994",
+    "geom:latitude":43.325994,
+    "geom:longitude":-72.513516,
+    "iso:country":"US",
+    "sg:address":"224 Fairground Rd",
+    "sg:city":"N Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 2738",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wODSFeV3liemhJ3phfeMq_43.325994_-72.513516@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312899,
+    "wof:geomhash":"d73ebc7301ab3f0f12c1b4593f4df3f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874205483
+        }
+    ],
+    "wof:id":874205483,
+    "wof:lastmodified":1464312899,
+    "wof:name":"Army National Guard",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -72.513516,
+    43.325994,
+    -72.513516,
+    43.325994
+],
+  "geometry": {"coordinates":[-72.513516,43.325994],"type":"Point"}
+}

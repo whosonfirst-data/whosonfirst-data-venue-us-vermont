@@ -1,0 +1,75 @@
+{
+  "id": 874206489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212753,44.478629,-73.212753,44.478629",
+    "geom:latitude":44.478629,
+    "geom:longitude":-73.212753,
+    "iso:country":"US",
+    "sg:address":"49 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 5737",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KBeSQ6DVH0nhgGrcUPhIf_44.478629_-73.212753@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312908,
+    "wof:geomhash":"d48c1c51cdf6bc89a8ff3cc63ad37c24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874206489
+        }
+    ],
+    "wof:id":874206489,
+    "wof:lastmodified":1464312908,
+    "wof:name":"Garcia Tobacco Shop",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.212753,
+    44.478629,
+    -73.212753,
+    44.478629
+],
+  "geometry": {"coordinates":[-73.21275300000001,44.478629],"type":"Point"}
+}

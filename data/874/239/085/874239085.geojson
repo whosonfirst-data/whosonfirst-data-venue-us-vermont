@@ -1,0 +1,75 @@
+{
+  "id": 874239085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196254,44.495086,-73.196254,44.495086",
+    "geom:latitude":44.495086,
+    "geom:longitude":-73.196254,
+    "iso:country":"US",
+    "sg:address":"79 Elm St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 0132",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nidfCldCl2bPLnunRaP9L_44.495086_-73.196254@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313323,
+    "wof:geomhash":"a8dd3ce41f03779cb62f5f0de8246752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874239085
+        }
+    ],
+    "wof:id":874239085,
+    "wof:lastmodified":1464313323,
+    "wof:name":"M & M Air",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.196254,
+    44.495086,
+    -73.196254,
+    44.495086
+],
+  "geometry": {"coordinates":[-73.196254,44.495086],"type":"Point"}
+}

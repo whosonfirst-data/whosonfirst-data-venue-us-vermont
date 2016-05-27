@@ -1,0 +1,71 @@
+{
+  "id": 874060825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078,44.132988,-73.078,44.132988",
+    "geom:latitude":44.132988,
+    "geom:longitude":-73.078,
+    "iso:country":"US",
+    "sg:address":"27 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 5020",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6npjaGqkSlseCPh98Kq32C_44.132988_-73.078000@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311342,
+    "wof:geomhash":"65f89a3e014b6ebb3b36642d9aa09bcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874060825
+        }
+    ],
+    "wof:id":874060825,
+    "wof:lastmodified":1464311342,
+    "wof:name":"Bristol Antique Shoppe",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -73.078,
+    44.132988,
+    -73.078,
+    44.132988
+],
+  "geometry": {"coordinates":[-73.078,44.132988],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874183413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210698,44.43456,-73.210698,44.43456",
+    "geom:latitude":44.43456,
+    "geom:longitude":-73.210698,
+    "iso:country":"US",
+    "sg:address":"1485 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 0120",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.gossdodge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dzhCvlqBWfiPAbl4iiNde_44.434560_-73.210698@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312670,
+    "wof:geomhash":"2403b6136bb8e7aff87e66ff3a313996",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874183413
+        }
+    ],
+    "wof:id":874183413,
+    "wof:lastmodified":1464312670,
+    "wof:name":"Goss Dodge Inc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.210698,
+    44.43456,
+    -73.210698,
+    44.43456
+],
+  "geometry": {"coordinates":[-73.21069799999999,44.43456],"type":"Point"}
+}

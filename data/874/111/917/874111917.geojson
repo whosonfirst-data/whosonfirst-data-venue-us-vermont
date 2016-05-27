@@ -1,0 +1,77 @@
+{
+  "id": 874111917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.664135,44.146308,-72.664135,44.146308",
+    "geom:latitude":44.146308,
+    "geom:longitude":-72.664135,
+    "iso:country":"US",
+    "sg:address":"71 Richardson St",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 3161",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "personal",
+        "home",
+        "skilled",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BK1CosrIBW2bTGtVJA8WS_44.146308_-72.664135@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311956,
+    "wof:geomhash":"1686326a84824c0102ead4207efae74e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874111917
+        }
+    ],
+    "wof:id":874111917,
+    "wof:lastmodified":1464311956,
+    "wof:name":"Mayo Health Care Inc",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "home",
+        "skilled",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -72.664135,
+    44.146308,
+    -72.664135,
+    44.146308
+],
+  "geometry": {"coordinates":[-72.664135,44.146308],"type":"Point"}
+}

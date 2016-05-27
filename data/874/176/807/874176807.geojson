@@ -1,0 +1,71 @@
+{
+  "id": 874176807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.194392,44.070088,-73.194392,44.070088",
+    "geom:latitude":44.070088,
+    "geom:longitude":-73.194392,
+    "iso:country":"US",
+    "sg:address":"3291 Morgan Horse Farm Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 545 2415",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yu9kGhazvdLQkYhUkv1MG_44.070088_-73.194392@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312595,
+    "wof:geomhash":"61159c0cb3152f97ac843b651ef30333",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874176807
+        }
+    ],
+    "wof:id":874176807,
+    "wof:lastmodified":1464312595,
+    "wof:name":"Vermont Marble Power",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -73.194392,
+    44.070088,
+    -73.194392,
+    44.070088
+],
+  "geometry": {"coordinates":[-73.19439199999999,44.070088],"type":"Point"}
+}

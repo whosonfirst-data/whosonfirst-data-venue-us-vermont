@@ -1,0 +1,71 @@
+{
+  "id": 874029317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.064953,44.558681,-73.064953,44.558681",
+    "geom:latitude":44.558681,
+    "geom:longitude":-73.064953,
+    "iso:country":"US",
+    "sg:address":"273 Old Stage Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 6155",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85840199,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mKiZtwM6uMYGE85hSnzxj_44.558681_-73.064953@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311042,
+    "wof:geomhash":"1460d3defe47195b8b3d41389a34b312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85840199,
+            "region_id":85688763,
+            "venue_id":874029317
+        }
+    ],
+    "wof:id":874029317,
+    "wof:lastmodified":1464311042,
+    "wof:name":"Steven Dow Electric",
+    "wof:parent_id":85840199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.064953,
+    44.558681,
+    -73.064953,
+    44.558681
+],
+  "geometry": {"coordinates":[-73.064953,44.558681],"type":"Point"}
+}

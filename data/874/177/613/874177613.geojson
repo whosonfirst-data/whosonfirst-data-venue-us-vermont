@@ -1,0 +1,71 @@
+{
+  "id": 874177613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.416055,43.709294,-72.416055,43.709294",
+    "geom:latitude":43.709294,
+    "geom:longitude":-72.416055,
+    "iso:country":"US",
+    "sg:address":"4775 State Rte 14",
+    "sg:city":"White River Jct",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 295 5377",
+    "sg:postcode":"05001",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810215,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o5OWoFU107J2ykrymR2bX_43.709294_-72.416055@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312602,
+    "wof:geomhash":"413b5954394bd8390ad686f6c4db4e56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85810215,
+            "region_id":85688763,
+            "venue_id":874177613
+        }
+    ],
+    "wof:id":874177613,
+    "wof:lastmodified":1464312602,
+    "wof:name":"Bergeron's Service Ctr",
+    "wof:parent_id":85810215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.416055,
+    43.709294,
+    -72.416055,
+    43.709294
+],
+  "geometry": {"coordinates":[-72.416055,43.709294],"type":"Point"}
+}

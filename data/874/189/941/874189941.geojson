@@ -1,0 +1,71 @@
+{
+  "id": 874189941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.487637,44.187455,-72.487637,44.187455",
+    "geom:latitude":44.187455,
+    "geom:longitude":-72.487637,
+    "iso:country":"US",
+    "sg:address":"22 Bridgeman St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0297",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22EizQyTRSilghUhe3E6j1_44.187455_-72.487637@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312739,
+    "wof:geomhash":"287d46b5e94c5166494dde810baf7015",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874189941
+        }
+    ],
+    "wof:id":874189941,
+    "wof:lastmodified":1464312739,
+    "wof:name":"Julius Construction",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -72.487637,
+    44.187455,
+    -72.487637,
+    44.187455
+],
+  "geometry": {"coordinates":[-72.48763700000001,44.187455],"type":"Point"}
+}

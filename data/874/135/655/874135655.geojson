@@ -1,0 +1,71 @@
+{
+  "id": 874135655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.163696,44.322774,-73.163696,44.322774",
+    "geom:latitude":44.322774,
+    "geom:longitude":-73.163696,
+    "iso:country":"US",
+    "sg:address":"3573 Hinesburg Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 425 2715",
+    "sg:postcode":"05445",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85843159,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WTHcw6GOf76XZd8KCek8j_44.322774_-73.163696@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312196,
+    "wof:geomhash":"c10db7c440052c781d522436a38a8901",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85843159,
+            "region_id":85688763,
+            "venue_id":874135655
+        }
+    ],
+    "wof:id":874135655,
+    "wof:lastmodified":1464312196,
+    "wof:name":"Valley Auto Parts",
+    "wof:parent_id":85843159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -73.163696,
+    44.322774,
+    -73.163696,
+    44.322774
+],
+  "geometry": {"coordinates":[-73.163696,44.322774],"type":"Point"}
+}

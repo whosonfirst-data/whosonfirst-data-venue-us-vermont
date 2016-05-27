@@ -1,0 +1,71 @@
+{
+  "id": 873993553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.664213,43.041305,-72.664213,43.041305",
+    "geom:latitude":43.041305,
+    "geom:longitude":-72.664213,
+    "iso:country":"US",
+    "sg:address":"1412 State Rte 30",
+    "sg:city":"Townshend",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 365 9417",
+    "sg:postcode":"05353",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XdfnSaKW3NBiIqWPn3UuU_43.041305_-72.664213@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310715,
+    "wof:geomhash":"5d0b345d819e50e9fdeddef56d931b9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":873993553
+        }
+    ],
+    "wof:id":873993553,
+    "wof:lastmodified":1464310715,
+    "wof:name":"Harmonyville Store",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.664213,
+    43.041305,
+    -72.664213,
+    43.041305
+],
+  "geometry": {"coordinates":[-72.664213,43.041305],"type":"Point"}
+}

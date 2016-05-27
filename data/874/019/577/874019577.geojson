@@ -1,0 +1,71 @@
+{
+  "id": 874019577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.305413,43.639001,-73.305413,43.639001",
+    "geom:latitude":43.639001,
+    "geom:longitude":-73.305413,
+    "iso:country":"US",
+    "sg:address":"380 Main Rd",
+    "sg:city":"Fair Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 265 7885",
+    "sg:postcode":"05743",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p2wzaZ2clmBbS7uORNo28_43.639001_-73.305413@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310944,
+    "wof:geomhash":"87afb52108ff7bbba45a5462e1e2291f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874019577
+        }
+    ],
+    "wof:id":874019577,
+    "wof:lastmodified":1464310944,
+    "wof:name":"Taconic Excavating",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.305413,
+    43.639001,
+    -73.305413,
+    43.639001
+],
+  "geometry": {"coordinates":[-73.305413,43.639001],"type":"Point"}
+}

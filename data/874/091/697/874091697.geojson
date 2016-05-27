@@ -1,0 +1,75 @@
+{
+  "id": 874091697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.477031,43.286272,-72.477031,43.286272",
+    "geom:latitude":43.286272,
+    "geom:longitude":-72.477031,
+    "iso:country":"US",
+    "sg:address":"181 South St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 5488",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822381,
+        102191575,
+        404527377,
+        85633793,
+        101728481,
+        102080777,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LuGmCwiFtsIlLVlUxP4a6_43.286272_-72.477031@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311683,
+    "wof:geomhash":"076b09e9b53f2cdc245d1491de08fac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080777,
+            "localadmin_id":404527377,
+            "locality_id":101728481,
+            "neighbourhood_id":85822381,
+            "region_id":85688763,
+            "venue_id":874091697
+        }
+    ],
+    "wof:id":874091697,
+    "wof:lastmodified":1464311683,
+    "wof:name":"Jake's South Street Market",
+    "wof:parent_id":85822381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -72.477031,
+    43.286272,
+    -72.477031,
+    43.286272
+],
+  "geometry": {"coordinates":[-72.477031,43.286272],"type":"Point"}
+}

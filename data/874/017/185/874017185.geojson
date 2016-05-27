@@ -1,0 +1,71 @@
+{
+  "id": 874017185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.543231,44.219791,-72.543231,44.219791",
+    "geom:latitude":44.219791,
+    "geom:longitude":-72.543231,
+    "iso:country":"US",
+    "sg:address":"10 Evergreen Dr",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 5707",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jnvGeKvdih6GWvy0CXXXr_44.219791_-72.543231@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310915,
+    "wof:geomhash":"9e00658777e25e91679e097b955ac017",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874017185
+        }
+    ],
+    "wof:id":874017185,
+    "wof:lastmodified":1464310915,
+    "wof:name":"Collection Express Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -72.543231,
+    44.219791,
+    -72.543231,
+    44.219791
+],
+  "geometry": {"coordinates":[-72.54323100000001,44.219791],"type":"Point"}
+}

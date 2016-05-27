@@ -1,0 +1,71 @@
+{
+  "id": 874241113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.117536,44.451991,-73.117536,44.451991",
+    "geom:latitude":44.451991,
+    "geom:longitude":-73.117536,
+    "iso:country":"US",
+    "sg:address":"29 Harvest Ln",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 1200",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "supply",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868817,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YWdfO33QGaou0NFHUVCEQ_44.451991_-73.117536@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313360,
+    "wof:geomhash":"b633d55516b0ea4d66885f2b264fe6b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85868817,
+            "region_id":85688763,
+            "venue_id":874241113
+        }
+    ],
+    "wof:id":874241113,
+    "wof:lastmodified":1464313360,
+    "wof:name":"Boise Cascade",
+    "wof:parent_id":85868817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -73.117536,
+    44.451991,
+    -73.117536,
+    44.451991
+],
+  "geometry": {"coordinates":[-73.117536,44.451991],"type":"Point"}
+}

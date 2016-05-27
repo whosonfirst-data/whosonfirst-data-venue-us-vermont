@@ -1,0 +1,71 @@
+{
+  "id": 874206721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.675999,43.444342,-72.675999,43.444342",
+    "geom:latitude":43.444342,
+    "geom:longitude":-72.675999,
+    "iso:country":"US",
+    "sg:address":"125 Nelson Rd",
+    "sg:city":"Ludlow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 228 3995",
+    "sg:postcode":"05149",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VIxr1Nz0ItMQDu6s6oZyQ_43.444342_-72.675999@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312911,
+    "wof:geomhash":"2b2360813fad95ff55817eb1c02b9abd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874206721
+        }
+    ],
+    "wof:id":874206721,
+    "wof:lastmodified":1464312911,
+    "wof:name":"High Tech Plumbing & Heating",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.675999,
+    43.444342,
+    -72.675999,
+    43.444342
+],
+  "geometry": {"coordinates":[-72.675999,43.444342],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874048945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200324,43.9664,-73.200324,43.9664",
+    "geom:latitude":43.9664,
+    "geom:longitude":-73.200324,
+    "iso:country":"US",
+    "sg:address":"346 Morse Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 2461",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bCs6m3TdN05sexHG6mO6Z_43.966400_-73.200324@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311231,
+    "wof:geomhash":"5c1a189e6272d28337d449fae5780e67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":874048945
+        }
+    ],
+    "wof:id":874048945,
+    "wof:lastmodified":1464311231,
+    "wof:name":"Laframboise Farm",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -73.200324,
+    43.9664,
+    -73.200324,
+    43.9664
+],
+  "geometry": {"coordinates":[-73.20032399999999,43.9664],"type":"Point"}
+}

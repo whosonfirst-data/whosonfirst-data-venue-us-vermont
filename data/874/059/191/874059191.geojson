@@ -1,0 +1,73 @@
+{
+  "id": 874059191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.684156,44.465167,-72.684156,44.465167",
+    "geom:latitude":44.465167,
+    "geom:longitude":-72.684156,
+    "iso:country":"US",
+    "sg:address":"4 Sunset St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 8886",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "food",
+        "product",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yMvSaTfVg1RPQD01RHZcW_44.465167_-72.684156@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311328,
+    "wof:geomhash":"7e5218f36c107a3b00b07ef9a95c19a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874059191
+        }
+    ],
+    "wof:id":874059191,
+    "wof:lastmodified":1464311328,
+    "wof:name":"Organic Commodity Products",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product",
+        "health"
+    ]
+},
+  "bbox": [
+    -72.684156,
+    44.465167,
+    -72.684156,
+    44.465167
+],
+  "geometry": {"coordinates":[-72.684156,44.465167],"type":"Point"}
+}

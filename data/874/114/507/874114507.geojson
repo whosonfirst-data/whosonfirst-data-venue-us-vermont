@@ -1,0 +1,76 @@
+{
+  "id": 874114507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.703164,44.927511,-72.703164,44.927511",
+    "geom:latitude":44.927511,
+    "geom:longitude":-72.703164,
+    "iso:country":"US",
+    "sg:address":"189 Perley Rd",
+    "sg:city":"Richford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 933 2111",
+    "sg:postcode":"05476",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855641,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TuVIOjmh9I2M4qf2ASkOO_44.927511_-72.703164@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311982,
+    "wof:geomhash":"9aa596a67a7a8e20a65e7aa4ceacde0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855641,
+            "region_id":85688763,
+            "venue_id":874114507
+        }
+    ],
+    "wof:id":874114507,
+    "wof:lastmodified":1464311982,
+    "wof:name":"Watson Sign Company",
+    "wof:parent_id":85855641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -72.703164,
+    44.927511,
+    -72.703164,
+    44.927511
+],
+  "geometry": {"coordinates":[-72.703164,44.927511],"type":"Point"}
+}

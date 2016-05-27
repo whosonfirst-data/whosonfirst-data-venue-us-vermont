@@ -1,0 +1,71 @@
+{
+  "id": 874106575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.560504,44.212198,-72.560504,44.212198",
+    "geom:latitude":44.212198,
+    "geom:longitude":-72.560504,
+    "iso:country":"US",
+    "sg:address":"21 Industrial Ln",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 5859",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nRs1GfxEGrJ5C886mqWR4_44.212198_-72.560504@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311878,
+    "wof:geomhash":"dd73b0e78de9a5912fc84d88748bc32d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874106575
+        }
+    ],
+    "wof:id":874106575,
+    "wof:lastmodified":1464311878,
+    "wof:name":"Vermont Mutual Warehouse",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -72.560504,
+    44.212198,
+    -72.560504,
+    44.212198
+],
+  "geometry": {"coordinates":[-72.56050399999999,44.212198],"type":"Point"}
+}

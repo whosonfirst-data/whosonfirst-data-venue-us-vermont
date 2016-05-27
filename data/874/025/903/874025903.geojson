@@ -1,0 +1,69 @@
+{
+  "id": 874025903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.247932,43.833105,-72.247932,43.833105",
+    "geom:latitude":43.833105,
+    "geom:longitude":-72.247932,
+    "iso:country":"US",
+    "sg:address":"3901 State Rte 113",
+    "sg:city":"Thetford Center",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 785 4679",
+    "sg:postcode":"05075",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85842625,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cIFA4yNnnpP4LHm6udwpn_43.833105_-72.247932@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311006,
+    "wof:geomhash":"80673b521f5d8a52a34d52e2ad5a1cf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85842625,
+            "region_id":85688763,
+            "venue_id":874025903
+        }
+    ],
+    "wof:id":874025903,
+    "wof:lastmodified":1464311006,
+    "wof:name":"Town Garage",
+    "wof:parent_id":85842625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.247932,
+    43.833105,
+    -72.247932,
+    43.833105
+],
+  "geometry": {"coordinates":[-72.24793200000001,43.833105],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874147551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.091811,43.246465,-73.091811,43.246465",
+    "geom:latitude":43.246465,
+    "geom:longitude":-73.091811,
+    "iso:country":"US",
+    "sg:address":"2738 State Rte 30",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 867 5949",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DtlpYWIqBX1bfjGeWKsRa_43.246465_-73.091811@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312307,
+    "wof:geomhash":"70234ef79d0a653ac024c6bfaef0121b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874147551
+        }
+    ],
+    "wof:id":874147551,
+    "wof:lastmodified":1464312307,
+    "wof:name":"Roger's Corp",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.091811,
+    43.246465,
+    -73.091811,
+    43.246465
+],
+  "geometry": {"coordinates":[-73.09181100000001,43.246465],"type":"Point"}
+}

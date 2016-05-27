@@ -1,0 +1,72 @@
+{
+  "id": 874252123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.551541,42.8926,-72.551541,42.8926",
+    "geom:latitude":42.8926,
+    "geom:longitude":-72.551541,
+    "iso:country":"US",
+    "sg:address":"1378 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 5700",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "corporate",
+        "lodging"
+    ],
+    "sg:website":"http://www.brattleboro.hamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ie856lducJ5tXNEmUJog3_42.892600_-72.551541@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313607,
+    "wof:geomhash":"1200a23199587cfb86f9e3239faa7096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874252123
+        }
+    ],
+    "wof:id":874252123,
+    "wof:lastmodified":1464313607,
+    "wof:name":"Hampton Inn",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporate",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -72.551541,
+    42.8926,
+    -72.551541,
+    42.8926
+],
+  "geometry": {"coordinates":[-72.551541,42.8926],"type":"Point"}
+}

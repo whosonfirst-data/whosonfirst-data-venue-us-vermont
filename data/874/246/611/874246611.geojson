@@ -1,0 +1,71 @@
+{
+  "id": 874246611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.2327,43.758114,-73.2327,43.758114",
+    "geom:latitude":43.758114,
+    "geom:longitude":-73.2327,
+    "iso:country":"US",
+    "sg:address":"66 Young Rd",
+    "sg:city":"Orwell",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 948 2829",
+    "sg:postcode":"05760",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OK2bVpjq7gfE0HeKUB4rK_43.758114_-73.232700@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313464,
+    "wof:geomhash":"3c666d59281cf521bfd01b869b873fde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874246611
+        }
+    ],
+    "wof:id":874246611,
+    "wof:lastmodified":1464313464,
+    "wof:name":"Maple Shade Farm",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.2327,
+    43.758114,
+    -73.2327,
+    43.758114
+],
+  "geometry": {"coordinates":[-73.23269999999999,43.758114],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874176791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.093504,44.486423,-73.093504,44.486423",
+    "geom:latitude":44.486423,
+    "geom:longitude":-73.093504,
+    "iso:country":"US",
+    "sg:address":"15 Wood's End Dr",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 2927",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zLBuolrawkLluBOAilo81_44.486423_-73.093504@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312594,
+    "wof:geomhash":"74c4d3cd21361a06e8f45bc666e5de13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874176791
+        }
+    ],
+    "wof:id":874176791,
+    "wof:lastmodified":1464312594,
+    "wof:name":"Teachout Brothers Plbg & Htg",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.093504,
+    44.486423,
+    -73.093504,
+    44.486423
+],
+  "geometry": {"coordinates":[-73.093504,44.486423],"type":"Point"}
+}

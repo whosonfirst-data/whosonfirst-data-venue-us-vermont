@@ -1,0 +1,71 @@
+{
+  "id": 874071971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.498613,44.199191,-72.498613,44.199191",
+    "geom:latitude":44.199191,
+    "geom:longitude":-72.498613,
+    "iso:country":"US",
+    "sg:address":"9 Eastern Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 2245",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BZM6NZOdtu1hC2E0WsBow_44.199191_-72.498613@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311461,
+    "wof:geomhash":"d177992698feaaf5083149e25141be56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874071971
+        }
+    ],
+    "wof:id":874071971,
+    "wof:lastmodified":1464311461,
+    "wof:name":"LA Maison Parisienne",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.498613,
+    44.199191,
+    -72.498613,
+    44.199191
+],
+  "geometry": {"coordinates":[-72.49861300000001,44.199191],"type":"Point"}
+}

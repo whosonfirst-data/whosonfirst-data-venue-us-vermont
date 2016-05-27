@@ -1,0 +1,71 @@
+{
+  "id": 874070331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210146,44.480526,-73.210146,44.480526",
+    "geom:latitude":44.480526,
+    "geom:longitude":-73.210146,
+    "iso:country":"US",
+    "sg:address":"196 Pearl St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 4709",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pjJBxQ69x0HN42oIbL1wj_44.480526_-73.210146@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311435,
+    "wof:geomhash":"2f32188e009b96c5720d54058fb4ed0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874070331
+        }
+    ],
+    "wof:id":874070331,
+    "wof:lastmodified":1464311435,
+    "wof:name":"First Church-Christ Scientist",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.210146,
+    44.480526,
+    -73.210146,
+    44.480526
+],
+  "geometry": {"coordinates":[-73.21014599999999,44.480526],"type":"Point"}
+}

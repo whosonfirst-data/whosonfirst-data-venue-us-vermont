@@ -1,0 +1,71 @@
+{
+  "id": 874195489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.139575,44.410499,-72.139575,44.410499",
+    "geom:latitude":44.410499,
+    "geom:longitude":-72.139575,
+    "iso:country":"US",
+    "sg:address":"35 Park St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 3406",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DFdUUOmKfzBnXcZRCCviU_44.410499_-72.139575@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312800,
+    "wof:geomhash":"6add6b9151db3ae30785688ab722be85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874195489
+        }
+    ],
+    "wof:id":874195489,
+    "wof:lastmodified":1464312800,
+    "wof:name":"Danville Main Office",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -72.139575,
+    44.410499,
+    -72.139575,
+    44.410499
+],
+  "geometry": {"coordinates":[-72.13957499999999,44.410499],"type":"Point"}
+}

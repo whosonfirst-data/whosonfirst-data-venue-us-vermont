@@ -1,0 +1,77 @@
+{
+  "id": 874130037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.059207,43.174807,-73.059207,43.174807",
+    "geom:latitude":43.174807,
+    "geom:longitude":-73.059207,
+    "iso:country":"US",
+    "sg:address":"4746 Main St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 9818",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832067,
+        102191575,
+        404527469,
+        85633793,
+        101728291,
+        102087439,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_447xgveFe7SZRdbyfPLgr3_43.174807_-73.059207@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312136,
+    "wof:geomhash":"2a5a3aac512e607024ec392177d34dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087439,
+            "localadmin_id":404527469,
+            "locality_id":101728291,
+            "neighbourhood_id":85832067,
+            "region_id":85688763,
+            "venue_id":874130037
+        }
+    ],
+    "wof:id":874130037,
+    "wof:lastmodified":1464312136,
+    "wof:name":"Simple Coffee Works",
+    "wof:parent_id":85832067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -73.059207,
+    43.174807,
+    -73.059207,
+    43.174807
+],
+  "geometry": {"coordinates":[-73.059207,43.174807],"type":"Point"}
+}

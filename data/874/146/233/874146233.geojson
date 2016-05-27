@@ -1,0 +1,71 @@
+{
+  "id": 874146233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.345194,44.385159,-72.345194,44.385159",
+    "geom:latitude":44.385159,
+    "geom:longitude":-72.345194,
+    "iso:country":"US",
+    "sg:address":"163 Staniford Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 9247",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PqG9wOLiIdL1Ziuch4Go7_44.385159_-72.345194@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312295,
+    "wof:geomhash":"177da91f3c0a27bd4545a26d45827d32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874146233
+        }
+    ],
+    "wof:id":874146233,
+    "wof:lastmodified":1464312295,
+    "wof:name":"Childshine",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -72.345194,
+    44.385159,
+    -72.345194,
+    44.385159
+],
+  "geometry": {"coordinates":[-72.34519400000001,44.385159],"type":"Point"}
+}

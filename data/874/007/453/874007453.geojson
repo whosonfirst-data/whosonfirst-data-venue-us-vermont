@@ -1,0 +1,71 @@
+{
+  "id": 874007453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.113087,44.657191,-73.113087,44.657191",
+    "geom:latitude":44.657191,
+    "geom:longitude":-73.113087,
+    "iso:country":"US",
+    "sg:address":"210 US Hwy 7",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 7419",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816349,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33ttLdNs6svAWJVRO1lKda_44.657191_-73.113087@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310836,
+    "wof:geomhash":"f5e52dac891983876387f5369e60745b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85816349,
+            "region_id":85688763,
+            "venue_id":874007453
+        }
+    ],
+    "wof:id":874007453,
+    "wof:lastmodified":1464310836,
+    "wof:name":"Dance Connection",
+    "wof:parent_id":85816349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -73.113087,
+    44.657191,
+    -73.113087,
+    44.657191
+],
+  "geometry": {"coordinates":[-73.11308699999999,44.657191],"type":"Point"}
+}

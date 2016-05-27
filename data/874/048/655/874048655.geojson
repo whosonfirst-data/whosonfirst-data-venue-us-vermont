@@ -1,0 +1,69 @@
+{
+  "id": 874048655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.109923,43.971936,-73.109923,43.971936",
+    "geom:latitude":43.971936,
+    "geom:longitude":-73.109923,
+    "iso:country":"US",
+    "sg:address":"51 Ossie Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2914",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t812LEDPndqAV49dcDwLN_43.971936_-73.109923@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311229,
+    "wof:geomhash":"65b2b380101ea7391f77d50a56120f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874048655
+        }
+    ],
+    "wof:id":874048655,
+    "wof:lastmodified":1464311229,
+    "wof:name":"Downhome Deli/Market",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -73.109923,
+    43.971936,
+    -73.109923,
+    43.971936
+],
+  "geometry": {"coordinates":[-73.10992299999999,43.971936],"type":"Point"}
+}

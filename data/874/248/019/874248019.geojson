@@ -1,0 +1,71 @@
+{
+  "id": 874248019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.141218,44.40716,-72.141218,44.40716",
+    "geom:latitude":44.40716,
+    "geom:longitude":-72.141218,
+    "iso:country":"US",
+    "sg:address":"272 Peacham Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 3854",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eAraYRDLd2QLTv9bqsZIv_44.407160_-72.141218@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313495,
+    "wof:geomhash":"080682c2a3859143db57aa50b413e55c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874248019
+        }
+    ],
+    "wof:id":874248019,
+    "wof:lastmodified":1464313495,
+    "wof:name":"Wright & Rouelle Properties",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.141218,
+    44.40716,
+    -72.141218,
+    44.40716
+],
+  "geometry": {"coordinates":[-72.14121799999999,44.40716],"type":"Point"}
+}

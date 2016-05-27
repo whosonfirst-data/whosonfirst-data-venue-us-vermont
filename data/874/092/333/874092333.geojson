@@ -1,0 +1,69 @@
+{
+  "id": 874092333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.173098,44.503754,-73.173098,44.503754",
+    "geom:latitude":44.503754,
+    "geom:longitude":-73.173098,
+    "iso:country":"US",
+    "sg:address":"697 Hercules Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 4219",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "advisory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KtVp6c0tuwHvzKp5355FT_44.503754_-73.173098@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311689,
+    "wof:geomhash":"64311034d0802383e6d781c23706ec1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874092333
+        }
+    ],
+    "wof:id":874092333,
+    "wof:lastmodified":1464311689,
+    "wof:name":"Champlain Advisory Group",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory"
+    ]
+},
+  "bbox": [
+    -73.173098,
+    44.503754,
+    -73.173098,
+    44.503754
+],
+  "geometry": {"coordinates":[-73.173098,44.503754],"type":"Point"}
+}

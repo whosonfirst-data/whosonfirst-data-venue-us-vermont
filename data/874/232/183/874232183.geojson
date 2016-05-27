@@ -1,0 +1,73 @@
+{
+  "id": 874232183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.208958,44.476054,-73.208958,44.476054",
+    "geom:latitude":44.476054,
+    "geom:longitude":-73.208958,
+    "iso:country":"US",
+    "sg:address":"181 S Union St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 651 1690",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TZD0WE3WWhFOksrU2Iwtc_44.476054_-73.208958@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313189,
+    "wof:geomhash":"9c9bbc35d6dea76ff778acacf65a01e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874232183
+        }
+    ],
+    "wof:id":874232183,
+    "wof:lastmodified":1464313189,
+    "wof:name":"Ups Store",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.208958,
+    44.476054,
+    -73.208958,
+    44.476054
+],
+  "geometry": {"coordinates":[-73.208958,44.476054],"type":"Point"}
+}

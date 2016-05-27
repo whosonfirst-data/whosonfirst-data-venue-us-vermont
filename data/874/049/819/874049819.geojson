@@ -1,0 +1,77 @@
+{
+  "id": 874049819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.773703,43.597577,-72.773703,43.597577",
+    "geom:latitude":43.597577,
+    "geom:longitude":-72.773703,
+    "iso:country":"US",
+    "sg:address":"241 Sunrise Rd",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 422 7494",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868813,
+        102080771,
+        85848249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I0M2jmsoJbBS9dw5w54Yt_43.597577_-72.773703@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311239,
+    "wof:geomhash":"e9c9e46200eba3602bf5fd5a78a21f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868813,
+            "region_id":85688763,
+            "venue_id":874049819
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":874049819
+        }
+    ],
+    "wof:id":874049819,
+    "wof:lastmodified":1464311239,
+    "wof:name":"Sunrise Village Reception Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -72.773703,
+    43.597577,
+    -72.773703,
+    43.597577
+],
+  "geometry": {"coordinates":[-72.773703,43.597577],"type":"Point"}
+}

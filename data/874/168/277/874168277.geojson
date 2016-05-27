@@ -1,0 +1,72 @@
+{
+  "id": 874168277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.149919,44.516989,-73.149919,44.516989",
+    "geom:latitude":44.516989,
+    "geom:longitude":-73.149919,
+    "iso:country":"US",
+    "sg:address":"83 Parkwood Dr",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 1016",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "sg:website":"www.machonecomputers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73daZ0aaTJncAtqV3EMNqf_44.516989_-73.149919@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312509,
+    "wof:geomhash":"4797fccec18bac961a63f8702cbfd642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874168277
+        }
+    ],
+    "wof:id":874168277,
+    "wof:lastmodified":1464312509,
+    "wof:name":"Mach One Computers",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.149919,
+    44.516989,
+    -73.149919,
+    44.516989
+],
+  "geometry": {"coordinates":[-73.149919,44.516989],"type":"Point"}
+}

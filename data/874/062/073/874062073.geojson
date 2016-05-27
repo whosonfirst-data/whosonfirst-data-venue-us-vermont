@@ -1,0 +1,69 @@
+{
+  "id": 874062073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.541232,44.120633,-72.541232,44.120633",
+    "geom:latitude":44.120633,
+    "geom:longitude":-72.541232,
+    "iso:country":"US",
+    "sg:address":"2470 State Rte 14",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 6671",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VA62IqGWPqYA6rFDI92zK_44.120633_-72.541232@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311354,
+    "wof:geomhash":"e2b3f93d97847de7769dbf5ae253f3fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874062073
+        }
+    ],
+    "wof:id":874062073,
+    "wof:lastmodified":1464311354,
+    "wof:name":"Town Manager's Office",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.541232,
+    44.120633,
+    -72.541232,
+    44.120633
+],
+  "geometry": {"coordinates":[-72.54123199999999,44.120633],"type":"Point"}
+}

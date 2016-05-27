@@ -1,0 +1,71 @@
+{
+  "id": 874200451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.487316,44.196666,-72.487316,44.196666",
+    "geom:latitude":44.196666,
+    "geom:longitude":-72.487316,
+    "iso:country":"US",
+    "sg:address":"77 Fern St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 4923",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0smc1GyoV4HIf5E4T9z62g_44.196666_-72.487316@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312848,
+    "wof:geomhash":"f1934eb9a8ceb0edde0549462c8e7ad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874200451
+        }
+    ],
+    "wof:id":874200451,
+    "wof:lastmodified":1464312848,
+    "wof:name":"Detores Hair Salon",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.487316,
+    44.196666,
+    -72.487316,
+    44.196666
+],
+  "geometry": {"coordinates":[-72.48731600000001,44.196666],"type":"Point"}
+}

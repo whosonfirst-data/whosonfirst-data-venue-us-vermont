@@ -1,0 +1,73 @@
+{
+  "id": 874174035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.09848,44.097843,-73.09848,44.097843",
+    "geom:latitude":44.097843,
+    "geom:longitude":-73.09848,
+    "iso:country":"US",
+    "sg:address":"326 River Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3109",
+    "sg:postcode":"05443",
+    "sg:province":"VT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dtCmalIiT2n86MWBntbYg_44.097843_-73.098480@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312569,
+    "wof:geomhash":"4d4a0cfdd5996eddc837af1b38f7768e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874174035
+        }
+    ],
+    "wof:id":874174035,
+    "wof:lastmodified":1464312569,
+    "wof:name":"Steady Painting",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.09848,
+    44.097843,
+    -73.09848,
+    44.097843
+],
+  "geometry": {"coordinates":[-73.09848,44.097843],"type":"Point"}
+}

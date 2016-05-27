@@ -1,0 +1,81 @@
+{
+  "id": 874110025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.157875,44.458688,-73.157875,44.458688",
+    "geom:latitude":44.458688,
+    "geom:longitude":-73.157875,
+    "iso:country":"US",
+    "sg:address":"275 Kennedy Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 865 1635",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "loan",
+        "trust",
+        "broker",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EViBP5KPLhptpo2deFlsg_44.458688_-73.157875@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311920,
+    "wof:geomhash":"da429bb553dde00470eb2b89f69c9665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874110025
+        }
+    ],
+    "wof:id":874110025,
+    "wof:lastmodified":1464311920,
+    "wof:name":"Merchants Trust Company",
+    "wof:parent_id":85828531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "trust",
+        "broker",
+        "facility"
+    ]
+},
+  "bbox": [
+    -73.157875,
+    44.458688,
+    -73.157875,
+    44.458688
+],
+  "geometry": {"coordinates":[-73.157875,44.458688],"type":"Point"}
+}

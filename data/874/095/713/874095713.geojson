@@ -1,0 +1,71 @@
+{
+  "id": 874095713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.014022,44.41961,-72.014022,44.41961",
+    "geom:latitude":44.41961,
+    "geom:longitude":-72.014022,
+    "iso:country":"US",
+    "sg:address":"93 Portland St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 9498",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DXMKMUWZ0wp5CDD2KVG2d_44.419610_-72.014022@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311721,
+    "wof:geomhash":"b07cd0058bedd9efc5800d6c6768aaa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874095713
+        }
+    ],
+    "wof:id":874095713,
+    "wof:lastmodified":1464311721,
+    "wof:name":"Kingdom County Market Food",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -72.014022,
+    44.41961,
+    -72.014022,
+    44.41961
+],
+  "geometry": {"coordinates":[-72.014022,44.41961],"type":"Point"}
+}

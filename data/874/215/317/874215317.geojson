@@ -1,0 +1,73 @@
+{
+  "id": 874215317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.095401,44.03069,-73.095401,44.03069",
+    "geom:latitude":44.03069,
+    "geom:longitude":-73.095401,
+    "iso:country":"US",
+    "sg:address":"4357 Case St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2613",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hywAuwZSGvba8XuByTRK4_44.030690_-73.095401@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313007,
+    "wof:geomhash":"26151574384a4fb2c875fde85cca2ff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874215317
+        }
+    ],
+    "wof:id":874215317,
+    "wof:lastmodified":1464313007,
+    "wof:name":"Eagle Ridge Sugarworks",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.095401,
+    44.03069,
+    -73.095401,
+    44.03069
+],
+  "geometry": {"coordinates":[-73.095401,44.03069],"type":"Point"}
+}

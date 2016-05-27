@@ -1,0 +1,76 @@
+{
+  "id": 874218633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.183644,44.499773,-73.183644,44.499773",
+    "geom:latitude":44.499773,
+    "geom:longitude":-73.183644,
+    "iso:country":"US",
+    "sg:address":"376 Main St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 4955",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J0zaxrpJ8JWUmHdSFfLec_44.499773_-73.183644@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313038,
+    "wof:geomhash":"fab7ccda1170a8abf30dc2cc7e9d3f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874218633
+        }
+    ],
+    "wof:id":874218633,
+    "wof:lastmodified":1464313038,
+    "wof:name":"Pecor Auto Sales Inc",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "used"
+    ]
+},
+  "bbox": [
+    -73.183644,
+    44.499773,
+    -73.183644,
+    44.499773
+],
+  "geometry": {"coordinates":[-73.183644,44.499773],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874130123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.020733,43.258289,-73.020733,43.258289",
+    "geom:latitude":43.258289,
+    "geom:longitude":-73.020733,
+    "iso:country":"US",
+    "sg:address":"2087 Dorset Hill Rd",
+    "sg:city":"East Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 2290",
+    "sg:postcode":"05253",
+    "sg:province":"VT",
+    "sg:tags":[
+        "vegetable",
+        "syrup",
+        "timber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820639,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54gsHWprUIzCh3m2epAqLy_43.258289_-73.020733@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312138,
+    "wof:geomhash":"5fa30bf39f1476c4a286075575019b03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85820639,
+            "region_id":85688763,
+            "venue_id":874130123
+        }
+    ],
+    "wof:id":874130123,
+    "wof:lastmodified":1464312138,
+    "wof:name":"Someday Farm",
+    "wof:parent_id":85820639,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "syrup",
+        "timber"
+    ]
+},
+  "bbox": [
+    -73.020733,
+    43.258289,
+    -73.020733,
+    43.258289
+],
+  "geometry": {"coordinates":[-73.02073300000001,43.258289],"type":"Point"}
+}

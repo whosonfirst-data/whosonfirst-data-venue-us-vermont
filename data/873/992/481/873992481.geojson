@@ -1,0 +1,71 @@
+{
+  "id": 873992481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.116214,44.052276,-73.116214,44.052276",
+    "geom:latitude":44.052276,
+    "geom:longitude":-73.116214,
+    "iso:country":"US",
+    "sg:address":"1119 Munger St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7027",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Za8inL5oh4iTbZFi63zMX_44.052276_-73.116214@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310708,
+    "wof:geomhash":"427e5b0e9831ab5cef22f5abb4deaa0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":873992481
+        }
+    ],
+    "wof:id":873992481,
+    "wof:lastmodified":1464310708,
+    "wof:name":"Cobble Hill Farm Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equine"
+    ]
+},
+  "bbox": [
+    -73.116214,
+    44.052276,
+    -73.116214,
+    44.052276
+],
+  "geometry": {"coordinates":[-73.116214,44.052276],"type":"Point"}
+}

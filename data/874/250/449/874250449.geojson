@@ -1,0 +1,74 @@
+{
+  "id": 874250449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212422,44.475556,-73.212422,44.475556",
+    "geom:latitude":44.475556,
+    "geom:longitude":-73.212422,
+    "iso:country":"US",
+    "sg:address":"177 Church St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/burlington/249223-big-daddys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 0000",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65yb5V4VdkyAMeqeL6vglT_44.475556_-73.212422@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313576,
+    "wof:geomhash":"7a7eb44b9e3cd9b4a9f7c623ae42cc1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874250449
+        }
+    ],
+    "wof:id":874250449,
+    "wof:lastmodified":1464313576,
+    "wof:name":"Big Daddy's",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.212422,
+    44.475556,
+    -73.212422,
+    44.475556
+],
+  "geometry": {"coordinates":[-73.212422,44.475556],"type":"Point"}
+}

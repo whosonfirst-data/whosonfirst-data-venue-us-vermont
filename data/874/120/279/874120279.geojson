@@ -1,0 +1,69 @@
+{
+  "id": 874120279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.945101,44.438713,-71.945101,44.438713",
+    "geom:latitude":44.438713,
+    "geom:longitude":-71.945101,
+    "iso:country":"US",
+    "sg:address":"459 Old Concord Rd",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 5505",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Oajc8WTlWkS7uY8Y0zx1T_44.438713_-71.945101@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312043,
+    "wof:geomhash":"42ecdfef803bbdaced47c4caf8349465",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874120279
+        }
+    ],
+    "wof:id":874120279,
+    "wof:lastmodified":1464312043,
+    "wof:name":"Home Buyers Inspection Svc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -71.945101,
+    44.438713,
+    -71.945101,
+    44.438713
+],
+  "geometry": {"coordinates":[-71.94510099999999,44.438713],"type":"Point"}
+}

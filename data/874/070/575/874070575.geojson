@@ -1,0 +1,73 @@
+{
+  "id": 874070575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.448553,44.215623,-72.448553,44.215623",
+    "geom:latitude":44.215623,
+    "geom:longitude":-72.448553,
+    "iso:country":"US",
+    "sg:address":"253 Sunset Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4409",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "breeder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YCp3zoX83Ug3L4Gf98Es4_44.215623_-72.448553@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311437,
+    "wof:geomhash":"6065c5369d6921ffdec4e8c6b43ba820",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874070575
+        }
+    ],
+    "wof:id":874070575,
+    "wof:lastmodified":1464311437,
+    "wof:name":"Pot-O-Gold",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "breeder"
+    ]
+},
+  "bbox": [
+    -72.448553,
+    44.215623,
+    -72.448553,
+    44.215623
+],
+  "geometry": {"coordinates":[-72.448553,44.215623],"type":"Point"}
+}

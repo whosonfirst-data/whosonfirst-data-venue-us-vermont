@@ -1,0 +1,71 @@
+{
+  "id": 874228231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.018766,44.418603,-72.018766,44.418603",
+    "geom:latitude":44.418603,
+    "geom:longitude":-72.018766,
+    "iso:country":"US",
+    "sg:address":"107 Eastern Ave",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3003",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e4seB06eu0ZmBkUCePADa_44.418603_-72.018766@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313143,
+    "wof:geomhash":"bf14499c82b0d336bb2a6fb1b9f4339e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874228231
+        }
+    ],
+    "wof:id":874228231,
+    "wof:lastmodified":1464313143,
+    "wof:name":"Advantage Title",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -72.018766,
+    44.418603,
+    -72.018766,
+    44.418603
+],
+  "geometry": {"coordinates":[-72.018766,44.418603],"type":"Point"}
+}

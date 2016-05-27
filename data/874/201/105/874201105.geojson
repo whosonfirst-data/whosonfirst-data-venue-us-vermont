@@ -1,0 +1,73 @@
+{
+  "id": 874201105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213895,44.414914,-73.213895,44.414914",
+    "geom:latitude":44.414914,
+    "geom:longitude":-73.213895,
+    "iso:country":"US",
+    "sg:address":"2800 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 1051",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31BPkRie8HYp3CeCLte6qw_44.414914_-73.213895@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312854,
+    "wof:geomhash":"f5bb89da40d7826970dcbc217d3cc7dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874201105
+        }
+    ],
+    "wof:id":874201105,
+    "wof:lastmodified":1464312854,
+    "wof:name":"Collette's Climate Controlled",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -73.213895,
+    44.414914,
+    -73.213895,
+    44.414914
+],
+  "geometry": {"coordinates":[-73.21389499999999,44.414914],"type":"Point"}
+}

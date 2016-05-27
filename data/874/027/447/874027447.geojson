@@ -1,0 +1,71 @@
+{
+  "id": 874027447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.59487,43.723862,-72.59487,43.723862",
+    "geom:latitude":43.723862,
+    "geom:longitude":-72.59487,
+    "iso:country":"US",
+    "sg:address":"116 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 7095",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "field",
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76dRG8FFPToSK6LL5iCitV_43.723862_-72.594870@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311020,
+    "wof:geomhash":"c0185600a90c8fa07311acffc775c537",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874027447
+        }
+    ],
+    "wof:id":874027447,
+    "wof:lastmodified":1464311020,
+    "wof:name":"William Benoit",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "crop"
+    ]
+},
+  "bbox": [
+    -72.59487,
+    43.723862,
+    -72.59487,
+    43.723862
+],
+  "geometry": {"coordinates":[-72.59487,43.723862],"type":"Point"}
+}

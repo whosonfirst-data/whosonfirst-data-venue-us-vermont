@@ -1,0 +1,74 @@
+{
+  "id": 874240523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210998,44.475995,-73.210998,44.475995",
+    "geom:latitude":44.475995,
+    "geom:longitude":-73.210998,
+    "iso:country":"US",
+    "sg:address":"179 S Winooski Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 7402",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.cotsonline.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RPtWF1BMoPW1B3yBLAPiX_44.475995_-73.210998@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313350,
+    "wof:geomhash":"0ea1671282d373303543ff7c5632604d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874240523
+        }
+    ],
+    "wof:id":874240523,
+    "wof:lastmodified":1464313350,
+    "wof:name":"COMMITTEE On Temporary Shelter",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.210998,
+    44.475995,
+    -73.210998,
+    44.475995
+],
+  "geometry": {"coordinates":[-73.210998,44.475995],"type":"Point"}
+}

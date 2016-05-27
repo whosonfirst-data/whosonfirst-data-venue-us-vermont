@@ -1,0 +1,69 @@
+{
+  "id": 874032515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.538252,44.116654,-72.538252,44.116654",
+    "geom:latitude":44.116654,
+    "geom:longitude":-72.538252,
+    "iso:country":"US",
+    "sg:address":"32 Bus Center Rd",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 433 1120",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LAoKagqxyP982zsneozkN_44.116654_-72.538252@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311070,
+    "wof:geomhash":"2f5284f34a52faaa291ccad95dfc7f9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874032515
+        }
+    ],
+    "wof:id":874032515,
+    "wof:lastmodified":1464311070,
+    "wof:name":"Bakers Oven",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -72.538252,
+    44.116654,
+    -72.538252,
+    44.116654
+],
+  "geometry": {"coordinates":[-72.538252,44.116654],"type":"Point"}
+}

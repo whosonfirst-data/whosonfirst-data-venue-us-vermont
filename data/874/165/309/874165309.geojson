@@ -1,0 +1,73 @@
+{
+  "id": 874165309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211686,44.475896,-73.211686,44.475896",
+    "geom:latitude":44.475896,
+    "geom:longitude":-73.211686,
+    "iso:country":"US",
+    "sg:address":"199 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 859 9308",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "federal",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c7I73y2zFLcFAp4U2T05X_44.475896_-73.211686@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312482,
+    "wof:geomhash":"2a2215013d70cd59d8a4a1a064852787",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874165309
+        }
+    ],
+    "wof:id":874165309,
+    "wof:lastmodified":1464312482,
+    "wof:name":"US Internal Revenue Svc",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -73.211686,
+    44.475896,
+    -73.211686,
+    44.475896
+],
+  "geometry": {"coordinates":[-73.211686,44.475896],"type":"Point"}
+}

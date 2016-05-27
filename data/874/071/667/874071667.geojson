@@ -1,0 +1,71 @@
+{
+  "id": 874071667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.2139,44.483939,-73.2139,44.483939",
+    "geom:latitude":44.483939,
+    "geom:longitude":-73.2139,
+    "iso:country":"US",
+    "sg:address":"149 Elmwood Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 0456",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09ZLkVHIgcqGtyG9fP88sX_44.483939_-73.213900@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311455,
+    "wof:geomhash":"a694826c374481f7bcc12045982eef03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874071667
+        }
+    ],
+    "wof:id":874071667,
+    "wof:lastmodified":1464311455,
+    "wof:name":"T Rugg's Tavern",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -73.2139,
+    44.483939,
+    -73.2139,
+    44.483939
+],
+  "geometry": {"coordinates":[-73.2139,44.483939],"type":"Point"}
+}

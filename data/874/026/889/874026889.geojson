@@ -1,0 +1,69 @@
+{
+  "id": 874026889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.781493,44.285385,-72.781493,44.285385",
+    "geom:latitude":44.285385,
+    "geom:longitude":-72.781493,
+    "iso:country":"US",
+    "sg:address":"3109 State Rte 100",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 244 5172",
+    "sg:postcode":"05676",
+    "sg:province":"VT",
+    "sg:tags":[
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815147,
+        102080779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G3VFiM1Eed6eoQTx5xiO9_44.285385_-72.781493@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311015,
+    "wof:geomhash":"c6e929c9c27c1c87df0ea42b88dc66d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "neighbourhood_id":85815147,
+            "region_id":85688763,
+            "venue_id":874026889
+        }
+    ],
+    "wof:id":874026889,
+    "wof:lastmodified":1464311015,
+    "wof:name":"J & D Enterprises",
+    "wof:parent_id":85815147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.781493,
+    44.285385,
+    -72.781493,
+    44.285385
+],
+  "geometry": {"coordinates":[-72.781493,44.285385],"type":"Point"}
+}

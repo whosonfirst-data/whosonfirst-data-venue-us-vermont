@@ -1,0 +1,75 @@
+{
+  "id": 874186241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199499,44.473271,-73.199499,44.473271",
+    "geom:latitude":44.473271,
+    "geom:longitude":-73.199499,
+    "iso:country":"US",
+    "sg:address":"34 Robinson Pkwy",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 0589",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "science",
+        "professor",
+        "political"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M2lE4MnnjTgBZNKsF0G0u_44.473271_-73.199499@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312702,
+    "wof:geomhash":"23d99c95da3c79cb0c70be15c4819767",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874186241
+        }
+    ],
+    "wof:id":874186241,
+    "wof:lastmodified":1464312702,
+    "wof:name":"James S Pacy",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "science",
+        "professor",
+        "political"
+    ]
+},
+  "bbox": [
+    -73.199499,
+    44.473271,
+    -73.199499,
+    44.473271
+],
+  "geometry": {"coordinates":[-73.199499,44.473271],"type":"Point"}
+}

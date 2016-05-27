@@ -1,0 +1,71 @@
+{
+  "id": 874123413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.567331,44.252939,-72.567331,44.252939",
+    "geom:latitude":44.252939,
+    "geom:longitude":-72.567331,
+    "iso:country":"US",
+    "sg:address":"35 Foster St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 457 3806",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wlLgIbGhXymSQGkF0TDuv_44.252939_-72.567331@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312072,
+    "wof:geomhash":"2737c9e58ab981037643f482dbc9e756",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874123413
+        }
+    ],
+    "wof:id":874123413,
+    "wof:lastmodified":1464312072,
+    "wof:name":"Woodstock Appraisal",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -72.567331,
+    44.252939,
+    -72.567331,
+    44.252939
+],
+  "geometry": {"coordinates":[-72.567331,44.252939],"type":"Point"}
+}

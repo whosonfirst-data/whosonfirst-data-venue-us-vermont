@@ -1,0 +1,71 @@
+{
+  "id": 874240805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.949995,43.593328,-72.949995,43.593328",
+    "geom:latitude":43.593328,
+    "geom:longitude":-72.949995,
+    "iso:country":"US",
+    "sg:address":"7 Stratton Rd",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 776 2891",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ysPFU6O3wDTuxvAGtcfw4_43.593328_-72.949995@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313355,
+    "wof:geomhash":"07f1190bcbda0b961bd022039f944f1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874240805
+        }
+    ],
+    "wof:id":874240805,
+    "wof:lastmodified":1464313355,
+    "wof:name":"CTX Mortgage Co",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -72.949995,
+    43.593328,
+    -72.949995,
+    43.593328
+],
+  "geometry": {"coordinates":[-72.949995,43.593328],"type":"Point"}
+}

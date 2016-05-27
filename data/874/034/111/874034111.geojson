@@ -1,0 +1,73 @@
+{
+  "id": 874034111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.536996,44.242663,-72.536996,44.242663",
+    "geom:latitude":44.242663,
+    "geom:longitude":-72.536996,
+    "iso:country":"US",
+    "sg:address":"358 Gallison Hill Rd",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 828 6221",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "sport",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NlOHXZBDRRYvn2yhjJWU2_44.242663_-72.536996@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311086,
+    "wof:geomhash":"6f68ec3da9dfc754450015c6224d65ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874034111
+        }
+    ],
+    "wof:id":874034111,
+    "wof:lastmodified":1464311086,
+    "wof:name":"Black Diamond",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sport",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.536996,
+    44.242663,
+    -72.536996,
+    44.242663
+],
+  "geometry": {"coordinates":[-72.536996,44.242663],"type":"Point"}
+}

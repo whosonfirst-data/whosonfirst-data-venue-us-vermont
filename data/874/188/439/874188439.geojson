@@ -1,0 +1,75 @@
+{
+  "id": 874188439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.503799,44.199287,-72.503799,44.199287",
+    "geom:latitude":44.199287,
+    "geom:longitude":-72.503799,
+    "iso:country":"US",
+    "sg:address":"201 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 7069",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50Lkaq3fFm62etFQAKbo5z_44.199287_-72.503799@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312725,
+    "wof:geomhash":"f69c69becd0cbdf6b33bb7d53ecb93d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874188439
+        }
+    ],
+    "wof:id":874188439,
+    "wof:lastmodified":1464312725,
+    "wof:name":"Studio Place Arts",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.503799,
+    44.199287,
+    -72.503799,
+    44.199287
+],
+  "geometry": {"coordinates":[-72.503799,44.199287],"type":"Point"}
+}

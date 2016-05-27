@@ -1,0 +1,71 @@
+{
+  "id": 874124009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.021297,44.416502,-72.021297,44.416502",
+    "geom:latitude":44.416502,
+    "geom:longitude":-72.021297,
+    "iso:country":"US",
+    "sg:address":"118 Western Ave",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3785",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lddE3p0gfbCNBqIhxFsWt_44.416502_-72.021297@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312077,
+    "wof:geomhash":"acce3cbe9751fb553a65cb15dcb90b25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874124009
+        }
+    ],
+    "wof:id":874124009,
+    "wof:lastmodified":1464312077,
+    "wof:name":"Elks Home",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -72.021297,
+    44.416502,
+    -72.021297,
+    44.416502
+],
+  "geometry": {"coordinates":[-72.021297,44.416502],"type":"Point"}
+}

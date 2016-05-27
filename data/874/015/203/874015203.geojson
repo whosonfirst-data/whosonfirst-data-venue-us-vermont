@@ -1,0 +1,71 @@
+{
+  "id": 874015203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.970801,43.600539,-72.970801,43.600539",
+    "geom:latitude":43.600539,
+    "geom:longitude":-72.970801,
+    "iso:country":"US",
+    "sg:address":"2 Clover St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 3111",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lithographic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QqFDbWUfws5WPzRskj7go_43.600539_-72.970801@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310892,
+    "wof:geomhash":"f079078b28342b3034492421dbed9157",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874015203
+        }
+    ],
+    "wof:id":874015203,
+    "wof:lastmodified":1464310892,
+    "wof:name":"E & G Graphics",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -72.970801,
+    43.600539,
+    -72.970801,
+    43.600539
+],
+  "geometry": {"coordinates":[-72.97080099999999,43.600539],"type":"Point"}
+}

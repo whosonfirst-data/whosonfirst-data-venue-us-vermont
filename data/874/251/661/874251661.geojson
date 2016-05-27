@@ -1,0 +1,85 @@
+{
+  "id": 874251661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.217658,42.898264,-73.217658,42.898264",
+    "geom:latitude":42.898264,
+    "geom:longitude":-73.217658,
+    "iso:country":"US",
+    "sg:address":"375 Morse Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 0143",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "roofing",
+        "industrial",
+        "supply",
+        "contractor",
+        "equipment",
+        "contractors-commercial"
+    ],
+    "sg:website":"http://www.doxseeroofinginc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K2Y5i6dV36QEqwZMosd3M_42.898264_-73.217658@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313598,
+    "wof:geomhash":"553f4d5397b7a694260a52bc77f07051",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251661
+        }
+    ],
+    "wof:id":874251661,
+    "wof:lastmodified":1464313598,
+    "wof:name":"Doxsee Roofing Inc",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "industrial",
+        "supply",
+        "contractor",
+        "equipment",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -73.217658,
+    42.898264,
+    -73.217658,
+    42.898264
+],
+  "geometry": {"coordinates":[-73.217658,42.898264],"type":"Point"}
+}

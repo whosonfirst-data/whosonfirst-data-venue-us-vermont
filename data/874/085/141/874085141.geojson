@@ -1,0 +1,71 @@
+{
+  "id": 874085141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.88173,44.645115,-72.88173,44.645115",
+    "geom:latitude":44.645115,
+    "geom:longitude":-72.88173,
+    "iso:country":"US",
+    "sg:address":"286 Old State Rte 15",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 644 8734",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m9npvPIj8q98TkKihik4o_44.645115_-72.881730@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311610,
+    "wof:geomhash":"93e71e42263a94fa28372994f89c85f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874085141
+        }
+    ],
+    "wof:id":874085141,
+    "wof:lastmodified":1464311610,
+    "wof:name":"Country Connections Vt Crafts",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.88173,
+    44.645115,
+    -72.88173,
+    44.645115
+],
+  "geometry": {"coordinates":[-72.88173,44.645115],"type":"Point"}
+}

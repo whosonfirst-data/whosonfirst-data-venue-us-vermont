@@ -1,0 +1,74 @@
+{
+  "id": 874125845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.018148,44.418444,-72.018148,44.418444",
+    "geom:latitude":44.418444,
+    "geom:longitude":-72.018148,
+    "iso:country":"US",
+    "sg:address":"142 Eastern Ave",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 2193",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "clocks",
+        "parts",
+        "clock"
+    ],
+    "sg:website":"www.signofthedial.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UrjHL5TUmCq8YlPOnJPkx_44.418444_-72.018148@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312093,
+    "wof:geomhash":"9018dcce1c0191a16c8b23b997a518ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874125845
+        }
+    ],
+    "wof:id":874125845,
+    "wof:lastmodified":1464312093,
+    "wof:name":"Sign of The Dial Clock Shop",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clocks",
+        "parts",
+        "clock"
+    ]
+},
+  "bbox": [
+    -72.018148,
+    44.418444,
+    -72.018148,
+    44.418444
+],
+  "geometry": {"coordinates":[-72.018148,44.418444],"type":"Point"}
+}

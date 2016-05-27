@@ -1,0 +1,69 @@
+{
+  "id": 874103971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.168121,44.527235,-73.168121,44.527235",
+    "geom:latitude":44.527235,
+    "geom:longitude":-73.168121,
+    "iso:country":"US",
+    "sg:address":"304 Severance Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 7138",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0440X0nyrZ2at6kCqnF2Ii_44.527235_-73.168121@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311844,
+    "wof:geomhash":"4bd059da87a4d5dc807451083d905a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874103971
+        }
+    ],
+    "wof:id":874103971,
+    "wof:lastmodified":1464311844,
+    "wof:name":"First Quality Mntnc Svc Inc",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -73.168121,
+    44.527235,
+    -73.168121,
+    44.527235
+],
+  "geometry": {"coordinates":[-73.168121,44.527235],"type":"Point"}
+}

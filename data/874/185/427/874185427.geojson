@@ -1,0 +1,66 @@
+{
+  "id": 874185427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.505564,44.200617,-72.505564,44.200617",
+    "geom:latitude":44.200617,
+    "geom:longitude":-72.505564,
+    "iso:country":"US",
+    "sg:address":"347 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 3631",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56Ke0u9gnO2DDyWZF4X5xM_44.200617_-72.505564@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312695,
+    "wof:geomhash":"f1e64f3b1af19c0131263e88407dc214",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874185427
+        }
+    ],
+    "wof:id":874185427,
+    "wof:lastmodified":1464312695,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.505564,
+    44.200617,
+    -72.505564,
+    44.200617
+],
+  "geometry": {"coordinates":[-72.50556400000001,44.200617],"type":"Point"}
+}

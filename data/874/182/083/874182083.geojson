@@ -1,0 +1,71 @@
+{
+  "id": 874182083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.605663,44.653166,-72.605663,44.653166",
+    "geom:latitude":44.653166,
+    "geom:longitude":-72.605663,
+    "iso:country":"US",
+    "sg:address":"4019 State Rte 100",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 7846",
+    "sg:postcode":"05655",
+    "sg:province":"VT",
+    "sg:tags":[
+        "local",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gOFpbh5vtu7ngjcoJbfYZ_44.653166_-72.605663@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312651,
+    "wof:geomhash":"cc3039e037b4099f1982418e565c38fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874182083
+        }
+    ],
+    "wof:id":874182083,
+    "wof:lastmodified":1464312651,
+    "wof:name":"VE Manosh Trckg & Stor Cntrs",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "rental"
+    ]
+},
+  "bbox": [
+    -72.605663,
+    44.653166,
+    -72.605663,
+    44.653166
+],
+  "geometry": {"coordinates":[-72.60566300000001,44.653166],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874224563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.247782,44.085537,-73.247782,44.085537",
+    "geom:latitude":44.085537,
+    "geom:longitude":-73.247782,
+    "iso:country":"US",
+    "sg:address":"65 State Rte 17",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 759 2020",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ul93Fqp1tR6fyAkM2kBuK_44.085537_-73.247782@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313107,
+    "wof:geomhash":"35dafb15f78fee3481ad509e4b44e08d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874224563
+        }
+    ],
+    "wof:id":874224563,
+    "wof:lastmodified":1464313107,
+    "wof:name":"Addison Town Clerk",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -73.247782,
+    44.085537,
+    -73.247782,
+    44.085537
+],
+  "geometry": {"coordinates":[-73.247782,44.085537],"type":"Point"}
+}

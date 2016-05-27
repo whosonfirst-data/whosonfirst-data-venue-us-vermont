@@ -1,0 +1,78 @@
+{
+  "id": 874202021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.589602,43.267875,-72.589602,43.267875",
+    "geom:latitude":43.267875,
+    "geom:longitude":-72.589602,
+    "iso:country":"US",
+    "sg:address":"585 Depot St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 875 3342",
+    "sg:postcode":"05143",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop",
+        "sporting",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837489,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jPHBa93AzdHFQnOvG35qa_43.267875_-72.589602@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312864,
+    "wof:geomhash":"33c4b6e5e4129cb5c30d745d5413bb67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837489,
+            "region_id":85688763,
+            "venue_id":874202021
+        }
+    ],
+    "wof:id":874202021,
+    "wof:lastmodified":1464312864,
+    "wof:name":"Cummings Hardware Co Inc",
+    "wof:parent_id":85837489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sporting",
+        "material"
+    ]
+},
+  "bbox": [
+    -72.589602,
+    43.267875,
+    -72.589602,
+    43.267875
+],
+  "geometry": {"coordinates":[-72.589602,43.267875],"type":"Point"}
+}

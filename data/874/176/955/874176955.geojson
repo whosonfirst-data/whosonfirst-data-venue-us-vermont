@@ -1,0 +1,71 @@
+{
+  "id": 874176955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111309,43.254936,-73.111309,43.254936",
+    "geom:latitude":43.254936,
+    "geom:longitude":-73.111309,
+    "iso:country":"US",
+    "sg:address":"3791 Dorset West Rd",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 867 2460",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5waFb0LdmHdqtolClR8Sh6_43.254936_-73.111309@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312596,
+    "wof:geomhash":"7d945f58447137ef323cba0e1e064fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874176955
+        }
+    ],
+    "wof:id":874176955,
+    "wof:lastmodified":1464312596,
+    "wof:name":"Baker Boys Transport & Storage",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -73.111309,
+    43.254936,
+    -73.111309,
+    43.254936
+],
+  "geometry": {"coordinates":[-73.11130900000001,43.254936],"type":"Point"}
+}

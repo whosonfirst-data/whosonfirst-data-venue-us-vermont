@@ -1,0 +1,72 @@
+{
+  "id": 874034891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.996745,44.505065,-72.996745,44.505065",
+    "geom:latitude":44.505065,
+    "geom:longitude":-72.996745,
+    "iso:country":"US",
+    "sg:address":"74 State Rte 15",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 9951",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "sg:website":"www.nanniespantry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D0QcsS6m8wY5hH0rVDpwS_44.505065_-72.996745@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311093,
+    "wof:geomhash":"3985826f7d4fa4f27105876a4f9383a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874034891
+        }
+    ],
+    "wof:id":874034891,
+    "wof:lastmodified":1464311093,
+    "wof:name":"Nannie's Pantry",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -72.996745,
+    44.505065,
+    -72.996745,
+    44.505065
+],
+  "geometry": {"coordinates":[-72.996745,44.505065],"type":"Point"}
+}

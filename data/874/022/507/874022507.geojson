@@ -1,0 +1,71 @@
+{
+  "id": 874022507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.09392,43.800498,-73.09392,43.800498",
+    "geom:latitude":43.800498,
+    "geom:longitude":-73.09392,
+    "iso:country":"US",
+    "sg:address":"3 Grove St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 6164",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qV5qK0nuVz25poeWWPCK7_43.800498_-73.093920@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310969,
+    "wof:geomhash":"b9fade17e908dd6a091babf5c1110b8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874022507
+        }
+    ],
+    "wof:id":874022507,
+    "wof:lastmodified":1464310969,
+    "wof:name":"Odessa Corp",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -73.09392,
+    43.800498,
+    -73.09392,
+    43.800498
+],
+  "geometry": {"coordinates":[-73.09392,43.800498],"type":"Point"}
+}

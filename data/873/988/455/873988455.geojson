@@ -1,0 +1,71 @@
+{
+  "id": 873988455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.095384,44.030713,-73.095384,44.030713",
+    "geom:latitude":44.030713,
+    "geom:longitude":-73.095384,
+    "iso:country":"US",
+    "sg:address":"4321 Case St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2959",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DF7K4xu3M9gjpqitgXg6C_44.030713_-73.095384@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310679,
+    "wof:geomhash":"4439d055cd62ca36b1138504429b9c0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":873988455
+        }
+    ],
+    "wof:id":873988455,
+    "wof:lastmodified":1464310679,
+    "wof:name":"Barry Forbes Wood Processing",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.095384,
+    44.030713,
+    -73.095384,
+    44.030713
+],
+  "geometry": {"coordinates":[-73.095384,44.030713],"type":"Point"}
+}

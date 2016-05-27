@@ -1,0 +1,78 @@
+{
+  "id": 874249439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.216015,44.484177,-73.216015,44.484177",
+    "geom:latitude":44.484177,
+    "geom:longitude":-73.216015,
+    "iso:country":"US",
+    "sg:address":"72 Murray St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 657 3261",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "altering",
+        "house",
+        "remodeling",
+        "contractor"
+    ],
+    "sg:website":"http://www.burlingtonhistory.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_347OiPbDSCwD3V5gTiyF6Q_44.484006_-73.215939@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464313551,
+    "wof:geomhash":"4f6ce55b8f302080f6cc3e31a6dea69a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874249439
+        }
+    ],
+    "wof:id":874249439,
+    "wof:lastmodified":1464313551,
+    "wof:name":"Burlington Civic Improvement",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "altering",
+        "house",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.216015,
+    44.484177,
+    -73.216015,
+    44.484177
+],
+  "geometry": {"coordinates":[-73.216015,44.484177],"type":"Point"}
+}

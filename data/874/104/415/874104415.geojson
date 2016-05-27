@@ -1,0 +1,71 @@
+{
+  "id": 874104415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.003442,44.536426,-72.003442,44.536426",
+    "geom:latitude":44.536426,
+    "geom:longitude":-72.003442,
+    "iso:country":"US",
+    "sg:address":"43 Middle St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 3253",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qMtXZTY0jgRzNcuPixBoe_44.536426_-72.003442@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311849,
+    "wof:geomhash":"509354017bf85e064a922f0921d98d89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874104415
+        }
+    ],
+    "wof:id":874104415,
+    "wof:lastmodified":1464311849,
+    "wof:name":"Robinson Enterprises Site Dev",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.003442,
+    44.536426,
+    -72.003442,
+    44.536426
+],
+  "geometry": {"coordinates":[-72.00344200000001,44.536426],"type":"Point"}
+}

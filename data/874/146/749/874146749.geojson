@@ -1,0 +1,71 @@
+{
+  "id": 874146749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.187833,42.889897,-73.187833,42.889897",
+    "geom:latitude":42.889897,
+    "geom:longitude":-73.187833,
+    "iso:country":"US",
+    "sg:address":"359 Bowen Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 2790",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "administration",
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cHHVlOndYUgJMmsUeQE7c_42.889897_-73.187833@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312300,
+    "wof:geomhash":"7607fd33dd780c8566a658a80f5ec16a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874146749
+        }
+    ],
+    "wof:id":874146749,
+    "wof:lastmodified":1464312300,
+    "wof:name":"District 1",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administration",
+        "transportation"
+    ]
+},
+  "bbox": [
+    -73.187833,
+    42.889897,
+    -73.187833,
+    42.889897
+],
+  "geometry": {"coordinates":[-73.187833,42.889897],"type":"Point"}
+}

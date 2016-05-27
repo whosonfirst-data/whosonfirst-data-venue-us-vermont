@@ -1,0 +1,71 @@
+{
+  "id": 874248595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.455925,43.369596,-72.455925,43.369596",
+    "geom:latitude":43.369596,
+    "geom:longitude":-72.455925,
+    "iso:country":"US",
+    "sg:address":"1672 Skyline Dr",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 4162",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W6gJzR4yCV1S2rtkvv5Zd_43.369596_-72.455925@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313514,
+    "wof:geomhash":"9426d02cd6f6fcf652f8a721716f9230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874248595
+        }
+    ],
+    "wof:id":874248595,
+    "wof:lastmodified":1464313514,
+    "wof:name":"Custom Car Care Svc",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -72.455925,
+    43.369596,
+    -72.455925,
+    43.369596
+],
+  "geometry": {"coordinates":[-72.45592499999999,43.369596],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874140103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.55099,44.730731,-72.55099,44.730731",
+    "geom:latitude":44.730731,
+    "geom:longitude":-72.55099,
+    "iso:country":"US",
+    "sg:address":"1351 Warren Rd",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 2634",
+    "sg:postcode":"05652",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automobile",
+        "general",
+        "restoration",
+        "classic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QlCTb8fc68UIrYTc2VUZ0_44.730731_-72.550990@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312235,
+    "wof:geomhash":"459ede3fb75351cfb921d14030eb42f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874140103
+        }
+    ],
+    "wof:id":874140103,
+    "wof:lastmodified":1464312235,
+    "wof:name":"Lucien's Garage",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "general",
+        "restoration",
+        "classic"
+    ]
+},
+  "bbox": [
+    -72.55099,
+    44.730731,
+    -72.55099,
+    44.730731
+],
+  "geometry": {"coordinates":[-72.55099,44.730731],"type":"Point"}
+}

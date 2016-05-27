@@ -1,0 +1,73 @@
+{
+  "id": 874199675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.597228,44.561706,-72.597228,44.561706",
+    "geom:latitude":44.561706,
+    "geom:longitude":-72.597228,
+    "iso:country":"US",
+    "sg:address":"32 State Rte 15A",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 4942",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "passenger",
+        "general",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UJZbpoah9oZb4wANqsNkQ_44.561706_-72.597228@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312840,
+    "wof:geomhash":"c600e7a343b11faa1d0129e3048c447f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874199675
+        }
+    ],
+    "wof:id":874199675,
+    "wof:lastmodified":1464312840,
+    "wof:name":"Crow Chvrolet Buick Oldsmobile",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "general",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.597228,
+    44.561706,
+    -72.597228,
+    44.561706
+],
+  "geometry": {"coordinates":[-72.597228,44.561706],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874127107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.311344,44.402318,-72.311344,44.402318",
+    "geom:latitude":44.402318,
+    "geom:longitude":-72.311344,
+    "iso:country":"US",
+    "sg:address":"3087 Main St",
+    "sg:city":"Cabot",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 563 2291",
+    "sg:postcode":"05647",
+    "sg:province":"VT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qJA9wOWF96mhiWGSoEtyR_44.402318_-72.311344@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312103,
+    "wof:geomhash":"6ddfb2a19a6370dff2b5c146d70fb743",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874127107
+        }
+    ],
+    "wof:id":874127107,
+    "wof:lastmodified":1464312103,
+    "wof:name":"True Value",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.311344,
+    44.402318,
+    -72.311344,
+    44.402318
+],
+  "geometry": {"coordinates":[-72.31134400000001,44.402318],"type":"Point"}
+}

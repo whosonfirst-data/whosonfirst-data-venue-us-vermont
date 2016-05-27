@@ -1,0 +1,66 @@
+{
+  "id": 874238673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.148672,44.098403,-73.148672,44.098403",
+    "geom:latitude":44.098403,
+    "geom:longitude":-73.148672,
+    "iso:country":"US",
+    "sg:address":"2479 South St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3380",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n6CEq3aBLJ8KBuUSczZWR_44.098403_-73.148672@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313315,
+    "wof:geomhash":"201658c0f4ff2ccf2716e1fbc58f0638",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874238673
+        }
+    ],
+    "wof:id":874238673,
+    "wof:lastmodified":1464313315,
+    "wof:name":"Robert Sherman",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.148672,
+    44.098403,
+    -73.148672,
+    44.098403
+],
+  "geometry": {"coordinates":[-73.148672,44.098403],"type":"Point"}
+}

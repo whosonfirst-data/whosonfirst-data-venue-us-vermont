@@ -1,0 +1,71 @@
+{
+  "id": 874104149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.053701,44.506654,-73.053701,44.506654",
+    "geom:latitude":44.506654,
+    "geom:longitude":-73.053701,
+    "iso:country":"US",
+    "sg:address":"208 Sandhill Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 2973",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02nhaNUlGF5WVmCnq6ikBv_44.506654_-73.053701@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311847,
+    "wof:geomhash":"ac014fdb72c041cd52fa81ea15accb21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874104149
+        }
+    ],
+    "wof:id":874104149,
+    "wof:lastmodified":1464311847,
+    "wof:name":"Swimming Pool",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -73.053701,
+    44.506654,
+    -73.053701,
+    44.506654
+],
+  "geometry": {"coordinates":[-73.053701,44.506654],"type":"Point"}
+}

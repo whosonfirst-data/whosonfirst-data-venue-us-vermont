@@ -1,0 +1,71 @@
+{
+  "id": 874237571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.094826,43.254768,-73.094826,43.254768",
+    "geom:latitude":43.254768,
+    "geom:longitude":-73.094826,
+    "iso:country":"US",
+    "sg:address":"373 Dorset Hollow Rd",
+    "sg:city":"Dorset",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 867 4167",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O7Um2QV1bE5GtWhl0sZ5C_43.254768_-73.094826@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313289,
+    "wof:geomhash":"cb242de73809d8e8737053ce6fea17e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874237571
+        }
+    ],
+    "wof:id":874237571,
+    "wof:lastmodified":1464313289,
+    "wof:name":"Robert Escher AIA",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -73.094826,
+    43.254768,
+    -73.094826,
+    43.254768
+],
+  "geometry": {"coordinates":[-73.094826,43.254768],"type":"Point"}
+}

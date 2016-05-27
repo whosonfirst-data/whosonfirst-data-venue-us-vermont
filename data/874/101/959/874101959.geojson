@@ -1,0 +1,73 @@
+{
+  "id": 874101959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.011533,44.430497,-72.011533,44.430497",
+    "geom:latitude":44.430497,
+    "geom:longitude":-72.011533,
+    "iso:country":"US",
+    "sg:address":"368 Pleasant St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 9633",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c4OhNR5FOJzh21f6BfuUX_44.430497_-72.011533@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311818,
+    "wof:geomhash":"3650f328ae1e7a553085df971a60d086",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874101959
+        }
+    ],
+    "wof:id":874101959,
+    "wof:lastmodified":1464311818,
+    "wof:name":"S & J Roberts Electric Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.011533,
+    44.430497,
+    -72.011533,
+    44.430497
+],
+  "geometry": {"coordinates":[-72.011533,44.430497],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874201281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.123678,44.090825,-73.123678,44.090825",
+    "geom:latitude":44.090825,
+    "geom:longitude":-73.123678,
+    "iso:country":"US",
+    "sg:address":"798 Sumner Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3065",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20yDYiNeMosFKo0FWGTf79_44.090825_-73.123678@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312856,
+    "wof:geomhash":"63a4d0d07a32b0c2dd98447bed6c434d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874201281
+        }
+    ],
+    "wof:id":874201281,
+    "wof:lastmodified":1464312856,
+    "wof:name":"Messenger Excavating",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.123678,
+    44.090825,
+    -73.123678,
+    44.090825
+],
+  "geometry": {"coordinates":[-73.123678,44.090825],"type":"Point"}
+}

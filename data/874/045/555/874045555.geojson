@@ -1,0 +1,71 @@
+{
+  "id": 874045555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.486062,43.766286,-72.486062,43.766286",
+    "geom:latitude":43.766286,
+    "geom:longitude":-72.486062,
+    "iso:country":"US",
+    "sg:address":"786 Moore Rd",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 8284",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o1n8EXr2npGh3hmHAsTVx_43.766286_-72.486062@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311202,
+    "wof:geomhash":"602d0151ab647e441d5d490bf3c756c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874045555
+        }
+    ],
+    "wof:id":874045555,
+    "wof:lastmodified":1464311202,
+    "wof:name":"Arthur W Stacy Artisan Builder",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.486062,
+    43.766286,
+    -72.486062,
+    43.766286
+],
+  "geometry": {"coordinates":[-72.486062,43.766286],"type":"Point"}
+}

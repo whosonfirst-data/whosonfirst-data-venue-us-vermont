@@ -1,0 +1,73 @@
+{
+  "id": 874067017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.104886,43.930074,-73.104886,43.930074",
+    "geom:latitude":43.930074,
+    "geom:longitude":-73.104886,
+    "iso:country":"US",
+    "sg:address":"91 E Brook Rd",
+    "sg:city":"Hancock",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 767 3610",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79W2Hja47Z2UpsJHId3nRY_43.930074_-73.104886@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311397,
+    "wof:geomhash":"dabd8e0af55db5d53b2953a55d180a61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874067017
+        }
+    ],
+    "wof:id":874067017,
+    "wof:lastmodified":1464311397,
+    "wof:name":"Veilleux Logging & Trucking",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.104886,
+    43.930074,
+    -73.104886,
+    43.930074
+],
+  "geometry": {"coordinates":[-73.10488599999999,43.930074],"type":"Point"}
+}

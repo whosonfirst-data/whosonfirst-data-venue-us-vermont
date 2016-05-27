@@ -1,0 +1,71 @@
+{
+  "id": 874056047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.44431,43.645745,-72.44431,43.645745",
+    "geom:latitude":43.645745,
+    "geom:longitude":-72.44431,
+    "iso:country":"US",
+    "sg:address":"4101 Quechee Main St",
+    "sg:city":"Quechee",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 296 5066",
+    "sg:postcode":"05059",
+    "sg:province":"VT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728469,
+        102080777,
+        85814449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74FCpuFrlGY26jriwnAY34_43.645745_-72.444310@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311301,
+    "wof:geomhash":"a8c7f921aa28eb5bdac2b32e93ae1a04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "locality_id":101728469,
+            "neighbourhood_id":85814449,
+            "region_id":85688763,
+            "venue_id":874056047
+        }
+    ],
+    "wof:id":874056047,
+    "wof:lastmodified":1464311301,
+    "wof:name":"Barron Enterprises",
+    "wof:parent_id":85814449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -72.44431,
+    43.645745,
+    -72.44431,
+    43.645745
+],
+  "geometry": {"coordinates":[-72.44431,43.645745],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873997799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.448782,44.215573,-72.448782,44.215573",
+    "geom:latitude":44.215573,
+    "geom:longitude":-72.448782,
+    "iso:country":"US",
+    "sg:address":"178 Sunset Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 456 7077",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "street",
+        "highway"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3etSqEkWekX85rzPKlp2KT_44.215573_-72.448782@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310745,
+    "wof:geomhash":"47e85dfb30fa5aa0d65a6a2089b07ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873997799
+        }
+    ],
+    "wof:id":873997799,
+    "wof:lastmodified":1464310745,
+    "wof:name":"Willey Construction Inc",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "street",
+        "highway"
+    ]
+},
+  "bbox": [
+    -72.448782,
+    44.215573,
+    -72.448782,
+    44.215573
+],
+  "geometry": {"coordinates":[-72.44878199999999,44.215573],"type":"Point"}
+}

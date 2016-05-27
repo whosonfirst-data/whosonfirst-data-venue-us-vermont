@@ -1,0 +1,65 @@
+{
+  "id": 874125199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.033786,43.174074,-73.033786,43.174074",
+    "geom:latitude":43.174074,
+    "geom:longitude":-73.033786,
+    "iso:country":"US",
+    "sg:address":"1240 Depot St",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 2734",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:website":"www.battenkillbicycle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85844461,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QD6dJWaZwhxPgkSppKLaw_43.174074_-73.033786@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312087,
+    "wof:geomhash":"153759c0e3d89dad7cc440987b6139d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85844461,
+            "region_id":85688763,
+            "venue_id":874125199
+        }
+    ],
+    "wof:id":874125199,
+    "wof:lastmodified":1464312087,
+    "wof:name":"Battenkill Bicycle",
+    "wof:parent_id":85844461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.033786,
+    43.174074,
+    -73.033786,
+    43.174074
+],
+  "geometry": {"coordinates":[-73.03378600000001,43.174074],"type":"Point"}
+}

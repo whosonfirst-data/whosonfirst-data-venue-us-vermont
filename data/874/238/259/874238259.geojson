@@ -1,0 +1,69 @@
+{
+  "id": 874238259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.488255,43.406011,-72.488255,43.406011",
+    "geom:latitude":43.406011,
+    "geom:longitude":-72.488255,
+    "iso:country":"US",
+    "sg:address":"1928 Plains Rd",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 5162",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aNBHsndUKDkofMikXlC8b_43.406011_-72.488255@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313307,
+    "wof:geomhash":"a125e7659146f6b86dd79b28bc06d420",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874238259
+        }
+    ],
+    "wof:id":874238259,
+    "wof:lastmodified":1464313307,
+    "wof:name":"Limerick Bear LLC",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.488255,
+    43.406011,
+    -72.488255,
+    43.406011
+],
+  "geometry": {"coordinates":[-72.488255,43.406011],"type":"Point"}
+}

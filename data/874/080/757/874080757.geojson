@@ -1,0 +1,69 @@
+{
+  "id": 874080757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.808785,44.2564,-72.808785,44.2564",
+    "geom:latitude":44.2564,
+    "geom:longitude":-72.808785,
+    "iso:country":"US",
+    "sg:address":"401 Ward Hill Rd",
+    "sg:city":"Moretown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 496 6101",
+    "sg:postcode":"05660",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815147,
+        102080779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ooyJphAIRDuwOcs4IcHzD_44.256400_-72.808785@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311560,
+    "wof:geomhash":"f4c065738d4d45b733d4f53acb614e5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "neighbourhood_id":85815147,
+            "region_id":85688763,
+            "venue_id":874080757
+        }
+    ],
+    "wof:id":874080757,
+    "wof:lastmodified":1464311560,
+    "wof:name":"Potter's Tree Health Care",
+    "wof:parent_id":85815147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -72.808785,
+    44.2564,
+    -72.808785,
+    44.2564
+],
+  "geometry": {"coordinates":[-72.808785,44.2564],"type":"Point"}
+}

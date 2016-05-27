@@ -1,0 +1,69 @@
+{
+  "id": 874189883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.105808,44.427419,-72.105808,44.427419",
+    "geom:latitude":44.427419,
+    "geom:longitude":-72.105808,
+    "iso:country":"US",
+    "sg:address":"36 State Rte 2b",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 684 9606",
+    "sg:postcode":"05828",
+    "sg:province":"VT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818361,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t2U4CAE9SZNuq2y1TdxZz_44.427419_-72.105808@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312739,
+    "wof:geomhash":"75508e48b3123605328d0d13e4f22ede",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85818361,
+            "region_id":85688763,
+            "venue_id":874189883
+        }
+    ],
+    "wof:id":874189883,
+    "wof:lastmodified":1464312739,
+    "wof:name":"Town Listers",
+    "wof:parent_id":85818361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.105808,
+    44.427419,
+    -72.105808,
+    44.427419
+],
+  "geometry": {"coordinates":[-72.105808,44.427419],"type":"Point"}
+}

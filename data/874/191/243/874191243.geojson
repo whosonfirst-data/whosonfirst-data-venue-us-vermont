@@ -1,0 +1,71 @@
+{
+  "id": 874191243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.003,44.5031,-73.003,44.5031",
+    "geom:latitude":44.5031,
+    "geom:longitude":-73.003,
+    "iso:country":"US",
+    "sg:address":"213 State Rte 15",
+    "sg:city":"Jericho",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 2101",
+    "sg:postcode":"05465",
+    "sg:province":"VT",
+    "sg:tags":[
+        "balancing",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BW7FjqPanuY4vO74xRemb_44.503100_-73.003000@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312751,
+    "wof:geomhash":"dd359fc8b376ee1515233b10f2a9415d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874191243
+        }
+    ],
+    "wof:id":874191243,
+    "wof:lastmodified":1464312751,
+    "wof:name":"Airtek Inc",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "balancing",
+        "air"
+    ]
+},
+  "bbox": [
+    -73.003,
+    44.5031,
+    -73.003,
+    44.5031
+],
+  "geometry": {"coordinates":[-73.003,44.5031],"type":"Point"}
+}

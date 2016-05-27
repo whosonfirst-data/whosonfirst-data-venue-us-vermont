@@ -1,0 +1,71 @@
+{
+  "id": 874237259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.516372,44.213222,-72.516372,44.213222",
+    "geom:latitude":44.213222,
+    "geom:longitude":-72.516372,
+    "iso:country":"US",
+    "sg:address":"17 Rudd Farm Dr",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 5916",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cA6CZ3XtELGwR6VnBFo0q_44.213222_-72.516372@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313285,
+    "wof:geomhash":"899cc5d0b00fff34397f49bb65d87d57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874237259
+        }
+    ],
+    "wof:id":874237259,
+    "wof:lastmodified":1464313285,
+    "wof:name":"Shear Metamorphosis",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.516372,
+    44.213222,
+    -72.516372,
+    44.213222
+],
+  "geometry": {"coordinates":[-72.516372,44.213222],"type":"Point"}
+}

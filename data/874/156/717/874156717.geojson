@@ -1,0 +1,72 @@
+{
+  "id": 874156717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.486274,44.172357,-72.486274,44.172357",
+    "geom:latitude":44.172357,
+    "geom:longitude":-72.486274,
+    "iso:country":"US",
+    "sg:address":"72 Pitman Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 0810",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"www.schwans.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yge9KV1Q3yMq4kZedTBHw_44.172357_-72.486274@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312396,
+    "wof:geomhash":"5810398d49b753579e458a6d21ac4843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874156717
+        }
+    ],
+    "wof:id":874156717,
+    "wof:lastmodified":1464312396,
+    "wof:name":"Schwan's Sales Enterprises",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -72.486274,
+    44.172357,
+    -72.486274,
+    44.172357
+],
+  "geometry": {"coordinates":[-72.48627399999999,44.172357],"type":"Point"}
+}

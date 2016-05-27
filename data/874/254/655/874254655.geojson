@@ -1,0 +1,70 @@
+{
+  "id": 874254655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.230202,44.3731,-73.230202,44.3731",
+    "geom:latitude":44.3731,
+    "geom:longitude":-73.230202,
+    "iso:country":"US",
+    "sg:address":"5347 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 2800",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:website":"www.heartofthevillage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EfwvBKOe46rog2sxLrrt0_44.373100_-73.230202@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313662,
+    "wof:geomhash":"1cbf01469afacb9c2777da2c59dcaf1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874254655
+        }
+    ],
+    "wof:id":874254655,
+    "wof:lastmodified":1464313662,
+    "wof:name":"Heart of the Village Inn",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.230202,
+    44.3731,
+    -73.230202,
+    44.3731
+],
+  "geometry": {"coordinates":[-73.23020200000001,44.3731],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874195855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.97887,43.625926,-72.97887,43.625926",
+    "geom:latitude":43.625926,
+    "geom:longitude":-72.97887,
+    "iso:country":"US",
+    "sg:address":"204 Lincoln Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2893",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q12VwgqvNvmMiPKz1u5qc_43.625926_-72.978870@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312803,
+    "wof:geomhash":"a682fd9f26e1846006e249670eb815e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874195855
+        }
+    ],
+    "wof:id":874195855,
+    "wof:lastmodified":1464312803,
+    "wof:name":"Bernie's Plumbing & Heating",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.97887,
+    43.625926,
+    -72.97887,
+    43.625926
+],
+  "geometry": {"coordinates":[-72.97887,43.625926],"type":"Point"}
+}

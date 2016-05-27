@@ -1,0 +1,71 @@
+{
+  "id": 874217679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.11142,44.49833,-73.11142,44.49833",
+    "geom:latitude":44.49833,
+    "geom:longitude":-73.11142,
+    "iso:country":"US",
+    "sg:address":"15 Old Colchester Rd",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 7496",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fradtXggG5TRhX0GIXhOM_44.498330_-73.111420@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313028,
+    "wof:geomhash":"e4ede9c5ef9a109f82f7bbb0793f32e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874217679
+        }
+    ],
+    "wof:id":874217679,
+    "wof:lastmodified":1464313028,
+    "wof:name":"Elizabeth A Wood",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -73.11142,
+    44.49833,
+    -73.11142,
+    44.49833
+],
+  "geometry": {"coordinates":[-73.11142,44.49833],"type":"Point"}
+}

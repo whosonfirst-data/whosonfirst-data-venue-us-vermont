@@ -1,0 +1,75 @@
+{
+  "id": 874032005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50425,44.209187,-72.50425,44.209187",
+    "geom:latitude":44.209187,
+    "geom:longitude":-72.50425,
+    "iso:country":"US",
+    "sg:address":"35 Farwell St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 7491",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yWhudWdO3iEN1UscZMCVw_44.209187_-72.504250@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311066,
+    "wof:geomhash":"c25178ff4369c5bcf80d0be818e447e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874032005
+        }
+    ],
+    "wof:id":874032005,
+    "wof:lastmodified":1464311066,
+    "wof:name":"Buzzi's Garage",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.50425,
+    44.209187,
+    -72.50425,
+    44.209187
+],
+  "geometry": {"coordinates":[-72.50425,44.209187],"type":"Point"}
+}

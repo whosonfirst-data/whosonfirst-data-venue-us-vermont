@@ -1,0 +1,78 @@
+{
+  "id": 874250565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.181146,44.464851,-73.181146,44.464851",
+    "geom:latitude":44.464851,
+    "geom:longitude":-73.181146,
+    "iso:country":"US",
+    "sg:address":"155 Dorset St",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/vt/south-burlington/84902-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 2818",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7czhCUYStI7wIJKIMvEbgf_44.464851_-73.181146@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464313578,
+    "wof:geomhash":"b3ffab821e01a29fc865f3e734679dd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874250565
+        }
+    ],
+    "wof:id":874250565,
+    "wof:lastmodified":1464313578,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -73.181146,
+    44.464851,
+    -73.181146,
+    44.464851
+],
+  "geometry": {"coordinates":[-73.181146,44.464851],"type":"Point"}
+}

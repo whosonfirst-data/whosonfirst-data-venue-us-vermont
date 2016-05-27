@@ -1,0 +1,69 @@
+{
+  "id": 874030609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.040039,44.622514,-73.040039,44.622514",
+    "geom:latitude":44.622514,
+    "geom:longitude":-73.040039,
+    "iso:country":"US",
+    "sg:address":"97 Mountain Rd",
+    "sg:city":"Westford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 0223",
+    "sg:postcode":"05494",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818481,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cVJaeQCxPEzAYnqqaYrr5_44.622514_-73.040039@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311054,
+    "wof:geomhash":"782c6a9db232d3c1ef1bf3da5c8e2586",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85818481,
+            "region_id":85688763,
+            "venue_id":874030609
+        }
+    ],
+    "wof:id":874030609,
+    "wof:lastmodified":1464311054,
+    "wof:name":"True Builders Inc",
+    "wof:parent_id":85818481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.040039,
+    44.622514,
+    -73.040039,
+    44.622514
+],
+  "geometry": {"coordinates":[-73.04003899999999,44.622514],"type":"Point"}
+}

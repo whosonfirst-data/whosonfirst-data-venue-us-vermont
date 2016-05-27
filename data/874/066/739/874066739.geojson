@@ -1,0 +1,73 @@
+{
+  "id": 874066739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088147,43.800571,-73.088147,43.800571",
+    "geom:latitude":43.800571,
+    "geom:longitude":-73.088147,
+    "iso:country":"US",
+    "sg:address":"1 W Seminary St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 0222",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocery",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V2DxZYmXvxJUkOmT7rcCX_43.800571_-73.088147@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311395,
+    "wof:geomhash":"9c6427cf6e67a0828012bab51acecb38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874066739
+        }
+    ],
+    "wof:id":874066739,
+    "wof:lastmodified":1464311395,
+    "wof:name":"Brandon Police Dept",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "protection"
+    ]
+},
+  "bbox": [
+    -73.088147,
+    43.800571,
+    -73.088147,
+    43.800571
+],
+  "geometry": {"coordinates":[-73.08814700000001,43.800571],"type":"Point"}
+}

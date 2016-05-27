@@ -1,0 +1,71 @@
+{
+  "id": 874071811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.592795,44.577058,-72.592795,44.577058",
+    "geom:latitude":44.577058,
+    "geom:longitude":-72.592795,
+    "iso:country":"US",
+    "sg:address":"29 Sunset Dr",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 4972",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KgFlUAAdPNk1inl9UvblW_44.577058_-72.592795@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311457,
+    "wof:geomhash":"3f78e358bf07876debceb4f16f82540e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874071811
+        }
+    ],
+    "wof:id":874071811,
+    "wof:lastmodified":1464311457,
+    "wof:name":"University Of Vermont Extensio",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -72.592795,
+    44.577058,
+    -72.592795,
+    44.577058
+],
+  "geometry": {"coordinates":[-72.592795,44.577058],"type":"Point"}
+}

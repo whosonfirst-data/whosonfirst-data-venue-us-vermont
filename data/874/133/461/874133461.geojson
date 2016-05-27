@@ -1,0 +1,71 @@
+{
+  "id": 874133461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015875,44.515738,-72.015875,44.515738",
+    "geom:latitude":44.515738,
+    "geom:longitude":-72.015875,
+    "iso:country":"US",
+    "sg:address":"173 York St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 751 8331",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pYHdkjxUvPX147vzJxKKd_44.515738_-72.015875@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312177,
+    "wof:geomhash":"5d4ed318332ecb13b6f036303510bf59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874133461
+        }
+    ],
+    "wof:id":874133461,
+    "wof:lastmodified":1464312177,
+    "wof:name":"Dance Images By Heidi",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -72.015875,
+    44.515738,
+    -72.015875,
+    44.515738
+],
+  "geometry": {"coordinates":[-72.01587499999999,44.515738],"type":"Point"}
+}

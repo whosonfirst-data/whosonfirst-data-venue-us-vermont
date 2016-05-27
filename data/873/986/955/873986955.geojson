@@ -1,0 +1,69 @@
+{
+  "id": 873986955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.197233,42.878015,-73.197233,42.878015",
+    "geom:latitude":42.878015,
+    "geom:longitude":-73.197233,
+    "iso:country":"US",
+    "sg:address":"109 South St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 3381",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f0HNgIi5m9JFUAg1SN4XO_42.878015_-73.197233@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310668,
+    "wof:geomhash":"431d881c4cc14e3798d60c90bf9c6b78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":873986955
+        }
+    ],
+    "wof:id":873986955,
+    "wof:lastmodified":1464310668,
+    "wof:name":"Pennysaver Press",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -73.197233,
+    42.878015,
+    -73.197233,
+    42.878015
+],
+  "geometry": {"coordinates":[-73.197233,42.878015],"type":"Point"}
+}

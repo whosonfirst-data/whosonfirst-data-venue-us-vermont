@@ -1,0 +1,79 @@
+{
+  "id": 873994381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971677,43.605025,-72.971677,43.605025",
+    "geom:latitude":43.605025,
+    "geom:longitude":-72.971677,
+    "iso:country":"US",
+    "sg:address":"257 S Main St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 0855",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "passenger",
+        "track",
+        "car",
+        "operation",
+        "racing",
+        "or"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V7KH6ZswtxFYhYME7J1fc_43.605025_-72.971677@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310722,
+    "wof:geomhash":"d889824f1fe810a27eec503e2741a786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":873994381
+        }
+    ],
+    "wof:id":873994381,
+    "wof:lastmodified":1464310722,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "track",
+        "car",
+        "operation",
+        "racing",
+        "or"
+    ]
+},
+  "bbox": [
+    -72.971677,
+    43.605025,
+    -72.971677,
+    43.605025
+],
+  "geometry": {"coordinates":[-72.971677,43.605025],"type":"Point"}
+}

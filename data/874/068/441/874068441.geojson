@@ -1,0 +1,69 @@
+{
+  "id": 874068441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.593663,43.723944,-72.593663,43.723944",
+    "geom:latitude":43.723944,
+    "geom:longitude":-72.593663,
+    "iso:country":"US",
+    "sg:address":"46 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 8051",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iivIBBIkXFzOBJAI43a9F_43.723944_-72.593663@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311417,
+    "wof:geomhash":"691a8057ea80186125984cf9eb5e05ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874068441
+        }
+    ],
+    "wof:id":874068441,
+    "wof:lastmodified":1464311417,
+    "wof:name":"Albee O'Hara Inc",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.593663,
+    43.723944,
+    -72.593663,
+    43.723944
+],
+  "geometry": {"coordinates":[-72.59366300000001,43.723944],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874254793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210205,44.413022,-73.210205,44.413022",
+    "geom:latitude":44.413022,
+    "geom:longitude":-73.210205,
+    "iso:country":"US",
+    "sg:address":"313 Juniper Rdg",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 2112",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zz16D7i2LJsvXmdcwb8DF_44.413022_-73.210205@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313666,
+    "wof:geomhash":"baf0fdd77cb48c7c43848225648d73ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874254793
+        }
+    ],
+    "wof:id":874254793,
+    "wof:lastmodified":1464313666,
+    "wof:name":"Walt Barron Realty",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -73.210205,
+    44.413022,
+    -73.210205,
+    44.413022
+],
+  "geometry": {"coordinates":[-73.210205,44.413022],"type":"Point"}
+}

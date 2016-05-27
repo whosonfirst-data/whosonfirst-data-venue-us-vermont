@@ -1,0 +1,75 @@
+{
+  "id": 874014403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.165092,44.014662,-73.165092,44.014662",
+    "geom:latitude":44.014662,
+    "geom:longitude":-73.165092,
+    "iso:country":"US",
+    "sg:address":"13 Washington St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3866",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Vqc1b64S819KaOPxO97JK_44.014662_-73.165092@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310886,
+    "wof:geomhash":"29e273a7bc06cf39996f727eadd7b064",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874014403
+        }
+    ],
+    "wof:id":874014403,
+    "wof:lastmodified":1464310886,
+    "wof:name":"Sunshine Preschool",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -73.165092,
+    44.014662,
+    -73.165092,
+    44.014662
+],
+  "geometry": {"coordinates":[-73.165092,44.014662],"type":"Point"}
+}

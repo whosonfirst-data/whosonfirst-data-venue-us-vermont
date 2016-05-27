@@ -1,0 +1,73 @@
+{
+  "id": 874046965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.059502,44.460381,-73.059502,44.460381",
+    "geom:latitude":44.460381,
+    "geom:longitude":-73.059502,
+    "iso:country":"US",
+    "sg:address":"726 Red Pine Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 2980",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38HqMhgmaXmiCq3ZJMlY7W_44.460381_-73.059502@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311215,
+    "wof:geomhash":"9140b92751965e64248109f2f66bc9ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874046965
+        }
+    ],
+    "wof:id":874046965,
+    "wof:lastmodified":1464311215,
+    "wof:name":"Coutures Delivery",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.059502,
+    44.460381,
+    -73.059502,
+    44.460381
+],
+  "geometry": {"coordinates":[-73.05950199999999,44.460381],"type":"Point"}
+}

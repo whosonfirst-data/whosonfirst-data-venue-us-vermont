@@ -1,0 +1,71 @@
+{
+  "id": 874159997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.486083,44.254503,-72.486083,44.254503",
+    "geom:latitude":44.254503,
+    "geom:longitude":-72.486083,
+    "iso:country":"US",
+    "sg:address":"1325 State Rte 14",
+    "sg:city":"East Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 1880",
+    "sg:postcode":"05651",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EIwKnK8F88JdoVTs1ljWd_44.254503_-72.486083@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312432,
+    "wof:geomhash":"f7afccfc567c00b4466c09b5d2a5f592",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874159997
+        }
+    ],
+    "wof:id":874159997,
+    "wof:lastmodified":1464312432,
+    "wof:name":"Porta-Rinx",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.486083,
+    44.254503,
+    -72.486083,
+    44.254503
+],
+  "geometry": {"coordinates":[-72.48608299999999,44.254503],"type":"Point"}
+}

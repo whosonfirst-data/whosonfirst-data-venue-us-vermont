@@ -1,0 +1,77 @@
+{
+  "id": 874157083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.164658,44.014718,-73.164658,44.014718",
+    "geom:latitude":44.014718,
+    "geom:longitude":-73.164658,
+    "iso:country":"US",
+    "sg:address":"10 Washington St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2036",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PVzqRww3LQHpeUtodZDi4_44.014718_-73.164658@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312399,
+    "wof:geomhash":"8038f4754a6377351fac5a6f65afd88e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874157083
+        }
+    ],
+    "wof:id":874157083,
+    "wof:lastmodified":1464312399,
+    "wof:name":"Video King",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -73.164658,
+    44.014718,
+    -73.164658,
+    44.014718
+],
+  "geometry": {"coordinates":[-73.164658,44.014718],"type":"Point"}
+}

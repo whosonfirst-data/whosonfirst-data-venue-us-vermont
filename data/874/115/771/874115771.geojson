@@ -1,0 +1,69 @@
+{
+  "id": 874115771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015565,44.449725,-72.015565,44.449725",
+    "geom:latitude":44.449725,
+    "geom:longitude":-72.015565,
+    "iso:country":"US",
+    "sg:address":"1186 Memorial Dr",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 5354",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KIuXPw3ROKCZzuX9HztTG_44.449725_-72.015565@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311994,
+    "wof:geomhash":"18a3685a8944bbb95a6d412879f649e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874115771
+        }
+    ],
+    "wof:id":874115771,
+    "wof:lastmodified":1464311994,
+    "wof:name":"Ryder Truck Rental-One-Way Inc",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -72.015565,
+    44.449725,
+    -72.015565,
+    44.449725
+],
+  "geometry": {"coordinates":[-72.015565,44.449725],"type":"Point"}
+}

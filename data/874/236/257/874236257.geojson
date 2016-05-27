@@ -1,0 +1,71 @@
+{
+  "id": 874236257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.197978,44.480729,-73.197978,44.480729",
+    "geom:latitude":44.480729,
+    "geom:longitude":-73.197978,
+    "iso:country":"US",
+    "sg:address":"60 Colchester Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 864 7483",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3suwrrt3NavPGm0VtZ5LnQ_44.480729_-73.197978@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313268,
+    "wof:geomhash":"40d68f752cf879d4b370e03fbb34bdb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874236257
+        }
+    ],
+    "wof:id":874236257,
+    "wof:lastmodified":1464313268,
+    "wof:name":"Paul Mayer MD",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.197978,
+    44.480729,
+    -73.197978,
+    44.480729
+],
+  "geometry": {"coordinates":[-73.19797800000001,44.480729],"type":"Point"}
+}

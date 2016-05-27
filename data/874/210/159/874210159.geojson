@@ -1,0 +1,77 @@
+{
+  "id": 874210159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.170168,44.015329,-73.170168,44.015329",
+    "geom:latitude":44.015329,
+    "geom:longitude":-73.170168,
+    "iso:country":"US",
+    "sg:address":"99 Maple St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7400",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "program",
+        "physical",
+        "exercise",
+        "fitness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YWgjVKBYqignJDtc8POXg_44.015329_-73.170168@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312951,
+    "wof:geomhash":"de04cd9ea712e6ccb2cd3ece921aa8e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874210159
+        }
+    ],
+    "wof:id":874210159,
+    "wof:lastmodified":1464312951,
+    "wof:name":"Vermont Center For Classical",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "physical",
+        "exercise",
+        "fitness"
+    ]
+},
+  "bbox": [
+    -73.170168,
+    44.015329,
+    -73.170168,
+    44.015329
+],
+  "geometry": {"coordinates":[-73.170168,44.015329],"type":"Point"}
+}

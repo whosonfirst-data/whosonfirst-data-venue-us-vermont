@@ -1,0 +1,73 @@
+{
+  "id": 874213427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.563178,44.233174,-72.563178,44.233174",
+    "geom:latitude":44.233174,
+    "geom:longitude":-72.563178,
+    "iso:country":"US",
+    "sg:address":"1480 Paine Tpke N",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 2009",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2paolhrdf04TYudaGMshse_44.233174_-72.563178@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312988,
+    "wof:geomhash":"0531dca17faf4c9a363a87382d02cd22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874213427
+        }
+    ],
+    "wof:id":874213427,
+    "wof:lastmodified":1464312988,
+    "wof:name":"Water Treatment Plant Mntplr",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -72.563178,
+    44.233174,
+    -72.563178,
+    44.233174
+],
+  "geometry": {"coordinates":[-72.56317799999999,44.233174],"type":"Point"}
+}

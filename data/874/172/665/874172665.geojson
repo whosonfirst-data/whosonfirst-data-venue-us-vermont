@@ -1,0 +1,69 @@
+{
+  "id": 874172665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.09771,44.006702,-73.09771,44.006702",
+    "geom:latitude":44.006702,
+    "geom:longitude":-73.09771,
+    "iso:country":"US",
+    "sg:address":"2375 Case St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 443 9040",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n13dlGM3xyaSc87jVkTO1_44.006702_-73.097710@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312555,
+    "wof:geomhash":"76ef3194e3e62a75e9117fccfd1bf000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874172665
+        }
+    ],
+    "wof:id":874172665,
+    "wof:lastmodified":1464312555,
+    "wof:name":"Jeremy W Foster",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -73.09771,
+    44.006702,
+    -73.09771,
+    44.006702
+],
+  "geometry": {"coordinates":[-73.09771000000001,44.006702],"type":"Point"}
+}

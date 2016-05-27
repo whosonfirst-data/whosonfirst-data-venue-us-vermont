@@ -1,0 +1,71 @@
+{
+  "id": 874099033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.172954,44.493398,-73.172954,44.493398",
+    "geom:latitude":44.493398,
+    "geom:longitude":-73.172954,
+    "iso:country":"US",
+    "sg:address":"361 E Allen St",
+    "sg:city":"Winooski",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 655 3664",
+    "sg:postcode":"05404",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Tci074OMDpiqXSi9kp5R2_44.493398_-73.172954@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311772,
+    "wof:geomhash":"c303609292ca094cf9b0067a4b747c80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874099033
+        }
+    ],
+    "wof:id":874099033,
+    "wof:lastmodified":1464311772,
+    "wof:name":"Chuck's Dry Wall",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.172954,
+    44.493398,
+    -73.172954,
+    44.493398
+],
+  "geometry": {"coordinates":[-73.172954,44.493398],"type":"Point"}
+}

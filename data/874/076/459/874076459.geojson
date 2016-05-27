@@ -1,0 +1,75 @@
+{
+  "id": 874076459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.502014,44.19852,-72.502014,44.19852",
+    "geom:latitude":44.19852,
+    "geom:longitude":-72.502014,
+    "iso:country":"US",
+    "sg:address":"12 Keith Ave",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 1414",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "equipment",
+        "dealer",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62sbP898u0t0dMYg3ixv3D_44.198520_-72.502014@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311515,
+    "wof:geomhash":"f65abc3d00ff448ad9c1963305687854",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874076459
+        }
+    ],
+    "wof:id":874076459,
+    "wof:lastmodified":1464311515,
+    "wof:name":"Ormsby's Connecting Point Ctr",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer",
+        "software"
+    ]
+},
+  "bbox": [
+    -72.502014,
+    44.19852,
+    -72.502014,
+    44.19852
+],
+  "geometry": {"coordinates":[-72.502014,44.19852],"type":"Point"}
+}

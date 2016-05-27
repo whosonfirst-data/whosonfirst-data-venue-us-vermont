@@ -1,0 +1,69 @@
+{
+  "id": 874172813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.550932,43.501483,-72.550932,43.501483",
+    "geom:latitude":43.501483,
+    "geom:longitude":-72.550932,
+    "iso:country":"US",
+    "sg:address":"88 Reading Farms Rd",
+    "sg:city":"Reading",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 484 7799",
+    "sg:postcode":"05062",
+    "sg:province":"VT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O3H22BV5vVXtIRQiwT3k2_43.501483_-72.550932@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312557,
+    "wof:geomhash":"f9d5cb443dad0c700d2a05508eca4407",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874172813
+        }
+    ],
+    "wof:id":874172813,
+    "wof:lastmodified":1464312557,
+    "wof:name":"Yellow House Antiques",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -72.550932,
+    43.501483,
+    -72.550932,
+    43.501483
+],
+  "geometry": {"coordinates":[-72.550932,43.501483],"type":"Point"}
+}

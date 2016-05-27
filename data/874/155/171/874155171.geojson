@@ -1,0 +1,71 @@
+{
+  "id": 874155171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.201547,42.8895,-73.201547,42.8895",
+    "geom:latitude":42.8895,
+    "geom:longitude":-73.201547,
+    "iso:country":"US",
+    "sg:address":"254 Benmont Ave",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 8526",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U8AQ1drB8guMvR1AbpHOq_42.889500_-73.201547@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312379,
+    "wof:geomhash":"09686960c497243c3f09866b2cc73ec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874155171
+        }
+    ],
+    "wof:id":874155171,
+    "wof:lastmodified":1464312379,
+    "wof:name":"CTC Corp",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -73.201547,
+    42.8895,
+    -73.201547,
+    42.8895
+],
+  "geometry": {"coordinates":[-73.20154700000001,42.8895],"type":"Point"}
+}

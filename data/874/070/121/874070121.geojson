@@ -1,0 +1,73 @@
+{
+  "id": 874070121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.219363,44.446387,-73.219363,44.446387",
+    "geom:latitude":44.446387,
+    "geom:longitude":-73.219363,
+    "iso:country":"US",
+    "sg:address":"95 Central Ave",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 0190",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "book",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LAxgfStxyQRE1ZnPEsYZh_44.446387_-73.219363@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311433,
+    "wof:geomhash":"85be9a10b56e2912a44ead25b3b99212",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874070121
+        }
+    ],
+    "wof:id":874070121,
+    "wof:lastmodified":1464311433,
+    "wof:name":"Robert Vogel",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book",
+        "publishing"
+    ]
+},
+  "bbox": [
+    -73.219363,
+    44.446387,
+    -73.219363,
+    44.446387
+],
+  "geometry": {"coordinates":[-73.219363,44.446387],"type":"Point"}
+}

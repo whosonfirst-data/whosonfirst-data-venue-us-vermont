@@ -1,0 +1,73 @@
+{
+  "id": 874160185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.20344,42.892102,-73.20344,42.892102",
+    "geom:latitude":42.892102,
+    "geom:longitude":-73.20344,
+    "iso:country":"US",
+    "sg:address":"22 Robinson Ave",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 3600",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "help",
+        "maintenance",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nN4PjfekB9Nzy9DalD9yh_42.892102_-73.203440@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312434,
+    "wof:geomhash":"f61a1b0ed4e42535728a22aa55b37e0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874160185
+        }
+    ],
+    "wof:id":874160185,
+    "wof:lastmodified":1464312434,
+    "wof:name":"Rosas Cleaning Service",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "help",
+        "maintenance",
+        "supply"
+    ]
+},
+  "bbox": [
+    -73.20344,
+    42.892102,
+    -73.20344,
+    42.892102
+],
+  "geometry": {"coordinates":[-73.20344,42.892102],"type":"Point"}
+}

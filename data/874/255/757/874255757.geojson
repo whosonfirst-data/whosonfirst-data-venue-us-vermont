@@ -1,0 +1,76 @@
+{
+  "id": 874255757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.981123,43.622235,-72.981123,43.622235",
+    "geom:latitude":43.622235,
+    "geom:longitude":-72.981123,
+    "iso:country":"US",
+    "sg:address":"194 Adams St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2727",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "consultant",
+        "analyst"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qbwOJEEUbum6Qo4Qn9tCc_43.622235_-72.981123@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313691,
+    "wof:geomhash":"6e84fb3b45070aa8c839100c23ee2b73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255757
+        }
+    ],
+    "wof:id":874255757,
+    "wof:lastmodified":1464313691,
+    "wof:name":"Health Inex Of Rutland Inc",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "analyst"
+    ]
+},
+  "bbox": [
+    -72.981123,
+    43.622235,
+    -72.981123,
+    43.622235
+],
+  "geometry": {"coordinates":[-72.981123,43.622235],"type":"Point"}
+}

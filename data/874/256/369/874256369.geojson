@@ -1,0 +1,72 @@
+{
+  "id": 874256369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.166341,44.035655,-73.166341,44.035655",
+    "geom:latitude":44.035655,
+    "geom:longitude":-73.166341,
+    "iso:country":"US",
+    "sg:address":"1330 Exchange St Ste 105",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 0970",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "chiropractic"
+    ],
+    "sg:website":"http://www.mcdanielchiro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tcalbmQzArZpjFjEtYPfO_44.035655_-73.166341@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313704,
+    "wof:geomhash":"bd4ab83746d326ccdabc0870e2eec944",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874256369
+        }
+    ],
+    "wof:id":874256369,
+    "wof:lastmodified":1464313704,
+    "wof:name":"Mcdaniel Chiropractic Center Inc",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -73.166341,
+    44.035655,
+    -73.166341,
+    44.035655
+],
+  "geometry": {"coordinates":[-73.166341,44.035655],"type":"Point"}
+}

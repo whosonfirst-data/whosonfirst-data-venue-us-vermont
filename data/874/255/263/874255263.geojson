@@ -1,0 +1,86 @@
+{
+  "id": 874255263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.241704,44.153782,-73.241704,44.153782",
+    "geom:latitude":44.153782,
+    "geom:longitude":-73.241704,
+    "iso:country":"US",
+    "sg:address":"207 Shorewood Rd",
+    "sg:city":"Vergennes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 877 2029",
+    "sg:postcode":"05491",
+    "sg:province":"VT",
+    "sg:tags":[
+        "industrial",
+        "mason",
+        "contractors-commercial",
+        "masonry",
+        "contractor",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_680N9C9gU6RxH51zuKOai5_44.153782_-73.241704@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313681,
+    "wof:geomhash":"a1c8b589308471999607580f7dbe0ef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874255263
+        }
+    ],
+    "wof:id":874255263,
+    "wof:lastmodified":1464313681,
+    "wof:name":"Mark Shorey",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mason",
+        "contractors-commercial",
+        "masonry",
+        "contractor",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -73.241704,
+    44.153782,
+    -73.241704,
+    44.153782
+],
+  "geometry": {"coordinates":[-73.241704,44.153782],"type":"Point"}
+}

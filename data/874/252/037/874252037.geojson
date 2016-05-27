@@ -1,0 +1,80 @@
+{
+  "id": 874252037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.560252,42.875113,-72.560252,42.875113",
+    "geom:latitude":42.875113,
+    "geom:longitude":-72.560252,
+    "iso:country":"US",
+    "sg:address":"768 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 251 0166",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "clothing"
+    ],
+    "sg:website":"http://www.peebles.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A8bJFiYFBaOQZAPFXOcU2_42.875113_-72.560252@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313606,
+    "wof:geomhash":"1833913c2d22f1a30d0e00579002ffff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":874252037
+        }
+    ],
+    "wof:id":874252037,
+    "wof:lastmodified":1464313606,
+    "wof:name":"Peebles",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing"
+    ]
+},
+  "bbox": [
+    -72.560252,
+    42.875113,
+    -72.560252,
+    42.875113
+],
+  "geometry": {"coordinates":[-72.56025200000001,42.875113],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874041235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.562785,44.7413,-72.562785,44.7413",
+    "geom:latitude":44.7413,
+    "geom:longitude":-72.562785,
+    "iso:country":"US",
+    "sg:address":"2319 Warren Rd",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 2456",
+    "sg:postcode":"05652",
+    "sg:province":"VT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AKLqOcCLt9vBplZcYM37U_44.741300_-72.562785@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311154,
+    "wof:geomhash":"ceea083d1f1735fbf692248ada6da6a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874041235
+        }
+    ],
+    "wof:id":874041235,
+    "wof:lastmodified":1464311154,
+    "wof:name":"Uncle Bills",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.562785,
+    44.7413,
+    -72.562785,
+    44.7413
+],
+  "geometry": {"coordinates":[-72.56278500000001,44.7413],"type":"Point"}
+}

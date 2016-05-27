@@ -1,0 +1,69 @@
+{
+  "id": 874225391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.495134,43.302402,-72.495134,43.302402",
+    "geom:latitude":43.302402,
+    "geom:longitude":-72.495134,
+    "iso:country":"US",
+    "sg:address":"6 Chester Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 885 7246",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85856417,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OK5SUm526dZ4P7B5ZXgSd_43.302402_-72.495134@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313115,
+    "wof:geomhash":"8cb716154ac19310bb6f9a3bffea6418",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85856417,
+            "region_id":85688763,
+            "venue_id":874225391
+        }
+    ],
+    "wof:id":874225391,
+    "wof:lastmodified":1464313115,
+    "wof:name":"Pools Of Rain",
+    "wof:parent_id":85856417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.495134,
+    43.302402,
+    -72.495134,
+    43.302402
+],
+  "geometry": {"coordinates":[-72.49513399999999,43.302402],"type":"Point"}
+}

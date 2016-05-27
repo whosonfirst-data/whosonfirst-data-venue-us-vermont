@@ -1,0 +1,67 @@
+{
+  "id": 874164623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.313401,44.401042,-72.313401,44.401042",
+    "geom:latitude":44.401042,
+    "geom:longitude":-72.313401,
+    "iso:country":"US",
+    "sg:address":"2878 Main St",
+    "sg:city":"Cabot",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 563 3393",
+    "sg:postcode":"05647",
+    "sg:province":"VT",
+    "sg:website":"www.cabotcheese.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XlvHsZgnHe46TLpq2pVkP_44.401042_-72.313401@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312475,
+    "wof:geomhash":"c8c1382df9afb8dfb52345ecfe43d2a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":874164623
+        }
+    ],
+    "wof:id":874164623,
+    "wof:lastmodified":1464312475,
+    "wof:name":"Cabot Creamery Vistors Ctr",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.313401,
+    44.401042,
+    -72.313401,
+    44.401042
+],
+  "geometry": {"coordinates":[-72.313401,44.401042],"type":"Point"}
+}

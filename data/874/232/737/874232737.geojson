@@ -1,0 +1,73 @@
+{
+  "id": 874232737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.22841,44.449612,-73.22841,44.449612",
+    "geom:latitude":44.449612,
+    "geom:longitude":-73.22841,
+    "iso:country":"US",
+    "sg:address":"128 S Cove Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 7658",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cKlqQBTPWj79sX3mIKl30_44.449612_-73.228410@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313196,
+    "wof:geomhash":"941cf114811cd43e22da65acd0ca9d1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874232737
+        }
+    ],
+    "wof:id":874232737,
+    "wof:lastmodified":1464313196,
+    "wof:name":"R & B Properties LLC",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.22841,
+    44.449612,
+    -73.22841,
+    44.449612
+],
+  "geometry": {"coordinates":[-73.22841,44.449612],"type":"Point"}
+}

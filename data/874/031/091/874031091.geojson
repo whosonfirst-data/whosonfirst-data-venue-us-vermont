@@ -1,0 +1,71 @@
+{
+  "id": 874031091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.978803,43.606589,-72.978803,43.606589",
+    "geom:latitude":43.606589,
+    "geom:longitude":-72.978803,
+    "iso:country":"US",
+    "sg:address":"25 Center St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 773 4941",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eR03exSM3LL3KieXzXdOk_43.606589_-72.978803@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311058,
+    "wof:geomhash":"1260dc8defbf50906cd5d8fc0b0c7b7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874031091
+        }
+    ],
+    "wof:id":874031091,
+    "wof:lastmodified":1464311058,
+    "wof:name":"Downtown Pet & Aquarium",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.978803,
+    43.606589,
+    -72.978803,
+    43.606589
+],
+  "geometry": {"coordinates":[-72.978803,43.606589],"type":"Point"}
+}

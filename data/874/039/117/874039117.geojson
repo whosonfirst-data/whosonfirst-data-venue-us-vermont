@@ -1,0 +1,73 @@
+{
+  "id": 874039117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.503107,44.201261,-72.503107,44.201261",
+    "geom:latitude":44.201261,
+    "geom:longitude":-72.503107,
+    "iso:country":"US",
+    "sg:address":"4 West St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 0913",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XDTiT3jmMUTjA6DRAP3eg_44.201261_-72.503107@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311135,
+    "wof:geomhash":"7df181b104b45c06ef4f0ab9f9e82e5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874039117
+        }
+    ],
+    "wof:id":874039117,
+    "wof:lastmodified":1464311135,
+    "wof:name":"Applied Commucations",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.503107,
+    44.201261,
+    -72.503107,
+    44.201261
+],
+  "geometry": {"coordinates":[-72.503107,44.201261],"type":"Point"}
+}

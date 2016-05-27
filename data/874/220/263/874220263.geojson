@@ -1,0 +1,71 @@
+{
+  "id": 874220263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.688267,44.465191,-72.688267,44.465191",
+    "geom:latitude":44.465191,
+    "geom:longitude":-72.688267,
+    "iso:country":"US",
+    "sg:address":"51 S Main St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7752",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HCCmsjyfwo3QemO955CJA_44.465191_-72.688267@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313065,
+    "wof:geomhash":"2a17787c22ddf046a4aaa975d487a2b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874220263
+        }
+    ],
+    "wof:id":874220263,
+    "wof:lastmodified":1464313065,
+    "wof:name":"Stowe Travel Svc",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -72.688267,
+    44.465191,
+    -72.688267,
+    44.465191
+],
+  "geometry": {"coordinates":[-72.688267,44.465191],"type":"Point"}
+}

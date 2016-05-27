@@ -1,0 +1,71 @@
+{
+  "id": 874018095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.111436,44.019653,-73.111436,44.019653",
+    "geom:latitude":44.019653,
+    "geom:longitude":-73.111436,
+    "iso:country":"US",
+    "sg:address":"450 Quarry Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2250",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mDmtyZtdZ9YtBaNrUweIc_44.019653_-73.111436@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310928,
+    "wof:geomhash":"c950ad99afec42430967c2e4dc43f4f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874018095
+        }
+    ],
+    "wof:id":874018095,
+    "wof:lastmodified":1464310928,
+    "wof:name":"TLC Landscape & Design Inc",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.111436,
+    44.019653,
+    -73.111436,
+    44.019653
+],
+  "geometry": {"coordinates":[-73.111436,44.019653],"type":"Point"}
+}

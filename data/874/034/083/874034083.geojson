@@ -1,0 +1,70 @@
+{
+  "id": 874034083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.135585,43.96179,-73.135585,43.96179",
+    "geom:latitude":43.96179,
+    "geom:longitude":-73.135585,
+    "iso:country":"US",
+    "sg:address":"219 Blake Roy Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 3390",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.vrelabs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DJRm7YW7uVwIo6GpUXjYT_43.961790_-73.135585@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311085,
+    "wof:geomhash":"f814dc53927a963e77652c7d0e1e7291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874034083
+        }
+    ],
+    "wof:id":874034083,
+    "wof:lastmodified":1464311085,
+    "wof:name":"Green Mountain Electromagnetic",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -73.135585,
+    43.96179,
+    -73.135585,
+    43.96179
+],
+  "geometry": {"coordinates":[-73.13558500000001,43.96179],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874252669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214478,44.487932,-73.214478,44.487932",
+    "geom:latitude":44.487932,
+    "geom:longitude":-73.214478,
+    "iso:country":"US",
+    "sg:address":"81 Spring St Apt 2",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 578 2283",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photographers-portrait",
+        "photographers-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6caHwiNmEw9PlFN7Pnkp6z_44.487932_-73.214478@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313618,
+    "wof:geomhash":"6c7bdea8021371c4e40c3d2453b66e28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874252669
+        }
+    ],
+    "wof:id":874252669,
+    "wof:lastmodified":1464313618,
+    "wof:name":"Sam Simon Imaging",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographers-portrait",
+        "photographers-commercial"
+    ]
+},
+  "bbox": [
+    -73.214478,
+    44.487932,
+    -73.214478,
+    44.487932
+],
+  "geometry": {"coordinates":[-73.214478,44.487932],"type":"Point"}
+}

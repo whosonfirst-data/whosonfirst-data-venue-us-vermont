@@ -1,0 +1,73 @@
+{
+  "id": 874240699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169739,44.016537,-73.169739,44.016537",
+    "geom:latitude":44.016537,
+    "geom:longitude":-73.169739,
+    "iso:country":"US",
+    "sg:address":"9 Willard St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4376",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GmgI3WGRPmOeyrRtyf5Y3_44.016537_-73.169739@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313353,
+    "wof:geomhash":"b101f0f97df8ed4a410479bdb55c7dac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874240699
+        }
+    ],
+    "wof:id":874240699,
+    "wof:lastmodified":1464313353,
+    "wof:name":"Currans Electrical Service",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.169739,
+    44.016537,
+    -73.169739,
+    44.016537
+],
+  "geometry": {"coordinates":[-73.16973900000001,44.016537],"type":"Point"}
+}

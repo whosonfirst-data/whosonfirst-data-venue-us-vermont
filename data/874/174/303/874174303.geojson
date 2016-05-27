@@ -1,0 +1,71 @@
+{
+  "id": 874174303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.297666,43.636058,-73.297666,43.636058",
+    "geom:latitude":43.636058,
+    "geom:longitude":-73.297666,
+    "iso:country":"US",
+    "sg:address":"115 Main Rd",
+    "sg:city":"Fair Haven",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 265 8645",
+    "sg:postcode":"05743",
+    "sg:province":"VT",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bxVV7GPsJTLDrXiviTtor_43.636058_-73.297666@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312571,
+    "wof:geomhash":"1616fbad6a877dbdcb373416cf43dd4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874174303
+        }
+    ],
+    "wof:id":874174303,
+    "wof:lastmodified":1464312571,
+    "wof:name":"Nature Conservancy's",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "org"
+    ]
+},
+  "bbox": [
+    -73.297666,
+    43.636058,
+    -73.297666,
+    43.636058
+],
+  "geometry": {"coordinates":[-73.29766600000001,43.636058],"type":"Point"}
+}

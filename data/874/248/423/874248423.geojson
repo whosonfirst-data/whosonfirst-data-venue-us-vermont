@@ -1,0 +1,71 @@
+{
+  "id": 874248423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.217539,44.475681,-73.217539,44.475681",
+    "geom:latitude":44.475681,
+    "geom:longitude":-73.217539,
+    "iso:country":"US",
+    "sg:address":"33 Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 651 0977",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7beIXFuiNYm4KeTFc1O1hx_44.475681_-73.217539@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313508,
+    "wof:geomhash":"2fd56a5c86ddb74d6468d660947b29df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874248423
+        }
+    ],
+    "wof:id":874248423,
+    "wof:lastmodified":1464313508,
+    "wof:name":"Panino & Sons",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bureau"
+    ]
+},
+  "bbox": [
+    -73.217539,
+    44.475681,
+    -73.217539,
+    44.475681
+],
+  "geometry": {"coordinates":[-73.217539,44.475681],"type":"Point"}
+}

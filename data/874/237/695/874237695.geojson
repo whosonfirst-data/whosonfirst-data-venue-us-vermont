@@ -1,0 +1,71 @@
+{
+  "id": 874237695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.154258,44.123761,-73.154258,44.123761",
+    "geom:latitude":44.123761,
+    "geom:longitude":-73.154258,
+    "iso:country":"US",
+    "sg:address":"48 Town Hill Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 2163",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YxOyo9Edk5tyFZNWvOSWn_44.123761_-73.154258@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313297,
+    "wof:geomhash":"59872c577ac98b557f5ef7b98e9f52d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874237695
+        }
+    ],
+    "wof:id":874237695,
+    "wof:lastmodified":1464313297,
+    "wof:name":"Village Green Market",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.154258,
+    44.123761,
+    -73.154258,
+    44.123761
+],
+  "geometry": {"coordinates":[-73.154258,44.123761],"type":"Point"}
+}

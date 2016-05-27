@@ -1,0 +1,71 @@
+{
+  "id": 874159423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.156864,44.008485,-73.156864,44.008485",
+    "geom:latitude":44.008485,
+    "geom:longitude":-73.156864,
+    "iso:country":"US",
+    "sg:address":"1 Swanage Ct",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 7745",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IKTocoa5oEQL9uHIkZOZQ_44.008485_-73.156864@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312425,
+    "wof:geomhash":"3bab25bbfe18e4a86997d04a7f91a06e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":874159423
+        }
+    ],
+    "wof:id":874159423,
+    "wof:lastmodified":1464312425,
+    "wof:name":"Sugar Maple Farms",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -73.156864,
+    44.008485,
+    -73.156864,
+    44.008485
+],
+  "geometry": {"coordinates":[-73.156864,44.008485],"type":"Point"}
+}

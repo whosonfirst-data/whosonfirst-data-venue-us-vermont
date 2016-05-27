@@ -1,0 +1,71 @@
+{
+  "id": 874061359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.686456,44.464887,-72.686456,44.464887",
+    "geom:latitude":44.464887,
+    "geom:longitude":-72.686456,
+    "iso:country":"US",
+    "sg:address":"37 Depot St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 3740",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "lighting",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WboeY4DWL4dYuYQdukSsc_44.464887_-72.686456@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311347,
+    "wof:geomhash":"f9d46c7bddda58f5ae522e294b7401dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874061359
+        }
+    ],
+    "wof:id":874061359,
+    "wof:lastmodified":1464311347,
+    "wof:name":"Clock & Lamp",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "fixture"
+    ]
+},
+  "bbox": [
+    -72.686456,
+    44.464887,
+    -72.686456,
+    44.464887
+],
+  "geometry": {"coordinates":[-72.68645600000001,44.464887],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874219111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.569454,44.220855,-72.569454,44.220855",
+    "geom:latitude":44.220855,
+    "geom:longitude":-72.569454,
+    "iso:country":"US",
+    "sg:address":"963 Paine Tpke N",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 9532",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "engineering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cH8o9ZVTbnv4mO70XSclM_44.220855_-72.569454@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313045,
+    "wof:geomhash":"f22829439766a4328965f9f0fc1337ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874219111
+        }
+    ],
+    "wof:id":874219111,
+    "wof:lastmodified":1464313045,
+    "wof:name":"Green Mountain United Way",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering"
+    ]
+},
+  "bbox": [
+    -72.569454,
+    44.220855,
+    -72.569454,
+    44.220855
+],
+  "geometry": {"coordinates":[-72.56945399999999,44.220855],"type":"Point"}
+}

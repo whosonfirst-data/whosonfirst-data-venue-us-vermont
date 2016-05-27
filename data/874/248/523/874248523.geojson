@@ -1,0 +1,71 @@
+{
+  "id": 874248523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.876428,44.64508,-72.876428,44.64508",
+    "geom:latitude":44.64508,
+    "geom:longitude":-72.876428,
+    "iso:country":"US",
+    "sg:address":"6 N Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 363 2375",
+    "sg:postcode":"05444",
+    "sg:province":"VT",
+    "sg:tags":[
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728301,
+        102080785,
+        85808933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42WzAtAZJ1zTITIelFWnaE_44.645080_-72.876428@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313512,
+    "wof:geomhash":"b4cdf1ac5128c0de4f6b5a2fa9122837",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "locality_id":101728301,
+            "neighbourhood_id":85808933,
+            "region_id":85688763,
+            "venue_id":874248523
+        }
+    ],
+    "wof:id":874248523,
+    "wof:lastmodified":1464313512,
+    "wof:name":"Barer Engineering Company",
+    "wof:parent_id":85808933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "good"
+    ]
+},
+  "bbox": [
+    -72.876428,
+    44.64508,
+    -72.876428,
+    44.64508
+],
+  "geometry": {"coordinates":[-72.876428,44.64508],"type":"Point"}
+}

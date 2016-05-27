@@ -1,0 +1,69 @@
+{
+  "id": 874255775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.955132,43.593868,-72.955132,43.593868",
+    "geom:latitude":43.593868,
+    "geom:longitude":-72.955132,
+    "iso:country":"US",
+    "sg:address":"145 Curtis Ave",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 747 4585",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QODie9gAh74Y8yYYKrH14_43.593868_-72.955132@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313692,
+    "wof:geomhash":"79665a60ee1bdf657df009024e27f7ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874255775
+        }
+    ],
+    "wof:id":874255775,
+    "wof:lastmodified":1464313692,
+    "wof:name":"S E Benson Electrical Company",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -72.955132,
+    43.593868,
+    -72.955132,
+    43.593868
+],
+  "geometry": {"coordinates":[-72.95513200000001,43.593868],"type":"Point"}
+}

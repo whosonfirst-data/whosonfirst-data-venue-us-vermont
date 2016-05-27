@@ -1,0 +1,69 @@
+{
+  "id": 874136317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.595804,44.561843,-72.595804,44.561843",
+    "geom:latitude":44.561843,
+    "geom:longitude":-72.595804,
+    "iso:country":"US",
+    "sg:address":"5 Park St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 3521",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pgCwYPhf7BshfnL9sT2Zu_44.561843_-72.595804@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312203,
+    "wof:geomhash":"c0258964252254e9aba5f7f6b2b0ea40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874136317
+        }
+    ],
+    "wof:id":874136317,
+    "wof:lastmodified":1464312203,
+    "wof:name":"W Peter Guthmann DDS",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.595804,
+    44.561843,
+    -72.595804,
+    44.561843
+],
+  "geometry": {"coordinates":[-72.595804,44.561843],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874214461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.503411,44.200816,-72.503411,44.200816",
+    "geom:latitude":44.200816,
+    "geom:longitude":-72.503411,
+    "iso:country":"US",
+    "sg:address":"18 West St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 6484",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DgybIPW2DXtRpigvJneSy_44.200816_-72.503411@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312999,
+    "wof:geomhash":"abde47e55f34f96f2a30fa1d11561bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874214461
+        }
+    ],
+    "wof:id":874214461,
+    "wof:lastmodified":1464312999,
+    "wof:name":"Washington Cty Mntl Hlth",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -72.503411,
+    44.200816,
+    -72.503411,
+    44.200816
+],
+  "geometry": {"coordinates":[-72.503411,44.200816],"type":"Point"}
+}

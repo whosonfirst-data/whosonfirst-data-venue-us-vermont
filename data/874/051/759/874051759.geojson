@@ -1,0 +1,73 @@
+{
+  "id": 874051759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.939657,44.5211,-72.939657,44.5211",
+    "geom:latitude":44.5211,
+    "geom:longitude":-72.939657,
+    "iso:country":"US",
+    "sg:address":"63 River Rd",
+    "sg:city":"Underhill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 899 9927",
+    "sg:postcode":"05489",
+    "sg:province":"VT",
+    "sg:tags":[
+        "residential",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85845003,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rHTxjxVl7YTcz99bZY5rF_44.521100_-72.939657@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311257,
+    "wof:geomhash":"65c5405ab4dcbca8e041682b57b6ff5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85845003,
+            "region_id":85688763,
+            "venue_id":874051759
+        }
+    ],
+    "wof:id":874051759,
+    "wof:lastmodified":1464311257,
+    "wof:name":"Topnotch Construction Company",
+    "wof:parent_id":85845003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.939657,
+    44.5211,
+    -72.939657,
+    44.5211
+],
+  "geometry": {"coordinates":[-72.939657,44.5211],"type":"Point"}
+}

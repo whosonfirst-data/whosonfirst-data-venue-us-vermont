@@ -1,0 +1,75 @@
+{
+  "id": 874235245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.594054,44.558219,-72.594054,44.558219",
+    "geom:latitude":44.558219,
+    "geom:longitude":-72.594054,
+    "iso:country":"US",
+    "sg:address":"237 Maple St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 3770",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nWEAd4xxyvXdhAAMPaJ8u_44.558219_-72.594054@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313245,
+    "wof:geomhash":"ae941c6af082f27c788e89e4772827fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874235245
+        }
+    ],
+    "wof:id":874235245,
+    "wof:lastmodified":1464313245,
+    "wof:name":"Seldom Scene Interiors",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -72.594054,
+    44.558219,
+    -72.594054,
+    44.558219
+],
+  "geometry": {"coordinates":[-72.594054,44.558219],"type":"Point"}
+}

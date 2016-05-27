@@ -1,0 +1,86 @@
+{
+  "id": 873992667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.756827,43.619674,-72.756827,43.619674",
+    "geom:latitude":43.619674,
+    "geom:longitude":-72.756827,
+    "iso:country":"US",
+    "sg:address":"365 Mission Farm Rd",
+    "sg:city":"Killington",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 422 4689",
+    "sg:postcode":"05751",
+    "sg:province":"VT",
+    "sg:tags":[
+        "baker",
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868813,
+        102080771,
+        85848249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JtNjhZGKXhNK5LnqxTrGn_43.619674_-72.756827@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310709,
+    "wof:geomhash":"576d251b0751d3f711848a5efcf3b28b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868813,
+            "region_id":85688763,
+            "venue_id":873992667
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85848249,
+            "region_id":85688763,
+            "venue_id":873992667
+        }
+    ],
+    "wof:id":873992667,
+    "wof:lastmodified":1464310709,
+    "wof:name":"Mission Farm Bakery Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.756827,
+    43.619674,
+    -72.756827,
+    43.619674
+],
+  "geometry": {"coordinates":[-72.756827,43.619674],"type":"Point"}
+}

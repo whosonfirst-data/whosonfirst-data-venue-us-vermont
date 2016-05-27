@@ -1,0 +1,69 @@
+{
+  "id": 874002859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.112375,44.496622,-73.112375,44.496622",
+    "geom:latitude":44.496622,
+    "geom:longitude":-73.112375,
+    "iso:country":"US",
+    "sg:address":"67 Lincoln St",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 9700",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85808675,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Nt8rOqsT2WTmFIIgA3B5n_44.496622_-73.112375@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310790,
+    "wof:geomhash":"278a624f2f27e254a5e76594f53d8de9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85808675,
+            "region_id":85688763,
+            "venue_id":874002859
+        }
+    ],
+    "wof:id":874002859,
+    "wof:lastmodified":1464310790,
+    "wof:name":"Vermont Center-Occupational",
+    "wof:parent_id":85808675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -73.112375,
+    44.496622,
+    -73.112375,
+    44.496622
+],
+  "geometry": {"coordinates":[-73.112375,44.496622],"type":"Point"}
+}

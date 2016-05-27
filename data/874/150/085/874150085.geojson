@@ -1,0 +1,69 @@
+{
+  "id": 874150085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.487324,43.349166,-72.487324,43.349166",
+    "geom:latitude":43.349166,
+    "geom:longitude":-72.487324,
+    "iso:country":"US",
+    "sg:address":"1138 Wellwood Orchard Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 886 8285",
+    "sg:postcode":"05156",
+    "sg:province":"VT",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85828001,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53hCoXLigzfZITKAOjm1xO_43.349166_-72.487324@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312329,
+    "wof:geomhash":"e398db2c8b60daf4b0fa5fbdb9631e46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85828001,
+            "region_id":85688763,
+            "venue_id":874150085
+        }
+    ],
+    "wof:id":874150085,
+    "wof:lastmodified":1464312329,
+    "wof:name":"Al Property Management",
+    "wof:parent_id":85828001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -72.487324,
+    43.349166,
+    -72.487324,
+    43.349166
+],
+  "geometry": {"coordinates":[-72.487324,43.349166],"type":"Point"}
+}

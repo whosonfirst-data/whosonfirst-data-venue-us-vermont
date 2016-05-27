@@ -1,0 +1,71 @@
+{
+  "id": 874002305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.044455,44.447087,-73.044455,44.447087",
+    "geom:latitude":44.447087,
+    "geom:longitude":-73.044455,
+    "iso:country":"US",
+    "sg:address":"1645 Governor Chittenden Rd",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 0464",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85838165,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71zayMfrmyiFBf19TRTbhJ_44.447087_-73.044455@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310778,
+    "wof:geomhash":"8f4c281ff6b18defc35157faafb6b1b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85838165,
+            "region_id":85688763,
+            "venue_id":874002305
+        }
+    ],
+    "wof:id":874002305,
+    "wof:lastmodified":1464310778,
+    "wof:name":"Riverhill Farm Inc",
+    "wof:parent_id":85838165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.044455,
+    44.447087,
+    -73.044455,
+    44.447087
+],
+  "geometry": {"coordinates":[-73.044455,44.447087],"type":"Point"}
+}

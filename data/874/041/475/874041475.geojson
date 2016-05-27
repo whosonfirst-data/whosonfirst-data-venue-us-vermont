@@ -1,0 +1,69 @@
+{
+  "id": 874041475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.251158,43.970941,-73.251158,43.970941",
+    "geom:latitude":43.970941,
+    "geom:longitude":-73.251158,
+    "iso:country":"US",
+    "sg:address":"1974 West St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 462 3839",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r7kWdaTs9igUiuIWOcf16_43.970941_-73.251158@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311156,
+    "wof:geomhash":"26e4dc54adf61180e8c8f491f80c0968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":874041475
+        }
+    ],
+    "wof:id":874041475,
+    "wof:lastmodified":1464311156,
+    "wof:name":"Middlebury Transit Inc",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line"
+    ]
+},
+  "bbox": [
+    -73.251158,
+    43.970941,
+    -73.251158,
+    43.970941
+],
+  "geometry": {"coordinates":[-73.251158,43.970941],"type":"Point"}
+}

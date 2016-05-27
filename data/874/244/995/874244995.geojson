@@ -1,0 +1,69 @@
+{
+  "id": 874244995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.003454,44.640026,-73.003454,44.640026",
+    "geom:latitude":44.640026,
+    "geom:longitude":-73.003454,
+    "iso:country":"US",
+    "sg:address":"226 Huntley Rd",
+    "sg:city":"Westford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 879 0685",
+    "sg:postcode":"05494",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818481,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18Md1OLnZl31JtMK8u95Iv_44.640026_-73.003454@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313434,
+    "wof:geomhash":"c4469a2e72b348cb5c42e8373bb18414",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85818481,
+            "region_id":85688763,
+            "venue_id":874244995
+        }
+    ],
+    "wof:id":874244995,
+    "wof:lastmodified":1464313434,
+    "wof:name":"Westford Wellness Center",
+    "wof:parent_id":85818481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.003454,
+    44.640026,
+    -73.003454,
+    44.640026
+],
+  "geometry": {"coordinates":[-73.003454,44.640026],"type":"Point"}
+}

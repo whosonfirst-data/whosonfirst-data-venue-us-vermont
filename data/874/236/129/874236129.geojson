@@ -1,0 +1,71 @@
+{
+  "id": 874236129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.118521,44.11137,-73.118521,44.11137",
+    "geom:latitude":44.11137,
+    "geom:longitude":-73.118521,
+    "iso:country":"US",
+    "sg:address":"1091 East St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 7706",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qccMFp2W6iokwg4e7E2Ti_44.111370_-73.118521@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313264,
+    "wof:geomhash":"4a00b7143ee38eb7377ee950ca9a2fe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874236129
+        }
+    ],
+    "wof:id":874236129,
+    "wof:lastmodified":1464313264,
+    "wof:name":"Kirks Builders",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.118521,
+    44.11137,
+    -73.118521,
+    44.11137
+],
+  "geometry": {"coordinates":[-73.118521,44.11137],"type":"Point"}
+}

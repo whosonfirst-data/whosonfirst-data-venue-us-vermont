@@ -1,0 +1,73 @@
+{
+  "id": 874016499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.079135,43.209932,-73.079135,43.209932",
+    "geom:latitude":43.209932,
+    "geom:longitude":-73.079135,
+    "iso:country":"US",
+    "sg:address":"660 Wideawake Rd",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 362 2215",
+    "sg:postcode":"05255",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RL4PbngTGIptK1J5HY6J3_43.209932_-73.079135@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310903,
+    "wof:geomhash":"5f3a654c8b626e92981a5eb2957323bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874016499
+        }
+    ],
+    "wof:id":874016499,
+    "wof:lastmodified":1464310903,
+    "wof:name":"Mountain Plumbing & Heating",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.079135,
+    43.209932,
+    -73.079135,
+    43.209932
+],
+  "geometry": {"coordinates":[-73.07913499999999,43.209932],"type":"Point"}
+}

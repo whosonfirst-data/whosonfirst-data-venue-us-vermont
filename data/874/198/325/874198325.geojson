@@ -1,0 +1,73 @@
+{
+  "id": 874198325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.52358,44.146921,-72.52358,44.146921",
+    "geom:latitude":44.146921,
+    "geom:longitude":-72.52358,
+    "iso:country":"US",
+    "sg:address":"348 State Rte 14",
+    "sg:city":"Williamstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 1800",
+    "sg:postcode":"05679",
+    "sg:province":"VT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85820493,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BMgNGThvGQDX2vpacALzg_44.146921_-72.523580@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312828,
+    "wof:geomhash":"68ec5d48cc233fd27b03b0f9f11499de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85820493,
+            "region_id":85688763,
+            "venue_id":874198325
+        }
+    ],
+    "wof:id":874198325,
+    "wof:lastmodified":1464312828,
+    "wof:name":"Body Pro Automotive",
+    "wof:parent_id":85820493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.52358,
+    44.146921,
+    -72.52358,
+    44.146921
+],
+  "geometry": {"coordinates":[-72.52358,44.146921],"type":"Point"}
+}

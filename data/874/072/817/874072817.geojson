@@ -1,0 +1,73 @@
+{
+  "id": 874072817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.514513,44.20306,-72.514513,44.20306",
+    "geom:latitude":44.20306,
+    "geom:longitude":-72.514513,
+    "iso:country":"US",
+    "sg:address":"2 Aiken St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 828 3314",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "landlord"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KoQVV1F9jzkzdqusRrEiP_44.203060_-72.514513@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311474,
+    "wof:geomhash":"fcf3761bb27bbd92b34df4290f89a4fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874072817
+        }
+    ],
+    "wof:id":874072817,
+    "wof:lastmodified":1464311474,
+    "wof:name":"Buildings & Gen Svcs VT Dept",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "landlord"
+    ]
+},
+  "bbox": [
+    -72.514513,
+    44.20306,
+    -72.514513,
+    44.20306
+],
+  "geometry": {"coordinates":[-72.51451299999999,44.20306],"type":"Point"}
+}

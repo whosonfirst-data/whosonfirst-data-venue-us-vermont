@@ -1,0 +1,73 @@
+{
+  "id": 874144735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204118,44.441018,-73.204118,44.441018",
+    "geom:latitude":44.441018,
+    "geom:longitude":-73.204118,
+    "iso:country":"US",
+    "sg:address":"14 Tanglewood Dr",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 2130",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C4smS5lKSuSH4leyzCyng_44.441018_-73.204118@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312278,
+    "wof:geomhash":"61eeb75868eea6c5f798952a29976a8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874144735
+        }
+    ],
+    "wof:id":874144735,
+    "wof:lastmodified":1464312278,
+    "wof:name":"Vermont Business Cleaners",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -73.204118,
+    44.441018,
+    -73.204118,
+    44.441018
+],
+  "geometry": {"coordinates":[-73.20411799999999,44.441018],"type":"Point"}
+}

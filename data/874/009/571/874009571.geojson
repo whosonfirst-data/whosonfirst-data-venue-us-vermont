@@ -1,0 +1,73 @@
+{
+  "id": 874009571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.6256,44.636888,-72.6256,44.636888",
+    "geom:latitude":44.636888,
+    "geom:longitude":-72.6256,
+    "iso:country":"US",
+    "sg:address":"91 Locke Mill Ln",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 5300",
+    "sg:postcode":"05655",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OseSMVcVqWtGEu1PXxXUJ_44.636888_-72.625600@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310852,
+    "wof:geomhash":"b63082015a414fac06b28ec722d21cd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874009571
+        }
+    ],
+    "wof:id":874009571,
+    "wof:lastmodified":1464310852,
+    "wof:name":"Locke's Automotive Repair",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.6256,
+    44.636888,
+    -72.6256,
+    44.636888
+],
+  "geometry": {"coordinates":[-72.62560000000001,44.636888],"type":"Point"}
+}

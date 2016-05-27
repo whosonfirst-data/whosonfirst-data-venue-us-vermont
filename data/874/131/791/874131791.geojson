@@ -1,0 +1,71 @@
+{
+  "id": 874131791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.138191,43.910584,-73.138191,43.910584",
+    "geom:latitude":43.910584,
+    "geom:longitude":-73.138191,
+    "iso:country":"US",
+    "sg:address":"647 Morgan Rd",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 9756",
+    "sg:postcode":"05769",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85846807,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TO2oOF02zvkRX4L84i9QU_43.910584_-73.138191@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312158,
+    "wof:geomhash":"685bd8248b7c62d3a40b9b2f47e98df6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85846807,
+            "region_id":85688763,
+            "venue_id":874131791
+        }
+    ],
+    "wof:id":874131791,
+    "wof:lastmodified":1464312158,
+    "wof:name":"Freshwater Stone & Ceramics",
+    "wof:parent_id":85846807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.138191,
+    43.910584,
+    -73.138191,
+    43.910584
+],
+  "geometry": {"coordinates":[-73.13819100000001,43.910584],"type":"Point"}
+}

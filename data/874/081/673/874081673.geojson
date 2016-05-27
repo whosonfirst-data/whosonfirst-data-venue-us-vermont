@@ -1,0 +1,71 @@
+{
+  "id": 874081673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.631064,43.828708,-72.631064,43.828708",
+    "geom:latitude":43.828708,
+    "geom:longitude":-72.631064,
+    "iso:country":"US",
+    "sg:address":"113 Main St",
+    "sg:city":"West Fairlee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 333 4674",
+    "sg:postcode":"05032",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85837985,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xxcGCaq43pKNSNuOMICke_43.828708_-72.631064@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311572,
+    "wof:geomhash":"f12a76d94e4112dd8183a126ea9cef12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85837985,
+            "region_id":85688763,
+            "venue_id":874081673
+        }
+    ],
+    "wof:id":874081673,
+    "wof:lastmodified":1464311572,
+    "wof:name":"Ervine W Eastman Garage",
+    "wof:parent_id":85837985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.631064,
+    43.828708,
+    -72.631064,
+    43.828708
+],
+  "geometry": {"coordinates":[-72.63106399999999,43.828708],"type":"Point"}
+}

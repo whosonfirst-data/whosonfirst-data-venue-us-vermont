@@ -1,0 +1,71 @@
+{
+  "id": 874142477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.074734,43.68502,-73.074734,43.68502",
+    "geom:latitude":43.68502,
+    "geom:longitude":-73.074734,
+    "iso:country":"US",
+    "sg:address":"6171 Whipple Hollow Rd",
+    "sg:city":"Florence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 483 2175",
+    "sg:postcode":"05744",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f8gROVsGzt80DJlNYHTAT_43.685020_-73.074734@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312257,
+    "wof:geomhash":"595b33a40dfed116fc0692b90fe5db32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874142477
+        }
+    ],
+    "wof:id":874142477,
+    "wof:lastmodified":1464312257,
+    "wof:name":"Audsley Masonry",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.074734,
+    43.68502,
+    -73.074734,
+    43.68502
+],
+  "geometry": {"coordinates":[-73.07473400000001,43.68502],"type":"Point"}
+}

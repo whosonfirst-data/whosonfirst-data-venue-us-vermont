@@ -1,0 +1,69 @@
+{
+  "id": 874165735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.935849,43.53808,-72.935849,43.53808",
+    "geom:latitude":43.53808,
+    "geom:longitude":-72.935849,
+    "iso:country":"US",
+    "sg:address":"1058 E Clarendon Rd",
+    "sg:city":"North Clarendon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 438 5356",
+    "sg:postcode":"05759",
+    "sg:province":"VT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16rKQpzKk7QUOex6wpAteS_43.538080_-72.935849@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312487,
+    "wof:geomhash":"07505beaa38e12caa72cce6bc9b7ddcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874165735
+        }
+    ],
+    "wof:id":874165735,
+    "wof:lastmodified":1464312487,
+    "wof:name":"Smith Building Co",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.935849,
+    43.53808,
+    -72.935849,
+    43.53808
+],
+  "geometry": {"coordinates":[-72.935849,43.53808],"type":"Point"}
+}

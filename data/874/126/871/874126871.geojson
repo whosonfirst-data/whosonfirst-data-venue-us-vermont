@@ -1,0 +1,71 @@
+{
+  "id": 874126871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.634819,43.384665,-72.634819,43.384665",
+    "geom:latitude":43.384665,
+    "geom:longitude":-72.634819,
+    "iso:country":"US",
+    "sg:address":"734 Main St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 824 3539",
+    "sg:postcode":"05153",
+    "sg:province":"VT",
+    "sg:tags":[
+        "dept",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X2kBestuBjg7ZjyUEsBlH_43.384665_-72.634819@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312102,
+    "wof:geomhash":"fbfb1ca7b52aec75349a2f4e1894039a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874126871
+        }
+    ],
+    "wof:id":874126871,
+    "wof:lastmodified":1464312102,
+    "wof:name":"Weston Volunteer Fire Dept",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -72.634819,
+    43.384665,
+    -72.634819,
+    43.384665
+],
+  "geometry": {"coordinates":[-72.63481899999999,43.384665],"type":"Point"}
+}

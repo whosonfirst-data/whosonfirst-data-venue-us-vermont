@@ -1,0 +1,73 @@
+{
+  "id": 874238087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209753,44.442647,-73.209753,44.442647",
+    "geom:latitude":44.442647,
+    "geom:longitude":-73.209753,
+    "iso:country":"US",
+    "sg:address":"929 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3105",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35fBTOXzUxQ1pzaSRHNRVS_44.442647_-73.209753@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313303,
+    "wof:geomhash":"cc2af290c1467a1b19f39431b6c15c74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874238087
+        }
+    ],
+    "wof:id":874238087,
+    "wof:lastmodified":1464313303,
+    "wof:name":"Merchant's Bank",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -73.209753,
+    44.442647,
+    -73.209753,
+    44.442647
+],
+  "geometry": {"coordinates":[-73.20975300000001,44.442647],"type":"Point"}
+}

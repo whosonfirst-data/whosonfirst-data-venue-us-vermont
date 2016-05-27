@@ -1,0 +1,66 @@
+{
+  "id": 874236031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.161295,44.007453,-73.161295,44.007453",
+    "geom:latitude":44.007453,
+    "geom:longitude":-73.161295,
+    "iso:country":"US",
+    "sg:address":"76 Court St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 1200",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56D1q5u5HSRtlhqoFVBZ9l_44.007453_-73.161295@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313262,
+    "wof:geomhash":"41b74d612cb70e8a0f0375ed1060142a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874236031
+        }
+    ],
+    "wof:id":874236031,
+    "wof:lastmodified":1464313262,
+    "wof:name":"Middlebury Foot Care",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.161295,
+    44.007453,
+    -73.161295,
+    44.007453
+],
+  "geometry": {"coordinates":[-73.161295,44.007453],"type":"Point"}
+}

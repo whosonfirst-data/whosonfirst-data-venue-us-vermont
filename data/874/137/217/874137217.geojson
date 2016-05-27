@@ -1,0 +1,71 @@
+{
+  "id": 874137217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.536195,44.216072,-72.536195,44.216072",
+    "geom:latitude":44.216072,
+    "geom:longitude":-72.536195,
+    "iso:country":"US",
+    "sg:address":"318 Barre-Montpelier Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4472",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q2OrnYbzuMpGDYs3WvxMj_44.216072_-72.536195@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312210,
+    "wof:geomhash":"becfb061c4b0b1c71460ca4ea158218e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874137217
+        }
+    ],
+    "wof:id":874137217,
+    "wof:lastmodified":1464312210,
+    "wof:name":"Tire Warehouse Auto Parts",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -72.536195,
+    44.216072,
+    -72.536195,
+    44.216072
+],
+  "geometry": {"coordinates":[-72.53619500000001,44.216072],"type":"Point"}
+}

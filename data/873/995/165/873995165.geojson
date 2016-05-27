@@ -1,0 +1,73 @@
+{
+  "id": 873995165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.565341,44.209723,-72.565341,44.209723",
+    "geom:latitude":44.209723,
+    "geom:longitude":-72.565341,
+    "iso:country":"US",
+    "sg:address":"300 Granger Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 2400",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sADKV97gHuMkkv69Wvh5m_44.209723_-72.565341@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310727,
+    "wof:geomhash":"59b3f6b3d87fac3657984a0a6e1a8678",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873995165
+        }
+    ],
+    "wof:id":873995165,
+    "wof:lastmodified":1464310727,
+    "wof:name":"Carroll Concrete",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.565341,
+    44.209723,
+    -72.565341,
+    44.209723
+],
+  "geometry": {"coordinates":[-72.565341,44.209723],"type":"Point"}
+}

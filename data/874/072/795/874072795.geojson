@@ -1,0 +1,69 @@
+{
+  "id": 874072795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.99466,44.406228,-72.99466,44.406228",
+    "geom:latitude":44.406228,
+    "geom:longitude":-72.99466,
+    "iso:country":"US",
+    "sg:address":"203 US Hwy 2",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 2153",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xH25z33j6su8P2HYiYkIv_44.406228_-72.994660@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311474,
+    "wof:geomhash":"1e88994e08d7f13bd9e4aa73e4d91a18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874072795
+        }
+    ],
+    "wof:id":874072795,
+    "wof:lastmodified":1464311474,
+    "wof:name":"Richmond Police Dept",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -72.99466,
+    44.406228,
+    -72.99466,
+    44.406228
+],
+  "geometry": {"coordinates":[-72.99466,44.406228],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874034431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.130834,44.589012,-73.130834,44.589012",
+    "geom:latitude":44.589012,
+    "geom:longitude":-73.130834,
+    "iso:country":"US",
+    "sg:address":"515 Middle Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 2055",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z13apUwKRTCxzj2Dymi7D_44.589012_-73.130834@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311089,
+    "wof:geomhash":"a9d58d45c490ac65da8f36b4eaf35799",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":874034431
+        }
+    ],
+    "wof:id":874034431,
+    "wof:lastmodified":1464311089,
+    "wof:name":"Steve's Imported Auto Svc",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.130834,
+    44.589012,
+    -73.130834,
+    44.589012
+],
+  "geometry": {"coordinates":[-73.13083399999999,44.589012],"type":"Point"}
+}

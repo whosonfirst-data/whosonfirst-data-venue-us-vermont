@@ -1,0 +1,75 @@
+{
+  "id": 874200925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206114,44.487676,-73.206114,44.487676",
+    "geom:latitude":44.487676,
+    "geom:longitude":-73.206114,
+    "iso:country":"US",
+    "sg:address":"227 N Willard St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 310 9587",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "wireless",
+        "product",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ISBYcDferbx0fZFKz1kkk_44.487676_-73.206114@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312853,
+    "wof:geomhash":"d54c885023441262816a911fa4d1fc9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874200925
+        }
+    ],
+    "wof:id":874200925,
+    "wof:lastmodified":1464312853,
+    "wof:name":"Soundtivity Wireless Corp",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wireless",
+        "product",
+        "datum"
+    ]
+},
+  "bbox": [
+    -73.206114,
+    44.487676,
+    -73.206114,
+    44.487676
+],
+  "geometry": {"coordinates":[-73.206114,44.487676],"type":"Point"}
+}

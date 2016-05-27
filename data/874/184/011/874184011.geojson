@@ -1,0 +1,71 @@
+{
+  "id": 874184011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.879676,43.496251,-72.879676,43.496251",
+    "geom:latitude":43.496251,
+    "geom:longitude":-72.879676,
+    "iso:country":"US",
+    "sg:address":"521 Town Hill Rd",
+    "sg:city":"Cuttingsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 492 3304",
+    "sg:postcode":"05738",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zFCB0hjWxoGnrh0V5ZxrY_43.496251_-72.879676@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312677,
+    "wof:geomhash":"7572293e573336193774b898987f251c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874184011
+        }
+    ],
+    "wof:id":874184011,
+    "wof:lastmodified":1464312677,
+    "wof:name":"Acorn Tree Svc",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.879676,
+    43.496251,
+    -72.879676,
+    43.496251
+],
+  "geometry": {"coordinates":[-72.879676,43.496251],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874240255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.664275,44.147136,-72.664275,44.147136",
+    "geom:latitude":44.147136,
+    "geom:longitude":-72.664275,
+    "iso:country":"US",
+    "sg:address":"35 Western Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3222",
+    "sg:postcode":"05408",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S32vX3HuaX7AUoTmzPNGM_44.147136_-72.664275@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313345,
+    "wof:geomhash":"8ba2e2025eef1072689a361ee7064f7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874240255
+        }
+    ],
+    "wof:id":874240255,
+    "wof:lastmodified":1464313345,
+    "wof:name":"Between Time Designs",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.664275,
+    44.147136,
+    -72.664275,
+    44.147136
+],
+  "geometry": {"coordinates":[-72.664275,44.147136],"type":"Point"}
+}

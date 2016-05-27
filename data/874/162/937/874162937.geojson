@@ -1,0 +1,73 @@
+{
+  "id": 874162937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.170399,44.451071,-73.170399,44.451071",
+    "geom:latitude":44.451071,
+    "geom:longitude":-73.170399,
+    "iso:country":"US",
+    "sg:address":"161 Twin Oaks Ter",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 0636",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "sg:tags":[
+        "rental",
+        "vacation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OurEZ0tXPa5jjvQppP9Ej_44.451071_-73.170399@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312459,
+    "wof:geomhash":"ce46ee1c881c6ce79a08f9c79169016e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874162937
+        }
+    ],
+    "wof:id":874162937,
+    "wof:lastmodified":1464312459,
+    "wof:name":"Vermont Lake Rentals",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "vacation"
+    ]
+},
+  "bbox": [
+    -73.170399,
+    44.451071,
+    -73.170399,
+    44.451071
+],
+  "geometry": {"coordinates":[-73.170399,44.451071],"type":"Point"}
+}

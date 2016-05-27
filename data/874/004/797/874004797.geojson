@@ -1,0 +1,69 @@
+{
+  "id": 874004797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.177156,44.531077,-73.177156,44.531077",
+    "geom:latitude":44.531077,
+    "geom:longitude":-73.177156,
+    "iso:country":"US",
+    "sg:address":"2407 Blakely Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 878 2359",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848449,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XuvWj15CZoRNKrUGp3TiC_44.531077_-73.177156@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310812,
+    "wof:geomhash":"b875496428b92646f8430b1bab74e826",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848449,
+            "region_id":85688763,
+            "venue_id":874004797
+        }
+    ],
+    "wof:id":874004797,
+    "wof:lastmodified":1464310812,
+    "wof:name":"Warren A Robenstien",
+    "wof:parent_id":85848449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -73.177156,
+    44.531077,
+    -73.177156,
+    44.531077
+],
+  "geometry": {"coordinates":[-73.177156,44.531077],"type":"Point"}
+}

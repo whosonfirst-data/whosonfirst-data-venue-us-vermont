@@ -1,0 +1,70 @@
+{
+  "id": 874118769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.134056,44.499868,-73.134056,44.499868",
+    "geom:latitude":44.499868,
+    "geom:longitude":-73.134056,
+    "iso:country":"US",
+    "sg:address":"72 Pine Ct",
+    "sg:city":"Essex Junction",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 0729",
+    "sg:postcode":"05452",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DgUOnby1jamU29Yipw6qr_44.499868_-73.134056@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312023,
+    "wof:geomhash":"07ea24830b16c1d4fbf9903ed3466751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874118769
+        }
+    ],
+    "wof:id":874118769,
+    "wof:lastmodified":1464312023,
+    "wof:name":"Schindler",
+    "wof:parent_id":85828531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.134056,
+    44.499868,
+    -73.134056,
+    44.499868
+],
+  "geometry": {"coordinates":[-73.134056,44.499868],"type":"Point"}
+}

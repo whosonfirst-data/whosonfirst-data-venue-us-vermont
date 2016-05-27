@@ -1,0 +1,64 @@
+{
+  "id": 874185541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.9815,43.609193,-72.9815,43.609193",
+    "geom:latitude":43.609193,
+    "geom:longitude":-72.9815,
+    "iso:country":"US",
+    "sg:address":"103 State St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 9709",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AYfzdfzwoNFMTw27eVsJo_43.609193_-72.981500@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312696,
+    "wof:geomhash":"4f6254c3a6e491bfd50ebceb7af10610",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874185541
+        }
+    ],
+    "wof:id":874185541,
+    "wof:lastmodified":1464312696,
+    "wof:name":"Downtown Laundromat",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.9815,
+    43.609193,
+    -72.9815,
+    43.609193
+],
+  "geometry": {"coordinates":[-72.9815,43.609193],"type":"Point"}
+}

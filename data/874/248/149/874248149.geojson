@@ -1,0 +1,69 @@
+{
+  "id": 874248149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.946655,43.60937,-72.946655,43.60937",
+    "geom:latitude":43.60937,
+    "geom:longitude":-72.946655,
+    "iso:country":"US",
+    "sg:address":"12 Grandview Ter",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 7678",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09mzZMC9q2hbJJu9POTac3_43.609370_-72.946655@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313499,
+    "wof:geomhash":"8542c2f8f823e5bb8d9aba5cee70fbc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874248149
+        }
+    ],
+    "wof:id":874248149,
+    "wof:lastmodified":1464313499,
+    "wof:name":"Wallace H JAS Jr MD",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.946655,
+    43.60937,
+    -72.946655,
+    43.60937
+],
+  "geometry": {"coordinates":[-72.94665500000001,43.60937],"type":"Point"}
+}

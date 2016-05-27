@@ -1,0 +1,71 @@
+{
+  "id": 874070945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209092,42.898951,-73.209092,42.898951",
+    "geom:latitude":42.898951,
+    "geom:longitude":-73.209092,
+    "iso:country":"US",
+    "sg:address":"210 Northside Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 7444",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mDpborgvYperVtG9Lpx8E_42.898951_-73.209092@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311443,
+    "wof:geomhash":"6822a8850da9f3c10b5fcc46542c642b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874070945
+        }
+    ],
+    "wof:id":874070945,
+    "wof:lastmodified":1464311443,
+    "wof:name":"Rentway",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -73.209092,
+    42.898951,
+    -73.209092,
+    42.898951
+],
+  "geometry": {"coordinates":[-73.209092,42.898951],"type":"Point"}
+}

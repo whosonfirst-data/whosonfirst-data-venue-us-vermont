@@ -1,0 +1,73 @@
+{
+  "id": 874212581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.0209,44.41867,-72.0209,44.41867",
+    "geom:latitude":44.41867,
+    "geom:longitude":-72.0209,
+    "iso:country":"US",
+    "sg:address":"1204 Main St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 3421",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "photo",
+        "photography",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yYbiD1N8eVcGxg8gOlaLR_44.418670_-72.020900@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312980,
+    "wof:geomhash":"b9f8b90bba6da20654ac12ecd30c97f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874212581
+        }
+    ],
+    "wof:id":874212581,
+    "wof:lastmodified":1464312980,
+    "wof:name":"Jenks Studio of Photography",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "photography",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.0209,
+    44.41867,
+    -72.0209,
+    44.41867
+],
+  "geometry": {"coordinates":[-72.0209,44.41867],"type":"Point"}
+}

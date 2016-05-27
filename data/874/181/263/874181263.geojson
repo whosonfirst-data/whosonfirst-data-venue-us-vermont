@@ -1,0 +1,69 @@
+{
+  "id": 874181263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.310242,43.708775,-73.310242,43.708775",
+    "geom:latitude":43.708775,
+    "geom:longitude":-73.310242,
+    "iso:country":"US",
+    "sg:address":"2646 Stage Rd",
+    "sg:city":"Fair Haven",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 537 3791",
+    "sg:postcode":"05743",
+    "sg:province":"VT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868769,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eERadw8U2H17Jf4m0gHu8_43.708775_-73.310242@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312644,
+    "wof:geomhash":"3ce2c795e2bf5742d12aae68c27b7ca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85868769,
+            "region_id":85688763,
+            "venue_id":874181263
+        }
+    ],
+    "wof:id":874181263,
+    "wof:lastmodified":1464312644,
+    "wof:name":"Benson Fire House",
+    "wof:parent_id":85868769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.310242,
+    43.708775,
+    -73.310242,
+    43.708775
+],
+  "geometry": {"coordinates":[-73.310242,43.708775],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874230757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.659802,42.79804,-72.659802,42.79804",
+    "geom:latitude":42.79804,
+    "geom:longitude":-72.659802,
+    "iso:country":"US",
+    "sg:address":"5345 Hinesburg Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 254 2250",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85803027,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mUyEftp3DgaNbBkd2ocz9_42.798040_-72.659802@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313172,
+    "wof:geomhash":"3866dc5ef00dbd86885a90e50669853b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85803027,
+            "region_id":85688763,
+            "venue_id":874230757
+        }
+    ],
+    "wof:id":874230757,
+    "wof:lastmodified":1464313172,
+    "wof:name":"Lynde Well Drilling Inc",
+    "wof:parent_id":85803027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -72.659802,
+    42.79804,
+    -72.659802,
+    42.79804
+],
+  "geometry": {"coordinates":[-72.659802,42.79804],"type":"Point"}
+}

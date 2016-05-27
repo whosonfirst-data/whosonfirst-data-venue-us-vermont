@@ -1,0 +1,73 @@
+{
+  "id": 874001715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.471109,44.230482,-72.471109,44.230482",
+    "geom:latitude":44.230482,
+    "geom:longitude":-72.471109,
+    "iso:country":"US",
+    "sg:address":"76 Mitchell Rd",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 9460",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KjlUBqaksLL9FPY3VB8w9_44.230482_-72.471109@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310773,
+    "wof:geomhash":"bef7774261a5e27fc185f52fd4ce3743",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874001715
+        }
+    ],
+    "wof:id":874001715,
+    "wof:lastmodified":1464310773,
+    "wof:name":"Phoenix Electric",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.471109,
+    44.230482,
+    -72.471109,
+    44.230482
+],
+  "geometry": {"coordinates":[-72.471109,44.230482],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874065305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.12024,44.144428,-73.12024,44.144428",
+    "geom:latitude":44.144428,
+    "geom:longitude":-73.12024,
+    "iso:country":"US",
+    "sg:address":"5305 Plank Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 453 3848",
+    "sg:postcode":"05472",
+    "sg:province":"VT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O9hB4e2S0fqeYzfKMippj_44.144428_-73.120240@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311382,
+    "wof:geomhash":"7db9e65023826d11b4dba9f9008f08fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874065305
+        }
+    ],
+    "wof:id":874065305,
+    "wof:lastmodified":1464311382,
+    "wof:name":"Plank Road Building & Rmdlg",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.12024,
+    44.144428,
+    -73.12024,
+    44.144428
+],
+  "geometry": {"coordinates":[-73.12024,44.144428],"type":"Point"}
+}

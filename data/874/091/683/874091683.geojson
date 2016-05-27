@@ -1,0 +1,71 @@
+{
+  "id": 874091683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.502796,44.198261,-72.502796,44.198261",
+    "geom:latitude":44.198261,
+    "geom:longitude":-72.502796,
+    "iso:country":"US",
+    "sg:address":"162 N Main St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 479 9743",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KfyfekKlWvkpZ0QpY3Cx3_44.198261_-72.502796@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311683,
+    "wof:geomhash":"515bf986af434e7ce09e024414723bae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874091683
+        }
+    ],
+    "wof:id":874091683,
+    "wof:lastmodified":1464311683,
+    "wof:name":"Vermont Adult Learning",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -72.502796,
+    44.198261,
+    -72.502796,
+    44.198261
+],
+  "geometry": {"coordinates":[-72.502796,44.198261],"type":"Point"}
+}

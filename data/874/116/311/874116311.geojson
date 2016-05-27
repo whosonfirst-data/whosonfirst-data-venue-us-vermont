@@ -1,0 +1,69 @@
+{
+  "id": 874116311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.514703,43.400184,-72.514703,43.400184",
+    "geom:latitude":43.400184,
+    "geom:longitude":-72.514703,
+    "iso:country":"US",
+    "sg:address":"4276 State Rte 106",
+    "sg:city":"Perkinsville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 263 9327",
+    "sg:postcode":"05151",
+    "sg:province":"VT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85815089,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IB6M3IM4qaZ6uhH9FeoXt_43.400184_-72.514703@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311999,
+    "wof:geomhash":"3104c255d36b0c949d673a8c0cce4f68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85815089,
+            "region_id":85688763,
+            "venue_id":874116311
+        }
+    ],
+    "wof:id":874116311,
+    "wof:lastmodified":1464311999,
+    "wof:name":"Downer's Corner Store",
+    "wof:parent_id":85815089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -72.514703,
+    43.400184,
+    -72.514703,
+    43.400184
+],
+  "geometry": {"coordinates":[-72.514703,43.400184],"type":"Point"}
+}

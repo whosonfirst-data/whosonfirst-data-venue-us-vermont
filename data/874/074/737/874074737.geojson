@@ -1,0 +1,73 @@
+{
+  "id": 874074737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.02103,44.418587,-72.02103,44.418587",
+    "geom:latitude":44.418587,
+    "geom:longitude":-72.02103,
+    "iso:country":"US",
+    "sg:address":"1207 Main St",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 5467",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QPt5rN1N5w46JuLBK6vJF_44.418587_-72.021030@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311500,
+    "wof:geomhash":"3e7698b0f9bc0d421a286a23cfa59f11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874074737
+        }
+    ],
+    "wof:id":874074737,
+    "wof:lastmodified":1464311500,
+    "wof:name":"St Johnsbury Senior Meal Site",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -72.02103,
+    44.418587,
+    -72.02103,
+    44.418587
+],
+  "geometry": {"coordinates":[-72.02103,44.418587],"type":"Point"}
+}

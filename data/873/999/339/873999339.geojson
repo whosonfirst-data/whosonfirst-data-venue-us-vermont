@@ -1,0 +1,71 @@
+{
+  "id": 873999339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.56762,44.24509,-72.56762,44.24509",
+    "geom:latitude":44.24509,
+    "geom:longitude":-72.56762,
+    "iso:country":"US",
+    "sg:address":"17 George St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 223 1289",
+    "sg:postcode":"05602",
+    "sg:province":"VT",
+    "sg:tags":[
+        "practice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jljhY7xX8UET5VfUJWm2v_44.245090_-72.567620@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310756,
+    "wof:geomhash":"ea013345dcebb314c0e65534ae600199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":873999339
+        }
+    ],
+    "wof:id":873999339,
+    "wof:lastmodified":1464310756,
+    "wof:name":"Constance E Dobbs",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice"
+    ]
+},
+  "bbox": [
+    -72.56762,
+    44.24509,
+    -72.56762,
+    44.24509
+],
+  "geometry": {"coordinates":[-72.56762000000001,44.24509],"type":"Point"}
+}

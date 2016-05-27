@@ -1,0 +1,73 @@
+{
+  "id": 874221283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.593739,43.72394,-72.593739,43.72394",
+    "geom:latitude":43.72394,
+    "geom:longitude":-72.593739,
+    "iso:country":"US",
+    "sg:address":"52 Royalton Tpke",
+    "sg:city":"South Royalton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 763 8562",
+    "sg:postcode":"05068",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85835217,
+        102080777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h2EP8VDlsjMzJ9Hgsl1px_43.723940_-72.593739@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313077,
+    "wof:geomhash":"76ecade54e4b7f8e788039fc84592df3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080777,
+            "neighbourhood_id":85835217,
+            "region_id":85688763,
+            "venue_id":874221283
+        }
+    ],
+    "wof:id":874221283,
+    "wof:lastmodified":1464313077,
+    "wof:name":"Kevin L Rogers Inc",
+    "wof:parent_id":85835217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.593739,
+    43.72394,
+    -72.593739,
+    43.72394
+],
+  "geometry": {"coordinates":[-72.593739,43.72394],"type":"Point"}
+}

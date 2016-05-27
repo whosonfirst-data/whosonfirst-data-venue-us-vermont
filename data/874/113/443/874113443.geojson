@@ -1,0 +1,71 @@
+{
+  "id": 874113443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.195599,44.550299,-73.195599,44.550299",
+    "geom:latitude":44.550299,
+    "geom:longitude":-73.195599,
+    "iso:country":"US",
+    "sg:address":"42 Suncrest Ter",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 0471",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85832021,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PuAI2CeOFEueZtH1GFABu_44.550299_-73.195599@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311972,
+    "wof:geomhash":"a87bd94a3047626cabf7e91d3eaa5889",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85832021,
+            "region_id":85688763,
+            "venue_id":874113443
+        }
+    ],
+    "wof:id":874113443,
+    "wof:lastmodified":1464311972,
+    "wof:name":"Martha Properties",
+    "wof:parent_id":85832021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.195599,
+    44.550299,
+    -73.195599,
+    44.550299
+],
+  "geometry": {"coordinates":[-73.195599,44.550299],"type":"Point"}
+}

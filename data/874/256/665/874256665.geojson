@@ -1,0 +1,84 @@
+{
+  "id": 874256665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977219,43.471691,-72.977219,43.471691",
+    "geom:latitude":43.471691,
+    "geom:longitude":-72.977219,
+    "iso:country":"US",
+    "sg:address":"2 Depot St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 446 3088",
+    "sg:postcode":"05773",
+    "sg:province":"VT",
+    "sg:tags":[
+        "exhaust",
+        "automobile",
+        "system",
+        "accessory",
+        "part",
+        "muffler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85816133,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_717Lexo38QjKLObApeAfht_43.471691_-72.977219@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1464313712,
+    "wof:geomhash":"70ae7a98d59e2cc43b0f57c0c16f6059",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85816133,
+            "region_id":85688763,
+            "venue_id":874256665
+        }
+    ],
+    "wof:id":874256665,
+    "wof:lastmodified":1464313712,
+    "wof:name":"Wallingford Auto Repair",
+    "wof:parent_id":85816133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust",
+        "automobile",
+        "system",
+        "accessory",
+        "part",
+        "muffler"
+    ]
+},
+  "bbox": [
+    -72.977219,
+    43.471691,
+    -72.977219,
+    43.471691
+],
+  "geometry": {"coordinates":[-72.97721900000001,43.471691],"type":"Point"}
+}

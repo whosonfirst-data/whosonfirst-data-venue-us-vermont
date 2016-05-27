@@ -1,0 +1,71 @@
+{
+  "id": 874035331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209913,42.935191,-73.209913,42.935191",
+    "geom:latitude":42.935191,
+    "geom:longitude":-73.209913,
+    "iso:country":"US",
+    "sg:address":"17 State Rte 7a",
+    "sg:city":"Arlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 4848",
+    "sg:postcode":"05250",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rBGk5e5tJcYF6S0hUFn44_42.935191_-73.209913@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311097,
+    "wof:geomhash":"698dd204e2782873a94c16f3e37d8326",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874035331
+        }
+    ],
+    "wof:id":874035331,
+    "wof:lastmodified":1464311097,
+    "wof:name":"J P Construction",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.209913,
+    42.935191,
+    -73.209913,
+    42.935191
+],
+  "geometry": {"coordinates":[-73.209913,42.935191],"type":"Point"}
+}

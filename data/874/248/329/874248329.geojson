@@ -1,0 +1,69 @@
+{
+  "id": 874248329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.699568,44.645707,-72.699568,44.645707",
+    "geom:latitude":44.645707,
+    "geom:longitude":-72.699568,
+    "iso:country":"US",
+    "sg:address":"463 Foote Brook Rd",
+    "sg:city":"Johnson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 635 8347",
+    "sg:postcode":"05656",
+    "sg:province":"VT",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85827155,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pz8DFtKUwP0KFntTeKkfY_44.645707_-72.699568@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313504,
+    "wof:geomhash":"c967eef6aedfe73b7ed82044f623205c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85827155,
+            "region_id":85688763,
+            "venue_id":874248329
+        }
+    ],
+    "wof:id":874248329,
+    "wof:lastmodified":1464313504,
+    "wof:name":"Washington County Mental Hlth",
+    "wof:parent_id":85827155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -72.699568,
+    44.645707,
+    -72.699568,
+    44.645707
+],
+  "geometry": {"coordinates":[-72.699568,44.645707],"type":"Point"}
+}

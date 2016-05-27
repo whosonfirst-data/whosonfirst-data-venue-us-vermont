@@ -1,0 +1,71 @@
+{
+  "id": 874247601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.002989,44.538539,-72.002989,44.538539",
+    "geom:latitude":44.538539,
+    "geom:longitude":-72.002989,
+    "iso:country":"US",
+    "sg:address":"101 Main St",
+    "sg:city":"Lyndonville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 626 1175",
+    "sg:postcode":"05851",
+    "sg:province":"VT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54dF8YD3Z8jiXqjU5YXrs9_44.538539_-72.002989@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313485,
+    "wof:geomhash":"45d44a57726787da0978300b8752d16e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874247601
+        }
+    ],
+    "wof:id":874247601,
+    "wof:lastmodified":1464313485,
+    "wof:name":"Gilman Housing Trust Home",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -72.002989,
+    44.538539,
+    -72.002989,
+    44.538539
+],
+  "geometry": {"coordinates":[-72.002989,44.538539],"type":"Point"}
+}

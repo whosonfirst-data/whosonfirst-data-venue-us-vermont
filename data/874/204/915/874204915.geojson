@@ -1,0 +1,69 @@
+{
+  "id": 874204915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.689683,44.464532,-72.689683,44.464532",
+    "geom:latitude":44.464532,
+    "geom:longitude":-72.689683,
+    "iso:country":"US",
+    "sg:address":"147 S Main St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 524 4414",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iTMxEg9sfQ1w3FBFAJ3yl_44.464532_-72.689683@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312893,
+    "wof:geomhash":"cb3cf1bc743e24bbcbeb6cb359af9c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874204915
+        }
+    ],
+    "wof:id":874204915,
+    "wof:lastmodified":1464312893,
+    "wof:name":"Hartigan",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -72.689683,
+    44.464532,
+    -72.689683,
+    44.464532
+],
+  "geometry": {"coordinates":[-72.689683,44.464532],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874254751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.229881,44.361003,-73.229881,44.361003",
+    "geom:latitude":44.361003,
+    "geom:longitude":-73.229881,
+    "iso:country":"US",
+    "sg:address":"6655 Shelburne Rd",
+    "sg:city":"Shelburne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 985 1319",
+    "sg:postcode":"05482",
+    "sg:province":"VT",
+    "sg:tags":[
+        "toy",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85848153,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e4WmwA3gUZYAJAgOGTGXb_44.361003_-73.229881@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313664,
+    "wof:geomhash":"57cdcc71c09683d25dd5d4f9cc0da889",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85848153,
+            "region_id":85688763,
+            "venue_id":874254751
+        }
+    ],
+    "wof:id":874254751,
+    "wof:lastmodified":1464313664,
+    "wof:name":"Vermont Teddy Bear",
+    "wof:parent_id":85848153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toy",
+        "store"
+    ]
+},
+  "bbox": [
+    -73.229881,
+    44.361003,
+    -73.229881,
+    44.361003
+],
+  "geometry": {"coordinates":[-73.22988100000001,44.361003],"type":"Point"}
+}

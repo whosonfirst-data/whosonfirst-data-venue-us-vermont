@@ -1,0 +1,71 @@
+{
+  "id": 874135335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.597178,44.569709,-72.597178,44.569709",
+    "geom:latitude":44.569709,
+    "geom:longitude":-72.597178,
+    "iso:country":"US",
+    "sg:address":"548 Brooklyn St",
+    "sg:city":"Morrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 888 9411",
+    "sg:postcode":"05661",
+    "sg:province":"VT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A5F0rZPcf0DrKkNL8DeBp_44.569709_-72.597178@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312194,
+    "wof:geomhash":"ec2cc4705e3fb05e73658083d277d8b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874135335
+        }
+    ],
+    "wof:id":874135335,
+    "wof:lastmodified":1464312194,
+    "wof:name":"Manosh Car Wash",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -72.597178,
+    44.569709,
+    -72.597178,
+    44.569709
+],
+  "geometry": {"coordinates":[-72.597178,44.569709],"type":"Point"}
+}

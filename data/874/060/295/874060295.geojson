@@ -1,0 +1,71 @@
+{
+  "id": 874060295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.054948,43.826651,-73.054948,43.826651",
+    "geom:latitude":43.826651,
+    "geom:longitude":-73.054948,
+    "iso:country":"US",
+    "sg:address":"184 Neshobe Cir",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 247 4418",
+    "sg:postcode":"05733",
+    "sg:province":"VT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728363,
+        102080771,
+        85835665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l2pOK90wNKbOOaXHIlflD_43.826651_-73.054948@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311338,
+    "wof:geomhash":"ea673e11bffe56fb05d121475c3089e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "locality_id":101728363,
+            "neighbourhood_id":85835665,
+            "region_id":85688763,
+            "venue_id":874060295
+        }
+    ],
+    "wof:id":874060295,
+    "wof:lastmodified":1464311338,
+    "wof:name":"Neshobe Family Network",
+    "wof:parent_id":85835665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -73.054948,
+    43.826651,
+    -73.054948,
+    43.826651
+],
+  "geometry": {"coordinates":[-73.054948,43.826651],"type":"Point"}
+}

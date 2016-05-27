@@ -1,0 +1,73 @@
+{
+  "id": 874058681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977648,43.60659,-72.977648,43.60659",
+    "geom:latitude":43.60659,
+    "geom:longitude":-72.977648,
+    "iso:country":"US",
+    "sg:address":"103 Wales St",
+    "sg:city":"Rutland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 775 2910",
+    "sg:postcode":"05701",
+    "sg:province":"VT",
+    "sg:tags":[
+        "county",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85802689,
+        102080771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_409AqxbRcu2TksNVpX3G9M_43.606590_-72.977648@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311323,
+    "wof:geomhash":"aae7d7d8b9663ab6203aa892126acf0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080771,
+            "neighbourhood_id":85802689,
+            "region_id":85688763,
+            "venue_id":874058681
+        }
+    ],
+    "wof:id":874058681,
+    "wof:lastmodified":1464311323,
+    "wof:name":"Rutland Redevelopment Athrty",
+    "wof:parent_id":85802689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -72.977648,
+    43.60659,
+    -72.977648,
+    43.60659
+],
+  "geometry": {"coordinates":[-72.977648,43.60659],"type":"Point"}
+}

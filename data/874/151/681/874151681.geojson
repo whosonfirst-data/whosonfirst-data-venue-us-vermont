@@ -1,0 +1,71 @@
+{
+  "id": 874151681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.990613,44.601891,-72.990613,44.601891",
+    "geom:latitude":44.601891,
+    "geom:longitude":-72.990613,
+    "iso:country":"US",
+    "sg:address":"258 Covey Rd",
+    "sg:city":"Westford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 229 2800",
+    "sg:postcode":"05494",
+    "sg:province":"VT",
+    "sg:tags":[
+        "bus",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818481,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TOohT4smeH4sellPk6zUx_44.601891_-72.990613@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312344,
+    "wof:geomhash":"a0c6a1f00703c7332f96436e8003fa73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85818481,
+            "region_id":85688763,
+            "venue_id":874151681
+        }
+    ],
+    "wof:id":874151681,
+    "wof:lastmodified":1464312344,
+    "wof:name":"Bus-Sounds Unlimited",
+    "wof:parent_id":85818481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.990613,
+    44.601891,
+    -72.990613,
+    44.601891
+],
+  "geometry": {"coordinates":[-72.990613,44.601891],"type":"Point"}
+}

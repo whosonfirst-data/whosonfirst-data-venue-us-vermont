@@ -1,0 +1,66 @@
+{
+  "id": 874043391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209743,44.442732,-73.209743,44.442732",
+    "geom:latitude":44.442732,
+    "geom:longitude":-73.209743,
+    "iso:country":"US",
+    "sg:address":"935 Shelburne Rd",
+    "sg:city":"South Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 658 3496",
+    "sg:postcode":"05403",
+    "sg:province":"VT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xBCmwYp9oQiJq4x8U585y_44.442732_-73.209743@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311179,
+    "wof:geomhash":"ff78099fa7dd9ca5d77f0549f4e629a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874043391
+        }
+    ],
+    "wof:id":874043391,
+    "wof:lastmodified":1464311179,
+    "wof:name":"Martins Food Centers",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.209743,
+    44.442732,
+    -73.209743,
+    44.442732
+],
+  "geometry": {"coordinates":[-73.209743,44.442732],"type":"Point"}
+}

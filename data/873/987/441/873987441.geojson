@@ -1,0 +1,74 @@
+{
+  "id": 873987441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.398648,44.275345,-72.398648,44.275345",
+    "geom:latitude":44.275345,
+    "geom:longitude":-72.398648,
+    "iso:country":"US",
+    "sg:address":"1118 Maple Hill Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 454 8493",
+    "sg:postcode":"05667",
+    "sg:province":"VT",
+    "sg:tags":[
+        "school",
+        "educational"
+    ],
+    "sg:website":"www.biodev.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728355,
+        102080779,
+        85817427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nJeBaIsYyNLjQ5eDSwT9i_44.275345_-72.398648@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310672,
+    "wof:geomhash":"3836cb72c3d143def213c7ab682783a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728355,
+            "neighbourhood_id":85817427,
+            "region_id":85688763,
+            "venue_id":873987441
+        }
+    ],
+    "wof:id":873987441,
+    "wof:lastmodified":1464310672,
+    "wof:name":"Institute For Social Ecology",
+    "wof:parent_id":85817427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "educational"
+    ]
+},
+  "bbox": [
+    -72.398648,
+    44.275345,
+    -72.398648,
+    44.275345
+],
+  "geometry": {"coordinates":[-72.39864799999999,44.275345],"type":"Point"}
+}

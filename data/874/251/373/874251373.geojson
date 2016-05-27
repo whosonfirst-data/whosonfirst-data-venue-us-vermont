@@ -1,0 +1,74 @@
+{
+  "id": 874251373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210333,42.899784,-73.210333,42.899784",
+    "geom:latitude":42.899784,
+    "geom:longitude":-73.210333,
+    "iso:country":"US",
+    "sg:address":"203 Northside Dr",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 447 3210",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x4TN906ZXhhLJlkDnVqCw_42.899784_-73.210333@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464313592,
+    "wof:geomhash":"0e4970dd8068168dd64eb205563bf3b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874251373
+        }
+    ],
+    "wof:id":874251373,
+    "wof:lastmodified":1464313592,
+    "wof:name":"Maple Leaf Realty Remax",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -73.210333,
+    42.899784,
+    -73.210333,
+    42.899784
+],
+  "geometry": {"coordinates":[-73.21033300000001,42.899784],"type":"Point"}
+}

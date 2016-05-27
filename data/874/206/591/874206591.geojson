@@ -1,0 +1,84 @@
+{
+  "id": 874206591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.128178,44.448145,-73.128178,44.448145",
+    "geom:latitude":44.448145,
+    "geom:longitude":-73.128178,
+    "iso:country":"US",
+    "sg:address":"54 Echo Pl",
+    "sg:city":"Williston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 862 7662",
+    "sg:postcode":"05495",
+    "sg:province":"VT",
+    "sg:tags":[
+        "delivery",
+        "courier",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828531,
+        102191575,
+        404527577,
+        85633793,
+        101728313,
+        102087451,
+        85688763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kZcJHhYgGUl3TExkJE3cZ_44.448145_-73.128178@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312910,
+    "wof:geomhash":"069ce9cd9a72d722b6d6ef07db798e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087451,
+            "localadmin_id":404527577,
+            "locality_id":101728313,
+            "neighbourhood_id":85828531,
+            "region_id":85688763,
+            "venue_id":874206591
+        }
+    ],
+    "wof:id":874206591,
+    "wof:lastmodified":1464312910,
+    "wof:name":"Green Mountain Messenger Inc",
+    "wof:parent_id":85828531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "courier",
+        "air"
+    ]
+},
+  "bbox": [
+    -73.128178,
+    44.448145,
+    -73.128178,
+    44.448145
+],
+  "geometry": {"coordinates":[-73.12817800000001,44.448145],"type":"Point"}
+}

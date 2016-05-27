@@ -1,0 +1,71 @@
+{
+  "id": 874041567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.994496,44.406858,-72.994496,44.406858",
+    "geom:latitude":44.406858,
+    "geom:longitude":-72.994496,
+    "iso:country":"US",
+    "sg:address":"80 Baker St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 434 4993",
+    "sg:postcode":"05477",
+    "sg:province":"VT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85819051,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GdeJAOETyiBB1ynn8Eapu_44.406858_-72.994496@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311162,
+    "wof:geomhash":"14f84787595dca40b0dd84fd1d66c894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85819051,
+            "region_id":85688763,
+            "venue_id":874041567
+        }
+    ],
+    "wof:id":874041567,
+    "wof:lastmodified":1464311162,
+    "wof:name":"Reap Construction",
+    "wof:parent_id":85819051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.994496,
+    44.406858,
+    -72.994496,
+    44.406858
+],
+  "geometry": {"coordinates":[-72.994496,44.406858],"type":"Point"}
+}

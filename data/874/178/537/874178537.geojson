@@ -1,0 +1,73 @@
+{
+  "id": 874178537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.013779,44.425685,-72.013779,44.425685",
+    "geom:latitude":44.425685,
+    "geom:longitude":-72.013779,
+    "iso:country":"US",
+    "sg:address":"77 Concord Ave",
+    "sg:city":"Saint Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 1953",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hRU8Ar4DX50IR4vp5mH2t_44.425685_-72.013779@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312613,
+    "wof:geomhash":"e0fee65f7e3167820c9f139615bdad35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874178537
+        }
+    ],
+    "wof:id":874178537,
+    "wof:lastmodified":1464312613,
+    "wof:name":"Trombly Plumbing & Heating",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.013779,
+    44.425685,
+    -72.013779,
+    44.425685
+],
+  "geometry": {"coordinates":[-72.013779,44.425685],"type":"Point"}
+}

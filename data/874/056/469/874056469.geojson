@@ -1,0 +1,75 @@
+{
+  "id": 874056469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.01299,44.425395,-72.01299,44.425395",
+    "geom:latitude":44.425395,
+    "geom:longitude":-72.01299,
+    "iso:country":"US",
+    "sg:address":"108 Concord Ave",
+    "sg:city":"St Johnsbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 748 4777",
+    "sg:postcode":"05819",
+    "sg:province":"VT",
+    "sg:tags":[
+        "art",
+        "commercial",
+        "lithographic",
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85817645,
+        102080755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mGhRSGLO27PrsDzyQg6TU_44.425395_-72.012990@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311305,
+    "wof:geomhash":"cb02f24e58481f4182c13740d7026089",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080755,
+            "neighbourhood_id":85817645,
+            "region_id":85688763,
+            "venue_id":874056469
+        }
+    ],
+    "wof:id":874056469,
+    "wof:lastmodified":1464311305,
+    "wof:name":"Troll Press",
+    "wof:parent_id":85817645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "commercial",
+        "lithographic",
+        "printer"
+    ]
+},
+  "bbox": [
+    -72.01299,
+    44.425395,
+    -72.01299,
+    44.425395
+],
+  "geometry": {"coordinates":[-72.01299,44.425395],"type":"Point"}
+}

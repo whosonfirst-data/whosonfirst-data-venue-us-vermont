@@ -1,0 +1,69 @@
+{
+  "id": 874018507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.633597,43.959701,-72.633597,43.959701",
+    "geom:latitude":43.959701,
+    "geom:longitude":-72.633597,
+    "iso:country":"US",
+    "sg:address":"1275 Hebard Hill Rd",
+    "sg:city":"Randolph",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 728 9200",
+    "sg:postcode":"05060",
+    "sg:province":"VT",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85841465,
+        102087431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AdPidI0ZiccU8NmPkf0g2_43.959701_-72.633597@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310932,
+    "wof:geomhash":"7c6469a3b51c258628053a083f73945f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087431,
+            "neighbourhood_id":85841465,
+            "region_id":85688763,
+            "venue_id":874018507
+        }
+    ],
+    "wof:id":874018507,
+    "wof:lastmodified":1464310932,
+    "wof:name":"Adams Light Crane Svc",
+    "wof:parent_id":85841465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [
+    -72.633597,
+    43.959701,
+    -72.633597,
+    43.959701
+],
+  "geometry": {"coordinates":[-72.63359699999999,43.959701],"type":"Point"}
+}

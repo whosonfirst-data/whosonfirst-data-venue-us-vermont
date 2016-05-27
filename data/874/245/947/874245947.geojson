@@ -1,0 +1,71 @@
+{
+  "id": 874245947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.058403,43.208594,-73.058403,43.208594",
+    "geom:latitude":43.208594,
+    "geom:longitude":-73.058403,
+    "iso:country":"US",
+    "sg:address":"233 Squires Rd",
+    "sg:city":"Manchester Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 7177",
+    "sg:postcode":"05251",
+    "sg:province":"VT",
+    "sg:tags":[
+        "prefab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728291,
+        102087439,
+        85868265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rYzwDbbrCVd3RAqvjx8ZY_43.208594_-73.058403@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313453,
+    "wof:geomhash":"6600c7fef5d0dae94fd64ffd514c7b0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "locality_id":101728291,
+            "neighbourhood_id":85868265,
+            "region_id":85688763,
+            "venue_id":874245947
+        }
+    ],
+    "wof:id":874245947,
+    "wof:lastmodified":1464313453,
+    "wof:name":"Vermont Quality Homes",
+    "wof:parent_id":85868265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prefab"
+    ]
+},
+  "bbox": [
+    -73.058403,
+    43.208594,
+    -73.058403,
+    43.208594
+],
+  "geometry": {"coordinates":[-73.058403,43.208594],"type":"Point"}
+}

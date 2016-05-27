@@ -1,0 +1,75 @@
+{
+  "id": 874228739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.1127,44.691612,-73.1127,44.691612",
+    "geom:latitude":44.691612,
+    "geom:longitude":-73.1127,
+    "iso:country":"US",
+    "sg:address":"576 Ballard Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 893 2124",
+    "sg:postcode":"05468",
+    "sg:province":"VT",
+    "sg:tags":[
+        "automotive",
+        "parts",
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855549,
+        102080729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P9DgKvkxD2HIQKgXptgci_44.691612_-73.112700@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313148,
+    "wof:geomhash":"4492ae74078efb5d1918f748ed85906d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080729,
+            "neighbourhood_id":85855549,
+            "region_id":85688763,
+            "venue_id":874228739
+        }
+    ],
+    "wof:id":874228739,
+    "wof:lastmodified":1464313148,
+    "wof:name":"Bob's Gun Shop",
+    "wof:parent_id":85855549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "parts",
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -73.1127,
+    44.691612,
+    -73.1127,
+    44.691612
+],
+  "geometry": {"coordinates":[-73.1127,44.691612],"type":"Point"}
+}

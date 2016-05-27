@@ -1,0 +1,73 @@
+{
+  "id": 874069107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.198161,42.878741,-73.198161,42.878741",
+    "geom:latitude":42.878741,
+    "geom:longitude":-73.198161,
+    "iso:country":"US",
+    "sg:address":"355 Main St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 442 8453",
+    "sg:postcode":"05201",
+    "sg:province":"VT",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85868797,
+        102087439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PmyZExuDK4Mtke5Ee50I9_42.878741_-73.198161@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311424,
+    "wof:geomhash":"4b3d8be107445616602f482a8c8b2717",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087439,
+            "neighbourhood_id":85868797,
+            "region_id":85688763,
+            "venue_id":874069107
+        }
+    ],
+    "wof:id":874069107,
+    "wof:lastmodified":1464311424,
+    "wof:name":"US Army Recruiting",
+    "wof:parent_id":85868797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -73.198161,
+    42.878741,
+    -73.198161,
+    42.878741
+],
+  "geometry": {"coordinates":[-73.198161,42.878741],"type":"Point"}
+}

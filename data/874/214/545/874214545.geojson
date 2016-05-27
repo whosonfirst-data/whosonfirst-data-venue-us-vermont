@@ -1,0 +1,71 @@
+{
+  "id": 874214545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.513081,44.207289,-72.513081,44.207289",
+    "geom:latitude":44.207289,
+    "geom:longitude":-72.513081,
+    "iso:country":"US",
+    "sg:address":"10 W 2nd St",
+    "sg:city":"Barre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 476 4773",
+    "sg:postcode":"05641",
+    "sg:province":"VT",
+    "sg:tags":[
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728361,
+        102080779,
+        85868269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pejFxkhndqZeo1NY2j2lo_44.207289_-72.513081@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464313000,
+    "wof:geomhash":"3527212f3bb984cb1686976362560b32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728361,
+            "neighbourhood_id":85868269,
+            "region_id":85688763,
+            "venue_id":874214545
+        }
+    ],
+    "wof:id":874214545,
+    "wof:lastmodified":1464313000,
+    "wof:name":"Allain Custom Woodworks",
+    "wof:parent_id":85868269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -72.513081,
+    44.207289,
+    -72.513081,
+    44.207289
+],
+  "geometry": {"coordinates":[-72.513081,44.207289],"type":"Point"}
+}

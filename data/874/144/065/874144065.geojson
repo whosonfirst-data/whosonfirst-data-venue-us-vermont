@@ -1,0 +1,73 @@
+{
+  "id": 874144065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199423,44.484938,-73.199423,44.484938",
+    "geom:latitude":44.484938,
+    "geom:longitude":-73.199423,
+    "iso:country":"US",
+    "sg:address":"130 Mansfield Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 863 3335",
+    "sg:postcode":"05401",
+    "sg:province":"VT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728313,
+        102087451,
+        85852901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GPG5bhYNVWIvOCGE9YK8s_44.484938_-73.199423@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312272,
+    "wof:geomhash":"a4f9c77d5c1fd6d3672b69a22e931e9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "locality_id":101728313,
+            "neighbourhood_id":85852901,
+            "region_id":85688763,
+            "venue_id":874144065
+        }
+    ],
+    "wof:id":874144065,
+    "wof:lastmodified":1464312272,
+    "wof:name":"McAuley Square Senior Housing",
+    "wof:parent_id":85852901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.199423,
+    44.484938,
+    -73.199423,
+    44.484938
+],
+  "geometry": {"coordinates":[-73.199423,44.484938],"type":"Point"}
+}

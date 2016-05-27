@@ -1,0 +1,71 @@
+{
+  "id": 873985471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.559155,42.880152,-72.559155,42.880152",
+    "geom:latitude":42.880152,
+    "geom:longitude":-72.559155,
+    "iso:country":"US",
+    "sg:address":"894 Putney Rd",
+    "sg:city":"Brattleboro",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 257 7593",
+    "sg:postcode":"05301",
+    "sg:province":"VT",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85857895,
+        102080773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FPwzo6zmdSFtkVZs3fiB5_42.880152_-72.559155@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310653,
+    "wof:geomhash":"c71a57232ca7c961e9c82e61a1c69ff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080773,
+            "neighbourhood_id":85857895,
+            "region_id":85688763,
+            "venue_id":873985471
+        }
+    ],
+    "wof:id":873985471,
+    "wof:lastmodified":1464310653,
+    "wof:name":"Charter One",
+    "wof:parent_id":85857895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -72.559155,
+    42.880152,
+    -72.559155,
+    42.880152
+],
+  "geometry": {"coordinates":[-72.559155,42.880152],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874110847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169435,44.013014,-73.169435,44.013014",
+    "geom:latitude":44.013014,
+    "geom:longitude":-73.169435,
+    "iso:country":"US",
+    "sg:address":"8 Mill St",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 2743",
+    "sg:postcode":"05753",
+    "sg:province":"VT",
+    "sg:tags":[
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728427,
+        102080765,
+        85805367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aMqCI5wroICm8VBc2g254_44.013014_-73.169435@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311938,
+    "wof:geomhash":"99a7bd09d9520e867c8f13010bdb4030",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "locality_id":101728427,
+            "neighbourhood_id":85805367,
+            "region_id":85688763,
+            "venue_id":874110847
+        }
+    ],
+    "wof:id":874110847,
+    "wof:lastmodified":1464311938,
+    "wof:name":"In The Alley Bookshop",
+    "wof:parent_id":85805367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book"
+    ]
+},
+  "bbox": [
+    -73.169435,
+    44.013014,
+    -73.169435,
+    44.013014
+],
+  "geometry": {"coordinates":[-73.16943499999999,44.013014],"type":"Point"}
+}

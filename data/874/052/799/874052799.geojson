@@ -1,0 +1,69 @@
+{
+  "id": 874052799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.143344,44.589136,-73.143344,44.589136",
+    "geom:latitude":44.589136,
+    "geom:longitude":-73.143344,
+    "iso:country":"US",
+    "sg:address":"38 Tuckaway Pond Rd",
+    "sg:city":"Colchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 872 9584",
+    "sg:postcode":"05446",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85810871,
+        102087451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CgnaeIhRzakc9oQfNoEvJ_44.589136_-73.143344@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464311266,
+    "wof:geomhash":"e711f3e6e4b1dbbc2dd53c7342c17c4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087451,
+            "neighbourhood_id":85810871,
+            "region_id":85688763,
+            "venue_id":874052799
+        }
+    ],
+    "wof:id":874052799,
+    "wof:lastmodified":1464311266,
+    "wof:name":"Yellow Dog Landscaping",
+    "wof:parent_id":85810871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -73.143344,
+    44.589136,
+    -73.143344,
+    44.589136
+],
+  "geometry": {"coordinates":[-73.143344,44.589136],"type":"Point"}
+}

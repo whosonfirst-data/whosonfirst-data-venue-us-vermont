@@ -1,0 +1,71 @@
+{
+  "id": 874195369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.623485,44.097786,-72.623485,44.097786",
+    "geom:latitude":44.097786,
+    "geom:longitude":-72.623485,
+    "iso:country":"US",
+    "sg:address":"1308 Loop Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 485 7184",
+    "sg:postcode":"05663",
+    "sg:province":"VT",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        101728351,
+        102080779,
+        85838273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31cWUXtpdhMSgw6nyVMY2t_44.097786_-72.623485@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312798,
+    "wof:geomhash":"f532a5b4affcf0ba20329db5b222ea81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080779,
+            "locality_id":101728351,
+            "neighbourhood_id":85838273,
+            "region_id":85688763,
+            "venue_id":874195369
+        }
+    ],
+    "wof:id":874195369,
+    "wof:lastmodified":1464312798,
+    "wof:name":"Mountain Deer Taxidermy",
+    "wof:parent_id":85838273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -72.623485,
+    44.097786,
+    -72.623485,
+    44.097786
+],
+  "geometry": {"coordinates":[-72.623485,44.097786],"type":"Point"}
+}

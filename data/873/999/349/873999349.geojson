@@ -1,0 +1,71 @@
+{
+  "id": 873999349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.091141,43.961177,-73.091141,43.961177",
+    "geom:latitude":43.961177,
+    "geom:longitude":-73.091141,
+    "iso:country":"US",
+    "sg:address":"6 Lower Plains Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 388 4529",
+    "sg:postcode":"05740",
+    "sg:province":"VT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85818967,
+        102080765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x7cE7XgA61uQlRCCMCmYx_43.961177_-73.091141@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464310756,
+    "wof:geomhash":"ea0f4a085ce1108724697a1acc5f10aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080765,
+            "neighbourhood_id":85818967,
+            "region_id":85688763,
+            "venue_id":873999349
+        }
+    ],
+    "wof:id":873999349,
+    "wof:lastmodified":1464310756,
+    "wof:name":"Tom Bodette Landscaping & Lawn",
+    "wof:parent_id":85818967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.091141,
+    43.961177,
+    -73.091141,
+    43.961177
+],
+  "geometry": {"coordinates":[-73.09114099999999,43.961177],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874186153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.694061,44.458011,-72.694061,44.458011",
+    "geom:latitude":44.458011,
+    "geom:longitude":-72.694061,
+    "iso:country":"US",
+    "sg:address":"692 S Main St",
+    "sg:city":"Stowe",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 802 253 7787",
+    "sg:postcode":"05672",
+    "sg:province":"VT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688763,
+        85633793,
+        85855237,
+        102080785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DT9mQps3mL92YFbWl2bB8_44.458011_-72.694061@1294252573"
+    },
+    "wof:country":"US",
+    "wof:created":1464312701,
+    "wof:geomhash":"b2a6e6cffb772fe5a6efe0e5f3747e0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080785,
+            "neighbourhood_id":85855237,
+            "region_id":85688763,
+            "venue_id":874186153
+        }
+    ],
+    "wof:id":874186153,
+    "wof:lastmodified":1464312701,
+    "wof:name":"Auberge De Stowe",
+    "wof:parent_id":85855237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -72.694061,
+    44.458011,
+    -72.694061,
+    44.458011
+],
+  "geometry": {"coordinates":[-72.694061,44.458011],"type":"Point"}
+}
