@@ -2,13 +2,14 @@
   "id": 320547497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.467173,44.04729,-73.467173,44.04729",
     "geom:latitude":44.04729,
     "geom:longitude":-73.467173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Broad St",
     "sg:city":"Port Henry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320547497,
-    "wof:lastmodified":1449011625,
+    "wof:lastmodified":1467088748,
     "wof:name":"Adirondack Mouse House Ceramic",
     "wof:parent_id":85857981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ceramic"
     ]
 },
-  "bbox": [-73.467173,44.04729,-73.467173,44.04729],
+  "bbox": [
+    -73.467173,
+    44.04729,
+    -73.467173,
+    44.04729
+],
   "geometry": {"coordinates":[-73.467173,44.04729],"type":"Point"}
 }

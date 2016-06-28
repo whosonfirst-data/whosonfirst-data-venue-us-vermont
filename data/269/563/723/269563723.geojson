@@ -2,13 +2,14 @@
   "id": 269563723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.511106,44.075217,-73.511106,44.075217",
     "geom:latitude":44.075217,
     "geom:longitude":-73.511106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Plank Rd",
     "sg:city":"Mineville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269563723,
-    "wof:lastmodified":1449036184,
+    "wof:lastmodified":1467088748,
     "wof:name":"General Composites Inc",
     "wof:parent_id":85857981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "store"
     ]
 },
-  "bbox": [-73.511106,44.075217,-73.511106,44.075217],
+  "bbox": [
+    -73.511106,
+    44.075217,
+    -73.511106,
+    44.075217
+],
   "geometry": {"coordinates":[-73.511106,44.075217],"type":"Point"}
 }

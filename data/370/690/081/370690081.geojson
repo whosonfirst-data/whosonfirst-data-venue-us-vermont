@@ -2,13 +2,14 @@
   "id": 370690081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.461141,43.883868,-73.461141,43.883868",
     "geom:latitude":43.883868,
     "geom:longitude":-73.461141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Warner Hill Rd",
     "sg:city":"Ticonderoga",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370690081,
-    "wof:lastmodified":1449030866,
+    "wof:lastmodified":1467088748,
     "wof:name":"Robert L Fuller",
     "wof:parent_id":85868815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.461141,43.883868,-73.461141,43.883868],
+  "bbox": [
+    -73.461141,
+    43.883868,
+    -73.461141,
+    43.883868
+],
   "geometry": {"coordinates":[-73.461141,43.883868],"type":"Point"}
 }

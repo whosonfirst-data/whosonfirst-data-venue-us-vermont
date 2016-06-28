@@ -2,13 +2,14 @@
   "id": 370690689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.463168,43.883862,-73.463168,43.883862",
     "geom:latitude":43.883862,
     "geom:longitude":-73.463168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Warner Hill Rd",
     "sg:city":"Ticonderoga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370690689,
-    "wof:lastmodified":1449030867,
+    "wof:lastmodified":1467088748,
     "wof:name":"Swift Maintenance",
     "wof:parent_id":85868815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.463168,43.883862,-73.463168,43.883862],
+  "bbox": [
+    -73.463168,
+    43.883862,
+    -73.463168,
+    43.883862
+],
   "geometry": {"coordinates":[-73.463168,43.883862],"type":"Point"}
 }

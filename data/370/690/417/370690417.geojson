@@ -2,13 +2,14 @@
   "id": 370690417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.465074,43.883763,-73.465074,43.883763",
     "geom:latitude":43.883763,
     "geom:longitude":-73.465074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Warner Hill Rd",
     "sg:city":"Ticonderoga",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370690417,
-    "wof:lastmodified":1449030867,
+    "wof:lastmodified":1467088748,
     "wof:name":"F A Nadeau Contractor",
     "wof:parent_id":85868815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.465074,43.883763,-73.465074,43.883763],
+  "bbox": [
+    -73.465074,
+    43.883763,
+    -73.465074,
+    43.883763
+],
   "geometry": {"coordinates":[-73.465074,43.883763],"type":"Point"}
 }

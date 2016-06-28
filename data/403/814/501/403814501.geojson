@@ -2,13 +2,14 @@
   "id": 403814501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.459538,44.042314,-73.459538,44.042314",
     "geom:latitude":44.042314,
     "geom:longitude":-73.459538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Park Pl",
     "sg:city":"Port Henry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403814501,
-    "wof:lastmodified":1449054878,
+    "wof:lastmodified":1467088748,
     "wof:name":"Moriah Assessors",
     "wof:parent_id":85857981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-73.459538,44.042314,-73.459538,44.042314],
-  "geometry": {"coordinates":[-73.459538,44.042314],"type":"Point"}
+  "bbox": [
+    -73.459538,
+    44.042314,
+    -73.459538,
+    44.042314
+],
+  "geometry": {"coordinates":[-73.45953799999999,44.042314],"type":"Point"}
 }
