@@ -2,14 +2,20 @@
   "id": 874255209,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Walker Ave Apt 18 Vergennes VT 05491",
+    "addr:housenumber":"13;18",
+    "addr:postcode":"05491",
+    "addr:street":"Walker Ave Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.24688,44.170151,-73.24688,44.170151",
     "geom:latitude":44.170151,
     "geom:longitude":-73.24688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13 Walker Ave Apt 18",
     "sg:city":"Vergennes",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85817263,
         102080765
     ],
+    "wof:brand_id":1125157531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e80OFjE7Ky4IFzzvi9w4a_44.170151_-73.246880@1303262242"
     },
     "wof:country":"US",
     "wof:created":1464313680,
-    "wof:geomhash":"0544cc48418d1aeb204134dda06b7531",
+    "wof:geomhash":"ad9840ff30a297929566df06766985f8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874255209,
-    "wof:lastmodified":1467088861,
+    "wof:lastmodified":1510695841,
     "wof:name":"Valley View Apartments",
     "wof:parent_id":85817263,
     "wof:placetype":"venue",

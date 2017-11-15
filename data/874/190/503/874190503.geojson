@@ -2,14 +2,20 @@
   "id": 874190503,
   "type": "Feature",
   "properties": {
+    "addr:full":"74 S Park Dr Colchester VT 05446",
+    "addr:housenumber":"74",
+    "addr:postcode":"05446",
+    "addr:street":"S Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.178098,44.503709,-73.178098,44.503709",
     "geom:latitude":44.503709,
     "geom:longitude":-73.178098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"74 S Park Dr",
     "sg:city":"Colchester",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85848449,
         102087451
     ],
+    "wof:brand_id":420574233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OkhpcP39T2qTIxrEUxHHv_44.503709_-73.178098@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312745,
-    "wof:geomhash":"7162166c23d7345594eeb7fc389c8708",
+    "wof:geomhash":"358f0f0528bdae0522c3e20d0cc1afb2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874190503,
-    "wof:lastmodified":1467088827,
+    "wof:lastmodified":1510603985,
     "wof:name":"Motel 6",
     "wof:parent_id":85848449,
     "wof:placetype":"venue",

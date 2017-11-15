@@ -2,14 +2,20 @@
   "id": 874063499,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Temple St Rutland VT 05701",
+    "addr:housenumber":"25",
+    "addr:postcode":"05701",
+    "addr:street":"Temple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.971484,43.613903,-72.971484,43.613903",
     "geom:latitude":43.613903,
     "geom:longitude":-72.971484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"25 Temple St",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":1125156217,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3teKaElglrtBoBSIrQv2ou_43.613903_-72.971484@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311366,
-    "wof:geomhash":"cc6a093d0a256db984cae7c19c7f81b0",
+    "wof:geomhash":"6bcba4f165ef3c25f5a593ba43b5f3f1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874063499,
-    "wof:lastmodified":1467088777,
+    "wof:lastmodified":1510699588,
     "wof:name":"Computer Guy",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

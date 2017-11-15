@@ -2,6 +2,10 @@
   "id": 874123141,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 S Main St Rutland VT 05701",
+    "addr:housenumber":"212",
+    "addr:postcode":"05701",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874123141,
-    "wof:lastmodified":1467088800,
+    "wof:lastmodified":1472652430,
     "wof:name":"Cumberland Farms",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874161025,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 US Hwy 4 Rutland VT 05701",
+    "addr:housenumber":"51",
+    "addr:postcode":"05701",
+    "addr:street":"Us Hwy 4",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.971585,43.604523,-72.971585,43.604523",
     "geom:latitude":43.604523,
     "geom:longitude":-72.971585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"51 US Hwy 4",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":420574585,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gMO5gYfBhxc82lqpUH0fv_43.604523_-72.971585@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312442,
-    "wof:geomhash":"8b355549b6d2ca6ce4740cc8d6f66b75",
+    "wof:geomhash":"21b9bb183412846a154c65d21e6829c6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874161025,
-    "wof:lastmodified":1467088815,
+    "wof:lastmodified":1510604841,
     "wof:name":"Econo Lodge",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874170205,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Sharon Dr Rutland VT 05701",
+    "addr:housenumber":"3",
+    "addr:postcode":"05701",
+    "addr:street":"Sharon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.952875,43.613071,-72.952875,43.613071",
     "geom:latitude":43.613071,
     "geom:longitude":-72.952875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 Sharon Dr",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":1125158773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uyf95Vsu9JFXNJorw2Snd_43.613071_-72.952875@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312529,
-    "wof:geomhash":"6cfc74c11a18b4291ee1c92d405bbb5e",
+    "wof:geomhash":"4de1a9a17196fb1efcd870415dce4b3c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874170205,
-    "wof:lastmodified":1467088819,
+    "wof:lastmodified":1510697491,
     "wof:name":"First Baptist Church Parsonage",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

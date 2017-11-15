@@ -2,14 +2,20 @@
   "id": 874233985,
   "type": "Feature",
   "properties": {
+    "addr:full":"84 Exchange St Middlebury VT 05753",
+    "addr:housenumber":"84",
+    "addr:postcode":"05753",
+    "addr:street":"Exchange St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.170837,44.027973,-73.170837,44.027973",
     "geom:latitude":44.027973,
     "geom:longitude":-73.170837,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"84 Exchange St",
     "sg:city":"Middlebury",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102080765,
         85805367
     ],
+    "wof:brand_id":1125152749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EeNLZOZo3WuhYbgYYBIjB_44.027973_-73.170837@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313221,
-    "wof:geomhash":"45fbc6de5390f551554100cc1f5f0242",
+    "wof:geomhash":"81785fc09b930fd95f50cabbc1ee9d4b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874233985,
-    "wof:lastmodified":1467088845,
+    "wof:lastmodified":1510613105,
     "wof:name":"Vocational Rehabilitation Div",
     "wof:parent_id":85805367,
     "wof:placetype":"venue",

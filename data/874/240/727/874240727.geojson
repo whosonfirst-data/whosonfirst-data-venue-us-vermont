@@ -2,14 +2,20 @@
   "id": 874240727,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Allen St Rutland VT 05701",
+    "addr:housenumber":"21",
+    "addr:postcode":"05701",
+    "addr:street":"Allen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.968843,43.596193,-72.968843,43.596193",
     "geom:latitude":43.596193,
     "geom:longitude":-72.968843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21 Allen St",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":1125151219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kiFx4KhmxFPyieICFvfKf_43.596193_-72.968843@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313353,
-    "wof:geomhash":"696cf50b7390a08a2f402413752a68dd",
+    "wof:geomhash":"646e72baa7ff8a83aec6dc4d13d6d458",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874240727,
-    "wof:lastmodified":1467088850,
+    "wof:lastmodified":1510697575,
     "wof:name":"Graybar Electric Co",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874061693,
   "type": "Feature",
   "properties": {
+    "addr:full":"340 Ave D Williston VT 05495",
+    "addr:housenumber":"340",
+    "addr:postcode":"05495",
+    "addr:street":"Ave D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.123793,44.465745,-73.123793,44.465745",
     "geom:latitude":44.465745,
     "geom:longitude":-73.123793,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"340 Ave D",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087451,
         85688763
     ],
+    "wof:brand_id":1125156821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QbSHOfYsNgLwev0X8qrD7_44.465745_-73.123793@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311350,
-    "wof:geomhash":"940957dea310501f3da7cbfa0cb57e74",
+    "wof:geomhash":"9682a0540f6712289e5b3240a46a1c6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874061693,
-    "wof:lastmodified":1467088776,
+    "wof:lastmodified":1510613405,
     "wof:name":"R E Michel Co",
     "wof:parent_id":85828531,
     "wof:placetype":"venue",

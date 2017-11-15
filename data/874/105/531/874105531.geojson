@@ -2,6 +2,10 @@
   "id": 874105531,
   "type": "Feature",
   "properties": {
+    "addr:full":"585 Pine St Burlington VT 05401",
+    "addr:housenumber":"585",
+    "addr:postcode":"05401",
+    "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874105531,
-    "wof:lastmodified":1467088793,
+    "wof:lastmodified":1472652432,
     "wof:name":"Burlington Electric Dept",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

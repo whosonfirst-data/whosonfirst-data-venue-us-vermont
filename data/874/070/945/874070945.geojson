@@ -2,14 +2,20 @@
   "id": 874070945,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 Northside Dr Bennington VT 05201",
+    "addr:housenumber":"210",
+    "addr:postcode":"05201",
+    "addr:street":"Northside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.209092,42.898951,-73.209092,42.898951",
     "geom:latitude":42.898951,
     "geom:longitude":-73.209092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 Northside Dr",
     "sg:city":"Bennington",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85868797,
         102087439
     ],
+    "wof:brand_id":1125153713,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mDpborgvYperVtG9Lpx8E_42.898951_-73.209092@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311443,
-    "wof:geomhash":"6822a8850da9f3c10b5fcc46542c642b",
+    "wof:geomhash":"5170cb12a72bd9e01be531a190c40fbd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874070945,
-    "wof:lastmodified":1467088780,
+    "wof:lastmodified":1510694614,
     "wof:name":"Rentway",
     "wof:parent_id":85868797,
     "wof:placetype":"venue",

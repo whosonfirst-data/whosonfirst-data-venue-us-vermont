@@ -2,14 +2,20 @@
   "id": 874179417,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Woodstock Ave Rutland VT 05701",
+    "addr:housenumber":"34",
+    "addr:postcode":"05701",
+    "addr:street":"Woodstock Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.968976,43.611462,-72.968976,43.611462",
     "geom:latitude":43.611462,
     "geom:longitude":-72.968976,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34 Woodstock Ave",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":1125151487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QWX4CHA9l4ctHPlEVncpK_43.611462_-72.968976@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312624,
-    "wof:geomhash":"e1105f069315c5231c293f24dc306a67",
+    "wof:geomhash":"0e3ab7e82bbc7a76817edd3b843c5e3b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874179417,
-    "wof:lastmodified":1467088822,
+    "wof:lastmodified":1510696694,
     "wof:name":"Short Stop",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

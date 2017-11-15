@@ -2,14 +2,20 @@
   "id": 874089409,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Market Pl Essex Junction VT 05452",
+    "addr:housenumber":"1",
+    "addr:postcode":"05452",
+    "addr:street":"Market Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.133698,44.507875,-73.133698,44.507875",
     "geom:latitude":44.507875,
     "geom:longitude":-73.133698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Market Pl",
     "sg:city":"Essex Junction",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85840199,
         102087451
     ],
+    "wof:brand_id":420575537,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xNHlTFPVvZal6H2pJajzi_44.507875_-73.133698@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311655,
-    "wof:geomhash":"bbdff3ab6ffa79b4e86bcfb783b4194d",
+    "wof:geomhash":"431392250cb556e9673cc0bf64488f6e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874089409,
-    "wof:lastmodified":1467088787,
+    "wof:lastmodified":1510602959,
     "wof:name":"Hair Masters",
     "wof:parent_id":85840199,
     "wof:placetype":"venue",

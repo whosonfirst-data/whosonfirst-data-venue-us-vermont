@@ -2,14 +2,20 @@
   "id": 874014879,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Jericho Rd Essex Junction VT 05452",
+    "addr:housenumber":"7",
+    "addr:postcode":"05452",
+    "addr:street":"Jericho Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.05841,44.511151,-73.05841,44.511151",
     "geom:latitude":44.511151,
     "geom:longitude":-73.05841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7 Jericho Rd",
     "sg:city":"Essex Junction",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85808675,
         102087451
     ],
+    "wof:brand_id":1125152387,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y20uSU6huugirk3cS3OWs_44.511151_-73.058410@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310890,
-    "wof:geomhash":"192b1042e99cfc2dcb8cf8f1d6973b63",
+    "wof:geomhash":"9a8833fbcb5d8b036026d0d4c392166d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874014879,
-    "wof:lastmodified":1467088758,
+    "wof:lastmodified":1510699983,
     "wof:name":"All About Hair",
     "wof:parent_id":85808675,
     "wof:placetype":"venue",

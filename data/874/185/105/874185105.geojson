@@ -2,14 +2,20 @@
   "id": 874185105,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 S Main St Stowe VT 05672",
+    "addr:housenumber":"39",
+    "addr:postcode":"05672",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.688095,44.465242,-72.688095,44.465242",
     "geom:latitude":44.465242,
     "geom:longitude":-72.688095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"39 S Main St",
     "sg:city":"Stowe",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85855237,
         102080785
     ],
+    "wof:brand_id":1125151877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zXxg04v6swyBJbKR61AOb_44.465242_-72.688095@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312692,
-    "wof:geomhash":"30a1f799b556020a04d06780bc7a34e4",
+    "wof:geomhash":"7718333feaf993d063e297a0f7fb684e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874185105,
-    "wof:lastmodified":1467088825,
+    "wof:lastmodified":1510698676,
     "wof:name":"Banknorth",
     "wof:parent_id":85855237,
     "wof:placetype":"venue",

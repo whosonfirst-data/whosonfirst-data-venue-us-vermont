@@ -2,14 +2,20 @@
   "id": 874117455,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 Paine Tpke N Berlin VT 05602",
+    "addr:housenumber":"160",
+    "addr:postcode":"05602",
+    "addr:street":"Paine Tpke N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.574424,44.213769,-72.574424,44.213769",
     "geom:latitude":44.213769,
     "geom:longitude":-72.574424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"160 Paine Tpke N",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102080779,
         85868269
     ],
+    "wof:brand_id":1125152455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6K0OpszH8QJ6IWTNGyA2Nr_44.213769_-72.574424@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312010,
-    "wof:geomhash":"0317bcd4be9b79836a8573d6ba7002ec",
+    "wof:geomhash":"41042d7301937ee6584247413af394db",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874117455,
-    "wof:lastmodified":1467088798,
+    "wof:lastmodified":1510695961,
     "wof:name":"Catalina Marketing Corp",
     "wof:parent_id":85868269,
     "wof:placetype":"venue",

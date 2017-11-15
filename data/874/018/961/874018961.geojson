@@ -2,14 +2,20 @@
   "id": 874018961,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Airport Dr South Burlington VT 05403",
+    "addr:housenumber":"1200",
+    "addr:postcode":"05403",
+    "addr:street":"Airport Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.158955,44.473124,-73.158955,44.473124",
     "geom:latitude":44.473124,
     "geom:longitude":-73.158955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 Airport Dr",
     "sg:city":"South Burlington",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087451,
         85688763
     ],
+    "wof:brand_id":1125157919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e5ZDKhiuXnAuGQTReR10K_44.473124_-73.158955@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310937,
-    "wof:geomhash":"7ca8ddb8140f2a8a9e088fc6e89075d2",
+    "wof:geomhash":"90132a7e83681953fb82cc01582b1818",
     "wof:hierarchy":[
         {
             "campus_id":102532853,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":874018961,
-    "wof:lastmodified":1467088759,
+    "wof:lastmodified":1510697542,
     "wof:name":"National Weather Svc",
     "wof:parent_id":102532853,
     "wof:placetype":"venue",

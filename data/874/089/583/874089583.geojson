@@ -2,14 +2,20 @@
   "id": 874089583,
   "type": "Feature",
   "properties": {
+    "addr:full":"96 Main St Chester VT 05143",
+    "addr:housenumber":"96",
+    "addr:postcode":"05143",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.596126,43.263489,-72.596126,43.263489",
     "geom:latitude":43.263489,
     "geom:longitude":-72.596126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"96 Main St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85837489,
         102080777
     ],
+    "wof:brand_id":1125151237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AGV3H5ql8y9I885yw6hXP_43.263489_-72.596126@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311656,
-    "wof:geomhash":"70ef447ab1bd0cc7f585699ff4ea6ff3",
+    "wof:geomhash":"d3d93bd6a57cc2978ac503171232c5f1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874089583,
-    "wof:lastmodified":1467088787,
+    "wof:lastmodified":1510694068,
     "wof:name":"St Joseph's Church",
     "wof:parent_id":85837489,
     "wof:placetype":"venue",

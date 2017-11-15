@@ -2,14 +2,20 @@
   "id": 874160401,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 S Winooski Ave Burlington VT 05401",
+    "addr:housenumber":"16",
+    "addr:postcode":"05401",
+    "addr:street":"S Winooski Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.211113,44.480365,-73.211113,44.480365",
     "geom:latitude":44.480365,
     "geom:longitude":-73.211113,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16 S Winooski Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":1125153717,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fdj62qEr3FamYEp8mPSk0_44.480365_-73.211113@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312436,
-    "wof:geomhash":"37667af4e946400114b52eae01cc2162",
+    "wof:geomhash":"62d9ec43dc553703e7b50b8c136b852d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874160401,
-    "wof:lastmodified":1467088815,
+    "wof:lastmodified":1510694613,
     "wof:name":"Ronald Mc Donald House",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

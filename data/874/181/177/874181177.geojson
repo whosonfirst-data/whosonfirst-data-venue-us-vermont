@@ -2,14 +2,20 @@
   "id": 874181177,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 I- Corporate Center Williston VT 05495",
+    "addr:housenumber":"300 i",
+    "addr:postcode":"05495",
+    "addr:street":"Corporate",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.112429,44.449036,-73.112429,44.449036",
     "geom:latitude":44.449036,
     "geom:longitude":-73.112429,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 I- Corporate Center",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85868817,
         102087451
     ],
+    "wof:brand_id":1125151311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LudYCbGnBx7ch9oSlBvjc_44.449036_-73.112429@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312642,
-    "wof:geomhash":"a20db12b017df9f29b0a5604380ed9d7",
+    "wof:geomhash":"e5768316e946d4f14774083302a379e9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874181177,
-    "wof:lastmodified":1467088823,
+    "wof:lastmodified":1510696944,
     "wof:name":"Keybank",
     "wof:parent_id":85868817,
     "wof:placetype":"venue",

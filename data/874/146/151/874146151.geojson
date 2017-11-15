@@ -2,14 +2,20 @@
   "id": 874146151,
   "type": "Feature",
   "properties": {
+    "addr:full":"152 Maple St Middlebury VT 05753",
+    "addr:housenumber":"152",
+    "addr:postcode":"05753",
+    "addr:street":"Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.16883,44.014915,-73.16883,44.014915",
     "geom:latitude":44.014915,
     "geom:longitude":-73.16883,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"152 Maple St",
     "sg:city":"Middlebury",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102080765,
         85805367
     ],
+    "wof:brand_id":1125152131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tEGmbzfjdgjUnFXh0rtDL_44.014915_-73.168830@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312295,
-    "wof:geomhash":"5714a69ef88df23dec3af91025afed68",
+    "wof:geomhash":"8769b3e9b0493addc6f2f28f61ea4e76",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874146151,
-    "wof:lastmodified":1467088809,
+    "wof:lastmodified":1510695269,
     "wof:name":"CTX Mortgage Co",
     "wof:parent_id":85805367,
     "wof:placetype":"venue",

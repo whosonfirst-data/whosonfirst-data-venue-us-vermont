@@ -2,6 +2,10 @@
   "id": 874104745,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Moulton Ave North Clarendon VT 05759",
+    "addr:housenumber":"111",
+    "addr:postcode":"05759",
+    "addr:street":"Moulton Ave North",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874104745,
-    "wof:lastmodified":1467088793,
+    "wof:lastmodified":1472652436,
     "wof:name":"Clarendon Grange Community Ctr",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

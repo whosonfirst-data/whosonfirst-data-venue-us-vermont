@@ -2,6 +2,10 @@
   "id": 874110461,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 Manhattan Dr Burlington VT 05401",
+    "addr:housenumber":"303",
+    "addr:postcode":"05401",
+    "addr:street":"Manhattan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874110461,
-    "wof:lastmodified":1467088795,
+    "wof:lastmodified":1472652436,
     "wof:name":"North End Maintenance",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

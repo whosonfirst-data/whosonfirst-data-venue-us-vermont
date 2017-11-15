@@ -2,14 +2,20 @@
   "id": 337420911,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Co Hwy 6 Lake Placid NY 12998",
+    "addr:housenumber":"45",
+    "addr:postcode":"12998",
+    "addr:street":"Co Hwy 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.535733,44.088068,-73.535733,44.088068",
     "geom:latitude":44.088068,
     "geom:longitude":-73.535733,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"45 Co Hwy 6",
     "sg:city":"Lake Placid",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102080765,
         85857981
     ],
+    "wof:brand_id":1125159107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dzpBa4gLFauXVI0fCGUed_44.088068_-73.535733@1294177022"
     },
     "wof:country":"US",
-    "wof:geomhash":"d53033f91e3dac49f6ef7e4f4027f384",
+    "wof:geomhash":"0cef235beda548d1048188ec813a9a0c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":337420911,
-    "wof:lastmodified":1467088748,
+    "wof:lastmodified":1510613415,
     "wof:name":"Tops Friendly Market",
     "wof:parent_id":85857981,
     "wof:placetype":"venue",

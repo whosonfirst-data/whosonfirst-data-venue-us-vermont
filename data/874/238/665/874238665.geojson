@@ -2,14 +2,20 @@
   "id": 874238665,
   "type": "Feature",
   "properties": {
+    "addr:full":"799 Bay St St Johnsbury VT 05819",
+    "addr:housenumber":"799",
+    "addr:postcode":"05819",
+    "addr:street":"Bay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.017558,44.411896,-72.017558,44.411896",
     "geom:latitude":44.411896,
     "geom:longitude":-72.017558,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"799 Bay St",
     "sg:city":"St Johnsbury",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85817645,
         102080755
     ],
+    "wof:brand_id":1125154633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NVpyuLRkM4oirkOwizZ4G_44.411896_-72.017558@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313315,
-    "wof:geomhash":"23e8163262eed2de69cf1667638a9067",
+    "wof:geomhash":"6a91124b426d29e52e7e467038818d8d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874238665,
-    "wof:lastmodified":1467088848,
+    "wof:lastmodified":1510697731,
     "wof:name":"Earth Tech Inc",
     "wof:parent_id":85817645,
     "wof:placetype":"venue",

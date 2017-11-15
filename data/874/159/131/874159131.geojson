@@ -2,14 +2,20 @@
   "id": 874159131,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Karen Dr South Burlington VT 05403",
+    "addr:housenumber":"2",
+    "addr:postcode":"05403",
+    "addr:street":"Karen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.209144,44.421517,-73.209144,44.421517",
     "geom:latitude":44.421517,
     "geom:longitude":-73.209144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Karen Dr",
     "sg:city":"South Burlington",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":1125150285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BQsTXdmLmNQmcM6DRg0qj_44.421517_-73.209144@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312423,
-    "wof:geomhash":"a8df68738d2bc907e8323cc7050b8f56",
+    "wof:geomhash":"2f3cb9e2a323a2183659e0dbfe379b00",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874159131,
-    "wof:lastmodified":1467088814,
+    "wof:lastmodified":1510695359,
     "wof:name":"Orkin Exterminating Co",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874020089,
   "type": "Feature",
   "properties": {
+    "addr:full":"1003 Cowpath 40 Marlboro VT 05301",
+    "addr:housenumber":"1003;40",
+    "addr:postcode":"05301",
+    "addr:street":"Cowpath",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874020089,
-    "wof:lastmodified":1467088760,
+    "wof:lastmodified":1472652380,
     "wof:name":"Ames Hill Film & Video Product",
     "wof:parent_id":85803027,
     "wof:placetype":"venue",

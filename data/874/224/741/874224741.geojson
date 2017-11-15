@@ -2,14 +2,20 @@
   "id": 874224741,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 South Rd Marlboro VT 05301",
+    "addr:housenumber":"510",
+    "addr:postcode":"05301",
+    "addr:street":"South Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.725805,42.859609,-72.725805,42.859609",
     "geom:latitude":42.859609,
     "geom:longitude":-72.725805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"510 South Rd",
     "sg:city":"Marlboro",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85803027,
         102080773
     ],
+    "wof:brand_id":1125152499,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NTVPQcDiT3eOUpyctN9mt_42.859609_-72.725805@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313109,
-    "wof:geomhash":"d23e794d7a58777bf31e38cd97dc43dc",
+    "wof:geomhash":"2b0105d9b70a33d83c60731b9a25dcfc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874224741,
-    "wof:lastmodified":1467088841,
+    "wof:lastmodified":1510613143,
     "wof:name":"Town Clerk",
     "wof:parent_id":85803027,
     "wof:placetype":"venue",

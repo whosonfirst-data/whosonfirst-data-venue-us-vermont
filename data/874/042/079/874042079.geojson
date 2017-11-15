@@ -2,14 +2,20 @@
   "id": 874042079,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 White St South Burlington VT 05403",
+    "addr:housenumber":"55",
+    "addr:postcode":"05403",
+    "addr:street":"White St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.173824,44.467477,-73.173824,44.467477",
     "geom:latitude":44.467477,
     "geom:longitude":-73.173824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"55 White St",
     "sg:city":"South Burlington",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":1125152249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XMj39SfDmIS8iU1XwnEna_44.467477_-73.173824@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311166,
-    "wof:geomhash":"bf82414d8b85c52e11c4a169b4bb5a93",
+    "wof:geomhash":"4ffa3696bc9e56800dbf5e73cda43ca2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874042079,
-    "wof:lastmodified":1467088768,
+    "wof:lastmodified":1510694096,
     "wof:name":"Xerox Corp",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

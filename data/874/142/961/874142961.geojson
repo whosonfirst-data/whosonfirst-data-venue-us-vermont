@@ -2,14 +2,20 @@
   "id": 874142961,
   "type": "Feature",
   "properties": {
+    "addr:full":"89 Merchants Row Rutland VT 05701",
+    "addr:housenumber":"89",
+    "addr:postcode":"05701",
+    "addr:street":"Merchants Row",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.978874,43.605438,-72.978874,43.605438",
     "geom:latitude":43.605438,
     "geom:longitude":-72.978874,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"89 Merchants Row",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":1125151877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09PD3U3q5DHXIsscykGWT7_43.605438_-72.978874@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312261,
-    "wof:geomhash":"36fa43b2cf15567c32d46927d75d842d",
+    "wof:geomhash":"d228e43936f41e73efeb8eb467c13e25",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":874142961,
-    "wof:lastmodified":1467088808,
+    "wof:lastmodified":1510698676,
     "wof:name":"Banknorth",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

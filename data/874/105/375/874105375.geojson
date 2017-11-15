@@ -2,14 +2,20 @@
   "id": 874105375,
   "type": "Feature",
   "properties": {
+    "addr:full":"427 Main St Enosburg Falls VT 05450",
+    "addr:housenumber":"427",
+    "addr:postcode":"05450",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.804354,44.908574,-72.804354,44.908574",
     "geom:latitude":44.908574,
     "geom:longitude":-72.804354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"427 Main St",
     "sg:city":"Enosburg Falls",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85855641,
         102080729
     ],
+    "wof:brand_id":1125151877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PCNlKl9k6kdPqueFenAog_44.908574_-72.804354@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311861,
-    "wof:geomhash":"2104930aabc1e6e8aad6b7eacdd3b992",
+    "wof:geomhash":"7ea24c0a6cc6617ac2708923d293d0e7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874105375,
-    "wof:lastmodified":1467088793,
+    "wof:lastmodified":1510698676,
     "wof:name":"Banknorth",
     "wof:parent_id":85855641,
     "wof:placetype":"venue",

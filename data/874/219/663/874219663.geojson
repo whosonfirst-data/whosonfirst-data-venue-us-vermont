@@ -2,14 +2,20 @@
   "id": 874219663,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Trader Ln Williston VT 05495",
+    "addr:housenumber":"21",
+    "addr:postcode":"05495",
+    "addr:street":"Trader Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.115496,44.444743,-73.115496,44.444743",
     "geom:latitude":44.444743,
     "geom:longitude":-73.115496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21 Trader Ln",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85868817,
         102087451
     ],
+    "wof:brand_id":420574675,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5J8Pjp0CcDRYQ2q1LlXm4L_44.444743_-73.115496@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313054,
-    "wof:geomhash":"2b96204e065a2081ed4b90a60b3a915a",
+    "wof:geomhash":"823dbd34ab42fa9b7a66441b9b429492",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874219663,
-    "wof:lastmodified":1467088839,
+    "wof:lastmodified":1510604079,
     "wof:name":"Petsmart",
     "wof:parent_id":85868817,
     "wof:placetype":"venue",

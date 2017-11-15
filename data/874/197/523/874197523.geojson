@@ -2,14 +2,20 @@
   "id": 874197523,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 Cascade St Essex Junction VT 05452",
+    "addr:housenumber":"36",
+    "addr:postcode":"05452",
+    "addr:street":"Cascade St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.121758,44.482105,-73.121758,44.482105",
     "geom:latitude":44.482105,
     "geom:longitude":-73.121758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"36 Cascade St",
     "sg:city":"Essex Junction",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087451,
         85688763
     ],
+    "wof:brand_id":1125155459,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52p0TTL9MrQSy1ylbimtyK_44.482105_-73.121758@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312821,
-    "wof:geomhash":"28f673c424d104fb8a6f4fe1034ce434",
+    "wof:geomhash":"7d9d1ba6d7a5304b10a76c2e2f21fd43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874197523,
-    "wof:lastmodified":1467088830,
+    "wof:lastmodified":1510697789,
     "wof:name":"Amway Products Distributors",
     "wof:parent_id":85828531,
     "wof:placetype":"venue",

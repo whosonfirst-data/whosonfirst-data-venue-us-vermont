@@ -2,14 +2,20 @@
   "id": 874183495,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 Colchester Ave Burlington VT 05401",
+    "addr:housenumber":"208",
+    "addr:postcode":"05401",
+    "addr:street":"Colchester Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.192118,44.482518,-73.192118,44.482518",
     "geom:latitude":44.482518,
     "geom:longitude":-73.192118,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"208 Colchester Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":1125158903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7e5AJyYjPYKFh2krwyud93_44.482518_-73.192118@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312671,
-    "wof:geomhash":"a0cb366c592b171bfc3e9d3166c054ff",
+    "wof:geomhash":"bd3722d66b2b36ab40a25550b4425a3c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":874183495,
-    "wof:lastmodified":1467088824,
+    "wof:lastmodified":1510696684,
     "wof:name":"AIG Valic",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874103577,
   "type": "Feature",
   "properties": {
+    "addr:full":"622 Main St Bennington VT 05201",
+    "addr:housenumber":"622",
+    "addr:postcode":"05201",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.189476,42.878323,-73.189476,42.878323",
     "geom:latitude":42.878323,
     "geom:longitude":-73.189476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"622 Main St",
     "sg:city":"Bennington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85868797,
         102087439
     ],
+    "wof:brand_id":1125151733,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NfGKRBp2w7f90UHYL0ec2_42.878323_-73.189476@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311839,
-    "wof:geomhash":"a5d47adb4074158d069da776cad576d0",
+    "wof:geomhash":"3fac18c6ceb9096cfff9718d11523a35",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874103577,
-    "wof:lastmodified":1467088792,
+    "wof:lastmodified":1510698807,
     "wof:name":"Head To Toe",
     "wof:parent_id":85868797,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874187207,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Kimball Ave South Burlington VT 05403",
+    "addr:housenumber":"30",
+    "addr:postcode":"05403",
+    "addr:street":"Kimball Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.154955,44.460155,-73.154955,44.460155",
     "geom:latitude":44.460155,
     "geom:longitude":-73.154955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30 Kimball Ave",
     "sg:city":"South Burlington",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087451,
         85688763
     ],
+    "wof:brand_id":1125159979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44kzEduDWOIOvgdGj1MGmk_44.460155_-73.154955@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312711,
-    "wof:geomhash":"b2c526bfaffd84d5de6d02122b477fe1",
+    "wof:geomhash":"0d98943031500693d8981bc8b5dae919",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874187207,
-    "wof:lastmodified":1467088825,
+    "wof:lastmodified":1510698870,
     "wof:name":"Pearson Professional Ctr",
     "wof:parent_id":85828531,
     "wof:placetype":"venue",

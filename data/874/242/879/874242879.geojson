@@ -2,6 +2,10 @@
   "id": 874242879,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Mountain View Blvd South Burlington VT 05403",
+    "addr:housenumber":"42",
+    "addr:postcode":"05403",
+    "addr:street":"Mountain View Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":874242879,
-    "wof:lastmodified":1467088852,
+    "wof:lastmodified":1472652516,
     "wof:name":"Hampton Inn & Conference Ctr",
     "wof:parent_id":85828531,
     "wof:placetype":"venue",

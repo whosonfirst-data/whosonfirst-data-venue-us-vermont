@@ -2,14 +2,20 @@
   "id": 874138889,
   "type": "Feature",
   "properties": {
+    "addr:full":"905 Killington Rd Killington VT 05751",
+    "addr:housenumber":"905",
+    "addr:postcode":"05751",
+    "addr:street":"Killington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.792206,43.658507,-72.792206,43.658507",
     "geom:latitude":43.658507,
     "geom:longitude":-72.792206,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"905 Killington Rd",
     "sg:city":"Killington",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85848249,
         102080771
     ],
+    "wof:brand_id":420574085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12tUKF80UkbooinQq0ZnP4_43.658507_-72.792206@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312225,
-    "wof:geomhash":"3a18e063875b95ca3b20967d46de1812",
+    "wof:geomhash":"60266d9f842cb44ef43e677526a2ae27",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":874138889,
-    "wof:lastmodified":1467088806,
+    "wof:lastmodified":1510604034,
     "wof:name":"Comfort Inn",
     "wof:parent_id":85848249,
     "wof:placetype":"venue",

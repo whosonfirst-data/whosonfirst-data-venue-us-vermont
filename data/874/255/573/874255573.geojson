@@ -2,6 +2,10 @@
   "id": 874255573,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 US Route 4 E US Rutland VT 05701",
+    "addr:housenumber":"303",
+    "addr:postcode":"05701",
+    "addr:street":"Us Route 4 E;Rutland",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":874255573,
-    "wof:lastmodified":1467088862,
+    "wof:lastmodified":1472652503,
     "wof:name":"Big Lots",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

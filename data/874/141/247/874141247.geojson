@@ -2,14 +2,20 @@
   "id": 874141247,
   "type": "Feature",
   "properties": {
+    "addr:full":"99 Bennington Sq Bennington VT 05201",
+    "addr:housenumber":"99",
+    "addr:postcode":"05201",
+    "addr:street":"Bennington Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.196487,42.893716,-73.196487,42.893716",
     "geom:latitude":42.893716,
     "geom:longitude":-73.196487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"99 Bennington Sq",
     "sg:city":"Bennington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85868797,
         102087439
     ],
+    "wof:brand_id":420574397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1M6aODUKQKC5MhpTccp6TH_42.893716_-73.196487@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312245,
-    "wof:geomhash":"2159007b556aed80587aced7e505d4c5",
+    "wof:geomhash":"7152ff90633fcbeb60d4647b6d4e78f8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874141247,
-    "wof:lastmodified":1467088807,
+    "wof:lastmodified":1510604581,
     "wof:name":"JC Penney",
     "wof:parent_id":85868797,
     "wof:placetype":"venue",

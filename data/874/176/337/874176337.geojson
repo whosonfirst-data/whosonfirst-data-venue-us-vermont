@@ -2,14 +2,20 @@
   "id": 874176337,
   "type": "Feature",
   "properties": {
+    "addr:full":"141 Hannaford Sq Bennington VT 05201",
+    "addr:housenumber":"141",
+    "addr:postcode":"05201",
+    "addr:street":"Hannaford Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.221925,42.907959,-73.221925,42.907959",
     "geom:latitude":42.907959,
     "geom:longitude":-73.221925,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"141 Hannaford Sq",
     "sg:city":"Bennington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85868797,
         102087439
     ],
+    "wof:brand_id":420574093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TWbHYjWwTUwhG8N2VX7tb_42.907959_-73.221925@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312590,
-    "wof:geomhash":"e5c4402d6793ad8e3a913ebbf81dacb6",
+    "wof:geomhash":"c80ef9b2faeea02ffe15332c968a703f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874176337,
-    "wof:lastmodified":1467088821,
+    "wof:lastmodified":1510604778,
     "wof:name":"Rite Aid Pharmacy",
     "wof:parent_id":85868797,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874212253,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Commerce Ave South Burlington VT 05403",
+    "addr:housenumber":"37",
+    "addr:postcode":"05403",
+    "addr:street":"Commerce Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.159759,44.482964,-73.159759,44.482964",
     "geom:latitude":44.482964,
     "geom:longitude":-73.159759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"37 Commerce Ave",
     "sg:city":"South Burlington",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087451,
         85688763
     ],
+    "wof:brand_id":1125150601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NglRFI0i7uwYMZ9Y6QGsX_44.482964_-73.159759@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312977,
-    "wof:geomhash":"9625f3086e846fcdfcb68e271269e675",
+    "wof:geomhash":"b3efc8ce14dd70ba341998bf9688cd80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874212253,
-    "wof:lastmodified":1467088836,
+    "wof:lastmodified":1510697771,
     "wof:name":"Apria Healthcare Inc",
     "wof:parent_id":85828531,
     "wof:placetype":"venue",

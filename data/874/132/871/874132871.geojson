@@ -2,14 +2,20 @@
   "id": 874132871,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Hurricane Ln Williston VT 05495",
+    "addr:housenumber":"35",
+    "addr:postcode":"05495",
+    "addr:street":"Hurricane Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.107343,44.436965,-73.107343,44.436965",
     "geom:latitude":44.436965,
     "geom:longitude":-73.107343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"35 Hurricane Ln",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85868817,
         102087451
     ],
+    "wof:brand_id":1125156827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pq3RWKo7XvpaPlUkDii1E_44.436965_-73.107343@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312172,
-    "wof:geomhash":"49f5ea3d8ddc2d89878a56d1a1df8aaa",
+    "wof:geomhash":"98271db0e4bedf209a334b39ec3546de",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874132871,
-    "wof:lastmodified":1467088804,
+    "wof:lastmodified":1510613403,
     "wof:name":"Residence Inn By Marriott",
     "wof:parent_id":85868817,
     "wof:placetype":"venue",

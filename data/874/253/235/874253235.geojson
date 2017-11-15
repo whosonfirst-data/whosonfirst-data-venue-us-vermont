@@ -2,6 +2,10 @@
   "id": 874253235,
   "type": "Feature",
   "properties": {
+    "addr:full":"78 Rose St Unit 10 Burlington VT 05401",
+    "addr:housenumber":"78;10",
+    "addr:postcode":"05401",
+    "addr:street":"Rose St Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":874253235,
-    "wof:lastmodified":1467088860,
+    "wof:lastmodified":1472652492,
     "wof:name":"Roof Top Pottery",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

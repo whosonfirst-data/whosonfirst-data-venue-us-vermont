@@ -2,6 +2,10 @@
   "id": 873999949,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 Mountain Rd Fairlee VT 05045",
+    "addr:housenumber":"456",
+    "addr:postcode":"05045",
+    "addr:street":"Mountain Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":873999949,
-    "wof:lastmodified":1467088753,
+    "wof:lastmodified":1472652388,
     "wof:name":"Site-By-Site Internet Solution",
     "wof:parent_id":85842625,
     "wof:placetype":"venue",

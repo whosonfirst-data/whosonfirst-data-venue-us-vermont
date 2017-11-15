@@ -2,6 +2,10 @@
   "id": 874255621,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Allen St Ste B1 Rutland VT 05701",
+    "addr:housenumber":"33",
+    "addr:postcode":"05701",
+    "addr:street":"Allen St Ste B1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874255621,
-    "wof:lastmodified":1467088862,
+    "wof:lastmodified":1472652504,
     "wof:name":"Phil's Taxi Svc",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

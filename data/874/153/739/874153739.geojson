@@ -2,14 +2,20 @@
   "id": 874153739,
   "type": "Feature",
   "properties": {
+    "addr:full":"766 Putney Rd Brattleboro VT 05301",
+    "addr:housenumber":"766",
+    "addr:postcode":"05301",
+    "addr:street":"Putney Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.558697,42.872159,-72.558697,42.872159",
     "geom:latitude":42.872159,
     "geom:longitude":-72.558697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"766 Putney Rd",
     "sg:city":"Brattleboro",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85857895,
         102080773
     ],
+    "wof:brand_id":1125153169,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FFhzDYvptPQswG37nTCEJ_42.872159_-72.558697@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312363,
-    "wof:geomhash":"935cad5f51cbf9eb93c41fa162b0484d",
+    "wof:geomhash":"8446172e7e1705330f4a077d5a9c35c7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874153739,
-    "wof:lastmodified":1467088812,
+    "wof:lastmodified":1510694657,
     "wof:name":"Olympia Sports",
     "wof:parent_id":85857895,
     "wof:placetype":"venue",

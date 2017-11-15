@@ -2,14 +2,20 @@
   "id": 873997421,
   "type": "Feature",
   "properties": {
+    "addr:full":"1191 S Brownell Rd Williston VT 05495",
+    "addr:housenumber":"1191",
+    "addr:postcode":"05495",
+    "addr:street":"S Brownell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.127451,44.447185,-73.127451,44.447185",
     "geom:latitude":44.447185,
     "geom:longitude":-73.127451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1191 S Brownell Rd",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85868817,
         102087451
     ],
+    "wof:brand_id":1125155407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Bp3HQYU0jszgJHtpfvlvG_44.447185_-73.127451@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310743,
-    "wof:geomhash":"dfeb56de6793fe6e81d981c0801a8d2a",
+    "wof:geomhash":"e0d644b91c5035130dee19dc8ae10653",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873997421,
-    "wof:lastmodified":1467088753,
+    "wof:lastmodified":1510695074,
     "wof:name":"New Horizons Computer Learning",
     "wof:parent_id":85868817,
     "wof:placetype":"venue",

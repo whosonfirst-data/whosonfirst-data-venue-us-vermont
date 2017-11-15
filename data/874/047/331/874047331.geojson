@@ -2,14 +2,20 @@
   "id": 874047331,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Fletcher Pl Burlington VT 05401",
+    "addr:housenumber":"50",
+    "addr:postcode":"05401",
+    "addr:street":"Fletcher Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.195639,44.481595,-73.195639,44.481595",
     "geom:latitude":44.481595,
     "geom:longitude":-73.195639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"50 Fletcher Pl",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eMXw6Qnoqa31U8jjifIqB_44.481595_-73.195639@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311218,
-    "wof:geomhash":"aaff0120e090ffdabe3e5acddadd4d72",
+    "wof:geomhash":"6566e7f7cb9a0c6ac585f663187c54c7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874047331,
-    "wof:lastmodified":1467088770,
+    "wof:lastmodified":1510694949,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

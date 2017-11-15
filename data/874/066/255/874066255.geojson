@@ -2,6 +2,10 @@
   "id": 874066255,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Elmwood Ave Burlington VT 05401",
+    "addr:housenumber":"222",
+    "addr:postcode":"05401",
+    "addr:street":"Elmwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":874066255,
-    "wof:lastmodified":1467088778,
+    "wof:lastmodified":1472652404,
     "wof:name":"Lennies",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

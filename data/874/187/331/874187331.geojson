@@ -2,14 +2,20 @@
   "id": 874187331,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Charles St Barre VT 05641",
+    "addr:housenumber":"2",
+    "addr:postcode":"05641",
+    "addr:street":"Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.492145,44.193335,-72.492145,44.193335",
     "geom:latitude":44.193335,
     "geom:longitude":-72.492145,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Charles St",
     "sg:city":"Barre",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102080779,
         85868269
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hxKcqencKw6djyf0QSbkQ_44.193335_-72.492145@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312712,
-    "wof:geomhash":"d1ce7d6578057a09bc315e64964e5109",
+    "wof:geomhash":"247611a80ae319b6f9525bd7b91fa827",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874187331,
-    "wof:lastmodified":1467088825,
+    "wof:lastmodified":1510694949,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":85868269,
     "wof:placetype":"venue",

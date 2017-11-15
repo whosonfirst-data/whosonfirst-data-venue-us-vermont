@@ -2,14 +2,20 @@
   "id": 874127195,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Fairview Dr Essex Junction VT 05452",
+    "addr:housenumber":"23",
+    "addr:postcode":"05452",
+    "addr:street":"Fairview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.096055,44.496106,-73.096055,44.496106",
     "geom:latitude":44.496106,
     "geom:longitude":-73.096055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"23 Fairview Dr",
     "sg:city":"Essex Junction",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85808675,
         102087451
     ],
+    "wof:brand_id":1125152183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GZ5tYaljoFiCqMUg8e9FX_44.496106_-73.096055@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312104,
-    "wof:geomhash":"f204749474f588dc4c3fa6a5c85e6bda",
+    "wof:geomhash":"21a3cad01ef8ef46df3a7cce0e3d7c79",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874127195,
-    "wof:lastmodified":1467088802,
+    "wof:lastmodified":1510693998,
     "wof:name":"Womens International Bowl",
     "wof:parent_id":85808675,
     "wof:placetype":"venue",

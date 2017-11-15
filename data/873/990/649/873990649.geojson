@@ -2,14 +2,20 @@
   "id": 873990649,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Monkton Rd Vergennes VT 05491",
+    "addr:housenumber":"37",
+    "addr:postcode":"05491",
+    "addr:street":"Monkton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.246339,44.171211,-73.246339,44.171211",
     "geom:latitude":44.171211,
     "geom:longitude":-73.246339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"37 Monkton Rd",
     "sg:city":"Vergennes",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85817263,
         102080765
     ],
+    "wof:brand_id":1125154013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oWK0Ed65PJvPTQXWMra1a_44.171211_-73.246339@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310694,
-    "wof:geomhash":"5975150ee4cf40d1d95ce7066b9cbf4b",
+    "wof:geomhash":"ae04436eeb5306c260af4437a3cbd112",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873990649,
-    "wof:lastmodified":1467088750,
+    "wof:lastmodified":1510695148,
     "wof:name":"US Army Dept",
     "wof:parent_id":85817263,
     "wof:placetype":"venue",

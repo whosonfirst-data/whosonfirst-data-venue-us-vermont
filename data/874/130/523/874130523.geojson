@@ -2,14 +2,20 @@
   "id": 874130523,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Dorset St South Burlington VT 05403",
+    "addr:housenumber":"1200",
+    "addr:postcode":"05403",
+    "addr:street":"Dorset St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.177647,44.44726,-73.177647,44.44726",
     "geom:latitude":44.44726,
     "geom:longitude":-73.177647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 Dorset St",
     "sg:city":"South Burlington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":420575289,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Dz7f92J2wQ6gmYwViGMkW_44.447260_-73.177647@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312143,
-    "wof:geomhash":"a40369e79376f32d570e1c6bc987c73d",
+    "wof:geomhash":"751e97f5672075dc9afdca84d715aed7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":874130523,
-    "wof:lastmodified":1467088803,
+    "wof:lastmodified":1510603007,
     "wof:name":"National Car Rental",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

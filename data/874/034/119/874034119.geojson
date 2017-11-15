@@ -2,14 +2,20 @@
   "id": 874034119,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Elmwood Dr Rutland VT 05701",
+    "addr:housenumber":"17",
+    "addr:postcode":"05701",
+    "addr:street":"Elmwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.949581,43.605655,-72.949581,43.605655",
     "geom:latitude":43.605655,
     "geom:longitude":-72.949581,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17 Elmwood Dr",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":420574813,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17CxZnwI58hJ6OBejY3c7H_43.605655_-72.949581@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311086,
-    "wof:geomhash":"888fb9eea7a96fd4fa9dceb1144cb09e",
+    "wof:geomhash":"0f90e1bd69e6ee860e969dc333d4371f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874034119,
-    "wof:lastmodified":1467088765,
+    "wof:lastmodified":1510604574,
     "wof:name":"Kiwanis International Inc",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

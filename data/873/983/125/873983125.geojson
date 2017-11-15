@@ -2,6 +2,10 @@
   "id": 873983125,
   "type": "Feature",
   "properties": {
+    "addr:full":"216 Main St Bennington VT 05201",
+    "addr:housenumber":"216",
+    "addr:postcode":"05201",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873983125,
-    "wof:lastmodified":1467088748,
+    "wof:lastmodified":1472652373,
     "wof:name":"Sunoco",
     "wof:parent_id":85868797,
     "wof:placetype":"venue",

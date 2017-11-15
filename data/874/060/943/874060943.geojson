@@ -2,14 +2,20 @@
   "id": 874060943,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Cherry St Burlington VT 05401",
+    "addr:housenumber":"110",
+    "addr:postcode":"05401",
+    "addr:street":"Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.213337,44.479352,-73.213337,44.479352",
     "geom:latitude":44.479352,
     "geom:longitude":-73.213337,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Cherry St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":1125157601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UuwI1g3GYvvBNMeH1zjKV_44.479352_-73.213337@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311343,
-    "wof:geomhash":"e86df705332f81dae36a8050751d9906",
+    "wof:geomhash":"34e2719a6f895b6a9b393e0c3149f2f3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874060943,
-    "wof:lastmodified":1467088776,
+    "wof:lastmodified":1510695443,
     "wof:name":"Federal Public Defender",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

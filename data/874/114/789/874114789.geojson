@@ -2,6 +2,10 @@
   "id": 874114789,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Ryan Rd Dummerston VT 05301",
+    "addr:housenumber":"123",
+    "addr:postcode":"05301",
+    "addr:street":"Ryan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874114789,
-    "wof:lastmodified":1467088797,
+    "wof:lastmodified":1472652449,
     "wof:name":"Brattleboro Design Assoc",
     "wof:parent_id":85857895,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874030399,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 S Barre Rd Barre VT 05641",
+    "addr:housenumber":"456",
+    "addr:postcode":"05641",
+    "addr:street":"S Barre Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874030399,
-    "wof:lastmodified":1467088764,
+    "wof:lastmodified":1472652388,
     "wof:name":"Hannaford Supermarkets",
     "wof:parent_id":85868269,
     "wof:placetype":"venue",

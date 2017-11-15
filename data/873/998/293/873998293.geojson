@@ -2,14 +2,20 @@
   "id": 873998293,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Court St Middlebury VT 05753",
+    "addr:housenumber":"40",
+    "addr:postcode":"05753",
+    "addr:street":"Court St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.163732,44.010907,-73.163732,44.010907",
     "geom:latitude":44.010907,
     "geom:longitude":-73.163732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"40 Court St",
     "sg:city":"Middlebury",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102080765,
         85805367
     ],
+    "wof:brand_id":1125156193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NsAb2KDtey4T5CQsZxKnt_44.010907_-73.163732@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310749,
-    "wof:geomhash":"6e096aaa3b8cf7c7d680006f5ba1f08b",
+    "wof:geomhash":"f62ab0e32f521dae94b01987051040c9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873998293,
-    "wof:lastmodified":1467088753,
+    "wof:lastmodified":1510694763,
     "wof:name":"Aubuchon Hardware",
     "wof:parent_id":85805367,
     "wof:placetype":"venue",

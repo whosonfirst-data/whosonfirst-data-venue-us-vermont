@@ -2,14 +2,20 @@
   "id": 874185551,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 West St Rutland VT 05701",
+    "addr:housenumber":"117",
+    "addr:postcode":"05701",
+    "addr:street":"West St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.98349,43.607597,-72.98349,43.607597",
     "geom:latitude":43.607597,
     "geom:longitude":-72.98349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"117 West St",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":1125152117,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rbpAZa5NairjptkoL9ul0_43.607597_-72.983490@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312696,
-    "wof:geomhash":"d5ac06ea89745f8441fde64696c73588",
+    "wof:geomhash":"81545c26d19fe685f45c8f70e083ae2e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874185551,
-    "wof:lastmodified":1467088825,
+    "wof:lastmodified":1510613196,
     "wof:name":"Unitarian Universalist Church",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

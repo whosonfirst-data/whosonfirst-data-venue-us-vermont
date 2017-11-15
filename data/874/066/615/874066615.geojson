@@ -2,14 +2,20 @@
   "id": 874066615,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Green Mountain Dr South Burlington VT 05403",
+    "addr:housenumber":"5",
+    "addr:postcode":"05403",
+    "addr:street":"Green Mountain Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.211338,44.428487,-73.211338,44.428487",
     "geom:latitude":44.428487,
     "geom:longitude":-73.211338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Green Mountain Dr",
     "sg:city":"South Burlington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":420575149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1srG9MXBaGbmNmHoSkXfHz_44.428487_-73.211338@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311394,
-    "wof:geomhash":"1ce8737bd06fc0d502744a12c013eca7",
+    "wof:geomhash":"432be1247b4a3190b7c52db7b3ab6d7d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874066615,
-    "wof:lastmodified":1467088778,
+    "wof:lastmodified":1510602944,
     "wof:name":"Meineke Car Care Ctr",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

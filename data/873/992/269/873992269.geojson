@@ -2,14 +2,20 @@
   "id": 873992269,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Field Ln Fairfax VT 05477",
+    "addr:housenumber":"12",
+    "addr:postcode":"05477",
+    "addr:street":"Field Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.010764,44.428306,-73.010764,44.428306",
     "geom:latitude":44.428306,
     "geom:longitude":-73.010764,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12 Field Ln",
     "sg:city":"Fairfax",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85819051,
         102087451
     ],
+    "wof:brand_id":1125155845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OO13yN5anpyTagN7Rmz6n_44.428306_-73.010764@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310707,
-    "wof:geomhash":"050d2110c3afb4962283e9fe6b88a735",
+    "wof:geomhash":"7a209b9962698e0af21616e42e60bc79",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873992269,
-    "wof:lastmodified":1467088751,
+    "wof:lastmodified":1510697485,
     "wof:name":"Snips",
     "wof:parent_id":85819051,
     "wof:placetype":"venue",

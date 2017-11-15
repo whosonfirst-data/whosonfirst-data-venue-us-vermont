@@ -2,14 +2,20 @@
   "id": 873984361,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 N Main St Barre VT 05641",
+    "addr:housenumber":"109",
+    "addr:postcode":"05641",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.501817,44.197759,-72.501817,44.197759",
     "geom:latitude":44.197759,
     "geom:longitude":-72.501817,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"109 N Main St",
     "sg:city":"Barre",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102080779,
         85868269
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ip6SKUlC4t8sAum4VbnlH_44.197759_-72.501817@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310645,
-    "wof:geomhash":"8c7bc43dc033136c7aee1a3edf5f1cf7",
+    "wof:geomhash":"ecd2e7a7b96b06380bdc7be7fd34a59f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873984361,
-    "wof:lastmodified":1467088748,
+    "wof:lastmodified":1510604738,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":85868269,
     "wof:placetype":"venue",

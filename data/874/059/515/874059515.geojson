@@ -2,6 +2,10 @@
   "id": 874059515,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Sadawga Lake Rd Whitingham VT 05361",
+    "addr:housenumber":"123",
+    "addr:postcode":"05361",
+    "addr:street":"Sadawga Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874059515,
-    "wof:lastmodified":1467088775,
+    "wof:lastmodified":1472652409,
     "wof:name":"Primerica Financial Svc",
     "wof:parent_id":85803027,
     "wof:placetype":"venue",

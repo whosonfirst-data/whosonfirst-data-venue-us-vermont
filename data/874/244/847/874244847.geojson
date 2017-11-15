@@ -2,14 +2,20 @@
   "id": 874244847,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Williston Rd Williston VT 05495",
+    "addr:housenumber":"205",
+    "addr:postcode":"05495",
+    "addr:street":"Williston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.112985,44.450568,-73.112985,44.450568",
     "geom:latitude":44.450568,
     "geom:longitude":-73.112985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"205 Williston Rd",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85868817,
         102087451
     ],
+    "wof:brand_id":1125151021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_560YnEHTf3YGImBo7b4yuk_44.450568_-73.112985@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313432,
-    "wof:geomhash":"10e8ff6f9ea852a50b6342f1332abd2f",
+    "wof:geomhash":"7b64a2e885a304b9de1a278668fe10cf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874244847,
-    "wof:lastmodified":1467088853,
+    "wof:lastmodified":1510699657,
     "wof:name":"Standard Register Company",
     "wof:parent_id":85868817,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874106743,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 W Allen St Winooski VT 05404",
+    "addr:housenumber":"35",
+    "addr:postcode":"05404",
+    "addr:street":"W Allen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.188629,44.49147,-73.188629,44.49147",
     "geom:latitude":44.49147,
     "geom:longitude":-73.188629,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"35 W Allen St",
     "sg:city":"Winooski",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85848449,
         102087451
     ],
+    "wof:brand_id":1125158395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RuWCVUIdNDsnYJXvqU7bX_44.491470_-73.188629@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311880,
-    "wof:geomhash":"185db8e6ea468df8525df4484b3f6e30",
+    "wof:geomhash":"54991d47f4ec7dc2a1d0c076e15803bf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874106743,
-    "wof:lastmodified":1467088793,
+    "wof:lastmodified":1510694744,
     "wof:name":"Showtime Video",
     "wof:parent_id":85848449,
     "wof:placetype":"venue",

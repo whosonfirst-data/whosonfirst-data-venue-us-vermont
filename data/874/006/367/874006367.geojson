@@ -2,14 +2,20 @@
   "id": 874006367,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 N Main St Randolph VT 05060",
+    "addr:housenumber":"22",
+    "addr:postcode":"05060",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.665484,43.924173,-72.665484,43.924173",
     "geom:latitude":43.924173,
     "geom:longitude":-72.665484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"22 N Main St",
     "sg:city":"Randolph",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087431,
         85688763
     ],
+    "wof:brand_id":1125153411,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lz0QGCOunJi3qTQgahY6r_43.924173_-72.665484@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310828,
-    "wof:geomhash":"a0a40bfdafaf4d731350731815a63521",
+    "wof:geomhash":"d3ddf46c970be6e7aef296d80c80a575",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874006367,
-    "wof:lastmodified":1467088756,
+    "wof:lastmodified":1510695030,
     "wof:name":"Natural Resource Conservation",
     "wof:parent_id":85805053,
     "wof:placetype":"venue",

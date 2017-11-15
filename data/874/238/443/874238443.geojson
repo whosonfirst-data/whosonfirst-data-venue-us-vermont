@@ -2,14 +2,20 @@
   "id": 874238443,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 Hungerford Ter Burlington VT 05401",
+    "addr:housenumber":"61",
+    "addr:postcode":"05401",
+    "addr:street":"Hungerford Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.207133,44.478972,-73.207133,44.478972",
     "geom:latitude":44.478972,
     "geom:longitude":-73.207133,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"61 Hungerford Ter",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":1125152963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yZy1VLXwfjS53SQeh3rdk_44.478972_-73.207133@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313310,
-    "wof:geomhash":"a21752cae02a349b0aaf226bafcdda7d",
+    "wof:geomhash":"460e32ddf828c7df238c6841aafabb43",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874238443,
-    "wof:lastmodified":1467088848,
+    "wof:lastmodified":1510612917,
     "wof:name":"New Life Assembly Of God",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874239925,
   "type": "Feature",
   "properties": {
+    "addr:full":"1114 US Hwy 4 Rutland VT 05701",
+    "addr:housenumber":"1114",
+    "addr:postcode":"05701",
+    "addr:street":"Us Hwy 4",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.937901,43.634476,-72.937901,43.634476",
     "geom:latitude":43.634476,
     "geom:longitude":-72.937901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1114 US Hwy 4",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":1125151613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5baBgUVme6SkLweRRKF8QT_43.634476_-72.937901@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313338,
-    "wof:geomhash":"0c2e810f73a434388639d415513b069c",
+    "wof:geomhash":"90e9aa792c8bd6ebde0471a9085de8f2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874239925,
-    "wof:lastmodified":1467088850,
+    "wof:lastmodified":1510696954,
     "wof:name":"US Internal Revenue Svc",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

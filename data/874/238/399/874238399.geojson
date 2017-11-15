@@ -2,14 +2,20 @@
   "id": 874238399,
   "type": "Feature",
   "properties": {
+    "addr:full":"94 Billado Ct Colchester VT 05446",
+    "addr:housenumber":"94",
+    "addr:postcode":"05446",
+    "addr:street":"Billado Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.238461,44.545974,-73.238461,44.545974",
     "geom:latitude":44.545974,
     "geom:longitude":-73.238461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"94 Billado Ct",
     "sg:city":"Colchester",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85832021,
         102087451
     ],
+    "wof:brand_id":1125156165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uiDhXFLY1V28DPd6smurK_44.545974_-73.238461@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313309,
-    "wof:geomhash":"fe700608ef1c73f3c2573a488adcbb5a",
+    "wof:geomhash":"5c0209873d52f4bf0f04b802f9355a49",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874238399,
-    "wof:lastmodified":1467088848,
+    "wof:lastmodified":1510613144,
     "wof:name":"Vital Signs",
     "wof:parent_id":85832021,
     "wof:placetype":"venue",

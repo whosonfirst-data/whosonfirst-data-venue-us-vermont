@@ -2,14 +2,20 @@
   "id": 874111299,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Executive Dr South Burlington VT 05403",
+    "addr:housenumber":"1",
+    "addr:postcode":"05403",
+    "addr:street":"Executive Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.17388,44.468865,-73.17388,44.468865",
     "geom:latitude":44.468865,
     "geom:longitude":-73.17388,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Executive Dr",
     "sg:city":"South Burlington",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":1125152735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67kE3JcmkyrVfhCgYxcqBo_44.468865_-73.173880@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311945,
-    "wof:geomhash":"a841f6a4bf52d0dfe39adcb9b000ac08",
+    "wof:geomhash":"74a2a9166dcfc1d9274fbddf14747843",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874111299,
-    "wof:lastmodified":1467088795,
+    "wof:lastmodified":1510696653,
     "wof:name":"Property Damage Appraisers Inc",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

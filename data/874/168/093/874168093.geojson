@@ -2,14 +2,20 @@
   "id": 874168093,
   "type": "Feature",
   "properties": {
+    "addr:full":"376 S Main St Rutland VT 05701",
+    "addr:housenumber":"376",
+    "addr:postcode":"05701",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.971362,43.603213,-72.971362,43.603213",
     "geom:latitude":43.603213,
     "geom:longitude":-72.971362,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"376 S Main St",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":420575279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4v0rtRiean5VbqdDkxeEiv_43.603213_-72.971362@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312507,
-    "wof:geomhash":"7ae479bddd41ea35f3669e298bc4b359",
+    "wof:geomhash":"711720f79964083178e271f4a32adf6f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874168093,
-    "wof:lastmodified":1467088818,
+    "wof:lastmodified":1510602643,
     "wof:name":"Dennys",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

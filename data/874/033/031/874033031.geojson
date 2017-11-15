@@ -2,14 +2,20 @@
   "id": 874033031,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Merchants Row Rutland VT 05701",
+    "addr:housenumber":"37",
+    "addr:postcode":"05701",
+    "addr:street":"Merchants Row",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.979487,43.606025,-72.979487,43.606025",
     "geom:latitude":43.606025,
     "geom:longitude":-72.979487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"37 Merchants Row",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":420575947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EhT1exICfry9Y4qkwkd7i_43.606025_-72.979487@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311075,
-    "wof:geomhash":"99b892ae87c12e37e010265a6394faff",
+    "wof:geomhash":"b275381077be4b9cc50f4b0acbbd9a1c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874033031,
-    "wof:lastmodified":1467088765,
+    "wof:lastmodified":1510602725,
     "wof:name":"TJ Maxx",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

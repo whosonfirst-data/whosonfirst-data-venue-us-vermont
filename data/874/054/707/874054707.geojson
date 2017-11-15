@@ -2,14 +2,20 @@
   "id": 874054707,
   "type": "Feature",
   "properties": {
+    "addr:full":"331 N Winooski Ave Burlington VT 05401",
+    "addr:housenumber":"331",
+    "addr:postcode":"05401",
+    "addr:street":"N Winooski Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.206585,44.489082,-73.206585,44.489082",
     "geom:latitude":44.489082,
     "geom:longitude":-73.206585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"331 N Winooski Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":1125150593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SqqnBJVxX4pSTXATx5Ffw_44.489082_-73.206585@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311290,
-    "wof:geomhash":"bbc4c2fd59e191b52633cef5cf29a5c3",
+    "wof:geomhash":"cad9466a56aa673c1432692b05993416",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":874054707,
-    "wof:lastmodified":1467088773,
+    "wof:lastmodified":1510613421,
     "wof:name":"Lutheran Social Svc",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

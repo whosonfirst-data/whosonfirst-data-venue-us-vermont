@@ -2,6 +2,10 @@
   "id": 874232383,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Elm St Barre VT 05641",
+    "addr:housenumber":"123",
+    "addr:postcode":"05641",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874232383,
-    "wof:lastmodified":1467088844,
+    "wof:lastmodified":1472652500,
     "wof:name":"Handyman General Contractor",
     "wof:parent_id":85868269,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874239009,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Woodstock Ave Rutland VT 05701",
+    "addr:housenumber":"10",
+    "addr:postcode":"05701",
+    "addr:street":"Woodstock Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.971849,43.6107,-72.971849,43.6107",
     "geom:latitude":43.6107,
     "geom:longitude":-72.971849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 Woodstock Ave",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":420573797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nPnzeXGAo10mzt3QuPIa3_43.610700_-72.971849@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313321,
-    "wof:geomhash":"8e2af821d38aca6232ef827ba3103f00",
+    "wof:geomhash":"919277c51f72429e0419f89803435273",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874239009,
-    "wof:lastmodified":1467088849,
+    "wof:lastmodified":1510603469,
     "wof:name":"Walgreens",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874045841,
   "type": "Feature",
   "properties": {
+    "addr:full":"296 Main St West Rutland VT 05777",
+    "addr:housenumber":"296",
+    "addr:postcode":"05777",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.04389,43.593479,-73.04389,43.593479",
     "geom:latitude":43.593479,
     "geom:longitude":-73.04389,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"296 Main St",
     "sg:city":"West Rutland",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":420574093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WGs3wH9rWrBFEWtl7PZEO_43.593479_-73.043890@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311205,
-    "wof:geomhash":"da9dda7867e029efd5e8859509a7d78a",
+    "wof:geomhash":"1f7e2ec7e71d299c65c1e3229e1d2e56",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874045841,
-    "wof:lastmodified":1467088770,
+    "wof:lastmodified":1510604780,
     "wof:name":"Rite Aid Pharmacy",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

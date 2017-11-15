@@ -2,14 +2,20 @@
   "id": 874172939,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 US Hwy 302 Barre VT 05641",
+    "addr:housenumber":"1400",
+    "addr:postcode":"05641",
+    "addr:street":"Us Hwy 302",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.552804,44.22859,-72.552804,44.22859",
     "geom:latitude":44.22859,
     "geom:longitude":-72.552804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 US Hwy 302",
     "sg:city":"Barre",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102080779,
         85868269
     ],
+    "wof:brand_id":1125153713,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iCnUDgWDiCwhnxNzuQvZF_44.228590_-72.552804@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312558,
-    "wof:geomhash":"0d2a6d9d2c3b751512069cab2c0aa59e",
+    "wof:geomhash":"9eb0ff59f509412360fcf6f921ff14a0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874172939,
-    "wof:lastmodified":1467088820,
+    "wof:lastmodified":1510694614,
     "wof:name":"Rentway",
     "wof:parent_id":85868269,
     "wof:placetype":"venue",

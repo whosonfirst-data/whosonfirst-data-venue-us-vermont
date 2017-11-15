@@ -2,14 +2,20 @@
   "id": 874193351,
   "type": "Feature",
   "properties": {
+    "addr:full":"195 Old Rte 22A Fair Haven VT 05743",
+    "addr:housenumber":"195",
+    "addr:postcode":"05743",
+    "addr:street":"Old Rte 22A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.295733,43.638401,-73.295733,43.638401",
     "geom:latitude":43.638401,
     "geom:longitude":-73.295733,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"195 Old Rte 22A",
     "sg:city":"Fair Haven",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85868769,
         102080771
     ],
+    "wof:brand_id":1125158855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1G7g1uQw1GJSAHZ9VJ0f4N_43.638401_-73.295733@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312773,
-    "wof:geomhash":"9dbf7e8f07ef08275569eedc6a6fac26",
+    "wof:geomhash":"7d7aed14a00d886b56144ee6d0554b76",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874193351,
-    "wof:lastmodified":1467088828,
+    "wof:lastmodified":1510695065,
     "wof:name":"Shaw's Supermarket",
     "wof:parent_id":85868769,
     "wof:placetype":"venue",

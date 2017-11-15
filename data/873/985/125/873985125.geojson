@@ -2,14 +2,20 @@
   "id": 873985125,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 College St Burlington VT 05401",
+    "addr:housenumber":"125",
+    "addr:postcode":"05401",
+    "addr:street":"College St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.214695,44.476923,-73.214695,44.476923",
     "geom:latitude":44.476923,
     "geom:longitude":-73.214695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 College St",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":1125154013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uj5DIlWXfD7yFhMxP4TSJ_44.476923_-73.214695@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310651,
-    "wof:geomhash":"3c08c1ad6d808582a8f859c8d0bc2166",
+    "wof:geomhash":"53a12f64f30a9c06cecf705cc7c187e1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873985125,
-    "wof:lastmodified":1467088749,
+    "wof:lastmodified":1510695148,
     "wof:name":"US Army Dept",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

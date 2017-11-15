@@ -2,6 +2,10 @@
   "id": 874238019,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Main St Burlington VT 05401",
+    "addr:housenumber":"75",
+    "addr:postcode":"05401",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874238019,
-    "wof:lastmodified":1467088848,
+    "wof:lastmodified":1472652477,
     "wof:name":"Purple Ringer",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

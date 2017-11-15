@@ -2,14 +2,20 @@
   "id": 874037683,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Marshall Rd Chester VT 05143",
+    "addr:housenumber":"12",
+    "addr:postcode":"05143",
+    "addr:street":"Marshall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.58451,43.257096,-72.58451,43.257096",
     "geom:latitude":43.257096,
     "geom:longitude":-72.58451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12 Marshall Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85837489,
         102080777
     ],
+    "wof:brand_id":1125155039,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pEfNRyPsBmZdoCmCgx8pN_43.257096_-72.584510@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311123,
-    "wof:geomhash":"bf203f500e69c2628b12b6c12d76fab4",
+    "wof:geomhash":"ac9a3bc4e2f5bd79378ab2a536f460b1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874037683,
-    "wof:lastmodified":1467088767,
+    "wof:lastmodified":1510694957,
     "wof:name":"New Life Christian Fellowship",
     "wof:parent_id":85837489,
     "wof:placetype":"venue",

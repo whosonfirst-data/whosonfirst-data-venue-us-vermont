@@ -2,6 +2,10 @@
   "id": 874243193,
   "type": "Feature",
   "properties": {
+    "addr:full":"131 S Main St Rutland VT 05701",
+    "addr:housenumber":"131",
+    "addr:postcode":"05701",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874243193,
-    "wof:lastmodified":1467088852,
+    "wof:lastmodified":1472652491,
     "wof:name":"Service Master",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

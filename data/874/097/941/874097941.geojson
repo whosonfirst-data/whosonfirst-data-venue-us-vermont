@@ -2,14 +2,20 @@
   "id": 874097941,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 Main St Chester VT 05143",
+    "addr:housenumber":"48",
+    "addr:postcode":"05143",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.596924,43.263876,-72.596924,43.263876",
     "geom:latitude":43.263876,
     "geom:longitude":-72.596924,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"48 Main St",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85837489,
         102080777
     ],
+    "wof:brand_id":1125151877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nb7XSqTIvLxgYIb5jlFyG_43.263876_-72.596924@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311756,
-    "wof:geomhash":"c1354cd8464c4b38626b8b958fb9464d",
+    "wof:geomhash":"3d180886a36fcce8d484d1e7b2413dce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874097941,
-    "wof:lastmodified":1467088790,
+    "wof:lastmodified":1510698676,
     "wof:name":"Banknorth",
     "wof:parent_id":85837489,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874186097,
   "type": "Feature",
   "properties": {
+    "addr:full":"64 Davis Ln Washington VT 05675",
+    "addr:housenumber":"64",
+    "addr:postcode":"05675",
+    "addr:street":"Davis Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.41367,44.107927,-72.41367,44.107927",
     "geom:latitude":44.107927,
     "geom:longitude":-72.41367,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"64 Davis Ln",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85820493,
         102087431
     ],
+    "wof:brand_id":1125152499,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MDJbCAC6KHaMPSro34sJN_44.107927_-72.413670@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312701,
-    "wof:geomhash":"b0a25174348ba45f7adef4382eba702b",
+    "wof:geomhash":"f5bc831fbd7efc48f612d9b78594912d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874186097,
-    "wof:lastmodified":1467088825,
+    "wof:lastmodified":1510613143,
     "wof:name":"Town Clerk",
     "wof:parent_id":85820493,
     "wof:placetype":"venue",

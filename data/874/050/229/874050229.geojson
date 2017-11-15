@@ -2,14 +2,20 @@
   "id": 874050229,
   "type": "Feature",
   "properties": {
+    "addr:full":"276 E Allen St Winooski VT 05404",
+    "addr:housenumber":"276",
+    "addr:postcode":"05404",
+    "addr:street":"E Allen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.176901,44.492938,-73.176901,44.492938",
     "geom:latitude":44.492938,
     "geom:longitude":-73.176901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"276 E Allen St",
     "sg:city":"Winooski",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85848449,
         102087451
     ],
+    "wof:brand_id":1125159725,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BaMwruzftzmaSXNKHk6m2_44.492938_-73.176901@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311243,
-    "wof:geomhash":"38e3701e1783f3df01336d24244be9d4",
+    "wof:geomhash":"1919acbdcfa0c3fdb0373f7b7e29e4e3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874050229,
-    "wof:lastmodified":1467088771,
+    "wof:lastmodified":1510697221,
     "wof:name":"Transwestern Publishing",
     "wof:parent_id":85848449,
     "wof:placetype":"venue",

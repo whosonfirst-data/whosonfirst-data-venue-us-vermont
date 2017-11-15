@@ -2,14 +2,20 @@
   "id": 874022725,
   "type": "Feature",
   "properties": {
+    "addr:full":"96 Airport Rd Shaftsbury VT 05262",
+    "addr:housenumber":"96",
+    "addr:postcode":"05262",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.202218,42.955636,-73.202218,42.955636",
     "geom:latitude":42.955636,
     "geom:longitude":-73.202218,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"96 Airport Rd",
     "sg:city":"Shaftsbury",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85868797,
         102087439
     ],
+    "wof:brand_id":1125150583,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_261AljbCIBRWWhqlReKoMX_42.955636_-73.202218@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310971,
-    "wof:geomhash":"9e4384643a029c26a32632e8b0f351b7",
+    "wof:geomhash":"15433452e8e30cbb1a7e1cd6f4c52e0f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874022725,
-    "wof:lastmodified":1467088761,
+    "wof:lastmodified":1510699571,
     "wof:name":"State Police",
     "wof:parent_id":85868797,
     "wof:placetype":"venue",

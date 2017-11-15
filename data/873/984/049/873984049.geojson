@@ -2,14 +2,20 @@
   "id": 873984049,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 School St Bennington VT 05201",
+    "addr:housenumber":"307",
+    "addr:postcode":"05201",
+    "addr:street":"School St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.194719,42.882522,-73.194719,42.882522",
     "geom:latitude":42.882522,
     "geom:longitude":-73.194719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"307 School St",
     "sg:city":"Bennington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85868797,
         102087439
     ],
+    "wof:brand_id":1125151287,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54IQJt0LFRC73H6SSnx9sU_42.882522_-73.194719@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310643,
-    "wof:geomhash":"3956ac315ee1e72749f2812861a8f062",
+    "wof:geomhash":"dc40963930e6be0e3475f71ae1230346",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873984049,
-    "wof:lastmodified":1467088748,
+    "wof:lastmodified":1510697682,
     "wof:name":"Sacred Heart School",
     "wof:parent_id":85868797,
     "wof:placetype":"venue",

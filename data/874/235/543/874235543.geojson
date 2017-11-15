@@ -2,14 +2,20 @@
   "id": 874235543,
   "type": "Feature",
   "properties": {
+    "addr:full":"252 River St Springfield VT 05156",
+    "addr:housenumber":"252",
+    "addr:postcode":"05156",
+    "addr:street":"River St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.49555,43.307575,-72.49555,43.307575",
     "geom:latitude":43.307575,
     "geom:longitude":-72.49555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"252 River St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85856417,
         102080777
     ],
+    "wof:brand_id":1125158123,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CY4yT3A7PCwf8qN0qeI5c_43.307575_-72.495550@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313253,
-    "wof:geomhash":"5a0018f720953a9b896c11534ce2a46f",
+    "wof:geomhash":"2c06f92aa4f3b6e1ec2ea26ba6d9d4f1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874235543,
-    "wof:lastmodified":1467088846,
+    "wof:lastmodified":1510695053,
     "wof:name":"Lab Corp",
     "wof:parent_id":85856417,
     "wof:placetype":"venue",

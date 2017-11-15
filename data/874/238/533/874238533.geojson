@@ -2,6 +2,10 @@
   "id": 874238533,
   "type": "Feature",
   "properties": {
+    "addr:full":"4026 Main St Manchester VT 05255",
+    "addr:housenumber":"4026",
+    "addr:postcode":"05255",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":874238533,
-    "wof:lastmodified":1467088848,
+    "wof:lastmodified":1472652514,
     "wof:name":"Windigo Travel Svc",
     "wof:parent_id":85832067,
     "wof:placetype":"venue",

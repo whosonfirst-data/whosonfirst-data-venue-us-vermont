@@ -2,14 +2,20 @@
   "id": 874037267,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Post Office Rd West Burke VT 05871",
+    "addr:housenumber":"30",
+    "addr:postcode":"05871",
+    "addr:street":"Post Office Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.980535,44.643062,-71.980535,44.643062",
     "geom:latitude":44.643062,
     "geom:longitude":-71.980535,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30 Post Office Rd",
     "sg:city":"West Burke",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102080755,
         85688763
     ],
+    "wof:brand_id":420573749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p5TM7brNWhR2i9pyi9zzc_44.643062_-71.980535@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311119,
-    "wof:geomhash":"ad34e89ec9b2313940a94a33e9e251f0",
+    "wof:geomhash":"b87e693d9a8052e8728d229c6817f49a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874037267,
-    "wof:lastmodified":1467088766,
+    "wof:lastmodified":1510603029,
     "wof:name":"US Post Office",
     "wof:parent_id":420545825,
     "wof:placetype":"venue",

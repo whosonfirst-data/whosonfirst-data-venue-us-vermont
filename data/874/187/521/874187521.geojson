@@ -2,14 +2,20 @@
   "id": 874187521,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Fayette Dr South Burlington VT 05403",
+    "addr:housenumber":"40",
+    "addr:postcode":"05403",
+    "addr:street":"Fayette Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.212733,44.437975,-73.212733,44.437975",
     "geom:latitude":44.437975,
     "geom:longitude":-73.212733,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"40 Fayette Dr",
     "sg:city":"South Burlington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":420575647,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZfposNuW3wapEGsvzOprt_44.437975_-73.212733@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312715,
-    "wof:geomhash":"af647aaa0c53d68ece3aa2e6cb74c40a",
+    "wof:geomhash":"37870c0e3378d5cfc108997d7b3383e2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874187521,
-    "wof:lastmodified":1467088826,
+    "wof:lastmodified":1510602520,
     "wof:name":"Keybank National Association",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

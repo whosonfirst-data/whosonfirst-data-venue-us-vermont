@@ -2,14 +2,20 @@
   "id": 874004063,
   "type": "Feature",
   "properties": {
+    "addr:full":"237 Commerce St Williston VT 05495",
+    "addr:housenumber":"237",
+    "addr:postcode":"05495",
+    "addr:street":"Commerce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.121487,44.451012,-73.121487,44.451012",
     "geom:latitude":44.451012,
     "geom:longitude":-73.121487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"237 Commerce St",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85868817,
         102087451
     ],
+    "wof:brand_id":1125159515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pO86t4DjO8q8nKFvRoRjN_44.451012_-73.121487@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310804,
-    "wof:geomhash":"b35ef4f52347d8dcf26bdded78bf0d97",
+    "wof:geomhash":"eb800a2ef365824163866997775d3b95",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874004063,
-    "wof:lastmodified":1467088755,
+    "wof:lastmodified":1510698877,
     "wof:name":"Computers Plus",
     "wof:parent_id":85868817,
     "wof:placetype":"venue",

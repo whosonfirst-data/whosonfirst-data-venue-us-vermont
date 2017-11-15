@@ -2,14 +2,20 @@
   "id": 874228903,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Center Rd Essex Junction VT 05452",
+    "addr:housenumber":"100",
+    "addr:postcode":"05452",
+    "addr:street":"Center Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.061448,44.511519,-73.061448,44.511519",
     "geom:latitude":44.511519,
     "geom:longitude":-73.061448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Center Rd",
     "sg:city":"Essex Junction",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85808675,
         102087451
     ],
+    "wof:brand_id":1125151877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wjSBmoep67q0iATVAvwLC_44.511519_-73.061448@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313150,
-    "wof:geomhash":"19db5da1602102c9bb9769855893376c",
+    "wof:geomhash":"dacc615bc3ddcbc13e72fe2e22865870",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874228903,
-    "wof:lastmodified":1467088843,
+    "wof:lastmodified":1510698676,
     "wof:name":"Banknorth",
     "wof:parent_id":85808675,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874249615,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 W 2nd St Barre VT 05641",
+    "addr:housenumber":"23",
+    "addr:postcode":"05641",
+    "addr:street":"W 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.51306,44.20712,-72.51306,44.20712",
     "geom:latitude":44.20712,
     "geom:longitude":-72.51306,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"23 W 2nd St",
     "sg:city":"Barre",
     "sg:classifiers":[],
@@ -29,13 +35,14 @@
         102080779,
         85868269
     ],
+    "wof:brand_id":1125156475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yxEbq3mks4Ayj1A7RgLiw_44.207120_-72.513060@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313555,
-    "wof:geomhash":"0a83a22726f66c4cfdd7fd784194ef2b",
+    "wof:geomhash":"697cdb721320cb1aac2e36b4ecf2fb08",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874249615,
-    "wof:lastmodified":1467088857,
+    "wof:lastmodified":1510696791,
     "wof:name":"Safety-Kleen Corp",
     "wof:parent_id":85868269,
     "wof:placetype":"venue",

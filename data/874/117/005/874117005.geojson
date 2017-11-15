@@ -2,14 +2,20 @@
   "id": 874117005,
   "type": "Feature",
   "properties": {
+    "addr:full":"648 Scott Hwy Groton VT 05046",
+    "addr:housenumber":"648",
+    "addr:postcode":"05046",
+    "addr:street":"Scott Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.256076,44.213225,-72.256076,44.213225",
     "geom:latitude":44.213225,
     "geom:longitude":-72.256076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"648 Scott Hwy",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85844467,
         102080755
     ],
+    "wof:brand_id":420575649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ekf7x2caUWvXNcrsyzarK_44.213225_-72.256076@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312006,
-    "wof:geomhash":"095874b7d9dcd6e9f18be85b44f20c51",
+    "wof:geomhash":"9dd6756d66a93296d2760b43276552dd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874117005,
-    "wof:lastmodified":1467088798,
+    "wof:lastmodified":1510602068,
     "wof:name":"Modern Woodmen Of America",
     "wof:parent_id":85844467,
     "wof:placetype":"venue",

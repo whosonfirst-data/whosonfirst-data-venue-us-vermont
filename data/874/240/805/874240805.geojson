@@ -2,14 +2,20 @@
   "id": 874240805,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Stratton Rd Rutland VT 05701",
+    "addr:housenumber":"7",
+    "addr:postcode":"05701",
+    "addr:street":"Stratton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.949995,43.593328,-72.949995,43.593328",
     "geom:latitude":43.593328,
     "geom:longitude":-72.949995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7 Stratton Rd",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":1125152131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ysPFU6O3wDTuxvAGtcfw4_43.593328_-72.949995@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313355,
-    "wof:geomhash":"07f1190bcbda0b961bd022039f944f1d",
+    "wof:geomhash":"4b386d4053f19ae5688d6ef0f2df27b1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874240805,
-    "wof:lastmodified":1467088850,
+    "wof:lastmodified":1510695269,
     "wof:name":"CTX Mortgage Co",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

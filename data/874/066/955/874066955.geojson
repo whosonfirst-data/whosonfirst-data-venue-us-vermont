@@ -2,14 +2,20 @@
   "id": 874066955,
   "type": "Feature",
   "properties": {
+    "addr:full":"460 Depot St Manchester Ctr VT 05255",
+    "addr:housenumber":"460",
+    "addr:postcode":"05255",
+    "addr:street":"Depot St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.050743,43.173621,-73.050743,43.173621",
     "geom:latitude":43.173621,
     "geom:longitude":-73.050743,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"460 Depot St",
     "sg:city":"Manchester Ctr",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087439,
         85688763
     ],
+    "wof:brand_id":1125151719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5f5NJIIvxHdO7V8DkJiuJ3_43.173621_-73.050743@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311397,
-    "wof:geomhash":"4b346dc811b9267824d715826259fff2",
+    "wof:geomhash":"682e1491661a86afc18bb8f7cb08e688",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874066955,
-    "wof:lastmodified":1467088778,
+    "wof:lastmodified":1510696790,
     "wof:name":"Brooks Brothers",
     "wof:parent_id":85832067,
     "wof:placetype":"venue",

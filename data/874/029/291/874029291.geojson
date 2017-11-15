@@ -2,14 +2,20 @@
   "id": 874029291,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Court St Middlebury VT 05753",
+    "addr:housenumber":"22",
+    "addr:postcode":"05753",
+    "addr:street":"Court St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.164984,44.012626,-73.164984,44.012626",
     "geom:latitude":44.012626,
     "geom:longitude":-73.164984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"22 Court St",
     "sg:city":"Middlebury",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102080765,
         85805367
     ],
+    "wof:brand_id":1125158395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mNAh1oalbVvHEN5SFuAqM_44.012626_-73.164984@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311041,
-    "wof:geomhash":"97773e00de656d3d36fc650733c87e6a",
+    "wof:geomhash":"73cedcc4025d75344f1b5d3fb348658c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":874029291,
-    "wof:lastmodified":1467088763,
+    "wof:lastmodified":1510694744,
     "wof:name":"Showtime Video",
     "wof:parent_id":85805367,
     "wof:placetype":"venue",

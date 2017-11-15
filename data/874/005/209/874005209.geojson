@@ -2,14 +2,20 @@
   "id": 874005209,
   "type": "Feature",
   "properties": {
+    "addr:full":"363 Barre-Montpelier Rd Barre VT 05641",
+    "addr:housenumber":"363",
+    "addr:postcode":"05641",
+    "addr:street":"Barre-Montpelier Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.54006,44.218326,-72.54006,44.218326",
     "geom:latitude":44.218326,
     "geom:longitude":-72.54006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"363 Barre-Montpelier Rd",
     "sg:city":"Barre",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080779,
         85868269
     ],
+    "wof:brand_id":420575703,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ki84gnmZRtlsxQybENLd4_44.218326_-72.540060@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310816,
-    "wof:geomhash":"d34d63560b288adc887d9ec1802d67ba",
+    "wof:geomhash":"5eb64ed3e58fbcc41e934a8f84836a6f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":874005209,
-    "wof:lastmodified":1467088755,
+    "wof:lastmodified":1510615024,
     "wof:name":"US Naval Recruiting",
     "wof:parent_id":85868269,
     "wof:placetype":"venue",

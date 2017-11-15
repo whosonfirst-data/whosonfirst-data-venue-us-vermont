@@ -2,6 +2,10 @@
   "id": 874255971,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Wales St Ste 1 Rutland VT 05701",
+    "addr:housenumber":"24;1",
+    "addr:postcode":"05701",
+    "addr:street":"Wales St Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":874255971,
-    "wof:lastmodified":1467088862,
+    "wof:lastmodified":1472652511,
     "wof:name":"Downwind",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

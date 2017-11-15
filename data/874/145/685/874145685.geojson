@@ -2,14 +2,20 @@
   "id": 874145685,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 Pike Dr Berlin VT 05602",
+    "addr:housenumber":"52",
+    "addr:postcode":"05602",
+    "addr:street":"Pike Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.574694,44.214574,-72.574694,44.214574",
     "geom:latitude":44.214574,
     "geom:longitude":-72.574694,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"52 Pike Dr",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102080779,
         85868269
     ],
+    "wof:brand_id":420574099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yNhtQYbQEsmfQza22jbMJ_44.214574_-72.574694@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312286,
-    "wof:geomhash":"0d9bb3aad1c7bce6926f4478f44049f6",
+    "wof:geomhash":"9b55f64fe13c7fb420026696b0ba2f8b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874145685,
-    "wof:lastmodified":1467088809,
+    "wof:lastmodified":1510604881,
     "wof:name":"American Red Cross",
     "wof:parent_id":85868269,
     "wof:placetype":"venue",

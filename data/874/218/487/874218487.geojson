@@ -2,14 +2,20 @@
   "id": 874218487,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Mountain View Dr Colchester VT 05446",
+    "addr:housenumber":"500",
+    "addr:postcode":"05446",
+    "addr:street":"Mountain View Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.180452,44.507276,-73.180452,44.507276",
     "geom:latitude":44.507276,
     "geom:longitude":-73.180452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Mountain View Dr",
     "sg:city":"Colchester",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85848449,
         102087451
     ],
+    "wof:brand_id":420575987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lNUmUxlLXXJkXSxz1M9Ka_44.507276_-73.180452@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313037,
-    "wof:geomhash":"d138baec24889d096ab306987400a6d6",
+    "wof:geomhash":"328fb76c0b94fc06d24f100e8e88481c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874218487,
-    "wof:lastmodified":1467088839,
+    "wof:lastmodified":1510602835,
     "wof:name":"Osco Drug",
     "wof:parent_id":85848449,
     "wof:placetype":"venue",

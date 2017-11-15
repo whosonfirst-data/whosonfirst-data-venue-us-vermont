@@ -2,14 +2,20 @@
   "id": 874250371,
   "type": "Feature",
   "properties": {
+    "addr:full":"648 Putney Rd Brattleboro VT 05301",
+    "addr:housenumber":"648",
+    "addr:postcode":"05301",
+    "addr:street":"Putney Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.558646,42.872161,-72.558646,42.872161",
     "geom:latitude":42.872161,
     "geom:longitude":-72.558646,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"648 Putney Rd",
     "sg:city":"Brattleboro",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85857895,
         102080773
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4W8r02XoOLNQJEaWmY5cxe_42.872161_-72.558646@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464313574,
-    "wof:geomhash":"133e6b86c0caf6a50bc449c03ba116eb",
+    "wof:geomhash":"bdf2ba796d378cd70fd05f6c9b91a9e9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":874250371,
-    "wof:lastmodified":1467088858,
+    "wof:lastmodified":1510699688,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85857895,
     "wof:placetype":"venue",

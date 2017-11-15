@@ -2,14 +2,20 @@
   "id": 874173739,
   "type": "Feature",
   "properties": {
+    "addr:full":"1222 Putney Rd Brattleboro VT 05301",
+    "addr:housenumber":"1222",
+    "addr:postcode":"05301",
+    "addr:street":"Putney Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.555396,42.887006,-72.555396,42.887006",
     "geom:latitude":42.887006,
     "geom:longitude":-72.555396,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1222 Putney Rd",
     "sg:city":"Brattleboro",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85857895,
         102080773
     ],
+    "wof:brand_id":1125151613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XZhDtFft9ik3c13wJcnCg_42.887006_-72.555396@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312565,
-    "wof:geomhash":"fdf3c03ef870ff83431ec627f0914a7a",
+    "wof:geomhash":"254e0d1f4e621dd8e3c645ccffc3e030",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874173739,
-    "wof:lastmodified":1467088820,
+    "wof:lastmodified":1510696954,
     "wof:name":"US Internal Revenue Svc",
     "wof:parent_id":85857895,
     "wof:placetype":"venue",

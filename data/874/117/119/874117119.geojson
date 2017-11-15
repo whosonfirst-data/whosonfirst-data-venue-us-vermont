@@ -2,6 +2,10 @@
   "id": 874117119,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Hospital Dr Bennington VT 05201",
+    "addr:housenumber":"100",
+    "addr:postcode":"05201",
+    "addr:street":"Hospital Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":874117119,
-    "wof:lastmodified":1467088798,
+    "wof:lastmodified":1472652426,
     "wof:name":"Medical Library",
     "wof:parent_id":85868797,
     "wof:placetype":"venue",

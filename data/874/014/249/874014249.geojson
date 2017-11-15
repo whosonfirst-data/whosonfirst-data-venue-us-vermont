@@ -2,14 +2,20 @@
   "id": 874014249,
   "type": "Feature",
   "properties": {
+    "addr:full":"861 Williston Rd South Burlington VT 05403",
+    "addr:housenumber":"861",
+    "addr:postcode":"05403",
+    "addr:street":"Williston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.177691,44.468271,-73.177691,44.468271",
     "geom:latitude":44.468271,
     "geom:longitude":-73.177691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"861 Williston Rd",
     "sg:city":"South Burlington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":420575543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yMKsF1661ZA6WAEysHQXY_44.468271_-73.177691@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310885,
-    "wof:geomhash":"64948fbde2db7c5d0cf39349477d0158",
+    "wof:geomhash":"a33eda429c8311f8e3aa77e43850213d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":874014249,
-    "wof:lastmodified":1467088758,
+    "wof:lastmodified":1510602393,
     "wof:name":"Michaels Arts & Crafts Store",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

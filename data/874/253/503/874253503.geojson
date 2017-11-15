@@ -2,6 +2,10 @@
   "id": 874253503,
   "type": "Feature",
   "properties": {
+    "addr:full":"1205 North Ave Ste 6 Burlington VT 05408",
+    "addr:housenumber":"1205",
+    "addr:postcode":"05408",
+    "addr:street":"North Ave Ste 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":874253503,
-    "wof:lastmodified":1467088860,
+    "wof:lastmodified":1472652503,
     "wof:name":"Vermont Internal Medicine",
     "wof:parent_id":85850949,
     "wof:placetype":"venue",

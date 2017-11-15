@@ -2,14 +2,20 @@
   "id": 874129467,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Waterman Hill Rd Quechee VT 05059",
+    "addr:housenumber":"4",
+    "addr:postcode":"05059",
+    "addr:street":"Waterman Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.419552,43.643198,-72.419552,43.643198",
     "geom:latitude":43.643198,
     "geom:longitude":-72.419552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 Waterman Hill Rd",
     "sg:city":"Quechee",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102080777,
         85814449
     ],
+    "wof:brand_id":1125157855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iZb54CW7fAryd3SNpDsmA_43.643198_-72.419552@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312128,
-    "wof:geomhash":"3b1275955cf8688139703191023d4cc0",
+    "wof:geomhash":"378694c7316237dffcb645a9aa9f5741",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":874129467,
-    "wof:lastmodified":1467088803,
+    "wof:lastmodified":1510699742,
     "wof:name":"Hair Trends",
     "wof:parent_id":85814449,
     "wof:placetype":"venue",

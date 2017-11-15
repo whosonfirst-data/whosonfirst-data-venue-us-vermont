@@ -2,14 +2,20 @@
   "id": 874182179,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Prices Ln Rutland VT 05735",
+    "addr:housenumber":"21",
+    "addr:postcode":"05735",
+    "addr:street":"Prices Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.202143,43.666855,-73.202143,43.666855",
     "geom:latitude":43.666855,
     "geom:longitude":-73.202143,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21 Prices Ln",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85868769,
         102080771
     ],
+    "wof:brand_id":420574867,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kuL5Cu5cbhdAGqqRcNLDw_43.666855_-73.202143@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312652,
-    "wof:geomhash":"9b69e614bcb403bd38bfbef9f9c8df30",
+    "wof:geomhash":"bcdfe0090fef73e937f1ca75a9ed741b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874182179,
-    "wof:lastmodified":1467088823,
+    "wof:lastmodified":1510604544,
     "wof:name":"Thrifty Car Rental",
     "wof:parent_id":85868769,
     "wof:placetype":"venue",

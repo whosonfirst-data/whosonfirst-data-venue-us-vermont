@@ -2,14 +2,20 @@
   "id": 874196011,
   "type": "Feature",
   "properties": {
+    "addr:full":"163 Morey Rd Sutton VT 05867",
+    "addr:housenumber":"163",
+    "addr:postcode":"05867",
+    "addr:street":"Morey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.048558,44.659488,-72.048558,44.659488",
     "geom:latitude":44.659488,
     "geom:longitude":-72.048558,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"163 Morey Rd",
     "sg:city":"Sutton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080755,
         85688763
     ],
+    "wof:brand_id":1125156237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UYG3SV1NdQveknJylsbWW_44.659488_-72.048558@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312805,
-    "wof:geomhash":"fcad11314e32be1e453ad30d7d65d36f",
+    "wof:geomhash":"8d0e587147b61a034c071584e83b007d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874196011,
-    "wof:lastmodified":1467088829,
+    "wof:lastmodified":1510694064,
     "wof:name":"Four Seasons Sunrooms",
     "wof:parent_id":420545825,
     "wof:placetype":"venue",

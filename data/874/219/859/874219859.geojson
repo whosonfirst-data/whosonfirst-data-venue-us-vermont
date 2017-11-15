@@ -2,14 +2,20 @@
   "id": 874219859,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 David Dr Essex Junction VT 05452",
+    "addr:housenumber":"4",
+    "addr:postcode":"05452",
+    "addr:street":"David Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.133673,44.50795,-73.133673,44.50795",
     "geom:latitude":44.50795,
     "geom:longitude":-73.133673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 David Dr",
     "sg:city":"Essex Junction",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85840199,
         102087451
     ],
+    "wof:brand_id":420575149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nPbTsQFFzCUOL8gS3ZZqk_44.507950_-73.133673@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313058,
-    "wof:geomhash":"d5b6f803ddc67037d540c6a5a6f2bfb2",
+    "wof:geomhash":"9635453bcfe77d1df33eefb4a615b568",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874219859,
-    "wof:lastmodified":1467088839,
+    "wof:lastmodified":1510602944,
     "wof:name":"Meineke Car Care Ctr",
     "wof:parent_id":85840199,
     "wof:placetype":"venue",

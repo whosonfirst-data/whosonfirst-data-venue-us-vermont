@@ -2,14 +2,20 @@
   "id": 874151561,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Washington St Middlebury VT 05753",
+    "addr:housenumber":"10",
+    "addr:postcode":"05753",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.164658,44.014718,-73.164658,44.014718",
     "geom:latitude":44.014718,
     "geom:longitude":-73.164658,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 Washington St",
     "sg:city":"Middlebury",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102080765,
         85805367
     ],
+    "wof:brand_id":1125152043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZtcssZjCRn8MpOjUK23lp_44.014718_-73.164658@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312342,
-    "wof:geomhash":"8038f4754a6377351fac5a6f65afd88e",
+    "wof:geomhash":"801ec4886017ed9093abe0402b7a4368",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874151561,
-    "wof:lastmodified":1467088811,
+    "wof:lastmodified":1510694906,
     "wof:name":"Joe's Barber Shop",
     "wof:parent_id":85805367,
     "wof:placetype":"venue",

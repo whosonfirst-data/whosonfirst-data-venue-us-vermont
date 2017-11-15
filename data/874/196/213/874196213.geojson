@@ -2,14 +2,20 @@
   "id": 874196213,
   "type": "Feature",
   "properties": {
+    "addr:full":"166 Sycamore St Williston VT 05495",
+    "addr:housenumber":"166",
+    "addr:postcode":"05495",
+    "addr:street":"Sycamore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.10825,44.446997,-73.10825,44.446997",
     "geom:latitude":44.446997,
     "geom:longitude":-73.10825,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"166 Sycamore St",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85868817,
         102087451
     ],
+    "wof:brand_id":1125152143,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EWbq1vXIt8YoVwpq9y87W_44.446997_-73.108250@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312807,
-    "wof:geomhash":"df1e73d53789f2510c4bfc9318165d88",
+    "wof:geomhash":"3dff3d780249fe8c16ac311422b41927",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874196213,
-    "wof:lastmodified":1467088829,
+    "wof:lastmodified":1510693735,
     "wof:name":"Glamour Nails",
     "wof:parent_id":85868817,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874111119,
   "type": "Feature",
   "properties": {
+    "addr:full":"134 Fred Houghton Rd Putney VT 05346",
+    "addr:housenumber":"134",
+    "addr:postcode":"05346",
+    "addr:street":"Fred Houghton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874111119,
-    "wof:lastmodified":1467088795,
+    "wof:lastmodified":1472652423,
     "wof:name":"Westing Assoc",
     "wof:parent_id":85857895,
     "wof:placetype":"venue",

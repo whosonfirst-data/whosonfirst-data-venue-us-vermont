@@ -2,14 +2,20 @@
   "id": 874200593,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 West St Rutland VT 05701",
+    "addr:housenumber":"80",
+    "addr:postcode":"05701",
+    "addr:street":"West St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.976579,43.608159,-72.976579,43.608159",
     "geom:latitude":43.608159,
     "geom:longitude":-72.976579,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"80 West St",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":420575647,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pc0tEP6DcWS2NtZ0IKxDg_43.608159_-72.976579@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312850,
-    "wof:geomhash":"916c194b8e00506f25af86fcdf8fe452",
+    "wof:geomhash":"d34770b096876784eb38fc4e3f507376",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874200593,
-    "wof:lastmodified":1467088831,
+    "wof:lastmodified":1510602519,
     "wof:name":"Keybank National Association",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

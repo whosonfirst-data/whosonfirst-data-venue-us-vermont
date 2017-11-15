@@ -2,14 +2,20 @@
   "id": 874239217,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Kocher Dr Bennington VT 05201",
+    "addr:housenumber":"9",
+    "addr:postcode":"05201",
+    "addr:street":"Kocher Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.196225,42.893948,-73.196225,42.893948",
     "geom:latitude":42.893948,
     "geom:longitude":-73.196225,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9 Kocher Dr",
     "sg:city":"Bennington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85868797,
         102087439
     ],
+    "wof:brand_id":420574403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cg4wFWWm7DpnWkpv31xB6_42.893948_-73.196225@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313325,
-    "wof:geomhash":"cc7fa36369685c27d011275a425ec1cc",
+    "wof:geomhash":"a2fb217b9b49578fe2e7bfa7afa931e6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874239217,
-    "wof:lastmodified":1467088849,
+    "wof:lastmodified":1510604236,
     "wof:name":"J C Penney Co",
     "wof:parent_id":85868797,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874233951,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 S Winooski Ave Burlington VT 05401",
+    "addr:housenumber":"70",
+    "addr:postcode":"05401",
+    "addr:street":"S Winooski Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.211052,44.478872,-73.211052,44.478872",
     "geom:latitude":44.478872,
     "geom:longitude":-73.211052,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"70 S Winooski Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":420574911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0etN5ZrkOX2nACwC3HmPtF_44.478872_-73.211052@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313219,
-    "wof:geomhash":"dbf93eee907566d97a14500a542172fa",
+    "wof:geomhash":"513df6931f67dcab15c2233dfca4f66a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874233951,
-    "wof:lastmodified":1467088845,
+    "wof:lastmodified":1510604579,
     "wof:name":"First American Title Ins Co",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

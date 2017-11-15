@@ -2,14 +2,20 @@
   "id": 874253903,
   "type": "Feature",
   "properties": {
+    "addr:full":"161 Ferry Rd Charlotte VT 05445",
+    "addr:housenumber":"161",
+    "addr:postcode":"05445",
+    "addr:street":"Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.250379,44.310831,-73.250379,44.310831",
     "geom:latitude":44.310831,
     "geom:longitude":-73.250379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"161 Ferry Rd",
     "sg:city":"Charlotte",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85811695,
         102080765
     ],
+    "wof:brand_id":420575953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Q8nQjXEJiGWQKPXToe3nS_44.310831_-73.250379@1303262242"
     },
     "wof:country":"US",
     "wof:created":1464313643,
-    "wof:geomhash":"cf06434f9f0c197a58d02be35c3b0a51",
+    "wof:geomhash":"40b955d91c9e29a71d5a967f161b1ede",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874253903,
-    "wof:lastmodified":1467088860,
+    "wof:lastmodified":1510602437,
     "wof:name":"United States Government",
     "wof:parent_id":85811695,
     "wof:placetype":"venue",

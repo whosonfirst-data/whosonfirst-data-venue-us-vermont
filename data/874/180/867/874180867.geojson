@@ -2,14 +2,20 @@
   "id": 874180867,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Pinnacle Rd Richford VT 05476",
+    "addr:housenumber":"14",
+    "addr:postcode":"05476",
+    "addr:street":"Pinnacle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.699388,45.01523,-72.699388,45.01523",
     "geom:latitude":45.01523,
     "geom:longitude":-72.699388,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14 Pinnacle Rd",
     "sg:city":"Richford",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85855641,
         102080729
     ],
+    "wof:brand_id":1125152111,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cbpQhYbZ6VSc2rWi4DLJt_45.015230_-72.699388@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312638,
-    "wof:geomhash":"774e4c1b366a7dff2cf4a9c29c57ae9d",
+    "wof:geomhash":"49de9892a78fddb02cd3cfd935f3fe24",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874180867,
-    "wof:lastmodified":1467088823,
+    "wof:lastmodified":1510613199,
     "wof:name":"US Customs Svc",
     "wof:parent_id":85855641,
     "wof:placetype":"venue",

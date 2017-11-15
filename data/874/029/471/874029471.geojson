@@ -2,14 +2,20 @@
   "id": 874029471,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 River St Montpelier VT 05602",
+    "addr:housenumber":"170",
+    "addr:postcode":"05602",
+    "addr:street":"River St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.562392,44.249067,-72.562392,44.249067",
     "geom:latitude":44.249067,
     "geom:longitude":-72.562392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"170 River St",
     "sg:city":"Montpelier",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102080779,
         85868269
     ],
+    "wof:brand_id":1125150729,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aGujptBwD46qSXpovvuky_44.249067_-72.562392@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311043,
-    "wof:geomhash":"9a514e6384eaf0b57a2e10b0ec8b4210",
+    "wof:geomhash":"1b7c99bdaef5b921304c7ae8e0f760c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":874029471,
-    "wof:lastmodified":1467088763,
+    "wof:lastmodified":1510695865,
     "wof:name":"Wireless Zone",
     "wof:parent_id":85868269,
     "wof:placetype":"venue",

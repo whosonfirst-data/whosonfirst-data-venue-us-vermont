@@ -2,14 +2,20 @@
   "id": 874255763,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 Merchants Row Suite 701 Rutland VT 05701",
+    "addr:housenumber":"128;701",
+    "addr:postcode":"05701",
+    "addr:street":"Merchants Row Suite",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.979408,43.606046,-72.979408,43.606046",
     "geom:latitude":43.606046,
     "geom:longitude":-72.979408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"128 Merchants Row Suite 701",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":1125151949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bcFfdnxMlHUwRvMOP0DGk_43.606046_-72.979408@1303262243"
     },
     "wof:country":"US",
     "wof:created":1464313691,
-    "wof:geomhash":"7a143c1b068c31c5dc85eda1af247c30",
+    "wof:geomhash":"0f00a9bb622916815685ac9d90828f13",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":874255763,
-    "wof:lastmodified":1467088862,
+    "wof:lastmodified":1510698675,
     "wof:name":"JK Harris & Company",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

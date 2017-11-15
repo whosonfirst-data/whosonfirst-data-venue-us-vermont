@@ -2,14 +2,20 @@
   "id": 874222611,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Windsor Ct South Burlington VT 05403",
+    "addr:housenumber":"1",
+    "addr:postcode":"05403",
+    "addr:street":"Windsor Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.197431,44.428033,-73.197431,44.428033",
     "geom:latitude":44.428033,
     "geom:longitude":-73.197431,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Windsor Ct",
     "sg:city":"South Burlington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":1125157287,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wFfhUA7znfpzxBF85TcTA_44.428033_-73.197431@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313091,
-    "wof:geomhash":"9a3c7e8d45d637372b3ec5e0e56b1950",
+    "wof:geomhash":"05a10eb0d5020cb60e42f3eda5c3f941",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874222611,
-    "wof:lastmodified":1467088840,
+    "wof:lastmodified":1510696750,
     "wof:name":"Unishippers Association",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

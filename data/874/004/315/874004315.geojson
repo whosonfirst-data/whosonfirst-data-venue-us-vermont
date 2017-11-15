@@ -2,14 +2,20 @@
   "id": 874004315,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 Main St Putney VT 05346",
+    "addr:housenumber":"127",
+    "addr:postcode":"05346",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.52183,42.974569,-72.52183,42.974569",
     "geom:latitude":42.974569,
     "geom:longitude":-72.52183,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"127 Main St",
     "sg:city":"Putney",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85857895,
         102080773
     ],
+    "wof:brand_id":1125152499,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vEmMpHtNiBxRm0TjjXKr8_42.974569_-72.521830@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310807,
-    "wof:geomhash":"d8a074b03a47a9039412ce75f8ea28dc",
+    "wof:geomhash":"1019492f1dc491bfda871537c98380f4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874004315,
-    "wof:lastmodified":1467088755,
+    "wof:lastmodified":1510613144,
     "wof:name":"Town Clerk",
     "wof:parent_id":85857895,
     "wof:placetype":"venue",

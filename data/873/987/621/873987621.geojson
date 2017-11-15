@@ -2,14 +2,20 @@
   "id": 873987621,
   "type": "Feature",
   "properties": {
+    "addr:full":"512 Brooklyn St Morrisville VT 05661",
+    "addr:housenumber":"512",
+    "addr:postcode":"05661",
+    "addr:street":"Brooklyn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.596906,44.570094,-72.596906,44.570094",
     "geom:latitude":44.570094,
     "geom:longitude":-72.596906,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"512 Brooklyn St",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85855237,
         102080785
     ],
+    "wof:brand_id":1125151867,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xLgL3sTNKQSV91SyhS8mr_44.570094_-72.596906@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310673,
-    "wof:geomhash":"f2ee126f70e9238dbb3edb60ee45942f",
+    "wof:geomhash":"c8fbfaff3e0d9bb5d094ce9067a36c6c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873987621,
-    "wof:lastmodified":1467088749,
+    "wof:lastmodified":1510699637,
     "wof:name":"Valero Energy Corporation",
     "wof:parent_id":85855237,
     "wof:placetype":"venue",

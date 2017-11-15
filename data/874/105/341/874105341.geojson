@@ -2,14 +2,20 @@
   "id": 874105341,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Philbrook St Barre VT 05641",
+    "addr:housenumber":"4",
+    "addr:postcode":"05641",
+    "addr:street":"Philbrook St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.474508,44.189253,-72.474508,44.189253",
     "geom:latitude":44.189253,
     "geom:longitude":-72.474508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 Philbrook St",
     "sg:city":"Barre",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102080779,
         85868269
     ],
+    "wof:brand_id":1125155107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FlkargCIIelpvW0DKIbO9_44.189253_-72.474508@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311861,
-    "wof:geomhash":"bf79792a98dc111fa0dd540cf2a75bc4",
+    "wof:geomhash":"557d68804cca06b9f211c03b3f0a9cdb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874105341,
-    "wof:lastmodified":1467088793,
+    "wof:lastmodified":1510699581,
     "wof:name":"Church Of The Good Shepherd",
     "wof:parent_id":85868269,
     "wof:placetype":"venue",

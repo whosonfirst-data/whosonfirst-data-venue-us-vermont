@@ -2,14 +2,20 @@
   "id": 874151637,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Brooklyn St Morrisville VT 05661",
+    "addr:housenumber":"301",
+    "addr:postcode":"05661",
+    "addr:street":"Brooklyn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.600109,44.567516,-72.600109,44.567516",
     "geom:latitude":44.567516,
     "geom:longitude":-72.600109,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 Brooklyn St",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85855237,
         102080785
     ],
+    "wof:brand_id":1125159011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TC2rHp4C3A2xT7KaTN4Ua_44.567516_-72.600109@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312343,
-    "wof:geomhash":"e9be3721e9801b243e85eb04c850bdb7",
+    "wof:geomhash":"8678227cd8129f92a64abed91cb4a246",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874151637,
-    "wof:lastmodified":1467088811,
+    "wof:lastmodified":1510696616,
     "wof:name":"Holy Cross Catholic Church",
     "wof:parent_id":85855237,
     "wof:placetype":"venue",

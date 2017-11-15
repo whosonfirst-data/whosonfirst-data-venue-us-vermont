@@ -2,6 +2,10 @@
   "id": 874047581,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 Abbott Rd Brattleboro VT 05301",
+    "addr:housenumber":"456",
+    "addr:postcode":"05301",
+    "addr:street":"Abbott Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874047581,
-    "wof:lastmodified":1467088770,
+    "wof:lastmodified":1472652400,
     "wof:name":"Windham Business Services",
     "wof:parent_id":85803027,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874125457,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 Scott Hwy Groton VT 05046",
+    "addr:housenumber":"456",
+    "addr:postcode":"05046",
+    "addr:street":"Scott Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874125457,
-    "wof:lastmodified":1467088801,
+    "wof:lastmodified":1472652437,
     "wof:name":"Fair Point New England",
     "wof:parent_id":85844467,
     "wof:placetype":"venue",

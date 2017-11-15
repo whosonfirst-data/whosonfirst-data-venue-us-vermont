@@ -2,6 +2,10 @@
   "id": 874194315,
   "type": "Feature",
   "properties": {
+    "addr:full":"79 Howard St Burlington VT 05401",
+    "addr:housenumber":"79",
+    "addr:postcode":"05401",
+    "addr:street":"Howard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":874194315,
-    "wof:lastmodified":1467088828,
+    "wof:lastmodified":1472652464,
     "wof:name":"GCI",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874147031,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Catherine Dr Rutland VT 05701",
+    "addr:housenumber":"15",
+    "addr:postcode":"05701",
+    "addr:street":"Catherine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.954178,43.609382,-72.954178,43.609382",
     "geom:latitude":43.609382,
     "geom:longitude":-72.954178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15 Catherine Dr",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":420575231,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WkcW43h1V9J2ecp2o3VJ2_43.609382_-72.954178@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312303,
-    "wof:geomhash":"5d443404450ca39d21909404ea957265",
+    "wof:geomhash":"c498982790ff59012b30b70bd47d95df",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874147031,
-    "wof:lastmodified":1467088810,
+    "wof:lastmodified":1510602878,
     "wof:name":"Horace Mann Insurance Co",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",

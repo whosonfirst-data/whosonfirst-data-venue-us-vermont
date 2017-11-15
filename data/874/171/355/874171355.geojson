@@ -2,14 +2,20 @@
   "id": 874171355,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 E Allen St Winooski VT 05404",
+    "addr:housenumber":"27",
+    "addr:postcode":"05404",
+    "addr:street":"E Allen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.184341,44.491438,-73.184341,44.491438",
     "geom:latitude":44.491438,
     "geom:longitude":-73.184341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"27 E Allen St",
     "sg:city":"Winooski",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85848449,
         102087451
     ],
+    "wof:brand_id":1125151877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70RYrr6NIGyxiYdv2X4ktG_44.491438_-73.184341@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312542,
-    "wof:geomhash":"29040e8dd9201424628d9c561d4e1a8a",
+    "wof:geomhash":"d7a399ef0e9cf746f2c936d7c8b8aa0c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874171355,
-    "wof:lastmodified":1467088819,
+    "wof:lastmodified":1510698676,
     "wof:name":"Banknorth",
     "wof:parent_id":85848449,
     "wof:placetype":"venue",

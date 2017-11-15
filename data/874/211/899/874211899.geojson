@@ -2,14 +2,20 @@
   "id": 874211899,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Creek Rd Middlebury VT 05753",
+    "addr:housenumber":"47",
+    "addr:postcode":"05753",
+    "addr:street":"Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.159841,44.004498,-73.159841,44.004498",
     "geom:latitude":44.004498,
     "geom:longitude":-73.159841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"47 Creek Rd",
     "sg:city":"Middlebury",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85818967,
         102080765
     ],
+    "wof:brand_id":420574445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_232XJJhrdzWVuipTtsDbWJ_44.004498_-73.159841@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312973,
-    "wof:geomhash":"d8baefb1d8a6bbc260d058540a11a369",
+    "wof:geomhash":"7902038e0d2632f33ec46b7e845a56f0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874211899,
-    "wof:lastmodified":1467088836,
+    "wof:lastmodified":1510604211,
     "wof:name":"Key Bank",
     "wof:parent_id":85818967,
     "wof:placetype":"venue",

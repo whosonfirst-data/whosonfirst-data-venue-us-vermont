@@ -2,14 +2,20 @@
   "id": 874109213,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Ave C Williston VT 05495",
+    "addr:housenumber":"",
+    "addr:postcode":"05495",
+    "addr:street":"30 Ave C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.127064,44.465943,-73.127064,44.465943",
     "geom:latitude":44.465943,
     "geom:longitude":-73.127064,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30 Ave C",
     "sg:city":"Williston",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087451,
         85688763
     ],
+    "wof:brand_id":1125153167,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14NIHwiT8pa1gMjGjdpBBR_44.465943_-73.127064@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311905,
-    "wof:geomhash":"463f5bafc8148179735b33d89e94a561",
+    "wof:geomhash":"6fea35b9e842dd3b8a500395806a65a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":874109213,
-    "wof:lastmodified":1467088795,
+    "wof:lastmodified":1510694655,
     "wof:name":"Narcotics Anonymous",
     "wof:parent_id":85828531,
     "wof:placetype":"venue",

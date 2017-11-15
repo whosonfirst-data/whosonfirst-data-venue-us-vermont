@@ -2,14 +2,20 @@
   "id": 874188209,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Maple St Morrisville VT 05661",
+    "addr:housenumber":"14",
+    "addr:postcode":"05661",
+    "addr:street":"Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.59376,44.560566,-72.59376,44.560566",
     "geom:latitude":44.560566,
     "geom:longitude":-72.59376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14 Maple St",
     "sg:city":"Morrisville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85855237,
         102080785
     ],
+    "wof:brand_id":1125158539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VP9POUfRiEfHh5lGURzG3_44.560566_-72.593760@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312721,
-    "wof:geomhash":"8231aba5d6bf95b02f149f671e6fb5f1",
+    "wof:geomhash":"c19b6f6ca48fce246679a45d2b369534",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874188209,
-    "wof:lastmodified":1467088826,
+    "wof:lastmodified":1510698664,
     "wof:name":"Grace Brethren Church",
     "wof:parent_id":85855237,
     "wof:placetype":"venue",

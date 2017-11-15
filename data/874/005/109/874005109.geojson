@@ -2,6 +2,10 @@
   "id": 874005109,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 Main St Bennington VT 05201",
+    "addr:housenumber":"324",
+    "addr:postcode":"05201",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":874005109,
-    "wof:lastmodified":1467088755,
+    "wof:lastmodified":1472652375,
     "wof:name":"Bennington Job Program",
     "wof:parent_id":85868797,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874166015,
   "type": "Feature",
   "properties": {
+    "addr:full":"483 Depot St Manchester Ctr VT 05255",
+    "addr:housenumber":"483",
+    "addr:postcode":"05255",
+    "addr:street":"Depot St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.051631,43.174255,-73.051631,43.174255",
     "geom:latitude":43.174255,
     "geom:longitude":-73.051631,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"483 Depot St",
     "sg:city":"Manchester Ctr",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087439,
         85688763
     ],
+    "wof:brand_id":1125150171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZlfxkStaEHlDYiuBem9gw_43.174255_-73.051631@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312489,
-    "wof:geomhash":"dbc6b7a7150c292557fb6d9bdf0ed3fd",
+    "wof:geomhash":"aa6a790ae721b9e0a058456125cbfc37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874166015,
-    "wof:lastmodified":1467088817,
+    "wof:lastmodified":1510694918,
     "wof:name":"Yankee Candle Co",
     "wof:parent_id":85832067,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874047289,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Park Rd South Burlington VT 05403",
+    "addr:housenumber":"4",
+    "addr:postcode":"05403",
+    "addr:street":"Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.17034,44.435795,-73.17034,44.435795",
     "geom:latitude":44.435795,
     "geom:longitude":-73.17034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 Park Rd",
     "sg:city":"South Burlington",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087451,
         85852901
     ],
+    "wof:brand_id":1125152279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TDk6kDhCCDE5uXkxSV8L2_44.435795_-73.170340@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311217,
-    "wof:geomhash":"9698f5db16d190db288faaf86677bf2d",
+    "wof:geomhash":"abf4e44d1eab080d99f53758c8c839d7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874047289,
-    "wof:lastmodified":1467088770,
+    "wof:lastmodified":1510613257,
     "wof:name":"GAB Robins",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",

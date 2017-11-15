@@ -2,14 +2,20 @@
   "id": 874134679,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Hull Ave Wallingford VT 05773",
+    "addr:housenumber":"14",
+    "addr:postcode":"05773",
+    "addr:street":"Hull Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.97671,43.473985,-72.97671,43.473985",
     "geom:latitude":43.473985,
     "geom:longitude":-72.97671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14 Hull Ave",
     "sg:city":"Wallingford",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85816133,
         102080771
     ],
+    "wof:brand_id":1125152859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GGGgMvuDbDy5BK3WJMBws_43.473985_-72.976710@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312188,
-    "wof:geomhash":"5599c537eea16fc71e324e6496b30cda",
+    "wof:geomhash":"212beac510f6681dc7348e82f4683185",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874134679,
-    "wof:lastmodified":1467088805,
+    "wof:lastmodified":1510613161,
     "wof:name":"Clean Sweep",
     "wof:parent_id":85816133,
     "wof:placetype":"venue",

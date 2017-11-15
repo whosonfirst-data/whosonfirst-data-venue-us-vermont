@@ -2,14 +2,20 @@
   "id": 874232843,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Depot St Enosburg Falls VT 05450",
+    "addr:housenumber":"33",
+    "addr:postcode":"05450",
+    "addr:street":"Depot St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.801919,44.908445,-72.801919,44.908445",
     "geom:latitude":44.908445,
     "geom:longitude":-72.801919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"33 Depot St",
     "sg:city":"Enosburg Falls",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85855641,
         102080729
     ],
+    "wof:brand_id":1125156193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68gubKcVh9kzruXTEGxclo_44.908445_-72.801919@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313197,
-    "wof:geomhash":"a7d68f763d958be79d9db1ebcdbf09c5",
+    "wof:geomhash":"d1014eeb68ed4f3191f15fb4eb865979",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874232843,
-    "wof:lastmodified":1467088845,
+    "wof:lastmodified":1510694763,
     "wof:name":"Aubuchon Hardware",
     "wof:parent_id":85855641,
     "wof:placetype":"venue",

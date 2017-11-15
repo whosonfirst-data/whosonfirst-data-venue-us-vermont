@@ -2,14 +2,20 @@
   "id": 874032037,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Belden Rd Rutland VT 05701",
+    "addr:housenumber":"80",
+    "addr:postcode":"05701",
+    "addr:street":"Belden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.992265,43.604536,-72.992265,43.604536",
     "geom:latitude":43.604536,
     "geom:longitude":-72.992265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"80 Belden Rd",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85802689,
         102080771
     ],
+    "wof:brand_id":420575689,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g8sHUkmFML999YgAOTGbu_43.604536_-72.992265@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464311066,
-    "wof:geomhash":"f0c958d57a5242928dee5c293090e692",
+    "wof:geomhash":"7a8f982ae0d1f882971b2cd522cb4930",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874032037,
-    "wof:lastmodified":1467088764,
+    "wof:lastmodified":1510602099,
     "wof:name":"Meals On Wheels",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",
