@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.214,44.479254,-73.214,44.479254",
     "geom:latitude":44.479254,
     "geom:longitude":-73.214,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"108 Cherry St Ste 202",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313625,
-    "wof:geomhash":"56d8131feb5c9d50d6ed6edd1cf477d1",
+    "wof:geomhash":"2b395cfc8a3e69cf93dec31009308c07",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":874253027,
-    "wof:lastmodified":1472652485,
+    "wof:lastmodified":1510944123,
     "wof:name":"Burlington Regional Office",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874087591
+    ],
     "wof:tags":[
         "government-united",
         "state"

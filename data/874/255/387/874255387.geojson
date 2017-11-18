@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.128118,44.448057,-73.128118,44.448057",
     "geom:latitude":44.448057,
     "geom:longitude":-73.128118,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"54 Echo Pl Ste 3",
     "sg:city":"Williston",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313684,
-    "wof:geomhash":"948826b639623ef8456e4222642cb247",
+    "wof:geomhash":"0f1b308d2aa0c43a60e6082c7a1c296d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":874255387,
-    "wof:lastmodified":1472652498,
+    "wof:lastmodified":1510942086,
     "wof:name":"Servpro Of Burlington",
     "wof:parent_id":85828531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874017151
+    ],
     "wof:tags":[]
 },
   "bbox": [

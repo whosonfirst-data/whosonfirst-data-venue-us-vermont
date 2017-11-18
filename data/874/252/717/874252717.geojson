@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.196503,44.480701,-73.196503,44.480701",
     "geom:latitude":44.480701,
     "geom:longitude":-73.196503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 Colchester Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313619,
-    "wof:geomhash":"5248316e7b5ec10c82c7f04ce46df2f2",
+    "wof:geomhash":"454f4e050fe0ef873fb123ba7d9f7a8e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":874252717,
-    "wof:lastmodified":1472652512,
+    "wof:lastmodified":1510942269,
     "wof:name":"Vermont Childrens Hospital",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874032433
+    ],
     "wof:tags":[]
 },
   "bbox": [

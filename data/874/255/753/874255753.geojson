@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.973511,43.600899,-72.973511,43.600899",
     "geom:latitude":43.600899,
     "geom:longitude":-72.973511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Scale Ave Ste 93",
     "sg:city":"Rutland",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313691,
-    "wof:geomhash":"b83d7234d01ccaeee848508ca413f4c3",
+    "wof:geomhash":"6c7d241ac076288726de452315de5ab5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":874255753,
-    "wof:lastmodified":1472652508,
+    "wof:lastmodified":1510943474,
     "wof:name":"Vermont Adult Learning",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874107067
+    ],
     "wof:tags":[
         "educational"
     ]
