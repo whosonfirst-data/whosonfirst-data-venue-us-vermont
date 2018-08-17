@@ -2,18 +2,24 @@
   "id": 874240175,
   "type": "Feature",
   "properties": {
-    "addr:full":"61 Colchester Ave Burlington VT 05405",
+    "addr:city":"Burlington",
+    "addr:full":"61 Colchester Ave Burlington, Vt 05405",
+    "addr:house_number":"61",
     "addr:housenumber":"61",
+    "addr:phone":"+1 802-656-0750",
     "addr:postcode":"05405",
+    "addr:road":"Colchester Ave",
+    "addr:state":"VT",
     "addr:street":"Colchester Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-73.1987,44.480643,-73.1987,44.480643",
-    "geom:latitude":44.480643,
-    "geom:longitude":-73.1987,
+    "geom:bbox":"-73.19887,44.48054,-73.19887,44.48054",
+    "geom:latitude":44.48054,
+    "geom:longitude":-73.19887,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"61 Colchester Ave",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -27,21 +33,25 @@
     "sg:phone":"+1 802 656 0750",
     "sg:postcode":"05405",
     "sg:province":"VT",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532853
+    ],
     "wof:belongsto":[
-        85688763,
+        85852901,
         85633793,
         101728313,
         102087451,
-        85852901
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405000031,
         "sg:id":"SG_4gP9lRmEYurk0WSvmO1CYn_44.480643_-73.198700@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313343,
-    "wof:geomhash":"f51f380fbaf65f8d94e357c08e74ad30",
+    "wof:geomhash":"9f5dc95db8ac6b9b42845810e4a8e46d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":874240175,
-    "wof:lastmodified":1472652494,
-    "wof:name":"Fleming Museum Of UVM",
+    "wof:lastmodified":1534535336,
+    "wof:name":"Fleming Museum Of Uvm",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.1987,
-    44.480643,
-    -73.1987,
-    44.480643
+    -73.19887,
+    44.48054,
+    -73.19887,
+    44.48054
 ],
-  "geometry": {"coordinates":[-73.1987,44.480643],"type":"Point"}
+  "geometry": {"coordinates":[-73.19887,44.48054],"type":"Point"}
 }

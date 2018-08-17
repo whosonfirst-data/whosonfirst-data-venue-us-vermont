@@ -7,6 +7,7 @@
     "addr:postcode":"05860",
     "addr:street":"Cross St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.204973,44.810292,-72.204973,44.810292",
@@ -14,6 +15,7 @@
     "geom:longitude":-72.204973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"99 Cross St",
     "sg:city":"Orleans",
     "sg:classifiers":[
@@ -28,22 +30,26 @@
     "sg:postcode":"05860",
     "sg:province":"VT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420545911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CdXsZuy2d4ea5UTAICDwm_44.810292_-72.204973@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313380,
-    "wof:geomhash":"217f9b2b7d2958f68f57ba6f2be2b118",
+    "wof:geomhash":"06610a3a5a88cbb241ba93d3f0240e81",
     "wof:hierarchy":[],
     "wof:id":874242191,
-    "wof:lastmodified":1472652491,
+    "wof:lastmodified":1534535334,
     "wof:name":"Lakefront Express Mart & Deli",
     "wof:parent_id":420545911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874028397
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

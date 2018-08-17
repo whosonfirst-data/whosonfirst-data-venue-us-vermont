@@ -14,6 +14,7 @@
     "geom:longitude":-73.154876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 Kimball Ave",
     "sg:city":"South Burlington",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312318,
-    "wof:geomhash":"ea48c6acbb8c6a476370dfbb79c5c433",
+    "wof:geomhash":"e1c0f0b2504a0003a2154e370974b29f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":874148775,
-    "wof:lastmodified":1472652448,
+    "wof:lastmodified":1534535334,
     "wof:name":"Full Stride Inc",
     "wof:parent_id":85828531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874204715
+    ],
     "wof:tags":[
         "club",
         "hockey"

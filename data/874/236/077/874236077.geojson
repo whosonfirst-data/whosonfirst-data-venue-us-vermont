@@ -7,6 +7,7 @@
     "addr:postcode":"05488",
     "addr:street":"Monument Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.145232,44.945485,-73.145232,44.945485",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.145232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"314 Monument Rd",
     "sg:city":"Swanton",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1464313263,
-    "wof:geomhash":"41ace8a7583a0230cb2e7f0309bd269e",
+    "wof:geomhash":"8f15fc093edfa62bf260787f3acd3062",
     "wof:hierarchy":[],
     "wof:id":874236077,
-    "wof:lastmodified":1472652480,
+    "wof:lastmodified":1534535335,
     "wof:name":"Dubois & Vanslette Fence & Gua",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874255101
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

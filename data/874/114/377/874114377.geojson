@@ -14,6 +14,7 @@
     "geom:longitude":-72.499263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"103 S Main St",
     "sg:city":"Waterbury",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464311981,
-    "wof:geomhash":"fc5c22c4b8a1c1b6155efe6e3e7fd218",
+    "wof:geomhash":"03675c7f46ea8f9c64b79ee5cec4d43f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":874114377,
-    "wof:lastmodified":1472652433,
+    "wof:lastmodified":1534535334,
     "wof:name":"Child Support Vermont Office",
     "wof:parent_id":85868269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874105495
+    ],
     "wof:tags":[
         "human"
     ]

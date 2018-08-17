@@ -7,6 +7,7 @@
     "addr:postcode":"05446",
     "addr:street":"Poor Farm Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.179462,44.535737,-73.179462,44.535737",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.179462,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"825 Poor Farm Rd",
     "sg:city":"Colchester",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312808,
-    "wof:geomhash":"4b732ffd72454d0d0ea73930d806fcc3",
+    "wof:geomhash":"4aa66118c856a719a660493b86eb0bd9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":874196265,
-    "wof:lastmodified":1472652470,
+    "wof:lastmodified":1534535335,
     "wof:name":"Schroder Dnald Mstr Elctrician",
     "wof:parent_id":85848449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874254097
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical",

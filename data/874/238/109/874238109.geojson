@@ -2,18 +2,24 @@
   "id": 874238109,
   "type": "Feature",
   "properties": {
-    "addr:full":"1611 Harbor Rd Shelburne VT 05482",
+    "addr:city":"Shelburne",
+    "addr:full":"1611 Harbor Road Shelburne, Vt 05482",
+    "addr:house_number":"1611",
     "addr:housenumber":"1611",
+    "addr:phone":"+1 802-985-0326",
     "addr:postcode":"05482",
+    "addr:road":"Harbor Road",
+    "addr:state":"VT",
     "addr:street":"Harbor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-73.251688,44.414559,-73.251688,44.414559",
-    "geom:latitude":44.414559,
-    "geom:longitude":-73.251688,
+    "geom:bbox":"-73.24751,44.40754,-73.24751,44.40754",
+    "geom:latitude":44.40754,
+    "geom:longitude":-73.24751,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1611 Harbor Rd",
     "sg:city":"Shelburne",
     "sg:classifiers":[
@@ -33,18 +39,22 @@
         "mfg"
     ],
     "sg:website":"www.shelburnefarms.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532853
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501789,
         "sg:id":"SG_25cKdVCDSjchwaHQ2nB7CJ_44.414559_-73.251688@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464313304,
-    "wof:geomhash":"685612ae322d789bbf6e792db5759d0f",
+    "wof:geomhash":"a770f9f2eb3c26282171a09e053a39c4",
     "wof:hierarchy":[],
     "wof:id":874238109,
-    "wof:lastmodified":1472652483,
+    "wof:lastmodified":1534535336,
     "wof:name":"Shelburne Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,10 +68,10 @@
     ]
 },
   "bbox": [
-    -73.251688,
-    44.414559,
-    -73.251688,
-    44.414559
+    -73.24751,
+    44.40754,
+    -73.24751,
+    44.40754
 ],
-  "geometry": {"coordinates":[-73.251688,44.414559],"type":"Point"}
+  "geometry": {"coordinates":[-73.24751000000001,44.40754],"type":"Point"}
 }

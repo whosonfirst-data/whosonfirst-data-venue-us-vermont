@@ -14,6 +14,7 @@
     "geom:longitude":-72.973206,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"70 N Main St",
     "sg:city":"Rutland",
     "sg:classifiers":[],
@@ -35,7 +36,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313692,
-    "wof:geomhash":"899cd89cc553b8d485e19ba7e2bc25f2",
+    "wof:geomhash":"a7fe84d612b9ebc5e26d4f19cd67ee44",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,13 +47,15 @@
         }
     ],
     "wof:id":874255825,
-    "wof:lastmodified":1472652508,
+    "wof:lastmodified":1534535335,
     "wof:name":"The Inn At Rutland",
     "wof:parent_id":85802689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874109863
+    ],
     "wof:tags":[]
 },
   "bbox": [

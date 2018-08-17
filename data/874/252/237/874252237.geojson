@@ -14,6 +14,7 @@
     "geom:longitude":-72.571622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"765 Middle Rd",
     "sg:city":"Brattleboro",
     "sg:classifiers":[
@@ -63,7 +64,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313609,
-    "wof:geomhash":"88297f34dd5f11e1eb1a149736c80299",
+    "wof:geomhash":"fe073cb1ad4ffd9b3b78a62b19ac8532",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -74,13 +75,15 @@
         }
     ],
     "wof:id":874252237,
-    "wof:lastmodified":1472652494,
+    "wof:lastmodified":1534535335,
     "wof:name":"Jenkins Construction Co",
     "wof:parent_id":85857895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874086863
+    ],
     "wof:tags":[
         "industrial",
         "electrician",

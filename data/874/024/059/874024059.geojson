@@ -14,6 +14,7 @@
     "geom:longitude":-72.214712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Main St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -32,23 +33,27 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420545905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mIfhal4bALi2Cji1Xe4gW_44.933833_-72.214712@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310984,
-    "wof:geomhash":"36ae8d3ac9b0176d1cb5fa0744b5343b",
+    "wof:geomhash":"edb2837147482e0351fa73e355231509",
     "wof:hierarchy":[],
     "wof:id":874024059,
-    "wof:lastmodified":1472652378,
+    "wof:lastmodified":1534535334,
     "wof:name":"Community Financial Svc Group",
     "wof:parent_id":420545905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874145509
+    ],
     "wof:tags":[
         "advisory",
         "financial"

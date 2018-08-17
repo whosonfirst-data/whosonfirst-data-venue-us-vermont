@@ -14,6 +14,7 @@
     "geom:longitude":-73.133698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Market Pl",
     "sg:city":"Essex Junction",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312226,
-    "wof:geomhash":"bbdff3ab6ffa79b4e86bcfb783b4194d",
+    "wof:geomhash":"431392250cb556e9673cc0bf64488f6e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":874138951,
-    "wof:lastmodified":1472652448,
+    "wof:lastmodified":1534535334,
     "wof:name":"Bessette Insurance Service",
     "wof:parent_id":85840199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874136285
+    ],
     "wof:tags":[
         "security"
     ]

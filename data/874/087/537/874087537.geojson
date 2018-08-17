@@ -14,6 +14,7 @@
     "geom:longitude":-73.210345,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1233 Shelburne Rd",
     "sg:city":"South Burlington",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464311636,
-    "wof:geomhash":"26b2302d6ff4caecb2d98e61e4ad5d5c",
+    "wof:geomhash":"ee1a412b59f66005aebcd573fd0ceb5c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":874087537,
-    "wof:lastmodified":1472652414,
+    "wof:lastmodified":1534535334,
     "wof:name":"Photo Micrographics",
     "wof:parent_id":85852901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874077721
+    ],
     "wof:tags":[
         "equipment",
         "microfilming"

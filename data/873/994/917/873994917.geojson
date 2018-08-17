@@ -7,6 +7,7 @@
     "addr:postcode":"05201",
     "addr:street":"Veterans Memorial Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.197878,42.888552,-73.197878,42.888552",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.197878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 Veterans Memorial Dr",
     "sg:city":"Bennington",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464310725,
-    "wof:geomhash":"0a758fe44ff1935029624e4929811c73",
+    "wof:geomhash":"9ef1a1fc9455eb4c0bcfa7a3aa68479e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":873994917,
-    "wof:lastmodified":1472652398,
+    "wof:lastmodified":1534535334,
     "wof:name":"Bennington Family Courts",
     "wof:parent_id":85868797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874169755
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

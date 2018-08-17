@@ -7,6 +7,7 @@
     "addr:postcode":"05855",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.214712,44.933833,-72.214712,44.933833",
@@ -14,6 +15,7 @@
     "geom:longitude":-72.214712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 Main St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -31,22 +33,26 @@
         "trust"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420545905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4stnntz0mNu7m9zVLjoMtA_44.933833_-72.214712@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312284,
-    "wof:geomhash":"36ae8d3ac9b0176d1cb5fa0744b5343b",
+    "wof:geomhash":"edb2837147482e0351fa73e355231509",
     "wof:hierarchy":[],
     "wof:id":874145509,
-    "wof:lastmodified":1472652448,
+    "wof:lastmodified":1534535334,
     "wof:name":"Community Fincl Svcs Group LLC",
     "wof:parent_id":420545905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874024059
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "trust"

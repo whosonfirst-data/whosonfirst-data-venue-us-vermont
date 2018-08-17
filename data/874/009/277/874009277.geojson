@@ -7,6 +7,7 @@
     "addr:postcode":"05602",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.575833,44.259432,-72.575833,44.259432",
@@ -14,6 +15,7 @@
     "geom:longitude":-72.575833,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"39 Main St",
     "sg:city":"Montpelier",
     "sg:classifiers":[
@@ -31,22 +33,26 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420545947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23AqlmdlNxeL7gFWxCkH97_44.259432_-72.575833@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464310850,
-    "wof:geomhash":"b3e05957aa3dfe7437a467cead61ff6e",
+    "wof:geomhash":"9d9dca8251e4b4c6137a7b23076e032d",
     "wof:hierarchy":[],
     "wof:id":874009277,
-    "wof:lastmodified":1472652379,
+    "wof:lastmodified":1534535334,
     "wof:name":"City Manager",
     "wof:parent_id":420545947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874044785
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"

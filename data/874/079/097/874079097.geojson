@@ -14,6 +14,7 @@
     "geom:longitude":-73.079004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21 Essex Way",
     "sg:city":"Essex Junction",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464311543,
-    "wof:geomhash":"0d036b74862239b1be55cdf495e577ee",
+    "wof:geomhash":"71c7147eb068ee0dcb1f0b0dc53afcc4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":874079097,
-    "wof:lastmodified":1472652409,
+    "wof:lastmodified":1534535334,
     "wof:name":"Springmaid",
     "wof:parent_id":85808675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874069919
+    ],
     "wof:tags":[
         "bedding"
     ]

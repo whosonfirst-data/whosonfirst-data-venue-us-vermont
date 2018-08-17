@@ -2,18 +2,24 @@
   "id": 874182927,
   "type": "Feature",
   "properties": {
-    "addr:full":"4963 Main St Manchester Ctr VT 05255",
+    "addr:city":"Manchester Center",
+    "addr:full":"4963 Main St Manchester Center, Vt 05255",
+    "addr:house_number":"4963",
     "addr:housenumber":"4963",
+    "addr:phone":"+1 802-362-3435",
     "addr:postcode":"05255",
+    "addr:road":"Main St",
+    "addr:state":"VT",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-73.05685,43.176935,-73.05685,43.176935",
-    "geom:latitude":43.176935,
-    "geom:longitude":-73.05685,
+    "geom:bbox":"-73.05536,43.17746,-73.05536,43.17746",
+    "geom:latitude":43.17746,
+    "geom:longitude":-73.05536,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4963 Main St",
     "sg:city":"Manchester Ctr",
     "sg:classifiers":[
@@ -33,21 +39,23 @@
         "dealer"
     ],
     "sg:website":"www.longagoandfaraway.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688763,
+        85868265,
         85633793,
         101728291,
         102087439,
-        85868265
+        85688763
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405000030,
         "sg:id":"SG_3FbM7pzAXkAZAo6WiWiTLX_43.176935_-73.056850@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312659,
-    "wof:geomhash":"8bdb68375f28ff66bf778d15b9c3257a",
+    "wof:geomhash":"18bf772ee3e9cc2a1019488e885ffc2b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,8 +67,8 @@
         }
     ],
     "wof:id":874182927,
-    "wof:lastmodified":1472652485,
-    "wof:name":"Long Ago & Far Away",
+    "wof:lastmodified":1534535335,
+    "wof:name":"Long Ago And Far Away",
     "wof:parent_id":85868265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
@@ -73,10 +81,10 @@
     ]
 },
   "bbox": [
-    -73.05685,
-    43.176935,
-    -73.05685,
-    43.176935
+    -73.05536,
+    43.17746,
+    -73.05536,
+    43.17746
 ],
-  "geometry": {"coordinates":[-73.05685,43.176935],"type":"Point"}
+  "geometry": {"coordinates":[-73.05535999999999,43.17746],"type":"Point"}
 }

@@ -14,6 +14,7 @@
     "geom:longitude":-73.08828,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 Houghton St",
     "sg:city":"Saint Albans",
     "sg:classifiers":[
@@ -32,23 +33,27 @@
         "administrative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420545875
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_472g2UTRvFIXgSvHzPs4hQ_44.810397_-73.088280@1294252573"
     },
     "wof:country":"US",
     "wof:created":1464312706,
-    "wof:geomhash":"b3d3752db885bf882bcd46091d9bd316",
+    "wof:geomhash":"1733d8daf0954c47d7aad7c2d52b44d0",
     "wof:hierarchy":[],
     "wof:id":874186655,
-    "wof:lastmodified":1472652483,
+    "wof:lastmodified":1534535334,
     "wof:name":"Employment & Training VT Dept",
     "wof:parent_id":420545875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-vt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874070131
+    ],
     "wof:tags":[
         "program",
         "administrative"
